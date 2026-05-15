@@ -33,19 +33,19 @@ export default function Home() {
           </p>
         </div>
 
-        <ul className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
+        <ul className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4 auto-rows-fr">
           {tiles.map((t) => {
             const hasAny =
               t.wardCount > 0 || t.statsCategories > 0 || t.absconderCount > 0;
             return (
-              <li key={t.id}>
-                <Link href={`/${t.id}`} className="block group">
-                  <Card className="transition-colors group-hover:bg-accent/40 group-hover:border-foreground/20">
+              <li key={t.id} className="h-full">
+                <Link href={`/${t.id}`} className="block group h-full">
+                  <Card className="h-full flex flex-col transition-colors group-hover:bg-accent/40 group-hover:border-foreground/20">
                     <CardHeader className="pb-3">
                       <CardTitle className="text-lg">{t.name}</CardTitle>
                       <p className="text-xs text-muted-foreground">{t.state}</p>
                     </CardHeader>
-                    <CardContent className="flex flex-wrap items-center gap-2">
+                    <CardContent className="mt-auto flex flex-wrap items-center gap-2">
                       {t.wardCount > 0 ? (
                         <Badge
                           variant={
