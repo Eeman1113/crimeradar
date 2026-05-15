@@ -3,10 +3,10 @@
 import { useMemo, useState } from "react";
 import { useTheme } from "next-themes";
 import {
-  Bar,
-  BarChart,
   CartesianGrid,
   Legend,
+  Line,
+  LineChart,
   ResponsiveContainer,
   Tooltip,
   XAxis,
@@ -73,7 +73,7 @@ export default function AnnualTrendChart({
       </p>
       <div className="h-72 w-full">
         <ResponsiveContainer width="100%" height="100%">
-          <BarChart
+          <LineChart
             data={data}
             margin={{ top: 8, right: 16, left: 0, bottom: 0 }}
           >
@@ -101,7 +101,6 @@ export default function AnnualTrendChart({
                 fontSize: 12,
               }}
               labelStyle={{ fontWeight: 600 }}
-              cursor={{ fill: isDark ? "#27272a55" : "#e4e4e755" }}
             />
             <Legend
               wrapperStyle={{ fontSize: 11 }}
@@ -117,17 +116,20 @@ export default function AnnualTrendChart({
             />
             {SERIES.map(({ cat, color }) =>
               hidden.has(cat) ? null : (
-                <Bar
+                <Line
                   key={cat}
+                  type="monotone"
                   dataKey={cat}
                   name={CRIME_CATEGORY_LABELS[cat]}
-                  stackId="a"
-                  fill={color}
+                  stroke={color}
+                  strokeWidth={1.8}
+                  dot={{ r: 2.5 }}
+                  activeDot={{ r: 4 }}
                   isAnimationActive={false}
                 />
               ),
             )}
-          </BarChart>
+          </LineChart>
         </ResponsiveContainer>
       </div>
     </div>
