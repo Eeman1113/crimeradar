@@ -1,42 +1,4 @@
-import { WARDS_SEED as MUMBAI_SEED } from "@/data/cities/mumbai/wards-raw";
-import { WARDS_SEED as BANGALORE_SEED } from "@/data/cities/bangalore/wards-raw";
-import { WARDS_SEED as DELHI_SEED } from "@/data/cities/delhi/wards-raw";
-import { WARDS_SEED as CHENNAI_SEED } from "@/data/cities/chennai/wards-raw";
-import { WARDS_SEED as HYDERABAD_SEED } from "@/data/cities/hyderabad/wards-raw";
-import { WARDS_SEED as KOLKATA_SEED } from "@/data/cities/kolkata/wards-raw";
-import { WARDS_SEED as PUNE_SEED } from "@/data/cities/pune/wards-raw";
-import { WARDS_SEED as GURUGRAM_SEED } from "@/data/cities/gurugram/wards-raw";
-import { WARDS_SEED as NOIDA_SEED } from "@/data/cities/noida/wards-raw";
-
-import mumbaiStatsJson from "@/data/cities/mumbai/monthly_stats.json";
-import bangaloreStatsJson from "@/data/cities/bangalore/monthly_stats.json";
-import delhiStatsJson from "@/data/cities/delhi/monthly_stats.json";
-import chennaiStatsJson from "@/data/cities/chennai/monthly_stats.json";
-import hyderabadStatsJson from "@/data/cities/hyderabad/monthly_stats.json";
-import kolkataStatsJson from "@/data/cities/kolkata/monthly_stats.json";
-import puneStatsJson from "@/data/cities/pune/monthly_stats.json";
-import gurugramStatsJson from "@/data/cities/gurugram/monthly_stats.json";
-import noidaStatsJson from "@/data/cities/noida/monthly_stats.json";
-
-import mumbaiHistoryJson from "@/data/cities/mumbai/monthly_stats_history.json";
-import bangaloreHistoryJson from "@/data/cities/bangalore/monthly_stats_history.json";
-import delhiHistoryJson from "@/data/cities/delhi/monthly_stats_history.json";
-import chennaiHistoryJson from "@/data/cities/chennai/monthly_stats_history.json";
-import hyderabadHistoryJson from "@/data/cities/hyderabad/monthly_stats_history.json";
-import kolkataHistoryJson from "@/data/cities/kolkata/monthly_stats_history.json";
-import puneHistoryJson from "@/data/cities/pune/monthly_stats_history.json";
-import gurugramHistoryJson from "@/data/cities/gurugram/monthly_stats_history.json";
-import noidaHistoryJson from "@/data/cities/noida/monthly_stats_history.json";
-
-import mumbaiNewsJson from "@/data/cities/mumbai/ward_news.json";
-import bangaloreNewsJson from "@/data/cities/bangalore/ward_news.json";
-import delhiNewsJson from "@/data/cities/delhi/ward_news.json";
-import chennaiNewsJson from "@/data/cities/chennai/ward_news.json";
-import hyderabadNewsJson from "@/data/cities/hyderabad/ward_news.json";
-import kolkataNewsJson from "@/data/cities/kolkata/ward_news.json";
-import puneNewsJson from "@/data/cities/pune/ward_news.json";
-import gurugramNewsJson from "@/data/cities/gurugram/ward_news.json";
-import noidaNewsJson from "@/data/cities/noida/ward_news.json";
+import { SEEDS, STATS_JSON, HISTORY_JSON, NEWS_JSON, type WardSeed } from "./wards.generated";
 
 import { normalizeScores, rawScore, rawWomenScore } from "./risk";
 import { absconderFileSources } from "./absconders";
@@ -49,7 +11,7 @@ import {
 } from "./types";
 import type { CityId } from "./cities";
 
-type WardSeedFile = typeof MUMBAI_SEED;
+type WardSeedFile = WardSeed[];
 
 type MonthlyStats = {
   source: string | null;
@@ -61,29 +23,7 @@ type MonthlyStats = {
   notes?: string;
 };
 
-const SEEDS: Record<CityId, WardSeedFile> = {
-  mumbai: MUMBAI_SEED,
-  bangalore: BANGALORE_SEED,
-  delhi: DELHI_SEED,
-  chennai: CHENNAI_SEED,
-  hyderabad: HYDERABAD_SEED,
-  kolkata: KOLKATA_SEED,
-  pune: PUNE_SEED,
-  gurugram: GURUGRAM_SEED,
-  noida: NOIDA_SEED,
-};
-
-const STATS: Record<CityId, MonthlyStats> = {
-  mumbai: mumbaiStatsJson as MonthlyStats,
-  bangalore: bangaloreStatsJson as MonthlyStats,
-  delhi: delhiStatsJson as MonthlyStats,
-  chennai: chennaiStatsJson as MonthlyStats,
-  hyderabad: hyderabadStatsJson as MonthlyStats,
-  kolkata: kolkataStatsJson as MonthlyStats,
-  pune: puneStatsJson as MonthlyStats,
-  gurugram: gurugramStatsJson as MonthlyStats,
-  noida: noidaStatsJson as MonthlyStats,
-};
+const STATS = STATS_JSON as Record<CityId, MonthlyStats>;
 
 const FALLBACK_SEEDED_AT = "2026-05-15";
 
@@ -253,17 +193,7 @@ type HistoryFile = {
   notes?: string;
 };
 
-const HISTORIES: Record<CityId, HistoryFile> = {
-  mumbai: mumbaiHistoryJson as HistoryFile,
-  bangalore: bangaloreHistoryJson as HistoryFile,
-  delhi: delhiHistoryJson as HistoryFile,
-  chennai: chennaiHistoryJson as HistoryFile,
-  hyderabad: hyderabadHistoryJson as HistoryFile,
-  kolkata: kolkataHistoryJson as HistoryFile,
-  pune: puneHistoryJson as HistoryFile,
-  gurugram: gurugramHistoryJson as HistoryFile,
-  noida: noidaHistoryJson as HistoryFile,
-};
+const HISTORIES = HISTORY_JSON as Record<CityId, HistoryFile>;
 
 export type SearchIndexEntry = {
   city: CityId;
@@ -304,6 +234,26 @@ export function searchWards(query: string, limit = 12): SearchIndexEntry[] {
   ).slice(0, limit);
 }
 
+export type CitySearchHit = { id: CityId; name: string; state: string };
+
+import { CITIES, CITY_IDS } from "./cities";
+
+export function searchCities(query: string, limit = 12): CitySearchHit[] {
+  const q = query.trim().toLowerCase();
+  const all: CitySearchHit[] = CITY_IDS.map((id) => ({
+    id,
+    name: CITIES[id].name,
+    state: CITIES[id].state,
+  }));
+  if (!q) return all.slice(0, limit);
+  return all
+    .filter(
+      (c) =>
+        c.name.toLowerCase().includes(q) || c.state.toLowerCase().includes(q),
+    )
+    .slice(0, limit);
+}
+
 export type NewsItem = {
   title: string;
   link: string;
@@ -322,17 +272,7 @@ type WardNewsFile = {
   notes?: string;
 };
 
-const NEWS: Record<CityId, WardNewsFile> = {
-  mumbai: mumbaiNewsJson as WardNewsFile,
-  bangalore: bangaloreNewsJson as WardNewsFile,
-  delhi: delhiNewsJson as WardNewsFile,
-  chennai: chennaiNewsJson as WardNewsFile,
-  hyderabad: hyderabadNewsJson as WardNewsFile,
-  kolkata: kolkataNewsJson as WardNewsFile,
-  pune: puneNewsJson as WardNewsFile,
-  gurugram: gurugramNewsJson as WardNewsFile,
-  noida: noidaNewsJson as WardNewsFile,
-};
+const NEWS = NEWS_JSON as Record<CityId, WardNewsFile>;
 
 export function wardNews(city: CityId, wardId: string): NewsItem[] {
   return NEWS[city]?.wards?.[wardId]?.items ?? [];

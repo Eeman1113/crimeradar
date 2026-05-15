@@ -4,8 +4,10 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
+    "prebuild": "node scripts/codegen_cities.mjs",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "codegen:cities": "node scripts/codegen_cities.mjs"
   },
   "dependencies": {
     "@turf/area": "^7.3.5",

@@ -1,12 +1,4 @@
-import mumbai from "@/data/cities/mumbai/absconders.json";
-import bangalore from "@/data/cities/bangalore/absconders.json";
-import delhi from "@/data/cities/delhi/absconders.json";
-import chennai from "@/data/cities/chennai/absconders.json";
-import hyderabad from "@/data/cities/hyderabad/absconders.json";
-import kolkata from "@/data/cities/kolkata/absconders.json";
-import pune from "@/data/cities/pune/absconders.json";
-import gurugram from "@/data/cities/gurugram/absconders.json";
-import noida from "@/data/cities/noida/absconders.json";
+import { ABSCONDERS_JSON } from "./absconders.generated";
 
 import type { CityId } from "./cities";
 
@@ -29,17 +21,7 @@ export type AbsconderFile = {
   notes: string;
 };
 
-const FILES: Record<CityId, AbsconderFile> = {
-  mumbai: mumbai as AbsconderFile,
-  bangalore: bangalore as AbsconderFile,
-  delhi: delhi as AbsconderFile,
-  chennai: chennai as AbsconderFile,
-  hyderabad: hyderabad as AbsconderFile,
-  kolkata: kolkata as AbsconderFile,
-  pune: pune as AbsconderFile,
-  gurugram: gurugram as AbsconderFile,
-  noida: noida as AbsconderFile,
-};
+const FILES = ABSCONDERS_JSON as Record<CityId, AbsconderFile>;
 
 const INDEXES: Record<CityId, Map<string, Absconder>> = Object.fromEntries(
   (Object.keys(FILES) as CityId[]).map((c) => [
