@@ -5,6 +5,7 @@ import WardMap from "@/components/Map/WardMap";
 import LocateMeButton from "@/components/Map/LocateMeButton";
 import NightToggle from "@/components/NightToggle";
 import RankList from "@/components/RankList";
+import CityStatsCard from "@/components/CityStatsCard";
 import { CITY_IDS, getCity, isCityId } from "@/lib/cities";
 import { cityDataQuality, listWards } from "@/lib/wards";
 
@@ -92,6 +93,7 @@ export default async function CityHome({
           </Suspense>
         </div>
         <aside className="flex flex-col gap-6">
+          <CityStatsCard city={city} />
           {wards.length > 0 ? (
             <>
               <Suspense fallback={null}>
@@ -107,10 +109,9 @@ export default async function CityHome({
                 Per-area data coming
               </h3>
               <p className="text-xs text-zinc-400">
-                {cfg.name}&apos;s police force publishes city-aggregate
-                statistics, but per-{cfg.unit} data isn&apos;t public. We will
-                surface the city-level numbers and any absconder list once the
-                ingest scripts are wired up.
+                {cfg.name}&apos;s police force publishes data only at the
+                city-aggregate level — see above. Per-{cfg.unit} heatmaps need
+                station-level data that isn&apos;t public yet.
               </p>
             </div>
           )}

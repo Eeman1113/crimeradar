@@ -1,0 +1,23 @@
+{
+  "source": "https://data.opencity.in/dataset/178dac25-3381-4fd3-8793-66b77ffd549a/resource/899d2a98-20fc-4627-b202-a04a5aef387e/download/tn_2023_ipc_sll_2021_23_totals.csv",
+  "extraSources": [
+    "https://data.opencity.in/dataset/178dac25-3381-4fd3-8793-66b77ffd549a/resource/65ec76d5-44dc-4b69-ade3-95c2f9b4b813/download/tn_2023_crimes_against_women.csv",
+    "https://data.opencity.in/dataset/178dac25-3381-4fd3-8793-66b77ffd549a/resource/155446ea-d156-4738-908c-30b1bba80234/download/tn_2023_muder_homicide_negligence.csv"
+  ],
+  "indexUrl": "https://data.opencity.in/dataset/tamil-nadu-crime-data-2023",
+  "publishedFor": {
+    "year": 2023
+  },
+  "scrapedAt": "2026-05-15T13:30:13.720Z",
+  "cityWideYtdTotals": {
+    "assault": 94,
+    "sexual_offence": 22,
+    "harassment": 226
+  },
+  "cityTotals": {
+    "ipc_2023": 15698,
+    "sll_2023": 20804,
+    "total_2023": 36502
+  },
+  "notes": "Annual 2023 figures for Chennai district, pulled from OpenCity-hosted Tamil Nadu Police CSVs (no 2024/2025 published yet at scrape time). Categories mapped to CrimeRadar taxonomy: assault = Assault on Women + Murder; sexual_offence = Rape + Attempt; harassment = Outraging Modesty + Sexual Harassment + Stalking. Theft / robbery / kidnapping / burglary are not present in the women-crime CSV."
+}

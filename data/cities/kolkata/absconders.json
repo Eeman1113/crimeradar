@@ -1,7 +1,88 @@
 {
-  "source": null,
-  "scrapedAt": null,
-  "count": 0,
-  "absconders": [],
-  "notes": "Awaiting research on whether Kolkata / West Bengal police publishes a public absconder list."
+  "source": "https://cid.wb.gov.in/cid_records/wanted_criminals",
+  "scrapedAt": "2026-05-15T13:28:36.031Z",
+  "count": 10,
+  "absconders": [
+    {
+      "id": "28bfa0bbc11a",
+      "name": "MANISH SINGH",
+      "isOrganisation": false,
+      "caseRef": null,
+      "section": "Most Wanted (WB CID)",
+      "sourceUrl": "https://cid.wb.gov.in/cid_records/wanted_criminals"
+    },
+    {
+      "id": "774d76feee95",
+      "name": "BUBAI SINGH",
+      "isOrganisation": false,
+      "caseRef": "alias Sujay Singh",
+      "section": "Most Wanted (WB CID)",
+      "sourceUrl": "https://cid.wb.gov.in/cid_records/wanted_criminals"
+    },
+    {
+      "id": "4e4a8dfdb784",
+      "name": "LALTU GHOSH",
+      "isOrganisation": false,
+      "caseRef": null,
+      "section": "Most Wanted (WB CID)",
+      "sourceUrl": "https://cid.wb.gov.in/cid_records/wanted_criminals"
+    },
+    {
+      "id": "26aa63a70515",
+      "name": "BABAI SAHA",
+      "isOrganisation": false,
+      "caseRef": "alias Lengra Banti",
+      "section": "Most Wanted (WB CID)",
+      "sourceUrl": "https://cid.wb.gov.in/cid_records/wanted_criminals"
+    },
+    {
+      "id": "9d42d02560ae",
+      "name": "ROHIT SK",
+      "isOrganisation": false,
+      "caseRef": "alias Kalu",
+      "section": "Most Wanted (WB CID)",
+      "sourceUrl": "https://cid.wb.gov.in/cid_records/wanted_criminals"
+    },
+    {
+      "id": "746b54795a3a",
+      "name": "SANTOSH KUMAR SHARMA",
+      "isOrganisation": false,
+      "caseRef": "alias Sanjoy",
+      "section": "Most Wanted (WB CID)",
+      "sourceUrl": "https://cid.wb.gov.in/cid_records/wanted_criminals"
+    },
+    {
+      "id": "9ce673e1c509",
+      "name": "KRUNAL PATEL",
+      "isOrganisation": false,
+      "caseRef": "alias Krunal Girish Bhai Patel",
+      "section": "Most Wanted (WB CID)",
+      "sourceUrl": "https://cid.wb.gov.in/cid_records/wanted_criminals"
+    },
+    {
+      "id": "dff257cb2f2d",
+      "name": "KARAN NILESH KUMAR PATEL",
+      "isOrganisation": false,
+      "caseRef": "alias karan",
+      "section": "Most Wanted (WB CID)",
+      "sourceUrl": "https://cid.wb.gov.in/cid_records/wanted_criminals"
+    },
+    {
+      "id": "ad8336fe9059",
+      "name": "SANDIP GUPTA",
+      "isOrganisation": false,
+      "caseRef": "alias Sandi",
+      "section": "Most Wanted (WB CID)",
+      "sourceUrl": "https://cid.wb.gov.in/cid_records/wanted_criminals"
+    },
+    {
+      "id": "be1e8746cd59",
+      "name": "SAFIK LASKAR",
+      "isOrganisation": false,
+      "caseRef": "alias Pintu Laskar @ Safique Laskar",
+      "section": "Most Wanted (WB CID)",
+      "sourceUrl": "https://cid.wb.gov.in/cid_records/wanted_criminals"
+    }
+  ],
+  "notes": "Names republished from the West Bengal CID Most Wanted Criminals page. We store only the name and alias (when meaningful) — father's name and age shown on the source page are intentionally stripped to align with our DPDP-minimum naming policy. This list is West Bengal-wide; Kolkata City Police does not separately publish a public absconder list, so the city page surfaces this state-level list."
 }

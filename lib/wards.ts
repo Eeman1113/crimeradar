@@ -6,6 +6,11 @@ import { WARDS_SEED as HYDERABAD_SEED } from "@/data/cities/hyderabad/wards-raw"
 import { WARDS_SEED as KOLKATA_SEED } from "@/data/cities/kolkata/wards-raw";
 
 import mumbaiStatsJson from "@/data/cities/mumbai/monthly_stats.json";
+import bangaloreStatsJson from "@/data/cities/bangalore/monthly_stats.json";
+import delhiStatsJson from "@/data/cities/delhi/monthly_stats.json";
+import chennaiStatsJson from "@/data/cities/chennai/monthly_stats.json";
+import hyderabadStatsJson from "@/data/cities/hyderabad/monthly_stats.json";
+import kolkataStatsJson from "@/data/cities/kolkata/monthly_stats.json";
 
 import { normalizeScores, rawScore } from "./risk";
 import type {
@@ -19,11 +24,12 @@ import type { CityId } from "./cities";
 type WardSeedFile = typeof MUMBAI_SEED;
 
 type MonthlyStats = {
-  source: string;
-  indexUrl: string;
-  publishedFor: { year: number; month: number } | null;
-  scrapedAt: string;
+  source: string | null;
+  indexUrl?: string;
+  publishedFor: { year: number; month?: number } | null;
+  scrapedAt: string | null;
   cityWideYtdTotals: Partial<Record<CrimeCategory, number>>;
+  notes?: string;
 };
 
 const SEEDS: Record<CityId, WardSeedFile> = {
@@ -35,8 +41,13 @@ const SEEDS: Record<CityId, WardSeedFile> = {
   kolkata: KOLKATA_SEED,
 };
 
-const STATS: Partial<Record<CityId, MonthlyStats>> = {
+const STATS: Record<CityId, MonthlyStats> = {
   mumbai: mumbaiStatsJson as MonthlyStats,
+  bangalore: bangaloreStatsJson as MonthlyStats,
+  delhi: delhiStatsJson as MonthlyStats,
+  chennai: chennaiStatsJson as MonthlyStats,
+  hyderabad: hyderabadStatsJson as MonthlyStats,
+  kolkata: kolkataStatsJson as MonthlyStats,
 };
 
 const FALLBACK_SEEDED_AT = "2026-05-15";

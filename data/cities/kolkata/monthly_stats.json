@@ -1,0 +1,8 @@
+{
+  "source": null,
+  "indexUrl": "https://www.data.gov.in/catalog/district-wise-crimes-under-various-sections-indian-penal-code-ipc-crimes",
+  "publishedFor": null,
+  "scrapedAt": null,
+  "cityWideYtdTotals": {},
+  "notes": "Pending ingest. NCRB publishes district-aggregate annual crime data via data.gov.in; Kolkata Police itself does not publish monthly stats PDFs. Scraper TBD."
+}
