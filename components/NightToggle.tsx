@@ -1,7 +1,9 @@
 "use client";
 
+import { Moon, Sun } from "lucide-react";
 import { usePathname, useRouter, useSearchParams } from "next/navigation";
 import { useTransition } from "react";
+import { Button } from "@/components/ui/button";
 
 export default function NightToggle() {
   const router = useRouter();
@@ -21,19 +23,20 @@ export default function NightToggle() {
   };
 
   return (
-    <button
-      type="button"
+    <Button
+      variant={isNight ? "default" : "outline"}
+      size="sm"
       onClick={flip}
       aria-pressed={isNight}
-      className={`inline-flex items-center gap-2 rounded-full border px-3 py-1.5 text-sm transition ${
-        isNight
-          ? "bg-indigo-600 border-indigo-500 text-white"
-          : "bg-zinc-900 border-zinc-700 text-zinc-200 hover:bg-zinc-800"
-      } ${pending ? "opacity-70" : ""}`}
-      title="Apply per-category night-time multipliers"
+      disabled={pending}
+      className="gap-2"
     >
-      <span aria-hidden>{isNight ? "🌙" : "☀️"}</span>
-      <span>{isNight ? "Night mode" : "Day mode"}</span>
-    </button>
+      {isNight ? (
+        <Moon className="h-3.5 w-3.5" />
+      ) : (
+        <Sun className="h-3.5 w-3.5" />
+      )}
+      {isNight ? "Night mode" : "Day mode"}
+    </Button>
   );
 }

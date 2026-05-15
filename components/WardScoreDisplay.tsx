@@ -1,5 +1,6 @@
 "use client";
 
+import { ArrowLeft } from "lucide-react";
 import Link from "next/link";
 import { useSearchParams } from "next/navigation";
 import RiskBadge from "@/components/RiskBadge";
@@ -21,13 +22,13 @@ export default function WardScoreDisplay({
     <>
       <Link
         href={backHref}
-        className="text-sm text-zinc-400 hover:text-zinc-100 w-fit"
+        className="inline-flex items-center gap-1.5 text-sm text-muted-foreground hover:text-foreground w-fit transition-colors"
       >
-        ← Back to map
+        <ArrowLeft className="h-4 w-4" /> Back to map
       </Link>
       <div className="flex items-center gap-4 mt-4">
         <RiskBadge score={score} size="lg" />
-        <p className="text-sm text-zinc-400">
+        <p className="text-sm text-muted-foreground">
           {isNight ? "Night-time estimate" : "Day-time estimate"} · scaled
           0–100
         </p>

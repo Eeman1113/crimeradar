@@ -1,3 +1,4 @@
+import { ArrowLeft } from "lucide-react";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import {
@@ -7,6 +8,7 @@ import {
   listAbsconders,
 } from "@/lib/absconders";
 import { CITY_IDS, getCity, isCityId } from "@/lib/cities";
+import { Card, CardContent } from "@/components/ui/card";
 
 export const metadata = {
   title: "Absconders — CrimeRadar",
@@ -39,12 +41,12 @@ export default async function AbscondersPage({
       <header className="flex flex-col gap-2">
         <Link
           href={`/${city}`}
-          className="text-xs text-zinc-500 hover:text-zinc-300 w-fit"
+          className="inline-flex items-center gap-1.5 text-xs text-muted-foreground hover:text-foreground w-fit transition-colors"
         >
-          ← Back to {cfg.name}
+          <ArrowLeft className="h-3.5 w-3.5" /> Back to {cfg.name}
         </Link>
         {sourceUrl ? (
-          <p className="text-xs text-zinc-500">
+          <p className="text-xs text-muted-foreground">
             Republished from{" "}
             <a
               href={sourceUrl}
@@ -57,10 +59,10 @@ export default async function AbscondersPage({
             {scrapedAt ? <> · scraped {scrapedAt}</> : null}.
           </p>
         ) : null}
-        <h1 className="text-3xl font-semibold tracking-tight text-zinc-50">
+        <h1 className="text-3xl font-semibold tracking-tight">
           {cfg.name} absconders
         </h1>
-        <p className="text-sm text-zinc-400 max-w-2xl">
+        <p className="text-sm text-muted-foreground max-w-2xl">
           We republish names only from official police absconder lists (CrPC
           §82 proclamations). See{" "}
           <Link href="/legal" className="underline">
@@ -68,59 +70,62 @@ export default async function AbscondersPage({
           </Link>
           .
         </p>
-        <div className="rounded-md border border-amber-900/50 bg-amber-950/40 p-3 text-xs text-amber-200">
-          <p>{absconderNotes(city)}</p>
-        </div>
+        <Card className="border-amber-500/40 bg-amber-500/5">
+          <CardContent className="pt-4 text-xs text-amber-700 dark:text-amber-300">
+            {absconderNotes(city)}
+          </CardContent>
+        </Card>
       </header>
 
       {persons.length > 0 ? (
         <section className="flex flex-col gap-3">
-          <h2 className="text-lg font-semibold text-zinc-100">
-            Persons ({persons.length})
-          </h2>
+          <h2 className="text-lg font-semibold">Persons ({persons.length})</h2>
           <ul className="grid sm:grid-cols-2 gap-2">
             {persons.map((a) => (
               <li key={a.id}>
-                <Link
-                  href={`/${city}/absconders/${a.id}`}
-                  className="block rounded-md border border-zinc-800 bg-zinc-900/50 p-3 hover:bg-zinc-800/70"
-                >
-                  <p className="font-medium text-zinc-100">{a.name}</p>
-                  <p className="text-xs text-zinc-500 mt-1">
-                    {a.pdfId
-                      ? `PDF #${a.pdfId} · click for source`
-                      : "click for source"}
-                  </p>
+                <Link href={`/${city}/absconders/${a.id}`} className="block">
+                  <Card className="transition-colors hover:bg-accent">
+                    <CardContent className="pt-4">
+                      <p className="font-medium">{a.name}</p>
+                      <p className="text-xs text-muted-foreground mt-1">
+                        {a.pdfId
+                          ? `PDF #${a.pdfId} · click for source`
+                          : "click for source"}
+                      </p>
+                    </CardContent>
+                  </Card>
                 </Link>
               </li>
             ))}
           </ul>
         </section>
       ) : (
-        <section className="rounded-lg border border-zinc-800 bg-zinc-900/50 p-4 text-sm text-zinc-300">
-          <p className="font-medium text-zinc-100 mb-1">
-            No public absconder list yet for {cfg.name}.
-          </p>
-          <p className="text-xs text-zinc-400">
-            We have not identified a CrPC §82 list published online by the{" "}
-            {cfg.state} police. If you know of one, please email{" "}
-            <a
-              href="mailto:legal@crimeradar.example"
-              className="underline text-zinc-300"
-            >
-              legal@crimeradar.example
-            </a>{" "}
-            so we can add it.
-          </p>
-        </section>
+        <Card>
+          <CardContent className="pt-4 text-sm">
+            <p className="font-medium mb-1">
+              No public absconder list yet for {cfg.name}.
+            </p>
+            <p className="text-xs text-muted-foreground">
+              We have not identified a CrPC §82 list published online by the{" "}
+              {cfg.state} police. If you know of one, please email{" "}
+              <a
+                href="mailto:legal@crimeradar.example"
+                className="underline"
+              >
+                legal@crimeradar.example
+              </a>{" "}
+              so we can add it.
+            </p>
+          </CardContent>
+        </Card>
       )}
 
       {organisations.length > 0 ? (
         <section className="flex flex-col gap-3">
-          <h2 className="text-lg font-semibold text-zinc-100">
+          <h2 className="text-lg font-semibold">
             Other entries ({organisations.length})
           </h2>
-          <p className="text-xs text-zinc-500">
+          <p className="text-xs text-muted-foreground">
             Rows where the published &quot;name&quot; field appears to be an
             organisation rather than a person. Mirrored verbatim from the
             source.
@@ -128,16 +133,17 @@ export default async function AbscondersPage({
           <ul className="grid sm:grid-cols-2 gap-2">
             {organisations.map((a) => (
               <li key={a.id}>
-                <Link
-                  href={`/${city}/absconders/${a.id}`}
-                  className="block rounded-md border border-zinc-800 bg-zinc-900/30 p-3 hover:bg-zinc-800/50"
-                >
-                  <p className="font-medium text-zinc-200">{a.name}</p>
-                  <p className="text-xs text-zinc-500 mt-1">
-                    {a.pdfId
-                      ? `PDF #${a.pdfId} · click for source`
-                      : "click for source"}
-                  </p>
+                <Link href={`/${city}/absconders/${a.id}`} className="block">
+                  <Card className="transition-colors hover:bg-accent">
+                    <CardContent className="pt-4">
+                      <p className="font-medium">{a.name}</p>
+                      <p className="text-xs text-muted-foreground mt-1">
+                        {a.pdfId
+                          ? `PDF #${a.pdfId} · click for source`
+                          : "click for source"}
+                      </p>
+                    </CardContent>
+                  </Card>
                 </Link>
               </li>
             ))}

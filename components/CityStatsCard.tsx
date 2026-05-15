@@ -2,6 +2,14 @@ import { CRIME_CATEGORY_LABELS, type CrimeCategory } from "@/lib/types";
 import type { CityId } from "@/lib/cities";
 import { getCity } from "@/lib/cities";
 import { monthlyStatsMeta } from "@/lib/wards";
+import {
+  Card,
+  CardContent,
+  CardDescription,
+  CardHeader,
+  CardTitle,
+} from "@/components/ui/card";
+import { Separator } from "@/components/ui/separator";
 
 const ORDER: CrimeCategory[] = [
   "sexual_offence",
@@ -41,44 +49,49 @@ export default function CityStatsCard({ city }: { city: CityId }) {
               : "Latest published";
 
   return (
-    <div className="rounded-lg border border-zinc-800 bg-zinc-900/50 p-4 flex flex-col gap-3">
-      <div>
-        <h3 className="text-sm font-semibold text-zinc-200">
+    <Card>
+      <CardHeader className="pb-3">
+        <CardTitle className="text-sm">
           {cfg.name} reported incidents
-        </h3>
-        <p className="text-xs text-zinc-500">{windowLabel} (city-aggregate)</p>
-      </div>
-      <ul className="grid grid-cols-2 gap-x-3 gap-y-1.5 text-xs">
-        {present.map((c) => (
-          <li key={c} className="flex justify-between gap-2">
-            <span className="text-zinc-400">
-              {CRIME_CATEGORY_LABELS[c]}
-            </span>
-            <span className="font-mono text-zinc-100">
-              {(totals[c] ?? 0).toLocaleString("en-IN")}
-            </span>
-          </li>
-        ))}
-        <li className="col-span-2 mt-1 pt-2 border-t border-zinc-800 flex justify-between font-medium">
-          <span className="text-zinc-200">Total</span>
-          <span className="font-mono text-zinc-50">
+        </CardTitle>
+        <CardDescription className="text-xs">
+          {windowLabel} · city-aggregate
+        </CardDescription>
+      </CardHeader>
+      <CardContent>
+        <ul className="grid grid-cols-2 gap-x-3 gap-y-1.5 text-xs">
+          {present.map((c) => (
+            <li key={c} className="flex justify-between gap-2">
+              <span className="text-muted-foreground">
+                {CRIME_CATEGORY_LABELS[c]}
+              </span>
+              <span className="font-mono tabular-nums">
+                {(totals[c] ?? 0).toLocaleString("en-IN")}
+              </span>
+            </li>
+          ))}
+        </ul>
+        <Separator className="my-3" />
+        <div className="flex justify-between text-sm font-medium">
+          <span>Total</span>
+          <span className="font-mono tabular-nums">
             {grand.toLocaleString("en-IN")}
           </span>
-        </li>
-      </ul>
-      {meta.source ? (
-        <p className="text-xs text-zinc-500">
-          Source:{" "}
-          <a
-            href={meta.source}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="underline"
-          >
-            official publication
-          </a>
-        </p>
-      ) : null}
-    </div>
+        </div>
+        {meta.source ? (
+          <p className="text-xs text-muted-foreground mt-3">
+            Source:{" "}
+            <a
+              href={meta.source}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="underline underline-offset-2 hover:text-foreground"
+            >
+              official publication
+            </a>
+          </p>
+        ) : null}
+      </CardContent>
+    </Card>
   );
 }

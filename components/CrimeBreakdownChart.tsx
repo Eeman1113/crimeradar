@@ -1,5 +1,6 @@
 "use client";
 
+import { useTheme } from "next-themes";
 import {
   Bar,
   BarChart,
@@ -31,6 +32,16 @@ export default function CrimeBreakdownChart({
 }: {
   breakdown: CrimeBreakdown;
 }) {
+  const { resolvedTheme } = useTheme();
+  const isDark = resolvedTheme === "dark";
+  const grid = isDark ? "#27272a" : "#e4e4e7";
+  const axis = isDark ? "#a1a1aa" : "#71717a";
+  const tooltipBg = isDark ? "#18181b" : "#ffffff";
+  const tooltipBorder = isDark ? "#27272a" : "#e4e4e7";
+  const tooltipFg = isDark ? "#fafafa" : "#18181b";
+  const cursor = isDark ? "#27272a" : "#f4f4f5";
+  const bar = isDark ? "#fb7185" : "#e11d48";
+
   const data = ORDER.map((cat) => ({
     cat,
     label: CRIME_CATEGORY_LABELS[cat],
@@ -40,25 +51,25 @@ export default function CrimeBreakdownChart({
     <div className="h-72 w-full">
       <ResponsiveContainer width="100%" height="100%">
         <BarChart data={data} layout="vertical" margin={{ left: 24, right: 16 }}>
-          <CartesianGrid strokeDasharray="3 3" stroke="#3f3f46" />
-          <XAxis type="number" stroke="#a1a1aa" />
+          <CartesianGrid strokeDasharray="3 3" stroke={grid} />
+          <XAxis type="number" stroke={axis} />
           <YAxis
             type="category"
             dataKey="label"
-            stroke="#a1a1aa"
+            stroke={axis}
             width={170}
-            tick={{ fontSize: 12 }}
+            tick={{ fontSize: 12, fill: axis }}
           />
           <Tooltip
-            cursor={{ fill: "#27272a" }}
+            cursor={{ fill: cursor }}
             contentStyle={{
-              background: "#18181b",
-              border: "1px solid #3f3f46",
+              background: tooltipBg,
+              border: `1px solid ${tooltipBorder}`,
               borderRadius: 8,
-              color: "#fafafa",
+              color: tooltipFg,
             }}
           />
-          <Bar dataKey="count" fill="#f43f5e" radius={[0, 4, 4, 0]} />
+          <Bar dataKey="count" fill={bar} radius={[0, 4, 4, 0]} />
         </BarChart>
       </ResponsiveContainer>
     </div>

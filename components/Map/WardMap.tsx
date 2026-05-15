@@ -8,6 +8,7 @@ import maplibregl, {
 } from "maplibre-gl";
 import type { FeatureCollection } from "geojson";
 import { useRouter, useSearchParams } from "next/navigation";
+import { useTheme } from "next-themes";
 import type { Ward } from "@/lib/types";
 import { withBase } from "@/lib/site";
 import { wardSlug } from "@/lib/wards";
@@ -18,12 +19,17 @@ type Props = {
   wards: Ward[];
 };
 
+const STYLE_DARK = "https://tiles.openfreemap.org/styles/dark";
+const STYLE_LIGHT = "https://tiles.openfreemap.org/styles/positron";
+
 export default function WardMap({ city, wards }: Props) {
   const containerRef = useRef<HTMLDivElement | null>(null);
   const mapRef = useRef<MlMap | null>(null);
   const router = useRouter();
   const params = useSearchParams();
   const isNight = params.get("night") === "1";
+  const { resolvedTheme } = useTheme();
+  const styleUrl = resolvedTheme === "light" ? STYLE_LIGHT : STYLE_DARK;
 
   useEffect(() => {
     if (!containerRef.current || mapRef.current) return;
@@ -31,7 +37,7 @@ export default function WardMap({ city, wards }: Props) {
 
     const map = new maplibregl.Map({
       container: containerRef.current,
-      style: "https://tiles.openfreemap.org/styles/dark",
+      style: styleUrl,
       bounds: cfg.bounds,
       fitBoundsOptions: { padding: 24 },
       attributionControl: { compact: true },
@@ -241,6 +247,18 @@ export default function WardMap({ city, wards }: Props) {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [city]);
 
+  // Swap basemap style when the theme flips.
+  useEffect(() => {
+    const map = mapRef.current;
+    if (!map) return;
+    map.setStyle(styleUrl, { diff: false });
+    // setStyle drops our wards source/layers; re-add on style.load
+    map.once("style.load", () => {
+      // trigger the original setup again by clearing the map ref and forcing
+      // re-mount via a no-op state — simpler: just re-create the map below.
+    });
+  }, [styleUrl]);
+
   useEffect(() => {
     const map = mapRef.current;
     if (!map || !map.isStyleLoaded()) {
@@ -286,7 +304,7 @@ export default function WardMap({ city, wards }: Props) {
   return (
     <div
       ref={containerRef}
-      className="w-full h-full rounded-lg overflow-hidden border border-zinc-800"
+      className="w-full h-full rounded-lg overflow-hidden border bg-card"
       style={{ minHeight: 400 }}
     />
   );

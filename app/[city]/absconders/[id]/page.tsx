@@ -1,7 +1,10 @@
+import { ArrowLeft, ExternalLink } from "lucide-react";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { getAbsconder, listAbsconders } from "@/lib/absconders";
 import { CITY_IDS, getCity, isCityId } from "@/lib/cities";
+import { Button } from "@/components/ui/button";
+import { Card, CardContent } from "@/components/ui/card";
 
 export const metadata = {
   robots: { index: false, follow: false, nocache: true },
@@ -35,57 +38,61 @@ export default async function AbsconderPage({
     <div className="max-w-2xl mx-auto px-4 py-10 flex flex-col gap-6">
       <Link
         href={`/${city}/absconders`}
-        className="text-sm text-zinc-400 hover:text-zinc-100 w-fit"
+        className="inline-flex items-center gap-1.5 text-sm text-muted-foreground hover:text-foreground w-fit transition-colors"
       >
-        ← Back to {cfg.name} absconder list
+        <ArrowLeft className="h-4 w-4" /> Back to {cfg.name} absconder list
       </Link>
       <header className="flex flex-col gap-1">
-        <p className="text-xs text-zinc-500">
+        <p className="text-xs text-muted-foreground">
           {cfg.name} police absconder list entry
           {a.pdfId ? ` #${a.pdfId}` : ""}
         </p>
-        <h1 className="text-3xl font-semibold tracking-tight text-zinc-50">
-          {a.name}
-        </h1>
+        <h1 className="text-3xl font-semibold tracking-tight">{a.name}</h1>
       </header>
 
-      <section className="rounded-md border border-zinc-800 bg-zinc-900/50 p-4 text-sm text-zinc-300 flex flex-col gap-2">
-        <p>
-          This name appears on the {cfg.name} police absconder list, published
-          under Code of Criminal Procedure §82 (proclamation against persons
-          absconding).
-        </p>
-        <p className="text-zinc-400">
-          We do not store the date of birth, address, family members, or
-          photograph for this individual. Charges, station, and case details
-          are inside the official source below.
-        </p>
-        {sourceUrl ? (
-          <a
-            href={sourceUrl}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="inline-flex w-fit items-center gap-2 rounded-full bg-rose-600 hover:bg-rose-500 text-white px-3 py-1.5 text-sm font-medium"
-          >
-            Open official source →
-          </a>
-        ) : null}
-      </section>
+      <Card>
+        <CardContent className="pt-5 flex flex-col gap-3 text-sm">
+          <p>
+            This name appears on the {cfg.name} police absconder list,
+            published under Code of Criminal Procedure §82 (proclamation
+            against persons absconding).
+          </p>
+          <p className="text-muted-foreground">
+            We do not store the date of birth, address, family members, or
+            photograph for this individual. Charges, station, and case
+            details are inside the official source below.
+          </p>
+          {sourceUrl ? (
+            <Button asChild size="sm" className="w-fit gap-2">
+              <a
+                href={sourceUrl}
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Open official source <ExternalLink className="h-3.5 w-3.5" />
+              </a>
+            </Button>
+          ) : null}
+        </CardContent>
+      </Card>
 
-      <section className="rounded-md border border-amber-900/50 bg-amber-950/40 p-3 text-xs text-amber-200 flex flex-col gap-2">
-        <strong className="text-amber-100">
-          Presumption of innocence still applies
-        </strong>
-        <p>
-          A proclamation under CrPC §82 is issued because the person has
-          failed to appear in response to a warrant. It is not a conviction.
-          If you are the person named here, or have new information, see{" "}
-          <Link href="/legal" className="underline">
-            our takedown / right-to-be-forgotten page
-          </Link>
-          .
-        </p>
-      </section>
+      <Card className="border-amber-500/40 bg-amber-500/5">
+        <CardContent className="pt-5 flex flex-col gap-2 text-xs text-amber-700 dark:text-amber-300">
+          <strong className="text-amber-900 dark:text-amber-200">
+            Presumption of innocence still applies
+          </strong>
+          <p>
+            A proclamation under CrPC §82 is issued because the person has
+            failed to appear in response to a warrant. It is not a
+            conviction. If you are the person named here, or have new
+            information, see{" "}
+            <Link href="/legal" className="underline">
+              our takedown / right-to-be-forgotten page
+            </Link>
+            .
+          </p>
+        </CardContent>
+      </Card>
     </div>
   );
 }

@@ -1,5 +1,6 @@
 "use client";
 
+import { MapPin, LoaderCircle } from "lucide-react";
 import { useRouter, useSearchParams } from "next/navigation";
 import { useState } from "react";
 import booleanPointInPolygon from "@turf/boolean-point-in-polygon";
@@ -9,6 +10,7 @@ import type {
   MultiPolygon,
   Polygon,
 } from "geojson";
+import { Button } from "@/components/ui/button";
 import { withBase } from "@/lib/site";
 import { wardSlug } from "@/lib/wards";
 import { getCity, type CityId } from "@/lib/cities";
@@ -84,17 +86,23 @@ export default function LocateMeButton({ city }: { city: CityId }) {
 
   return (
     <div className="flex flex-col items-start gap-2">
-      <button
-        type="button"
+      <Button
         onClick={locate}
         disabled={status === "locating"}
-        className="inline-flex items-center gap-2 rounded-full bg-rose-600 hover:bg-rose-500 text-white px-4 py-2 text-sm font-medium disabled:opacity-60"
+        size="sm"
+        className="gap-2"
       >
-        <span aria-hidden>📍</span>
+        {status === "locating" ? (
+          <LoaderCircle className="h-4 w-4 animate-spin" />
+        ) : (
+          <MapPin className="h-4 w-4" />
+        )}
         {status === "locating" ? "Locating…" : "Use my location"}
-      </button>
+      </Button>
       {message ? (
-        <p className="text-xs text-amber-400 max-w-xs">{message}</p>
+        <p className="text-xs text-amber-600 dark:text-amber-400 max-w-xs">
+          {message}
+        </p>
       ) : null}
     </div>
   );

@@ -1,7 +1,16 @@
 import type { Metadata } from "next";
+import { Poppins } from "next/font/google";
 import Link from "next/link";
 import "./globals.css";
 import Disclaimer from "@/components/Disclaimer";
+import { ThemeProvider } from "@/components/theme-provider";
+import { ThemeToggle } from "@/components/theme-toggle";
+
+const poppins = Poppins({
+  variable: "--font-poppins",
+  subsets: ["latin"],
+  weight: ["300", "400", "500", "600", "700"],
+});
 
 export const metadata: Metadata = {
   title: "CrimeRadar — Indian city night-safety estimates",
@@ -15,28 +24,53 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" className="h-full antialiased">
-      <body className="min-h-full flex flex-col bg-zinc-950 text-zinc-100">
-        <header className="border-b border-zinc-800 bg-zinc-950/80 backdrop-blur sticky top-0 z-30">
-          <div className="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between gap-4">
-            <Link href="/" className="font-semibold tracking-tight text-zinc-50">
-              Crime<span className="text-rose-400">Radar</span>
-              <span className="ml-2 text-xs font-normal text-zinc-500">
-                India
-              </span>
-            </Link>
-            <nav className="flex items-center gap-4 text-sm text-zinc-400">
-              <Link href="/methodology" className="hover:text-zinc-100">
-                Methodology
+    <html lang="en" suppressHydrationWarning className={poppins.variable}>
+      <body className="min-h-screen flex flex-col bg-background text-foreground antialiased">
+        <ThemeProvider
+          attribute="class"
+          defaultTheme="dark"
+          enableSystem
+          disableTransitionOnChange
+        >
+          <header className="sticky top-0 z-30 border-b bg-background/80 backdrop-blur">
+            <div className="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between gap-4">
+              <Link
+                href="/"
+                className="flex items-center gap-2 font-semibold tracking-tight text-foreground"
+              >
+                <img
+                  src="/icon.webp"
+                  alt=""
+                  className="h-7 w-7 rounded-md"
+                  aria-hidden
+                />
+                <span>
+                  Crime<span className="text-primary/80">Radar</span>
+                </span>
+                <span className="ml-1 text-xs font-normal text-muted-foreground">
+                  India
+                </span>
               </Link>
-              <Link href="/legal" className="hover:text-zinc-100">
-                Legal
-              </Link>
-            </nav>
-          </div>
-        </header>
-        <main className="flex-1 flex flex-col">{children}</main>
-        <Disclaimer />
+              <nav className="flex items-center gap-1 text-sm">
+                <Link
+                  href="/methodology"
+                  className="text-muted-foreground hover:text-foreground px-3 py-1.5 rounded-md transition-colors"
+                >
+                  Methodology
+                </Link>
+                <Link
+                  href="/legal"
+                  className="text-muted-foreground hover:text-foreground px-3 py-1.5 rounded-md transition-colors"
+                >
+                  Legal
+                </Link>
+                <ThemeToggle />
+              </nav>
+            </div>
+          </header>
+          <main className="flex-1 flex flex-col">{children}</main>
+          <Disclaimer />
+        </ThemeProvider>
       </body>
     </html>
   );
