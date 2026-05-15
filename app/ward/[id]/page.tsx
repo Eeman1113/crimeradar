@@ -3,35 +3,31 @@ import { notFound } from "next/navigation";
 import { Suspense } from "react";
 import CrimeBreakdownChart from "@/components/CrimeBreakdownChart";
 import NightToggle from "@/components/NightToggle";
-import RiskBadge from "@/components/RiskBadge";
-import { getWard, listWards } from "@/lib/wards";
+import WardScoreDisplay from "@/components/WardScoreDisplay";
+import { listWards, wardFromSlug, wardSlug } from "@/lib/wards";
 import { CRIME_CATEGORY_LABELS, type CrimeCategory } from "@/lib/types";
 
+export const dynamicParams = false;
+
 export function generateStaticParams() {
-  return listWards().map((w) => ({ id: encodeURIComponent(w.id) }));
+  return listWards().map((w) => ({ id: wardSlug(w.id) }));
 }
 
 export default async function WardPage({
   params,
-  searchParams,
 }: {
   params: Promise<{ id: string }>;
-  searchParams: Promise<{ night?: string }>;
 }) {
   const { id } = await params;
-  const sp = await searchParams;
-  const ward = getWard(decodeURIComponent(id));
+  const ward = wardFromSlug(id);
   if (!ward) notFound();
-  const isNight = sp.night === "1";
-  const score = isNight ? ward.riskScoreNight : ward.riskScore;
   const totalIncidents = Object.values(ward.breakdown).reduce(
     (a: number, b) => a + (b ?? 0),
     0,
   );
-  const topCats: CrimeCategory[] = (Object.entries(ward.breakdown) as [
-    CrimeCategory,
-    number,
-  ][])
+  const topCats: CrimeCategory[] = (
+    Object.entries(ward.breakdown) as [CrimeCategory, number][]
+  )
     .sort((a, b) => b[1] - a[1])
     .slice(0, 3)
     .map(([cat]) => cat);
@@ -40,12 +36,9 @@ export default async function WardPage({
     <div className="flex-1">
       <section className="border-b border-zinc-800">
         <div className="max-w-5xl mx-auto px-4 py-8 flex flex-col gap-4">
-          <Link
-            href={isNight ? "/?night=1" : "/"}
-            className="text-sm text-zinc-400 hover:text-zinc-100 w-fit"
-          >
-            ← Back to map
-          </Link>
+          <Suspense fallback={null}>
+            <WardScoreDisplay ward={ward} />
+          </Suspense>
           <div className="flex flex-col sm:flex-row sm:items-start sm:justify-between gap-4">
             <div>
               <p className="text-sm text-zinc-500">BMC Ward</p>
@@ -54,8 +47,9 @@ export default async function WardPage({
               </h1>
               <p className="mt-1 text-zinc-300">{ward.neighborhoods}</p>
               <p className="mt-1 text-xs text-zinc-500">
-                Pop. ≈ {ward.population.toLocaleString("en-IN")} · data quality:{" "}
-                <span className="font-mono text-amber-400">
+                Pop. ≈ {ward.population.toLocaleString("en-IN")} · data
+                quality:{" "}
+                <span className="font-mono text-sky-400">
                   {ward.dataQuality}
                 </span>
               </p>
@@ -64,20 +58,13 @@ export default async function WardPage({
               <NightToggle />
             </Suspense>
           </div>
-          <div className="flex items-center gap-4">
-            <RiskBadge score={score} size="lg" />
-            <p className="text-sm text-zinc-400">
-              {isNight ? "Night-time estimate" : "Day-time estimate"} · scaled
-              0–100 across all Mumbai wards
-            </p>
-          </div>
         </div>
       </section>
 
       <section className="max-w-5xl mx-auto px-4 py-8 grid lg:grid-cols-2 gap-8">
         <div className="flex flex-col gap-4">
           <h2 className="text-lg font-semibold text-zinc-100">
-            Reported incidents (trailing 90 days, seeded estimate)
+            Reported incidents (year-to-date)
           </h2>
           <CrimeBreakdownChart breakdown={ward.breakdown} />
           <p className="text-xs text-zinc-500">
@@ -102,10 +89,9 @@ export default async function WardPage({
           </ul>
           <div className="rounded-md border border-amber-900/50 bg-amber-950/40 p-3 text-xs text-amber-200">
             <strong className="block text-amber-100 mb-1">Reminder</strong>
-            High-score wards often reflect higher{" "}
-            <em>reporting</em> rates (better policing, more cameras, more women
-            who can safely file FIRs). A lower score is not a guarantee of
-            safety. See{" "}
+            High-score wards often reflect higher <em>reporting</em> rates
+            (better policing, more cameras, more women who can safely file
+            FIRs). A lower score is not a guarantee of safety. See{" "}
             <Link
               href="/methodology"
               className="underline underline-offset-2"

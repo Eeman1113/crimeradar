@@ -97,6 +97,17 @@ export function getWard(id: string): Ward | undefined {
   return WARD_BY_ID.get(id);
 }
 
+// BMC ward codes like "M/E" contain a slash. Browsers and CDNs disagree about
+// whether to decode %2F before routing, so for URLs we slugify "M/E" → "M-E".
+export function wardSlug(id: string): string {
+  return id.replace(/\//g, "-");
+}
+
+export function wardFromSlug(slug: string): Ward | undefined {
+  const id = slug.replace(/-/g, "/");
+  return WARD_BY_ID.get(id);
+}
+
 export function dataSeededAt(): string {
   return MONTHLY?.scrapedAt?.slice(0, 10) ?? SEEDED_AT;
 }

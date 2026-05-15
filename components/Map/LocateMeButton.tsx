@@ -4,6 +4,8 @@ import { useRouter, useSearchParams } from "next/navigation";
 import { useState } from "react";
 import booleanPointInPolygon from "@turf/boolean-point-in-polygon";
 import type { Feature, FeatureCollection, MultiPolygon, Polygon } from "geojson";
+import { withBase } from "@/lib/site";
+import { wardSlug } from "@/lib/wards";
 
 type WardCollection = FeatureCollection<
   Polygon | MultiPolygon,
@@ -34,7 +36,7 @@ export default function LocateMeButton() {
       });
       const lat = pos.coords.latitude;
       const lon = pos.coords.longitude;
-      const res = await fetch("/geo/bmc_wards.geojson");
+      const res = await fetch(withBase("/geo/bmc_wards.geojson"));
       const fc = (await res.json()) as WardCollection;
       const pt = { type: "Point" as const, coordinates: [lon, lat] };
       let wardId: string | null = null;
@@ -56,7 +58,7 @@ export default function LocateMeButton() {
       }
       const isNight = params.get("night") === "1";
       const qs = isNight ? "?night=1" : "";
-      router.push(`/ward/${encodeURIComponent(wardId)}${qs}` as never);
+      router.push(`${withBase(`/ward/${wardSlug(wardId)}`)}${qs}` as never);
     } catch (err) {
       setStatus("error");
       const e = err as GeolocationPositionError | Error;

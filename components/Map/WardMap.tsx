@@ -9,6 +9,8 @@ import maplibregl, {
 import type { FeatureCollection } from "geojson";
 import { useRouter, useSearchParams } from "next/navigation";
 import type { Ward } from "@/lib/types";
+import { withBase } from "@/lib/site";
+import { wardSlug } from "@/lib/wards";
 
 const MUMBAI_BOUNDS: [[number, number], [number, number]] = [
   [72.75, 18.85],
@@ -42,7 +44,7 @@ export default function WardMap({ wards }: Props) {
     map.addControl(new maplibregl.NavigationControl({ showCompass: false }), "top-right");
 
     map.on("load", async () => {
-      const res = await fetch("/geo/bmc_wards.geojson");
+      const res = await fetch(withBase("/geo/bmc_wards.geojson"));
       const geo = (await res.json()) as FeatureCollection;
 
       const wardById = new Map(wards.map((w) => [w.id, w]));
@@ -184,7 +186,7 @@ export default function WardMap({ wards }: Props) {
         const id = (f?.properties as { ward_id?: string } | null)?.ward_id;
         if (!id) return;
         const qs = isNight ? "?night=1" : "";
-        router.push(`/ward/${encodeURIComponent(id)}${qs}` as never);
+        router.push(`${withBase(`/ward/${wardSlug(id)}`)}${qs}` as never);
       });
     });
 
