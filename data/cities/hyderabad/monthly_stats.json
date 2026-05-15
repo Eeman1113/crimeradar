@@ -1,8 +1,19 @@
 {
-  "source": null,
-  "indexUrl": "https://hyderabadpolice.gov.in/",
-  "publishedFor": null,
-  "scrapedAt": null,
-  "cityWideYtdTotals": {},
-  "notes": "Pending ingest. Hyderabad City Police publishes an annual report PDF (city-aggregate). Three forces cover Greater Hyderabad (HCP, Cyberabad, Rachakonda/Malkajgiri) — full coverage would require all three. Scraper TBD."
+  "source": "https://data.opencity.in/dataset/b2d3ff5c-b109-42ad-afe0-b244c26505cd/resource/b70cf1ea-442a-4b23-9216-399f07e6379b/download/2f0461a6-7f09-47f1-ae1e-43b68d888599.pdf",
+  "indexUrl": "https://www.ncrb.gov.in/crime-in-india.html",
+  "publishedFor": {
+    "year": 2022
+  },
+  "windowKind": "year",
+  "scrapedAt": "2026-05-15T22:26:40.493Z",
+  "cityWideYtdTotals": {
+    "sexual_offence": 572,
+    "assault": 669,
+    "burglary": 343,
+    "harassment": 2085,
+    "robbery": 122,
+    "kidnapping": 609,
+    "theft": 2995
+  },
+  "notes": "Annual city-wide totals (2022) extracted from NCRB 'Crime in India 2022' megacity table. Categories normalised to CrimeRadar's internal taxonomy."
 }

@@ -35,6 +35,11 @@ const ROOT = resolve(__dirname, "..");
 const MANIFEST_PATH = resolve(ROOT, "data/cities.manifest.json");
 const DEFAULT_INDEX_URL = "https://www.ncrb.gov.in/crime-in-india.html";
 
+// Cities skipped by default because they have a fresher city-specific
+// monthly scraper (Mumbai/Bangalore monthly, Chennai/Delhi annual via
+// state portals). Pass --include-fresh to override.
+const SKIP_BY_DEFAULT = new Set(["mumbai", "bangalore", "chennai", "delhi"]);
+
 // NCRB-spelling → manifest id. Updated when NCRB renames a city or we
 // onboard another megacity.
 const NCRB_NAME_TO_ID = {
@@ -209,6 +214,9 @@ function main() {
     if (!manifestIds.has(cityId)) {
       // City present in NCRB but not yet in our manifest — skip silently
       // (it'll get picked up once onboarded).
+      continue;
+    }
+    if (SKIP_BY_DEFAULT.has(cityId) && !args["include-fresh"]) {
       continue;
     }
     let cat = HEAD_MAP[headRaw];

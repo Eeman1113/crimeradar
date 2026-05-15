@@ -126,7 +126,7 @@
     "geojson": "/geo/hyderabad_wards.geojson",
     "wardIdKey": "name",
     "unit": "GHMC ward",
-    "hasMonthlyStats": false,
+    "hasMonthlyStats": true,
     "hasAbsconders": false
   },
   {
@@ -152,7 +152,7 @@
     "geojson": "/geo/kolkata_wards.geojson",
     "wardIdKey": "WARD",
     "unit": "KMC ward",
-    "hasMonthlyStats": false,
+    "hasMonthlyStats": true,
     "hasAbsconders": true
   },
   {
@@ -178,7 +178,7 @@
     "geojson": "/geo/pune_wards.geojson",
     "wardIdKey": "ward_id",
     "unit": "PMC ward",
-    "hasMonthlyStats": false,
+    "hasMonthlyStats": true,
     "hasAbsconders": false
   },
   {
@@ -256,7 +256,7 @@
     "geojson": "/geo/ahmedabad_wards.geojson",
     "wardIdKey": "Name",
     "unit": "AMC ward",
-    "hasMonthlyStats": false,
+    "hasMonthlyStats": true,
     "hasAbsconders": false
   },
   {
@@ -282,7 +282,7 @@
     "geojson": "/geo/coimbatore_wards.geojson",
     "wardIdKey": "2011WardNumbers",
     "unit": "CCMC ward",
-    "hasMonthlyStats": false,
+    "hasMonthlyStats": true,
     "hasAbsconders": false
   },
   {
@@ -308,7 +308,7 @@
     "geojson": "/geo/indore_wards.geojson",
     "wardIdKey": "wardcode",
     "unit": "IMC ward",
-    "hasMonthlyStats": false,
+    "hasMonthlyStats": true,
     "hasAbsconders": false
   },
   {
@@ -334,7 +334,7 @@
     "geojson": "/geo/jaipur_wards.geojson",
     "wardIdKey": "WARD_NO",
     "unit": "JMC ward",
-    "hasMonthlyStats": false,
+    "hasMonthlyStats": true,
     "hasAbsconders": false
   },
   {
@@ -360,7 +360,7 @@
     "geojson": "/geo/surat_wards.geojson",
     "wardIdKey": "wardcode",
     "unit": "SMC ward",
-    "hasMonthlyStats": false,
+    "hasMonthlyStats": true,
     "hasAbsconders": false
   },
   {
@@ -386,7 +386,7 @@
     "geojson": "/geo/lucknow_wards.geojson",
     "wardIdKey": "Ward Name",
     "unit": "LMC ward",
-    "hasMonthlyStats": false,
+    "hasMonthlyStats": true,
     "hasAbsconders": false
   },
   {
@@ -412,7 +412,7 @@
     "geojson": "/geo/kochi_wards.geojson",
     "wardIdKey": "Ward_No",
     "unit": "KMC ward",
-    "hasMonthlyStats": false,
+    "hasMonthlyStats": true,
     "hasAbsconders": false
   },
   {
@@ -438,7 +438,7 @@
     "geojson": "/geo/nagpur_wards.geojson",
     "wardIdKey": "wardcode",
     "unit": "NMC prabhag",
-    "hasMonthlyStats": false,
+    "hasMonthlyStats": true,
     "hasAbsconders": false
   },
   {
@@ -464,7 +464,7 @@
     "geojson": "/geo/kanpur_wards.geojson",
     "wardIdKey": "Ward No",
     "unit": "KMC ward",
-    "hasMonthlyStats": false,
+    "hasMonthlyStats": true,
     "hasAbsconders": false
   }
 ]
