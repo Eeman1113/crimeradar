@@ -1,5 +1,130 @@
 {
   "source": "https://news.google.com/rss/search",
-  "scrapedAt": null,
-  "wards": {}
+  "scrapedAt": "2026-05-15T23:52:10.795Z",
+  "wards": {
+    "1966": {
+      "cachedAt": "2026-05-15T23:51:47.020Z",
+      "query": "\"No 2\" Aizawl (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "NIA arrests six Ukrainians, one from US for plotting terror activities in India",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPU0VSeC14c1FnYnNKcl9BM0FkeFNXcnlWdEYzaG1qenpEQjVlWGNYUzdCR1dRcTh2dWdlTk42OUJrM2FXZExuc2hwR2FHSnprY0VvRmhGcDFGQktrMmR5R3Z2NEZBWUpYUkNGbERNT0NLb1FyTUFndVRkZ0R3U1ZGNXpFLW5tMlBncXF5emhROVc0em1RT3lVaHE0YzczRC10djBmUmdodDVCYzJUWWl1OEtxVjVnU00yMHA1V25tOFhtU2tPdUxn0gHOAUFVX3lxTE1LTW1SOTdUbTF4U2V0OHlHMm9MblphbnpGd0pDOWo2LVFrejBRZm5tVWVTd0xDNmNBakJ3eEowdm94T05xbkRqNkVFOGJ5UC1CT2pudmlhNmZCdlhIa2hSbHAwQXNVTjJqd0xTY0dJSmh1cnlqM1RaVEFYMDdmSnFIWGhGVnFmZXNGbXBKWFBYTkZCaDVQV3ZJSTR2UW92TVNGYkVVeXlpekNFN0tYNDVkUVdDMHhZVFpMUFRYd3lyTDJiemhPMV9JYkZ2blh3?oc=5",
+          "date": "2026-03-17T07:00:00.000Z",
+          "source": "The Indian Express"
+        }
+      ]
+    },
+    "1967": {
+      "cachedAt": "2026-05-15T23:51:47.020Z",
+      "query": "\"No 3\" Aizawl (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Former Mizoram tourism min gets pre-arrest bail in graft case",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPS21VTDRjNDB2SDBGNzJVM0VmUnNzZXFlTGdtTThBbGVEalk3YS1jSHdHbWhSRFZjQ0NGazBUbHo3Sk8zYnNhdkpEaGNST0hhaWd4RTlvaGhQNkZrblltZ2VMZ0FfT2JEQ256RXBtZ0g1OXF3eEJnQ0N1Y1VtbnQxTUZnOFdGbVlHdTk2UTBVVk55aEFFeUdwb0p2dngzTlhNeG5IREdjWmFxdzRrUWNnTlJ4LTRqLUtNd1l1Y1VfamNpaXNFVVZZbThVdzlIdjRlc3NZ0gHYAUFVX3lxTE1LRzU1X2hBOEEtRGh3eTN4c2Y4X3k4X3NxeW04bFk5MlNxSFZPWGRaLWpfQThMM0xRSjdDb1MzQzJZR0VGeXRKbmxRd1VLalBzbU1Ka3pITEc0VWh3bDUxRmhNc3E2QXplbVlCc1g0UHNfbGRHMDktNmZDSm9qZFdwRUNMdlplbWlIVlJsVXNXbTJnOTlxYkRtb2NwdHRsRVdnSlVHQTUxckQzZmo5R3BCdE9aQUd6TFZkcWFseXZ3VjQ5bGNRbVNaME9OODVIdEdLcVg1anJESA?oc=5",
+          "date": "2026-05-13T11:43:00.000Z",
+          "source": "The Times of India"
+        }
+      ]
+    },
+    "1968": {
+      "cachedAt": "2026-05-15T23:51:47.020Z",
+      "query": "\"No 4\" Aizawl (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "1969": {
+      "cachedAt": "2026-05-15T23:51:47.020Z",
+      "query": "\"No 8\" Aizawl (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "1970": {
+      "cachedAt": "2026-05-15T23:51:47.020Z",
+      "query": "\"No 9\" Aizawl (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Navi Mumbai Crime: Anti-Narcotics Cell Arrests Kamothe History-Sheeter With ₹3.65 Lakh Worth MD Drugs",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVEZMVkUtODROMmYwQmFWdWRPcVJwVDBYQmxteVdFZ2RuYXdpUWNBazFWeE53bm41T1ZLT2tKSWRRU2hxOUs0QU5KcWpiYzd2NzRYVW5RNU9OYXRrSVJiX2pHMVZkRnFPR05VcWptaGZheG9yYnN2eVNzRHJHYl9ZM1BoUk1XbUJpZUdzdjhNWHpiTGVtdVM2SkFMUmh3NTB4MzIzN0tyUlRxcmwtVFdWQlRVTXVGWERZSW5PRF9wb3FOaUpDRUpfbmxETUQ3bmZaWjBV0gHYAUFVX3lxTE1aN1lxQ2F5elRacGFoWm4zSTVxajJXLXB6bnZ1ZXFPVGtsZFlKM2tNbmxDSE5TdFNaeEZiVER0dFJ3cFg3c1dvVlh5aUQtM0lmSWEwRGMtN29IeWtkUzdNQ0Q5S282TjNpMGdXZk1rWTI1U3k4cnZqVldSSGFwdVZ6Z1FpT3UzR2k5anZxcTZ6Yjljd3pwTE1nUHpQU0Nac3VzanQ2dmJXMjRVblFoRGEwSl9fRkQ1aWZwUm5XaDhfWEFDVV84eFhjRWI1MEwtRVZJUlZwUzYyeA?oc=5",
+          "date": "2026-05-08T15:31:25.000Z",
+          "source": "Free Press Journal"
+        }
+      ]
+    },
+    "1971": {
+      "cachedAt": "2026-05-15T23:51:47.020Z",
+      "query": "\"No 17\" Aizawl (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "1972": {
+      "cachedAt": "2026-05-15T23:51:47.020Z",
+      "query": "\"No 16\" Aizawl (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "1973": {
+      "cachedAt": "2026-05-15T23:51:47.020Z",
+      "query": "\"No 1\" Aizawl (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Arrested US National, Ukrainians Picked Mizoram As 'Low-Risk Gateway' To Train Myanmar Rebels | Exclusive",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZ2RVZUZBM01ETXFpOURESzgtdGtVckwxeFVPekxWdzR2ZElSUjNsazZ6S2d2dGEwNWVVN0RlNTZTSWt0TzAxbkVwVGFTR2dHckY1MGxoM0dPcTh1Tk15Si04VVZSbk41aVRRY0VkZDZGOENQNmtfMUxoZnRlTFY3cVYzTHVYT3YyMUtBc2hhOWNzNENCSWU5SUJWRHdrek5ZRnZac3pkc3NjVnM3VE5iLXRGOFozLWFyN1NESTctY3gxakk2OGg3VzRKRHlCWkNyQWpLTjB1OUZJckdiUHdOUlhB0gHnAUFVX3lxTFBWOVhrc3J1WmZpemVJMjFKOFNfQjlGSHAzSkVqZzJzZEhIM2RVcGhoTlQyNGJHN3o5RERXYXF6Rl9PUThWemdIaDVxSzdkYjY1U3NFMGIwNFotMlN2Ulo4Sy1oenVKbVBDQmZrTUNxYmIwWkdIcGJVTjRQUlEybWFYelM3aVY0bUVjckhtbFRYQTltbmRfdkNrOUlCbEt5WW9qSTJkblFiUWdFNThEaC1uVm5vOGFHZmF5cEc5Y2JPYW1tVEswSDZobUdCTVlzRDJhaEl3THNtbEhfZTUzbGVybnlJZlY4VQ?oc=5",
+          "date": "2026-03-19T07:00:00.000Z",
+          "source": "News18"
+        }
+      ]
+    },
+    "1974": {
+      "cachedAt": "2026-05-15T23:51:47.020Z",
+      "query": "\"No 7\" Aizawl (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "1975": {
+      "cachedAt": "2026-05-15T23:51:47.020Z",
+      "query": "\"No 5\" Aizawl (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "1976": {
+      "cachedAt": "2026-05-15T23:51:47.020Z",
+      "query": "\"No 11\" Aizawl (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "1977": {
+      "cachedAt": "2026-05-15T23:51:47.020Z",
+      "query": "\"No 6\" Aizawl (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "1978": {
+      "cachedAt": "2026-05-15T23:51:47.020Z",
+      "query": "\"No 13\" Aizawl (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "1979": {
+      "cachedAt": "2026-05-15T23:51:47.020Z",
+      "query": "\"No 10\" Aizawl (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "1980": {
+      "cachedAt": "2026-05-15T23:51:47.020Z",
+      "query": "\"No 12\" Aizawl (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "1981": {
+      "cachedAt": "2026-05-15T23:51:47.020Z",
+      "query": "\"No 18\" Aizawl (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "1982": {
+      "cachedAt": "2026-05-15T23:51:47.020Z",
+      "query": "\"No 14\" Aizawl (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "1983": {
+      "cachedAt": "2026-05-15T23:51:47.020Z",
+      "query": "\"No 15\" Aizawl (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "1984": {
+      "cachedAt": "2026-05-15T23:51:47.020Z",
+      "query": "\"No 19\" Aizawl (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    }
+  },
+  "notes": "Per-ward crime-related news from Google News RSS. Queried per the ward's distinctive neighbourhood name + Aizawl + crime keywords. Items are filtered to last 18 months and to titles containing at least one crime/police/arrest term. Up to 4 per ward."
 }

@@ -19,6 +19,7 @@
 
 import { spawnSync } from "node:child_process";
 import fs from "node:fs/promises";
+import { readFileSync } from "node:fs";
 import path from "node:path";
 import { XMLParser } from "fast-xml-parser";
 
@@ -54,17 +55,24 @@ const CRIME_TERMS = [
 
 const CRIME_RE = new RegExp(`\\b(${CRIME_TERMS.join("|")})`, "i");
 
-const CITY_NAME = {
-  mumbai: "Mumbai",
+// Read CityId → display name from the manifest so this script auto-picks
+// up newly-onboarded cities without a hand edit. NCRB uses "Bengaluru"
+// for Bangalore — apply that alias so Google News finds Bengaluru articles.
+const NAME_OVERRIDES = {
   bangalore: "Bengaluru",
-  delhi: "Delhi",
-  chennai: "Chennai",
-  hyderabad: "Hyderabad",
-  kolkata: "Kolkata",
-  pune: "Pune",
-  gurugram: "Gurugram",
-  noida: "Noida",
+  port_blair: "Port Blair",
+  amaravati: "Vijayawada", // wards we ship are Vijayawada's; news should match
 };
+function loadCityNames() {
+  const manifestPath = path.resolve("data/cities.manifest.json");
+  const raw = JSON.parse(readFileSync(manifestPath, "utf8"));
+  const out = {};
+  for (const c of raw) {
+    out[c.id] = NAME_OVERRIDES[c.id] ?? c.name;
+  }
+  return out;
+}
+const CITY_NAME = loadCityNames();
 
 // Pull the first distinctive token out of the ward's neighbourhood string.
 // For Mumbai (hand-seeded with real names) this picks e.g. "Govandi".

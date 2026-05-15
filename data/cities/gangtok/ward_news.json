@@ -1,5 +1,160 @@
 {
   "source": "https://news.google.com/rss/search",
-  "scrapedAt": null,
-  "wards": {}
+  "scrapedAt": "2026-05-15T23:52:06.270Z",
+  "wards": {
+    "9120836": {
+      "cachedAt": "2026-05-15T23:51:47.029Z",
+      "query": "\"Tibet Road\" Gangtok (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "9120837": {
+      "cachedAt": "2026-05-15T23:51:47.029Z",
+      "query": "\"Chandmari\" Gangtok (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "9120838": {
+      "cachedAt": "2026-05-15T23:51:47.029Z",
+      "query": "\"Development Area\" Gangtok (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "9120839": {
+      "cachedAt": "2026-05-15T23:51:47.029Z",
+      "query": "\"DPH\" Gangtok (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "9120840": {
+      "cachedAt": "2026-05-15T23:51:47.029Z",
+      "query": "\"Upper M G Marg\" Gangtok (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "9120841": {
+      "cachedAt": "2026-05-15T23:51:47.029Z",
+      "query": "\"Lower M G Marg\" Gangtok (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "9120842": {
+      "cachedAt": "2026-05-15T23:51:47.029Z",
+      "query": "\"Syari-Tathangchen\" Gangtok (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "9120843": {
+      "cachedAt": "2026-05-15T23:51:47.029Z",
+      "query": "\"Burtuk\" Gangtok (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Watch : ₹150 Row Turns Street Ugly – Lal Bazar Clash Ends with Written Apology to Police",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbTJ5eGhIUExWNXliWWIxU1ltOGowLS1ZTzVfQ3Voa25ESGhPQk8zSXlhM1otOFhJbjRmZ3dZbmdKbUktVlpJWjZoMnM1T2RzVEdmcG9WanlKYlp0SDNvckZZZm1iZUpFVElSMFp6c2tOMEMwN0ZnMHdZVDRPOEgtTVpLMDAtSHVtSThncGROdGFJNXNrMFNxcURISzFzejlZdkRIQWNTcUVnUjNhczUybmpMZC1hZ21CMGJF?oc=5",
+          "date": "2026-04-05T07:00:00.000Z",
+          "source": "voiceofsikkim.com"
+        },
+        {
+          "title": "Sikkim: Gangtok teen’s death probe turns murder case; one arrested",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTkVIY2ZmbXMyZFh6em1WYTFNcFhSbkJJY29rQzRfb3J2NnJoeWE2Y3pFY3FfbFJadlh5Z3BvaUFkZ3luSWMwWVdJT3pPNGt4YnJTNmFoM1hoUHI5RG1pVGtDQUN3VFhTbTBDamJhNDVLWTJLaFJtY2xlOXc2OFlaMS1NTkZTbDhkSVNrY2NfWjcxN3puRUQwOGtBOFJuYTd4MTB3eFp0QWF3Z0hPU2tmRlZ2QW55Z1Q4S0NNVWpucHo5d2VndmdQRUlkUkFjSFlzcldic2JsQWxrUdIB3wFBVV95cUxOM2NuVWVHaVk1UGF1NjZYRFFJdVp6UXZJUGNLUnVWV1FvcmxDMDhxbGpkc2NuY2pVcXZGdnFpWnJER3VNNllnSndwUWUzanpRendnckNpdHJKbnFtckNvRnlvcWF1WHoyWUN4V1VWVFVCTjM2OVQyNnhaVnJmcGszcnZzZ0VRd3Z5Vkt0ZTIySkt3QTZnS1pnTkxmM0xpV3h6b3B1ekVDNlY0VWlaMVJwa3pBOUNJNXlRVGJuRU4ydUp6ZGQ5dGhWRi01T25qSUNyc0FQTm5sWTFoenlsMkVF?oc=5",
+          "date": "2025-12-24T08:00:00.000Z",
+          "source": "India Today NE"
+        }
+      ]
+    },
+    "9120844": {
+      "cachedAt": "2026-05-15T23:51:47.029Z",
+      "query": "\"Lower Sichey\" Gangtok (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Sikkim: Gangtok teen’s death probe turns murder case; one arrested",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTkVIY2ZmbXMyZFh6em1WYTFNcFhSbkJJY29rQzRfb3J2NnJoeWE2Y3pFY3FfbFJadlh5Z3BvaUFkZ3luSWMwWVdJT3pPNGt4YnJTNmFoM1hoUHI5RG1pVGtDQUN3VFhTbTBDamJhNDVLWTJLaFJtY2xlOXc2OFlaMS1NTkZTbDhkSVNrY2NfWjcxN3puRUQwOGtBOFJuYTd4MTB3eFp0QWF3Z0hPU2tmRlZ2QW55Z1Q4S0NNVWpucHo5d2VndmdQRUlkUkFjSFlzcldic2JsQWxrUdIB3wFBVV95cUxOM2NuVWVHaVk1UGF1NjZYRFFJdVp6UXZJUGNLUnVWV1FvcmxDMDhxbGpkc2NuY2pVcXZGdnFpWnJER3VNNllnSndwUWUzanpRendnckNpdHJKbnFtckNvRnlvcWF1WHoyWUN4V1VWVFVCTjM2OVQyNnhaVnJmcGszcnZzZ0VRd3Z5Vkt0ZTIySkt3QTZnS1pnTkxmM0xpV3h6b3B1ekVDNlY0VWlaMVJwa3pBOUNJNXlRVGJuRU4ydUp6ZGQ5dGhWRi01T25qSUNyc0FQTm5sWTFoenlsMkVF?oc=5",
+          "date": "2025-12-24T08:00:00.000Z",
+          "source": "India Today NE"
+        }
+      ]
+    },
+    "9120845": {
+      "cachedAt": "2026-05-15T23:51:47.029Z",
+      "query": "\"Upper Sichey\" Gangtok (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "9120846": {
+      "cachedAt": "2026-05-15T23:51:47.029Z",
+      "query": "\"Arithang\" Gangtok (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Gangtok Sadar Police Arrest 19-Year-Old for Murder of Local Traffic Volunteer",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPa3llZHBNVU9VNkJvMWFxZHprWldsdmVJS2VYU0Npa0gxaGRpVGZlNF91d2l1SmY0NWFJbm45Q0lLbE1BY0FFSlpNQmNEaFMyZ2N2TnVLUElCU0hhd3BfeUhyQzJDYVpqWjJQcFBrOFJMM3pTVHJJeHhvR2ItQkZhd1RSb3hwSG5XaWZBZmZGUTFSS0JuU1Nwem9VSjFfelQ0QmhjNzZDRQ?oc=5",
+          "date": "2026-03-30T07:00:00.000Z",
+          "source": "voiceofsikkim.com"
+        }
+      ]
+    },
+    "9120847": {
+      "cachedAt": "2026-05-15T23:51:47.029Z",
+      "query": "\"Tadong\" Gangtok (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Gangtok ‘Traffic Lata’ murder cracked within hours; 20-year-old arrested",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObG1mQ1Z2a0h2aGF1VTMwbzRRODQxQnNBdlREU3J1aENnY1R4ODR5X0ZqOVZEbHZTZGhkVkRoSGVEZFMwekgyTFNyVU0xbGRlNWZjZ3NlUTI1MHY0MnBXOHRyYTd0M0V6OUdGWVlCdFJMZUZfako4YTd3UDVnT1ZqcF9UMGVBZV9rMjdFWnRKd3FlX1piWTlCQ2VEMTRHVGpmUEtTa3RtSXB1WU1sUXB2RHozRDVXajMwTmM2ZlZiWTRtM2I5aF9hTdIBzgFBVV95cUxNMks0QmdaYVpuUWhhUy13cEJhajN5OUc5ai05N09RdWwyVktMaFdhTFEzVmZ1QUZOSWZkc2hRZ0E5bTVQVk9xc1Z0M0VfakNKUjhBemVrVzFkbGpNMXZGQ3R0enY0bzRlQkRVMmM2aEZBRnM4bEV0czY4TE5Pakd4MkM3ZjdPVEpPem1lZXFjSXhzVFl1eGFkYk1vSkRWQ0JtNGxlQkpMTEpDTU1WLV9yc2Vmb1hyaEhISmc3QktOVk14UWt1RUVub1ZlQnIwUQ?oc=5",
+          "date": "2026-03-31T07:00:00.000Z",
+          "source": "India Today NE"
+        },
+        {
+          "title": "Police arrest youth for murder of deaf & dumb man in Gangtok",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOV1JyNDlOeURycHVHRDFFUGRNczhUX2tiZFJObXN2ZlRVS2l0NzB2anVVLUtfQVFjZVhqVVdUSDlzQk94ZWNpVGU4clZkSmgzbTlxVnFSTkx4bExMd1YxYTI4YUhRX0ltYUdFOHBrYjZUQTdXSDltb3FqTE1HNXRDMTNMZ1VBS0IydGZwUGJBNTFjSFB0X3hoUUswSjNYMXhyeERxd2dIU1NZUlNoVmpkajdWakgzQ2h1MlHSAb8BQVVfeXFMUDNZc3kzUm9MclQyMENZM2NGR2VmeEtTQ2NENzZ4dmoxQ2piMElCS2RuM3dYNXFsMG96TEpyVmQyWHZKRjBGZ2Q2dzBDQlJodU5DTTZDM3FCTWttUGd6OS1DT0Q0WEFjbGsxTzcxUUpHWnhKc2VoSDladmNnbnJEMDR6ZWNxazluQy1NUlA5RGVoVHBYOHBCNzJ2UU9TeVRUaGFWSTUwY2wyT1BKeDR4ZEZDVDYtbzU5YkZRZVJWODQ?oc=5",
+          "date": "2026-03-30T07:00:00.000Z",
+          "source": "India Today NE"
+        },
+        {
+          "title": "Gangtok Sadar Police Arrest 19-Year-Old for Murder of Local Traffic Volunteer",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPa3llZHBNVU9VNkJvMWFxZHprWldsdmVJS2VYU0Npa0gxaGRpVGZlNF91d2l1SmY0NWFJbm45Q0lLbE1BY0FFSlpNQmNEaFMyZ2N2TnVLUElCU0hhd3BfeUhyQzJDYVpqWjJQcFBrOFJMM3pTVHJJeHhvR2ItQkZhd1RSb3hwSG5XaWZBZmZGUTFSS0JuU1Nwem9VSjFfelQ0QmhjNzZDRQ?oc=5",
+          "date": "2026-03-30T07:00:00.000Z",
+          "source": "voiceofsikkim.com"
+        }
+      ]
+    },
+    "9120848": {
+      "cachedAt": "2026-05-15T23:51:47.029Z",
+      "query": "\"Daragaon\" Gangtok (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Police arrest youth for murder of deaf & dumb man in Gangtok",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOV1JyNDlOeURycHVHRDFFUGRNczhUX2tiZFJObXN2ZlRVS2l0NzB2anVVLUtfQVFjZVhqVVdUSDlzQk94ZWNpVGU4clZkSmgzbTlxVnFSTkx4bExMd1YxYTI4YUhRX0ltYUdFOHBrYjZUQTdXSDltb3FqTE1HNXRDMTNMZ1VBS0IydGZwUGJBNTFjSFB0X3hoUUswSjNYMXhyeERxd2dIU1NZUlNoVmpkajdWakgzQ2h1MlHSAb8BQVVfeXFMUDNZc3kzUm9MclQyMENZM2NGR2VmeEtTQ2NENzZ4dmoxQ2piMElCS2RuM3dYNXFsMG96TEpyVmQyWHZKRjBGZ2Q2dzBDQlJodU5DTTZDM3FCTWttUGd6OS1DT0Q0WEFjbGsxTzcxUUpHWnhKc2VoSDladmNnbnJEMDR6ZWNxazluQy1NUlA5RGVoVHBYOHBCNzJ2UU9TeVRUaGFWSTUwY2wyT1BKeDR4ZEZDVDYtbzU5YkZRZVJWODQ?oc=5",
+          "date": "2026-03-30T07:00:00.000Z",
+          "source": "India Today NE"
+        },
+        {
+          "title": "Police arrest youth for murder of deaf & dumb man in Gangtok | Hindustan Times",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUWhTelkyVU5fdGEtTm1YOVpKVmIydEd6NWlGazRud1VIVUVQMTU0UGdrWXRyU1lZdzZaYmUyYVZSV2ZkekxhdXZJTXNjNHpYQTlrV0ZnNkg0ZkUzdmxJTUhVWnl4RnJndnJ4ZU1CcjhQMmlGZU1TTVUzbFpyZzdITDgtVldrZDRvRDhKdU1QUUNCTDhTVXV2UUQyTXdfbmhEOTJoeFVKYk9kcmE3S1o1RUt2aHlReVptTFpidXRWQzdmQdIBxwFBVV95cUxPLURPLWNjMUhtTUtwNnFxVmV0NE5wRU9CR2czX29zVHp3ZC10b2VmUlp4dDV0S1NfeGNfQ1VoMjF6WUhUY3ZzZUlfd2FHa3ZSaG1BeUttY1hSQ0dPdkd0ZXVsRDNiSXQwT1ZoOE10MDBhOHloT0V0TEFTOXJTbVRnZ0lGWjFsWExhSjRCaThiVWJ0YXJKNmJEdTMtaktGUDhJVmxTLWJlRGJQYWtSdVNtZnA2bURtTzJtRjk0UDRqTngzWTFzUWEw?oc=5",
+          "date": "2026-03-30T07:00:00.000Z",
+          "source": "Hindustan Times"
+        },
+        {
+          "title": "Gangtok Sadar Police Arrest 19-Year-Old for Murder of Local Traffic Volunteer",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPa3llZHBNVU9VNkJvMWFxZHprWldsdmVJS2VYU0Npa0gxaGRpVGZlNF91d2l1SmY0NWFJbm45Q0lLbE1BY0FFSlpNQmNEaFMyZ2N2TnVLUElCU0hhd3BfeUhyQzJDYVpqWjJQcFBrOFJMM3pTVHJJeHhvR2ItQkZhd1RSb3hwSG5XaWZBZmZGUTFSS0JuU1Nwem9VSjFfelQ0QmhjNzZDRQ?oc=5",
+          "date": "2026-03-30T07:00:00.000Z",
+          "source": "voiceofsikkim.com"
+        }
+      ]
+    },
+    "9120849": {
+      "cachedAt": "2026-05-15T23:51:47.029Z",
+      "query": "\"Deorali\" Gangtok (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "9120850": {
+      "cachedAt": "2026-05-15T23:51:47.029Z",
+      "query": "\"Ranipool\" Gangtok (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Drug bust near Ranipool leads to arrests, including police personnel in Sikkim",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdlFSbzBqbWF2RGp3LXB4aDg0UWNZcWtSN1pLazUwZ1VTSHQyV3MxcXUtNmFwWnRvdF8zZElwVkhZOFRhZkQzdHFieDRGeXFFQ0JjbEJWdzd4RVBOcHFiYWNXSFNIZ0lFQUxJN2FaRU9lazVtM3phZ0ljUVl2a2JKWDZnUUlqcmdXY21fa0dvOTdjcmhEMWlVR0JVTHNCdlhMc0JEdUNydGREeWx2VDBjZWgwcGdob0pqdkJSb2VSOERLVTJOejcyV256a05ONGRrelM40gHYAUFVX3lxTFBZeXFpS1A1N1ZuMDVIYnozcG9BTUlXTGIzOWpsWFZDcWJlTTE5OGp3Y2NhbDJldjIwbXlTVWVxby1vOE5XYXh4VU5nSHV4SmtMVjJCc2Z1WW5NNC16c2tROEpVUFNQU0hJMlMySXpMVEdMNGo4dXVnUlJmRzh1dDUzQjNRQ1EzWjFPb1N2VEJ4WG1sMEdaNkZzTmN0SkEwWWhzeXBxZTFQOGFaemhQUXBRMWRERVRlWkxFWHZMdGZMWFVxaTZ3R3Qzc3JGWkdocTEtNUxCMndUZw?oc=5",
+          "date": "2026-05-02T07:00:00.000Z",
+          "source": "India Today NE"
+        },
+        {
+          "title": "Justice for Indradeep Pradhan: Mayfair Casino Workers Stage Massive Protest, Demand Arrest of Owners",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdzQyV0IwWlFhYVFPMmp2UEVrOTR4VUtzdHY2UGZNcXhrN0ZtTGNVd1lmN2NpX01DSjBQOUFtcVFDQVh4bWdYeTl2MVhDcm8tSEk5OUd3YXlma01QcF9nWHVGdFBuaE5EUmkzNXlLYThjeVpFRU8xRUs3UmQ1X0VZRkxkWHFiZmdPMlRfX2EyczBRMEJLZmo4ZmFacHJMZzFVWHJha19FTktYNHFoY21qclRPX1JyOFBONnhrOEZFdzRRSzQ?oc=5",
+          "date": "2026-02-14T08:00:00.000Z",
+          "source": "voiceofsikkim.com"
+        }
+      ]
+    }
+  },
+  "notes": "Per-ward crime-related news from Google News RSS. Queried per the ward's distinctive neighbourhood name + Gangtok + crime keywords. Items are filtered to last 18 months and to titles containing at least one crime/police/arrest term. Up to 4 per ward."
 }
