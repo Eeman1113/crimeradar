@@ -99,6 +99,7 @@ export const CITIES: Record<CityId, CityConfig> = {
   mumbai: {
     id: "mumbai",
     name: "Mumbai",
+    nameI18n: {"hi":"मुम्बई","bn":"মুম্বই","mr":"मुंबई","te":"ముంబై","ta":"மும்பை","gu":"મુંબઈ","ur":"ممبئی","kn":"ಮುಂಬಯಿ","or":"ମୁମ୍ବାଇ","ml":"മുംബൈ","pa":"ਮੁੰਬਈ","as":"মুম্বাই"},
     state: "Maharashtra",
     stateCode: "IN-MH",
     tier: "both",
@@ -113,6 +114,7 @@ export const CITIES: Record<CityId, CityConfig> = {
   bangalore: {
     id: "bangalore",
     name: "Bangalore",
+    nameI18n: {"hi":"बेंगलुरु","bn":"বেঙ্গালুরু","mr":"बंगळूर","te":"బెంగళూరు","ta":"பெங்களூர்","gu":"બેંગલુરુ","ur":"بنگلور","kn":"ಬೆಂಗಳೂರು","or":"ବେଙ୍ଗାଳୁରୁ","ml":"ബെംഗളൂരു","pa":"ਬੇਂਗਾਲ਼ੁਰੂ","as":"বেংগালুৰু"},
     state: "Karnataka",
     stateCode: "IN-KA",
     tier: "both",
@@ -127,6 +129,7 @@ export const CITIES: Record<CityId, CityConfig> = {
   delhi: {
     id: "delhi",
     name: "Delhi",
+    nameI18n: {"hi":"दिल्ली","bn":"দিল্লি","mr":"दिल्ली","te":"ఢిల్లీ","ta":"தில்லி","gu":"દિલ્હી","ur":"دہلی","kn":"ದೆಹಲಿ","or":"ଦିଲ୍ଲୀ","ml":"ഡെൽഹി","pa":"ਦਿੱਲੀ","as":"দিল্লী"},
     state: "Delhi",
     stateCode: "IN-DL",
     tier: "both",
@@ -141,6 +144,7 @@ export const CITIES: Record<CityId, CityConfig> = {
   chennai: {
     id: "chennai",
     name: "Chennai",
+    nameI18n: {"hi":"चेन्नई","bn":"চেন্নাই","mr":"चेन्नई","te":"చెన్నై","ta":"சென்னை","gu":"ચેન્નઈ","ur":"چنائی","kn":"ಚೆನ್ನೈ","or":"ଚେନ୍ନାଇ","ml":"ചെന്നൈ","pa":"ਚੇਨਈ","as":"চেন্নাই"},
     state: "Tamil Nadu",
     stateCode: "IN-TN",
     tier: "both",
@@ -155,6 +159,7 @@ export const CITIES: Record<CityId, CityConfig> = {
   hyderabad: {
     id: "hyderabad",
     name: "Hyderabad",
+    nameI18n: {"hi":"हैदराबाद","bn":"হায়দ্রাবাদ","mr":"हैदराबाद","te":"హైదరాబాదు","ta":"ஐதராபாத்து","gu":"હૈદરાબાદ","ur":"حیدرآباد، دکن","kn":"ಹೈದರಾಬಾದ್, ತೆಲಂಗಾಣ","or":"ହାଇଦ୍ରାବାଦ","ml":"ഹൈദരാബാദ്","pa":"ਹੈਦਰਾਬਾਦ","as":"হাইদৰাবাদ"},
     state: "Telangana",
     stateCode: "IN-TG",
     tier: "both",
@@ -169,6 +174,7 @@ export const CITIES: Record<CityId, CityConfig> = {
   kolkata: {
     id: "kolkata",
     name: "Kolkata",
+    nameI18n: {"hi":"कोलकाता","bn":"কলকাতা","mr":"कोलकाता","te":"కోల్‌కాతా","ta":"கொல்கத்தா","gu":"કોલકાતા","ur":"کولکاتا","kn":"ಕೊಲ್ಕತ್ತ","or":"କଲିକତା","ml":"കൊൽക്കത്ത","pa":"ਕੋਲਕਾਤਾ","as":"কলিকতা"},
     state: "West Bengal",
     stateCode: "IN-WB",
     tier: "million_plus",
@@ -183,6 +189,7 @@ export const CITIES: Record<CityId, CityConfig> = {
   pune: {
     id: "pune",
     name: "Pune",
+    nameI18n: {"hi":"पुणे","bn":"পুণে","mr":"पुणे","te":"పూణే","ta":"புனே","gu":"પુના","ur":"پونے","kn":"ಪುಣೆ","or":"ପୁଣେ","ml":"പൂണെ","pa":"ਪੂਨੇ","as":"পুনে"},
     state: "Maharashtra",
     stateCode: "IN-MH",
     tier: "million_plus",
@@ -197,6 +204,7 @@ export const CITIES: Record<CityId, CityConfig> = {
   gurugram: {
     id: "gurugram",
     name: "Gurugram",
+    nameI18n: {"hi":"गुरुग्राम","bn":"গুরুগ্রাম","mr":"गुरुग्राम","te":"గుర్‌గావ్","ta":"குருகிராம்","ur":"گرو گرام","kn":"ಗುರಗಾಂವ್","or":"ଗୁରୁଗାଓଁ","ml":"ഗുഡ്‌ഗാവ്","pa":"ਗੁਰੂਗ੍ਰਾਮ"},
     state: "Haryana",
     stateCode: "IN-HR",
     tier: "million_plus",
@@ -211,6 +219,7 @@ export const CITIES: Record<CityId, CityConfig> = {
   noida: {
     id: "noida",
     name: "Noida",
+    nameI18n: {"hi":"नोएडा","bn":"নয়ডা","mr":"नोएडा","te":"నోయిడా","ta":"நொய்டா","gu":"નોઇડા","ur":"نوئیڈا","or":"ନୋଏଡ଼ା","ml":"നോയ്ഡ","pa":"ਨੋਇਡਾ","as":"নয়দা"},
     state: "Uttar Pradesh",
     stateCode: "IN-UP",
     tier: "million_plus",
@@ -225,6 +234,7 @@ export const CITIES: Record<CityId, CityConfig> = {
   ahmedabad: {
     id: "ahmedabad",
     name: "Ahmedabad",
+    nameI18n: {"hi":"अहमदाबाद","bn":"আহমেদাবাদ","mr":"अहमदाबाद","te":"అహ్మదాబాద్","ta":"அகமதாபாது","gu":"અમદાવાદ","ur":"احمد آباد","kn":"ಅಹ್ಮದಾಬಾದ್","or":"ଅହମଦାବାଦ","ml":"അഹമ്മദാബാദ്","pa":"ਅਹਿਮਦਾਬਾਦ","as":"আহমেদাবাদ"},
     state: "Gujarat",
     stateCode: "IN-GJ",
     tier: "million_plus",
@@ -239,6 +249,7 @@ export const CITIES: Record<CityId, CityConfig> = {
   coimbatore: {
     id: "coimbatore",
     name: "Coimbatore",
+    nameI18n: {"hi":"कोयंबतूर","bn":"কোয়েম্বাটুর","mr":"कोइंबतूर","te":"కోయంబత్తూరు","ta":"கோயம்புத்தூர்","gu":"કોઇમ્બતુર","ur":"کوئمبتور","kn":"ಕೊಯಂಬತ್ತೂರು","or":"କୋଇମ୍ବାଟୋର","ml":"കോയമ്പത്തൂർ","pa":"ਕੋਇੰਬਟੂਰ"},
     state: "Tamil Nadu",
     stateCode: "IN-TN",
     tier: "million_plus",
@@ -253,6 +264,7 @@ export const CITIES: Record<CityId, CityConfig> = {
   indore: {
     id: "indore",
     name: "Indore",
+    nameI18n: {"hi":"इन्दौर","bn":"ইন্দোর","mr":"इंदूर","te":"ఇండోర్","ta":"இந்தோர்","gu":"ઈંદોર","ur":"اندور","kn":"ಇಂದೋರ್","or":"ଇନ୍ଦୋର","ml":"ഇൻഡോർ","pa":"ਇੰਦੌਰ"},
     state: "Madhya Pradesh",
     stateCode: "IN-MP",
     tier: "million_plus",
@@ -267,6 +279,7 @@ export const CITIES: Record<CityId, CityConfig> = {
   jaipur: {
     id: "jaipur",
     name: "Jaipur",
+    nameI18n: {"hi":"जयपुर","bn":"জয়পুর","mr":"जयपूर","te":"జైపూర్","ta":"செய்ப்பூர்","gu":"જયપુર","ur":"جے پور","kn":"ಜೈಪುರ","or":"ଜୟପୁର, ରାଜସ୍ଥାନ","ml":"ജയ്‌പൂർ","pa":"ਜੈਪੁਰ","as":"জয়পুৰ"},
     state: "Rajasthan",
     stateCode: "IN-RJ",
     tier: "both",
@@ -281,6 +294,7 @@ export const CITIES: Record<CityId, CityConfig> = {
   surat: {
     id: "surat",
     name: "Surat",
+    nameI18n: {"hi":"सूरत","bn":"সুরত","mr":"सुरत","te":"సూరత్","ta":"சூரத்து","gu":"સુરત","ur":"سورت، گجرات","kn":"ಸೂರತ್","or":"ସୁରତ","ml":"സൂരത്","pa":"ਸੂਰਤ"},
     state: "Gujarat",
     stateCode: "IN-GJ",
     tier: "million_plus",
@@ -295,6 +309,7 @@ export const CITIES: Record<CityId, CityConfig> = {
   lucknow: {
     id: "lucknow",
     name: "Lucknow",
+    nameI18n: {"hi":"लखनऊ","bn":"লখনউ","mr":"लखनौ","te":"లక్నో","ta":"இலக்னோ","gu":"લખનૌ","ur":"لکھنؤ","kn":"ಲಕ್ನೋ","or":"ଲକ୍ଷ୍ନୌ","ml":"ലഖ്‌നൗ","pa":"ਲਖਨਊ"},
     state: "Uttar Pradesh",
     stateCode: "IN-UP",
     tier: "both",
@@ -309,6 +324,7 @@ export const CITIES: Record<CityId, CityConfig> = {
   kochi: {
     id: "kochi",
     name: "Kochi",
+    nameI18n: {"hi":"कोच्चि","bn":"কোচি","mr":"कोची","te":"కొచ్చి","ta":"கொச்சி","gu":"કોચી","ur":"کوچی","kn":"ಕೊಚ್ಚಿ","or":"କୋଚି","ml":"കൊച്ചി","pa":"ਕੋਚੀ"},
     state: "Kerala",
     stateCode: "IN-KL",
     tier: "million_plus",
@@ -323,6 +339,7 @@ export const CITIES: Record<CityId, CityConfig> = {
   nagpur: {
     id: "nagpur",
     name: "Nagpur",
+    nameI18n: {"hi":"नागपुर","bn":"নাগপুর","mr":"नागपूर","te":"నాగపూర్","ta":"நாக்பூர்","gu":"નાગપુર","ur":"ناگپور","kn":"ನಾಗಪುರ","or":"ନାଗପୁର","ml":"നാഗ്‌പൂർ","pa":"ਨਾਗਪੁਰ","as":"নাগপুৰ"},
     state: "Maharashtra",
     stateCode: "IN-MH",
     tier: "million_plus",
@@ -337,6 +354,7 @@ export const CITIES: Record<CityId, CityConfig> = {
   kanpur: {
     id: "kanpur",
     name: "Kanpur",
+    nameI18n: {"hi":"कानपुर","bn":"কানপুর","mr":"कानपूर","te":"కాన్పూరు","ta":"கான்பூர்","gu":"કાનપુર","ur":"کان پور","kn":"ಕಾನ್ಪುರ","or":"କାନପୁର","ml":"കാൺപൂർ","pa":"ਕਾਨਪੁਰ"},
     state: "Uttar Pradesh",
     stateCode: "IN-UP",
     tier: "million_plus",
@@ -351,6 +369,7 @@ export const CITIES: Record<CityId, CityConfig> = {
   bhubaneswar: {
     id: "bhubaneswar",
     name: "Bhubaneswar",
+    nameI18n: {"hi":"भुवनेश्वर","bn":"ভুবনেশ্বর","mr":"भुवनेश्वर","te":"భుబనేశ్వర్","ta":"புவனேசுவரம்","gu":"ભુવનેશ્વર","ur":"بھوبنیشور","kn":"ಭುವನೇಶ್ವರ","or":"ଭୁବନେଶ୍ୱର","ml":"ഭുവനേശ്വർ","pa":"ਭੁਬਨੇਸ਼ਵਰ"},
     state: "Odisha",
     stateCode: "IN-OR",
     tier: "capital",
@@ -365,6 +384,7 @@ export const CITIES: Record<CityId, CityConfig> = {
   patna: {
     id: "patna",
     name: "Patna",
+    nameI18n: {"hi":"पटना","bn":"পাটনা","mr":"पाटणा","te":"పాట్నా","ta":"பட்னா","gu":"પટના","ur":"پٹنہ","kn":"ಪಟ್ನಾ","or":"ପାଟଣା, ବିହାର","ml":"പട്ന","pa":"ਪਟਨਾ","as":"পাটনা"},
     state: "Bihar",
     stateCode: "IN-BR",
     tier: "both",
@@ -379,6 +399,7 @@ export const CITIES: Record<CityId, CityConfig> = {
   bhopal: {
     id: "bhopal",
     name: "Bhopal",
+    nameI18n: {"hi":"भोपाल","bn":"ভোপাল","mr":"भोपाळ","te":"భోపాల్","ta":"போபால்","gu":"ભોપાલ","ur":"بھوپال","kn":"ಭೊಪಾಲ್","or":"ଭୋପାଳ","ml":"ഭോപ്പാൽ","pa":"ਭੋਪਾਲ"},
     state: "Madhya Pradesh",
     stateCode: "IN-MP",
     tier: "capital",
@@ -393,6 +414,7 @@ export const CITIES: Record<CityId, CityConfig> = {
   ranchi: {
     id: "ranchi",
     name: "Ranchi",
+    nameI18n: {"hi":"राँची","bn":"রাঁচি","mr":"रांची","te":"రాంచీ","ta":"ராஞ்சி","gu":"રાંચી","ur":"رانچی","kn":"ರಾಂಚಿ","or":"ରାଞ୍ଚି","ml":"റാഞ്ചി","pa":"ਰਾਂਚੀ","as":"ৰাঁচী"},
     state: "Jharkhand",
     stateCode: "IN-JH",
     tier: "capital",
@@ -407,6 +429,7 @@ export const CITIES: Record<CityId, CityConfig> = {
   thiruvananthapuram: {
     id: "thiruvananthapuram",
     name: "Thiruvananthapuram",
+    nameI18n: {"hi":"तिरुवनन्तपुरम","bn":"তিরুবনন্তপুরম","mr":"तिरुवनंतपुरम","te":"తిరువనంతపురం","ta":"திருவனந்தபுரம்","gu":"તિરૂવનંતપુરમ","ur":"تروواننتاپورم","kn":"ತಿರುವನಂತಪುರಮ್","or":"ଥିରୁଅନନ୍ତପୁରମ","ml":"തിരുവനന്തപുരം","pa":"ਤਿਰੂਵਨੰਤਪੁਰਮ"},
     state: "Kerala",
     stateCode: "IN-KL",
     tier: "capital",
@@ -421,6 +444,7 @@ export const CITIES: Record<CityId, CityConfig> = {
   dehradun: {
     id: "dehradun",
     name: "Dehradun",
+    nameI18n: {"hi":"देहरादून","bn":"দেরাদুন","mr":"डेहराडून","te":"డెహ్రాడూన్","ta":"தேராதூன்","gu":"દેહરાદૂન","ur":"دہرہ دون","kn":"ದೆಹರಾದೂನ್","or":"ଡେରାଡୁନ","ml":"ഡെറാഡൂൺ","pa":"ਦੇਹਰਾਦੂਨ","as":"দেৰাডুন"},
     state: "Uttarakhand",
     stateCode: "IN-UK",
     tier: "capital",
@@ -435,6 +459,7 @@ export const CITIES: Record<CityId, CityConfig> = {
   gandhinagar: {
     id: "gandhinagar",
     name: "Gandhinagar",
+    nameI18n: {"hi":"गाँधीनगर","bn":"গান্ধীনগর","mr":"गांधीनगर","te":"గాంధీనగర్","ta":"காந்திநகர்","gu":"ગાંધીનગર","ur":"گاندھی نگر","kn":"ಗಾಂಧಿನಗರ","or":"ଗାନ୍ଧୀନଗର","ml":"ഗാന്ധിനഗർ","pa":"ਗਾਂਧੀਨਗਰ","as":"গান্ধীনগৰ"},
     state: "Gujarat",
     stateCode: "IN-GJ",
     tier: "capital",
@@ -449,6 +474,7 @@ export const CITIES: Record<CityId, CityConfig> = {
   panaji: {
     id: "panaji",
     name: "Panaji",
+    nameI18n: {"hi":"पणजी","bn":"পানাজি","mr":"पणजी","te":"పనాజీ","ta":"பனஜி","gu":"પણજી","ur":"پنجی","kn":"ಪಣಜಿ","or":"ପାଣାଜୀ","ml":"പണജീ","pa":"ਪੰਜਿਮ"},
     state: "Goa",
     stateCode: "IN-GA",
     tier: "capital",
@@ -463,6 +489,7 @@ export const CITIES: Record<CityId, CityConfig> = {
   raipur: {
     id: "raipur",
     name: "Raipur",
+    nameI18n: {"hi":"रायपुर","bn":"রায়পুর, ভারত","mr":"रायपूर","te":"రాయ్‌పూర్","ta":"ராய்ப்பூர், சத்தீஸ்கர்","gu":"રાયપુર","ur":"رائے پور","kn":"ರಾಯ್ಪುರ್","or":"ରାୟପୁର, ଛତିଶଗଡ଼","ml":"റായ്‌പൂർ","pa":"ਰਾਇਪੁਰ"},
     state: "Chhattisgarh",
     stateCode: "IN-CT",
     tier: "capital",
@@ -477,6 +504,7 @@ export const CITIES: Record<CityId, CityConfig> = {
   chandigarh: {
     id: "chandigarh",
     name: "Chandigarh",
+    nameI18n: {"bn":"চণ্ডীগড়","gu":"ચંડીગઢ","as":"চণ্ডীগড়","hi":"चण्डीगढ़","mr":"चंदिगढ","te":"చండీగఢ్","ta":"சண்டிகர்","ur":"چنڈی گڑھ","kn":"ಚಂಡೀಗಡ","or":"ଚଣ୍ଡୀଗଡ଼","ml":"ചണ്ഡീഗഢ്","pa":"ਚੰਡੀਗੜ੍ਹ"},
     state: "Chandigarh",
     stateCode: "IN-CH",
     tier: "both",
@@ -491,6 +519,7 @@ export const CITIES: Record<CityId, CityConfig> = {
   shillong: {
     id: "shillong",
     name: "Shillong",
+    nameI18n: {"hi":"शिलांग","bn":"শিলং","mr":"शिलाँग","te":"షిల్లాంగ్","ta":"சில்லாங்","gu":"શિલોંગ","ur":"شیلانگ","kn":"ಶಿಲ್ಲಾಂಗ್","or":"ଶିଲଂ","ml":"ഷില്ലോങ്ങ്","pa":"ਸ਼ਿਲਾਂਗ","as":"শ্বিলং"},
     state: "Meghalaya",
     stateCode: "IN-ML",
     tier: "capital",
@@ -505,6 +534,7 @@ export const CITIES: Record<CityId, CityConfig> = {
   aizawl: {
     id: "aizawl",
     name: "Aizawl",
+    nameI18n: {"hi":"अइज़ोल","bn":"আইজল","mr":"ऐझॉल","te":"ఐజ్వాల్","ta":"அய்சால்","gu":"ઐઝવાલ","ur":"آئیزول","kn":"ಐಝ್ವಾಲ್","or":"ଆଇଜୋଲ","ml":"ഐസോൾ","pa":"ਆਈਜ਼ੋਲ","as":"আইজল"},
     state: "Mizoram",
     stateCode: "IN-MZ",
     tier: "capital",
@@ -519,6 +549,7 @@ export const CITIES: Record<CityId, CityConfig> = {
   imphal: {
     id: "imphal",
     name: "Imphal",
+    nameI18n: {"hi":"इम्फाल","bn":"ইম্ফল","mr":"इंफाळ","te":"ఇంఫాల్","ta":"இம்பால்","gu":"ઇમ્ફાલ","ur":"امفال","kn":"ಇಂಫಾಲ","or":"ଇମ୍ଫାଲ","ml":"ഇംഫാൽ","pa":"ਇੰਫਾਲ","as":"ইম্ফাল"},
     state: "Manipur",
     stateCode: "IN-MN",
     tier: "capital",
@@ -533,6 +564,7 @@ export const CITIES: Record<CityId, CityConfig> = {
   itanagar: {
     id: "itanagar",
     name: "Itanagar",
+    nameI18n: {"hi":"ईटानगर","bn":"ইটানগর","mr":"इटानगर","te":"ఇటానగర్","ta":"இட்டாநகர்","gu":"ઇટાનગર","ur":"ایٹانگر","kn":"ಇಟಾನಗರ","or":"ଇଟାନଗର","ml":"ഇറ്റാനഗർ","pa":"ਈਟਾਨਗਰ","as":"ইটানগৰ"},
     state: "Arunachal Pradesh",
     stateCode: "IN-AR",
     tier: "capital",
@@ -547,6 +579,7 @@ export const CITIES: Record<CityId, CityConfig> = {
   kohima: {
     id: "kohima",
     name: "Kohima",
+    nameI18n: {"hi":"कोहिमा","bn":"কোহিমা","mr":"कोहिमा","te":"కోహిమా","ta":"கோகிமா","gu":"કોહિમા","ur":"کوہیما","kn":"ಕೋಹಿಮ","or":"କୋହିମା","ml":"കൊഹിമ","pa":"ਕੋਹਿਮਾ","as":"কহিমা"},
     state: "Nagaland",
     stateCode: "IN-NL",
     tier: "capital",
@@ -561,6 +594,7 @@ export const CITIES: Record<CityId, CityConfig> = {
   agartala: {
     id: "agartala",
     name: "Agartala",
+    nameI18n: {"hi":"अगरतला","bn":"আগরতলা","mr":"आगरताळा","te":"అగర్తల","ta":"அகர்தலா","gu":"અગરતલા","ur":"اگرتلا","kn":"ಅಗರ್ತಲ","or":"ଅଗରତାଲା","ml":"അഗർത്തല","pa":"ਅਗਰਤਲਾ","as":"আগৰতলা"},
     state: "Tripura",
     stateCode: "IN-TR",
     tier: "capital",
@@ -575,6 +609,7 @@ export const CITIES: Record<CityId, CityConfig> = {
   shimla: {
     id: "shimla",
     name: "Shimla",
+    nameI18n: {"hi":"शिमला","bn":"শিমলা","mr":"शिमला","te":"సిమ్లా","ta":"சிம்லா","gu":"શિમલા","ur":"شملہ","kn":"ಶಿಮ್ಲಾ","or":"ଶିମଲା","ml":"ഷിംല","pa":"ਸ਼ਿਮਲਾ"},
     state: "Himachal Pradesh",
     stateCode: "IN-HP",
     tier: "capital",
@@ -589,6 +624,7 @@ export const CITIES: Record<CityId, CityConfig> = {
   srinagar: {
     id: "srinagar",
     name: "Srinagar",
+    nameI18n: {"hi":"श्रीनगर, जम्मू और कश्मीर","bn":"শ্রীনগর","mr":"श्रीनगर","te":"శ్రీనగర్","ta":"சிறிநகர்","gu":"શ્રીનગર","ur":"سری نگر","kn":"ಶ್ರೀನಗರ","or":"ଶ୍ରୀନଗର","ml":"ശ്രീനഗർ","pa":"ਸ੍ਰੀਨਗਰ"},
     state: "Jammu and Kashmir",
     stateCode: "IN-JK",
     tier: "capital",
@@ -603,6 +639,7 @@ export const CITIES: Record<CityId, CityConfig> = {
   jammu: {
     id: "jammu",
     name: "Jammu",
+    nameI18n: {"hi":"जम्मू","bn":"জম্মু","mr":"जम्मू","te":"జమ్మూ","ta":"சம்மு","ur":"جموں","ml":"ജമ്മു","pa":"ਜੰਮੂ"},
     state: "Jammu and Kashmir",
     stateCode: "IN-JK",
     tier: "capital",
@@ -617,6 +654,7 @@ export const CITIES: Record<CityId, CityConfig> = {
   leh: {
     id: "leh",
     name: "Leh",
+    nameI18n: {"hi":"लेह","bn":"লেহ","mr":"लेह","te":"లేహ్","ta":"லே","gu":"લેહ","ur":"لہہ","kn":"ಲೇಹ್","ml":"ലേ","pa":"ਲੇਹ","as":"লেহ"},
     state: "Ladakh",
     stateCode: "IN-LA",
     tier: "capital",
@@ -631,6 +669,7 @@ export const CITIES: Record<CityId, CityConfig> = {
   puducherry: {
     id: "puducherry",
     name: "Puducherry",
+    nameI18n: {"hi":"पुदुचेरी","bn":"পুদুচেরি","mr":"पाँडिचेरी","te":"పాండిచ్చేరి","ta":"புதுச்சேரி","ur":"پانڈچیری","kn":"ಪಾಂಡಿಚೆರಿ ನಗರ","or":"ପଣ୍ଡିଚେରୀ","ml":"പുതുച്ചേരി നഗരം"},
     state: "Puducherry",
     stateCode: "IN-PY",
     tier: "capital",
@@ -645,6 +684,7 @@ export const CITIES: Record<CityId, CityConfig> = {
   port_blair: {
     id: "port_blair",
     name: "Port Blair",
+    nameI18n: {"hi":"पोर्ट ब्लेयर","bn":"পোর্ট ব্লেয়ার","mr":"श्री विजयपुरम","te":"పోర్ట్ బ్లెయిర్","ta":"போர்ட் பிளேர்","gu":"પોર્ટ બ્લેયર","ur":"پورٹ بلیئر","kn":"ಪೋರ್ಟ್ ಬ್ಲೇರ್","or":"ପୋର୍ଟ ବ୍ଲେୟର","ml":"പോർട്ട് ബ്ലെയർ","pa":"ਪੋਰਟ ਬਲੇਅਰ"},
     state: "Andaman and Nicobar Islands",
     stateCode: "IN-AN",
     tier: "capital",
@@ -659,6 +699,7 @@ export const CITIES: Record<CityId, CityConfig> = {
   amaravati: {
     id: "amaravati",
     name: "Amaravati (Vijayawada)",
+    nameI18n: {"hi":"विजयवाड़ा","bn":"বিজয়ওয়াড়া","mr":"विजयवाडा","te":"విజయవాడ","ta":"விசயவாடா","gu":"વિજયવાડા","ur":"وجئے واڑہ","kn":"ವಿಜಯವಾಡ","or":"ବିଜୟୱାଡ଼ା","ml":"വിജയവാഡ","pa":"ਵਿਜੈਵਾੜਾ"},
     state: "Andhra Pradesh",
     stateCode: "IN-AP",
     tier: "capital",
@@ -673,6 +714,7 @@ export const CITIES: Record<CityId, CityConfig> = {
   guwahati: {
     id: "guwahati",
     name: "Guwahati",
+    nameI18n: {"hi":"गुवाहाटी","bn":"গুয়াহাটি","mr":"गुवाहाटी","te":"గువహాటి","ta":"குவகாத்தி","gu":"ગુવાહાટી","ur":"گوہاٹی","kn":"ಗುವಾಹಾಟಿ","or":"ଗୁଆହାଟୀ","ml":"ഗുവഹാത്തി","pa":"ਗੁਹਾਟੀ","as":"গুৱাহাটী"},
     state: "Assam",
     stateCode: "IN-AS",
     tier: "capital",
@@ -687,6 +729,7 @@ export const CITIES: Record<CityId, CityConfig> = {
   gangtok: {
     id: "gangtok",
     name: "Gangtok",
+    nameI18n: {"hi":"गान्तोक","bn":"গ্যাংটক","mr":"गंगटोक","te":"గాంగ్‌టక్","ta":"கேங்டாக்","gu":"ગંગટોક","ur":"گینگٹاک","kn":"ಗ್ಯಾಂಗಟಕ್","or":"ଗାଙ୍ଗଟକ","ml":"ഗങ്ങ്ടോക്ക്","pa":"ਗੰਗਟੋਕ","as":"গেংটক"},
     state: "Sikkim",
     stateCode: "IN-SK",
     tier: "capital",

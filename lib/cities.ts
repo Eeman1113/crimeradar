@@ -11,6 +11,9 @@ export { CITIES, CITY_IDS };
 export type CityConfig = {
   id: CityId;
   name: string;
+  // Localized display names keyed by Locale id (hi, bn, mr, ta, te, gu, ur,
+  // kn, or, ml, pa, as). Partial — falls back to `name` (English) at render.
+  nameI18n?: Record<string, string>;
   state: string;
   // ISO 3166-2:IN code, e.g. "IN-MH" — used by the UI to group cities by state.
   stateCode: string;

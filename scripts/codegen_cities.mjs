@@ -78,6 +78,9 @@ function emitCities(manifest) {
     lines.push(`  ${c.id}: {`);
     lines.push(`    id: "${c.id}",`);
     lines.push(`    name: ${JSON.stringify(c.name)},`);
+    if (c.nameI18n && Object.keys(c.nameI18n).length > 0) {
+      lines.push(`    nameI18n: ${JSON.stringify(c.nameI18n)},`);
+    }
     lines.push(`    state: ${JSON.stringify(c.state)},`);
     lines.push(`    stateCode: ${JSON.stringify(c.stateCode)},`);
     lines.push(`    tier: ${JSON.stringify(c.tier)},`);

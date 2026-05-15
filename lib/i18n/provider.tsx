@@ -16,6 +16,7 @@ import {
   type Locale,
 } from "./locales";
 import { DICTIONARIES, type StringKey } from "./strings";
+import { CITIES, type CityId } from "../cities";
 
 const STORAGE_KEY = "crimeradar.locale";
 
@@ -23,6 +24,7 @@ type Ctx = {
   locale: Locale;
   setLocale: (l: Locale) => void;
   t: (key: StringKey, vars?: Record<string, string | number>) => string;
+  cityName: (id: CityId) => string;
 };
 
 const I18nContext = createContext<Ctx | null>(null);
@@ -78,9 +80,14 @@ export function I18nProvider({ children }: { children: React.ReactNode }) {
     [locale],
   );
 
+  const cityName = useCallback(
+    (id: CityId) => CITIES[id]?.nameI18n?.[locale] ?? CITIES[id]?.name ?? id,
+    [locale],
+  );
+
   const value = useMemo<Ctx>(
-    () => ({ locale, setLocale, t }),
-    [locale, setLocale, t],
+    () => ({ locale, setLocale, t, cityName }),
+    [locale, setLocale, t, cityName],
   );
 
   return (
@@ -99,6 +106,7 @@ export function useI18n() {
           DICTIONARIES[DEFAULT_LOCALE][key] ?? key,
           vars,
         ),
+      cityName: (id: CityId) => CITIES[id]?.name ?? id,
     } as Ctx;
   }
   return ctx;

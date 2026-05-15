@@ -6,6 +6,7 @@ import CrimeBreakdownChart from "@/components/CrimeBreakdownChart";
 import NightToggle from "@/components/NightToggle";
 import WardScoreDisplay from "@/components/WardScoreDisplay";
 import NewsLink from "@/components/NewsLink";
+import LocalizedCityName from "@/components/LocalizedCityName";
 import { CITY_IDS, getCity, isCityId } from "@/lib/cities";
 import {
   dynamicWardConcerns,
@@ -74,7 +75,7 @@ export default async function WardPage({
           <div className="flex flex-col sm:flex-row sm:items-start sm:justify-between gap-4">
             <div>
               <p className="text-sm text-muted-foreground">
-                {cfg.name} · {cfg.unit}
+                <LocalizedCityName cityId={city} /> · {cfg.unit}
               </p>
               <h1 className="text-3xl sm:text-4xl font-semibold tracking-tight">
                 {cfg.unit === "MCD ward" || cfg.unit === "GHMC ward"

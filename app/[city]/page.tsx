@@ -8,6 +8,7 @@ import NightToggle from "@/components/NightToggle";
 import WomenToggle from "@/components/WomenToggle";
 import RankList from "@/components/RankList";
 import CityStatsCard from "@/components/CityStatsCard";
+import LocalizedCityName from "@/components/LocalizedCityName";
 import TrendChart from "@/components/TrendChart";
 import AnnualTrendChart from "@/components/AnnualTrendChart";
 import NightDeltaChart from "@/components/NightDeltaChart";
@@ -70,7 +71,7 @@ export default async function CityHome({
                 All cities
               </Link>
               <h1 className="mt-2 text-3xl sm:text-4xl font-semibold tracking-tight">
-                {cfg.name}
+                <LocalizedCityName cityId={city} />
               </h1>
               <p className="mt-1 text-muted-foreground max-w-2xl text-sm sm:text-base leading-relaxed">
                 Estimated risk per {cfg.unit} with a night-time multiplier

@@ -10,6 +10,7 @@ import {
 import { CITIES, CITY_IDS } from "@/lib/cities";
 import { listAbsconders } from "@/lib/absconders";
 import { historyMeta, monthlyStatsMeta } from "@/lib/wards";
+import { useI18n } from "@/lib/i18n/provider";
 
 function daysSince(iso: string | null | undefined) {
   if (!iso) return null;
@@ -27,8 +28,8 @@ function freshness(days: number | null) {
 }
 
 export default function DataFreshnessPanel() {
+  const { cityName } = useI18n();
   const rows = CITY_IDS.map((id) => {
-    const cfg = CITIES[id];
     const stats = monthlyStatsMeta(id);
     const hist = historyMeta(id);
     const absC = listAbsconders(id).length;
@@ -37,7 +38,7 @@ export default function DataFreshnessPanel() {
       : null;
     return {
       id,
-      name: cfg.name,
+      name: cityName(id),
       stats: stats.source ? stats : null,
       hist,
       absconderCount: absC,

@@ -3,6 +3,7 @@ import { CRIME_CATEGORY_LABELS, type CrimeCategory } from "@/lib/types";
 import type { CityId } from "@/lib/cities";
 import { getCity } from "@/lib/cities";
 import { monthlyStatsMeta } from "@/lib/wards";
+import LocalizedCityName from "@/components/LocalizedCityName";
 import {
   Card,
   CardContent,
@@ -25,7 +26,7 @@ const ORDER: CrimeCategory[] = [
 
 export default function CityStatsCard({ city }: { city: CityId }) {
   const meta = monthlyStatsMeta(city);
-  const cfg = getCity(city)!;
+  getCity(city)!; // assert valid city
   const totals = meta.totals as Partial<Record<CrimeCategory, number>>;
   const present = ORDER.filter((c) => (totals[c] ?? 0) > 0);
   if (present.length === 0) return null;
@@ -54,7 +55,7 @@ export default function CityStatsCard({ city }: { city: CityId }) {
       <CardHeader className="pb-3">
         <CardTitle className="text-sm flex items-center gap-1.5">
           <BarChart3 className="h-3.5 w-3.5 text-sky-500" />
-          {cfg.name} reported incidents
+          <LocalizedCityName cityId={city} /> reported incidents
         </CardTitle>
         <CardDescription className="text-xs">
           {windowLabel} · city-aggregate

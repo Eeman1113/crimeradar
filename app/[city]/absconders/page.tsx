@@ -8,6 +8,7 @@ import {
   listAbsconders,
 } from "@/lib/absconders";
 import { CITY_IDS, getCity, isCityId } from "@/lib/cities";
+import LocalizedCityName from "@/components/LocalizedCityName";
 import { Card, CardContent } from "@/components/ui/card";
 
 export const metadata = {
@@ -60,7 +61,7 @@ export default async function AbscondersPage({
           </p>
         ) : null}
         <h1 className="text-3xl font-semibold tracking-tight">
-          {cfg.name} absconders
+          <LocalizedCityName cityId={city} /> absconders
         </h1>
         <p className="text-sm text-muted-foreground max-w-2xl">
           We republish names only from official police absconder lists (CrPC

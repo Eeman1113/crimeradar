@@ -3,6 +3,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { getAbsconder, listAbsconders } from "@/lib/absconders";
 import { CITY_IDS, getCity, isCityId } from "@/lib/cities";
+import LocalizedCityName from "@/components/LocalizedCityName";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
 
@@ -44,7 +45,7 @@ export default async function AbsconderPage({
       </Link>
       <header className="flex flex-col gap-1">
         <p className="text-xs text-muted-foreground">
-          {cfg.name} police absconder list entry
+          <LocalizedCityName cityId={city} /> police absconder list entry
           {a.pdfId ? ` #${a.pdfId}` : ""}
         </p>
         <h1 className="text-3xl font-semibold tracking-tight">{a.name}</h1>

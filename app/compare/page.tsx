@@ -34,6 +34,7 @@ import {
   CRIME_CATEGORY_LABELS,
   type CrimeCategory,
 } from "@/lib/types";
+import { useI18n } from "@/lib/i18n/provider";
 
 const CATS: CrimeCategory[] = [
   "sexual_offence",
@@ -70,6 +71,7 @@ const CITY_COLOR: Record<CityId, string> = Object.fromEntries(
 
 export default function ComparePage() {
   const { resolvedTheme } = useTheme();
+  const { cityName } = useI18n();
   const isDark = resolvedTheme === "dark";
   const grid = isDark ? "#27272a" : "#e4e4e7";
   const axis = isDark ? "#a1a1aa" : "#71717a";
@@ -184,7 +186,7 @@ export default function ComparePage() {
                   className="inline-block h-2 w-2 rounded-full mr-2"
                   style={{ background: CITY_COLOR[c] }}
                 />
-                {CITIES[c].name}
+                {cityName(c)}
               </Button>
             );
           })}
@@ -248,6 +250,7 @@ export default function ComparePage() {
                       {[...picked].map((c) => (
                         <Bar
                           key={c}
+                          name={cityName(c)}
                           dataKey={CITIES[c].name}
                           fill={CITY_COLOR[c]}
                           radius={[3, 3, 0, 0]}
@@ -297,7 +300,7 @@ export default function ComparePage() {
                       {[...picked].map((c) => (
                         <Radar
                           key={c}
-                          name={CITIES[c].name}
+                          name={cityName(c)}
                           dataKey={CITIES[c].name}
                           stroke={CITY_COLOR[c]}
                           fill={CITY_COLOR[c]}
@@ -325,7 +328,7 @@ export default function ComparePage() {
                         style={{ background: CITY_COLOR[c] }}
                       />
                       <strong className="text-foreground">
-                        {CITIES[c].name}
+                        {cityName(c)}
                       </strong>{" "}
                       —{" "}
                       {meta.source ? (

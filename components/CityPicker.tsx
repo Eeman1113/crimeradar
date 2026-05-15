@@ -26,17 +26,19 @@ export type CityTile = {
 };
 
 export default function CityPicker({ tiles }: { tiles: CityTile[] }) {
-  const { t } = useI18n();
+  const { t, cityName } = useI18n();
   const [query, setQuery] = useState("");
 
   const filtered = useMemo(() => {
     const q = query.trim().toLowerCase();
     if (!q) return tiles;
     return tiles.filter(
-      (t) =>
-        t.name.toLowerCase().includes(q) || t.state.toLowerCase().includes(q),
+      (tile) =>
+        tile.name.toLowerCase().includes(q) ||
+        tile.state.toLowerCase().includes(q) ||
+        cityName(tile.id).toLowerCase().includes(q),
     );
-  }, [tiles, query]);
+  }, [tiles, query, cityName]);
 
   return (
     <div className="flex flex-col gap-4">
@@ -85,7 +87,9 @@ export default function CityPicker({ tiles }: { tiles: CityTile[] }) {
                     <CardHeader className="pb-3">
                       <div className="flex items-start justify-between gap-2">
                         <div className="min-w-0">
-                          <CardTitle className="text-lg">{tile.name}</CardTitle>
+                          <CardTitle className="text-lg">
+                            {cityName(tile.id)}
+                          </CardTitle>
                           <p className="text-xs text-muted-foreground mt-0.5">
                             {tile.state}
                           </p>
