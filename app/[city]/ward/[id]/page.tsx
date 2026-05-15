@@ -7,6 +7,7 @@ import NightToggle from "@/components/NightToggle";
 import WardScoreDisplay from "@/components/WardScoreDisplay";
 import { CITY_IDS, getCity, isCityId } from "@/lib/cities";
 import {
+  dynamicWardConcerns,
   listWards,
   wardFromSlug,
   wardNews,
@@ -56,6 +57,11 @@ export default async function WardPage({
     .sort((a, b) => b[1] - a[1])
     .slice(0, 3)
     .map(([cat]) => cat);
+  const concerns = dynamicWardConcerns(city, ward);
+  const ratePerK =
+    ward.population > 0
+      ? (totalIncidents / (ward.population / 1000)).toFixed(1)
+      : null;
 
   return (
     <div className="flex-1">
@@ -116,7 +122,11 @@ export default async function WardPage({
               <CardDescription className="text-xs">
                 {news.length > 0
                   ? `${news.length} recent crime-related headlines mentioning this area (Google News, last 18 months)`
-                  : "No recent local crime news found — falling back to general patterns"}
+                  : `No recent local crime news matched — patterns below derived from ${totalIncidents.toLocaleString(
+                      "en-IN",
+                    )} YTD reported incidents${
+                      ratePerK ? ` (≈ ${ratePerK}/1,000 residents)` : ""
+                    }`}
               </CardDescription>
             </CardHeader>
             <CardContent className="flex flex-col gap-2">
@@ -153,12 +163,17 @@ export default async function WardPage({
                 </ul>
               ) : (
                 <ul className="flex flex-col gap-2">
-                  {ward.topConcerns.map((c, i) => (
+                  {concerns.map((c, i) => (
                     <li
                       key={i}
-                      className="rounded-md border bg-card p-3 text-sm text-muted-foreground"
+                      className="rounded-md border bg-card p-3 text-sm"
                     >
-                      {c}
+                      <p className="text-foreground">{c.text}</p>
+                      {c.detail ? (
+                        <p className="mt-0.5 text-xs text-muted-foreground">
+                          {c.detail}
+                        </p>
+                      ) : null}
                     </li>
                   ))}
                 </ul>

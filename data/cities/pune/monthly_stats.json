@@ -1,0 +1,8 @@
+{
+  "source": null,
+  "indexUrl": "https://admin.punepolice.gov.in/CrimeStatistics",
+  "publishedFor": null,
+  "scrapedAt": null,
+  "cityWideYtdTotals": {},
+  "notes": "Pending ingest. Pune City Police publishes an annual crime statistics PDF (admin.punepolice.gov.in/CrimeStatistics) — only an older year (2019) is currently exposed. NCRB publishes a city total (~17,022 IPC cases for Pune in 2023) but no per-category city-wise table in machine-readable form. Per-category city totals used by the seed file in wards-raw.ts are MODELLED from NCRB 2014 Pune per-100k rates projected to 2024 population. Scraper for the annual PDF TBD."
+}

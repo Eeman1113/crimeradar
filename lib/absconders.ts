@@ -4,6 +4,9 @@ import delhi from "@/data/cities/delhi/absconders.json";
 import chennai from "@/data/cities/chennai/absconders.json";
 import hyderabad from "@/data/cities/hyderabad/absconders.json";
 import kolkata from "@/data/cities/kolkata/absconders.json";
+import pune from "@/data/cities/pune/absconders.json";
+import gurugram from "@/data/cities/gurugram/absconders.json";
+import noida from "@/data/cities/noida/absconders.json";
 
 import type { CityId } from "./cities";
 
@@ -33,6 +36,9 @@ const FILES: Record<CityId, AbsconderFile> = {
   chennai: chennai as AbsconderFile,
   hyderabad: hyderabad as AbsconderFile,
   kolkata: kolkata as AbsconderFile,
+  pune: pune as AbsconderFile,
+  gurugram: gurugram as AbsconderFile,
+  noida: noida as AbsconderFile,
 };
 
 const INDEXES: Record<CityId, Map<string, Absconder>> = Object.fromEntries(

@@ -4,6 +4,9 @@ import { WARDS_SEED as DELHI_SEED } from "@/data/cities/delhi/wards-raw";
 import { WARDS_SEED as CHENNAI_SEED } from "@/data/cities/chennai/wards-raw";
 import { WARDS_SEED as HYDERABAD_SEED } from "@/data/cities/hyderabad/wards-raw";
 import { WARDS_SEED as KOLKATA_SEED } from "@/data/cities/kolkata/wards-raw";
+import { WARDS_SEED as PUNE_SEED } from "@/data/cities/pune/wards-raw";
+import { WARDS_SEED as GURUGRAM_SEED } from "@/data/cities/gurugram/wards-raw";
+import { WARDS_SEED as NOIDA_SEED } from "@/data/cities/noida/wards-raw";
 
 import mumbaiStatsJson from "@/data/cities/mumbai/monthly_stats.json";
 import bangaloreStatsJson from "@/data/cities/bangalore/monthly_stats.json";
@@ -11,6 +14,9 @@ import delhiStatsJson from "@/data/cities/delhi/monthly_stats.json";
 import chennaiStatsJson from "@/data/cities/chennai/monthly_stats.json";
 import hyderabadStatsJson from "@/data/cities/hyderabad/monthly_stats.json";
 import kolkataStatsJson from "@/data/cities/kolkata/monthly_stats.json";
+import puneStatsJson from "@/data/cities/pune/monthly_stats.json";
+import gurugramStatsJson from "@/data/cities/gurugram/monthly_stats.json";
+import noidaStatsJson from "@/data/cities/noida/monthly_stats.json";
 
 import mumbaiHistoryJson from "@/data/cities/mumbai/monthly_stats_history.json";
 import bangaloreHistoryJson from "@/data/cities/bangalore/monthly_stats_history.json";
@@ -18,6 +24,9 @@ import delhiHistoryJson from "@/data/cities/delhi/monthly_stats_history.json";
 import chennaiHistoryJson from "@/data/cities/chennai/monthly_stats_history.json";
 import hyderabadHistoryJson from "@/data/cities/hyderabad/monthly_stats_history.json";
 import kolkataHistoryJson from "@/data/cities/kolkata/monthly_stats_history.json";
+import puneHistoryJson from "@/data/cities/pune/monthly_stats_history.json";
+import gurugramHistoryJson from "@/data/cities/gurugram/monthly_stats_history.json";
+import noidaHistoryJson from "@/data/cities/noida/monthly_stats_history.json";
 
 import mumbaiNewsJson from "@/data/cities/mumbai/ward_news.json";
 import bangaloreNewsJson from "@/data/cities/bangalore/ward_news.json";
@@ -25,13 +34,17 @@ import delhiNewsJson from "@/data/cities/delhi/ward_news.json";
 import chennaiNewsJson from "@/data/cities/chennai/ward_news.json";
 import hyderabadNewsJson from "@/data/cities/hyderabad/ward_news.json";
 import kolkataNewsJson from "@/data/cities/kolkata/ward_news.json";
+import puneNewsJson from "@/data/cities/pune/ward_news.json";
+import gurugramNewsJson from "@/data/cities/gurugram/ward_news.json";
+import noidaNewsJson from "@/data/cities/noida/ward_news.json";
 
 import { normalizeScores, rawScore, rawWomenScore } from "./risk";
-import type {
-  CrimeBreakdown,
-  CrimeCategory,
-  DataQuality,
-  Ward,
+import {
+  CRIME_CATEGORY_LABELS,
+  type CrimeBreakdown,
+  type CrimeCategory,
+  type DataQuality,
+  type Ward,
 } from "./types";
 import type { CityId } from "./cities";
 
@@ -54,6 +67,9 @@ const SEEDS: Record<CityId, WardSeedFile> = {
   chennai: CHENNAI_SEED,
   hyderabad: HYDERABAD_SEED,
   kolkata: KOLKATA_SEED,
+  pune: PUNE_SEED,
+  gurugram: GURUGRAM_SEED,
+  noida: NOIDA_SEED,
 };
 
 const STATS: Record<CityId, MonthlyStats> = {
@@ -63,6 +79,9 @@ const STATS: Record<CityId, MonthlyStats> = {
   chennai: chennaiStatsJson as MonthlyStats,
   hyderabad: hyderabadStatsJson as MonthlyStats,
   kolkata: kolkataStatsJson as MonthlyStats,
+  pune: puneStatsJson as MonthlyStats,
+  gurugram: gurugramStatsJson as MonthlyStats,
+  noida: noidaStatsJson as MonthlyStats,
 };
 
 const FALLBACK_SEEDED_AT = "2026-05-15";
@@ -156,6 +175,9 @@ const WARDS_BY_CITY: Record<CityId, Ward[]> = {
   chennai: buildWardsFor("chennai"),
   hyderabad: buildWardsFor("hyderabad"),
   kolkata: buildWardsFor("kolkata"),
+  pune: buildWardsFor("pune"),
+  gurugram: buildWardsFor("gurugram"),
+  noida: buildWardsFor("noida"),
 };
 
 const WARD_INDEX: Record<CityId, Map<string, Ward>> = Object.fromEntries(
@@ -237,6 +259,9 @@ const HISTORIES: Record<CityId, HistoryFile> = {
   chennai: chennaiHistoryJson as HistoryFile,
   hyderabad: hyderabadHistoryJson as HistoryFile,
   kolkata: kolkataHistoryJson as HistoryFile,
+  pune: puneHistoryJson as HistoryFile,
+  gurugram: gurugramHistoryJson as HistoryFile,
+  noida: noidaHistoryJson as HistoryFile,
 };
 
 export type SearchIndexEntry = {
@@ -303,6 +328,9 @@ const NEWS: Record<CityId, WardNewsFile> = {
   chennai: chennaiNewsJson as WardNewsFile,
   hyderabad: hyderabadNewsJson as WardNewsFile,
   kolkata: kolkataNewsJson as WardNewsFile,
+  pune: puneNewsJson as WardNewsFile,
+  gurugram: gurugramNewsJson as WardNewsFile,
+  noida: noidaNewsJson as WardNewsFile,
 };
 
 export function wardNews(city: CityId, wardId: string): NewsItem[] {
@@ -330,4 +358,102 @@ export function cityDataQuality(city: CityId): DataQuality | "empty" {
   const ws = WARDS_BY_CITY[city];
   if (!ws || ws.length === 0) return "empty";
   return ws[0].dataQuality;
+}
+
+export type DynamicConcern = {
+  text: string;
+  detail?: string;
+};
+
+export function dynamicWardConcerns(
+  city: CityId,
+  ward: Ward,
+): DynamicConcern[] {
+  const out: DynamicConcern[] = [];
+  const entries = (Object.entries(ward.breakdown) as [CrimeCategory, number][])
+    .filter(([, v]) => (v ?? 0) > 0)
+    .sort((a, b) => b[1] - a[1]);
+  const total = entries.reduce((acc, [, v]) => acc + v, 0);
+
+  if (total === 0) {
+    out.push({
+      text: "No category-level incident data available for this ward yet.",
+    });
+    return out;
+  }
+
+  const popK = Math.max(ward.population / 1000, 1);
+  const fmt = (n: number) => n.toLocaleString("en-IN");
+
+  const [topCat, topVal] = entries[0];
+  const topPct = Math.round((topVal / total) * 100);
+  out.push({
+    text: `${CRIME_CATEGORY_LABELS[topCat]} drives ${topPct}% of reported incidents`,
+    detail: `${fmt(topVal)} of ${fmt(total)} cases (YTD)`,
+  });
+
+  if (entries.length > 1 && entries[1][1] > 0) {
+    const [secCat, secVal] = entries[1];
+    const secPct = Math.round((secVal / total) * 100);
+    out.push({
+      text: `${CRIME_CATEGORY_LABELS[secCat]} is next at ${secPct}%`,
+      detail: `${fmt(secVal)} cases`,
+    });
+  }
+
+  const cityWards = WARDS_BY_CITY[city] ?? [];
+  if (cityWards.length > 1) {
+    const ranked = [...cityWards].sort((a, b) => b.riskScore - a.riskScore);
+    const rank = ranked.findIndex((w) => w.id === ward.id) + 1;
+    if (rank > 0) {
+      out.push({
+        text: `Daytime risk ranks #${rank} of ${cityWards.length} in ${
+          city.charAt(0).toUpperCase() + city.slice(1)
+        }`,
+        detail: `Score ${ward.riskScore}/100`,
+      });
+    }
+  }
+
+  const rate = total / popK;
+  out.push({
+    text: `≈ ${rate.toFixed(1)} reported incidents per 1,000 residents`,
+    detail: `Population ≈ ${fmt(ward.population)}`,
+  });
+
+  const nightDelta = ward.riskScoreNight - ward.riskScore;
+  if (nightDelta >= 5) {
+    const nightCats = (
+      Object.entries(ward.breakdown) as [CrimeCategory, number][]
+    )
+      .filter(
+        ([c, v]) =>
+          (v ?? 0) > 0 &&
+          (c === "sexual_offence" ||
+            c === "assault" ||
+            c === "robbery" ||
+            c === "harassment"),
+      )
+      .sort((a, b) => b[1] - a[1])
+      .slice(0, 2)
+      .map(([c]) => CRIME_CATEGORY_LABELS[c].toLowerCase());
+    out.push({
+      text: `Night-time risk is ${nightDelta} points higher than daytime`,
+      detail: nightCats.length
+        ? `Most night-weighted: ${nightCats.join(", ")}`
+        : undefined,
+    });
+  }
+
+  const womenDelta = ward.riskScoreWomen - ward.riskScore;
+  if (womenDelta >= 5) {
+    const harass = ward.breakdown.harassment ?? 0;
+    const sex = ward.breakdown.sexual_offence ?? 0;
+    out.push({
+      text: `Women's safety score is ${womenDelta} points higher than the general score`,
+      detail: `${fmt(harass)} harassment + ${fmt(sex)} sexual offence cases`,
+    });
+  }
+
+  return out;
 }

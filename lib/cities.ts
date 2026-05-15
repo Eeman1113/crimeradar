@@ -7,7 +7,10 @@ export type CityId =
   | "delhi"
   | "chennai"
   | "hyderabad"
-  | "kolkata";
+  | "kolkata"
+  | "pune"
+  | "gurugram"
+  | "noida";
 
 export type CityConfig = {
   id: CityId;
@@ -120,6 +123,51 @@ export const CITIES: Record<CityId, CityConfig> = {
     unit: "KMC ward",
     hasMonthlyStats: false,
     hasAbsconders: true,
+  },
+  pune: {
+    id: "pune",
+    name: "Pune",
+    state: "Maharashtra",
+    center: [73.86, 18.53],
+    bounds: [
+      [73.74, 18.42],
+      [73.97, 18.63],
+    ],
+    geojson: "/geo/pune_wards.geojson",
+    wardIdKey: "ward_id",
+    unit: "PMC ward",
+    hasMonthlyStats: false,
+    hasAbsconders: false,
+  },
+  gurugram: {
+    id: "gurugram",
+    name: "Gurugram",
+    state: "Haryana",
+    center: [77.05, 28.45],
+    bounds: [
+      [76.92, 28.36],
+      [77.17, 28.54],
+    ],
+    geojson: "/geo/gurugram_wards.geojson",
+    wardIdKey: "sourcewardcode",
+    unit: "MCG ward",
+    hasMonthlyStats: true,
+    hasAbsconders: false,
+  },
+  noida: {
+    id: "noida",
+    name: "Noida",
+    state: "Uttar Pradesh",
+    center: [77.36, 28.57],
+    bounds: [
+      [77.28, 28.48],
+      [77.43, 28.64],
+    ],
+    geojson: "/geo/noida_wards.geojson",
+    wardIdKey: "name",
+    unit: "Police station area",
+    hasMonthlyStats: false,
+    hasAbsconders: false,
   },
 };
 

@@ -40,6 +40,12 @@ jobs:
         run: node scripts/ingest_ward_news.mjs hyderabad
       - name: Kolkata — ward news
         run: node scripts/ingest_ward_news.mjs kolkata
+      - name: Pune — ward news
+        run: node scripts/ingest_ward_news.mjs pune
+      - name: Gurugram — ward news
+        run: node scripts/ingest_ward_news.mjs gurugram
+      - name: Noida — ward news
+        run: node scripts/ingest_ward_news.mjs noida
 
       - name: Commit & push if data changed
         run: |

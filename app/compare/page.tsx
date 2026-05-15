@@ -53,6 +53,9 @@ const POP_PER_1K: Record<CityId, number> = {
   chennai: 7_100_000 / 1000,
   hyderabad: 7_700_000 / 1000,
   kolkata: 4_500_000 / 1000,
+  pune: 3_500_000 / 1000,
+  gurugram: 1_950_000 / 1000,
+  noida: 1_100_000 / 1000,
 };
 
 const CITY_COLOR: Record<CityId, string> = {
@@ -62,6 +65,9 @@ const CITY_COLOR: Record<CityId, string> = {
   chennai: "#0ea5e9",
   hyderabad: "#a855f7",
   kolkata: "#f59e0b",
+  pune: "#14b8a6",
+  gurugram: "#ef4444",
+  noida: "#8b5cf6",
 };
 
 export default function ComparePage() {

@@ -61,6 +61,9 @@ const CITY_NAME = {
   chennai: "Chennai",
   hyderabad: "Hyderabad",
   kolkata: "Kolkata",
+  pune: "Pune",
+  gurugram: "Gurugram",
+  noida: "Noida",
 };
 
 // Pull the first distinctive token out of the ward's neighbourhood string.

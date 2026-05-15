@@ -1,0 +1,20 @@
+{
+  "source": "https://www.tribuneindia.com/news/haryana/looking-back-2022-crime-graph-rose-so-did-rate-of-recovery-in-gurugram-466245/",
+  "indexUrl": "https://gurgaon.haryanapolice.gov.in/crime-statistics",
+  "publishedFor": {
+    "year": 2022
+  },
+  "windowKind": "year",
+  "scrapedAt": "2026-05-15T18:00:00.000Z",
+  "cityWideYtdTotals": {
+    "theft": 4400,
+    "robbery": 80,
+    "assault": 150,
+    "sexual_offence": 200,
+    "harassment": 260,
+    "kidnapping": 300,
+    "burglary": 520,
+    "other": 1500
+  },
+  "notes": "Gurugram is NOT included in NCRB's metropolitan-city tables (below 2M per Census 2011), so per-category city totals are stitched from Gurugram Police press summaries (Tribune India 'Looking Back 2022' + Oct-2023 theft tally). Concrete published 2022 figures: murder 88, attempt-to-murder 59, snatching 218, vehicle-theft 3523. Theft (4400) folds vehicle theft + snatching + other theft. Burglary (520) is ~60% of the 869 combined theft+burglary tally. Assault (150) ~= murder + attempt-to-murder. Sexual_offence, harassment, kidnapping, robbery, other are best-effort estimates from partial Tribune / Hindustan Times reporting; treat as calibration anchors not exact counts. Replace once Gurugram Police starts publishing a structured annual crime PDF."
+}
