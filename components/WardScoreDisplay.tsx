@@ -4,12 +4,19 @@ import Link from "next/link";
 import { useSearchParams } from "next/navigation";
 import RiskBadge from "@/components/RiskBadge";
 import type { Ward } from "@/lib/types";
+import type { CityId } from "@/lib/cities";
 
-export default function WardScoreDisplay({ ward }: { ward: Ward }) {
+export default function WardScoreDisplay({
+  city,
+  ward,
+}: {
+  city: CityId;
+  ward: Ward;
+}) {
   const params = useSearchParams();
   const isNight = params.get("night") === "1";
   const score = isNight ? ward.riskScoreNight : ward.riskScore;
-  const backHref = isNight ? "/?night=1" : "/";
+  const backHref = isNight ? `/${city}?night=1` : `/${city}`;
   return (
     <>
       <Link
@@ -22,7 +29,7 @@ export default function WardScoreDisplay({ ward }: { ward: Ward }) {
         <RiskBadge score={score} size="lg" />
         <p className="text-sm text-zinc-400">
           {isNight ? "Night-time estimate" : "Day-time estimate"} · scaled
-          0–100 across all Mumbai wards
+          0–100
         </p>
       </div>
     </>

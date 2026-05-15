@@ -4,9 +4,9 @@ import "./globals.css";
 import Disclaimer from "@/components/Disclaimer";
 
 export const metadata: Metadata = {
-  title: "CrimeRadar — Mumbai night-safety estimates",
+  title: "CrimeRadar — Indian city night-safety estimates",
   description:
-    "Estimated risk scores for Mumbai's 24 BMC wards, with a night-time mode and ward-level crime breakdown. Educational / informational use only.",
+    "Ward-level estimated risk scores for major Indian cities, sourced from official police publications where they exist. Educational / informational use only.",
 };
 
 export default function RootLayout({
@@ -22,13 +22,10 @@ export default function RootLayout({
             <Link href="/" className="font-semibold tracking-tight text-zinc-50">
               Crime<span className="text-rose-400">Radar</span>
               <span className="ml-2 text-xs font-normal text-zinc-500">
-                Mumbai · MVP
+                India · MVP
               </span>
             </Link>
             <nav className="flex items-center gap-4 text-sm text-zinc-400">
-              <Link href="/absconders" className="hover:text-zinc-100">
-                Absconders
-              </Link>
               <Link href="/methodology" className="hover:text-zinc-100">
                 Methodology
               </Link>

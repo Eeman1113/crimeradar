@@ -3,22 +3,29 @@
 import { useRouter, useSearchParams } from "next/navigation";
 import { useState } from "react";
 import booleanPointInPolygon from "@turf/boolean-point-in-polygon";
-import type { Feature, FeatureCollection, MultiPolygon, Polygon } from "geojson";
+import type {
+  Feature,
+  FeatureCollection,
+  MultiPolygon,
+  Polygon,
+} from "geojson";
 import { withBase } from "@/lib/site";
 import { wardSlug } from "@/lib/wards";
+import { getCity, type CityId } from "@/lib/cities";
 
 type WardCollection = FeatureCollection<
   Polygon | MultiPolygon,
-  { gid: number; name: string }
+  Record<string, unknown>
 >;
 
-export default function LocateMeButton() {
+export default function LocateMeButton({ city }: { city: CityId }) {
   const router = useRouter();
   const params = useSearchParams();
   const [status, setStatus] = useState<"idle" | "locating" | "error">("idle");
   const [message, setMessage] = useState<string | null>(null);
 
   async function locate() {
+    const cfg = getCity(city)!;
     if (!navigator.geolocation) {
       setStatus("error");
       setMessage("Geolocation isn't available in this browser.");
@@ -36,29 +43,32 @@ export default function LocateMeButton() {
       });
       const lat = pos.coords.latitude;
       const lon = pos.coords.longitude;
-      const res = await fetch(withBase("/geo/bmc_wards.geojson"));
+      const res = await fetch(withBase(cfg.geojson));
       const fc = (await res.json()) as WardCollection;
       const pt = { type: "Point" as const, coordinates: [lon, lat] };
       let wardId: string | null = null;
       for (const f of fc.features as Feature<
         Polygon | MultiPolygon,
-        { name: string }
+        Record<string, unknown>
       >[]) {
         if (booleanPointInPolygon(pt, f)) {
-          wardId = f.properties.name;
+          const raw = f.properties?.[cfg.wardIdKey];
+          if (raw != null) wardId = String(raw);
           break;
         }
       }
       if (!wardId) {
         setStatus("error");
         setMessage(
-          "You appear to be outside the BMC ward boundaries (this MVP only covers central Mumbai).",
+          `You appear to be outside the ${cfg.name} ${cfg.unit} boundaries.`,
         );
         return;
       }
       const isNight = params.get("night") === "1";
       const qs = isNight ? "?night=1" : "";
-      router.push(`${withBase(`/ward/${wardSlug(wardId)}`)}${qs}` as never);
+      router.push(
+        `${withBase(`/${city}/ward/${wardSlug(wardId)}`)}${qs}` as never,
+      );
     } catch (err) {
       setStatus("error");
       const e = err as GeolocationPositionError | Error;

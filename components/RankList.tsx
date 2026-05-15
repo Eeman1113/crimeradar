@@ -5,14 +5,17 @@ import { useSearchParams } from "next/navigation";
 import { useMemo } from "react";
 import RiskBadge from "@/components/RiskBadge";
 import type { Ward } from "@/lib/types";
+import type { CityId } from "@/lib/cities";
 import { wardSlug } from "@/lib/wards";
 
 type Variant = "high" | "low";
 
 export default function RankList({
+  city,
   wards,
   variant,
 }: {
+  city: CityId;
   wards: Ward[];
   variant: Variant;
 }) {
@@ -45,12 +48,12 @@ export default function RankList({
           return (
             <li key={w.id}>
               <Link
-                href={`/ward/${wardSlug(w.id)}${qs}`}
+                href={`/${city}/ward/${wardSlug(w.id)}${qs}`}
                 className="flex items-center justify-between gap-3 rounded-md px-2 py-1.5 hover:bg-zinc-800"
               >
                 <span className="flex flex-col">
                   <span className="text-sm font-medium text-zinc-100">
-                    Ward {w.id}
+                    {w.name.length > 14 ? w.name.slice(0, 14) + "…" : w.name}
                   </span>
                   <span className="text-xs text-zinc-500 truncate max-w-[180px]">
                     {w.neighborhoods}

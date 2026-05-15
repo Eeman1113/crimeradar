@@ -28,9 +28,16 @@ export default function MethodologyPage() {
         Methodology
       </h1>
       <p className="text-zinc-400">
-        Last updated {dataSeededAt()}. This page documents how the risk scores
-        on every ward page are computed. <strong>Read this before relying
-        on anything you see here.</strong>
+        Last updated {dataSeededAt("mumbai")}. This page documents how the
+        risk scores on every ward page are computed.{" "}
+        <strong>Read this before relying on anything you see here.</strong>
+      </p>
+      <p className="text-zinc-400">
+        CrimeRadar now covers Mumbai, Bangalore, Delhi, Chennai, Hyderabad, and
+        Kolkata. Mumbai has the most complete data pipeline; other cities are
+        being layered in iteratively as their police forces publish parseable
+        data. The <span className="font-mono text-sky-400">data quality</span>{" "}
+        flag on each city&apos;s page tells you where it sits.
       </p>
 
       <h2 className="text-xl font-semibold text-zinc-100 mt-8">
