@@ -4,6 +4,7 @@ import { ArrowLeft, BarChart3 } from "lucide-react";
 import Link from "next/link";
 import { useMemo, useState } from "react";
 import { useTheme } from "next-themes";
+import posthog from "posthog-js";
 import {
   Bar,
   BarChart,
@@ -96,8 +97,10 @@ export default function ComparePage() {
   const togglePick = (c: CityId) => {
     setPicked((prev) => {
       const next = new Set(prev);
-      if (next.has(c)) next.delete(c);
-      else next.add(c);
+      const adding = !next.has(c);
+      if (adding) next.add(c);
+      else next.delete(c);
+      posthog.capture("compare_city_toggled", { city: c, city_name: CITIES[c].name, action: adding ? "added" : "removed" });
       return next;
     });
   };

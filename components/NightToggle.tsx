@@ -3,6 +3,7 @@
 import { Moon, Sun } from "lucide-react";
 import { usePathname, useRouter, useSearchParams } from "next/navigation";
 import { useTransition } from "react";
+import posthog from "posthog-js";
 import { Button } from "@/components/ui/button";
 import { useI18n } from "@/lib/i18n/provider";
 
@@ -15,6 +16,7 @@ export default function NightToggle() {
   const { t } = useI18n();
 
   const flip = () => {
+    posthog.capture("night_mode_toggled", { enabled: !isNight });
     const next = new URLSearchParams(params.toString());
     if (isNight) next.delete("night");
     else next.set("night", "1");

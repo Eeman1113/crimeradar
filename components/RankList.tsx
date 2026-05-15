@@ -13,6 +13,7 @@ import {
 } from "@/components/ui/card";
 import type { Ward } from "@/lib/types";
 import type { CityId } from "@/lib/cities";
+import posthog from "posthog-js";
 import { useI18n } from "@/lib/i18n/provider";
 import { wardSlug } from "@/lib/wards";
 
@@ -89,6 +90,7 @@ export default function RankList({
                 <Link
                   href={`/${city}/ward/${wardSlug(w.id)}/${qs}`}
                   className="flex items-center justify-between gap-3 rounded-md px-2 py-1.5 hover:bg-accent transition-colors"
+                  onClick={() => posthog.capture("rank_list_ward_clicked", { city, ward_id: w.id, variant, risk_score: score })}
                 >
                   <span className="flex flex-col min-w-0">
                     <span className="text-sm font-medium truncate max-w-[180px]">

@@ -1,10 +1,11 @@
-import { ArrowRight, ExternalLink, Newspaper } from "lucide-react";
+import { ArrowRight, Newspaper } from "lucide-react";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { Suspense } from "react";
 import CrimeBreakdownChart from "@/components/CrimeBreakdownChart";
 import NightToggle from "@/components/NightToggle";
 import WardScoreDisplay from "@/components/WardScoreDisplay";
+import NewsLink from "@/components/NewsLink";
 import { CITY_IDS, getCity, isCityId } from "@/lib/cities";
 import {
   dynamicWardConcerns,
@@ -143,30 +144,7 @@ export default async function WardPage({
                       className="animate-fade-in-up"
                       style={{ animationDelay: `${120 + i * 50}ms` }}
                     >
-                      <a
-                        href={n.link}
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="group block rounded-md border bg-card p-3 text-sm hover:bg-accent hover:border-foreground/20 transition-[background-color,border-color] duration-200"
-                      >
-                        <p className="font-medium leading-snug">{n.title}</p>
-                        <p className="mt-1 text-xs text-muted-foreground flex items-center gap-1.5">
-                          {n.source ? (
-                            <span>{n.source}</span>
-                          ) : null}
-                          {n.date ? (
-                            <span>
-                              {" · "}
-                              {new Date(n.date).toLocaleDateString("en-IN", {
-                                day: "numeric",
-                                month: "short",
-                                year: "numeric",
-                              })}
-                            </span>
-                          ) : null}
-                          <ExternalLink className="h-3 w-3 ml-auto opacity-50 group-hover:opacity-100 transition-opacity duration-200" />
-                        </p>
-                      </a>
+                      <NewsLink item={n} city={city} wardId={ward.id} />
                     </li>
                   ))}
                 </ul>

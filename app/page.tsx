@@ -15,6 +15,7 @@ import {
 } from "@/components/ui/card";
 import { Separator } from "@/components/ui/separator";
 import LocateAnywhereButton from "@/components/LocateAnywhereButton";
+import posthog from "posthog-js";
 import { useI18n } from "@/lib/i18n/provider";
 
 export default function Home() {
@@ -98,6 +99,7 @@ export default function Home() {
                 <Link
                   href={`/${tile.id}/`}
                   className="block group h-full focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 focus-visible:ring-offset-background rounded-xl"
+                  onClick={() => posthog.capture("city_selected", { city_id: tile.id, city_name: tile.name })}
                 >
                   <Card className="h-full flex flex-col group-hover:bg-accent/40 group-hover:border-foreground/20 group-hover:shadow-md group-hover:-translate-y-0.5">
                     <CardHeader className="pb-3">

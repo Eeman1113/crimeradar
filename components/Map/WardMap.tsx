@@ -9,6 +9,7 @@ import maplibregl, {
 import type { FeatureCollection } from "geojson";
 import { useRouter, useSearchParams } from "next/navigation";
 import { useTheme } from "next-themes";
+import posthog from "posthog-js";
 import type { Ward } from "@/lib/types";
 import { withBase } from "@/lib/site";
 import { wardSlug } from "@/lib/wards";
@@ -235,9 +236,10 @@ export default function WardMap({ city, wards }: Props) {
             e: MapMouseEvent & { features?: maplibregl.MapGeoJSONFeature[] },
           ) => {
             const f = e.features?.[0];
-            const id = (f?.properties as { ward_id?: string } | null)
-              ?.ward_id;
+            const props = f?.properties as { ward_id?: string; risk?: number } | null;
+            const id = props?.ward_id;
             if (!id) return;
+            posthog.capture("ward_clicked_from_map", { city, ward_id: id, risk_score: props?.risk ?? null });
             const qs = isNight ? "?night=1" : "";
             // Next.js router prefixes basePath itself — don't wrap with withBase.
             router.push(

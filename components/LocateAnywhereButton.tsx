@@ -4,6 +4,7 @@ import { AlertCircle, LoaderCircle, MapPin } from "lucide-react";
 import { useRouter } from "next/navigation";
 import { useState } from "react";
 import booleanPointInPolygon from "@turf/boolean-point-in-polygon";
+import posthog from "posthog-js";
 import type {
   Feature,
   FeatureCollection,
@@ -38,9 +39,11 @@ export default function LocateAnywhereButton() {
   const [message, setMessage] = useState<string | null>(null);
 
   async function locate() {
+    posthog.capture("locate_anywhere_clicked");
     if (!navigator.geolocation) {
       setStatus("error");
       setMessage("Geolocation isn't available in this browser.");
+      posthog.capture("locate_anywhere_error", { reason: "geolocation_unavailable" });
       return;
     }
     setStatus("locating");
@@ -61,6 +64,7 @@ export default function LocateAnywhereButton() {
         setMessage(
           "You're outside our 6 supported cities (Mumbai, Bangalore, Delhi, Chennai, Hyderabad, Kolkata). Pick a city below to browse it manually.",
         );
+        posthog.capture("locate_anywhere_error", { reason: "outside_coverage" });
         return;
       }
 
@@ -78,6 +82,7 @@ export default function LocateAnywhereButton() {
           if (booleanPointInPolygon(pt, f)) {
             const raw = f.properties?.[cfg.wardIdKey];
             if (raw != null) {
+              posthog.capture("locate_anywhere_success", { city, ward_id: String(raw) });
               router.push(
                 `/${city}/ward/${wardSlug(String(raw))}/` as never,
               );
@@ -91,9 +96,11 @@ export default function LocateAnywhereButton() {
       setMessage(
         "Your bounding box matched a city but no specific ward — maybe the boundary data is slightly off at your spot. Pick a city below.",
       );
+      posthog.capture("locate_anywhere_error", { reason: "no_ward_match" });
     } catch (err) {
       setStatus("error");
       const e = err as GeolocationPositionError | Error;
+      const reason = "code" in e ? (e.code === 1 ? "permission_denied" : "fix_failed") : "unknown";
       setMessage(
         "code" in e
           ? e.code === 1
@@ -101,6 +108,7 @@ export default function LocateAnywhereButton() {
             : "Couldn't get a location fix. Try again or pick a city below."
           : "Couldn't get a location fix.",
       );
+      posthog.capture("locate_anywhere_error", { reason });
     }
   }
 

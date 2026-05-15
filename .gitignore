@@ -48,3 +48,4 @@ next-env.d.ts
 # local AI assistant instructions — keep on disk, never publish
 CLAUDE.md
 .claude/
+.env.local

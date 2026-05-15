@@ -3,6 +3,7 @@
 import { ShieldAlert, Users } from "lucide-react";
 import { usePathname, useRouter, useSearchParams } from "next/navigation";
 import { useTransition } from "react";
+import posthog from "posthog-js";
 import { Button } from "@/components/ui/button";
 import { useI18n } from "@/lib/i18n/provider";
 
@@ -15,6 +16,7 @@ export default function WomenToggle() {
   const { t } = useI18n();
 
   const flip = () => {
+    posthog.capture("women_mode_toggled", { enabled: !isWomen });
     const next = new URLSearchParams(params.toString());
     if (isWomen) next.delete("women");
     else next.set("women", "1");

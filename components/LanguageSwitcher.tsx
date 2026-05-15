@@ -2,6 +2,7 @@
 
 import { Check, Languages } from "lucide-react";
 import { useState } from "react";
+import posthog from "posthog-js";
 import { Button } from "@/components/ui/button";
 import {
   Sheet,
@@ -45,6 +46,7 @@ export default function LanguageSwitcher() {
                 <button
                   type="button"
                   onClick={() => {
+                    posthog.capture("language_changed", { locale: l.id, previous_locale: locale });
                     setLocale(l.id as Locale);
                     setOpen(false);
                   }}

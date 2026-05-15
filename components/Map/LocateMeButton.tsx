@@ -4,6 +4,7 @@ import { MapPin, LoaderCircle } from "lucide-react";
 import { useRouter, useSearchParams } from "next/navigation";
 import { useState } from "react";
 import booleanPointInPolygon from "@turf/boolean-point-in-polygon";
+import posthog from "posthog-js";
 import type {
   Feature,
   FeatureCollection,
@@ -29,10 +30,12 @@ export default function LocateMeButton({ city }: { city: CityId }) {
   const [message, setMessage] = useState<string | null>(null);
 
   async function locate() {
+    posthog.capture("locate_me_clicked", { city });
     const cfg = getCity(city)!;
     if (!navigator.geolocation) {
       setStatus("error");
       setMessage("Geolocation isn't available in this browser.");
+      posthog.capture("locate_me_error", { city, reason: "geolocation_unavailable" });
       return;
     }
     setStatus("locating");
@@ -66,8 +69,10 @@ export default function LocateMeButton({ city }: { city: CityId }) {
         setMessage(
           `You appear to be outside the ${cfg.name} ${cfg.unit} boundaries.`,
         );
+        posthog.capture("locate_me_error", { city, reason: "outside_boundaries" });
         return;
       }
+      posthog.capture("locate_me_success", { city, ward_id: wardId });
       const isNight = params.get("night") === "1";
       const qs = isNight ? "?night=1" : "";
       // Next.js router prefixes basePath itself — don't wrap with withBase.
@@ -77,6 +82,7 @@ export default function LocateMeButton({ city }: { city: CityId }) {
     } catch (err) {
       setStatus("error");
       const e = err as GeolocationPositionError | Error;
+      const reason = "code" in e ? (e.code === 1 ? "permission_denied" : "fix_failed") : "unknown";
       setMessage(
         "code" in e
           ? e.code === 1
@@ -84,6 +90,7 @@ export default function LocateMeButton({ city }: { city: CityId }) {
             : "Couldn't get a location fix."
           : "Couldn't get a location fix.",
       );
+      posthog.capture("locate_me_error", { city, reason });
     }
   }
 
