@@ -22,7 +22,7 @@ export default function RootLayout({
             <Link href="/" className="font-semibold tracking-tight text-zinc-50">
               Crime<span className="text-rose-400">Radar</span>
               <span className="ml-2 text-xs font-normal text-zinc-500">
-                India · MVP
+                India
               </span>
             </Link>
             <nav className="flex items-center gap-4 text-sm text-zinc-400">

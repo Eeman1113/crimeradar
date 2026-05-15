@@ -178,10 +178,15 @@ risk(w) = round(100 · (clamp(raw(w), p5, p95) − p5) / (p95 − p5))`}
           time-of-day data isn't public.
         </li>
         <li>
-          <strong>Hand-seeded data (MVP).</strong> Until the v0.2 ingest
-          pipeline lands, the per-ward counts are editorial estimates — not
-          live numbers. The data quality tag in the footer of every page tells
-          you which mode you're seeing.
+          <strong>Per-ward data is editorial outside Mumbai.</strong> For
+          cities where police don&apos;t publish station-level data, each
+          ward&apos;s breakdown comes from a 4-tier model (central vs
+          peripheral) plus deterministic noise. The data quality tag in
+          each city&apos;s header tells you what you&apos;re seeing —{" "}
+          <span className="font-mono text-sky-400">calibrated</span> means
+          the absolute scale matches real city totals;{" "}
+          <span className="font-mono text-amber-400">seeded</span> means
+          even the scale is editorial.
         </li>
         <li>
           <strong>Not a replacement for judgment.</strong> Trust your
