@@ -1,0 +1,6 @@
+{
+  "source": "https://news.google.com/rss/search",
+  "scrapedAt": null,
+  "wards": {},
+  "notes": "Pending first ingest. Run: node scripts/ingest_ward_news.mjs bangalore"
+}

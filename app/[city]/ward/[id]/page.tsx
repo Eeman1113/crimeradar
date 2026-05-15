@@ -1,4 +1,4 @@
-import { ArrowRight } from "lucide-react";
+import { ArrowRight, ExternalLink, Newspaper } from "lucide-react";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { Suspense } from "react";
@@ -6,7 +6,12 @@ import CrimeBreakdownChart from "@/components/CrimeBreakdownChart";
 import NightToggle from "@/components/NightToggle";
 import WardScoreDisplay from "@/components/WardScoreDisplay";
 import { CITY_IDS, getCity, isCityId } from "@/lib/cities";
-import { listWards, wardFromSlug, wardSlug } from "@/lib/wards";
+import {
+  listWards,
+  wardFromSlug,
+  wardNews,
+  wardSlug,
+} from "@/lib/wards";
 import { CRIME_CATEGORY_LABELS, type CrimeCategory } from "@/lib/types";
 import { Button } from "@/components/ui/button";
 import {
@@ -40,6 +45,7 @@ export default async function WardPage({
   const cfg = getCity(city)!;
   const ward = wardFromSlug(city, id);
   if (!ward) notFound();
+  const news = wardNews(city, ward.id);
   const totalIncidents = Object.values(ward.breakdown).reduce(
     (a: number, b) => a + (b ?? 0),
     0,
@@ -103,19 +109,60 @@ export default async function WardPage({
         <div className="flex flex-col gap-4">
           <Card>
             <CardHeader>
-              <CardTitle className="text-base">What to watch for</CardTitle>
+              <CardTitle className="text-base flex items-center gap-1.5">
+                <Newspaper className="h-4 w-4 text-sky-500" />
+                What to watch for
+              </CardTitle>
+              <CardDescription className="text-xs">
+                {news.length > 0
+                  ? `${news.length} recent crime-related headlines mentioning this area (Google News, last 18 months)`
+                  : "No recent local crime news found — falling back to general patterns"}
+              </CardDescription>
             </CardHeader>
             <CardContent className="flex flex-col gap-2">
-              <ul className="flex flex-col gap-2">
-                {ward.topConcerns.map((c, i) => (
-                  <li
-                    key={i}
-                    className="rounded-md border bg-card p-3 text-sm"
-                  >
-                    {c}
-                  </li>
-                ))}
-              </ul>
+              {news.length > 0 ? (
+                <ul className="flex flex-col gap-2">
+                  {news.map((n) => (
+                    <li key={n.link}>
+                      <a
+                        href={n.link}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="group block rounded-md border bg-card p-3 text-sm hover:bg-accent transition-colors"
+                      >
+                        <p className="font-medium leading-snug">{n.title}</p>
+                        <p className="mt-1 text-xs text-muted-foreground flex items-center gap-1.5">
+                          {n.source ? (
+                            <span>{n.source}</span>
+                          ) : null}
+                          {n.date ? (
+                            <span>
+                              {" · "}
+                              {new Date(n.date).toLocaleDateString("en-IN", {
+                                day: "numeric",
+                                month: "short",
+                                year: "numeric",
+                              })}
+                            </span>
+                          ) : null}
+                          <ExternalLink className="h-3 w-3 ml-auto opacity-60 group-hover:opacity-100" />
+                        </p>
+                      </a>
+                    </li>
+                  ))}
+                </ul>
+              ) : (
+                <ul className="flex flex-col gap-2">
+                  {ward.topConcerns.map((c, i) => (
+                    <li
+                      key={i}
+                      className="rounded-md border bg-card p-3 text-sm text-muted-foreground"
+                    >
+                      {c}
+                    </li>
+                  ))}
+                </ul>
+              )}
             </CardContent>
           </Card>
 

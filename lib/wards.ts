@@ -19,6 +19,13 @@ import chennaiHistoryJson from "@/data/cities/chennai/monthly_stats_history.json
 import hyderabadHistoryJson from "@/data/cities/hyderabad/monthly_stats_history.json";
 import kolkataHistoryJson from "@/data/cities/kolkata/monthly_stats_history.json";
 
+import mumbaiNewsJson from "@/data/cities/mumbai/ward_news.json";
+import bangaloreNewsJson from "@/data/cities/bangalore/ward_news.json";
+import delhiNewsJson from "@/data/cities/delhi/ward_news.json";
+import chennaiNewsJson from "@/data/cities/chennai/ward_news.json";
+import hyderabadNewsJson from "@/data/cities/hyderabad/ward_news.json";
+import kolkataNewsJson from "@/data/cities/kolkata/ward_news.json";
+
 import { normalizeScores, rawScore, rawWomenScore } from "./risk";
 import type {
   CrimeBreakdown,
@@ -269,6 +276,41 @@ export function searchWards(query: string, limit = 12): SearchIndexEntry[] {
       e.neighborhoods.toLowerCase().includes(q) ||
       e.cityName.toLowerCase().includes(q),
   ).slice(0, limit);
+}
+
+export type NewsItem = {
+  title: string;
+  link: string;
+  date: string | null;
+  source: string;
+};
+type WardNewsEntry = {
+  cachedAt: string;
+  query: string;
+  items: NewsItem[];
+};
+type WardNewsFile = {
+  source: string;
+  scrapedAt: string | null;
+  wards: Record<string, WardNewsEntry>;
+  notes?: string;
+};
+
+const NEWS: Record<CityId, WardNewsFile> = {
+  mumbai: mumbaiNewsJson as WardNewsFile,
+  bangalore: bangaloreNewsJson as WardNewsFile,
+  delhi: delhiNewsJson as WardNewsFile,
+  chennai: chennaiNewsJson as WardNewsFile,
+  hyderabad: hyderabadNewsJson as WardNewsFile,
+  kolkata: kolkataNewsJson as WardNewsFile,
+};
+
+export function wardNews(city: CityId, wardId: string): NewsItem[] {
+  return NEWS[city]?.wards?.[wardId]?.items ?? [];
+}
+
+export function wardNewsScrapedAt(city: CityId): string | null {
+  return NEWS[city]?.scrapedAt ?? null;
 }
 
 export function monthlyHistory(city: CityId): MonthHistoryEntry[] {

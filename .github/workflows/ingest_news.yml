@@ -1,0 +1,55 @@
+name: Weekly ward-news ingest
+
+on:
+  # Sundays 04:00 UTC (≈09:30 IST). Per-ward Google News RSS scrape for every
+  # city; ~1,044 wards total, ~700ms apart = ~12-15 min runtime.
+  schedule:
+    - cron: "0 4 * * 0"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ingest-news
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      - name: Mumbai — ward news
+        run: node scripts/ingest_ward_news.mjs mumbai
+      - name: Bangalore — ward news
+        run: node scripts/ingest_ward_news.mjs bangalore
+      - name: Delhi — ward news
+        run: node scripts/ingest_ward_news.mjs delhi
+      - name: Chennai — ward news
+        run: node scripts/ingest_ward_news.mjs chennai
+      - name: Hyderabad — ward news
+        run: node scripts/ingest_ward_news.mjs hyderabad
+      - name: Kolkata — ward news
+        run: node scripts/ingest_ward_news.mjs kolkata
+
+      - name: Commit & push if data changed
+        run: |
+          git config user.name  "crimeradar-bot"
+          git config user.email "actions@users.noreply.github.com"
+          if [ -n "$(git status --porcelain data/cities/)" ]; then
+            git add data/cities/*/ward_news.json
+            git commit -m "data: refresh ward news ($(date -u +%Y-%m-%dT%H:%MZ))"
+            git push
+            echo "pushed updated data"
+          else
+            echo "no data changes; skipping commit"
+          fi
