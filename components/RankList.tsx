@@ -1,5 +1,6 @@
 "use client";
 
+import { TrendingDown, TrendingUp } from "lucide-react";
 import Link from "next/link";
 import { useSearchParams } from "next/navigation";
 import { useMemo } from "react";
@@ -12,6 +13,7 @@ import {
 } from "@/components/ui/card";
 import type { Ward } from "@/lib/types";
 import type { CityId } from "@/lib/cities";
+import { useI18n } from "@/lib/i18n/provider";
 import { wardSlug } from "@/lib/wards";
 
 type Variant = "high" | "low";
@@ -26,6 +28,7 @@ export default function RankList({
   variant: Variant;
 }) {
   const params = useSearchParams();
+  const { t } = useI18n();
   const isNight = params.get("night") === "1";
 
   const rows = useMemo(() => {
@@ -34,21 +37,31 @@ export default function RankList({
     return variant === "high" ? sorted.slice(0, 5) : sorted.slice(-5).reverse();
   }, [wards, variant, isNight]);
 
-  const title =
+  const titleKey =
     variant === "high"
       ? isNight
-        ? "Highest risk · night"
-        : "Highest risk · day"
+        ? "rank_high_night"
+        : "rank_high_day"
       : isNight
-        ? "Lowest risk · night"
-        : "Lowest risk · day";
+        ? "rank_low_night"
+        : "rank_low_day";
+  const Icon = variant === "high" ? TrendingUp : TrendingDown;
 
   const qs = isNight ? "?night=1" : "";
 
   return (
     <Card>
       <CardHeader className="pb-3">
-        <CardTitle className="text-sm">{title}</CardTitle>
+        <CardTitle className="text-sm flex items-center gap-1.5">
+          <Icon
+            className={
+              variant === "high"
+                ? "h-3.5 w-3.5 text-red-500"
+                : "h-3.5 w-3.5 text-emerald-500"
+            }
+          />
+          {t(titleKey as never)}
+        </CardTitle>
       </CardHeader>
       <CardContent className="p-2">
         <ul className="flex flex-col">

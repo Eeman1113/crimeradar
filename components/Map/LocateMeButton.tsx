@@ -11,6 +11,7 @@ import type {
   Polygon,
 } from "geojson";
 import { Button } from "@/components/ui/button";
+import { useI18n } from "@/lib/i18n/provider";
 import { withBase } from "@/lib/site";
 import { wardSlug } from "@/lib/wards";
 import { getCity, type CityId } from "@/lib/cities";
@@ -22,6 +23,7 @@ type WardCollection = FeatureCollection<
 
 export default function LocateMeButton({ city }: { city: CityId }) {
   const router = useRouter();
+  const { t } = useI18n();
   const params = useSearchParams();
   const [status, setStatus] = useState<"idle" | "locating" | "error">("idle");
   const [message, setMessage] = useState<string | null>(null);
@@ -97,7 +99,7 @@ export default function LocateMeButton({ city }: { city: CityId }) {
         ) : (
           <MapPin className="h-4 w-4" />
         )}
-        {status === "locating" ? "Locating…" : "Use my location"}
+        {status === "locating" ? t("city_locating") : t("city_use_location")}
       </Button>
       {message ? (
         <p className="text-xs text-amber-600 dark:text-amber-400 max-w-xs">

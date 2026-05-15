@@ -4,6 +4,7 @@ import { Moon, Sun } from "lucide-react";
 import { usePathname, useRouter, useSearchParams } from "next/navigation";
 import { useTransition } from "react";
 import { Button } from "@/components/ui/button";
+import { useI18n } from "@/lib/i18n/provider";
 
 export default function NightToggle() {
   const router = useRouter();
@@ -11,6 +12,7 @@ export default function NightToggle() {
   const params = useSearchParams();
   const [pending, startTransition] = useTransition();
   const isNight = params.get("night") === "1";
+  const { t } = useI18n();
 
   const flip = () => {
     const next = new URLSearchParams(params.toString());
@@ -38,7 +40,7 @@ export default function NightToggle() {
         <Sun className="h-3.5 w-3.5" />
       )}
       <span className="hidden xs:inline sm:inline">
-        {isNight ? "Night" : "Day"}
+        {isNight ? t("night_night") : t("night_day")}
       </span>
     </Button>
   );

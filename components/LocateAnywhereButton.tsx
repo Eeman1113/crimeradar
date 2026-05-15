@@ -12,6 +12,7 @@ import type {
 } from "geojson";
 import { Button } from "@/components/ui/button";
 import { CITIES, CITY_IDS, type CityId } from "@/lib/cities";
+import { useI18n } from "@/lib/i18n/provider";
 import { withBase } from "@/lib/site";
 import { wardSlug } from "@/lib/wards";
 
@@ -32,6 +33,7 @@ function cityForPoint(lon: number, lat: number): CityId[] {
 
 export default function LocateAnywhereButton() {
   const router = useRouter();
+  const { t } = useI18n();
   const [status, setStatus] = useState<"idle" | "locating" | "error">("idle");
   const [message, setMessage] = useState<string | null>(null);
 
@@ -115,9 +117,7 @@ export default function LocateAnywhereButton() {
         ) : (
           <MapPin className="h-4 w-4" />
         )}
-        {status === "locating"
-          ? "Finding your area…"
-          : "Find my area"}
+        {status === "locating" ? t("home_cta_locating") : t("home_cta_button")}
       </Button>
       {message ? (
         <p className="flex items-start gap-1.5 text-xs text-amber-600 dark:text-amber-400 max-w-md">
