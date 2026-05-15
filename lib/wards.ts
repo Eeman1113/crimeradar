@@ -149,12 +149,28 @@ export function getWard(city: CityId, id: string): Ward | undefined {
   return WARD_INDEX[city]?.get(id);
 }
 
+// URL slug for a ward id. Ward IDs can contain slashes ("M/E"), spaces
+// ("Kempegowda Ward"), parens, etc. We normalise to lowercase ascii with
+// dashes, and keep a per-city reverse map so the static export round-trips.
 export function wardSlug(id: string): string {
-  return id.replace(/\//g, "-");
+  return id
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "");
 }
 
+const SLUG_INDEX: Record<CityId, Map<string, Ward>> = Object.fromEntries(
+  (Object.keys(WARDS_BY_CITY) as CityId[]).map((c) => {
+    const m = new Map<string, Ward>();
+    for (const w of WARDS_BY_CITY[c]) {
+      m.set(wardSlug(w.id), w);
+    }
+    return [c, m];
+  }),
+) as Record<CityId, Map<string, Ward>>;
+
 export function wardFromSlug(city: CityId, slug: string): Ward | undefined {
-  return getWard(city, slug.replace(/-/g, "/"));
+  return SLUG_INDEX[city]?.get(slug);
 }
 
 export function dataSeededAt(city: CityId): string {
