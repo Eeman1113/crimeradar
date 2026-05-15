@@ -9,6 +9,7 @@ import WomenToggle from "@/components/WomenToggle";
 import RankList from "@/components/RankList";
 import CityStatsCard from "@/components/CityStatsCard";
 import TrendChart from "@/components/TrendChart";
+import AnnualTrendChart from "@/components/AnnualTrendChart";
 import NightDeltaChart from "@/components/NightDeltaChart";
 import { CITY_IDS, getCity, isCityId } from "@/lib/cities";
 import {
@@ -50,6 +51,10 @@ export default async function CityHome({
   const wards = listWards(city);
   const quality = cityDataQuality(city);
   const history = monthlyHistory(city);
+  const isAnnualHistory =
+    history.length > 0 && history.every((m) => m.month === 12);
+  const showHistory =
+    history.length >= (isAnnualHistory ? 2 : 6);
 
   return (
     <div className="flex-1 flex flex-col">
@@ -160,7 +165,7 @@ export default async function CityHome({
         </section>
       ) : null}
 
-      {history.length >= 6 ? (
+      {showHistory ? (
         <section className="max-w-6xl w-full mx-auto px-4 pb-12">
           <Card>
             <CardHeader className="pb-3">
@@ -169,13 +174,17 @@ export default async function CityHome({
                 Multi-year trend
               </CardTitle>
               <CardDescription>
-                Monthly registered cases per category for {cfg.name}, scraped
-                from the historical archive. Click a category in the legend
-                to toggle it.
+                {isAnnualHistory
+                  ? `Annual reported totals per IPC category for ${cfg.name} (NCRB Crime in India). Click a category in the legend to toggle it.`
+                  : `Monthly registered cases per category for ${cfg.name}, scraped from the historical archive. Click a category in the legend to toggle it.`}
               </CardDescription>
             </CardHeader>
             <CardContent>
-              <TrendChart months={history} />
+              {isAnnualHistory ? (
+                <AnnualTrendChart months={history} />
+              ) : (
+                <TrendChart months={history} />
+              )}
             </CardContent>
           </Card>
         </section>
