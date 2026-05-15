@@ -57,7 +57,7 @@ export default function RankList({
             return (
               <li key={w.id}>
                 <Link
-                  href={`/${city}/ward/${wardSlug(w.id)}${qs}`}
+                  href={`/${city}/ward/${wardSlug(w.id)}/${qs}`}
                   className="flex items-center justify-between gap-3 rounded-md px-2 py-1.5 hover:bg-accent transition-colors"
                 >
                   <span className="flex flex-col min-w-0">

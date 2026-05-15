@@ -69,7 +69,7 @@ export default function LocateMeButton({ city }: { city: CityId }) {
       const isNight = params.get("night") === "1";
       const qs = isNight ? "?night=1" : "";
       router.push(
-        `${withBase(`/${city}/ward/${wardSlug(wardId)}`)}${qs}` as never,
+        `${withBase(`/${city}/ward/${wardSlug(wardId)}/`)}${qs}` as never,
       );
     } catch (err) {
       setStatus("error");

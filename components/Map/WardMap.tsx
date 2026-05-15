@@ -233,7 +233,7 @@ export default function WardMap({ city, wards }: Props) {
             if (!id) return;
             const qs = isNight ? "?night=1" : "";
             router.push(
-              `${withBase(`/${city}/ward/${wardSlug(id)}`)}${qs}` as never,
+              `${withBase(`/${city}/ward/${wardSlug(id)}/`)}${qs}` as never,
             );
           },
         );
