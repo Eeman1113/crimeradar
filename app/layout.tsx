@@ -5,6 +5,7 @@ import "./globals.css";
 import Disclaimer from "@/components/Disclaimer";
 import { ThemeProvider } from "@/components/theme-provider";
 import { ThemeToggle } from "@/components/theme-toggle";
+import { withBase } from "@/lib/site";
 
 const poppins = Poppins({
   variable: "--font-poppins",
@@ -38,8 +39,9 @@ export default function RootLayout({
                 href="/"
                 className="flex items-center gap-2 font-semibold tracking-tight text-foreground"
               >
+                {/* eslint-disable-next-line @next/next/no-img-element */}
                 <img
-                  src="/icon.webp"
+                  src={withBase("/icon.webp")}
                   alt=""
                   className="h-7 w-7 rounded-md"
                   aria-hidden
