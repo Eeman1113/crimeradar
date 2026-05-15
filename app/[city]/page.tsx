@@ -1,4 +1,4 @@
-import { ArrowLeft } from "lucide-react";
+import { ArrowLeft, Info } from "lucide-react";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { Suspense } from "react";
@@ -40,9 +40,9 @@ export default async function CityHome({
   return (
     <div className="flex-1 flex flex-col">
       <section className="border-b">
-        <div className="max-w-6xl mx-auto px-4 py-8 sm:py-12 flex flex-col gap-6">
-          <div className="flex flex-col sm:flex-row sm:items-end justify-between gap-4">
-            <div>
+        <div className="max-w-6xl mx-auto px-4 py-6 sm:py-10 flex flex-col gap-5">
+          <div className="flex flex-col sm:flex-row sm:items-end sm:justify-between gap-4">
+            <div className="min-w-0">
               <Link
                 href="/"
                 className="inline-flex items-center gap-1.5 text-xs text-muted-foreground hover:text-foreground transition-colors"
@@ -50,30 +50,25 @@ export default async function CityHome({
                 <ArrowLeft className="h-3.5 w-3.5" /> All cities
               </Link>
               <h1 className="mt-2 text-3xl sm:text-4xl font-semibold tracking-tight">
-                {cfg.name} night-safety map
+                {cfg.name}
               </h1>
-              <p className="mt-2 text-muted-foreground max-w-2xl text-sm sm:text-base">
-                Estimated risk per {cfg.unit} across {cfg.name}, with a
-                night-time multiplier applied per crime type. Use your location
-                to see where you are, or tap any area on the map for details.
+              <p className="mt-1 text-muted-foreground max-w-2xl text-sm sm:text-base">
+                Estimated risk per {cfg.unit} with a night-time multiplier
+                applied per crime type.
               </p>
-              <p className="mt-3 text-xs text-muted-foreground">
-                Data quality:{" "}
+              <div className="mt-3 flex flex-wrap items-center gap-2">
                 <span className={qualityClass(quality)}>{quality}</span>
-                {quality === "empty" ? (
-                  <>
-                    {" "}— per-area data not yet ingested for {cfg.name}.{" "}
-                    <Link href="/methodology" className="underline">
-                      methodology
-                    </Link>
-                    .
-                  </>
-                ) : null}
-              </p>
+                <span className="text-xs text-muted-foreground">·</span>
+                <Badge variant="outline" className="font-normal">
+                  {wards.length} {cfg.unit}s
+                </Badge>
+              </div>
             </div>
-            <Suspense fallback={null}>
-              <NightToggle />
-            </Suspense>
+            <div className="flex items-center gap-2">
+              <Suspense fallback={null}>
+                <NightToggle />
+              </Suspense>
+            </div>
           </div>
           <Suspense fallback={null}>
             <LocateMeButton city={city} />
@@ -81,11 +76,17 @@ export default async function CityHome({
         </div>
       </section>
 
-      <section className="flex-1 max-w-6xl w-full mx-auto px-4 py-6 grid lg:grid-cols-[1fr_320px] gap-4 lg:gap-6">
-        <div className="h-[55vh] min-h-[340px] sm:h-[60vh] sm:min-h-[400px] lg:h-[65vh] lg:min-h-[440px]">
-          <Suspense fallback={<MapSkeleton />}>
-            <WardMap city={city} wards={wards} />
-          </Suspense>
+      <section className="flex-1 max-w-6xl w-full mx-auto px-4 py-4 sm:py-6 grid lg:grid-cols-[1fr_320px] gap-4 lg:gap-6">
+        <div className="flex flex-col gap-2">
+          <div className="h-[55vh] min-h-[340px] sm:h-[60vh] sm:min-h-[400px] lg:h-[65vh] lg:min-h-[440px]">
+            <Suspense fallback={<MapSkeleton />}>
+              <WardMap city={city} wards={wards} />
+            </Suspense>
+          </div>
+          <p className="flex items-center gap-1.5 text-xs text-muted-foreground px-1">
+            <Info className="h-3.5 w-3.5" />
+            Tap any {cfg.unit} to open its full report. Pinch to zoom.
+          </p>
         </div>
         <aside className="flex flex-col gap-4">
           <CityStatsCard city={city} />
@@ -110,21 +111,14 @@ export default async function CityHome({
               </CardContent>
             </Card>
           )}
-          <Card>
-            <CardContent className="pt-4 text-xs text-muted-foreground leading-relaxed">
-              Scores are normalized to a 5–95 percentile band across all{" "}
-              {cfg.name} {cfg.unit}s. High score = more incidents reported per
-              capita, not a guarantee of danger.{" "}
-              <Link href="/methodology" className="underline">
-                methodology
-              </Link>
-              .
-            </CardContent>
-          </Card>
-          <p className="text-[10px] uppercase tracking-wider text-muted-foreground/70 px-1">
-            <Badge variant="outline" className="font-normal">
-              {wards.length} {cfg.unit}s
-            </Badge>
+          <p className="text-xs text-muted-foreground leading-relaxed px-1">
+            Scores are normalised to a 5–95 percentile band across all{" "}
+            {cfg.name} {cfg.unit}s. High score = more incidents reported per
+            capita, not a guarantee of danger.{" "}
+            <Link href="/methodology" className="underline">
+              methodology
+            </Link>
+            .
           </p>
         </aside>
       </section>
