@@ -466,5 +466,31 @@
     "unit": "KMC ward",
     "hasMonthlyStats": true,
     "hasAbsconders": false
+  },
+  {
+    "id": "bhubaneswar",
+    "name": "Bhubaneswar",
+    "state": "Odisha",
+    "stateCode": "IN-OR",
+    "tier": "capital",
+    "center": [
+      85.82834621369747,
+      20.288836029528497
+    ],
+    "bounds": [
+      [
+        85.75329350216937,
+        20.211271502493148
+      ],
+      [
+        85.90339892522559,
+        20.36640055656385
+      ]
+    ],
+    "geojson": "/geo/bhubaneswar_wards.geojson",
+    "wardIdKey": "wardno",
+    "unit": "BMC ward",
+    "hasMonthlyStats": false,
+    "hasAbsconders": false
   }
 ]

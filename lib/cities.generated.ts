@@ -22,7 +22,8 @@ export type CityId =
   | "lucknow"
   | "kochi"
   | "nagpur"
-  | "kanpur";
+  | "kanpur"
+  | "bhubaneswar";
 
 export const CITY_IDS: readonly CityId[] = [
   "mumbai",
@@ -43,6 +44,7 @@ export const CITY_IDS: readonly CityId[] = [
   "kochi",
   "nagpur",
   "kanpur",
+  "bhubaneswar",
 ] as const;
 
 export const CITIES: Record<CityId, CityConfig> = {
@@ -296,6 +298,20 @@ export const CITIES: Record<CityId, CityConfig> = {
     wardIdKey: "Ward No",
     unit: "KMC ward",
     hasMonthlyStats: true,
+    hasAbsconders: false,
+  },
+  bhubaneswar: {
+    id: "bhubaneswar",
+    name: "Bhubaneswar",
+    state: "Odisha",
+    stateCode: "IN-OR",
+    tier: "capital",
+    center: [85.82834621369747, 20.288836029528497],
+    bounds: [[85.75329350216937, 20.211271502493148], [85.90339892522559, 20.36640055656385]],
+    geojson: "/geo/bhubaneswar_wards.geojson",
+    wardIdKey: "wardno",
+    unit: "BMC ward",
+    hasMonthlyStats: false,
     hasAbsconders: false,
   },
 };

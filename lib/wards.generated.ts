@@ -20,6 +20,7 @@ import { WARDS_SEED as LUCKNOW_SEED } from "@/data/cities/lucknow/wards-raw";
 import { WARDS_SEED as KOCHI_SEED } from "@/data/cities/kochi/wards-raw";
 import { WARDS_SEED as NAGPUR_SEED } from "@/data/cities/nagpur/wards-raw";
 import { WARDS_SEED as KANPUR_SEED } from "@/data/cities/kanpur/wards-raw";
+import { WARDS_SEED as BHUBANESWAR_SEED } from "@/data/cities/bhubaneswar/wards-raw";
 
 import mumbaiStatsJson from "@/data/cities/mumbai/monthly_stats.json";
 import bangaloreStatsJson from "@/data/cities/bangalore/monthly_stats.json";
@@ -39,6 +40,7 @@ import lucknowStatsJson from "@/data/cities/lucknow/monthly_stats.json";
 import kochiStatsJson from "@/data/cities/kochi/monthly_stats.json";
 import nagpurStatsJson from "@/data/cities/nagpur/monthly_stats.json";
 import kanpurStatsJson from "@/data/cities/kanpur/monthly_stats.json";
+import bhubaneswarStatsJson from "@/data/cities/bhubaneswar/monthly_stats.json";
 
 import mumbaiHistoryJson from "@/data/cities/mumbai/monthly_stats_history.json";
 import bangaloreHistoryJson from "@/data/cities/bangalore/monthly_stats_history.json";
@@ -58,6 +60,7 @@ import lucknowHistoryJson from "@/data/cities/lucknow/monthly_stats_history.json
 import kochiHistoryJson from "@/data/cities/kochi/monthly_stats_history.json";
 import nagpurHistoryJson from "@/data/cities/nagpur/monthly_stats_history.json";
 import kanpurHistoryJson from "@/data/cities/kanpur/monthly_stats_history.json";
+import bhubaneswarHistoryJson from "@/data/cities/bhubaneswar/monthly_stats_history.json";
 
 import mumbaiNewsJson from "@/data/cities/mumbai/ward_news.json";
 import bangaloreNewsJson from "@/data/cities/bangalore/ward_news.json";
@@ -77,6 +80,7 @@ import lucknowNewsJson from "@/data/cities/lucknow/ward_news.json";
 import kochiNewsJson from "@/data/cities/kochi/ward_news.json";
 import nagpurNewsJson from "@/data/cities/nagpur/ward_news.json";
 import kanpurNewsJson from "@/data/cities/kanpur/ward_news.json";
+import bhubaneswarNewsJson from "@/data/cities/bhubaneswar/ward_news.json";
 
 import type { WardSeed } from "@/data/cities/mumbai/wards-raw";
 import type { CityId } from "./cities.generated";
@@ -102,6 +106,7 @@ export const SEEDS: Record<CityId, WardSeed[]> = {
   kochi: KOCHI_SEED,
   nagpur: NAGPUR_SEED,
   kanpur: KANPUR_SEED,
+  bhubaneswar: BHUBANESWAR_SEED,
 };
 
 export const STATS_JSON: Record<CityId, unknown> = {
@@ -123,6 +128,7 @@ export const STATS_JSON: Record<CityId, unknown> = {
   kochi: kochiStatsJson,
   nagpur: nagpurStatsJson,
   kanpur: kanpurStatsJson,
+  bhubaneswar: bhubaneswarStatsJson,
 };
 
 export const HISTORY_JSON: Record<CityId, unknown> = {
@@ -144,6 +150,7 @@ export const HISTORY_JSON: Record<CityId, unknown> = {
   kochi: kochiHistoryJson,
   nagpur: nagpurHistoryJson,
   kanpur: kanpurHistoryJson,
+  bhubaneswar: bhubaneswarHistoryJson,
 };
 
 export const NEWS_JSON: Record<CityId, unknown> = {
@@ -165,4 +172,5 @@ export const NEWS_JSON: Record<CityId, unknown> = {
   kochi: kochiNewsJson,
   nagpur: nagpurNewsJson,
   kanpur: kanpurNewsJson,
+  bhubaneswar: bhubaneswarNewsJson,
 };

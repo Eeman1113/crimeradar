@@ -20,6 +20,7 @@ import lucknowJson from "@/data/cities/lucknow/absconders.json";
 import kochiJson from "@/data/cities/kochi/absconders.json";
 import nagpurJson from "@/data/cities/nagpur/absconders.json";
 import kanpurJson from "@/data/cities/kanpur/absconders.json";
+import bhubaneswarJson from "@/data/cities/bhubaneswar/absconders.json";
 
 import type { CityId } from "./cities.generated";
 
@@ -42,4 +43,5 @@ export const ABSCONDERS_JSON: Record<CityId, unknown> = {
   kochi: kochiJson,
   nagpur: nagpurJson,
   kanpur: kanpurJson,
+  bhubaneswar: bhubaneswarJson,
 };
