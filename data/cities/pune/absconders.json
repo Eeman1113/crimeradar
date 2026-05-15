@@ -1,1 +1,8 @@
-{"source":null,"scrapedAt":null,"count":0,"absconders":[],"notes":"Pending ingest. Pune City Police publishes monthly absconder PDFs at https://admin.punepolice.gov.in/absconder_list (e.g. https://admin.punepolice.gov.in/files/Absconder/83.pdf). Scraper TBD."}
+{
+  "source": "https://admin.punepolice.gov.in/files/Absconder/83.pdf",
+  "indexUrl": "https://admin.punepolice.gov.in/absconder_list",
+  "scrapedAt": "2026-05-15T19:13:37.213Z",
+  "count": 0,
+  "absconders": [],
+  "notes": "Pune City Police publishes monthly absconder PDFs (CrPC §82) at https://admin.punepolice.gov.in/absconder_list. As of this scrape the latest PDFs we inspected (#83 (garbled=0.81), #82 (garbled=0.81)) are typeset in Marathi using the legacy DV-TTYogesh TrueType font whose embedded ToUnicode CMap maps glyphs to their private byte values rather than real Devanagari code points — pdf-parse, pdftotext (poppler) and pdfjs-dist all return garbled Latin-1 text. We have no reliable way to recover person names from these files without a hand-built DV-TTYogesh→Devanagari glyph table, so per our \"never invent names\" policy we ship an empty list and link to the official PDF. Latest PDF: https://admin.punepolice.gov.in/files/Absconder/83.pdf."
+}

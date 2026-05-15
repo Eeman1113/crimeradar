@@ -1,1 +1,42 @@
-{"source":null,"scrapedAt":null,"count":0,"months":[],"notes":"Pending."}
+{
+  "source": "https://www.tribuneindia.com/news/haryana/looking-back-2022-crime-graph-rose-so-did-rate-of-recovery-in-gurugram-466245/",
+  "scrapedAt": "2026-05-15T19:10:56Z",
+  "count": 2,
+  "months": [
+    {
+      "year": 2021,
+      "month": 12,
+      "currentMonth": {},
+      "ytd": {
+        "theft": 3764,
+        "robbery": null,
+        "assault": 125,
+        "sexual_offence": null,
+        "harassment": null,
+        "kidnapping": null,
+        "burglary": null,
+        "other": null
+      },
+      "source": "https://www.tribuneindia.com/news/haryana/looking-back-2022-crime-graph-rose-so-did-rate-of-recovery-in-gurugram-466245/",
+      "pdfId": "tribune-2022-looking-back-gurugram-2021-comparison"
+    },
+    {
+      "year": 2022,
+      "month": 12,
+      "currentMonth": {},
+      "ytd": {
+        "theft": 4400,
+        "robbery": 80,
+        "assault": 150,
+        "sexual_offence": 200,
+        "harassment": 260,
+        "kidnapping": 300,
+        "burglary": 520,
+        "other": 1500
+      },
+      "source": "https://www.tribuneindia.com/news/haryana/looking-back-2022-crime-graph-rose-so-did-rate-of-recovery-in-gurugram-466245/",
+      "pdfId": "tribune-2022-looking-back-gurugram"
+    }
+  ],
+  "notes": "Gurugram is NOT in NCRB's metropolitan-city table (population was <2M per 2011 Census), so per-category city totals are stitched from local police press summaries reported in The Tribune. 2022 entry is carried verbatim from data/cities/gurugram/monthly_stats.json (sourced from Tribune 'Looking Back 2022' + Oct-2023 Tribune snatching tally): theft (4400) folds vehicle theft (3523) + snatching (218) + other theft estimate; assault (150) ~= murder (88) + attempt-to-murder (59); burglary, sexual_offence, harassment, kidnapping, robbery, other are best-effort estimates from partial Tribune / Hindustan Times reporting. 2021 entry derived from the same Tribune 'Looking Back 2022' article's year-over-year comparison: murder=75, attempt-to-murder=50 -> assault=125; vehicle-theft=3594, snatching=170 -> theft=3764. Categories without a primary-source 2021 figure (robbery, sexual_offence, harassment, kidnapping, burglary, other) are null per the project's hard rule (do not fabricate). 2019, 2020 and 2023 omitted: 2019/2020 had no Tribune year-end summary surfacing in the search corpus, and 2023 data is only partial (Jan-Oct from Tribune snatching article: murder 61, ATM 44, theft 256, snatching 130) which would not be comparable to full-year YTD figures. Replace once Gurugram Police starts publishing a structured annual crime PDF."
+}

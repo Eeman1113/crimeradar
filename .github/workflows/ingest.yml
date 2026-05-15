@@ -36,6 +36,12 @@ jobs:
       - name: Kolkata — WB CID most-wanted
         run: node scripts/ingest_kolkata_absconders.mjs
 
+      - name: Pune absconders
+        run: node scripts/ingest_pune_absconders.mjs
+
+      - name: Gurugram — proclaimed offenders
+        run: node scripts/ingest_gurugram_absconders.mjs
+
       - name: Commit & push if data changed
         run: |
           git config user.name  "crimeradar-bot"

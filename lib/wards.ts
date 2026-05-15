@@ -241,8 +241,8 @@ type MonthHistoryEntry = {
   month: number;
   pdfId?: string;
   source?: string;
-  currentMonth: Partial<Record<CrimeCategory, number>>;
-  ytd: Partial<Record<CrimeCategory, number>>;
+  currentMonth: Partial<Record<CrimeCategory, number | null>>;
+  ytd: Partial<Record<CrimeCategory, number | null>>;
 };
 type HistoryFile = {
   source: string | null;

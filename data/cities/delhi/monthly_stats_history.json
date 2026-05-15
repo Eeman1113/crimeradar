@@ -1,1 +1,93 @@
-{"source":null,"scrapedAt":null,"count":0,"months":[],"notes":"Pending."}
+{
+  "source": "https://www.ncrb.gov.in/crime-in-india.html",
+  "scrapedAt": "2026-05-15T19:26:26.834Z",
+  "count": 5,
+  "months": [
+    {
+      "year": 2019,
+      "month": 12,
+      "pdfId": "ncrb-cii-2019-vol1",
+      "source": "https://ruralindiaonline.org/media/documents/Crime_in_India_2019-_Volume-I.pdf",
+      "currentMonth": {},
+      "ytd": {
+        "theft": 242642,
+        "robbery": 1963,
+        "assault": 6232,
+        "sexual_offence": 1279,
+        "harassment": 2767,
+        "kidnapping": 5746,
+        "burglary": 2984,
+        "other": 31040
+      }
+    },
+    {
+      "year": 2020,
+      "month": 12,
+      "pdfId": "ncrb-cii-2020-vol1",
+      "source": "https://ruralindiaonline.org/media/documents/Crime_in_India_2020_Volume-I.pdf",
+      "currentMonth": {},
+      "ytd": {
+        "theft": 175442,
+        "robbery": 1955,
+        "assault": 5607,
+        "sexual_offence": 1012,
+        "harassment": 2200,
+        "kidnapping": 4011,
+        "burglary": 2168,
+        "other": 53449
+      }
+    },
+    {
+      "year": 2021,
+      "month": 12,
+      "pdfId": "ncrb-cii-2021-vol1",
+      "source": "https://www.ncrb.gov.in/uploads/nationalcrimerecordsbureau/post/1679310394CII2021Volume1.pdf",
+      "currentMonth": {},
+      "ytd": {
+        "theft": 198133,
+        "robbery": 2340,
+        "assault": 7251,
+        "sexual_offence": 1269,
+        "harassment": 2437,
+        "kidnapping": 5475,
+        "burglary": 2622,
+        "other": 69518
+      }
+    },
+    {
+      "year": 2022,
+      "month": 12,
+      "pdfId": "ncrb-cii-2022-book1",
+      "source": "https://www.ncrb.gov.in/uploads/nationalcrimerecordsbureau/custom/1701607577CrimeinIndia2022Book1.pdf",
+      "currentMonth": {},
+      "ytd": {
+        "theft": 205545,
+        "robbery": 1820,
+        "assault": 8078,
+        "sexual_offence": 1261,
+        "harassment": 2389,
+        "kidnapping": 5585,
+        "burglary": 6189,
+        "other": 68121
+      }
+    },
+    {
+      "year": 2023,
+      "month": 12,
+      "pdfId": "ncrb-cii-2023-parti",
+      "source": "https://www.ncrb.gov.in/uploads/files/1CrimeinIndia2023PartI.pdf",
+      "currentMonth": {},
+      "ytd": {
+        "theft": 228173,
+        "robbery": 1673,
+        "assault": 8097,
+        "sexual_offence": 1128,
+        "harassment": 2140,
+        "kidnapping": 5681,
+        "burglary": 6906,
+        "other": 69751
+      }
+    }
+  ],
+  "notes": "Annual totals sourced from NCRB 'Crime in India' Volume I (Book 1), Table 1B.4 'IPC Crimes (Crime Head-wise & City-wise)' for years 2019-2023. Category mapping (NCRB Table 1B.4 column references): theft = Theft Total (col 263); robbery = Robbery Sec.392/394/397 (col 284) + Attempt Dacoity/Robbery Sec.393 & 398 (col 287) + Dacoity Total (col 290); assault = Murder Sec.302 (col 3) + Culpable Homicide not Murder Sec.304 (col 6) + Dowry Deaths Sec.304-B (col 33) + Attempt Murder Sec.307 (col 39) + Attempt Culpable Homicide Sec.308 (col 42) + Hurt Total (Simple+Grievous) (col 51); sexual_offence = Rape Sec.376 (col 174) + Attempt Rape Sec.376/511 (col 177) + Unnatural Offences Sec.377 (col 180); harassment = Assault on Women with Intent to Outrage Modesty Total Sec.354 (col 99) + Insult to Modesty Sec.509 (col 413); kidnapping = Kidnapping & Abduction Total (col 129); burglary = Burglary Total (col 272); other = Total Cognizable IPC (col 422) - sum of the above (residual includes Causing Death by Negligence 304-A, Riots, Forgery/Cheating/Fraud, Cruelty by Husband 498A, Arson, and other Misc IPC heads). Figures are 'Incidences/Cases' (I column), not victim counts. NCRB notes that cross-year comparisons of 'Theft' and 'Other Thefts' may be affected by some states (e.g. Delhi, UP, Tamil Nadu) introducing online-FIR registration which lowers/raises reported counts. Delhi row covers all of Delhi UT (Delhi Police jurisdiction) including peripheral areas."
+}

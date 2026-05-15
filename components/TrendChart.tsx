@@ -17,8 +17,8 @@ import { CRIME_CATEGORY_LABELS, type CrimeCategory } from "@/lib/types";
 export type MonthHistoryEntry = {
   year: number;
   month: number;
-  currentMonth: Partial<Record<CrimeCategory, number>>;
-  ytd: Partial<Record<CrimeCategory, number>>;
+  currentMonth: Partial<Record<CrimeCategory, number | null>>;
+  ytd: Partial<Record<CrimeCategory, number | null>>;
 };
 
 // Pre-2023 Mumbai PDFs used a different column layout — YTD column is in a

@@ -1,1 +1,93 @@
-{"source":null,"scrapedAt":null,"count":0,"months":[],"notes":"Pending."}
+{
+  "source": "https://www.ncrb.gov.in/crime-in-india.html",
+  "scrapedAt": "2026-05-15T19:26:26.835Z",
+  "count": 5,
+  "months": [
+    {
+      "year": 2019,
+      "month": 12,
+      "pdfId": "ncrb-cii-2019-vol1",
+      "source": "https://ruralindiaonline.org/media/documents/Crime_in_India_2019-_Volume-I.pdf",
+      "currentMonth": {},
+      "ytd": {
+        "theft": 3618,
+        "robbery": 710,
+        "assault": 3137,
+        "sexual_offence": 43,
+        "harassment": 89,
+        "kidnapping": 49,
+        "burglary": 731,
+        "other": 9731
+      }
+    },
+    {
+      "year": 2020,
+      "month": 12,
+      "pdfId": "ncrb-cii-2020-vol1",
+      "source": "https://ruralindiaonline.org/media/documents/Crime_in_India_2020_Volume-I.pdf",
+      "currentMonth": {},
+      "ytd": {
+        "theft": 4788,
+        "robbery": 718,
+        "assault": 2896,
+        "sexual_offence": 33,
+        "harassment": 68,
+        "kidnapping": 37,
+        "burglary": 817,
+        "other": 79031
+      }
+    },
+    {
+      "year": 2021,
+      "month": 12,
+      "pdfId": "ncrb-cii-2021-vol1",
+      "source": "https://www.ncrb.gov.in/uploads/nationalcrimerecordsbureau/post/1679310394CII2021Volume1.pdf",
+      "currentMonth": {},
+      "ytd": {
+        "theft": 4054,
+        "robbery": 651,
+        "assault": 3423,
+        "sexual_offence": 46,
+        "harassment": 156,
+        "kidnapping": 71,
+        "burglary": 714,
+        "other": 36962
+      }
+    },
+    {
+      "year": 2022,
+      "month": 12,
+      "pdfId": "ncrb-cii-2022-book1",
+      "source": "https://www.ncrb.gov.in/uploads/nationalcrimerecordsbureau/custom/1701607577CrimeinIndia2022Book1.pdf",
+      "currentMonth": {},
+      "ytd": {
+        "theft": 3230,
+        "robbery": 424,
+        "assault": 2853,
+        "sexual_offence": 36,
+        "harassment": 153,
+        "kidnapping": 31,
+        "burglary": 541,
+        "other": 7818
+      }
+    },
+    {
+      "year": 2023,
+      "month": 12,
+      "pdfId": "ncrb-cii-2023-parti",
+      "source": "https://www.ncrb.gov.in/uploads/files/1CrimeinIndia2023PartI.pdf",
+      "currentMonth": {},
+      "ytd": {
+        "theft": 3333,
+        "robbery": 366,
+        "assault": 3367,
+        "sexual_offence": 22,
+        "harassment": 187,
+        "kidnapping": 27,
+        "burglary": 368,
+        "other": 8028
+      }
+    }
+  ],
+  "notes": "Annual totals sourced from NCRB 'Crime in India' Volume I (Book 1), Table 1B.4 'IPC Crimes (Crime Head-wise & City-wise)' for years 2019-2023. Category mapping (NCRB Table 1B.4 column references): theft = Theft Total (col 263); robbery = Robbery Sec.392/394/397 (col 284) + Attempt Dacoity/Robbery Sec.393 & 398 (col 287) + Dacoity Total (col 290); assault = Murder Sec.302 (col 3) + Culpable Homicide not Murder Sec.304 (col 6) + Dowry Deaths Sec.304-B (col 33) + Attempt Murder Sec.307 (col 39) + Attempt Culpable Homicide Sec.308 (col 42) + Hurt Total (Simple+Grievous) (col 51); sexual_offence = Rape Sec.376 (col 174) + Attempt Rape Sec.376/511 (col 177) + Unnatural Offences Sec.377 (col 180); harassment = Assault on Women with Intent to Outrage Modesty Total Sec.354 (col 99) + Insult to Modesty Sec.509 (col 413); kidnapping = Kidnapping & Abduction Total (col 129); burglary = Burglary Total (col 272); other = Total Cognizable IPC (col 422) - sum of the above (residual includes Causing Death by Negligence 304-A, Riots, Forgery/Cheating/Fraud, Cruelty by Husband 498A, Arson, and other Misc IPC heads). Figures are 'Incidences/Cases' (I column), not victim counts. NCRB notes that cross-year comparisons of 'Theft' and 'Other Thefts' may be affected by some states (e.g. Delhi, UP, Tamil Nadu) introducing online-FIR registration which lowers/raises reported counts. Chennai row covers Greater Chennai Police commissionerate. The 2020-2021 spike in 'other' and subsequent collapse in 2022 reflects Tamil Nadu Police's introduction (and later withdrawal) of online-FIR for petty theft/missing-property cases — this is a recording-methodology shift, not a real crime trend; NCRB itself flags non-comparability across these years."
+}

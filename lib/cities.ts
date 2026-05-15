@@ -152,7 +152,7 @@ export const CITIES: Record<CityId, CityConfig> = {
     wardIdKey: "sourcewardcode",
     unit: "MCG ward",
     hasMonthlyStats: true,
-    hasAbsconders: false,
+    hasAbsconders: true,
   },
   noida: {
     id: "noida",

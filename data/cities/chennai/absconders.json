@@ -3,5 +3,5 @@
   "scrapedAt": null,
   "count": 0,
   "absconders": [],
-  "notes": "Awaiting research on whether Tamil Nadu / Greater Chennai City Police publishes a public absconder list."
+  "notes": "No public absconder / proclaimed-offender list found for Greater Chennai Police as of 2026-05. Tamil Nadu Police's citizen-services portal (CCTNS) only exposes FIR search, organisation chart, and citizen charter - no PO or wanted-persons listing. Sources checked: (1) https://www.tnpolice.gov.in/ - TLS / cert errors on direct fetch; navigation indexed via Google shows only CCTNS citizen-services pages. (2) https://eservices.tnpolice.gov.in/CCTNSNICSDC/CitizenFIRView and /OrganisationChart - no absconder section. (3) https://enforcementbureautn.org/wanted-list (TN Enforcement Bureau CID) - currently under maintenance, and historically scope is excise/prohibition not Chennai City absconders. (4) https://chennai.nic.in/divisions/police/ - district profile page only, no absconder list. (5) https://eservices.tnpolice.gov.in/CCTNSNICSDC/pdfs/rti/rticities/RTIchennai.pdf - Chennai Police RTI Manual confirms absconder / PO records exist internally (PSO 361, 691) but are not publicly published."
 }

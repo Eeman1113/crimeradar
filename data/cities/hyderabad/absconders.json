@@ -3,5 +3,5 @@
   "scrapedAt": null,
   "count": 0,
   "absconders": [],
-  "notes": "Awaiting research on whether Telangana / Hyderabad / Cyberabad police publishes a public absconder list."
+  "notes": "No public absconder / proclaimed-offender list found for any of the three Greater Hyderabad commissionerates (Hyderabad City, Cyberabad, Rachakonda) as of 2026-05. All three sites publish org structure, citizen services, and press releases but no PO roster. Sources checked: (1) https://hyderabadpolice.gov.in/ - homepage has Detective Department, Cyber Crime, Law & Order, Task Force; no wanted / absconder link. (2) https://hyderabadpolice.gov.in/law_order.html and /detective_department.html - administrative roster pages only. (3) https://www.cyberabadpolice.gov.in/ - Citizen Services menu (Traffic, Cyber Crime, Passport Verification) contains no absconder section. (4) https://rachakondapolice.telangana.gov.in/ and https://rachakondapolice.gov.in/ - both currently ECONNREFUSED on direct fetch; Google-indexed pages show only contacts and 'how to report crime'. (5) Telangana State Police portal https://www.tspolice.gov.in/ - organisation structure, no PO list. Rachakonda / Cyberabad publicise wanted persons via Twitter (@RachakondaCop, @cyberabadpolice) and press releases, but no machine-readable stable URL."
 }

@@ -1,1 +1,93 @@
-{"source":null,"scrapedAt":null,"count":0,"months":[],"notes":"Pending."}
+{
+  "source": "https://www.ncrb.gov.in/crime-in-india.html",
+  "scrapedAt": "2026-05-15T19:26:26.837Z",
+  "count": 5,
+  "months": [
+    {
+      "year": 2019,
+      "month": 12,
+      "pdfId": "ncrb-cii-2019-vol1",
+      "source": "https://ruralindiaonline.org/media/documents/Crime_in_India_2019-_Volume-I.pdf",
+      "currentMonth": {},
+      "ytd": {
+        "theft": 2511,
+        "robbery": 132,
+        "assault": 2509,
+        "sexual_offence": 191,
+        "harassment": 458,
+        "kidnapping": 519,
+        "burglary": 366,
+        "other": 8647
+      }
+    },
+    {
+      "year": 2020,
+      "month": 12,
+      "pdfId": "ncrb-cii-2020-vol1",
+      "source": "https://ruralindiaonline.org/media/documents/Crime_in_India_2020_Volume-I.pdf",
+      "currentMonth": {},
+      "ytd": {
+        "theft": 1932,
+        "robbery": 86,
+        "assault": 1793,
+        "sexual_offence": 98,
+        "harassment": 574,
+        "kidnapping": 451,
+        "burglary": 358,
+        "other": 10686
+      }
+    },
+    {
+      "year": 2021,
+      "month": 12,
+      "pdfId": "ncrb-cii-2021-vol1",
+      "source": "https://www.ncrb.gov.in/uploads/nationalcrimerecordsbureau/post/1679310394CII2021Volume1.pdf",
+      "currentMonth": {},
+      "ytd": {
+        "theft": 2419,
+        "robbery": 92,
+        "assault": 2141,
+        "sexual_offence": 118,
+        "harassment": 616,
+        "kidnapping": 513,
+        "burglary": 369,
+        "other": 11683
+      }
+    },
+    {
+      "year": 2022,
+      "month": 12,
+      "pdfId": "ncrb-cii-2022-book1",
+      "source": "https://www.ncrb.gov.in/uploads/nationalcrimerecordsbureau/custom/1701607577CrimeinIndia2022Book1.pdf",
+      "currentMonth": {},
+      "ytd": {
+        "theft": 2995,
+        "robbery": 123,
+        "assault": 2363,
+        "sexual_offence": 104,
+        "harassment": 675,
+        "kidnapping": 609,
+        "burglary": 343,
+        "other": 13456
+      }
+    },
+    {
+      "year": 2023,
+      "month": 12,
+      "pdfId": "ncrb-cii-2023-parti",
+      "source": "https://www.ncrb.gov.in/uploads/files/1CrimeinIndia2023PartI.pdf",
+      "currentMonth": {},
+      "ytd": {
+        "theft": 3240,
+        "robbery": 121,
+        "assault": 2827,
+        "sexual_offence": 173,
+        "harassment": 935,
+        "kidnapping": 592,
+        "burglary": 383,
+        "other": 13503
+      }
+    }
+  ],
+  "notes": "Annual totals sourced from NCRB 'Crime in India' Volume I (Book 1), Table 1B.4 'IPC Crimes (Crime Head-wise & City-wise)' for years 2019-2023. Category mapping (NCRB Table 1B.4 column references): theft = Theft Total (col 263); robbery = Robbery Sec.392/394/397 (col 284) + Attempt Dacoity/Robbery Sec.393 & 398 (col 287) + Dacoity Total (col 290); assault = Murder Sec.302 (col 3) + Culpable Homicide not Murder Sec.304 (col 6) + Dowry Deaths Sec.304-B (col 33) + Attempt Murder Sec.307 (col 39) + Attempt Culpable Homicide Sec.308 (col 42) + Hurt Total (Simple+Grievous) (col 51); sexual_offence = Rape Sec.376 (col 174) + Attempt Rape Sec.376/511 (col 177) + Unnatural Offences Sec.377 (col 180); harassment = Assault on Women with Intent to Outrage Modesty Total Sec.354 (col 99) + Insult to Modesty Sec.509 (col 413); kidnapping = Kidnapping & Abduction Total (col 129); burglary = Burglary Total (col 272); other = Total Cognizable IPC (col 422) - sum of the above (residual includes Causing Death by Negligence 304-A, Riots, Forgery/Cheating/Fraud, Cruelty by Husband 498A, Arson, and other Misc IPC heads). Figures are 'Incidences/Cases' (I column), not victim counts. NCRB notes that cross-year comparisons of 'Theft' and 'Other Thefts' may be affected by some states (e.g. Delhi, UP, Tamil Nadu) introducing online-FIR registration which lowers/raises reported counts. IMPORTANT: NCRB's Hyderabad row covers only the Hyderabad City Police commissionerate, NOT the adjacent Cyberabad and Rachakonda commissionerates. These three commissionerates together cover the Hyderabad metropolitan area but NCRB reports them separately. Compare with care."
+}

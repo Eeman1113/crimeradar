@@ -1,1 +1,679 @@
-{"source":null,"scrapedAt":null,"count":0,"absconders":[],"notes":"Gurugram Police publishes a Proclaimed Offenders list as an interactive web table at https://gurgaon.haryanapolice.gov.in/proclaimed-offenders (no PDF download). Pending a scraper that paginates the table and maps station -> ward."}
+{
+  "source": "https://gurgaon.haryanapolice.gov.in/proclaimed-offenders",
+  "scrapedAt": "2026-05-15T19:14:23.646Z",
+  "count": 84,
+  "absconders": [
+    {
+      "id": "gurugram-9b783549cd",
+      "sourceUrl": "https://gurgaon.haryanapolice.gov.in/proclaimed-offenders",
+      "name": "RAVI SHANKAR@ RAVI",
+      "isOrganisation": false,
+      "caseRef": "FIR 459 DT 15-08-2012 • PS City",
+      "section": "379 IPC"
+    },
+    {
+      "id": "gurugram-af4e063619",
+      "sourceUrl": "https://gurgaon.haryanapolice.gov.in/proclaimed-offenders",
+      "name": "JUBER",
+      "isOrganisation": false,
+      "caseRef": "FIR 95 DT 23-07-2012 • PS Bhondsi",
+      "section": "3/8/5/8 C.S ACT"
+    },
+    {
+      "id": "gurugram-a8932363f8",
+      "sourceUrl": "https://gurgaon.haryanapolice.gov.in/proclaimed-offenders",
+      "name": "IRFAN",
+      "isOrganisation": false,
+      "caseRef": "FIR 95 DT 14-04-2012 • PS Manesar",
+      "section": "382 IPC"
+    },
+    {
+      "id": "gurugram-3137ee4998",
+      "sourceUrl": "https://gurgaon.haryanapolice.gov.in/proclaimed-offenders",
+      "name": "KALA",
+      "isOrganisation": false,
+      "caseRef": "FIR 95 DT 14-04-2012 • PS Manesar",
+      "section": "382 IPC"
+    },
+    {
+      "id": "gurugram-763b776ccd",
+      "sourceUrl": "https://gurgaon.haryanapolice.gov.in/proclaimed-offenders",
+      "name": "AMJAD",
+      "isOrganisation": false,
+      "caseRef": "FIR 95 DT 14/04/2012 • PS Manesar",
+      "section": "382 IPC"
+    },
+    {
+      "id": "gurugram-6fbce07c74",
+      "sourceUrl": "https://gurgaon.haryanapolice.gov.in/proclaimed-offenders",
+      "name": "SAHID",
+      "isOrganisation": false,
+      "caseRef": "FIR 95 DT 14-04-2012 • PS Manesar",
+      "section": "382 IPC"
+    },
+    {
+      "id": "gurugram-829a066a5c",
+      "sourceUrl": "https://gurgaon.haryanapolice.gov.in/proclaimed-offenders",
+      "name": "RAJ KUMAR PATEL",
+      "isOrganisation": false,
+      "caseRef": "FIR 71 DT 07-02-2012 • PS Civil Lines",
+      "section": "498A/496/377/497/506/120B IPC"
+    },
+    {
+      "id": "gurugram-f52fa6a119",
+      "sourceUrl": "https://gurgaon.haryanapolice.gov.in/proclaimed-offenders",
+      "name": "RAMBIR",
+      "isOrganisation": false,
+      "caseRef": "FIR 440 DT 15-012-2010 • PS DLF Sec 29",
+      "section": "419/420/467/468/471/120-B IPC"
+    },
+    {
+      "id": "gurugram-a2329baa45",
+      "sourceUrl": "https://gurgaon.haryanapolice.gov.in/proclaimed-offenders",
+      "name": "SAHID",
+      "isOrganisation": false,
+      "caseRef": "FIR 120 DT 7-03-05 • PS City",
+      "section": "379 IPC"
+    },
+    {
+      "id": "gurugram-223e1a269f",
+      "sourceUrl": "https://gurgaon.haryanapolice.gov.in/proclaimed-offenders",
+      "name": "DHARAMBIR",
+      "isOrganisation": false,
+      "caseRef": "FIR 34 DT 2-02-08 • PS Palam Vihar",
+      "section": "379,482 IPC"
+    },
+    {
+      "id": "gurugram-ab30a6d798",
+      "sourceUrl": "https://gurgaon.haryanapolice.gov.in/proclaimed-offenders",
+      "name": "YOGESH",
+      "isOrganisation": false,
+      "caseRef": "FIR 407 DT 8-03-03 • PS Sadar",
+      "section": "279/337 IPC"
+    },
+    {
+      "id": "gurugram-4e33e67c7b",
+      "sourceUrl": "https://gurgaon.haryanapolice.gov.in/proclaimed-offenders",
+      "name": "RAJIV UPADHIYA",
+      "isOrganisation": false,
+      "caseRef": "FIR 193 DT 9-11-09 • PS DLF PH-1",
+      "section": "420/66 IT ACT IPC"
+    },
+    {
+      "id": "gurugram-de2706357f",
+      "sourceUrl": "https://gurgaon.haryanapolice.gov.in/proclaimed-offenders",
+      "name": "PARKASH",
+      "isOrganisation": false,
+      "caseRef": "FIR 168 DT 4-01-04 • PS Sadar",
+      "section": "279/337/304A IPC"
+    },
+    {
+      "id": "gurugram-6b4667c7f3",
+      "sourceUrl": "https://gurgaon.haryanapolice.gov.in/proclaimed-offenders",
+      "name": "PINTU MANDAL",
+      "isOrganisation": false,
+      "caseRef": "FIR 274 DT 24-10-10 • PS DLF PH-2",
+      "section": "381 IPC"
+    },
+    {
+      "id": "gurugram-f2f135fd15",
+      "sourceUrl": "https://gurgaon.haryanapolice.gov.in/proclaimed-offenders",
+      "name": "MOTA",
+      "isOrganisation": false,
+      "caseRef": "FIR 40 DT 06-02-08 • PS Rajendra Park",
+      "section": "380 IPC"
+    },
+    {
+      "id": "gurugram-705cca1d9e",
+      "sourceUrl": "https://gurgaon.haryanapolice.gov.in/proclaimed-offenders",
+      "name": "ANIL @ KANHA",
+      "isOrganisation": false,
+      "caseRef": "FIR 88 DT 25-05-2012 • PS DLF PH-1",
+      "section": "363/366-A IPC"
+    },
+    {
+      "id": "gurugram-55a537c320",
+      "sourceUrl": "https://gurgaon.haryanapolice.gov.in/proclaimed-offenders",
+      "name": "DEENA NATH",
+      "isOrganisation": false,
+      "caseRef": "FIR 27 DT 11-05-2008 • PS Sushant Lok",
+      "section": "61-1-14 EX ACT"
+    },
+    {
+      "id": "gurugram-2fccc9e507",
+      "sourceUrl": "https://gurgaon.haryanapolice.gov.in/proclaimed-offenders",
+      "name": "NUTION WASSION",
+      "isOrganisation": false,
+      "caseRef": "FIR 269 DT 22-11-2007 • PS Sec- 56",
+      "section": "420/406/467/468/471/120-B IPC"
+    },
+    {
+      "id": "gurugram-cf137d4d49",
+      "sourceUrl": "https://gurgaon.haryanapolice.gov.in/proclaimed-offenders",
+      "name": "SATISH KUMAR",
+      "isOrganisation": false,
+      "caseRef": "FIR 165 DT 19-11-2011 • PS Udyog Vihar",
+      "section": "381/420/467/468/471/120B IPC"
+    },
+    {
+      "id": "gurugram-d977a59e36",
+      "sourceUrl": "https://gurgaon.haryanapolice.gov.in/proclaimed-offenders",
+      "name": "MAHESH @ ATTACK",
+      "isOrganisation": false,
+      "caseRef": "FIR 212 DT 14-10-2010 • PS Sec - 40",
+      "section": "420/467/468/471/120-B IPC"
+    },
+    {
+      "id": "gurugram-353e74c716",
+      "sourceUrl": "https://gurgaon.haryanapolice.gov.in/proclaimed-offenders",
+      "name": "ANUP @ ANUPAM",
+      "isOrganisation": false,
+      "caseRef": "FIR 64 DT 17/08/2011 • PS Badshapur",
+      "section": "323/506/34 IPC"
+    },
+    {
+      "id": "gurugram-f71ecdad18",
+      "sourceUrl": "https://gurgaon.haryanapolice.gov.in/proclaimed-offenders",
+      "name": "NARESH",
+      "isOrganisation": false,
+      "caseRef": "FIR 15 DT 25-02-2009 • PS Bhondsi",
+      "section": "223/224 IPC"
+    },
+    {
+      "id": "gurugram-0779f4468f",
+      "sourceUrl": "https://gurgaon.haryanapolice.gov.in/proclaimed-offenders",
+      "name": "VIKRAM SINGH",
+      "isOrganisation": false,
+      "caseRef": "FIR 284 DT 26-10-2011 • PS Kherki Daula",
+      "section": "379/411/188/120B IPC"
+    },
+    {
+      "id": "gurugram-522b4f5a47",
+      "sourceUrl": "https://gurgaon.haryanapolice.gov.in/proclaimed-offenders",
+      "name": "PIYARE LAL",
+      "isOrganisation": false,
+      "caseRef": "FIR 68 DT 5-04-2010 • PS Bhondsi",
+      "section": "8/9 HPGC ACT"
+    },
+    {
+      "id": "gurugram-26453a7873",
+      "sourceUrl": "https://gurgaon.haryanapolice.gov.in/proclaimed-offenders",
+      "name": "SUNIL KUMAR",
+      "isOrganisation": false,
+      "caseRef": "FIR 155 DT 14-08-2010 • PS DLF PH-1",
+      "section": "392 IPC & A.ACT"
+    },
+    {
+      "id": "gurugram-6440411fbe",
+      "sourceUrl": "https://gurgaon.haryanapolice.gov.in/proclaimed-offenders",
+      "name": "ANVAR",
+      "isOrganisation": false,
+      "caseRef": "FIR 140 DT 14-04-2010 • PS Sadar",
+      "section": "379 IPC"
+    },
+    {
+      "id": "gurugram-f84add6946",
+      "sourceUrl": "https://gurgaon.haryanapolice.gov.in/proclaimed-offenders",
+      "name": "MOHD. RAJAUDIN",
+      "isOrganisation": false,
+      "caseRef": "FIR 145 DT 07-02-2010 • PS Sec -17/ 18",
+      "section": "363/366 A IPC"
+    },
+    {
+      "id": "gurugram-7606016caf",
+      "sourceUrl": "https://gurgaon.haryanapolice.gov.in/proclaimed-offenders",
+      "name": "RAJA @ MULLA",
+      "isOrganisation": false,
+      "caseRef": "FIR 63 DT 16-03-2011 • PS Sec - 40",
+      "section": "454/380/411 IPC"
+    },
+    {
+      "id": "gurugram-b386b58124",
+      "sourceUrl": "https://gurgaon.haryanapolice.gov.in/proclaimed-offenders",
+      "name": "MANOJ",
+      "isOrganisation": false,
+      "caseRef": "FIR 63 DT 16-03-2011 • PS Sec - 40",
+      "section": "454/380/411 IPC"
+    },
+    {
+      "id": "gurugram-6a0c7fd169",
+      "sourceUrl": "https://gurgaon.haryanapolice.gov.in/proclaimed-offenders",
+      "name": "RAVINDER",
+      "isOrganisation": false,
+      "caseRef": "FIR 154 DT 12-05-2010 • PS Sohna",
+      "section": "148/149/147/307 & A.ACT"
+    },
+    {
+      "id": "gurugram-cb98ec0e30",
+      "sourceUrl": "https://gurgaon.haryanapolice.gov.in/proclaimed-offenders",
+      "name": "BIR SINGH",
+      "isOrganisation": false,
+      "caseRef": "FIR 38 DT 50-04-2005 • PS Pataudi",
+      "section": "61/1/14 EX ACT"
+    },
+    {
+      "id": "gurugram-f7dbcd220e",
+      "sourceUrl": "https://gurgaon.haryanapolice.gov.in/proclaimed-offenders",
+      "name": "YUNSU MEO",
+      "isOrganisation": false,
+      "caseRef": "FIR 49 • PS Sushant Lok",
+      "section": "PS Sohna6/379 IPC"
+    },
+    {
+      "id": "gurugram-e6ea6cac70",
+      "sourceUrl": "https://gurgaon.haryanapolice.gov.in/proclaimed-offenders",
+      "name": "YUNUS",
+      "isOrganisation": false,
+      "caseRef": "FIR 59 • PS Sec - 40",
+      "section": "PS Sohna6/379 IPC"
+    },
+    {
+      "id": "gurugram-316aee10ad",
+      "sourceUrl": "https://gurgaon.haryanapolice.gov.in/proclaimed-offenders",
+      "name": "ANIL",
+      "isOrganisation": false,
+      "caseRef": "FIR 263 DT 17-11-2009 • PS DLF PH-2",
+      "section": "61-1-14 EX ACT"
+    },
+    {
+      "id": "gurugram-87d700e6f2",
+      "sourceUrl": "https://gurgaon.haryanapolice.gov.in/proclaimed-offenders",
+      "name": "BISAMBER",
+      "isOrganisation": false,
+      "caseRef": "FIR 11 • PS Sushant Lok",
+      "section": "384 IPC"
+    },
+    {
+      "id": "gurugram-07c911f30e",
+      "sourceUrl": "https://gurgaon.haryanapolice.gov.in/proclaimed-offenders",
+      "name": "FIREY GUJJAR",
+      "isOrganisation": false,
+      "caseRef": "FIR 10 • PS Sushant Lok",
+      "section": "302/307/216/120B IPC A.ACT"
+    },
+    {
+      "id": "gurugram-a156b687ff",
+      "sourceUrl": "https://gurgaon.haryanapolice.gov.in/proclaimed-offenders",
+      "name": "SALIM",
+      "isOrganisation": false,
+      "caseRef": "FIR 74 • PS DLF PH-2",
+      "section": "379 IPC"
+    },
+    {
+      "id": "gurugram-87867587fb",
+      "sourceUrl": "https://gurgaon.haryanapolice.gov.in/proclaimed-offenders",
+      "name": "TOFI",
+      "isOrganisation": false,
+      "caseRef": "FIR 117 • PP DLF PH 3",
+      "section": "399/402 IPC"
+    },
+    {
+      "id": "gurugram-cd32c2b67f",
+      "sourceUrl": "https://gurgaon.haryanapolice.gov.in/proclaimed-offenders",
+      "name": "PARDEEP",
+      "isOrganisation": false,
+      "caseRef": "PS Udyog Vihar",
+      "section": "381 IPC"
+    },
+    {
+      "id": "gurugram-d2eede9717",
+      "sourceUrl": "https://gurgaon.haryanapolice.gov.in/proclaimed-offenders",
+      "name": "RAJINDER SINGH",
+      "isOrganisation": false,
+      "caseRef": "FIR 24 • PS Udyog Vihar",
+      "section": "395/397 IPC"
+    },
+    {
+      "id": "gurugram-deee203cef",
+      "sourceUrl": "https://gurgaon.haryanapolice.gov.in/proclaimed-offenders",
+      "name": "UDAL",
+      "isOrganisation": false,
+      "caseRef": "PS Badshapur",
+      "section": "379 IPC"
+    },
+    {
+      "id": "gurugram-5d9759dcaa",
+      "sourceUrl": "https://gurgaon.haryanapolice.gov.in/proclaimed-offenders",
+      "name": "SAT NARYANA",
+      "isOrganisation": false,
+      "caseRef": "FIR 27 • PS Udyog Vihar",
+      "section": "457/380 IPC"
+    },
+    {
+      "id": "gurugram-aea7e62bb4",
+      "sourceUrl": "https://gurgaon.haryanapolice.gov.in/proclaimed-offenders",
+      "name": "RAM SHARAN",
+      "isOrganisation": false,
+      "caseRef": "PS Manesar",
+      "section": "PS Farukh Nagar5/PS Farukh Nagar6/346/347/348/420/467/468 IPC"
+    },
+    {
+      "id": "gurugram-0a61545b99",
+      "sourceUrl": "https://gurgaon.haryanapolice.gov.in/proclaimed-offenders",
+      "name": "CHANDER PAL",
+      "isOrganisation": false,
+      "caseRef": "PS Manesar",
+      "section": "PS Farukh Nagar5/PS Farukh Nagar6/346/347/348/420/467/468 IPC"
+    },
+    {
+      "id": "gurugram-de9f64681f",
+      "sourceUrl": "https://gurgaon.haryanapolice.gov.in/proclaimed-offenders",
+      "name": "SHANTI DEVI",
+      "isOrganisation": false,
+      "caseRef": "FIR 346 • PS DLF PH-1",
+      "section": "148/149/452/427 IPC"
+    },
+    {
+      "id": "gurugram-7e3e97e572",
+      "sourceUrl": "https://gurgaon.haryanapolice.gov.in/proclaimed-offenders",
+      "name": "SUNITA",
+      "isOrganisation": false,
+      "caseRef": "FIR 346 • PS DLF PH-1",
+      "section": "148/149/452/427 IPC"
+    },
+    {
+      "id": "gurugram-45e5f4ba10",
+      "sourceUrl": "https://gurgaon.haryanapolice.gov.in/proclaimed-offenders",
+      "name": "SUSHIL",
+      "isOrganisation": false,
+      "caseRef": "FIR 346 • PS DLF PH-1",
+      "section": "148/149/452/427 IPC"
+    },
+    {
+      "id": "gurugram-ff9e47f8ea",
+      "sourceUrl": "https://gurgaon.haryanapolice.gov.in/proclaimed-offenders",
+      "name": "MANOJ KUMAR",
+      "isOrganisation": false,
+      "caseRef": "FIR 875 • PS Sadar",
+      "section": "148/149/302/342/201/120B AND A ACT"
+    },
+    {
+      "id": "gurugram-3f8fbc0b9f",
+      "sourceUrl": "https://gurgaon.haryanapolice.gov.in/proclaimed-offenders",
+      "name": "SURJIT @ BHOLU",
+      "isOrganisation": false,
+      "caseRef": "PP DLF PH 3",
+      "section": "302/304/120 IPC"
+    },
+    {
+      "id": "gurugram-0516cb3e8d",
+      "sourceUrl": "https://gurgaon.haryanapolice.gov.in/proclaimed-offenders",
+      "name": "SATPAL @ FOUJI",
+      "isOrganisation": false,
+      "caseRef": "FIR 934 • ACP Crime",
+      "section": "302/307/148/149"
+    },
+    {
+      "id": "gurugram-35f21bab86",
+      "sourceUrl": "https://gurgaon.haryanapolice.gov.in/proclaimed-offenders",
+      "name": "ANUPAM KUMAR @ ANUP",
+      "isOrganisation": false,
+      "caseRef": "FIR 4 • PS Sohna",
+      "section": "8/9 HGCP ACT PS SOHNA"
+    },
+    {
+      "id": "gurugram-ac44bb21ca",
+      "sourceUrl": "https://gurgaon.haryanapolice.gov.in/proclaimed-offenders",
+      "name": "BABLU @ PARVEEN",
+      "isOrganisation": false,
+      "caseRef": "FIR 166 • PS Udyog Vihar",
+      "section": "11/14/37 CENIMA ACT"
+    },
+    {
+      "id": "gurugram-3acd625d99",
+      "sourceUrl": "https://gurgaon.haryanapolice.gov.in/proclaimed-offenders",
+      "name": "SUDHIR",
+      "isOrganisation": false,
+      "caseRef": "PS Sohna",
+      "section": "8/9 HGCP ACT PS SOHNA"
+    },
+    {
+      "id": "gurugram-0fe5f2c1e8",
+      "sourceUrl": "https://gurgaon.haryanapolice.gov.in/proclaimed-offenders",
+      "name": "MANOJ",
+      "isOrganisation": false,
+      "caseRef": "FIR 150 • PS DLF PH-1",
+      "section": "379 IPC"
+    },
+    {
+      "id": "gurugram-a5ddacf765",
+      "sourceUrl": "https://gurgaon.haryanapolice.gov.in/proclaimed-offenders",
+      "name": "RAJPAL",
+      "isOrganisation": false,
+      "caseRef": "FIR 271 • PS Sohna",
+      "section": "459/380 IPC & A.ACT"
+    },
+    {
+      "id": "gurugram-7b1423c172",
+      "sourceUrl": "https://gurgaon.haryanapolice.gov.in/proclaimed-offenders",
+      "name": "JAIPAL",
+      "isOrganisation": false,
+      "caseRef": "FIR 184 • ACP Crime",
+      "section": "379 IPC"
+    },
+    {
+      "id": "gurugram-85dfcb7ffd",
+      "sourceUrl": "https://gurgaon.haryanapolice.gov.in/proclaimed-offenders",
+      "name": "SAHJAD @ NAKWA",
+      "isOrganisation": false,
+      "caseRef": "FIR 60 • PS Sohna",
+      "section": "392/397 IPC"
+    },
+    {
+      "id": "gurugram-50ee7f36ef",
+      "sourceUrl": "https://gurgaon.haryanapolice.gov.in/proclaimed-offenders",
+      "name": "DEVENDER @ BONA",
+      "isOrganisation": false,
+      "caseRef": "FIR 481 • ACP Crime",
+      "section": "PS Farukh Nagar3/PS Farukh Nagar6/376 IPC"
+    },
+    {
+      "id": "gurugram-e48f3a0aa8",
+      "sourceUrl": "https://gurgaon.haryanapolice.gov.in/proclaimed-offenders",
+      "name": "FARUKH",
+      "isOrganisation": false,
+      "caseRef": "FIR 153 • PS Sohna",
+      "section": "279/PS Badshapur7/PS Badshapur8 IPC"
+    },
+    {
+      "id": "gurugram-27fb0225fa",
+      "sourceUrl": "https://gurgaon.haryanapolice.gov.in/proclaimed-offenders",
+      "name": "SANDEEP",
+      "isOrganisation": false,
+      "caseRef": "FIR 782 • PS DLF Sec PS Sec - 10A",
+      "section": "285/3PS Farukh Nagar IPC"
+    },
+    {
+      "id": "gurugram-33e54694ef",
+      "sourceUrl": "https://gurgaon.haryanapolice.gov.in/proclaimed-offenders",
+      "name": "LOVELY KATARIA @ RAVINDER",
+      "isOrganisation": false,
+      "caseRef": "FIR 52 • PP DLF PH 3",
+      "section": "302/120B/34 IPC & A.ACT"
+    },
+    {
+      "id": "gurugram-216bc30e93",
+      "sourceUrl": "https://gurgaon.haryanapolice.gov.in/proclaimed-offenders",
+      "name": "KAUSHAL",
+      "isOrganisation": false,
+      "caseRef": "FIR 40 • ACP Crime",
+      "section": "398/401 IPC"
+    },
+    {
+      "id": "gurugram-818c55ba8c",
+      "sourceUrl": "https://gurgaon.haryanapolice.gov.in/proclaimed-offenders",
+      "name": "KAUSHAL",
+      "isOrganisation": false,
+      "caseRef": "FIR 598 • ACP Crime",
+      "section": "302/307/34 IPC"
+    },
+    {
+      "id": "gurugram-048e04c14d",
+      "sourceUrl": "https://gurgaon.haryanapolice.gov.in/proclaimed-offenders",
+      "name": "RAVINDER",
+      "isOrganisation": false,
+      "caseRef": "PP DLF PH 3",
+      "section": "302/216/34/120V IPC & A.ACT"
+    },
+    {
+      "id": "gurugram-72f2ae33b4",
+      "sourceUrl": "https://gurgaon.haryanapolice.gov.in/proclaimed-offenders",
+      "name": "ISRAIL",
+      "isOrganisation": false,
+      "caseRef": "FIR 271 • PP DLF PH 3",
+      "section": "8/9 HG PC ACT"
+    },
+    {
+      "id": "gurugram-446d48c5a4",
+      "sourceUrl": "https://gurgaon.haryanapolice.gov.in/proclaimed-offenders",
+      "name": "OM PARKASH",
+      "isOrganisation": false,
+      "caseRef": "FIR 390 • PS Sohna",
+      "section": "379/ IPC & 39/50 EC.ACT"
+    },
+    {
+      "id": "gurugram-639770e6db",
+      "sourceUrl": "https://gurgaon.haryanapolice.gov.in/proclaimed-offenders",
+      "name": "VIKRAM",
+      "isOrganisation": false,
+      "caseRef": "FIR 28 • ACP Crime",
+      "section": "61-1-14 EX.ACT"
+    },
+    {
+      "id": "gurugram-1e003e996f",
+      "sourceUrl": "https://gurgaon.haryanapolice.gov.in/proclaimed-offenders",
+      "name": "RAVINDER",
+      "isOrganisation": false,
+      "caseRef": "FIR 174 • PS Bilaspur",
+      "section": "148/149/302/34 IPC"
+    },
+    {
+      "id": "gurugram-7689f01f7b",
+      "sourceUrl": "https://gurgaon.haryanapolice.gov.in/proclaimed-offenders",
+      "name": "RAJESH",
+      "isOrganisation": false,
+      "caseRef": "PP DLF PH 3",
+      "section": "392/34 IPC"
+    },
+    {
+      "id": "gurugram-3ab9ac55cb",
+      "sourceUrl": "https://gurgaon.haryanapolice.gov.in/proclaimed-offenders",
+      "name": "KARAMBIR SINGH",
+      "isOrganisation": false,
+      "caseRef": "PP DLF PH 3",
+      "section": "302/34 IPC & A.ACT"
+    },
+    {
+      "id": "gurugram-1fefb97a19",
+      "sourceUrl": "https://gurgaon.haryanapolice.gov.in/proclaimed-offenders",
+      "name": "VIPIN KUMAR",
+      "isOrganisation": false,
+      "caseRef": "FIR 190 • PS DLF Sec PS Sec - 10A",
+      "section": "420/467/468/471/120B IPC"
+    },
+    {
+      "id": "gurugram-d89444a40a",
+      "sourceUrl": "https://gurgaon.haryanapolice.gov.in/proclaimed-offenders",
+      "name": "SEHDEV SINGH PUNIA",
+      "isOrganisation": false,
+      "caseRef": "FIR 190 • PS DLF Sec PS Sec - 10A",
+      "section": "420/467/468/471/120B IPC"
+    },
+    {
+      "id": "gurugram-bd1475dc99",
+      "sourceUrl": "https://gurgaon.haryanapolice.gov.in/proclaimed-offenders",
+      "name": "ASHOK KUMAR GEHLOT",
+      "isOrganisation": false,
+      "caseRef": "FIR 190 • PS DLF Sec PS Sec - 10A",
+      "section": "420/467/468/471/120B IPC"
+    },
+    {
+      "id": "gurugram-48382513b0",
+      "sourceUrl": "https://gurgaon.haryanapolice.gov.in/proclaimed-offenders",
+      "name": "KARAMBIR SINGH",
+      "isOrganisation": false,
+      "caseRef": "FIR 254 • PS Bilaspur",
+      "section": "395/397 IPC"
+    },
+    {
+      "id": "gurugram-8d57205e25",
+      "sourceUrl": "https://gurgaon.haryanapolice.gov.in/proclaimed-offenders",
+      "name": "SHAMSHER SINGH @ BAOLU",
+      "isOrganisation": false,
+      "caseRef": "PP DLF PH 3",
+      "section": "148/149/307 IPC & A.ACT"
+    },
+    {
+      "id": "gurugram-6d855e3c03",
+      "sourceUrl": "https://gurgaon.haryanapolice.gov.in/proclaimed-offenders",
+      "name": "SATPAL",
+      "isOrganisation": false,
+      "caseRef": "FIR 470 • PP DLF PH 3",
+      "section": "420/418/467/168 IPC"
+    },
+    {
+      "id": "gurugram-ad11cc0bf3",
+      "sourceUrl": "https://gurgaon.haryanapolice.gov.in/proclaimed-offenders",
+      "name": "KHEM CHAND",
+      "isOrganisation": false,
+      "caseRef": "PS Farukh Nagar",
+      "section": "EX.ACT"
+    },
+    {
+      "id": "gurugram-4a5245fe1f",
+      "sourceUrl": "https://gurgaon.haryanapolice.gov.in/proclaimed-offenders",
+      "name": "SURESH KUMAR",
+      "isOrganisation": false,
+      "caseRef": "FIR 84 • ACP Crime",
+      "section": "302/201 IPC"
+    },
+    {
+      "id": "gurugram-891e13d17b",
+      "sourceUrl": "https://gurgaon.haryanapolice.gov.in/proclaimed-offenders",
+      "name": "OM PARKASH @ PARKASH",
+      "isOrganisation": false,
+      "caseRef": "PS Udyog Vihar",
+      "section": "302 IPC"
+    },
+    {
+      "id": "gurugram-d7e191ed3b",
+      "sourceUrl": "https://gurgaon.haryanapolice.gov.in/proclaimed-offenders",
+      "name": "SURENDER @ SUNDA",
+      "isOrganisation": false,
+      "caseRef": "PP DLF PH 3",
+      "section": "307/34 IPC & A.ACT"
+    },
+    {
+      "id": "gurugram-13495ea806",
+      "sourceUrl": "https://gurgaon.haryanapolice.gov.in/proclaimed-offenders",
+      "name": "DR R P DARRMANINGAM",
+      "isOrganisation": false,
+      "caseRef": "FIR 61 • PS Udyog Vihar",
+      "section": "174 A IPC"
+    },
+    {
+      "id": "gurugram-57accaf46b",
+      "sourceUrl": "https://gurgaon.haryanapolice.gov.in/proclaimed-offenders",
+      "name": "HAFIJ",
+      "isOrganisation": false,
+      "caseRef": "PS Sec - 10A",
+      "section": "457,380 IPC"
+    },
+    {
+      "id": "gurugram-67dfa5c9f8",
+      "sourceUrl": "https://gurgaon.haryanapolice.gov.in/proclaimed-offenders",
+      "name": "DR.R.P DARMANINGAM",
+      "isOrganisation": false,
+      "caseRef": "FIR 61 • PS Udyog Vihar"
+    },
+    {
+      "id": "gurugram-25514832da",
+      "sourceUrl": "https://gurgaon.haryanapolice.gov.in/proclaimed-offenders",
+      "name": "MRS SANGUPATHI",
+      "isOrganisation": false,
+      "caseRef": "FIR 61 • PS Udyog Vihar",
+      "section": "174A IPC"
+    }
+  ],
+  "notes": "Names republished from the Gurugram Police Proclaimed Offenders web table (CrPC §82). We store only the name, the FIR / police-station reference, and the IPC section — father's name, address, age and sex shown on the source page are intentionally stripped to align with our DPDP-minimum naming policy. Scraper paginates 9 of 9 pages."
+}

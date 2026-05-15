@@ -1,1 +1,59 @@
-{"source":null,"scrapedAt":null,"count":0,"months":[],"notes":"Pending."}
+{
+  "source": "https://theprint.in/india/noida-50-murders-30-rapes-1098-vehicle-thefts-reported-in-2023-as-crime-graph-dips/1906681/",
+  "scrapedAt": "2026-05-15T19:10:56Z",
+  "count": 3,
+  "months": [
+    {
+      "year": 2021,
+      "month": 12,
+      "currentMonth": {},
+      "ytd": {
+        "theft": 1259,
+        "robbery": 51,
+        "assault": 74,
+        "sexual_offence": 39,
+        "harassment": null,
+        "kidnapping": null,
+        "burglary": 136,
+        "other": null
+      },
+      "source": "https://theprint.in/india/noida-50-murders-30-rapes-1098-vehicle-thefts-reported-in-2023-as-crime-graph-dips/1906681/",
+      "pdfId": "theprint-2024-noida-2021-comparison"
+    },
+    {
+      "year": 2022,
+      "month": 12,
+      "currentMonth": {},
+      "ytd": {
+        "theft": 1336,
+        "robbery": 39,
+        "assault": 53,
+        "sexual_offence": 33,
+        "harassment": null,
+        "kidnapping": null,
+        "burglary": 141,
+        "other": null
+      },
+      "source": "https://theprint.in/india/noida-50-murders-30-rapes-1098-vehicle-thefts-reported-in-2023-as-crime-graph-dips/1906681/",
+      "pdfId": "theprint-2024-noida-2022-comparison"
+    },
+    {
+      "year": 2023,
+      "month": 12,
+      "currentMonth": {},
+      "ytd": {
+        "theft": 1098,
+        "robbery": 29,
+        "assault": 50,
+        "sexual_offence": 30,
+        "harassment": null,
+        "kidnapping": null,
+        "burglary": 88,
+        "other": null
+      },
+      "source": "https://theprint.in/india/noida-50-murders-30-rapes-1098-vehicle-thefts-reported-in-2023-as-crime-graph-dips/1906681/",
+      "pdfId": "theprint-2024-noida-2023-year-end"
+    }
+  ],
+  "notes": "Gautam Budh Nagar (Noida) is NOT in NCRB's metropolitan-city table (Noida's 2011 Census population was below 2M), so per-category city totals are stitched from the Gautam Budh Nagar Police Commissionerate's year-end press conference as reported by ThePrint and Millennium Post in Jan 2024. That single article published 2021/2022/2023 figures side-by-side, which is why all three years share the same primary source. Category mapping: theft = vehicle theft (the only theft sub-figure published by GBN Police press conferences; no separable total-theft figure exists for these years - documented to keep trend-chart comparability); robbery = 'loot' cases; assault = murder cases (attempt-to-murder not reported in the press for these years, so assault is murder-only here, NOT murder+ATM as in other cities); sexual_offence = rape cases; burglary = house burglary cases. harassment, kidnapping and other are null because GBN police did not break these out in the reported press conferences - dowry deaths (44/31/26) and total crimes-against-women (596/576/453) exist but don't map cleanly to the project's category enum so they're omitted rather than misclassified. 2019 and 2020 omitted: although a Deccan Herald 2020 article exists ('Encounters went up by nearly 65% in 2020; rapes, murders down: Noida Police'), its body could not be retrieved to extract verified per-category figures, so per the project's hard rule those years are skipped rather than fabricated. Cross-check on year-over-year trend: ThePrint reports a 21% decline in crimes-against-women from 2022 (576) to 2023 (453) and notable drops in murder (53->50), rape (33->30), vehicle theft (1336->1098), loot (39->29), burglary (141->88) - all internally consistent and consistent with the article's 'crime graph dips' framing."
+}
