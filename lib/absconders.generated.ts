@@ -11,6 +11,13 @@ import kolkataJson from "@/data/cities/kolkata/absconders.json";
 import puneJson from "@/data/cities/pune/absconders.json";
 import gurugramJson from "@/data/cities/gurugram/absconders.json";
 import noidaJson from "@/data/cities/noida/absconders.json";
+import ahmedabadJson from "@/data/cities/ahmedabad/absconders.json";
+import coimbatoreJson from "@/data/cities/coimbatore/absconders.json";
+import indoreJson from "@/data/cities/indore/absconders.json";
+import jaipurJson from "@/data/cities/jaipur/absconders.json";
+import suratJson from "@/data/cities/surat/absconders.json";
+import lucknowJson from "@/data/cities/lucknow/absconders.json";
+import kochiJson from "@/data/cities/kochi/absconders.json";
 
 import type { CityId } from "./cities.generated";
 
@@ -24,4 +31,11 @@ export const ABSCONDERS_JSON: Record<CityId, unknown> = {
   pune: puneJson,
   gurugram: gurugramJson,
   noida: noidaJson,
+  ahmedabad: ahmedabadJson,
+  coimbatore: coimbatoreJson,
+  indore: indoreJson,
+  jaipur: jaipurJson,
+  surat: suratJson,
+  lucknow: lucknowJson,
+  kochi: kochiJson,
 };

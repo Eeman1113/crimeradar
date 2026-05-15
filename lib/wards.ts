@@ -109,17 +109,9 @@ function buildWardsFor(city: CityId): Ward[] {
   }));
 }
 
-const WARDS_BY_CITY: Record<CityId, Ward[]> = {
-  mumbai: buildWardsFor("mumbai"),
-  bangalore: buildWardsFor("bangalore"),
-  delhi: buildWardsFor("delhi"),
-  chennai: buildWardsFor("chennai"),
-  hyderabad: buildWardsFor("hyderabad"),
-  kolkata: buildWardsFor("kolkata"),
-  pune: buildWardsFor("pune"),
-  gurugram: buildWardsFor("gurugram"),
-  noida: buildWardsFor("noida"),
-};
+const WARDS_BY_CITY: Record<CityId, Ward[]> = Object.fromEntries(
+  CITY_IDS.map((id) => [id, buildWardsFor(id)]),
+) as Record<CityId, Ward[]>;
 
 const WARD_INDEX: Record<CityId, Map<string, Ward>> = Object.fromEntries(
   (Object.keys(WARDS_BY_CITY) as CityId[]).map((c) => [

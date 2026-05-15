@@ -13,7 +13,14 @@ export type CityId =
   | "kolkata"
   | "pune"
   | "gurugram"
-  | "noida";
+  | "noida"
+  | "ahmedabad"
+  | "coimbatore"
+  | "indore"
+  | "jaipur"
+  | "surat"
+  | "lucknow"
+  | "kochi";
 
 export const CITY_IDS: readonly CityId[] = [
   "mumbai",
@@ -25,6 +32,13 @@ export const CITY_IDS: readonly CityId[] = [
   "pune",
   "gurugram",
   "noida",
+  "ahmedabad",
+  "coimbatore",
+  "indore",
+  "jaipur",
+  "surat",
+  "lucknow",
+  "kochi",
 ] as const;
 
 export const CITIES: Record<CityId, CityConfig> = {
@@ -151,6 +165,104 @@ export const CITIES: Record<CityId, CityConfig> = {
     geojson: "/geo/noida_wards.geojson",
     wardIdKey: "name",
     unit: "Police station area",
+    hasMonthlyStats: false,
+    hasAbsconders: false,
+  },
+  ahmedabad: {
+    id: "ahmedabad",
+    name: "Ahmedabad",
+    state: "Gujarat",
+    stateCode: "IN-GJ",
+    tier: "million_plus",
+    center: [72.57538595, 23.02720335],
+    bounds: [[72.449281, 22.9139487], [72.7014909, 23.140458]],
+    geojson: "/geo/ahmedabad_wards.geojson",
+    wardIdKey: "Name",
+    unit: "AMC ward",
+    hasMonthlyStats: false,
+    hasAbsconders: false,
+  },
+  coimbatore: {
+    id: "coimbatore",
+    name: "Coimbatore",
+    state: "Tamil Nadu",
+    stateCode: "IN-TN",
+    tier: "million_plus",
+    center: [76.96718591487348, 11.008984193243691],
+    bounds: [[76.86859070590297, 10.914429655293896], [77.065781123844, 11.103538731193487]],
+    geojson: "/geo/coimbatore_wards.geojson",
+    wardIdKey: "2011WardNumbers",
+    unit: "CCMC ward",
+    hasMonthlyStats: false,
+    hasAbsconders: false,
+  },
+  indore: {
+    id: "indore",
+    name: "Indore",
+    state: "Madhya Pradesh",
+    stateCode: "IN-MP",
+    tier: "million_plus",
+    center: [75.8797833, 22.7230815],
+    bounds: [[75.7685348, 22.6241644], [75.9910318, 22.8219986]],
+    geojson: "/geo/indore_wards.geojson",
+    wardIdKey: "wardcode",
+    unit: "IMC ward",
+    hasMonthlyStats: false,
+    hasAbsconders: false,
+  },
+  jaipur: {
+    id: "jaipur",
+    name: "Jaipur",
+    state: "Rajasthan",
+    stateCode: "IN-RJ",
+    tier: "both",
+    center: [75.80028618150007, 26.898276404000057],
+    bounds: [[75.68875559700007, 26.774686639000038], [75.91181676600007, 27.021866169000077]],
+    geojson: "/geo/jaipur_wards.geojson",
+    wardIdKey: "WARD_NO",
+    unit: "JMC ward",
+    hasMonthlyStats: false,
+    hasAbsconders: false,
+  },
+  surat: {
+    id: "surat",
+    name: "Surat",
+    state: "Gujarat",
+    stateCode: "IN-GJ",
+    tier: "million_plus",
+    center: [72.83506385000001, 21.187183150000003],
+    bounds: [[72.701463, 21.0557276], [72.9686647, 21.3186387]],
+    geojson: "/geo/surat_wards.geojson",
+    wardIdKey: "wardcode",
+    unit: "SMC ward",
+    hasMonthlyStats: false,
+    hasAbsconders: false,
+  },
+  lucknow: {
+    id: "lucknow",
+    name: "Lucknow",
+    state: "Uttar Pradesh",
+    stateCode: "IN-UP",
+    tier: "both",
+    center: [80.9460241177564, 26.839221263656107],
+    bounds: [[80.83111634161567, 26.744078948185482], [81.06093189389713, 26.934363579126735]],
+    geojson: "/geo/lucknow_wards.geojson",
+    wardIdKey: "Ward Name",
+    unit: "LMC ward",
+    hasMonthlyStats: false,
+    hasAbsconders: false,
+  },
+  kochi: {
+    id: "kochi",
+    name: "Kochi",
+    state: "Kerala",
+    stateCode: "IN-KL",
+    tier: "million_plus",
+    center: [76.28869411624842, 9.974799538547956],
+    bounds: [[76.23735890065669, 9.8998297647108], [76.34002933184016, 10.049769312385111]],
+    geojson: "/geo/kochi_wards.geojson",
+    wardIdKey: "Ward_No",
+    unit: "KMC ward",
     hasMonthlyStats: false,
     hasAbsconders: false,
   },

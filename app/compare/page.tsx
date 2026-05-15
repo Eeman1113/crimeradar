@@ -29,7 +29,7 @@ import {
   CardTitle,
 } from "@/components/ui/card";
 import { CITIES, CITY_IDS, type CityId } from "@/lib/cities";
-import { monthlyStatsMeta } from "@/lib/wards";
+import { listWards, monthlyStatsMeta } from "@/lib/wards";
 import {
   CRIME_CATEGORY_LABELS,
   type CrimeCategory,
@@ -45,31 +45,28 @@ const CATS: CrimeCategory[] = [
   "burglary",
 ];
 
-const POP_PER_1K: Record<CityId, number> = {
-  // Rough city populations (millions of people), used to normalise counts to
-  // per-100k. Numbers come from each city's seed wards-raw.ts aggregated.
-  mumbai: 12_400_000 / 1000,
-  bangalore: 8_500_000 / 1000,
-  delhi: 17_000_000 / 1000,
-  chennai: 7_100_000 / 1000,
-  hyderabad: 7_700_000 / 1000,
-  kolkata: 4_500_000 / 1000,
-  pune: 3_500_000 / 1000,
-  gurugram: 1_950_000 / 1000,
-  noida: 1_100_000 / 1000,
-};
+// City population (in thousands) derived from per-ward seed totals — used to
+// normalise crime counts to per-100k. New cities get this for free as they
+// onboard.
+const POP_PER_1K: Record<CityId, number> = Object.fromEntries(
+  CITY_IDS.map((id) => [
+    id,
+    listWards(id).reduce((a, w) => a + w.population, 0) / 1000,
+  ]),
+) as Record<CityId, number>;
 
-const CITY_COLOR: Record<CityId, string> = {
-  mumbai: "#f43f5e",
-  bangalore: "#6366f1",
-  delhi: "#10b981",
-  chennai: "#0ea5e9",
-  hyderabad: "#a855f7",
-  kolkata: "#f59e0b",
-  pune: "#14b8a6",
-  gurugram: "#ef4444",
-  noida: "#8b5cf6",
-};
+// Stable colour assignment by manifest order. Palette is large enough that
+// the first ~20 cities each get a distinct hue; beyond that the cycle
+// repeats, which is acceptable since the compare view shows ≤6 cities at a
+// time.
+const CITY_COLOR_PALETTE = [
+  "#f43f5e", "#6366f1", "#10b981", "#0ea5e9", "#a855f7", "#f59e0b",
+  "#14b8a6", "#ef4444", "#8b5cf6", "#84cc16", "#ec4899", "#06b6d4",
+  "#f97316", "#a3e635", "#d946ef", "#22d3ee",
+];
+const CITY_COLOR: Record<CityId, string> = Object.fromEntries(
+  CITY_IDS.map((id, i) => [id, CITY_COLOR_PALETTE[i % CITY_COLOR_PALETTE.length]]),
+) as Record<CityId, string>;
 
 export default function ComparePage() {
   const { resolvedTheme } = useTheme();

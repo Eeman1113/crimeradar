@@ -5,8 +5,20 @@
     "state": "Maharashtra",
     "stateCode": "IN-MH",
     "tier": "both",
-    "center": [72.87, 19.09],
-    "bounds": [[72.75, 18.85], [73.05, 19.32]],
+    "center": [
+      72.87,
+      19.09
+    ],
+    "bounds": [
+      [
+        72.75,
+        18.85
+      ],
+      [
+        73.05,
+        19.32
+      ]
+    ],
     "geojson": "/geo/mumbai_wards.geojson",
     "wardIdKey": "name",
     "unit": "BMC ward",
@@ -19,8 +31,20 @@
     "state": "Karnataka",
     "stateCode": "IN-KA",
     "tier": "both",
-    "center": [77.59, 12.97],
-    "bounds": [[77.45, 12.83], [77.78, 13.13]],
+    "center": [
+      77.59,
+      12.97
+    ],
+    "bounds": [
+      [
+        77.45,
+        12.83
+      ],
+      [
+        77.78,
+        13.13
+      ]
+    ],
     "geojson": "/geo/bangalore_wards.geojson",
     "wardIdKey": "KGISWardName",
     "unit": "BBMP ward",
@@ -33,8 +57,20 @@
     "state": "Delhi",
     "stateCode": "IN-DL",
     "tier": "both",
-    "center": [77.22, 28.63],
-    "bounds": [[76.84, 28.4], [77.4, 28.88]],
+    "center": [
+      77.22,
+      28.63
+    ],
+    "bounds": [
+      [
+        76.84,
+        28.4
+      ],
+      [
+        77.4,
+        28.88
+      ]
+    ],
     "geojson": "/geo/delhi_wards.geojson",
     "wardIdKey": "Ward_No",
     "unit": "MCD ward",
@@ -47,8 +83,20 @@
     "state": "Tamil Nadu",
     "stateCode": "IN-TN",
     "tier": "both",
-    "center": [80.24, 13.08],
-    "bounds": [[80.12, 12.85], [80.32, 13.25]],
+    "center": [
+      80.24,
+      13.08
+    ],
+    "bounds": [
+      [
+        80.12,
+        12.85
+      ],
+      [
+        80.32,
+        13.25
+      ]
+    ],
     "geojson": "/geo/chennai_wards.geojson",
     "wardIdKey": "Ward_No",
     "unit": "GCC ward",
@@ -61,8 +109,20 @@
     "state": "Telangana",
     "stateCode": "IN-TG",
     "tier": "both",
-    "center": [78.49, 17.39],
-    "bounds": [[78.27, 17.25], [78.66, 17.55]],
+    "center": [
+      78.49,
+      17.39
+    ],
+    "bounds": [
+      [
+        78.27,
+        17.25
+      ],
+      [
+        78.66,
+        17.55
+      ]
+    ],
     "geojson": "/geo/hyderabad_wards.geojson",
     "wardIdKey": "name",
     "unit": "GHMC ward",
@@ -75,8 +135,20 @@
     "state": "West Bengal",
     "stateCode": "IN-WB",
     "tier": "million_plus",
-    "center": [88.36, 22.57],
-    "bounds": [[88.27, 22.45], [88.45, 22.69]],
+    "center": [
+      88.36,
+      22.57
+    ],
+    "bounds": [
+      [
+        88.27,
+        22.45
+      ],
+      [
+        88.45,
+        22.69
+      ]
+    ],
     "geojson": "/geo/kolkata_wards.geojson",
     "wardIdKey": "WARD",
     "unit": "KMC ward",
@@ -89,8 +161,20 @@
     "state": "Maharashtra",
     "stateCode": "IN-MH",
     "tier": "million_plus",
-    "center": [73.86, 18.53],
-    "bounds": [[73.74, 18.42], [73.97, 18.63]],
+    "center": [
+      73.86,
+      18.53
+    ],
+    "bounds": [
+      [
+        73.74,
+        18.42
+      ],
+      [
+        73.97,
+        18.63
+      ]
+    ],
     "geojson": "/geo/pune_wards.geojson",
     "wardIdKey": "ward_id",
     "unit": "PMC ward",
@@ -103,8 +187,20 @@
     "state": "Haryana",
     "stateCode": "IN-HR",
     "tier": "million_plus",
-    "center": [77.05, 28.45],
-    "bounds": [[76.92, 28.36], [77.17, 28.54]],
+    "center": [
+      77.05,
+      28.45
+    ],
+    "bounds": [
+      [
+        76.92,
+        28.36
+      ],
+      [
+        77.17,
+        28.54
+      ]
+    ],
     "geojson": "/geo/gurugram_wards.geojson",
     "wardIdKey": "sourcewardcode",
     "unit": "MCG ward",
@@ -117,11 +213,205 @@
     "state": "Uttar Pradesh",
     "stateCode": "IN-UP",
     "tier": "million_plus",
-    "center": [77.36, 28.57],
-    "bounds": [[77.28, 28.48], [77.43, 28.64]],
+    "center": [
+      77.36,
+      28.57
+    ],
+    "bounds": [
+      [
+        77.28,
+        28.48
+      ],
+      [
+        77.43,
+        28.64
+      ]
+    ],
     "geojson": "/geo/noida_wards.geojson",
     "wardIdKey": "name",
     "unit": "Police station area",
+    "hasMonthlyStats": false,
+    "hasAbsconders": false
+  },
+  {
+    "id": "ahmedabad",
+    "name": "Ahmedabad",
+    "state": "Gujarat",
+    "stateCode": "IN-GJ",
+    "tier": "million_plus",
+    "center": [
+      72.57538595,
+      23.02720335
+    ],
+    "bounds": [
+      [
+        72.449281,
+        22.9139487
+      ],
+      [
+        72.7014909,
+        23.140458
+      ]
+    ],
+    "geojson": "/geo/ahmedabad_wards.geojson",
+    "wardIdKey": "Name",
+    "unit": "AMC ward",
+    "hasMonthlyStats": false,
+    "hasAbsconders": false
+  },
+  {
+    "id": "coimbatore",
+    "name": "Coimbatore",
+    "state": "Tamil Nadu",
+    "stateCode": "IN-TN",
+    "tier": "million_plus",
+    "center": [
+      76.96718591487348,
+      11.008984193243691
+    ],
+    "bounds": [
+      [
+        76.86859070590297,
+        10.914429655293896
+      ],
+      [
+        77.065781123844,
+        11.103538731193487
+      ]
+    ],
+    "geojson": "/geo/coimbatore_wards.geojson",
+    "wardIdKey": "2011WardNumbers",
+    "unit": "CCMC ward",
+    "hasMonthlyStats": false,
+    "hasAbsconders": false
+  },
+  {
+    "id": "indore",
+    "name": "Indore",
+    "state": "Madhya Pradesh",
+    "stateCode": "IN-MP",
+    "tier": "million_plus",
+    "center": [
+      75.8797833,
+      22.7230815
+    ],
+    "bounds": [
+      [
+        75.7685348,
+        22.6241644
+      ],
+      [
+        75.9910318,
+        22.8219986
+      ]
+    ],
+    "geojson": "/geo/indore_wards.geojson",
+    "wardIdKey": "wardcode",
+    "unit": "IMC ward",
+    "hasMonthlyStats": false,
+    "hasAbsconders": false
+  },
+  {
+    "id": "jaipur",
+    "name": "Jaipur",
+    "state": "Rajasthan",
+    "stateCode": "IN-RJ",
+    "tier": "both",
+    "center": [
+      75.80028618150007,
+      26.898276404000057
+    ],
+    "bounds": [
+      [
+        75.68875559700007,
+        26.774686639000038
+      ],
+      [
+        75.91181676600007,
+        27.021866169000077
+      ]
+    ],
+    "geojson": "/geo/jaipur_wards.geojson",
+    "wardIdKey": "WARD_NO",
+    "unit": "JMC ward",
+    "hasMonthlyStats": false,
+    "hasAbsconders": false
+  },
+  {
+    "id": "surat",
+    "name": "Surat",
+    "state": "Gujarat",
+    "stateCode": "IN-GJ",
+    "tier": "million_plus",
+    "center": [
+      72.83506385000001,
+      21.187183150000003
+    ],
+    "bounds": [
+      [
+        72.701463,
+        21.0557276
+      ],
+      [
+        72.9686647,
+        21.3186387
+      ]
+    ],
+    "geojson": "/geo/surat_wards.geojson",
+    "wardIdKey": "wardcode",
+    "unit": "SMC ward",
+    "hasMonthlyStats": false,
+    "hasAbsconders": false
+  },
+  {
+    "id": "lucknow",
+    "name": "Lucknow",
+    "state": "Uttar Pradesh",
+    "stateCode": "IN-UP",
+    "tier": "both",
+    "center": [
+      80.9460241177564,
+      26.839221263656107
+    ],
+    "bounds": [
+      [
+        80.83111634161567,
+        26.744078948185482
+      ],
+      [
+        81.06093189389713,
+        26.934363579126735
+      ]
+    ],
+    "geojson": "/geo/lucknow_wards.geojson",
+    "wardIdKey": "Ward Name",
+    "unit": "LMC ward",
+    "hasMonthlyStats": false,
+    "hasAbsconders": false
+  },
+  {
+    "id": "kochi",
+    "name": "Kochi",
+    "state": "Kerala",
+    "stateCode": "IN-KL",
+    "tier": "million_plus",
+    "center": [
+      76.28869411624842,
+      9.974799538547956
+    ],
+    "bounds": [
+      [
+        76.23735890065669,
+        9.8998297647108
+      ],
+      [
+        76.34002933184016,
+        10.049769312385111
+      ]
+    ],
+    "geojson": "/geo/kochi_wards.geojson",
+    "wardIdKey": "Ward_No",
+    "unit": "KMC ward",
     "hasMonthlyStats": false,
     "hasAbsconders": false
   }

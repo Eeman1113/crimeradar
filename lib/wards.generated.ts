@@ -11,6 +11,13 @@ import { WARDS_SEED as KOLKATA_SEED } from "@/data/cities/kolkata/wards-raw";
 import { WARDS_SEED as PUNE_SEED } from "@/data/cities/pune/wards-raw";
 import { WARDS_SEED as GURUGRAM_SEED } from "@/data/cities/gurugram/wards-raw";
 import { WARDS_SEED as NOIDA_SEED } from "@/data/cities/noida/wards-raw";
+import { WARDS_SEED as AHMEDABAD_SEED } from "@/data/cities/ahmedabad/wards-raw";
+import { WARDS_SEED as COIMBATORE_SEED } from "@/data/cities/coimbatore/wards-raw";
+import { WARDS_SEED as INDORE_SEED } from "@/data/cities/indore/wards-raw";
+import { WARDS_SEED as JAIPUR_SEED } from "@/data/cities/jaipur/wards-raw";
+import { WARDS_SEED as SURAT_SEED } from "@/data/cities/surat/wards-raw";
+import { WARDS_SEED as LUCKNOW_SEED } from "@/data/cities/lucknow/wards-raw";
+import { WARDS_SEED as KOCHI_SEED } from "@/data/cities/kochi/wards-raw";
 
 import mumbaiStatsJson from "@/data/cities/mumbai/monthly_stats.json";
 import bangaloreStatsJson from "@/data/cities/bangalore/monthly_stats.json";
@@ -21,6 +28,13 @@ import kolkataStatsJson from "@/data/cities/kolkata/monthly_stats.json";
 import puneStatsJson from "@/data/cities/pune/monthly_stats.json";
 import gurugramStatsJson from "@/data/cities/gurugram/monthly_stats.json";
 import noidaStatsJson from "@/data/cities/noida/monthly_stats.json";
+import ahmedabadStatsJson from "@/data/cities/ahmedabad/monthly_stats.json";
+import coimbatoreStatsJson from "@/data/cities/coimbatore/monthly_stats.json";
+import indoreStatsJson from "@/data/cities/indore/monthly_stats.json";
+import jaipurStatsJson from "@/data/cities/jaipur/monthly_stats.json";
+import suratStatsJson from "@/data/cities/surat/monthly_stats.json";
+import lucknowStatsJson from "@/data/cities/lucknow/monthly_stats.json";
+import kochiStatsJson from "@/data/cities/kochi/monthly_stats.json";
 
 import mumbaiHistoryJson from "@/data/cities/mumbai/monthly_stats_history.json";
 import bangaloreHistoryJson from "@/data/cities/bangalore/monthly_stats_history.json";
@@ -31,6 +45,13 @@ import kolkataHistoryJson from "@/data/cities/kolkata/monthly_stats_history.json
 import puneHistoryJson from "@/data/cities/pune/monthly_stats_history.json";
 import gurugramHistoryJson from "@/data/cities/gurugram/monthly_stats_history.json";
 import noidaHistoryJson from "@/data/cities/noida/monthly_stats_history.json";
+import ahmedabadHistoryJson from "@/data/cities/ahmedabad/monthly_stats_history.json";
+import coimbatoreHistoryJson from "@/data/cities/coimbatore/monthly_stats_history.json";
+import indoreHistoryJson from "@/data/cities/indore/monthly_stats_history.json";
+import jaipurHistoryJson from "@/data/cities/jaipur/monthly_stats_history.json";
+import suratHistoryJson from "@/data/cities/surat/monthly_stats_history.json";
+import lucknowHistoryJson from "@/data/cities/lucknow/monthly_stats_history.json";
+import kochiHistoryJson from "@/data/cities/kochi/monthly_stats_history.json";
 
 import mumbaiNewsJson from "@/data/cities/mumbai/ward_news.json";
 import bangaloreNewsJson from "@/data/cities/bangalore/ward_news.json";
@@ -41,6 +62,13 @@ import kolkataNewsJson from "@/data/cities/kolkata/ward_news.json";
 import puneNewsJson from "@/data/cities/pune/ward_news.json";
 import gurugramNewsJson from "@/data/cities/gurugram/ward_news.json";
 import noidaNewsJson from "@/data/cities/noida/ward_news.json";
+import ahmedabadNewsJson from "@/data/cities/ahmedabad/ward_news.json";
+import coimbatoreNewsJson from "@/data/cities/coimbatore/ward_news.json";
+import indoreNewsJson from "@/data/cities/indore/ward_news.json";
+import jaipurNewsJson from "@/data/cities/jaipur/ward_news.json";
+import suratNewsJson from "@/data/cities/surat/ward_news.json";
+import lucknowNewsJson from "@/data/cities/lucknow/ward_news.json";
+import kochiNewsJson from "@/data/cities/kochi/ward_news.json";
 
 import type { WardSeed } from "@/data/cities/mumbai/wards-raw";
 import type { CityId } from "./cities.generated";
@@ -57,6 +85,13 @@ export const SEEDS: Record<CityId, WardSeed[]> = {
   pune: PUNE_SEED,
   gurugram: GURUGRAM_SEED,
   noida: NOIDA_SEED,
+  ahmedabad: AHMEDABAD_SEED,
+  coimbatore: COIMBATORE_SEED,
+  indore: INDORE_SEED,
+  jaipur: JAIPUR_SEED,
+  surat: SURAT_SEED,
+  lucknow: LUCKNOW_SEED,
+  kochi: KOCHI_SEED,
 };
 
 export const STATS_JSON: Record<CityId, unknown> = {
@@ -69,6 +104,13 @@ export const STATS_JSON: Record<CityId, unknown> = {
   pune: puneStatsJson,
   gurugram: gurugramStatsJson,
   noida: noidaStatsJson,
+  ahmedabad: ahmedabadStatsJson,
+  coimbatore: coimbatoreStatsJson,
+  indore: indoreStatsJson,
+  jaipur: jaipurStatsJson,
+  surat: suratStatsJson,
+  lucknow: lucknowStatsJson,
+  kochi: kochiStatsJson,
 };
 
 export const HISTORY_JSON: Record<CityId, unknown> = {
@@ -81,6 +123,13 @@ export const HISTORY_JSON: Record<CityId, unknown> = {
   pune: puneHistoryJson,
   gurugram: gurugramHistoryJson,
   noida: noidaHistoryJson,
+  ahmedabad: ahmedabadHistoryJson,
+  coimbatore: coimbatoreHistoryJson,
+  indore: indoreHistoryJson,
+  jaipur: jaipurHistoryJson,
+  surat: suratHistoryJson,
+  lucknow: lucknowHistoryJson,
+  kochi: kochiHistoryJson,
 };
 
 export const NEWS_JSON: Record<CityId, unknown> = {
@@ -93,4 +142,11 @@ export const NEWS_JSON: Record<CityId, unknown> = {
   pune: puneNewsJson,
   gurugram: gurugramNewsJson,
   noida: noidaNewsJson,
+  ahmedabad: ahmedabadNewsJson,
+  coimbatore: coimbatoreNewsJson,
+  indore: indoreNewsJson,
+  jaipur: jaipurNewsJson,
+  surat: suratNewsJson,
+  lucknow: lucknowNewsJson,
+  kochi: kochiNewsJson,
 };
