@@ -33,6 +33,12 @@ export default function HeaderBar() {
         <div className="flex items-center gap-1 text-sm">
           <nav className="hidden md:flex items-center gap-1">
             <Link
+              href="/compare"
+              className="text-muted-foreground hover:text-foreground px-3 py-1.5 rounded-md transition-colors"
+            >
+              Compare
+            </Link>
+            <Link
               href="/methodology"
               className="text-muted-foreground hover:text-foreground px-3 py-1.5 rounded-md transition-colors"
             >

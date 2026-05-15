@@ -58,13 +58,21 @@ export default function Home() {
       </section>
 
       <section className="max-w-5xl mx-auto px-4 pb-12 flex flex-col gap-4">
-        <div className="flex items-end justify-between gap-3">
+        <div className="flex items-end justify-between gap-3 flex-wrap">
           <h2 className="text-lg sm:text-xl font-semibold tracking-tight">
             {t("home_pick_city")}
           </h2>
-          <p className="text-xs text-muted-foreground">
-            {t("home_cities_count", { n: tiles.length })}
-          </p>
+          <div className="flex items-center gap-3 text-xs">
+            <Link
+              href="/compare"
+              className="text-muted-foreground hover:text-foreground underline underline-offset-2"
+            >
+              Compare cities →
+            </Link>
+            <span className="text-muted-foreground">
+              {t("home_cities_count", { n: tiles.length })}
+            </span>
+          </div>
         </div>
         <ul className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4 auto-rows-fr">
           {tiles.map((tile) => {

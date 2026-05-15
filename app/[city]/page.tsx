@@ -9,6 +9,7 @@ import WomenToggle from "@/components/WomenToggle";
 import RankList from "@/components/RankList";
 import CityStatsCard from "@/components/CityStatsCard";
 import TrendChart from "@/components/TrendChart";
+import NightDeltaChart from "@/components/NightDeltaChart";
 import { CITY_IDS, getCity, isCityId } from "@/lib/cities";
 import {
   cityDataQuality,
@@ -138,6 +139,26 @@ export default async function CityHome({
           </p>
         </aside>
       </section>
+
+      {wards.length > 0 ? (
+        <section className="max-w-6xl w-full mx-auto px-4 pb-6">
+          <Card>
+            <CardHeader className="pb-3">
+              <CardTitle className="text-base">
+                Wards with the biggest night-time premium
+              </CardTitle>
+              <CardDescription>
+                {cfg.name} {cfg.unit}s ranked by how much higher their
+                night-time score is than day. The amber bar is the day score;
+                the indigo bar is the added risk at night.
+              </CardDescription>
+            </CardHeader>
+            <CardContent>
+              <NightDeltaChart wards={wards} />
+            </CardContent>
+          </Card>
+        </section>
+      ) : null}
 
       {history.length >= 6 ? (
         <section className="max-w-6xl w-full mx-auto px-4 pb-12">

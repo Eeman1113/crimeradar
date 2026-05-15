@@ -1,6 +1,6 @@
 "use client";
 
-import { FileText, Globe, Menu, Scale } from "lucide-react";
+import { BarChart3, FileText, Globe, Menu, Scale } from "lucide-react";
 import Link from "next/link";
 import { useState } from "react";
 import { Button } from "@/components/ui/button";
@@ -40,6 +40,14 @@ export default function MobileNav() {
           >
             <Globe className="h-4 w-4 text-muted-foreground" />
             {t("menu_all_cities")}
+          </Link>
+          <Link
+            href="/compare"
+            onClick={() => setOpen(false)}
+            className="flex items-center gap-2 rounded-md px-3 py-2 text-sm font-medium hover:bg-accent transition-colors"
+          >
+            <BarChart3 className="h-4 w-4 text-muted-foreground" />
+            Compare cities
           </Link>
           <Link
             href="/methodology"

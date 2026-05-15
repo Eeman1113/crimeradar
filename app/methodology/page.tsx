@@ -5,6 +5,7 @@ import {
   type CrimeCategory,
 } from "@/lib/types";
 import { dataSeededAt } from "@/lib/wards";
+import DataFreshnessPanel from "@/components/DataFreshnessPanel";
 
 const ORDER: CrimeCategory[] = [
   "sexual_offence",
@@ -44,6 +45,9 @@ export default function MethodologyPage() {
         </span>{" "}
         flag on each city&apos;s page tells you where it sits.
       </p>
+
+      <h2 className="text-xl font-semibold mt-8">Live data status</h2>
+      <DataFreshnessPanel />
 
       <h2 className="text-xl font-semibold mt-8">Data sources</h2>
       <ul className="list-disc pl-5 space-y-2 text-foreground/90">
