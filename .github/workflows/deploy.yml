@@ -30,6 +30,8 @@ jobs:
       - name: Build static site
         env:
           NEXT_PUBLIC_BASE_PATH: /crimeradar
+          NEXT_PUBLIC_POSTHOG_PROJECT_TOKEN: ${{ secrets.NEXT_PUBLIC_POSTHOG_PROJECT_TOKEN }}
+          NEXT_PUBLIC_POSTHOG_HOST: ${{ secrets.NEXT_PUBLIC_POSTHOG_HOST }}
         run: npm run build
 
       - name: Add .nojekyll so GH Pages serves _next/* assets
