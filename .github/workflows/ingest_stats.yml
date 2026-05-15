@@ -37,6 +37,9 @@ jobs:
       - name: Chennai — annual crime stats (OpenCity CSVs)
         run: node scripts/ingest_chennai_stats.mjs
 
+      - name: Delhi — annual crime stats (Delhi Police PDF)
+        run: node scripts/ingest_delhi_stats.mjs
+
       - name: Commit & push if data changed
         run: |
           git config user.name  "crimeradar-bot"

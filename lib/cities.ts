@@ -73,7 +73,7 @@ export const CITIES: Record<CityId, CityConfig> = {
     geojson: "/geo/delhi_wards.geojson",
     wardIdKey: "Ward_No",
     unit: "MCD ward",
-    hasMonthlyStats: false,
+    hasMonthlyStats: true,
     hasAbsconders: true,
   },
   chennai: {

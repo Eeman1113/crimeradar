@@ -232,6 +232,45 @@ const HISTORIES: Record<CityId, HistoryFile> = {
   kolkata: kolkataHistoryJson as HistoryFile,
 };
 
+export type SearchIndexEntry = {
+  city: CityId;
+  cityName: string;
+  wardId: string;
+  wardSlug: string;
+  name: string;
+  neighborhoods: string;
+  score: number;
+  scoreNight: number;
+  scoreWomen: number;
+};
+
+const SEARCH_INDEX: SearchIndexEntry[] = (
+  Object.keys(WARDS_BY_CITY) as CityId[]
+).flatMap((c) =>
+  WARDS_BY_CITY[c].map((w) => ({
+    city: c,
+    cityName: c.charAt(0).toUpperCase() + c.slice(1),
+    wardId: w.id,
+    wardSlug: w.id.replace(/[^a-zA-Z0-9]+/g, "-").replace(/^-+|-+$/g, "").toLowerCase(),
+    name: w.name,
+    neighborhoods: w.neighborhoods,
+    score: w.riskScore,
+    scoreNight: w.riskScoreNight,
+    scoreWomen: w.riskScoreWomen,
+  })),
+);
+
+export function searchWards(query: string, limit = 12): SearchIndexEntry[] {
+  const q = query.trim().toLowerCase();
+  if (!q) return [];
+  return SEARCH_INDEX.filter(
+    (e) =>
+      e.name.toLowerCase().includes(q) ||
+      e.neighborhoods.toLowerCase().includes(q) ||
+      e.cityName.toLowerCase().includes(q),
+  ).slice(0, limit);
+}
+
 export function monthlyHistory(city: CityId): MonthHistoryEntry[] {
   return HISTORIES[city]?.months ?? [];
 }

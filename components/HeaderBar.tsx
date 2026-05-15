@@ -3,6 +3,7 @@
 import Link from "next/link";
 import LanguageSwitcher from "@/components/LanguageSwitcher";
 import MobileNav from "@/components/MobileNav";
+import WardSearch from "@/components/WardSearch";
 import { ThemeToggle } from "@/components/theme-toggle";
 import { useI18n } from "@/lib/i18n/provider";
 import { withBase } from "@/lib/site";
@@ -51,6 +52,7 @@ export default function HeaderBar() {
               {t("nav_legal")}
             </Link>
           </nav>
+          <WardSearch />
           <LanguageSwitcher />
           <ThemeToggle />
           <MobileNav />

@@ -1,8 +1,20 @@
 {
-  "source": null,
+  "source": "https://delhipolice.gov.in/Images/HTMLfiles/Crime%20In%20Delhi(2).pdf",
   "indexUrl": "https://delhipolice.gov.in/statistics",
-  "publishedFor": null,
-  "scrapedAt": null,
-  "cityWideYtdTotals": {},
-  "notes": "Pending ingest. Delhi Police's last published statistics PDF covers 2011–2022; no monthly refresh. Scraper TBD."
+  "publishedFor": {
+    "year": 2021
+  },
+  "windowKind": "year",
+  "scrapedAt": "2026-05-15T16:21:44.441Z",
+  "cityWideYtdTotals": {
+    "robbery": 2359,
+    "assault": 2580,
+    "other": 70872,
+    "kidnapping": 5527,
+    "sexual_offence": 2076,
+    "theft": 197496,
+    "burglary": 5122,
+    "harassment": 2551
+  },
+  "notes": "Annual 2021 totals for Delhi (the latest full year in delhipolice.gov.in/statistics, which has not been refreshed since 2022). Categories mapped to our internal taxonomy: theft = Snatching + MV Theft + Other Theft; assault = Murder + Att.Murder + Hurt; burglary = Burglary + House Theft; kidnapping = Kidnapping for Ransom + Other Kid./Abd; harassment = Molestation of Women; sexual_offence = Rape; robbery = Robbery + Dacoity; other = Riot + Other IPC."
 }
