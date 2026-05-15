@@ -58,7 +58,7 @@ export const CITIES: Record<CityId, CityConfig> = {
     geojson: "/geo/bangalore_wards.geojson",
     wardIdKey: "KGISWardName",
     unit: "BBMP ward",
-    hasMonthlyStats: false,
+    hasMonthlyStats: true,
     hasAbsconders: false,
   },
   delhi: {

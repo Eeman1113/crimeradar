@@ -1,8 +1,18 @@
 {
-  "source": null,
+  "source": "https://ksp.karnataka.gov.in/storage/pdf-files/CRIME%20REVIEW%20-%20APRIL%20-%202026.pdf",
   "indexUrl": "https://ksp.karnataka.gov.in/new-page/Monthly%20Crime%20Review/en",
-  "publishedFor": null,
-  "scrapedAt": null,
-  "cityWideYtdTotals": {},
-  "notes": "Pending ingest. Karnataka State Police publishes monthly crime review PDFs (54 pages, state-level sub-category tables; Bengaluru Urban appears in the district-wise summary table at page 18). Scraper TBD."
+  "publishedFor": {
+    "year": 2026,
+    "month": 4
+  },
+  "scrapedAt": "2026-05-15T13:53:52.254Z",
+  "cityWideYtdTotals": {
+    "assault": 366,
+    "robbery": 8,
+    "theft": 1155,
+    "burglary": 85,
+    "other": 1862,
+    "sexual_offence": 79
+  },
+  "notes": "Single-month (not year-to-date) counts for Bengaluru city, extracted from the district-wise summary table of the most-recent KSP Monthly Crime Review. Category mapping: theft = Theft + Snatching + Chain Snatching + MV Theft; assault = Hurt + Murder + Dowry Deaths; robbery = Robbery + Dacoity; burglary = Day + Night; sexual_offence = Rape + POCSO; harassment and kidnapping rows are not present in this district table (KSP publishes those only state-wide) so they remain blank."
 }
