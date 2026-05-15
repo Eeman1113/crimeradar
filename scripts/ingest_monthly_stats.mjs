@@ -241,6 +241,7 @@ async function main() {
     source: latest.pdfUrl,
     indexUrl: INDEX_URL,
     publishedFor: ym, // { year, month } if parseable
+    windowKind: "ytd",
     scrapedAt: new Date().toISOString(),
     cityWideYtdTotals: totals,
     notes:

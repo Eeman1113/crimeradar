@@ -134,6 +134,7 @@ async function main() {
     extraSources: [CAW_CSV, MURDER_CSV],
     indexUrl: "https://data.opencity.in/dataset/tamil-nadu-crime-data-2023",
     publishedFor: { year: 2023 },
+    windowKind: "year",
     scrapedAt: new Date().toISOString(),
     cityWideYtdTotals: totals_taxonomy,
     cityTotals: {

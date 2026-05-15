@@ -195,6 +195,7 @@ async function main() {
     source: latest.url,
     indexUrl: INDEX_URL,
     publishedFor: { year: latest.year, month: latest.month },
+    windowKind: "month",
     scrapedAt: new Date().toISOString(),
     cityWideYtdTotals: totals,
     notes:

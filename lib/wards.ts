@@ -27,6 +27,7 @@ type MonthlyStats = {
   source: string | null;
   indexUrl?: string;
   publishedFor: { year: number; month?: number } | null;
+  windowKind?: "ytd" | "month" | "year";
   scrapedAt: string | null;
   cityWideYtdTotals: Partial<Record<CrimeCategory, number>>;
   notes?: string;
@@ -167,6 +168,7 @@ export function monthlyStatsMeta(city: CityId) {
   return {
     source: s?.source ?? null,
     publishedFor: s?.publishedFor ?? null,
+    windowKind: s?.windowKind ?? "ytd",
     scrapedAt: s?.scrapedAt ?? null,
     totals: s?.cityWideYtdTotals ?? {},
   };

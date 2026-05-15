@@ -24,16 +24,21 @@ export default function CityStatsCard({ city }: { city: CityId }) {
   const grand = present.reduce((a, c) => a + (totals[c] ?? 0), 0);
   const year = meta.publishedFor?.year;
   const month = meta.publishedFor?.month;
-  const window =
-    year && month
-      ? `Jan–${new Date(year, month - 1, 1)
-          .toLocaleString("en-IN", { month: "short" })
-          .toLowerCase()} ${year}`
-      : year
+  const kind = meta.windowKind;
+  const monthShort = (m: number) =>
+    new Date(2000, m - 1, 1).toLocaleString("en-IN", { month: "short" });
+  const windowLabel =
+    kind === "month" && year && month
+      ? `${monthShort(month)} ${year}`
+      : kind === "year" && year
         ? `Year ${year}`
-        : meta.scrapedAt
-          ? `As of ${meta.scrapedAt.slice(0, 10)}`
-          : "Latest published";
+        : kind === "ytd" && year && month
+          ? `Jan–${monthShort(month)} ${year}`
+          : year
+            ? `Year ${year}`
+            : meta.scrapedAt
+              ? `As of ${meta.scrapedAt.slice(0, 10)}`
+              : "Latest published";
 
   return (
     <div className="rounded-lg border border-zinc-800 bg-zinc-900/50 p-4 flex flex-col gap-3">
@@ -41,7 +46,7 @@ export default function CityStatsCard({ city }: { city: CityId }) {
         <h3 className="text-sm font-semibold text-zinc-200">
           {cfg.name} reported incidents
         </h3>
-        <p className="text-xs text-zinc-500">{window} (city-aggregate)</p>
+        <p className="text-xs text-zinc-500">{windowLabel} (city-aggregate)</p>
       </div>
       <ul className="grid grid-cols-2 gap-x-3 gap-y-1.5 text-xs">
         {present.map((c) => (
