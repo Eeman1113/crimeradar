@@ -109,10 +109,10 @@ export default async function AbscondersPage({
               We have not identified a CrPC §82 list published online by the{" "}
               {cfg.state} police. If you know of one, please email{" "}
               <a
-                href="mailto:legal@crimeradar.example"
+                href="mailto:eemanwithai@gmail.com"
                 className="underline"
               >
-                legal@crimeradar.example
+                eemanwithai@gmail.com
               </a>{" "}
               so we can add it.
             </p>

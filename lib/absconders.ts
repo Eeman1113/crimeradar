@@ -70,3 +70,9 @@ export function absconderScrapedAt(city: CityId): string | null {
 export function absconderNotes(city: CityId): string {
   return FILES[city].notes;
 }
+
+export function absconderFileSources(): string[] {
+  return (Object.keys(FILES) as CityId[])
+    .map((c) => FILES[c]?.source)
+    .filter((s): s is string => typeof s === "string" && s.length > 0);
+}

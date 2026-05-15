@@ -1,10 +1,11 @@
+import { Database, Globe, MapPin } from "lucide-react";
 import Link from "next/link";
 import nightMultipliers from "@/lib/night_multipliers.json";
 import {
   CRIME_CATEGORY_LABELS,
   type CrimeCategory,
 } from "@/lib/types";
-import { dataSeededAt } from "@/lib/wards";
+import { dataSeededAt, dataSourcesSummary } from "@/lib/wards";
 import DataFreshnessPanel from "@/components/DataFreshnessPanel";
 
 const ORDER: CrimeCategory[] = [
@@ -23,6 +24,7 @@ export const metadata = {
 };
 
 export default function MethodologyPage() {
+  const sources = dataSourcesSummary();
   return (
     <article className="max-w-3xl mx-auto px-4 py-12 leading-relaxed space-y-4">
       <h1 className="text-3xl sm:text-4xl font-semibold tracking-tight">
@@ -36,15 +38,54 @@ export default function MethodologyPage() {
         </strong>
       </p>
       <p className="text-muted-foreground">
-        CrimeRadar covers Mumbai, Bangalore, Delhi, Chennai, Hyderabad, and
-        Kolkata. Mumbai has the most complete data pipeline; other cities are
-        being layered in iteratively as their police forces publish parseable
-        data. The{" "}
+        CrimeRadar covers Mumbai, Bangalore, Delhi, Chennai, Hyderabad,
+        Kolkata, Pune, Gurugram, and Noida. Mumbai has the most complete data
+        pipeline; other cities are being layered in iteratively as their
+        police forces publish parseable data. The{" "}
         <span className="font-mono text-sky-600 dark:text-sky-400">
           data quality
         </span>{" "}
         flag on each city&apos;s page tells you where it sits.
       </p>
+
+      <div className="grid grid-cols-3 gap-2 sm:gap-3 mt-4">
+        <div className="rounded-lg border bg-card p-3 sm:p-4 flex flex-col gap-1">
+          <div className="flex items-center gap-1.5 text-xs text-muted-foreground">
+            <Database className="h-3.5 w-3.5" />
+            <span>Sources cited</span>
+          </div>
+          <p className="text-2xl sm:text-3xl font-semibold tracking-tight tabular-nums">
+            {sources.urls}
+          </p>
+          <p className="text-[10px] text-muted-foreground">
+            distinct URLs in data files
+          </p>
+        </div>
+        <div className="rounded-lg border bg-card p-3 sm:p-4 flex flex-col gap-1">
+          <div className="flex items-center gap-1.5 text-xs text-muted-foreground">
+            <Globe className="h-3.5 w-3.5" />
+            <span>Domains</span>
+          </div>
+          <p className="text-2xl sm:text-3xl font-semibold tracking-tight tabular-nums">
+            {sources.domains}
+          </p>
+          <p className="text-[10px] text-muted-foreground">
+            unique upstream hosts
+          </p>
+        </div>
+        <div className="rounded-lg border bg-card p-3 sm:p-4 flex flex-col gap-1">
+          <div className="flex items-center gap-1.5 text-xs text-muted-foreground">
+            <MapPin className="h-3.5 w-3.5" />
+            <span>Cities</span>
+          </div>
+          <p className="text-2xl sm:text-3xl font-semibold tracking-tight tabular-nums">
+            {sources.cities}
+          </p>
+          <p className="text-[10px] text-muted-foreground">
+            with ward-level data
+          </p>
+        </div>
+      </div>
 
       <h2 className="text-xl font-semibold mt-8">Live data status</h2>
       <DataFreshnessPanel />
@@ -198,8 +239,8 @@ risk(w) = round(100 · (clamp(raw(w), p5, p95) − p5) / (p95 − p5))`}
 
       <p className="text-xs text-muted-foreground mt-10">
         Spotted an error? Email{" "}
-        <a href="mailto:legal@crimeradar.example" className="underline">
-          legal@crimeradar.example
+        <a href="mailto:eemanwithai@gmail.com" className="underline">
+          eemanwithai@gmail.com
         </a>
         .
       </p>

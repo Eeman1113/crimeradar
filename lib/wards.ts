@@ -39,6 +39,7 @@ import gurugramNewsJson from "@/data/cities/gurugram/ward_news.json";
 import noidaNewsJson from "@/data/cities/noida/ward_news.json";
 
 import { normalizeScores, rawScore, rawWomenScore } from "./risk";
+import { absconderFileSources } from "./absconders";
 import {
   CRIME_CATEGORY_LABELS,
   type CrimeBreakdown,
@@ -456,4 +457,57 @@ export function dynamicWardConcerns(
   }
 
   return out;
+}
+
+// Hand-curated additional sources that aren't captured in the per-city JSON
+// `source` fields — these are upstream of the JSONs (e.g. the GeoJSON repos
+// we pulled ward boundaries from). Listed here so they get counted in the
+// methodology page's "sources cited" tag.
+const ADDITIONAL_SOURCES: string[] = [
+  "https://github.com/datameet/Municipal_Spatial_Data",
+  "https://data.opencity.in/dataset/gurugram-wards-map",
+];
+
+export function dataSourcesSummary(): {
+  urls: number;
+  domains: number;
+  cities: number;
+} {
+  const urls = new Set<string>();
+  const domains = new Set<string>();
+
+  const addUrl = (raw: string | null | undefined) => {
+    if (!raw || typeof raw !== "string") return;
+    const trimmed = raw.trim();
+    if (!trimmed) return;
+    urls.add(trimmed);
+    try {
+      const host = new URL(trimmed).hostname.toLowerCase().replace(/^www\./, "");
+      if (host) domains.add(host);
+    } catch {
+      // non-URL strings (e.g. "GBN Police press releases via @noidapolice")
+      // still count as a unique source string, just not toward domain count.
+    }
+  };
+
+  const cityIds = Object.keys(WARDS_BY_CITY) as CityId[];
+  for (const c of cityIds) {
+    const s = STATS[c];
+    addUrl(s?.source);
+    addUrl(s?.indexUrl);
+
+    const h = HISTORIES[c];
+    addUrl(h?.source);
+    for (const m of h?.months ?? []) {
+      addUrl(m.source);
+    }
+
+    const n = NEWS[c];
+    addUrl(n?.source);
+  }
+
+  for (const u of absconderFileSources()) addUrl(u);
+  for (const u of ADDITIONAL_SOURCES) addUrl(u);
+
+  return { urls: urls.size, domains: domains.size, cities: cityIds.length };
 }

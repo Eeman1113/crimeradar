@@ -71,8 +71,8 @@ export default function LegalPage() {
       <h2 className="text-xl font-semibold mt-8">Takedown requests</h2>
       <p className="text-foreground/90">
         Email{" "}
-        <a href="mailto:legal@crimeradar.example" className="underline">
-          legal@crimeradar.example
+        <a href="mailto:eemanwithai@gmail.com" className="underline">
+          eemanwithai@gmail.com
         </a>{" "}
         with the URL, the specific content, and (if applicable) proof of
         identity. We commit to a 72-hour response SLA. If we don&apos;t
