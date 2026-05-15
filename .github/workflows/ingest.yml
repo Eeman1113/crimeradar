@@ -1,0 +1,46 @@
+name: Daily data ingest
+
+on:
+  # Runs every day at 00:30 UTC (≈ 06:00 IST)
+  schedule:
+    - cron: "30 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ingest
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      - name: Refresh absconders
+        run: node scripts/ingest_absconders.mjs
+
+      - name: Refresh monthly stats
+        run: node scripts/ingest_monthly_stats.mjs
+
+      - name: Commit & push if data changed
+        run: |
+          git config user.name  "crimeradar-bot"
+          git config user.email "actions@users.noreply.github.com"
+          if [ -n "$(git status --porcelain data/absconders.json data/monthly_stats.json)" ]; then
+            git add data/absconders.json data/monthly_stats.json
+            git commit -m "data: refresh ingest ($(date -u +%Y-%m-%dT%H:%MZ))"
+            git push
+            echo "pushed updated data"
+          else
+            echo "no data changes; skipping commit"
+          fi

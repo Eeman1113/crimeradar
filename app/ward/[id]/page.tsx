@@ -118,22 +118,38 @@ export default async function WardPage({
       </section>
 
       <section className="max-w-5xl mx-auto px-4 pb-12">
-        <div className="rounded-lg border border-zinc-800 bg-zinc-900/50 p-4 text-sm text-zinc-300">
-          <h3 className="font-semibold text-zinc-100 mb-1">
-            Named offenders in this ward
+        <div className="rounded-lg border border-zinc-800 bg-zinc-900/50 p-4 text-sm text-zinc-300 flex flex-col gap-2">
+          <h3 className="font-semibold text-zinc-100">
+            Named absconders (city-wide)
           </h3>
           <p className="text-zinc-400 text-xs">
-            We only republish names from the Mumbai Police Absconder List
-            (published under CrPC §82). That ingest is part of v0.2; this MVP
-            does not show any individual names.{" "}
+            We republish names <strong>only</strong> from the{" "}
+            <a
+              href="https://mumbaipolice.gov.in/absconder_list"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="underline underline-offset-2"
+            >
+              Mumbai Police Absconder List
+            </a>{" "}
+            (CrPC §82 proclamations). The published listing does not include a
+            police-station field, and the per-person PDFs are image scans, so
+            we can't reliably map an individual to this ward — the consolidated
+            list is city-wide.{" "}
             <Link
               href="/legal"
               className="underline underline-offset-2 text-zinc-300"
             >
-              Our naming policy
+              Naming policy
             </Link>
             .
           </p>
+          <Link
+            href="/absconders"
+            className="inline-flex w-fit items-center gap-2 rounded-full bg-zinc-800 hover:bg-zinc-700 text-zinc-100 px-3 py-1.5 text-xs font-medium"
+          >
+            View consolidated absconder list →
+          </Link>
         </div>
       </section>
     </div>

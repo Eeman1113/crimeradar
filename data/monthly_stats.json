@@ -1,0 +1,20 @@
+{
+  "source": "https://mumbaipolice.gov.in/files/Cstat/107.pdf",
+  "indexUrl": "https://mumbaipolice.gov.in/CrimeStatistics",
+  "publishedFor": {
+    "year": 2026,
+    "month": 3
+  },
+  "scrapedAt": "2026-05-15T12:45:51.325Z",
+  "cityWideYtdTotals": {
+    "theft": 2264,
+    "assault": 1257,
+    "robbery": 97,
+    "burglary": 234,
+    "sexual_offence": 195,
+    "kidnapping": 332,
+    "harassment": 794,
+    "other": 14683
+  },
+  "notes": "Year-to-date city-aggregate counts (registered IPC + BNS cases) extracted from the most-recent Mumbai Police monthly crime statistics PDF. Categories normalised to CrimeRadar's internal taxonomy. Counts are city-wide; the per-ward apportioning happens in lib/wards.ts using BMC ward population weights."
+}

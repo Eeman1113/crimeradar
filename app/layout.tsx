@@ -26,6 +26,9 @@ export default function RootLayout({
               </span>
             </Link>
             <nav className="flex items-center gap-4 text-sm text-zinc-400">
+              <Link href="/absconders" className="hover:text-zinc-100">
+                Absconders
+              </Link>
               <Link href="/methodology" className="hover:text-zinc-100">
                 Methodology
               </Link>

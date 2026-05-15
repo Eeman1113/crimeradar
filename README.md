@@ -1,36 +1,52 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# CrimeRadar
 
-## Getting Started
+Mumbai ward-level safety map. Estimated risk scores per BMC ward with a
+night-time multiplier, plus the Mumbai Police Absconder List republished with
+attribution.
 
-First, run the development server:
+**Live data:**
+
+- City-level YTD crime counts from
+  [Mumbai Police monthly statistics](https://mumbaipolice.gov.in/CrimeStatistics)
+  — refreshed daily.
+- Absconder names from the
+  [Mumbai Police Absconder List](https://mumbaipolice.gov.in/absconder_list)
+  (CrPC §82) — refreshed daily.
+
+**Editorial:** per-ward relative weights (used to apportion the city totals to
+each of the 24 wards) are hand-built and documented on `/methodology`.
+
+## Stack
+
+Next.js 16 (App Router) · TypeScript · Tailwind v4 · MapLibre GL JS ·
+@turf/boolean-point-in-polygon · Recharts · pdf-parse (pure-JS).
+
+## Local dev
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+npm install
+node scripts/ingest_absconders.mjs    # refresh data/absconders.json
+node scripts/ingest_monthly_stats.mjs # refresh data/monthly_stats.json
+npm run build
+npm run start -- -p 3000
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open <http://localhost:3000>.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Data refresh
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+A GitHub Actions workflow (`.github/workflows/ingest.yml`) runs both ingest
+scripts daily at 00:30 UTC and commits the updated JSON. Vercel (if connected)
+redeploys automatically on the push.
 
-## Learn More
+Manual trigger:
 
-To learn more about Next.js, take a look at the following resources:
+```bash
+gh workflow run ingest.yml
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Disclaimers
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Risk scores are **estimates**, not safety guarantees. See `/legal` for the
+naming policy, takedown contact, and DPDP notice. See `/methodology` for the
+exact formula, data sources, and limitations.

@@ -1,0 +1,176 @@
+{
+  "source": "https://mumbaipolice.gov.in/absconder_list",
+  "scrapedAt": "2026-05-15T12:31:13.937Z",
+  "count": 24,
+  "absconders": [
+    {
+      "id": "c557cf04952f",
+      "pdfId": "621",
+      "sourcePdfUrl": "https://mumbaipolice.gov.in/files/Absconder/621.pdf",
+      "name": "HINDUSTAN UNILIVER LTD",
+      "isOrganisation": true
+    },
+    {
+      "id": "ef976a4c67b4",
+      "pdfId": "620",
+      "sourcePdfUrl": "https://mumbaipolice.gov.in/files/Absconder/620.pdf",
+      "name": "NEPO PURAN KSHETRI",
+      "isOrganisation": false
+    },
+    {
+      "id": "4185d6a7e259",
+      "pdfId": "619",
+      "sourcePdfUrl": "https://mumbaipolice.gov.in/files/Absconder/619.pdf",
+      "name": "MICHEAL DOSOUZA GONSALVIS",
+      "isOrganisation": false
+    },
+    {
+      "id": "272109ed9184",
+      "pdfId": "618",
+      "sourcePdfUrl": "https://mumbaipolice.gov.in/files/Absconder/618.pdf",
+      "name": "KISHOR PADMAKAR BHAVANGIR",
+      "isOrganisation": false
+    },
+    {
+      "id": "788fcd5c528d",
+      "pdfId": "617",
+      "sourcePdfUrl": "https://mumbaipolice.gov.in/files/Absconder/617.pdf",
+      "name": "MOHD ILIYAS MOHD SHAIKH",
+      "isOrganisation": false
+    },
+    {
+      "id": "8fe38d1a4f44",
+      "pdfId": "616",
+      "sourcePdfUrl": "https://mumbaipolice.gov.in/files/Absconder/616.pdf",
+      "name": "MOHD LATIF GULAB SHAIKH",
+      "isOrganisation": false
+    },
+    {
+      "id": "9406ce98e8dc",
+      "pdfId": "615",
+      "sourcePdfUrl": "https://mumbaipolice.gov.in/files/Absconder/615.pdf",
+      "name": "SUNIL BHIVA GAVAS",
+      "isOrganisation": false
+    },
+    {
+      "id": "727b94c6bd19",
+      "pdfId": "614",
+      "sourcePdfUrl": "https://mumbaipolice.gov.in/files/Absconder/614.pdf",
+      "name": "BHASKAR RAMA BILCHARD",
+      "isOrganisation": false
+    },
+    {
+      "id": "c47d80f2568d",
+      "pdfId": "613",
+      "sourcePdfUrl": "https://mumbaipolice.gov.in/files/Absconder/613.pdf",
+      "name": "KARAN RAJKUMAR YADAV",
+      "isOrganisation": false
+    },
+    {
+      "id": "eac27789c429",
+      "pdfId": "612",
+      "sourcePdfUrl": "https://mumbaipolice.gov.in/files/Absconder/612.pdf",
+      "name": "SANTOSH SITARMA GUPTA",
+      "isOrganisation": false
+    },
+    {
+      "id": "90f4a41a24ac",
+      "pdfId": "611",
+      "sourcePdfUrl": "https://mumbaipolice.gov.in/files/Absconder/611.pdf",
+      "name": "RAMESH DABBU alias SHIVSHANKAR UPADHYAY",
+      "isOrganisation": false
+    },
+    {
+      "id": "f07566212bf5",
+      "pdfId": "610",
+      "sourcePdfUrl": "https://mumbaipolice.gov.in/files/Absconder/610.pdf",
+      "name": "HARISH CHAMPALAL MEHTA",
+      "isOrganisation": false
+    },
+    {
+      "id": "87524c75b298",
+      "pdfId": "609",
+      "sourcePdfUrl": "https://mumbaipolice.gov.in/files/Absconder/609.pdf",
+      "name": "SHASHI RAMAKANT MISHRA",
+      "isOrganisation": false
+    },
+    {
+      "id": "34da5e808203",
+      "pdfId": "608",
+      "sourcePdfUrl": "https://mumbaipolice.gov.in/files/Absconder/608.pdf",
+      "name": "S AAYNAR SHYAMLAL PADIYACHI",
+      "isOrganisation": false
+    },
+    {
+      "id": "b63b87653cc7",
+      "pdfId": "607",
+      "sourcePdfUrl": "https://mumbaipolice.gov.in/files/Absconder/607.pdf",
+      "name": "MOHD HANIF ISMAIL GHACHI",
+      "isOrganisation": false
+    },
+    {
+      "id": "243cda87b8a2",
+      "pdfId": "606",
+      "sourcePdfUrl": "https://mumbaipolice.gov.in/files/Absconder/606.pdf",
+      "name": "RONY JOHN ALVAB",
+      "isOrganisation": false
+    },
+    {
+      "id": "23aa3da41400",
+      "pdfId": "605",
+      "sourcePdfUrl": "https://mumbaipolice.gov.in/files/Absconder/605.pdf",
+      "name": "PRAKASH MEHTANI",
+      "isOrganisation": false
+    },
+    {
+      "id": "4b2d90dc5bd3",
+      "pdfId": "604",
+      "sourcePdfUrl": "https://mumbaipolice.gov.in/files/Absconder/604.pdf",
+      "name": "SUNAIYNA MEHTANI",
+      "isOrganisation": false
+    },
+    {
+      "id": "0ccd5a08f9b3",
+      "pdfId": "603",
+      "sourcePdfUrl": "https://mumbaipolice.gov.in/files/Absconder/603.pdf",
+      "name": "RAJU MEHTANI",
+      "isOrganisation": false
+    },
+    {
+      "id": "fa8b837a03ea",
+      "pdfId": "602",
+      "sourcePdfUrl": "https://mumbaipolice.gov.in/files/Absconder/602.pdf",
+      "name": "DHARMENDRA BALARAM DEVRUKHKAR",
+      "isOrganisation": false
+    },
+    {
+      "id": "bed151a4fb12",
+      "pdfId": "601",
+      "sourcePdfUrl": "https://mumbaipolice.gov.in/files/Absconder/601.pdf",
+      "name": "PREMSINGH M VODKIYA",
+      "isOrganisation": false
+    },
+    {
+      "id": "95cde1db7b51",
+      "pdfId": "600",
+      "sourcePdfUrl": "https://mumbaipolice.gov.in/files/Absconder/600.pdf",
+      "name": "RAMESH MOHAN RAO",
+      "isOrganisation": false
+    },
+    {
+      "id": "3d3209c9d70a",
+      "pdfId": "599",
+      "sourcePdfUrl": "https://mumbaipolice.gov.in/files/Absconder/599.pdf",
+      "name": "SANJIVAN alias CHANDU KUJAPPA NAIR",
+      "isOrganisation": false
+    },
+    {
+      "id": "1100a4f8a761",
+      "pdfId": "598",
+      "sourcePdfUrl": "https://mumbaipolice.gov.in/files/Absconder/598.pdf",
+      "name": "SANJIVAN alias CHANDU KUJAPPA NAIR",
+      "isOrganisation": false
+    }
+  ],
+  "notes": "Names republished from Mumbai Police Absconder List (CrPC §82). The listing does not include police-station or charge fields; PDFs are image-based scans, so station/charge data is not extractable without OCR. Each card links to the source PDF."
+}

@@ -45,22 +45,52 @@ export default function MethodologyPage() {
           repository (GeoJSON, public domain).
         </li>
         <li>
-          <strong>Crime counts (MVP):</strong> hand-seeded estimates per ward,
-          calibrated against publicly reported NCRB Mumbai aggregates and
-          Mumbai Police annual report breakdowns. Marked{" "}
-          <span className="font-mono text-amber-400">seeded</span> in the data
-          quality flag in the footer of every page.
+          <strong>City-level crime counts (live):</strong> we ingest the
+          most-recent{" "}
+          <a
+            href="https://mumbaipolice.gov.in/CrimeStatistics"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="underline"
+          >
+            Mumbai Police monthly crime statistics PDF
+          </a>{" "}
+          and extract year-to-date <em>registered</em> case counts per crime
+          head. These are city-aggregate (all of Mumbai), not per-ward. Refreshed
+          daily; the footer shows the scrape date.
         </li>
         <li>
-          <strong>Planned (v0.2):</strong> automated ingest from Mumbai Police
-          monthly crime PDFs and the Maharashtra Citizen FIR portal. When
-          enabled, the data quality flag will switch to{" "}
-          <span className="font-mono">live</span>.
+          <strong>Per-ward apportioning (calibrated):</strong> the city totals
+          above are apportioned to the 24 BMC wards using a hand-built
+          relative-weight matrix per category (e.g. Govandi has more reported
+          violent crime per capita than Malabar Hill). Real city totals × editorial
+          relative weights → per-ward counts. The data quality flag is{" "}
+          <span className="font-mono text-sky-400">calibrated</span> because
+          the absolute scale is real but the relative ward distribution is
+          editorial.
         </li>
         <li>
-          <strong>Named offenders (v0.2):</strong> only the Mumbai Police
-          Absconder List (published under CrPC §82). No accused, no FIR-named,
-          no news-named. See <Link href="/legal">our naming policy</Link>.
+          <strong>Planned (v0.3):</strong> Maharashtra Citizen FIR portal
+          per-station scraper. Once that lands, the relative ward weights become
+          live too, and the data quality flag will switch to{" "}
+          <span className="font-mono text-emerald-400">live</span>.
+        </li>
+        <li>
+          <strong>Named absconders:</strong> only persons on the{" "}
+          <a
+            href="https://mumbaipolice.gov.in/absconder_list"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="underline"
+          >
+            Mumbai Police Absconder List
+          </a>{" "}
+          (published under CrPC §82). Each entry on{" "}
+          <Link href="/absconders" className="underline">
+            /absconders
+          </Link>{" "}
+          links back to the official PDF. No accused, no FIR-named, no
+          news-named. See <Link href="/legal" className="underline">naming policy</Link>.
         </li>
       </ul>
 
