@@ -7,8 +7,10 @@
 // lib/wards.ts rescales them to match real city totals. Without real
 // stats the values stay seeded but produce a visually differentiated map.
 //
-// Run: node scripts/generate_ward_seed.mjs <cityId>
-//   e.g. node scripts/generate_ward_seed.mjs bangalore
+// Legacy CLI (for the 5 cities originally seeded this way):
+//   node scripts/generate_ward_seed.mjs <cityId>
+// Programmatic (new cities — used by scripts/add_city.mjs):
+//   import { generateSeed } from "./generate_ward_seed.mjs";
 
 import { default as centroid } from "@turf/centroid";
 import { default as distance } from "@turf/distance";
@@ -16,18 +18,21 @@ import crypto from "node:crypto";
 import fs from "node:fs/promises";
 import path from "node:path";
 
-const CITY_CONFIG = {
+// Original five-city hard-coded table. Kept so the legacy CLI still works.
+// New cities should flow through scripts/add_city.mjs, which calls
+// generateSeed() directly.
+const LEGACY_CITY_CONFIG = {
   bangalore: {
     geojson: "public/geo/bangalore_wards.geojson",
     wardIdKey: "KGISWardName",
     population: 8_500_000,
-    nameOf: (props) => props.KGISWardName ?? `Ward ${props.KGISWardNo}`,
+    nameTemplate: "{KGISWardName|Ward {KGISWardNo}}",
   },
   delhi: {
     geojson: "public/geo/delhi_wards.geojson",
     wardIdKey: "Ward_No",
     population: 17_000_000,
-    nameOf: (props) =>
+    nameFn: (props) =>
       props.Ward_Name?.toLowerCase()
         .split(" ")
         .map((w) => w.charAt(0).toUpperCase() + w.slice(1))
@@ -37,19 +42,19 @@ const CITY_CONFIG = {
     geojson: "public/geo/chennai_wards.geojson",
     wardIdKey: "Ward_No",
     population: 7_100_000,
-    nameOf: (props) => `Ward ${props.Ward_No} (${props.Zone_Name})`,
+    nameTemplate: "Ward {Ward_No} ({Zone_Name})",
   },
   hyderabad: {
     geojson: "public/geo/hyderabad_wards.geojson",
     wardIdKey: "name",
     population: 7_700_000,
-    nameOf: (props) => props.name ?? "Ward",
+    nameTemplate: "{name|Ward}",
   },
   kolkata: {
     geojson: "public/geo/kolkata_wards.geojson",
     wardIdKey: "WARD",
     population: 4_500_000,
-    nameOf: (props) => `Ward ${props.WARD}`,
+    nameTemplate: "Ward {WARD}",
   },
 };
 
@@ -77,7 +82,6 @@ const TIER_CONCERNS = [
 ];
 
 function tierFor(distNorm) {
-  // distNorm is 0 (closest to centroid) … 1 (farthest). Quartile cut.
   if (distNorm < 0.25) return 0;
   if (distNorm < 0.5) return 1;
   if (distNorm < 0.75) return 2;
@@ -85,8 +89,6 @@ function tierFor(distNorm) {
 }
 
 function noiseFactor(id) {
-  // deterministic hash → [0.7 .. 1.3] noise multiplier so neighbouring
-  // wards in the same tier still differ slightly
   const h = crypto.createHash("md5").update(id).digest();
   const v = h.readUInt32BE(0) / 0xffffffff;
   return 0.7 + v * 0.6;
@@ -96,39 +98,94 @@ function escapeTsString(s) {
   return s.replace(/\\/g, "\\\\").replace(/"/g, '\\"');
 }
 
-async function main() {
-  const cityId = process.argv[2];
-  const cfg = CITY_CONFIG[cityId];
-  if (!cfg) {
-    console.error(
-      `unknown city: ${cityId}. one of: ${Object.keys(CITY_CONFIG).join(", ")}`,
-    );
-    process.exit(1);
+function titleCaseIfAllCaps(s) {
+  if (s === s.toUpperCase() && s.length > 3) {
+    return s
+      .toLowerCase()
+      .split(/\s+/)
+      .map((w) => (w ? w.charAt(0).toUpperCase() + w.slice(1) : w))
+      .join(" ");
   }
-  const geoPath = path.join(process.cwd(), cfg.geojson);
-  const geo = JSON.parse(await fs.readFile(geoPath, "utf8"));
+  return s;
+}
 
-  // Compute each ward's centroid + a synthetic area weight (great-circle
-  // squared distance covers fine for our population apportioning).
+// Substitutes {key} tokens against a properties object. Supports a
+// fallback with {key|fallback}, e.g. {name|Ward {Ward_No}} — if `name`
+// is missing or empty, the fallback string is used (also templated).
+function applyTemplate(template, props) {
+  return template.replace(/\{([^{}]+)\}/g, (_, expr) => {
+    const [key, fallback] = expr.split("|").map((s) => s.trim());
+    const v = props[key];
+    if (v != null && v !== "") return String(v);
+    if (fallback != null) return applyTemplate(fallback, props);
+    return "";
+  });
+}
+
+// Generic name inference when no template provided. Tries common keys.
+const COMMON_NAME_KEYS = [
+  "name", "Name", "NAME",
+  "Ward_Name", "WARD_NAME", "ward_name",
+  "KGISWardName",
+];
+function inferName(props, wardIdKey) {
+  for (const k of COMMON_NAME_KEYS) {
+    if (props[k]) return titleCaseIfAllCaps(String(props[k]));
+  }
+  const id = props[wardIdKey];
+  if (id != null) return `Ward ${id}`;
+  return "Ward";
+}
+
+/**
+ * Programmatic seed generator. Used by scripts/add_city.mjs.
+ *
+ * @param {object} opts
+ * @param {string} opts.cityId
+ * @param {string} opts.geojsonPath        absolute or repo-relative
+ * @param {string} opts.wardIdKey
+ * @param {number} opts.population         city total (used to apportion per-ward)
+ * @param {string} [opts.nameTemplate]     e.g. "Ward {Ward_No}" or "{Ward_Name|Ward {Ward_No}}"
+ * @param {(props: object) => string} [opts.nameFn]   takes precedence over nameTemplate
+ * @param {string} [opts.outPath]          override destination
+ * @returns {Promise<{count: number, outPath: string}>}
+ */
+export async function generateSeed(opts) {
+  const { cityId, wardIdKey, population, nameTemplate, nameFn } = opts;
+  const geoPath = path.isAbsolute(opts.geojsonPath)
+    ? opts.geojsonPath
+    : path.join(process.cwd(), opts.geojsonPath);
+  const outPath =
+    opts.outPath ??
+    path.join(process.cwd(), "data", "cities", cityId, "wards-raw.ts");
+
+  const geo = JSON.parse(await fs.readFile(geoPath, "utf8"));
+  if (!geo?.features?.length) {
+    throw new Error(`${geoPath}: no features found`);
+  }
+  const resolveName = (props) => {
+    if (nameFn) return nameFn(props) || String(props[wardIdKey] ?? "Ward");
+    if (nameTemplate) {
+      const v = applyTemplate(nameTemplate, props).trim();
+      if (v) return v;
+    }
+    return inferName(props, wardIdKey);
+  };
+
   const wardsRaw = geo.features.map((f) => {
-    const c = centroid(f).geometry.coordinates; // [lon, lat]
-    const id = String(f.properties[cfg.wardIdKey] ?? "");
-    const name = cfg.nameOf(f.properties) || id;
-    return { id, name, lon: c[0], lat: c[1], props: f.properties };
+    const c = centroid(f).geometry.coordinates;
+    const id = String(f.properties[wardIdKey] ?? "");
+    if (!id) throw new Error(`feature missing ward id at key "${wardIdKey}"`);
+    return { id, name: resolveName(f.properties), lon: c[0], lat: c[1] };
   });
 
-  // City centroid as average of ward centroids (good enough)
-  const meanLon =
-    wardsRaw.reduce((a, w) => a + w.lon, 0) / wardsRaw.length;
-  const meanLat =
-    wardsRaw.reduce((a, w) => a + w.lat, 0) / wardsRaw.length;
+  const meanLon = wardsRaw.reduce((a, w) => a + w.lon, 0) / wardsRaw.length;
+  const meanLat = wardsRaw.reduce((a, w) => a + w.lat, 0) / wardsRaw.length;
   const cityCenter = {
     type: "Feature",
     geometry: { type: "Point", coordinates: [meanLon, meanLat] },
     properties: {},
   };
-
-  // Distance from city center per ward
   const annotated = wardsRaw.map((w) => {
     const d = distance(
       cityCenter,
@@ -138,16 +195,15 @@ async function main() {
     return { ...w, distance: d };
   });
   const maxDist = Math.max(...annotated.map((w) => w.distance), 1e-9);
-  const popPerWard = cfg.population / annotated.length;
+  const popPerWard = population / annotated.length;
 
   const seeds = annotated.map((w) => {
     const distNorm = w.distance / maxDist;
     const tier = tierFor(distNorm);
     const profile = TIER_PROFILES[tier];
     const noise = noiseFactor(w.id);
-    const population = Math.round(popPerWard * (0.8 + noiseFactor(w.id + "p") * 0.4 - 0.2));
-    // breakdown for a 90-day window — profile is per-1000-people-per-quarter
-    const k = (population / 1000) * noise;
+    const wPop = Math.round(popPerWard * (0.8 + noiseFactor(w.id + "p") * 0.4 - 0.2));
+    const k = (wPop / 1000) * noise;
     const breakdown = {
       theft: Math.max(0, Math.round(profile.theft * k)),
       robbery: Math.max(0, Math.round(profile.robbery * k)),
@@ -162,13 +218,12 @@ async function main() {
       id: w.id,
       name: w.name,
       neighborhoods: w.name,
-      population,
+      population: wPop,
       breakdown,
       topConcerns: TIER_CONCERNS[tier],
     };
   });
 
-  // Write wards-raw.ts
   const lines = [
     'import type { CrimeBreakdown } from "@/lib/types";',
     "",
@@ -208,18 +263,36 @@ async function main() {
   lines.push("];");
   lines.push("");
 
-  const dest = path.join(
-    process.cwd(),
-    "data",
-    "cities",
-    cityId,
-    "wards-raw.ts",
-  );
-  await fs.writeFile(dest, lines.join("\n"));
-  console.log(`wrote ${seeds.length} wards → ${dest}`);
+  await fs.mkdir(path.dirname(outPath), { recursive: true });
+  await fs.writeFile(outPath, lines.join("\n"));
+  return { count: seeds.length, outPath };
 }
 
-main().catch((e) => {
-  console.error(e);
-  process.exit(1);
-});
+async function cli() {
+  const cityId = process.argv[2];
+  const cfg = LEGACY_CITY_CONFIG[cityId];
+  if (!cfg) {
+    console.error(
+      `unknown legacy city: ${cityId}. one of: ${Object.keys(LEGACY_CITY_CONFIG).join(", ")}\n` +
+        `for new cities use scripts/add_city.mjs.`,
+    );
+    process.exit(1);
+  }
+  const { count, outPath } = await generateSeed({
+    cityId,
+    geojsonPath: cfg.geojson,
+    wardIdKey: cfg.wardIdKey,
+    population: cfg.population,
+    nameTemplate: cfg.nameTemplate,
+    nameFn: cfg.nameFn,
+  });
+  console.log(`wrote ${count} wards → ${outPath}`);
+}
+
+// Run CLI when invoked directly (not when imported).
+if (import.meta.url === `file://${process.argv[1]}`) {
+  cli().catch((e) => {
+    console.error(e);
+    process.exit(1);
+  });
+}
