@@ -1,13 +1,20 @@
 import Link from "next/link";
 import { CITIES, CITY_IDS } from "@/lib/cities";
-import { cityDataQuality, listWards } from "@/lib/wards";
+import { listAbsconders } from "@/lib/absconders";
+import { cityDataQuality, listWards, monthlyStatsMeta } from "@/lib/wards";
 
 export default function Home() {
   const tiles = CITY_IDS.map((id) => {
     const cfg = CITIES[id];
     const quality = cityDataQuality(id);
     const wardCount = listWards(id).length;
-    return { ...cfg, quality, wardCount };
+    const stats = monthlyStatsMeta(id);
+    const statsCategories = Object.values(stats.totals).filter(
+      (v) => typeof v === "number" && v > 0,
+    ).length;
+    const absconderCount = listAbsconders(id).filter((a) => !a.isOrganisation)
+      .length;
+    return { ...cfg, quality, wardCount, statsCategories, absconderCount };
   });
 
   return (
@@ -25,37 +32,53 @@ export default function Home() {
         </div>
 
         <ul className="grid sm:grid-cols-2 lg:grid-cols-3 gap-3">
-          {tiles.map((t) => (
-            <li key={t.id}>
-              <Link
-                href={`/${t.id}`}
-                className="block rounded-lg border border-zinc-800 bg-zinc-900/50 p-4 hover:bg-zinc-900/80 transition"
-              >
-                <p className="text-lg font-semibold text-zinc-100">{t.name}</p>
-                <p className="text-xs text-zinc-500 mt-0.5">{t.state}</p>
-                <div className="mt-3 flex items-center gap-3 text-xs">
-                  <span
-                    className={
-                      t.quality === "live"
-                        ? "font-mono text-emerald-400"
-                        : t.quality === "calibrated"
-                          ? "font-mono text-sky-400"
-                          : t.quality === "seeded"
-                            ? "font-mono text-amber-400"
-                            : "font-mono text-zinc-500"
-                    }
-                  >
-                    {t.quality}
-                  </span>
-                  <span className="text-zinc-500">
-                    {t.wardCount > 0
-                      ? `${t.wardCount} ${t.unit}s with data`
-                      : "no per-area data yet"}
-                  </span>
-                </div>
-              </Link>
-            </li>
-          ))}
+          {tiles.map((t) => {
+            const hasAny =
+              t.wardCount > 0 || t.statsCategories > 0 || t.absconderCount > 0;
+            return (
+              <li key={t.id}>
+                <Link
+                  href={`/${t.id}`}
+                  className="block rounded-lg border border-zinc-800 bg-zinc-900/50 p-4 hover:bg-zinc-900/80 transition"
+                >
+                  <p className="text-lg font-semibold text-zinc-100">
+                    {t.name}
+                  </p>
+                  <p className="text-xs text-zinc-500 mt-0.5">{t.state}</p>
+                  <div className="mt-3 flex flex-wrap items-center gap-2 text-xs">
+                    {t.wardCount > 0 ? (
+                      <span
+                        className={
+                          t.quality === "live"
+                            ? "inline-flex items-center rounded-full bg-emerald-500/15 text-emerald-300 px-2 py-0.5"
+                            : t.quality === "calibrated"
+                              ? "inline-flex items-center rounded-full bg-sky-500/15 text-sky-300 px-2 py-0.5"
+                              : "inline-flex items-center rounded-full bg-amber-500/15 text-amber-300 px-2 py-0.5"
+                        }
+                      >
+                        {t.wardCount} per-area
+                      </span>
+                    ) : null}
+                    {t.statsCategories > 0 ? (
+                      <span className="inline-flex items-center rounded-full bg-sky-500/15 text-sky-300 px-2 py-0.5">
+                        city stats
+                      </span>
+                    ) : null}
+                    {t.absconderCount > 0 ? (
+                      <span className="inline-flex items-center rounded-full bg-rose-500/15 text-rose-300 px-2 py-0.5">
+                        {t.absconderCount} absconders
+                      </span>
+                    ) : null}
+                    {!hasAny ? (
+                      <span className="inline-flex items-center rounded-full bg-zinc-700/40 text-zinc-400 px-2 py-0.5">
+                        geometry only
+                      </span>
+                    ) : null}
+                  </div>
+                </Link>
+              </li>
+            );
+          })}
         </ul>
 
         <div className="rounded-lg border border-zinc-800 bg-zinc-900/40 p-4 text-sm text-zinc-300">
