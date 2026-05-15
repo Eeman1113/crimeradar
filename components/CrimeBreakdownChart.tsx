@@ -1,5 +1,6 @@
 "use client";
 
+import { useEffect, useState } from "react";
 import { useTheme } from "next-themes";
 import {
   Bar,
@@ -34,6 +35,14 @@ export default function CrimeBreakdownChart({
 }) {
   const { resolvedTheme } = useTheme();
   const isDark = resolvedTheme === "dark";
+  const [isSmall, setIsSmall] = useState(false);
+  useEffect(() => {
+    const m = window.matchMedia("(max-width: 640px)");
+    const update = () => setIsSmall(m.matches);
+    update();
+    m.addEventListener("change", update);
+    return () => m.removeEventListener("change", update);
+  }, []);
   const grid = isDark ? "#27272a" : "#e4e4e7";
   const axis = isDark ? "#a1a1aa" : "#71717a";
   const tooltipBg = isDark ? "#18181b" : "#ffffff";
@@ -50,15 +59,19 @@ export default function CrimeBreakdownChart({
   return (
     <div className="h-72 w-full">
       <ResponsiveContainer width="100%" height="100%">
-        <BarChart data={data} layout="vertical" margin={{ left: 24, right: 16 }}>
+        <BarChart
+          data={data}
+          layout="vertical"
+          margin={{ left: isSmall ? 0 : 24, right: 16 }}
+        >
           <CartesianGrid strokeDasharray="3 3" stroke={grid} />
-          <XAxis type="number" stroke={axis} />
+          <XAxis type="number" stroke={axis} fontSize={isSmall ? 11 : 12} />
           <YAxis
             type="category"
             dataKey="label"
             stroke={axis}
-            width={170}
-            tick={{ fontSize: 12, fill: axis }}
+            width={isSmall ? 110 : 170}
+            tick={{ fontSize: isSmall ? 11 : 12, fill: axis }}
           />
           <Tooltip
             cursor={{ fill: cursor }}

@@ -81,8 +81,8 @@ export default async function CityHome({
         </div>
       </section>
 
-      <section className="flex-1 max-w-6xl w-full mx-auto px-4 py-6 grid lg:grid-cols-[1fr_320px] gap-6">
-        <div className="h-[65vh] min-h-[440px]">
+      <section className="flex-1 max-w-6xl w-full mx-auto px-4 py-6 grid lg:grid-cols-[1fr_320px] gap-4 lg:gap-6">
+        <div className="h-[55vh] min-h-[340px] sm:h-[60vh] sm:min-h-[400px] lg:h-[65vh] lg:min-h-[440px]">
           <Suspense fallback={<MapSkeleton />}>
             <WardMap city={city} wards={wards} />
           </Suspense>

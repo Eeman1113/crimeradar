@@ -28,6 +28,7 @@ export default function NightToggle() {
       size="sm"
       onClick={flip}
       aria-pressed={isNight}
+      aria-label={isNight ? "Switch to day mode" : "Switch to night mode"}
       disabled={pending}
       className="gap-2"
     >
@@ -36,7 +37,9 @@ export default function NightToggle() {
       ) : (
         <Sun className="h-3.5 w-3.5" />
       )}
-      {isNight ? "Night mode" : "Day mode"}
+      <span className="hidden xs:inline sm:inline">
+        {isNight ? "Night" : "Day"}
+      </span>
     </Button>
   );
 }

@@ -85,12 +85,11 @@ export default function LocateMeButton({ city }: { city: CityId }) {
   }
 
   return (
-    <div className="flex flex-col items-start gap-2">
+    <div className="flex flex-col items-start gap-2 w-full sm:w-auto">
       <Button
         onClick={locate}
         disabled={status === "locating"}
-        size="sm"
-        className="gap-2"
+        className="gap-2 w-full sm:w-auto h-10 sm:h-9"
       >
         {status === "locating" ? (
           <LoaderCircle className="h-4 w-4 animate-spin" />
