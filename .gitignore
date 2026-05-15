@@ -36,6 +36,10 @@ yarn-error.log*
 # vercel
 .vercel
 
+# ingest cache (not yet built but planned)
+/data/raw/
+/data/snapshots/
+
 # typescript
 *.tsbuildinfo
 next-env.d.ts
