@@ -1,0 +1,1080 @@
+{
+  "source": "https://mumbaipolice.gov.in/CrimeStatistics",
+  "scrapedAt": "2026-05-15T15:56:30.566Z",
+  "count": 42,
+  "months": [
+    {
+      "year": 2022,
+      "month": 6,
+      "pdfId": "57",
+      "source": "https://mumbaipolice.gov.in/files/Cstat/57.pdf",
+      "currentMonth": {
+        "assault": 439,
+        "theft": 321,
+        "burglary": 134,
+        "harassment": 263,
+        "robbery": 76,
+        "other": 77,
+        "sexual_offence": 73
+      },
+      "ytd": {
+        "assault": 206,
+        "theft": 110,
+        "burglary": 843,
+        "harassment": 1683,
+        "robbery": 535,
+        "other": 353,
+        "sexual_offence": 494
+      }
+    },
+    {
+      "year": 2022,
+      "month": 8,
+      "pdfId": "59",
+      "source": "https://mumbaipolice.gov.in/files/Cstat/59.pdf",
+      "currentMonth": {
+        "assault": 379,
+        "theft": 250,
+        "burglary": 159,
+        "harassment": 201,
+        "robbery": 53,
+        "other": 40,
+        "sexual_offence": 58
+      },
+      "ytd": {
+        "assault": 263,
+        "theft": 145,
+        "burglary": 1,
+        "harassment": 2046,
+        "robbery": 661,
+        "other": 1419,
+        "sexual_offence": 653
+      }
+    },
+    {
+      "year": 2022,
+      "month": 9,
+      "pdfId": "60",
+      "source": "https://mumbaipolice.gov.in/files/Cstat/60.pdf",
+      "currentMonth": {
+        "assault": 385,
+        "theft": 251,
+        "burglary": 143,
+        "harassment": 246,
+        "robbery": 68,
+        "other": 41,
+        "sexual_offence": 67
+      },
+      "ytd": {
+        "assault": 294,
+        "theft": 161,
+        "burglary": 1,
+        "harassment": 2306,
+        "robbery": 730,
+        "other": 813,
+        "sexual_offence": 728
+      }
+    },
+    {
+      "year": 2022,
+      "month": 10,
+      "pdfId": "61",
+      "source": "https://mumbaipolice.gov.in/files/Cstat/61.pdf",
+      "currentMonth": {
+        "assault": 488,
+        "theft": 238,
+        "burglary": 118,
+        "harassment": 236,
+        "robbery": 56,
+        "other": 33,
+        "sexual_offence": 70
+      },
+      "ytd": {
+        "assault": 328,
+        "theft": 174,
+        "burglary": 1,
+        "harassment": 2544,
+        "robbery": 785,
+        "other": 798,
+        "sexual_offence": 807
+      }
+    },
+    {
+      "year": 2022,
+      "month": 11,
+      "pdfId": "62",
+      "source": "https://mumbaipolice.gov.in/files/Cstat/62.pdf",
+      "currentMonth": {
+        "assault": 325,
+        "theft": 212,
+        "burglary": 113,
+        "harassment": 232,
+        "robbery": 58,
+        "other": 43,
+        "sexual_offence": 65
+      },
+      "ytd": {
+        "assault": 351,
+        "theft": 183,
+        "burglary": 1,
+        "harassment": 2776,
+        "robbery": 844,
+        "other": 894,
+        "sexual_offence": 885
+      }
+    },
+    {
+      "year": 2022,
+      "month": 12,
+      "pdfId": "63",
+      "source": "https://mumbaipolice.gov.in/files/Cstat/63.pdf",
+      "currentMonth": {
+        "assault": 423,
+        "theft": 264,
+        "burglary": 97,
+        "harassment": 266,
+        "robbery": 46,
+        "other": 45,
+        "sexual_offence": 92
+      },
+      "ytd": {
+        "assault": 381,
+        "theft": 193,
+        "burglary": 1,
+        "harassment": 3022,
+        "robbery": 866,
+        "other": 1112,
+        "sexual_offence": 984
+      }
+    },
+    {
+      "year": 2023,
+      "month": 1,
+      "pdfId": "64",
+      "source": "https://mumbaipolice.gov.in/files/Cstat/64.pdf",
+      "currentMonth": {
+        "assault": 379,
+        "robbery": 66,
+        "theft": 766,
+        "burglary": 115,
+        "sexual_offence": 78,
+        "kidnapping": 115,
+        "harassment": 226,
+        "other": 46
+      },
+      "ytd": {
+        "assault": 379,
+        "robbery": 66,
+        "theft": 766,
+        "burglary": 115,
+        "sexual_offence": 78,
+        "kidnapping": 115,
+        "harassment": 226,
+        "other": 848
+      }
+    },
+    {
+      "year": 2023,
+      "month": 2,
+      "pdfId": "65",
+      "source": "https://mumbaipolice.gov.in/files/Cstat/65.pdf",
+      "currentMonth": {
+        "assault": 399,
+        "robbery": 55,
+        "theft": 627,
+        "burglary": 110,
+        "sexual_offence": 60,
+        "kidnapping": 98,
+        "harassment": 225,
+        "other": 46
+      },
+      "ytd": {
+        "assault": 778,
+        "robbery": 121,
+        "theft": 1393,
+        "burglary": 225,
+        "sexual_offence": 141,
+        "kidnapping": 212,
+        "harassment": 450,
+        "other": 649
+      }
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "pdfId": "66",
+      "source": "https://mumbaipolice.gov.in/files/Cstat/66.pdf",
+      "currentMonth": {
+        "assault": 476,
+        "robbery": 65,
+        "theft": 737,
+        "burglary": 81,
+        "sexual_offence": 90,
+        "kidnapping": 93,
+        "harassment": 245,
+        "other": 63
+      },
+      "ytd": {
+        "assault": 100,
+        "robbery": 187,
+        "theft": 666,
+        "burglary": 306,
+        "sexual_offence": 238,
+        "kidnapping": 299,
+        "harassment": 694,
+        "other": 674
+      }
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "pdfId": "67",
+      "source": "https://mumbaipolice.gov.in/files/Cstat/67.pdf",
+      "currentMonth": {
+        "assault": 441,
+        "robbery": 53,
+        "theft": 688,
+        "burglary": 103,
+        "sexual_offence": 78,
+        "kidnapping": 113,
+        "harassment": 228,
+        "other": 44
+      },
+      "ytd": {
+        "assault": 133,
+        "robbery": 240,
+        "theft": 861,
+        "burglary": 408,
+        "sexual_offence": 325,
+        "kidnapping": 407,
+        "harassment": 923,
+        "other": 194
+      }
+    },
+    {
+      "year": 2023,
+      "month": 5,
+      "pdfId": "68",
+      "source": "https://mumbaipolice.gov.in/files/Cstat/68.pdf",
+      "currentMonth": {
+        "assault": 406,
+        "robbery": 52,
+        "theft": 699,
+        "burglary": 125,
+        "sexual_offence": 77,
+        "kidnapping": 117,
+        "harassment": 247,
+        "other": 36
+      },
+      "ytd": {
+        "assault": 170,
+        "robbery": 291,
+        "theft": 53,
+        "burglary": 534,
+        "sexual_offence": 408,
+        "kidnapping": 518,
+        "harassment": 1170,
+        "other": 230
+      }
+    },
+    {
+      "year": 2023,
+      "month": 7,
+      "pdfId": "70",
+      "source": "https://mumbaipolice.gov.in/files/Cstat/70.pdf",
+      "currentMonth": {
+        "assault": 286,
+        "robbery": 57,
+        "theft": 706,
+        "burglary": 134,
+        "sexual_offence": 72,
+        "kidnapping": 108,
+        "harassment": 213,
+        "other": 44
+      },
+      "ytd": {
+        "assault": 228,
+        "robbery": 400,
+        "theft": 75,
+        "burglary": 759,
+        "sexual_offence": 565,
+        "kidnapping": 723,
+        "harassment": 1616,
+        "other": 309
+      }
+    },
+    {
+      "year": 2023,
+      "month": 9,
+      "pdfId": "72",
+      "source": "https://mumbaipolice.gov.in/files/Cstat/72.pdf",
+      "currentMonth": {
+        "assault": 351,
+        "robbery": 67,
+        "theft": 1015,
+        "burglary": 114,
+        "sexual_offence": 60,
+        "kidnapping": 86,
+        "harassment": 204,
+        "other": 49
+      },
+      "ytd": {
+        "assault": 302,
+        "robbery": 540,
+        "theft": 92,
+        "burglary": 986,
+        "sexual_offence": 723,
+        "kidnapping": 882,
+        "harassment": 2037,
+        "other": 400
+      }
+    },
+    {
+      "year": 2023,
+      "month": 10,
+      "pdfId": "73",
+      "source": "https://mumbaipolice.gov.in/files/Cstat/73.pdf",
+      "currentMonth": {
+        "assault": 477,
+        "robbery": 57,
+        "theft": 973,
+        "burglary": 112,
+        "other": 53,
+        "sexual_offence": 83
+      },
+      "ytd": {
+        "assault": 342,
+        "robbery": 576,
+        "theft": 112,
+        "burglary": 1098,
+        "other": 452,
+        "sexual_offence": 814
+      }
+    },
+    {
+      "year": 2023,
+      "month": 11,
+      "pdfId": "74",
+      "source": "https://mumbaipolice.gov.in/files/Cstat/74.pdf",
+      "currentMonth": {
+        "assault": 477,
+        "robbery": 50,
+        "theft": 898,
+        "burglary": 100,
+        "other": 46,
+        "sexual_offence": 53
+      },
+      "ytd": {
+        "assault": 392,
+        "robbery": 625,
+        "theft": 120,
+        "burglary": 1199,
+        "other": 500,
+        "sexual_offence": 878
+      }
+    },
+    {
+      "year": 2023,
+      "month": 12,
+      "pdfId": "76",
+      "source": "https://mumbaipolice.gov.in/files/Cstat/76.pdf",
+      "currentMonth": {
+        "assault": 416,
+        "robbery": 61,
+        "theft": 785,
+        "burglary": 100,
+        "sexual_offence": 80,
+        "kidnapping": 98,
+        "harassment": 247,
+        "other": 49
+      },
+      "ytd": {
+        "assault": 419,
+        "robbery": 710,
+        "theft": 124,
+        "burglary": 229,
+        "sexual_offence": 973,
+        "kidnapping": 1167,
+        "harassment": 2789,
+        "other": 552
+      }
+    },
+    {
+      "year": 2024,
+      "month": 1,
+      "pdfId": "77",
+      "source": "https://mumbaipolice.gov.in/files/Cstat/77.pdf",
+      "currentMonth": {
+        "assault": 376,
+        "robbery": 55,
+        "theft": 1002,
+        "burglary": 94,
+        "sexual_offence": 60,
+        "kidnapping": 90,
+        "harassment": 240,
+        "other": 45
+      },
+      "ytd": {
+        "assault": 376,
+        "robbery": 55,
+        "theft": 1002,
+        "burglary": 94,
+        "sexual_offence": 60,
+        "kidnapping": 90,
+        "harassment": 240,
+        "other": 46
+      }
+    },
+    {
+      "year": 2024,
+      "month": 2,
+      "pdfId": "78",
+      "source": "https://mumbaipolice.gov.in/files/Cstat/78.pdf",
+      "currentMonth": {
+        "assault": 361,
+        "robbery": 57,
+        "theft": 257,
+        "burglary": 110,
+        "sexual_offence": 67,
+        "kidnapping": 106,
+        "harassment": 220,
+        "other": 45
+      },
+      "ytd": {
+        "assault": 736,
+        "robbery": 112,
+        "theft": 665,
+        "burglary": 204,
+        "sexual_offence": 135,
+        "kidnapping": 189,
+        "harassment": 461,
+        "other": 89
+      }
+    },
+    {
+      "year": 2024,
+      "month": 3,
+      "pdfId": "79",
+      "source": "https://mumbaipolice.gov.in/files/Cstat/79.pdf",
+      "currentMonth": {
+        "assault": 538,
+        "robbery": 64,
+        "theft": 1171,
+        "burglary": 131,
+        "sexual_offence": 81,
+        "kidnapping": 87,
+        "harassment": 291,
+        "other": 64
+      },
+      "ytd": {
+        "assault": 115,
+        "robbery": 175,
+        "theft": 900,
+        "burglary": 335,
+        "sexual_offence": 225,
+        "kidnapping": 269,
+        "harassment": 752,
+        "other": 152
+      }
+    },
+    {
+      "year": 2024,
+      "month": 4,
+      "pdfId": "80",
+      "source": "https://mumbaipolice.gov.in/files/Cstat/80.pdf",
+      "currentMonth": {
+        "assault": 443,
+        "robbery": 54,
+        "theft": 1076,
+        "burglary": 90,
+        "sexual_offence": 83,
+        "kidnapping": 113,
+        "harassment": 272,
+        "other": 45
+      },
+      "ytd": {
+        "assault": 167,
+        "robbery": 229,
+        "theft": 947,
+        "burglary": 425,
+        "sexual_offence": 316,
+        "kidnapping": 374,
+        "harassment": 1024,
+        "other": 195
+      }
+    },
+    {
+      "year": 2024,
+      "month": 5,
+      "pdfId": "81",
+      "source": "https://mumbaipolice.gov.in/files/Cstat/81.pdf",
+      "currentMonth": {
+        "assault": 430,
+        "robbery": 49,
+        "theft": 1040,
+        "burglary": 106,
+        "sexual_offence": 74,
+        "kidnapping": 137,
+        "harassment": 244,
+        "other": 50
+      },
+      "ytd": {
+        "assault": 206,
+        "robbery": 278,
+        "theft": 67,
+        "burglary": 531,
+        "sexual_offence": 397,
+        "kidnapping": 509,
+        "harassment": 1268,
+        "other": 243
+      }
+    },
+    {
+      "year": 2024,
+      "month": 7,
+      "pdfId": "85",
+      "source": "https://mumbaipolice.gov.in/files/Cstat/85.pdf",
+      "currentMonth": {
+        "theft": 779,
+        "assault": 277,
+        "robbery": 28,
+        "burglary": 124,
+        "sexual_offence": 64,
+        "kidnapping": 98,
+        "harassment": 176,
+        "other": 2570
+      },
+      "ytd": {
+        "theft": 7294,
+        "assault": 2843,
+        "robbery": 363,
+        "burglary": 780,
+        "sexual_offence": 546,
+        "kidnapping": 697,
+        "harassment": 1689,
+        "other": 19284
+      }
+    },
+    {
+      "year": 2024,
+      "month": 8,
+      "pdfId": "86",
+      "source": "https://mumbaipolice.gov.in/files/Cstat/86.pdf",
+      "currentMonth": {
+        "theft": 842,
+        "assault": 373,
+        "robbery": 37,
+        "burglary": 122,
+        "sexual_offence": 111,
+        "kidnapping": 113,
+        "harassment": 337,
+        "other": 2978
+      },
+      "ytd": {
+        "theft": 8134,
+        "assault": 3217,
+        "robbery": 400,
+        "burglary": 906,
+        "sexual_offence": 667,
+        "kidnapping": 799,
+        "harassment": 2025,
+        "other": 22257
+      }
+    },
+    {
+      "year": 2024,
+      "month": 9,
+      "pdfId": "87",
+      "source": "https://mumbaipolice.gov.in/files/Cstat/87.pdf",
+      "currentMonth": {
+        "theft": 807,
+        "assault": 385,
+        "robbery": 41,
+        "burglary": 103,
+        "sexual_offence": 81,
+        "kidnapping": 105,
+        "harassment": 350,
+        "other": 1808
+      },
+      "ytd": {
+        "theft": 8942,
+        "assault": 3600,
+        "robbery": 441,
+        "burglary": 1008,
+        "sexual_offence": 772,
+        "kidnapping": 893,
+        "harassment": 2374,
+        "other": 24038
+      }
+    },
+    {
+      "year": 2024,
+      "month": 10,
+      "pdfId": "88",
+      "source": "https://mumbaipolice.gov.in/files/Cstat/88.pdf",
+      "currentMonth": {
+        "theft": 860,
+        "assault": 435,
+        "robbery": 29,
+        "burglary": 108,
+        "sexual_offence": 89,
+        "kidnapping": 140,
+        "harassment": 297,
+        "other": 2867
+      },
+      "ytd": {
+        "theft": 9801,
+        "assault": 4032,
+        "robbery": 469,
+        "burglary": 1117,
+        "sexual_offence": 869,
+        "kidnapping": 1021,
+        "harassment": 2674,
+        "other": 26903
+      }
+    },
+    {
+      "year": 2024,
+      "month": 11,
+      "pdfId": "90",
+      "source": "https://mumbaipolice.gov.in/files/Cstat/90.pdf",
+      "currentMonth": {
+        "theft": 604,
+        "assault": 354,
+        "robbery": 23,
+        "burglary": 82,
+        "sexual_offence": 82,
+        "kidnapping": 111,
+        "harassment": 197,
+        "other": 1787
+      },
+      "ytd": {
+        "theft": 10404,
+        "assault": 4386,
+        "robbery": 492,
+        "burglary": 1201,
+        "sexual_offence": 958,
+        "kidnapping": 1129,
+        "harassment": 2869,
+        "other": 28684
+      }
+    },
+    {
+      "year": 2024,
+      "month": 12,
+      "pdfId": "91",
+      "source": "https://mumbaipolice.gov.in/files/Cstat/91.pdf",
+      "currentMonth": {
+        "theft": 683,
+        "assault": 384,
+        "robbery": 26,
+        "burglary": 106,
+        "sexual_offence": 76,
+        "kidnapping": 118,
+        "harassment": 236,
+        "other": 2918
+      },
+      "ytd": {
+        "theft": 11084,
+        "assault": 4772,
+        "robbery": 519,
+        "burglary": 1307,
+        "sexual_offence": 1050,
+        "kidnapping": 1231,
+        "harassment": 3105,
+        "other": 31588
+      }
+    },
+    {
+      "year": 2025,
+      "month": 1,
+      "pdfId": "92",
+      "source": "https://mumbaipolice.gov.in/files/Cstat/92.pdf",
+      "currentMonth": {
+        "theft": 712,
+        "assault": 369,
+        "robbery": 40,
+        "burglary": 105,
+        "sexual_offence": 82,
+        "kidnapping": 128,
+        "harassment": 305,
+        "other": 2756
+      },
+      "ytd": {
+        "theft": 712,
+        "assault": 369,
+        "robbery": 40,
+        "burglary": 105,
+        "sexual_offence": 82,
+        "kidnapping": 128,
+        "harassment": 305,
+        "other": 2756
+      }
+    },
+    {
+      "year": 2025,
+      "month": 2,
+      "pdfId": "93",
+      "source": "https://mumbaipolice.gov.in/files/Cstat/93.pdf",
+      "currentMonth": {
+        "theft": 634,
+        "assault": 352,
+        "robbery": 15,
+        "burglary": 76,
+        "sexual_offence": 79,
+        "kidnapping": 101,
+        "harassment": 257,
+        "other": 2467
+      },
+      "ytd": {
+        "theft": 1347,
+        "assault": 721,
+        "robbery": 54,
+        "burglary": 181,
+        "sexual_offence": 168,
+        "kidnapping": 221,
+        "harassment": 562,
+        "other": 5216
+      }
+    },
+    {
+      "year": 2025,
+      "month": 3,
+      "pdfId": "94",
+      "source": "https://mumbaipolice.gov.in/files/Cstat/94.pdf",
+      "currentMonth": {
+        "theft": 663,
+        "assault": 503,
+        "robbery": 28,
+        "burglary": 77,
+        "sexual_offence": 92,
+        "kidnapping": 131,
+        "harassment": 336,
+        "other": 2413
+      },
+      "ytd": {
+        "theft": 2010,
+        "assault": 1223,
+        "robbery": 82,
+        "burglary": 257,
+        "sexual_offence": 266,
+        "kidnapping": 343,
+        "harassment": 897,
+        "other": 7634
+      }
+    },
+    {
+      "year": 2025,
+      "month": 4,
+      "pdfId": "95",
+      "source": "https://mumbaipolice.gov.in/files/Cstat/95.pdf",
+      "currentMonth": {
+        "theft": 684,
+        "assault": 415,
+        "robbery": 15,
+        "burglary": 70,
+        "sexual_offence": 105,
+        "kidnapping": 153,
+        "harassment": 294,
+        "other": 2515
+      },
+      "ytd": {
+        "theft": 2693,
+        "assault": 1634,
+        "robbery": 96,
+        "burglary": 326,
+        "sexual_offence": 381,
+        "kidnapping": 489,
+        "harassment": 1192,
+        "other": 10147
+      }
+    },
+    {
+      "year": 2025,
+      "month": 5,
+      "pdfId": "96",
+      "source": "https://mumbaipolice.gov.in/files/Cstat/96.pdf",
+      "currentMonth": {
+        "theft": 1334,
+        "assault": 406,
+        "robbery": 12,
+        "burglary": 87,
+        "sexual_offence": 100,
+        "kidnapping": 121,
+        "harassment": 272,
+        "other": 3871
+      },
+      "ytd": {
+        "theft": 4025,
+        "assault": 2041,
+        "robbery": 107,
+        "burglary": 411,
+        "sexual_offence": 485,
+        "kidnapping": 609,
+        "harassment": 1463,
+        "other": 14017
+      }
+    },
+    {
+      "year": 2025,
+      "month": 6,
+      "pdfId": "98",
+      "source": "https://mumbaipolice.gov.in/files/Cstat/98.pdf",
+      "currentMonth": {
+        "theft": 1123,
+        "assault": 371,
+        "robbery": 40,
+        "burglary": 100,
+        "sexual_offence": 100,
+        "kidnapping": 124,
+        "harassment": 269,
+        "other": 4637
+      },
+      "ytd": {
+        "theft": 5149,
+        "assault": 2409,
+        "robbery": 148,
+        "burglary": 514,
+        "sexual_offence": 602,
+        "kidnapping": 720,
+        "harassment": 1734,
+        "other": 18650
+      }
+    },
+    {
+      "year": 2025,
+      "month": 7,
+      "pdfId": "99",
+      "source": "https://mumbaipolice.gov.in/files/Cstat/99.pdf",
+      "currentMonth": {
+        "theft": 971,
+        "assault": 320,
+        "robbery": 23,
+        "burglary": 101,
+        "sexual_offence": 104,
+        "kidnapping": 108,
+        "harassment": 274,
+        "other": 4686
+      },
+      "ytd": {
+        "theft": 6121,
+        "assault": 2727,
+        "robbery": 171,
+        "burglary": 615,
+        "sexual_offence": 710,
+        "kidnapping": 822,
+        "harassment": 2007,
+        "other": 23341
+      }
+    },
+    {
+      "year": 2025,
+      "month": 8,
+      "pdfId": "100",
+      "source": "https://mumbaipolice.gov.in/files/Cstat/100.pdf",
+      "currentMonth": {
+        "theft": 935,
+        "assault": 317,
+        "robbery": 25,
+        "burglary": 92,
+        "sexual_offence": 90,
+        "kidnapping": 134,
+        "harassment": 247,
+        "other": 3967
+      },
+      "ytd": {
+        "theft": 7056,
+        "assault": 3041,
+        "robbery": 195,
+        "burglary": 705,
+        "sexual_offence": 806,
+        "kidnapping": 948,
+        "harassment": 2255,
+        "other": 27307
+      }
+    },
+    {
+      "year": 2025,
+      "month": 9,
+      "pdfId": "101",
+      "source": "https://mumbaipolice.gov.in/files/Cstat/101.pdf",
+      "currentMonth": {
+        "theft": 918,
+        "assault": 344,
+        "robbery": 28,
+        "burglary": 92,
+        "sexual_offence": 91,
+        "kidnapping": 128,
+        "harassment": 255,
+        "other": 3904
+      },
+      "ytd": {
+        "theft": 7975,
+        "assault": 3384,
+        "robbery": 223,
+        "burglary": 796,
+        "sexual_offence": 907,
+        "kidnapping": 1065,
+        "harassment": 2511,
+        "other": 31205
+      }
+    },
+    {
+      "year": 2025,
+      "month": 10,
+      "pdfId": "102",
+      "source": "https://mumbaipolice.gov.in/files/Cstat/102.pdf",
+      "currentMonth": {
+        "assault": 487,
+        "robbery": 52,
+        "theft": 1011,
+        "burglary": 85,
+        "sexual_offence": 111,
+        "kidnapping": 137,
+        "harassment": 280,
+        "other": 3426
+      },
+      "ytd": {
+        "assault": 3871,
+        "robbery": 275,
+        "theft": 8846,
+        "burglary": 881,
+        "sexual_offence": 1025,
+        "kidnapping": 1194,
+        "harassment": 2792,
+        "other": 34631
+      }
+    },
+    {
+      "year": 2025,
+      "month": 11,
+      "pdfId": "103",
+      "source": "https://mumbaipolice.gov.in/files/Cstat/103.pdf",
+      "currentMonth": {
+        "assault": 338,
+        "robbery": 33,
+        "theft": 825,
+        "burglary": 96,
+        "sexual_offence": 96,
+        "kidnapping": 136,
+        "harassment": 278,
+        "other": 4602
+      },
+      "ytd": {
+        "assault": 4208,
+        "robbery": 308,
+        "theft": 9668,
+        "burglary": 977,
+        "sexual_offence": 1135,
+        "kidnapping": 1315,
+        "harassment": 3069,
+        "other": 39227
+      }
+    },
+    {
+      "year": 2025,
+      "month": 12,
+      "pdfId": "104",
+      "source": "https://mumbaipolice.gov.in/files/Cstat/104.pdf",
+      "currentMonth": {
+        "theft": 792,
+        "assault": 364,
+        "robbery": 44,
+        "burglary": 106,
+        "sexual_offence": 104,
+        "kidnapping": 130,
+        "harassment": 320,
+        "other": 4443
+      },
+      "ytd": {
+        "theft": 10625,
+        "assault": 4572,
+        "robbery": 353,
+        "burglary": 1083,
+        "sexual_offence": 1257,
+        "kidnapping": 1428,
+        "harassment": 3394,
+        "other": 43649
+      }
+    },
+    {
+      "year": 2026,
+      "month": 1,
+      "pdfId": "105",
+      "source": "https://mumbaipolice.gov.in/files/Cstat/105.pdf",
+      "currentMonth": {
+        "theft": 708,
+        "assault": 364,
+        "robbery": 30,
+        "burglary": 85,
+        "sexual_offence": 80,
+        "kidnapping": 111,
+        "harassment": 249,
+        "other": 3484
+      },
+      "ytd": {
+        "theft": 708,
+        "assault": 364,
+        "robbery": 30,
+        "burglary": 85,
+        "sexual_offence": 80,
+        "kidnapping": 111,
+        "harassment": 249,
+        "other": 3484
+      }
+    },
+    {
+      "year": 2026,
+      "month": 2,
+      "pdfId": "106",
+      "source": "https://mumbaipolice.gov.in/files/Cstat/106.pdf",
+      "currentMonth": {
+        "theft": 768,
+        "assault": 363,
+        "robbery": 29,
+        "burglary": 62,
+        "sexual_offence": 60,
+        "kidnapping": 110,
+        "harassment": 258,
+        "other": 5199
+      },
+      "ytd": {
+        "theft": 1476,
+        "assault": 728,
+        "robbery": 58,
+        "burglary": 149,
+        "sexual_offence": 125,
+        "kidnapping": 216,
+        "harassment": 505,
+        "other": 8680
+      }
+    },
+    {
+      "year": 2026,
+      "month": 3,
+      "pdfId": "107",
+      "source": "https://mumbaipolice.gov.in/files/Cstat/107.pdf",
+      "currentMonth": {
+        "theft": 788,
+        "assault": 531,
+        "robbery": 39,
+        "burglary": 85,
+        "sexual_offence": 61,
+        "kidnapping": 124,
+        "harassment": 291,
+        "other": 6006
+      },
+      "ytd": {
+        "theft": 2264,
+        "assault": 1257,
+        "robbery": 97,
+        "burglary": 234,
+        "sexual_offence": 195,
+        "kidnapping": 332,
+        "harassment": 794,
+        "other": 14683
+      }
+    }
+  ],
+  "notes": "Time-series of Mumbai Police monthly crime stats. `currentMonth` = the month's own registered counts (block[0]); `ytd` = year-to-date registered through this month (block[4]). Backfilled from /files/Cstat/<id>.pdf, one entry per (year, month). Categories normalised to internal taxonomy."
+}

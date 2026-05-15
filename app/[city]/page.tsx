@@ -1,4 +1,4 @@
-import { ArrowLeft, Info } from "lucide-react";
+import { ArrowLeft, Info, LineChart as LineChartIcon } from "lucide-react";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { Suspense } from "react";
@@ -7,10 +7,21 @@ import LocateMeButton from "@/components/Map/LocateMeButton";
 import NightToggle from "@/components/NightToggle";
 import RankList from "@/components/RankList";
 import CityStatsCard from "@/components/CityStatsCard";
+import TrendChart from "@/components/TrendChart";
 import { CITY_IDS, getCity, isCityId } from "@/lib/cities";
-import { cityDataQuality, listWards } from "@/lib/wards";
+import {
+  cityDataQuality,
+  listWards,
+  monthlyHistory,
+} from "@/lib/wards";
 import { Badge } from "@/components/ui/badge";
-import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
+import {
+  Card,
+  CardContent,
+  CardDescription,
+  CardHeader,
+  CardTitle,
+} from "@/components/ui/card";
 
 export const dynamicParams = false;
 
@@ -36,6 +47,7 @@ export default async function CityHome({
   const cfg = getCity(city)!;
   const wards = listWards(city);
   const quality = cityDataQuality(city);
+  const history = monthlyHistory(city);
 
   return (
     <div className="flex-1 flex flex-col">
@@ -122,6 +134,27 @@ export default async function CityHome({
           </p>
         </aside>
       </section>
+
+      {history.length >= 6 ? (
+        <section className="max-w-6xl w-full mx-auto px-4 pb-12">
+          <Card>
+            <CardHeader className="pb-3">
+              <CardTitle className="text-base flex items-center gap-1.5">
+                <LineChartIcon className="h-4 w-4 text-sky-500" />
+                Multi-year trend
+              </CardTitle>
+              <CardDescription>
+                Monthly registered cases per category for {cfg.name}, scraped
+                from the historical archive. Click a category in the legend
+                to toggle it.
+              </CardDescription>
+            </CardHeader>
+            <CardContent>
+              <TrendChart months={history} />
+            </CardContent>
+          </Card>
+        </section>
+      ) : null}
     </div>
   );
 }

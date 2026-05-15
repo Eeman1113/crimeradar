@@ -12,6 +12,13 @@ import chennaiStatsJson from "@/data/cities/chennai/monthly_stats.json";
 import hyderabadStatsJson from "@/data/cities/hyderabad/monthly_stats.json";
 import kolkataStatsJson from "@/data/cities/kolkata/monthly_stats.json";
 
+import mumbaiHistoryJson from "@/data/cities/mumbai/monthly_stats_history.json";
+import bangaloreHistoryJson from "@/data/cities/bangalore/monthly_stats_history.json";
+import delhiHistoryJson from "@/data/cities/delhi/monthly_stats_history.json";
+import chennaiHistoryJson from "@/data/cities/chennai/monthly_stats_history.json";
+import hyderabadHistoryJson from "@/data/cities/hyderabad/monthly_stats_history.json";
+import kolkataHistoryJson from "@/data/cities/kolkata/monthly_stats_history.json";
+
 import { normalizeScores, rawScore } from "./risk";
 import type {
   CrimeBreakdown,
@@ -187,6 +194,44 @@ export function monthlyStatsMeta(city: CityId) {
     windowKind: s?.windowKind ?? "ytd",
     scrapedAt: s?.scrapedAt ?? null,
     totals: s?.cityWideYtdTotals ?? {},
+  };
+}
+
+type MonthHistoryEntry = {
+  year: number;
+  month: number;
+  pdfId?: string;
+  source?: string;
+  currentMonth: Partial<Record<CrimeCategory, number>>;
+  ytd: Partial<Record<CrimeCategory, number>>;
+};
+type HistoryFile = {
+  source: string | null;
+  scrapedAt: string | null;
+  count: number;
+  months: MonthHistoryEntry[];
+  notes?: string;
+};
+
+const HISTORIES: Record<CityId, HistoryFile> = {
+  mumbai: mumbaiHistoryJson as HistoryFile,
+  bangalore: bangaloreHistoryJson as HistoryFile,
+  delhi: delhiHistoryJson as HistoryFile,
+  chennai: chennaiHistoryJson as HistoryFile,
+  hyderabad: hyderabadHistoryJson as HistoryFile,
+  kolkata: kolkataHistoryJson as HistoryFile,
+};
+
+export function monthlyHistory(city: CityId): MonthHistoryEntry[] {
+  return HISTORIES[city]?.months ?? [];
+}
+
+export function historyMeta(city: CityId) {
+  const h = HISTORIES[city];
+  return {
+    source: h?.source ?? null,
+    scrapedAt: h?.scrapedAt ?? null,
+    count: h?.count ?? 0,
   };
 }
 
