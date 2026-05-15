@@ -1,17 +1,18 @@
-name: Weekly absconder ingest
+name: Monthly crime-stats ingest
 
 on:
-  # Mondays at 02:30 UTC (≈08:00 IST). Absconder lists can change any day —
-  # weekly is a balance between freshness and respecting upstream servers.
+  # First day of each month at 03:00 UTC. Mumbai + Bangalore publish monthly,
+  # Chennai publishes annually — checking once a month covers all of them
+  # without spamming upstream police servers.
   schedule:
-    - cron: "30 2 * * 1"
+    - cron: "0 3 1 * *"
   workflow_dispatch:
 
 permissions:
   contents: write
 
 concurrency:
-  group: ingest-absconders
+  group: ingest-stats
   cancel-in-progress: false
 
 jobs:
@@ -27,14 +28,14 @@ jobs:
 
       - run: npm ci
 
-      - name: Mumbai — absconders
-        run: node scripts/ingest_absconders.mjs
+      - name: Mumbai — monthly crime stats
+        run: node scripts/ingest_monthly_stats.mjs
 
-      - name: Delhi — proclaimed offenders
-        run: node scripts/ingest_delhi_absconders.mjs
+      - name: Bangalore — KSP monthly crime review
+        run: node scripts/ingest_bangalore_stats.mjs
 
-      - name: Kolkata — WB CID most-wanted
-        run: node scripts/ingest_kolkata_absconders.mjs
+      - name: Chennai — annual crime stats (OpenCity CSVs)
+        run: node scripts/ingest_chennai_stats.mjs
 
       - name: Commit & push if data changed
         run: |
@@ -42,7 +43,7 @@ jobs:
           git config user.email "actions@users.noreply.github.com"
           if [ -n "$(git status --porcelain data/cities/)" ]; then
             git add data/cities/
-            git commit -m "data: refresh absconders ($(date -u +%Y-%m-%dT%H:%MZ))"
+            git commit -m "data: refresh monthly stats ($(date -u +%Y-%m-%dT%H:%MZ))"
             git push
             echo "pushed updated data"
           else
