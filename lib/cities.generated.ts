@@ -369,7 +369,6 @@ export const CITIES: Record<CityId, CityConfig> = {
   bhubaneswar: {
     id: "bhubaneswar",
     name: "Bhubaneswar",
-    nameI18n: {"hi":"भुवनेश्वर","bn":"ভুবনেশ্বর","mr":"भुवनेश्वर","te":"భుబనేశ్వర్","ta":"புவனேசுவரம்","gu":"ભુવનેશ્વર","ur":"بھوبنیشور","kn":"ಭುವನೇಶ್ವರ","or":"ଭୁବନେଶ୍ୱର","ml":"ഭുവനേശ്വർ","pa":"ਭੁਬਨੇਸ਼ਵਰ"},
     state: "Odisha",
     stateCode: "IN-OR",
     tier: "capital",
@@ -378,7 +377,7 @@ export const CITIES: Record<CityId, CityConfig> = {
     geojson: "/geo/bhubaneswar_wards.geojson",
     wardIdKey: "wardno",
     unit: "BMC ward",
-    hasMonthlyStats: true,
+    hasMonthlyStats: false,
     hasAbsconders: false,
   },
   patna: {
@@ -714,7 +713,6 @@ export const CITIES: Record<CityId, CityConfig> = {
   guwahati: {
     id: "guwahati",
     name: "Guwahati",
-    nameI18n: {"hi":"गुवाहाटी","bn":"গুয়াহাটি","mr":"गुवाहाटी","te":"గువహాటి","ta":"குவகாத்தி","gu":"ગુવાહાટી","ur":"گوہاٹی","kn":"ಗುವಾಹಾಟಿ","or":"ଗୁଆହାଟୀ","ml":"ഗുവഹാത്തി","pa":"ਗੁਹਾਟੀ","as":"গুৱাহাটী"},
     state: "Assam",
     stateCode: "IN-AS",
     tier: "capital",
@@ -723,7 +721,7 @@ export const CITIES: Record<CityId, CityConfig> = {
     geojson: "/geo/guwahati_wards.geojson",
     wardIdKey: "Name",
     unit: "GMC ward",
-    hasMonthlyStats: true,
+    hasMonthlyStats: false,
     hasAbsconders: false,
   },
   gangtok: {

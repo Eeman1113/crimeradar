@@ -137,6 +137,7 @@ function loadConfig(args) {
     wardIdKey: args["ward-id-key"],
     unit: args.unit,
     population: Number(args.population),
+    populationKey: args["population-key"],
     nameTemplate: args["name-template"],
     hasMonthlyStats: args["has-monthly-stats"] === true,
     hasAbsconders: args["has-absconders"] === true,
@@ -202,6 +203,7 @@ async function main() {
     geojsonPath: geoPath,
     wardIdKey: cfg.wardIdKey,
     population: cfg.population,
+    populationKey: cfg.populationKey,
     nameTemplate: cfg.nameTemplate,
   });
   console.log(`wards-raw.ts: wrote ${count} wards → ${outPath.replace(`${ROOT}/`, "")}`);

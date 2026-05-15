@@ -144,14 +144,15 @@ function inferName(props, wardIdKey) {
  * @param {string} opts.cityId
  * @param {string} opts.geojsonPath        absolute or repo-relative
  * @param {string} opts.wardIdKey
- * @param {number} opts.population         city total (used to apportion per-ward)
+ * @param {number} opts.population         city total (used to apportion per-ward when no per-ward pop in GeoJSON)
+ * @param {string} [opts.populationKey]    GeoJSON feature property holding per-ward population (e.g. "pop_2011"). When set, overrides the even-split synthesis.
  * @param {string} [opts.nameTemplate]     e.g. "Ward {Ward_No}" or "{Ward_Name|Ward {Ward_No}}"
  * @param {(props: object) => string} [opts.nameFn]   takes precedence over nameTemplate
  * @param {string} [opts.outPath]          override destination
  * @returns {Promise<{count: number, outPath: string}>}
  */
 export async function generateSeed(opts) {
-  const { cityId, wardIdKey, population, nameTemplate, nameFn } = opts;
+  const { cityId, wardIdKey, population, populationKey, nameTemplate, nameFn } = opts;
   const geoPath = path.isAbsolute(opts.geojsonPath)
     ? opts.geojsonPath
     : path.join(process.cwd(), opts.geojsonPath);
@@ -176,7 +177,16 @@ export async function generateSeed(opts) {
     const c = centroid(f).geometry.coordinates;
     const id = String(f.properties[wardIdKey] ?? "");
     if (!id) throw new Error(`feature missing ward id at key "${wardIdKey}"`);
-    return { id, name: resolveName(f.properties), lon: c[0], lat: c[1] };
+    const realPop = populationKey
+      ? Number(f.properties[populationKey])
+      : null;
+    return {
+      id,
+      name: resolveName(f.properties),
+      lon: c[0],
+      lat: c[1],
+      realPop: Number.isFinite(realPop) && realPop > 0 ? realPop : null,
+    };
   });
 
   const meanLon = wardsRaw.reduce((a, w) => a + w.lon, 0) / wardsRaw.length;
@@ -202,7 +212,9 @@ export async function generateSeed(opts) {
     const tier = tierFor(distNorm);
     const profile = TIER_PROFILES[tier];
     const noise = noiseFactor(w.id);
-    const wPop = Math.round(popPerWard * (0.8 + noiseFactor(w.id + "p") * 0.4 - 0.2));
+    // Prefer the per-feature real population if the GeoJSON carries one;
+    // otherwise fall back to the synthetic even-split-with-noise.
+    const wPop = w.realPop ?? Math.round(popPerWard * (0.8 + noiseFactor(w.id + "p") * 0.4 - 0.2));
     const k = (wPop / 1000) * noise;
     const breakdown = {
       theft: Math.max(0, Math.round(profile.theft * k)),

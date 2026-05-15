@@ -733,21 +733,8 @@
     "geojson": "/geo/bhubaneswar_wards.geojson",
     "wardIdKey": "wardno",
     "unit": "BMC ward",
-    "hasMonthlyStats": true,
-    "hasAbsconders": false,
-    "nameI18n": {
-      "hi": "भुवनेश्वर",
-      "bn": "ভুবনেশ্বর",
-      "mr": "भुवनेश्वर",
-      "te": "భుబనేశ్వర్",
-      "ta": "புவனேசுவரம்",
-      "gu": "ભુવનેશ્વર",
-      "ur": "بھوبنیشور",
-      "kn": "ಭುವನೇಶ್ವರ",
-      "or": "ଭୁବନେଶ୍ୱର",
-      "ml": "ഭുവനേശ്വർ",
-      "pa": "ਭੁਬਨੇਸ਼ਵਰ"
-    }
+    "hasMonthlyStats": false,
+    "hasAbsconders": false
   },
   {
     "id": "patna",
@@ -1636,22 +1623,8 @@
     "geojson": "/geo/guwahati_wards.geojson",
     "wardIdKey": "Name",
     "unit": "GMC ward",
-    "hasMonthlyStats": true,
-    "hasAbsconders": false,
-    "nameI18n": {
-      "hi": "गुवाहाटी",
-      "bn": "গুয়াহাটি",
-      "mr": "गुवाहाटी",
-      "te": "గువహాటి",
-      "ta": "குவகாத்தி",
-      "gu": "ગુવાહાટી",
-      "ur": "گوہاٹی",
-      "kn": "ಗುವಾಹಾಟಿ",
-      "or": "ଗୁଆହାଟୀ",
-      "ml": "ഗുവഹാത്തി",
-      "pa": "ਗੁਹਾਟੀ",
-      "as": "গুৱাহাটী"
-    }
+    "hasMonthlyStats": false,
+    "hasAbsconders": false
   },
   {
     "id": "gangtok",
