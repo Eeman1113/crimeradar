@@ -74,7 +74,7 @@ export const CITIES: Record<CityId, CityConfig> = {
     wardIdKey: "Ward_No",
     unit: "MCD ward",
     hasMonthlyStats: false,
-    hasAbsconders: false,
+    hasAbsconders: true,
   },
   chennai: {
     id: "chennai",

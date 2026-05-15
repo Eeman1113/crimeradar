@@ -26,18 +26,21 @@ jobs:
 
       - run: npm ci
 
-      - name: Refresh absconders
+      - name: Mumbai — absconders
         run: node scripts/ingest_absconders.mjs
 
-      - name: Refresh monthly stats
+      - name: Mumbai — monthly crime stats
         run: node scripts/ingest_monthly_stats.mjs
+
+      - name: Delhi — proclaimed offenders
+        run: node scripts/ingest_delhi_absconders.mjs
 
       - name: Commit & push if data changed
         run: |
           git config user.name  "crimeradar-bot"
           git config user.email "actions@users.noreply.github.com"
-          if [ -n "$(git status --porcelain data/absconders.json data/monthly_stats.json)" ]; then
-            git add data/absconders.json data/monthly_stats.json
+          if [ -n "$(git status --porcelain data/cities/)" ]; then
+            git add data/cities/
             git commit -m "data: refresh ingest ($(date -u +%Y-%m-%dT%H:%MZ))"
             git push
             echo "pushed updated data"

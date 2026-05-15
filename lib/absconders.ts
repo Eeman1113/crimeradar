@@ -14,6 +14,8 @@ export type Absconder = {
   sourceUrl?: string;
   name: string;
   isOrganisation: boolean;
+  caseRef?: string | null;
+  section?: string | null;
 };
 
 export type AbsconderFile = {

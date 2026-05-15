@@ -1,7 +1,456 @@
 {
-  "source": null,
-  "scrapedAt": null,
-  "count": 0,
-  "absconders": [],
-  "notes": "Pending ingest from delhipolice.ncog.gov.in/Delhi_police/proclaimed.html — Delhi Police publishes a Proclaimed Offenders list in HTML."
+  "source": "https://delhipolice.ncog.gov.in/Delhi_police/proclaimed.html",
+  "scrapedAt": "2026-05-15T13:23:26.923Z",
+  "count": 56,
+  "absconders": [
+    {
+      "id": "a32fdd86f5b9",
+      "name": "RAGHTHU NATH SHAHI",
+      "isOrganisation": false,
+      "caseRef": "637/05 dated PS Prit Vihar, Delhi Scanned Photograph Wanted",
+      "section": "POS OF IPR & CYBER",
+      "sourceUrl": "https://delhipolice.ncog.gov.in/Delhi_police/proclaimed.html"
+    },
+    {
+      "id": "84459aaf72e4",
+      "name": "BABU LAL",
+      "isOrganisation": false,
+      "caseRef": "338/03 63 CR Act PS Uttam Nagar Scanned Photograph PO",
+      "section": "POS OF IPR & CYBER",
+      "sourceUrl": "https://delhipolice.ncog.gov.in/Delhi_police/proclaimed.html"
+    },
+    {
+      "id": "9bc21c6d7b58",
+      "name": "SH. AMIT MAHAJAN",
+      "isOrganisation": false,
+      "caseRef": "389/02 63/65/68/",
+      "section": "POS OF IPR & CYBER",
+      "sourceUrl": "https://delhipolice.ncog.gov.in/Delhi_police/proclaimed.html"
+    },
+    {
+      "id": "3001f217fd1c",
+      "name": "NARESH @ MANU",
+      "isOrganisation": false,
+      "caseRef": "993/03",
+      "section": "POS OF IPR & CYBER",
+      "sourceUrl": "https://delhipolice.ncog.gov.in/Delhi_police/proclaimed.html"
+    },
+    {
+      "id": "97ca515ac9b1",
+      "name": "BRIJESH @ BIJENDER",
+      "isOrganisation": false,
+      "caseRef": null,
+      "section": "POS OF IPR & CYBER",
+      "sourceUrl": "https://delhipolice.ncog.gov.in/Delhi_police/proclaimed.html"
+    },
+    {
+      "id": "ede810ec8a60",
+      "name": "HARSH SHRAMA",
+      "isOrganisation": false,
+      "caseRef": "421/05 dt. 27.8.05 u/s 420/467/468/471/120",
+      "section": "POS OF IPR & CYBER",
+      "sourceUrl": "https://delhipolice.ncog.gov.in/Delhi_police/proclaimed.html"
+    },
+    {
+      "id": "b78fd0f2a800",
+      "name": "ABHISHEK MISHRA",
+      "isOrganisation": false,
+      "caseRef": "421/05 dt. 27.8.05 u/s 420/467/468/471/120",
+      "section": "POS OF IPR & CYBER",
+      "sourceUrl": "https://delhipolice.ncog.gov.in/Delhi_police/proclaimed.html"
+    },
+    {
+      "id": "82ede4ba6e6d",
+      "name": "EKLAVYA SAXENA",
+      "isOrganisation": false,
+      "caseRef": "421/05 dt. 27.8.05 u/s 420/467/468/471/120",
+      "section": "POS OF IPR & CYBER",
+      "sourceUrl": "https://delhipolice.ncog.gov.in/Delhi_police/proclaimed.html"
+    },
+    {
+      "id": "b303fac0cef3",
+      "name": "JITENDER SINGH JOHAL",
+      "isOrganisation": false,
+      "caseRef": "259/01, PS Pt. Street",
+      "section": "Proclaimed Offenders of CBT Section",
+      "sourceUrl": "https://delhipolice.ncog.gov.in/Delhi_police/proclaimed.html"
+    },
+    {
+      "id": "1ecbe13d8b06",
+      "name": "A.S. SETHI",
+      "isOrganisation": false,
+      "caseRef": "467/98, Tilak Marg",
+      "section": "Proclaimed Offenders of CBT Section",
+      "sourceUrl": "https://delhipolice.ncog.gov.in/Delhi_police/proclaimed.html"
+    },
+    {
+      "id": "d130751665b5",
+      "name": "VIJAY SINGH",
+      "isOrganisation": false,
+      "caseRef": "129/01, PS Con. Place",
+      "section": "Proclaimed Offenders of CBT Section",
+      "sourceUrl": "https://delhipolice.ncog.gov.in/Delhi_police/proclaimed.html"
+    },
+    {
+      "id": "74d8725028a1",
+      "name": "ILIYAS@SHAHZAD",
+      "isOrganisation": false,
+      "caseRef": "300/01, U/s 420/120-B IPC, PS Bhajanpura",
+      "section": "Proclaimed Offenders of CBT Section",
+      "sourceUrl": "https://delhipolice.ncog.gov.in/Delhi_police/proclaimed.html"
+    },
+    {
+      "id": "a1da2ff6d028",
+      "name": "BHARAT BHUSHAN SHARMA",
+      "isOrganisation": false,
+      "caseRef": "200/02, PS Con. Place",
+      "section": "Proclaimed Offenders of CBT Section",
+      "sourceUrl": "https://delhipolice.ncog.gov.in/Delhi_police/proclaimed.html"
+    },
+    {
+      "id": "946c4cb9156c",
+      "name": "VIVEK SANE",
+      "isOrganisation": false,
+      "caseRef": "593/07 PS Rajouri garden",
+      "section": "Proclaimed Offenders of CBT Section",
+      "sourceUrl": "https://delhipolice.ncog.gov.in/Delhi_police/proclaimed.html"
+    },
+    {
+      "id": "49fb9b896f5a",
+      "name": "MS. TRIPAT CHOUDHARY",
+      "isOrganisation": false,
+      "caseRef": "77/02, PS Con. Place",
+      "section": "Proclaimed Offenders of CBT Section",
+      "sourceUrl": "https://delhipolice.ncog.gov.in/Delhi_police/proclaimed.html"
+    },
+    {
+      "id": "c610b5b2cc05",
+      "name": "SURAJ PRAKASH NAMA",
+      "isOrganisation": false,
+      "caseRef": "455/2000, PS Patel Nagar",
+      "section": "Proclaimed Offenders of CBT Section",
+      "sourceUrl": "https://delhipolice.ncog.gov.in/Delhi_police/proclaimed.html"
+    },
+    {
+      "id": "ba7b2db38224",
+      "name": "HONEY KUMAR CHADDHA",
+      "isOrganisation": false,
+      "caseRef": "1322/06, PS Malviya Nagar",
+      "section": "Proclaimed Offenders of CBT Section",
+      "sourceUrl": "https://delhipolice.ncog.gov.in/Delhi_police/proclaimed.html"
+    },
+    {
+      "id": "bae536822b0c",
+      "name": "ASHOK KUMAR",
+      "isOrganisation": false,
+      "caseRef": "172/07, PS Con. Place",
+      "section": "Proclaimed Offenders of CBT Section",
+      "sourceUrl": "https://delhipolice.ncog.gov.in/Delhi_police/proclaimed.html"
+    },
+    {
+      "id": "d7905d529e5e",
+      "name": "SANTOSH SHARMA",
+      "isOrganisation": false,
+      "caseRef": "172/07, PS Con. Place",
+      "section": "Proclaimed Offenders of CBT Section",
+      "sourceUrl": "https://delhipolice.ncog.gov.in/Delhi_police/proclaimed.html"
+    },
+    {
+      "id": "eb63abca23f3",
+      "name": "AJAY THAKUR",
+      "isOrganisation": false,
+      "caseRef": "1027, 08.12.1999 U/s 468/471/120-B IPC PS. Lajpat Nagar",
+      "section": "Proclaimed Offenders of CBT Section",
+      "sourceUrl": "https://delhipolice.ncog.gov.in/Delhi_police/proclaimed.html"
+    },
+    {
+      "id": "ebff5866c194",
+      "name": "B.S.KRISHNA MURTHY",
+      "isOrganisation": false,
+      "caseRef": "1027, 08.12.1999 U/s 468/471/120-B IPC PS. Lajpat Nagar",
+      "section": "Proclaimed Offenders of CBT Section",
+      "sourceUrl": "https://delhipolice.ncog.gov.in/Delhi_police/proclaimed.html"
+    },
+    {
+      "id": "edfd6e35ca28",
+      "name": "SUNIL GUPTA",
+      "isOrganisation": false,
+      "caseRef": "1027, 08.12.1999 U/s 468/471/120-B IPC PS. Lajpat Nagar",
+      "section": "Proclaimed Offenders of CBT Section",
+      "sourceUrl": "https://delhipolice.ncog.gov.in/Delhi_police/proclaimed.html"
+    },
+    {
+      "id": "380704392160",
+      "name": "A. SHIVA SUBRAMANIYAM",
+      "isOrganisation": false,
+      "caseRef": "186/1999, 406/420/120-B IPC, PS. Lajpat Nagar",
+      "section": "Proclaimed Offenders of CBT Section",
+      "sourceUrl": "https://delhipolice.ncog.gov.in/Delhi_police/proclaimed.html"
+    },
+    {
+      "id": "e82b7b6420c9",
+      "name": "V. BABU",
+      "isOrganisation": false,
+      "caseRef": "186, 23.02.1999, 406/420/120-B IPC, PS. Lajpat Nagar",
+      "section": "Proclaimed Offenders of CBT Section",
+      "sourceUrl": "https://delhipolice.ncog.gov.in/Delhi_police/proclaimed.html"
+    },
+    {
+      "id": "b3b2154858ed",
+      "name": "P. GOVIND RAJAN",
+      "isOrganisation": false,
+      "caseRef": "186, 23.02.1999, 406/420/120-B IPC, PS. Lajpat Nagar",
+      "section": "Proclaimed Offenders of CBT Section",
+      "sourceUrl": "https://delhipolice.ncog.gov.in/Delhi_police/proclaimed.html"
+    },
+    {
+      "id": "c12c5d9841f7",
+      "name": "A.V. BALA GURU SWAMI",
+      "isOrganisation": false,
+      "caseRef": "186, 23.02.1999, 406/420/120-B IPC, PS. Lajpat Nagar",
+      "section": "Proclaimed Offenders of CBT Section",
+      "sourceUrl": "https://delhipolice.ncog.gov.in/Delhi_police/proclaimed.html"
+    },
+    {
+      "id": "7a7b263bf35e",
+      "name": "JASWINDER SINGH VIRK",
+      "isOrganisation": false,
+      "caseRef": "461/05, PS Janakpuri",
+      "section": "Proclaimed Offenders of CBT Section",
+      "sourceUrl": "https://delhipolice.ncog.gov.in/Delhi_police/proclaimed.html"
+    },
+    {
+      "id": "1ebf0d01a1a0",
+      "name": "KAMLESH PATHAK",
+      "isOrganisation": false,
+      "caseRef": "178/08, PS EOW",
+      "section": "Proclaimed Offenders of CBT Section",
+      "sourceUrl": "https://delhipolice.ncog.gov.in/Delhi_police/proclaimed.html"
+    },
+    {
+      "id": "2a9d8423f717",
+      "name": "RAMESH PANDEY",
+      "isOrganisation": false,
+      "caseRef": "178/08, PS EOW",
+      "section": "Proclaimed Offenders of CBT Section",
+      "sourceUrl": "https://delhipolice.ncog.gov.in/Delhi_police/proclaimed.html"
+    },
+    {
+      "id": "2d56f7acf1dc",
+      "name": "SHYAM SUNDER SHARMA",
+      "isOrganisation": false,
+      "caseRef": "213/06, 435/07 & 447/07, PS Lajpat Nagar",
+      "section": "Proclaimed Offenders of CBT Section",
+      "sourceUrl": "https://delhipolice.ncog.gov.in/Delhi_police/proclaimed.html"
+    },
+    {
+      "id": "fddd813b8f5e",
+      "name": "OM PRAKASH",
+      "isOrganisation": false,
+      "caseRef": "556/05, New Ashok Nagar",
+      "section": "Proclaimed Offenders of CBT Section",
+      "sourceUrl": "https://delhipolice.ncog.gov.in/Delhi_police/proclaimed.html"
+    },
+    {
+      "id": "fce0f4eb8a9e",
+      "name": "OM PRAKASH KOTHARI",
+      "isOrganisation": false,
+      "caseRef": "276/07, PS Timarpur",
+      "section": "Proclaimed Offenders of CBT Section",
+      "sourceUrl": "https://delhipolice.ncog.gov.in/Delhi_police/proclaimed.html"
+    },
+    {
+      "id": "de379a85007a",
+      "name": "LAXMI NARYAN",
+      "isOrganisation": false,
+      "caseRef": "276/07, PS Timarpur",
+      "section": "Proclaimed Offenders of CBT Section",
+      "sourceUrl": "https://delhipolice.ncog.gov.in/Delhi_police/proclaimed.html"
+    },
+    {
+      "id": "c81941d8e85b",
+      "name": "LALIT ANAND",
+      "isOrganisation": false,
+      "caseRef": "196/05, PS Preet Vihar",
+      "section": "Proclaimed Offenders of CBT Section",
+      "sourceUrl": "https://delhipolice.ncog.gov.in/Delhi_police/proclaimed.html"
+    },
+    {
+      "id": "826c871b1c45",
+      "name": "PRADEEP GUPAT @ VIKAS GUPTA",
+      "isOrganisation": false,
+      "caseRef": "196/05, PS Preet Vihar",
+      "section": "Proclaimed Offenders of CBT Section",
+      "sourceUrl": "https://delhipolice.ncog.gov.in/Delhi_police/proclaimed.html"
+    },
+    {
+      "id": "85fb6e05d007",
+      "name": "RAVI GUPTA@RAVI MAHAVAR",
+      "isOrganisation": false,
+      "caseRef": "196/05, PS Preet Vihar",
+      "section": "Proclaimed Offenders of CBT Section",
+      "sourceUrl": "https://delhipolice.ncog.gov.in/Delhi_police/proclaimed.html"
+    },
+    {
+      "id": "3813e736a537",
+      "name": "VINOD KUMAR BAROT",
+      "isOrganisation": false,
+      "caseRef": "54/03 U/s 419/420/ 468/471/120 B IPC",
+      "section": "Proclaimed Offenders of CBT Section",
+      "sourceUrl": "https://delhipolice.ncog.gov.in/Delhi_police/proclaimed.html"
+    },
+    {
+      "id": "50548f314c81",
+      "name": "RAMU SET",
+      "isOrganisation": false,
+      "caseRef": "132 dated 13.07.99 u/s 406/420/120-B IPC PS Chandni Chowk.",
+      "section": "Proclaimed Offenders of CBT Section",
+      "sourceUrl": "https://delhipolice.ncog.gov.in/Delhi_police/proclaimed.html"
+    },
+    {
+      "id": "056150bb47e1",
+      "name": "M N MUKESH @ MURGESH",
+      "isOrganisation": false,
+      "caseRef": "132 dated 13.07.99 u/s 406/420/120-B IPC PS Chandni Chowk.",
+      "section": "Proclaimed Offenders of CBT Section",
+      "sourceUrl": "https://delhipolice.ncog.gov.in/Delhi_police/proclaimed.html"
+    },
+    {
+      "id": "f0cff7d66107",
+      "name": "SELVARAJ",
+      "isOrganisation": false,
+      "caseRef": "132 dated 13.07.99 u/s 406/420/120-B IPC PS Chandni Chowk.",
+      "section": "Proclaimed Offenders of CBT Section",
+      "sourceUrl": "https://delhipolice.ncog.gov.in/Delhi_police/proclaimed.html"
+    },
+    {
+      "id": "1d56f68b3557",
+      "name": "C MURTI",
+      "isOrganisation": false,
+      "caseRef": "132 dated 13.07.99 u/s 406/420/120-B IPC PS Chandni Chowk.",
+      "section": "Proclaimed Offenders of CBT Section",
+      "sourceUrl": "https://delhipolice.ncog.gov.in/Delhi_police/proclaimed.html"
+    },
+    {
+      "id": "28b70586b669",
+      "name": "M N CHENNAYAN",
+      "isOrganisation": false,
+      "caseRef": "132 dated 13.07.99 u/s 406/420/120-B IPC PS Chandni Chowk.",
+      "section": "Proclaimed Offenders of CBT Section",
+      "sourceUrl": "https://delhipolice.ncog.gov.in/Delhi_police/proclaimed.html"
+    },
+    {
+      "id": "3290ffd38ce4",
+      "name": "C RAJANDRA @ K T SHANMURTHY",
+      "isOrganisation": false,
+      "caseRef": "132 dated 13.07.99 u/s 406/420/120-B IPC PS Chandni Chowk.",
+      "section": "Proclaimed Offenders of CBT Section",
+      "sourceUrl": "https://delhipolice.ncog.gov.in/Delhi_police/proclaimed.html"
+    },
+    {
+      "id": "16c41faa6265",
+      "name": "KULDEEP PANDEY",
+      "isOrganisation": false,
+      "caseRef": "434/2001u/s 406/420/34 IPC PS Sarswati Vihar",
+      "section": "Proclaimed Offenders of CBT Section",
+      "sourceUrl": "https://delhipolice.ncog.gov.in/Delhi_police/proclaimed.html"
+    },
+    {
+      "id": "5b4b421fb8c3",
+      "name": "SMT, SEEMA PANDEY",
+      "isOrganisation": false,
+      "caseRef": "434/2001u/s 406/420/34 IPC PS Sarswati Vihar",
+      "section": "Proclaimed Offenders of CBT Section",
+      "sourceUrl": "https://delhipolice.ncog.gov.in/Delhi_police/proclaimed.html"
+    },
+    {
+      "id": "62d424ceb21a",
+      "name": "SMT. RAMDULARI PANDEY",
+      "isOrganisation": false,
+      "caseRef": "434/2001u/s 406/420/34 IPC PS Sarswati Vihar",
+      "section": "Proclaimed Offenders of CBT Section",
+      "sourceUrl": "https://delhipolice.ncog.gov.in/Delhi_police/proclaimed.html"
+    },
+    {
+      "id": "9a03ab946e72",
+      "name": "RAJEEV RANJAN",
+      "isOrganisation": false,
+      "caseRef": "434/2001u/s 406/420/34 IPC PS Sarswati Vihar",
+      "section": "Proclaimed Offenders of CBT Section",
+      "sourceUrl": "https://delhipolice.ncog.gov.in/Delhi_police/proclaimed.html"
+    },
+    {
+      "id": "70cc110466b8",
+      "name": "PRASHANT UPADHAYA",
+      "isOrganisation": false,
+      "caseRef": "434/2001u/s 406/420/34 IPC PS Sarswati Vihar",
+      "section": "Proclaimed Offenders of CBT Section",
+      "sourceUrl": "https://delhipolice.ncog.gov.in/Delhi_police/proclaimed.html"
+    },
+    {
+      "id": "f0177e2b38e1",
+      "name": "PRAVEEN SHARMA",
+      "isOrganisation": false,
+      "caseRef": "434/2001u/s 406/420/34 IPC PS Sarswati Vihar",
+      "section": "Proclaimed Offenders of CBT Section",
+      "sourceUrl": "https://delhipolice.ncog.gov.in/Delhi_police/proclaimed.html"
+    },
+    {
+      "id": "a7536fe23c44",
+      "name": "SUDHIR SINGH",
+      "isOrganisation": false,
+      "caseRef": "434/2001u/s 406/420/34 IPC PS Sarswati Vihar",
+      "section": "Proclaimed Offenders of CBT Section",
+      "sourceUrl": "https://delhipolice.ncog.gov.in/Delhi_police/proclaimed.html"
+    },
+    {
+      "id": "779fa1aa4f02",
+      "name": "DR. USHA KIRAN",
+      "isOrganisation": false,
+      "caseRef": "434/2001u/s 406/420/34 IPC PS Sarswati Vihar",
+      "section": "Proclaimed Offenders of CBT Section",
+      "sourceUrl": "https://delhipolice.ncog.gov.in/Delhi_police/proclaimed.html"
+    },
+    {
+      "id": "e5dd064063b5",
+      "name": "ASHAWANI KUMAR KAUSHIK",
+      "isOrganisation": false,
+      "caseRef": "434/2001u/s 406/420/34 IPC PS Sarswati Vihar",
+      "section": "Proclaimed Offenders of CBT Section",
+      "sourceUrl": "https://delhipolice.ncog.gov.in/Delhi_police/proclaimed.html"
+    },
+    {
+      "id": "b9ce18fb62ec",
+      "name": "NEELAM SINGH",
+      "isOrganisation": false,
+      "caseRef": "182/2007 u/s 420/120b IPC PS C R Park",
+      "section": "Proclaimed Offenders of ALBR",
+      "sourceUrl": "https://delhipolice.ncog.gov.in/Delhi_police/proclaimed.html"
+    },
+    {
+      "id": "9e01081ad8ef",
+      "name": "ABHAI SINGH",
+      "isOrganisation": false,
+      "caseRef": "182/2007 u/s 420/120b IPC PS C R Park",
+      "section": "Proclaimed Offenders of ALBR",
+      "sourceUrl": "https://delhipolice.ncog.gov.in/Delhi_police/proclaimed.html"
+    },
+    {
+      "id": "d66318457148",
+      "name": "VIJAY KUMAR SHARMA",
+      "isOrganisation": false,
+      "caseRef": "106/07,135/07,136/07 U/s 409/420/120B IPC PS Parliament Street. 251/09, 39/09 U/",
+      "section": "Proclaimed Offenders of ALBR",
+      "sourceUrl": "https://delhipolice.ncog.gov.in/Delhi_police/proclaimed.html"
+    },
+    {
+      "id": "60e24f196317",
+      "name": "JASPAL",
+      "isOrganisation": false,
+      "caseRef": "115/07 U/s 420/467/468/471/120 IPC PS Swaroop Nagar Delhi",
+      "section": "Proclaimed Offenders of ALBR",
+      "sourceUrl": "https://delhipolice.ncog.gov.in/Delhi_police/proclaimed.html"
+    }
+  ],
+  "notes": "Names republished from the Delhi Police Proclaimed Offenders page (CrPC §82). We store only the name and the source case reference (FIR/PS) — father's name and address shown on the source page are intentionally stripped to align with our DPDP-minimum naming policy."
 }

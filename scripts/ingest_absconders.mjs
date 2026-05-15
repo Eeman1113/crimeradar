@@ -1,5 +1,6 @@
 #!/usr/bin/env node
-// Scrapes https://mumbaipolice.gov.in/absconder_list into data/absconders.json.
+// Scrapes https://mumbaipolice.gov.in/absconder_list into
+// data/cities/mumbai/absconders.json.
 // Run: node scripts/ingest_absconders.mjs
 
 import crypto from "node:crypto";
@@ -65,7 +66,13 @@ async function main() {
     notes:
       "Names republished from Mumbai Police Absconder List (CrPC §82). The listing does not include police-station or charge fields; PDFs are image-based scans, so station/charge data is not extractable without OCR. Each card links to the source PDF.",
   };
-  const dest = path.join(process.cwd(), "data", "absconders.json");
+  const dest = path.join(
+    process.cwd(),
+    "data",
+    "cities",
+    "mumbai",
+    "absconders.json",
+  );
   await fs.writeFile(dest, JSON.stringify(out, null, 2));
   console.log(`wrote ${rows.length} absconders → ${dest}`);
 }

@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 // Fetches the most recent Mumbai Police monthly crime stats PDF, parses it,
 // extracts city-aggregate YTD counts per crime category, maps them to our
-// internal taxonomy, and writes data/monthly_stats.json.
+// internal taxonomy, and writes data/cities/mumbai/monthly_stats.json.
 //
 // Source: https://mumbaipolice.gov.in/CrimeStatistics
 // Run:    node scripts/ingest_monthly_stats.mjs
@@ -246,7 +246,13 @@ async function main() {
     notes:
       "Year-to-date city-aggregate counts (registered IPC + BNS cases) extracted from the most-recent Mumbai Police monthly crime statistics PDF. Categories normalised to CrimeRadar's internal taxonomy. Counts are city-wide; the per-ward apportioning happens in lib/wards.ts using BMC ward population weights.",
   };
-  const dest = path.join(process.cwd(), "data", "monthly_stats.json");
+  const dest = path.join(
+    process.cwd(),
+    "data",
+    "cities",
+    "mumbai",
+    "monthly_stats.json",
+  );
   await fs.writeFile(dest, JSON.stringify(out, null, 2));
   console.log("totals:", totals);
   console.log(`wrote → ${dest}`);
