@@ -70,14 +70,20 @@ const CITY_NAME = {
 function queryFor(city, ward) {
   const cityName = CITY_NAME[city];
   const raw = ward.neighborhoods || ward.name || ward.id;
-  const first = raw
+  let first = raw
     .split(",")[0]
+    // strip "Ward 91 Khairatabad" -> "Khairatabad"
+    .replace(/\bWard\s+\d+\s*/i, "")
     .replace(/\bWard\b/i, "")
     .replace(/\([^)]*\)/g, "")
     .replace(/\s+/g, " ")
     .trim();
+  // strip generic suffixes like "Layout" / "Nagar" when they appear alone
+  if (!first || first.length < 3) {
+    // fall back to the ward name itself if neighborhoods didn't help
+    first = (ward.name || ward.id || "").replace(/\bWard\s+\d+\s*/i, "").trim();
+  }
   if (!first || first.length < 3) return null;
-  // wrap distinctive place name in quotes; pad with city name + crime hint
   return `"${first}" ${cityName} (crime OR arrest OR snatch OR rape OR molest OR raid)`;
 }
 
@@ -258,8 +264,14 @@ async function ingestCity(city) {
       console.warn(
         `  ! ${ward.id}: ${(e instanceof Error ? e.message : e).slice(0, 100)}`,
       );
-      // keep stale cache if we have one
-      if (cachedEntry) out[ward.id] = cachedEntry;
+      // always record SOMETHING so the file holds an entry per seed ward —
+      // either the stale cache, or an empty entry that next run can retry.
+      out[ward.id] = cachedEntry ?? {
+        cachedAt: new Date(now).toISOString(),
+        query: q,
+        items: [],
+        error: String(e?.message ?? e).slice(0, 120),
+      };
     }
     await sleep(SLEEP_MS);
   }
