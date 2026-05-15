@@ -79,18 +79,27 @@ export default function ComparePage() {
   const tooltipBorder = isDark ? "#27272a" : "#e4e4e7";
   const tooltipFg = isDark ? "#fafafa" : "#18181b";
 
-  // Only cities with real city totals can be compared meaningfully.
-  const candidates = useMemo(
-    () =>
-      CITY_IDS.filter((id) => {
-        const totals = monthlyStatsMeta(id).totals;
-        return Object.values(totals).some((v) => (v as number) > 0);
-      }),
-    [],
-  );
+  // All cities are pickable. Those with real city-aggregate totals
+  // contribute real bars; those without (geometry-only cities) render as
+  // empty 0-height bars. Sorted: stats-bearing cities first, then
+  // geometry-only — each group alphabetised by English name for stable
+  // ordering across locales.
+  const hasStats = (id: CityId) =>
+    Object.values(monthlyStatsMeta(id).totals).some((v) => (v as number) > 0);
+  const candidates = useMemo(() => {
+    const withStats: CityId[] = [];
+    const withoutStats: CityId[] = [];
+    for (const id of CITY_IDS) {
+      if (hasStats(id)) withStats.push(id);
+      else withoutStats.push(id);
+    }
+    const byName = (a: CityId, b: CityId) =>
+      CITIES[a].name.localeCompare(CITIES[b].name);
+    return [...withStats.sort(byName), ...withoutStats.sort(byName)];
+  }, []);
 
   const [picked, setPicked] = useState<Set<CityId>>(
-    () => new Set(candidates.slice(0, 3)),
+    () => new Set(candidates.filter(hasStats).slice(0, 3)),
   );
 
   const togglePick = (c: CityId) => {
@@ -164,9 +173,9 @@ export default function ComparePage() {
           <p className="text-sm sm:text-base text-muted-foreground max-w-2xl">
             Year-to-date / latest published counts normalised to{" "}
             <strong>cases per 100,000 residents</strong>. Click a city chip to
-            toggle it. Only cities with real city-aggregate stats are
-            available — the others fall through to editorial values and are
-            excluded.
+            toggle it. Cities with real city-aggregate stats appear first;
+            geometry-only cities (greyed out) show empty bars until their
+            stats are sourced.
           </p>
         </div>
       </section>
@@ -175,12 +184,15 @@ export default function ComparePage() {
         <div className="flex flex-wrap gap-2">
           {candidates.map((c) => {
             const active = picked.has(c);
+            const stats = hasStats(c);
             return (
               <Button
                 key={c}
                 size="sm"
                 variant={active ? "default" : "outline"}
                 onClick={() => togglePick(c)}
+                className={!stats && !active ? "opacity-50" : undefined}
+                title={stats ? undefined : "Geometry only — no city-wide stats yet"}
               >
                 <span
                   className="inline-block h-2 w-2 rounded-full mr-2"
