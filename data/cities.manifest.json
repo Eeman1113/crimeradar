@@ -340,7 +340,7 @@
     "geojson": "/geo/noida_wards.geojson",
     "wardIdKey": "name",
     "unit": "Police station area",
-    "hasMonthlyStats": false,
+    "hasMonthlyStats": true,
     "hasAbsconders": false,
     "nameI18n": {
       "hi": "नोएडा",
@@ -733,7 +733,7 @@
     "geojson": "/geo/bhubaneswar_wards.geojson",
     "wardIdKey": "wardno",
     "unit": "BMC ward",
-    "hasMonthlyStats": false,
+    "hasMonthlyStats": true,
     "hasAbsconders": false,
     "nameI18n": {
       "hi": "भुवनेश्वर",
@@ -772,7 +772,7 @@
     "geojson": "/geo/patna_wards.geojson",
     "wardIdKey": "wardname",
     "unit": "PMC ward",
-    "hasMonthlyStats": false,
+    "hasMonthlyStats": true,
     "hasAbsconders": false,
     "nameI18n": {
       "hi": "पटना",
@@ -812,7 +812,7 @@
     "geojson": "/geo/bhopal_wards.geojson",
     "wardIdKey": "wardname",
     "unit": "BMC ward",
-    "hasMonthlyStats": false,
+    "hasMonthlyStats": true,
     "hasAbsconders": false,
     "nameI18n": {
       "hi": "भोपाल",
@@ -851,7 +851,7 @@
     "geojson": "/geo/ranchi_wards.geojson",
     "wardIdKey": "ward_no",
     "unit": "RMC ward",
-    "hasMonthlyStats": false,
+    "hasMonthlyStats": true,
     "hasAbsconders": false,
     "nameI18n": {
       "hi": "राँची",
@@ -891,7 +891,7 @@
     "geojson": "/geo/thiruvananthapuram_wards.geojson",
     "wardIdKey": "ward_no",
     "unit": "TMC ward",
-    "hasMonthlyStats": false,
+    "hasMonthlyStats": true,
     "hasAbsconders": false,
     "nameI18n": {
       "hi": "तिरुवनन्तपुरम",
@@ -930,7 +930,7 @@
     "geojson": "/geo/dehradun_wards.geojson",
     "wardIdKey": "ward_id",
     "unit": "DMC ward",
-    "hasMonthlyStats": false,
+    "hasMonthlyStats": true,
     "hasAbsconders": false,
     "nameI18n": {
       "hi": "देहरादून",
@@ -970,7 +970,7 @@
     "geojson": "/geo/gandhinagar_wards.geojson",
     "wardIdKey": "id",
     "unit": "GMC ward",
-    "hasMonthlyStats": false,
+    "hasMonthlyStats": true,
     "hasAbsconders": false,
     "nameI18n": {
       "hi": "गाँधीनगर",
@@ -1010,7 +1010,7 @@
     "geojson": "/geo/panaji_wards.geojson",
     "wardIdKey": "id",
     "unit": "CCP ward",
-    "hasMonthlyStats": false,
+    "hasMonthlyStats": true,
     "hasAbsconders": false,
     "nameI18n": {
       "hi": "पणजी",
@@ -1049,7 +1049,7 @@
     "geojson": "/geo/raipur_wards.geojson",
     "wardIdKey": "id",
     "unit": "RMC ward",
-    "hasMonthlyStats": false,
+    "hasMonthlyStats": true,
     "hasAbsconders": false,
     "nameI18n": {
       "hi": "रायपुर",
@@ -1088,7 +1088,7 @@
     "geojson": "/geo/chandigarh_wards.geojson",
     "wardIdKey": "id",
     "unit": "MC ward",
-    "hasMonthlyStats": false,
+    "hasMonthlyStats": true,
     "hasAbsconders": false,
     "nameI18n": {
       "bn": "চণ্ডীগড়",
@@ -1128,7 +1128,7 @@
     "geojson": "/geo/shillong_wards.geojson",
     "wardIdKey": "id",
     "unit": "SMB ward",
-    "hasMonthlyStats": false,
+    "hasMonthlyStats": true,
     "hasAbsconders": false,
     "nameI18n": {
       "hi": "शिलांग",
@@ -1168,7 +1168,7 @@
     "geojson": "/geo/aizawl_wards.geojson",
     "wardIdKey": "id",
     "unit": "AMC ward",
-    "hasMonthlyStats": false,
+    "hasMonthlyStats": true,
     "hasAbsconders": false,
     "nameI18n": {
       "hi": "अइज़ोल",
@@ -1208,7 +1208,7 @@
     "geojson": "/geo/imphal_wards.geojson",
     "wardIdKey": "id",
     "unit": "IMC ward",
-    "hasMonthlyStats": false,
+    "hasMonthlyStats": true,
     "hasAbsconders": false,
     "nameI18n": {
       "hi": "इम्फाल",
@@ -1248,7 +1248,7 @@
     "geojson": "/geo/itanagar_wards.geojson",
     "wardIdKey": "id",
     "unit": "IMC ward",
-    "hasMonthlyStats": false,
+    "hasMonthlyStats": true,
     "hasAbsconders": false,
     "nameI18n": {
       "hi": "ईटानगर",
@@ -1288,7 +1288,7 @@
     "geojson": "/geo/kohima_wards.geojson",
     "wardIdKey": "id",
     "unit": "KMC ward",
-    "hasMonthlyStats": false,
+    "hasMonthlyStats": true,
     "hasAbsconders": false,
     "nameI18n": {
       "hi": "कोहिमा",
@@ -1328,7 +1328,7 @@
     "geojson": "/geo/agartala_wards.geojson",
     "wardIdKey": "id",
     "unit": "AMC ward",
-    "hasMonthlyStats": false,
+    "hasMonthlyStats": true,
     "hasAbsconders": false,
     "nameI18n": {
       "hi": "अगरतला",
@@ -1368,7 +1368,7 @@
     "geojson": "/geo/shimla_wards.geojson",
     "wardIdKey": "id",
     "unit": "SMC ward",
-    "hasMonthlyStats": false,
+    "hasMonthlyStats": true,
     "hasAbsconders": false,
     "nameI18n": {
       "hi": "शिमला",
@@ -1407,7 +1407,7 @@
     "geojson": "/geo/srinagar_wards.geojson",
     "wardIdKey": "id",
     "unit": "SMC ward",
-    "hasMonthlyStats": false,
+    "hasMonthlyStats": true,
     "hasAbsconders": false,
     "nameI18n": {
       "hi": "श्रीनगर, जम्मू और कश्मीर",
@@ -1446,7 +1446,7 @@
     "geojson": "/geo/jammu_wards.geojson",
     "wardIdKey": "id",
     "unit": "JMC ward",
-    "hasMonthlyStats": false,
+    "hasMonthlyStats": true,
     "hasAbsconders": false,
     "nameI18n": {
       "hi": "जम्मू",
@@ -1482,7 +1482,7 @@
     "geojson": "/geo/leh_wards.geojson",
     "wardIdKey": "id",
     "unit": "LMC ward",
-    "hasMonthlyStats": false,
+    "hasMonthlyStats": true,
     "hasAbsconders": false,
     "nameI18n": {
       "hi": "लेह",
@@ -1521,7 +1521,7 @@
     "geojson": "/geo/puducherry_wards.geojson",
     "wardIdKey": "id",
     "unit": "PMC ward",
-    "hasMonthlyStats": false,
+    "hasMonthlyStats": true,
     "hasAbsconders": false,
     "nameI18n": {
       "hi": "पुदुचेरी",
@@ -1558,7 +1558,7 @@
     "geojson": "/geo/port_blair_wards.geojson",
     "wardIdKey": "id",
     "unit": "PBMC ward",
-    "hasMonthlyStats": false,
+    "hasMonthlyStats": true,
     "hasAbsconders": false,
     "nameI18n": {
       "hi": "पोर्ट ब्लेयर",
@@ -1597,7 +1597,7 @@
     "geojson": "/geo/amaravati_wards.geojson",
     "wardIdKey": "id",
     "unit": "VMC ward",
-    "hasMonthlyStats": false,
+    "hasMonthlyStats": true,
     "hasAbsconders": false,
     "nameI18n": {
       "hi": "विजयवाड़ा",
@@ -1636,7 +1636,7 @@
     "geojson": "/geo/guwahati_wards.geojson",
     "wardIdKey": "Name",
     "unit": "GMC ward",
-    "hasMonthlyStats": false,
+    "hasMonthlyStats": true,
     "hasAbsconders": false,
     "nameI18n": {
       "hi": "गुवाहाटी",
@@ -1676,7 +1676,7 @@
     "geojson": "/geo/gangtok_wards.geojson",
     "wardIdKey": "osm_relation_id",
     "unit": "GMC ward",
-    "hasMonthlyStats": false,
+    "hasMonthlyStats": true,
     "hasAbsconders": false,
     "nameI18n": {
       "hi": "गान्तोक",

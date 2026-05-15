@@ -40,8 +40,9 @@ const DEFAULT_INDEX_URL = "https://www.ncrb.gov.in/crime-in-india.html";
 // state portals). Pass --include-fresh to override.
 const SKIP_BY_DEFAULT = new Set(["mumbai", "bangalore", "chennai", "delhi"]);
 
-// NCRB-spelling → manifest id. Updated when NCRB renames a city or we
-// onboard another megacity.
+// CSV "City" column → manifest id. Originally just NCRB megacities;
+// extended to cover state capitals so state-police annual-report CSVs
+// can use the same ingest pipeline.
 const NCRB_NAME_TO_ID = {
   "ahmedabad": "ahmedabad",
   "bengaluru": "bangalore",
@@ -65,6 +66,40 @@ const NCRB_NAME_TO_ID = {
   "patna": "patna",
   "pune": "pune",
   "surat": "surat",
+  // Seeded-city aliases for state-police CSVs:
+  "bhopal": "bhopal",
+  "ranchi": "ranchi",
+  "thiruvananthapuram": "thiruvananthapuram",
+  "trivandrum": "thiruvananthapuram",
+  "dehradun": "dehradun",
+  "gandhinagar": "gandhinagar",
+  "panaji": "panaji",
+  "panjim": "panaji",
+  "raipur": "raipur",
+  "vijayawada": "amaravati",
+  "amaravati": "amaravati",
+  "chandigarh": "chandigarh",
+  "shillong": "shillong",
+  "aizawl": "aizawl",
+  "imphal": "imphal",
+  "itanagar": "itanagar",
+  "kohima": "kohima",
+  "agartala": "agartala",
+  "shimla": "shimla",
+  "simla": "shimla",
+  "srinagar": "srinagar",
+  "jammu": "jammu",
+  "leh": "leh",
+  "puducherry": "puducherry",
+  "pondicherry": "puducherry",
+  "port blair": "port_blair",
+  "port-blair": "port_blair",
+  "sri vijaya puram": "port_blair",
+  "guwahati": "guwahati",
+  "bhubaneswar": "bhubaneswar",
+  "gangtok": "gangtok",
+  "noida": "noida",
+  "gautam buddha nagar": "noida",
 };
 
 // Map NCRB crime heads → CrimeRadar internal categories. Lowercased on

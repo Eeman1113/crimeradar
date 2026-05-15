@@ -228,7 +228,7 @@ export const CITIES: Record<CityId, CityConfig> = {
     geojson: "/geo/noida_wards.geojson",
     wardIdKey: "name",
     unit: "Police station area",
-    hasMonthlyStats: false,
+    hasMonthlyStats: true,
     hasAbsconders: false,
   },
   ahmedabad: {
@@ -378,7 +378,7 @@ export const CITIES: Record<CityId, CityConfig> = {
     geojson: "/geo/bhubaneswar_wards.geojson",
     wardIdKey: "wardno",
     unit: "BMC ward",
-    hasMonthlyStats: false,
+    hasMonthlyStats: true,
     hasAbsconders: false,
   },
   patna: {
@@ -393,7 +393,7 @@ export const CITIES: Record<CityId, CityConfig> = {
     geojson: "/geo/patna_wards.geojson",
     wardIdKey: "wardname",
     unit: "PMC ward",
-    hasMonthlyStats: false,
+    hasMonthlyStats: true,
     hasAbsconders: false,
   },
   bhopal: {
@@ -408,7 +408,7 @@ export const CITIES: Record<CityId, CityConfig> = {
     geojson: "/geo/bhopal_wards.geojson",
     wardIdKey: "wardname",
     unit: "BMC ward",
-    hasMonthlyStats: false,
+    hasMonthlyStats: true,
     hasAbsconders: false,
   },
   ranchi: {
@@ -423,7 +423,7 @@ export const CITIES: Record<CityId, CityConfig> = {
     geojson: "/geo/ranchi_wards.geojson",
     wardIdKey: "ward_no",
     unit: "RMC ward",
-    hasMonthlyStats: false,
+    hasMonthlyStats: true,
     hasAbsconders: false,
   },
   thiruvananthapuram: {
@@ -438,7 +438,7 @@ export const CITIES: Record<CityId, CityConfig> = {
     geojson: "/geo/thiruvananthapuram_wards.geojson",
     wardIdKey: "ward_no",
     unit: "TMC ward",
-    hasMonthlyStats: false,
+    hasMonthlyStats: true,
     hasAbsconders: false,
   },
   dehradun: {
@@ -453,7 +453,7 @@ export const CITIES: Record<CityId, CityConfig> = {
     geojson: "/geo/dehradun_wards.geojson",
     wardIdKey: "ward_id",
     unit: "DMC ward",
-    hasMonthlyStats: false,
+    hasMonthlyStats: true,
     hasAbsconders: false,
   },
   gandhinagar: {
@@ -468,7 +468,7 @@ export const CITIES: Record<CityId, CityConfig> = {
     geojson: "/geo/gandhinagar_wards.geojson",
     wardIdKey: "id",
     unit: "GMC ward",
-    hasMonthlyStats: false,
+    hasMonthlyStats: true,
     hasAbsconders: false,
   },
   panaji: {
@@ -483,7 +483,7 @@ export const CITIES: Record<CityId, CityConfig> = {
     geojson: "/geo/panaji_wards.geojson",
     wardIdKey: "id",
     unit: "CCP ward",
-    hasMonthlyStats: false,
+    hasMonthlyStats: true,
     hasAbsconders: false,
   },
   raipur: {
@@ -498,7 +498,7 @@ export const CITIES: Record<CityId, CityConfig> = {
     geojson: "/geo/raipur_wards.geojson",
     wardIdKey: "id",
     unit: "RMC ward",
-    hasMonthlyStats: false,
+    hasMonthlyStats: true,
     hasAbsconders: false,
   },
   chandigarh: {
@@ -513,7 +513,7 @@ export const CITIES: Record<CityId, CityConfig> = {
     geojson: "/geo/chandigarh_wards.geojson",
     wardIdKey: "id",
     unit: "MC ward",
-    hasMonthlyStats: false,
+    hasMonthlyStats: true,
     hasAbsconders: false,
   },
   shillong: {
@@ -528,7 +528,7 @@ export const CITIES: Record<CityId, CityConfig> = {
     geojson: "/geo/shillong_wards.geojson",
     wardIdKey: "id",
     unit: "SMB ward",
-    hasMonthlyStats: false,
+    hasMonthlyStats: true,
     hasAbsconders: false,
   },
   aizawl: {
@@ -543,7 +543,7 @@ export const CITIES: Record<CityId, CityConfig> = {
     geojson: "/geo/aizawl_wards.geojson",
     wardIdKey: "id",
     unit: "AMC ward",
-    hasMonthlyStats: false,
+    hasMonthlyStats: true,
     hasAbsconders: false,
   },
   imphal: {
@@ -558,7 +558,7 @@ export const CITIES: Record<CityId, CityConfig> = {
     geojson: "/geo/imphal_wards.geojson",
     wardIdKey: "id",
     unit: "IMC ward",
-    hasMonthlyStats: false,
+    hasMonthlyStats: true,
     hasAbsconders: false,
   },
   itanagar: {
@@ -573,7 +573,7 @@ export const CITIES: Record<CityId, CityConfig> = {
     geojson: "/geo/itanagar_wards.geojson",
     wardIdKey: "id",
     unit: "IMC ward",
-    hasMonthlyStats: false,
+    hasMonthlyStats: true,
     hasAbsconders: false,
   },
   kohima: {
@@ -588,7 +588,7 @@ export const CITIES: Record<CityId, CityConfig> = {
     geojson: "/geo/kohima_wards.geojson",
     wardIdKey: "id",
     unit: "KMC ward",
-    hasMonthlyStats: false,
+    hasMonthlyStats: true,
     hasAbsconders: false,
   },
   agartala: {
@@ -603,7 +603,7 @@ export const CITIES: Record<CityId, CityConfig> = {
     geojson: "/geo/agartala_wards.geojson",
     wardIdKey: "id",
     unit: "AMC ward",
-    hasMonthlyStats: false,
+    hasMonthlyStats: true,
     hasAbsconders: false,
   },
   shimla: {
@@ -618,7 +618,7 @@ export const CITIES: Record<CityId, CityConfig> = {
     geojson: "/geo/shimla_wards.geojson",
     wardIdKey: "id",
     unit: "SMC ward",
-    hasMonthlyStats: false,
+    hasMonthlyStats: true,
     hasAbsconders: false,
   },
   srinagar: {
@@ -633,7 +633,7 @@ export const CITIES: Record<CityId, CityConfig> = {
     geojson: "/geo/srinagar_wards.geojson",
     wardIdKey: "id",
     unit: "SMC ward",
-    hasMonthlyStats: false,
+    hasMonthlyStats: true,
     hasAbsconders: false,
   },
   jammu: {
@@ -648,7 +648,7 @@ export const CITIES: Record<CityId, CityConfig> = {
     geojson: "/geo/jammu_wards.geojson",
     wardIdKey: "id",
     unit: "JMC ward",
-    hasMonthlyStats: false,
+    hasMonthlyStats: true,
     hasAbsconders: false,
   },
   leh: {
@@ -663,7 +663,7 @@ export const CITIES: Record<CityId, CityConfig> = {
     geojson: "/geo/leh_wards.geojson",
     wardIdKey: "id",
     unit: "LMC ward",
-    hasMonthlyStats: false,
+    hasMonthlyStats: true,
     hasAbsconders: false,
   },
   puducherry: {
@@ -678,7 +678,7 @@ export const CITIES: Record<CityId, CityConfig> = {
     geojson: "/geo/puducherry_wards.geojson",
     wardIdKey: "id",
     unit: "PMC ward",
-    hasMonthlyStats: false,
+    hasMonthlyStats: true,
     hasAbsconders: false,
   },
   port_blair: {
@@ -693,7 +693,7 @@ export const CITIES: Record<CityId, CityConfig> = {
     geojson: "/geo/port_blair_wards.geojson",
     wardIdKey: "id",
     unit: "PBMC ward",
-    hasMonthlyStats: false,
+    hasMonthlyStats: true,
     hasAbsconders: false,
   },
   amaravati: {
@@ -708,7 +708,7 @@ export const CITIES: Record<CityId, CityConfig> = {
     geojson: "/geo/amaravati_wards.geojson",
     wardIdKey: "id",
     unit: "VMC ward",
-    hasMonthlyStats: false,
+    hasMonthlyStats: true,
     hasAbsconders: false,
   },
   guwahati: {
@@ -723,7 +723,7 @@ export const CITIES: Record<CityId, CityConfig> = {
     geojson: "/geo/guwahati_wards.geojson",
     wardIdKey: "Name",
     unit: "GMC ward",
-    hasMonthlyStats: false,
+    hasMonthlyStats: true,
     hasAbsconders: false,
   },
   gangtok: {
@@ -738,7 +738,7 @@ export const CITIES: Record<CityId, CityConfig> = {
     geojson: "/geo/gangtok_wards.geojson",
     wardIdKey: "osm_relation_id",
     unit: "GMC ward",
-    hasMonthlyStats: false,
+    hasMonthlyStats: true,
     hasAbsconders: false,
   },
 };

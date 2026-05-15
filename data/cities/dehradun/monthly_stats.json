@@ -1,7 +1,19 @@
 {
-  "source": null,
-  "publishedFor": null,
-  "scrapedAt": null,
-  "cityWideYtdTotals": {},
-  "notes": "Pending ingest."
+  "source": "Mixed: NCRB Vol 1 + NCRB District-wise IPC Crimes 2022 + state police annual reports (see methodology)",
+  "indexUrl": "https://www.ncrb.gov.in/crime-in-india.html",
+  "publishedFor": {
+    "year": 2022
+  },
+  "windowKind": "year",
+  "scrapedAt": "2026-05-15T23:47:23.639Z",
+  "cityWideYtdTotals": {
+    "theft": 668,
+    "burglary": 167,
+    "robbery": 83,
+    "assault": 369,
+    "sexual_offence": 337,
+    "harassment": 362,
+    "kidnapping": 327
+  },
+  "notes": "Annual city-wide totals (2022) extracted from NCRB 'Crime in India 2022' megacity table. Categories normalised to CrimeRadar's internal taxonomy."
 }
