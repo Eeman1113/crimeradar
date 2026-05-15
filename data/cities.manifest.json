@@ -414,5 +414,57 @@
     "unit": "KMC ward",
     "hasMonthlyStats": false,
     "hasAbsconders": false
+  },
+  {
+    "id": "nagpur",
+    "name": "Nagpur",
+    "state": "Maharashtra",
+    "stateCode": "IN-MH",
+    "tier": "million_plus",
+    "center": [
+      79.0868016,
+      21.14247215
+    ],
+    "bounds": [
+      [
+        78.9949643,
+        21.0542423
+      ],
+      [
+        79.1786389,
+        21.230702
+      ]
+    ],
+    "geojson": "/geo/nagpur_wards.geojson",
+    "wardIdKey": "wardcode",
+    "unit": "NMC prabhag",
+    "hasMonthlyStats": false,
+    "hasAbsconders": false
+  },
+  {
+    "id": "kanpur",
+    "name": "Kanpur",
+    "state": "Uttar Pradesh",
+    "stateCode": "IN-UP",
+    "tier": "million_plus",
+    "center": [
+      80.33585404883365,
+      26.43418725255954
+    ],
+    "bounds": [
+      [
+        80.19822878654111,
+        26.33496692096488
+      ],
+      [
+        80.4734793111262,
+        26.533407584154197
+      ]
+    ],
+    "geojson": "/geo/kanpur_wards.geojson",
+    "wardIdKey": "Ward No",
+    "unit": "KMC ward",
+    "hasMonthlyStats": false,
+    "hasAbsconders": false
   }
 ]

@@ -20,7 +20,9 @@ export type CityId =
   | "jaipur"
   | "surat"
   | "lucknow"
-  | "kochi";
+  | "kochi"
+  | "nagpur"
+  | "kanpur";
 
 export const CITY_IDS: readonly CityId[] = [
   "mumbai",
@@ -39,6 +41,8 @@ export const CITY_IDS: readonly CityId[] = [
   "surat",
   "lucknow",
   "kochi",
+  "nagpur",
+  "kanpur",
 ] as const;
 
 export const CITIES: Record<CityId, CityConfig> = {
@@ -262,6 +266,34 @@ export const CITIES: Record<CityId, CityConfig> = {
     bounds: [[76.23735890065669, 9.8998297647108], [76.34002933184016, 10.049769312385111]],
     geojson: "/geo/kochi_wards.geojson",
     wardIdKey: "Ward_No",
+    unit: "KMC ward",
+    hasMonthlyStats: false,
+    hasAbsconders: false,
+  },
+  nagpur: {
+    id: "nagpur",
+    name: "Nagpur",
+    state: "Maharashtra",
+    stateCode: "IN-MH",
+    tier: "million_plus",
+    center: [79.0868016, 21.14247215],
+    bounds: [[78.9949643, 21.0542423], [79.1786389, 21.230702]],
+    geojson: "/geo/nagpur_wards.geojson",
+    wardIdKey: "wardcode",
+    unit: "NMC prabhag",
+    hasMonthlyStats: false,
+    hasAbsconders: false,
+  },
+  kanpur: {
+    id: "kanpur",
+    name: "Kanpur",
+    state: "Uttar Pradesh",
+    stateCode: "IN-UP",
+    tier: "million_plus",
+    center: [80.33585404883365, 26.43418725255954],
+    bounds: [[80.19822878654111, 26.33496692096488], [80.4734793111262, 26.533407584154197]],
+    geojson: "/geo/kanpur_wards.geojson",
+    wardIdKey: "Ward No",
     unit: "KMC ward",
     hasMonthlyStats: false,
     hasAbsconders: false,

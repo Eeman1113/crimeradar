@@ -18,6 +18,8 @@ import jaipurJson from "@/data/cities/jaipur/absconders.json";
 import suratJson from "@/data/cities/surat/absconders.json";
 import lucknowJson from "@/data/cities/lucknow/absconders.json";
 import kochiJson from "@/data/cities/kochi/absconders.json";
+import nagpurJson from "@/data/cities/nagpur/absconders.json";
+import kanpurJson from "@/data/cities/kanpur/absconders.json";
 
 import type { CityId } from "./cities.generated";
 
@@ -38,4 +40,6 @@ export const ABSCONDERS_JSON: Record<CityId, unknown> = {
   surat: suratJson,
   lucknow: lucknowJson,
   kochi: kochiJson,
+  nagpur: nagpurJson,
+  kanpur: kanpurJson,
 };
