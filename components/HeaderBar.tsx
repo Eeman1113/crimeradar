@@ -34,19 +34,19 @@ export default function HeaderBar() {
           <nav className="hidden md:flex items-center gap-1">
             <Link
               href="/compare"
-              className="text-muted-foreground hover:text-foreground hover:bg-accent/60 px-3 py-1.5 rounded-md transition-colors duration-200"
+              className="text-muted-foreground hover:text-foreground hover:bg-accent/60 px-3 py-2 rounded-md transition-colors duration-200"
             >
               Compare
             </Link>
             <Link
               href="/methodology"
-              className="text-muted-foreground hover:text-foreground hover:bg-accent/60 px-3 py-1.5 rounded-md transition-colors duration-200"
+              className="text-muted-foreground hover:text-foreground hover:bg-accent/60 px-3 py-2 rounded-md transition-colors duration-200"
             >
               {t("nav_methodology")}
             </Link>
             <Link
               href="/legal"
-              className="text-muted-foreground hover:text-foreground hover:bg-accent/60 px-3 py-1.5 rounded-md transition-colors duration-200"
+              className="text-muted-foreground hover:text-foreground hover:bg-accent/60 px-3 py-2 rounded-md transition-colors duration-200"
             >
               {t("nav_legal")}
             </Link>

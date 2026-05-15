@@ -104,7 +104,7 @@ export default async function CityHome({
         style={{ animationDelay: "80ms" }}
       >
         <div className="flex flex-col gap-2">
-          <div className="h-[55vh] min-h-[340px] sm:h-[60vh] sm:min-h-[400px] lg:h-[65vh] lg:min-h-[440px]">
+          <div className="h-[60vh] min-h-[300px] max-h-[640px] sm:h-[60vh] sm:min-h-[400px] lg:h-[65vh] lg:min-h-[440px]">
             <Suspense fallback={<MapSkeleton />}>
               <WardMap city={city} wards={wards} />
             </Suspense>

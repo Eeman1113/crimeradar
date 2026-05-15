@@ -34,16 +34,14 @@ export default function WomenToggle() {
         isWomen ? t("women_mode_off_label") : t("women_mode_on_label")
       }
       disabled={pending}
-      className="gap-2"
+      className="gap-2 min-h-9"
     >
       {isWomen ? (
         <ShieldAlert className="h-3.5 w-3.5" />
       ) : (
         <Users className="h-3.5 w-3.5" />
       )}
-      <span className="hidden xs:inline sm:inline">
-        {isWomen ? t("women_mode_on") : t("women_mode_off")}
-      </span>
+      <span>{isWomen ? t("women_mode_on") : t("women_mode_off")}</span>
     </Button>
   );
 }

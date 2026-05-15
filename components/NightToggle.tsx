@@ -32,16 +32,14 @@ export default function NightToggle() {
       aria-pressed={isNight}
       aria-label={isNight ? "Switch to day mode" : "Switch to night mode"}
       disabled={pending}
-      className="gap-2"
+      className="gap-2 min-h-9"
     >
       {isNight ? (
         <Moon className="h-3.5 w-3.5" />
       ) : (
         <Sun className="h-3.5 w-3.5" />
       )}
-      <span className="hidden xs:inline sm:inline">
-        {isNight ? t("night_night") : t("night_day")}
-      </span>
+      <span>{isNight ? t("night_night") : t("night_day")}</span>
     </Button>
   );
 }

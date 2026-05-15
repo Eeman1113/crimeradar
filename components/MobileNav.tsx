@@ -36,7 +36,7 @@ export default function MobileNav() {
           <Link
             href="/"
             onClick={() => setOpen(false)}
-            className="flex items-center gap-2 rounded-md px-3 py-2 text-sm font-medium hover:bg-accent transition-colors"
+            className="flex items-center gap-3 rounded-md px-3 py-3 text-sm font-medium hover:bg-accent active:bg-accent/80 transition-colors min-h-[44px]"
           >
             <Globe className="h-4 w-4 text-muted-foreground" />
             {t("menu_all_cities")}
@@ -44,7 +44,7 @@ export default function MobileNav() {
           <Link
             href="/compare"
             onClick={() => setOpen(false)}
-            className="flex items-center gap-2 rounded-md px-3 py-2 text-sm font-medium hover:bg-accent transition-colors"
+            className="flex items-center gap-3 rounded-md px-3 py-3 text-sm font-medium hover:bg-accent active:bg-accent/80 transition-colors min-h-[44px]"
           >
             <BarChart3 className="h-4 w-4 text-muted-foreground" />
             Compare cities
@@ -52,7 +52,7 @@ export default function MobileNav() {
           <Link
             href="/methodology"
             onClick={() => setOpen(false)}
-            className="flex items-center gap-2 rounded-md px-3 py-2 text-sm font-medium hover:bg-accent transition-colors"
+            className="flex items-center gap-3 rounded-md px-3 py-3 text-sm font-medium hover:bg-accent active:bg-accent/80 transition-colors min-h-[44px]"
           >
             <FileText className="h-4 w-4 text-muted-foreground" />
             {t("nav_methodology")}
@@ -60,7 +60,7 @@ export default function MobileNav() {
           <Link
             href="/legal"
             onClick={() => setOpen(false)}
-            className="flex items-center gap-2 rounded-md px-3 py-2 text-sm font-medium hover:bg-accent transition-colors"
+            className="flex items-center gap-3 rounded-md px-3 py-3 text-sm font-medium hover:bg-accent active:bg-accent/80 transition-colors min-h-[44px]"
           >
             <Scale className="h-4 w-4 text-muted-foreground" />
             {t("menu_legal_full")}
