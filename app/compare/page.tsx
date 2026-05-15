@@ -181,6 +181,43 @@ export default function ComparePage() {
       </section>
 
       <section className="max-w-5xl mx-auto px-4 py-6 flex flex-col gap-6">
+        <div className="flex items-center gap-2 text-xs">
+          <Button
+            size="sm"
+            variant="secondary"
+            onClick={() => {
+              setPicked(new Set(candidates));
+              posthog.capture("compare_select_all", { count: candidates.length });
+            }}
+          >
+            All
+          </Button>
+          <Button
+            size="sm"
+            variant="ghost"
+            onClick={() => {
+              setPicked(new Set(candidates.filter(hasStats)));
+              posthog.capture("compare_select_with_stats", {
+                count: candidates.filter(hasStats).length,
+              });
+            }}
+          >
+            With stats only
+          </Button>
+          <Button
+            size="sm"
+            variant="ghost"
+            onClick={() => {
+              setPicked(new Set());
+              posthog.capture("compare_clear");
+            }}
+          >
+            Clear
+          </Button>
+          <span className="text-muted-foreground ml-auto">
+            {picked.size} of {candidates.length} selected
+          </span>
+        </div>
         <div className="flex flex-wrap gap-2">
           {candidates.map((c) => {
             const active = picked.has(c);
