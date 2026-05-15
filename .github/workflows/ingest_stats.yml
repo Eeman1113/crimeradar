@@ -7,6 +7,15 @@ on:
   schedule:
     - cron: "0 3 1 * *"
   workflow_dispatch:
+    inputs:
+      ncrb_csv_url:
+        description: "Optional URL to NCRB megacity CSV (triggers NCRB ingest)"
+        required: false
+        type: string
+      ncrb_year:
+        description: "NCRB report year (e.g. 2022)"
+        required: false
+        type: string
 
 permissions:
   contents: write
@@ -39,6 +48,12 @@ jobs:
 
       - name: Delhi — annual crime stats (Delhi Police PDF)
         run: node scripts/ingest_delhi_stats.mjs
+
+      - name: NCRB megacities — annual ingest (manual)
+        if: ${{ github.event_name == 'workflow_dispatch' && inputs.ncrb_csv_url != '' && inputs.ncrb_year != '' }}
+        run: |
+          curl -sSL --max-time 60 -o /tmp/ncrb.csv "${{ inputs.ncrb_csv_url }}"
+          node scripts/ingest_ncrb.mjs --csv /tmp/ncrb.csv --year "${{ inputs.ncrb_year }}" --source "${{ inputs.ncrb_csv_url }}"
 
       - name: Commit & push if data changed
         run: |

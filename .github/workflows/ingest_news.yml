@@ -28,24 +28,13 @@ jobs:
 
       - run: npm ci
 
-      - name: Mumbai — ward news
-        run: node scripts/ingest_ward_news.mjs mumbai
-      - name: Bangalore — ward news
-        run: node scripts/ingest_ward_news.mjs bangalore
-      - name: Delhi — ward news
-        run: node scripts/ingest_ward_news.mjs delhi
-      - name: Chennai — ward news
-        run: node scripts/ingest_ward_news.mjs chennai
-      - name: Hyderabad — ward news
-        run: node scripts/ingest_ward_news.mjs hyderabad
-      - name: Kolkata — ward news
-        run: node scripts/ingest_ward_news.mjs kolkata
-      - name: Pune — ward news
-        run: node scripts/ingest_ward_news.mjs pune
-      - name: Gurugram — ward news
-        run: node scripts/ingest_ward_news.mjs gurugram
-      - name: Noida — ward news
-        run: node scripts/ingest_ward_news.mjs noida
+      - name: Refresh ward news for every city in the manifest
+        run: |
+          for city in $(jq -r '.[].id' data/cities.manifest.json); do
+            echo "::group::$city"
+            node scripts/ingest_ward_news.mjs "$city"
+            echo "::endgroup::"
+          done
 
       - name: Commit & push if data changed
         run: |
