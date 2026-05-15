@@ -232,8 +232,9 @@ export default function WardMap({ city, wards }: Props) {
               ?.ward_id;
             if (!id) return;
             const qs = isNight ? "?night=1" : "";
+            // Next.js router prefixes basePath itself — don't wrap with withBase.
             router.push(
-              `${withBase(`/${city}/ward/${wardSlug(id)}/`)}${qs}` as never,
+              `/${city}/ward/${wardSlug(id)}/${qs}` as never,
             );
           },
         );

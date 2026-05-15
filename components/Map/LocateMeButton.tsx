@@ -68,8 +68,9 @@ export default function LocateMeButton({ city }: { city: CityId }) {
       }
       const isNight = params.get("night") === "1";
       const qs = isNight ? "?night=1" : "";
+      // Next.js router prefixes basePath itself — don't wrap with withBase.
       router.push(
-        `${withBase(`/${city}/ward/${wardSlug(wardId)}/`)}${qs}` as never,
+        `/${city}/ward/${wardSlug(wardId)}/${qs}` as never,
       );
     } catch (err) {
       setStatus("error");
