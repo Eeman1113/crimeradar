@@ -1,11 +1,9 @@
 "use client";
 
-import { ArrowRight } from "lucide-react";
 import Link from "next/link";
 import { CITIES, CITY_IDS } from "@/lib/cities";
 import { listAbsconders } from "@/lib/absconders";
 import { cityDataQuality, listWards, monthlyStatsMeta } from "@/lib/wards";
-import { Badge } from "@/components/ui/badge";
 import {
   Card,
   CardContent,
@@ -15,12 +13,12 @@ import {
 } from "@/components/ui/card";
 import { Separator } from "@/components/ui/separator";
 import LocateAnywhereButton from "@/components/LocateAnywhereButton";
-import posthog from "posthog-js";
+import CityPicker, { type CityTile } from "@/components/CityPicker";
 import { useI18n } from "@/lib/i18n/provider";
 
 export default function Home() {
   const { t } = useI18n();
-  const tiles = CITY_IDS.map((id) => {
+  const tiles: CityTile[] = CITY_IDS.map((id) => {
     const cfg = CITIES[id];
     const quality = cityDataQuality(id);
     const wardCount = listWards(id).length;
@@ -30,7 +28,15 @@ export default function Home() {
     ).length;
     const absconderCount = listAbsconders(id).filter((a) => !a.isOrganisation)
       .length;
-    return { ...cfg, quality, wardCount, statsCategories, absconderCount };
+    return {
+      id,
+      name: cfg.name,
+      state: cfg.state,
+      quality,
+      wardCount,
+      statsCategories,
+      absconderCount,
+    };
   });
 
   return (
@@ -84,73 +90,7 @@ export default function Home() {
             </span>
           </div>
         </div>
-        <ul className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4 auto-rows-fr">
-          {tiles.map((tile, idx) => {
-            const hasAny =
-              tile.wardCount > 0 ||
-              tile.statsCategories > 0 ||
-              tile.absconderCount > 0;
-            return (
-              <li
-                key={tile.id}
-                className="h-full animate-fade-in-up"
-                style={{ animationDelay: `${200 + idx * 45}ms` }}
-              >
-                <Link
-                  href={`/${tile.id}/`}
-                  className="block group h-full focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 focus-visible:ring-offset-background rounded-xl"
-                  onClick={() => posthog.capture("city_selected", { city_id: tile.id, city_name: tile.name })}
-                >
-                  <Card className="h-full flex flex-col group-hover:bg-accent/40 group-hover:border-foreground/20 group-hover:shadow-md group-hover:-translate-y-0.5">
-                    <CardHeader className="pb-3">
-                      <div className="flex items-start justify-between gap-2">
-                        <div className="min-w-0">
-                          <CardTitle className="text-lg">
-                            {tile.name}
-                          </CardTitle>
-                          <p className="text-xs text-muted-foreground mt-0.5">
-                            {tile.state}
-                          </p>
-                        </div>
-                        <ArrowRight className="h-4 w-4 text-muted-foreground opacity-0 -translate-x-1 group-hover:opacity-100 group-hover:translate-x-0 transition-all duration-200 ease-out flex-shrink-0 mt-1" />
-                      </div>
-                    </CardHeader>
-                    <CardContent className="mt-auto flex flex-wrap items-center gap-2">
-                      {tile.wardCount > 0 ? (
-                        <Badge
-                          variant={
-                            tile.quality === "live"
-                              ? "default"
-                              : tile.quality === "calibrated"
-                                ? "secondary"
-                                : "outline"
-                          }
-                        >
-                          {t("badge_per_area", { n: tile.wardCount })}
-                        </Badge>
-                      ) : null}
-                      {tile.statsCategories > 0 ? (
-                        <Badge variant="secondary">
-                          {t("badge_city_stats")}
-                        </Badge>
-                      ) : null}
-                      {tile.absconderCount > 0 ? (
-                        <Badge variant="destructive">
-                          {t("badge_absconders", { n: tile.absconderCount })}
-                        </Badge>
-                      ) : null}
-                      {!hasAny ? (
-                        <Badge variant="outline">
-                          {t("badge_geometry_only")}
-                        </Badge>
-                      ) : null}
-                    </CardContent>
-                  </Card>
-                </Link>
-              </li>
-            );
-          })}
-        </ul>
+        <CityPicker tiles={tiles} />
 
         <Separator className="my-4" />
 

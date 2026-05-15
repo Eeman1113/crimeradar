@@ -16,6 +16,7 @@ export type StringKey =
   | "home_cta_locating"
   | "home_pick_city"
   | "home_cities_count"
+  | "home_search_placeholder"
   | "dq_title"
   | "dq_live"
   | "dq_calibrated"
@@ -71,6 +72,7 @@ const en: FullDict = {
   home_cta_locating: "Finding your area…",
   home_pick_city: "Or pick a city",
   home_cities_count: "{n} cities",
+  home_search_placeholder: "Search by city or state",
   dq_title: "Data quality scale",
   dq_live: "live",
   dq_calibrated: "calibrated",
