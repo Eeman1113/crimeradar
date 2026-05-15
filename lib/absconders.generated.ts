@@ -21,6 +21,30 @@ import kochiJson from "@/data/cities/kochi/absconders.json";
 import nagpurJson from "@/data/cities/nagpur/absconders.json";
 import kanpurJson from "@/data/cities/kanpur/absconders.json";
 import bhubaneswarJson from "@/data/cities/bhubaneswar/absconders.json";
+import patnaJson from "@/data/cities/patna/absconders.json";
+import bhopalJson from "@/data/cities/bhopal/absconders.json";
+import ranchiJson from "@/data/cities/ranchi/absconders.json";
+import thiruvananthapuramJson from "@/data/cities/thiruvananthapuram/absconders.json";
+import dehradunJson from "@/data/cities/dehradun/absconders.json";
+import gandhinagarJson from "@/data/cities/gandhinagar/absconders.json";
+import panajiJson from "@/data/cities/panaji/absconders.json";
+import raipurJson from "@/data/cities/raipur/absconders.json";
+import chandigarhJson from "@/data/cities/chandigarh/absconders.json";
+import shillongJson from "@/data/cities/shillong/absconders.json";
+import aizawlJson from "@/data/cities/aizawl/absconders.json";
+import imphalJson from "@/data/cities/imphal/absconders.json";
+import itanagarJson from "@/data/cities/itanagar/absconders.json";
+import kohimaJson from "@/data/cities/kohima/absconders.json";
+import agartalaJson from "@/data/cities/agartala/absconders.json";
+import shimlaJson from "@/data/cities/shimla/absconders.json";
+import srinagarJson from "@/data/cities/srinagar/absconders.json";
+import jammuJson from "@/data/cities/jammu/absconders.json";
+import lehJson from "@/data/cities/leh/absconders.json";
+import puducherryJson from "@/data/cities/puducherry/absconders.json";
+import port_blairJson from "@/data/cities/port_blair/absconders.json";
+import amaravatiJson from "@/data/cities/amaravati/absconders.json";
+import guwahatiJson from "@/data/cities/guwahati/absconders.json";
+import gangtokJson from "@/data/cities/gangtok/absconders.json";
 
 import type { CityId } from "./cities.generated";
 
@@ -44,4 +68,28 @@ export const ABSCONDERS_JSON: Record<CityId, unknown> = {
   nagpur: nagpurJson,
   kanpur: kanpurJson,
   bhubaneswar: bhubaneswarJson,
+  patna: patnaJson,
+  bhopal: bhopalJson,
+  ranchi: ranchiJson,
+  thiruvananthapuram: thiruvananthapuramJson,
+  dehradun: dehradunJson,
+  gandhinagar: gandhinagarJson,
+  panaji: panajiJson,
+  raipur: raipurJson,
+  chandigarh: chandigarhJson,
+  shillong: shillongJson,
+  aizawl: aizawlJson,
+  imphal: imphalJson,
+  itanagar: itanagarJson,
+  kohima: kohimaJson,
+  agartala: agartalaJson,
+  shimla: shimlaJson,
+  srinagar: srinagarJson,
+  jammu: jammuJson,
+  leh: lehJson,
+  puducherry: puducherryJson,
+  port_blair: port_blairJson,
+  amaravati: amaravatiJson,
+  guwahati: guwahatiJson,
+  gangtok: gangtokJson,
 };

@@ -21,6 +21,30 @@ import { WARDS_SEED as KOCHI_SEED } from "@/data/cities/kochi/wards-raw";
 import { WARDS_SEED as NAGPUR_SEED } from "@/data/cities/nagpur/wards-raw";
 import { WARDS_SEED as KANPUR_SEED } from "@/data/cities/kanpur/wards-raw";
 import { WARDS_SEED as BHUBANESWAR_SEED } from "@/data/cities/bhubaneswar/wards-raw";
+import { WARDS_SEED as PATNA_SEED } from "@/data/cities/patna/wards-raw";
+import { WARDS_SEED as BHOPAL_SEED } from "@/data/cities/bhopal/wards-raw";
+import { WARDS_SEED as RANCHI_SEED } from "@/data/cities/ranchi/wards-raw";
+import { WARDS_SEED as THIRUVANANTHAPURAM_SEED } from "@/data/cities/thiruvananthapuram/wards-raw";
+import { WARDS_SEED as DEHRADUN_SEED } from "@/data/cities/dehradun/wards-raw";
+import { WARDS_SEED as GANDHINAGAR_SEED } from "@/data/cities/gandhinagar/wards-raw";
+import { WARDS_SEED as PANAJI_SEED } from "@/data/cities/panaji/wards-raw";
+import { WARDS_SEED as RAIPUR_SEED } from "@/data/cities/raipur/wards-raw";
+import { WARDS_SEED as CHANDIGARH_SEED } from "@/data/cities/chandigarh/wards-raw";
+import { WARDS_SEED as SHILLONG_SEED } from "@/data/cities/shillong/wards-raw";
+import { WARDS_SEED as AIZAWL_SEED } from "@/data/cities/aizawl/wards-raw";
+import { WARDS_SEED as IMPHAL_SEED } from "@/data/cities/imphal/wards-raw";
+import { WARDS_SEED as ITANAGAR_SEED } from "@/data/cities/itanagar/wards-raw";
+import { WARDS_SEED as KOHIMA_SEED } from "@/data/cities/kohima/wards-raw";
+import { WARDS_SEED as AGARTALA_SEED } from "@/data/cities/agartala/wards-raw";
+import { WARDS_SEED as SHIMLA_SEED } from "@/data/cities/shimla/wards-raw";
+import { WARDS_SEED as SRINAGAR_SEED } from "@/data/cities/srinagar/wards-raw";
+import { WARDS_SEED as JAMMU_SEED } from "@/data/cities/jammu/wards-raw";
+import { WARDS_SEED as LEH_SEED } from "@/data/cities/leh/wards-raw";
+import { WARDS_SEED as PUDUCHERRY_SEED } from "@/data/cities/puducherry/wards-raw";
+import { WARDS_SEED as PORT_BLAIR_SEED } from "@/data/cities/port_blair/wards-raw";
+import { WARDS_SEED as AMARAVATI_SEED } from "@/data/cities/amaravati/wards-raw";
+import { WARDS_SEED as GUWAHATI_SEED } from "@/data/cities/guwahati/wards-raw";
+import { WARDS_SEED as GANGTOK_SEED } from "@/data/cities/gangtok/wards-raw";
 
 import mumbaiStatsJson from "@/data/cities/mumbai/monthly_stats.json";
 import bangaloreStatsJson from "@/data/cities/bangalore/monthly_stats.json";
@@ -41,6 +65,30 @@ import kochiStatsJson from "@/data/cities/kochi/monthly_stats.json";
 import nagpurStatsJson from "@/data/cities/nagpur/monthly_stats.json";
 import kanpurStatsJson from "@/data/cities/kanpur/monthly_stats.json";
 import bhubaneswarStatsJson from "@/data/cities/bhubaneswar/monthly_stats.json";
+import patnaStatsJson from "@/data/cities/patna/monthly_stats.json";
+import bhopalStatsJson from "@/data/cities/bhopal/monthly_stats.json";
+import ranchiStatsJson from "@/data/cities/ranchi/monthly_stats.json";
+import thiruvananthapuramStatsJson from "@/data/cities/thiruvananthapuram/monthly_stats.json";
+import dehradunStatsJson from "@/data/cities/dehradun/monthly_stats.json";
+import gandhinagarStatsJson from "@/data/cities/gandhinagar/monthly_stats.json";
+import panajiStatsJson from "@/data/cities/panaji/monthly_stats.json";
+import raipurStatsJson from "@/data/cities/raipur/monthly_stats.json";
+import chandigarhStatsJson from "@/data/cities/chandigarh/monthly_stats.json";
+import shillongStatsJson from "@/data/cities/shillong/monthly_stats.json";
+import aizawlStatsJson from "@/data/cities/aizawl/monthly_stats.json";
+import imphalStatsJson from "@/data/cities/imphal/monthly_stats.json";
+import itanagarStatsJson from "@/data/cities/itanagar/monthly_stats.json";
+import kohimaStatsJson from "@/data/cities/kohima/monthly_stats.json";
+import agartalaStatsJson from "@/data/cities/agartala/monthly_stats.json";
+import shimlaStatsJson from "@/data/cities/shimla/monthly_stats.json";
+import srinagarStatsJson from "@/data/cities/srinagar/monthly_stats.json";
+import jammuStatsJson from "@/data/cities/jammu/monthly_stats.json";
+import lehStatsJson from "@/data/cities/leh/monthly_stats.json";
+import puducherryStatsJson from "@/data/cities/puducherry/monthly_stats.json";
+import port_blairStatsJson from "@/data/cities/port_blair/monthly_stats.json";
+import amaravatiStatsJson from "@/data/cities/amaravati/monthly_stats.json";
+import guwahatiStatsJson from "@/data/cities/guwahati/monthly_stats.json";
+import gangtokStatsJson from "@/data/cities/gangtok/monthly_stats.json";
 
 import mumbaiHistoryJson from "@/data/cities/mumbai/monthly_stats_history.json";
 import bangaloreHistoryJson from "@/data/cities/bangalore/monthly_stats_history.json";
@@ -61,6 +109,30 @@ import kochiHistoryJson from "@/data/cities/kochi/monthly_stats_history.json";
 import nagpurHistoryJson from "@/data/cities/nagpur/monthly_stats_history.json";
 import kanpurHistoryJson from "@/data/cities/kanpur/monthly_stats_history.json";
 import bhubaneswarHistoryJson from "@/data/cities/bhubaneswar/monthly_stats_history.json";
+import patnaHistoryJson from "@/data/cities/patna/monthly_stats_history.json";
+import bhopalHistoryJson from "@/data/cities/bhopal/monthly_stats_history.json";
+import ranchiHistoryJson from "@/data/cities/ranchi/monthly_stats_history.json";
+import thiruvananthapuramHistoryJson from "@/data/cities/thiruvananthapuram/monthly_stats_history.json";
+import dehradunHistoryJson from "@/data/cities/dehradun/monthly_stats_history.json";
+import gandhinagarHistoryJson from "@/data/cities/gandhinagar/monthly_stats_history.json";
+import panajiHistoryJson from "@/data/cities/panaji/monthly_stats_history.json";
+import raipurHistoryJson from "@/data/cities/raipur/monthly_stats_history.json";
+import chandigarhHistoryJson from "@/data/cities/chandigarh/monthly_stats_history.json";
+import shillongHistoryJson from "@/data/cities/shillong/monthly_stats_history.json";
+import aizawlHistoryJson from "@/data/cities/aizawl/monthly_stats_history.json";
+import imphalHistoryJson from "@/data/cities/imphal/monthly_stats_history.json";
+import itanagarHistoryJson from "@/data/cities/itanagar/monthly_stats_history.json";
+import kohimaHistoryJson from "@/data/cities/kohima/monthly_stats_history.json";
+import agartalaHistoryJson from "@/data/cities/agartala/monthly_stats_history.json";
+import shimlaHistoryJson from "@/data/cities/shimla/monthly_stats_history.json";
+import srinagarHistoryJson from "@/data/cities/srinagar/monthly_stats_history.json";
+import jammuHistoryJson from "@/data/cities/jammu/monthly_stats_history.json";
+import lehHistoryJson from "@/data/cities/leh/monthly_stats_history.json";
+import puducherryHistoryJson from "@/data/cities/puducherry/monthly_stats_history.json";
+import port_blairHistoryJson from "@/data/cities/port_blair/monthly_stats_history.json";
+import amaravatiHistoryJson from "@/data/cities/amaravati/monthly_stats_history.json";
+import guwahatiHistoryJson from "@/data/cities/guwahati/monthly_stats_history.json";
+import gangtokHistoryJson from "@/data/cities/gangtok/monthly_stats_history.json";
 
 import mumbaiNewsJson from "@/data/cities/mumbai/ward_news.json";
 import bangaloreNewsJson from "@/data/cities/bangalore/ward_news.json";
@@ -81,6 +153,30 @@ import kochiNewsJson from "@/data/cities/kochi/ward_news.json";
 import nagpurNewsJson from "@/data/cities/nagpur/ward_news.json";
 import kanpurNewsJson from "@/data/cities/kanpur/ward_news.json";
 import bhubaneswarNewsJson from "@/data/cities/bhubaneswar/ward_news.json";
+import patnaNewsJson from "@/data/cities/patna/ward_news.json";
+import bhopalNewsJson from "@/data/cities/bhopal/ward_news.json";
+import ranchiNewsJson from "@/data/cities/ranchi/ward_news.json";
+import thiruvananthapuramNewsJson from "@/data/cities/thiruvananthapuram/ward_news.json";
+import dehradunNewsJson from "@/data/cities/dehradun/ward_news.json";
+import gandhinagarNewsJson from "@/data/cities/gandhinagar/ward_news.json";
+import panajiNewsJson from "@/data/cities/panaji/ward_news.json";
+import raipurNewsJson from "@/data/cities/raipur/ward_news.json";
+import chandigarhNewsJson from "@/data/cities/chandigarh/ward_news.json";
+import shillongNewsJson from "@/data/cities/shillong/ward_news.json";
+import aizawlNewsJson from "@/data/cities/aizawl/ward_news.json";
+import imphalNewsJson from "@/data/cities/imphal/ward_news.json";
+import itanagarNewsJson from "@/data/cities/itanagar/ward_news.json";
+import kohimaNewsJson from "@/data/cities/kohima/ward_news.json";
+import agartalaNewsJson from "@/data/cities/agartala/ward_news.json";
+import shimlaNewsJson from "@/data/cities/shimla/ward_news.json";
+import srinagarNewsJson from "@/data/cities/srinagar/ward_news.json";
+import jammuNewsJson from "@/data/cities/jammu/ward_news.json";
+import lehNewsJson from "@/data/cities/leh/ward_news.json";
+import puducherryNewsJson from "@/data/cities/puducherry/ward_news.json";
+import port_blairNewsJson from "@/data/cities/port_blair/ward_news.json";
+import amaravatiNewsJson from "@/data/cities/amaravati/ward_news.json";
+import guwahatiNewsJson from "@/data/cities/guwahati/ward_news.json";
+import gangtokNewsJson from "@/data/cities/gangtok/ward_news.json";
 
 import type { WardSeed } from "@/data/cities/mumbai/wards-raw";
 import type { CityId } from "./cities.generated";
@@ -107,6 +203,30 @@ export const SEEDS: Record<CityId, WardSeed[]> = {
   nagpur: NAGPUR_SEED,
   kanpur: KANPUR_SEED,
   bhubaneswar: BHUBANESWAR_SEED,
+  patna: PATNA_SEED,
+  bhopal: BHOPAL_SEED,
+  ranchi: RANCHI_SEED,
+  thiruvananthapuram: THIRUVANANTHAPURAM_SEED,
+  dehradun: DEHRADUN_SEED,
+  gandhinagar: GANDHINAGAR_SEED,
+  panaji: PANAJI_SEED,
+  raipur: RAIPUR_SEED,
+  chandigarh: CHANDIGARH_SEED,
+  shillong: SHILLONG_SEED,
+  aizawl: AIZAWL_SEED,
+  imphal: IMPHAL_SEED,
+  itanagar: ITANAGAR_SEED,
+  kohima: KOHIMA_SEED,
+  agartala: AGARTALA_SEED,
+  shimla: SHIMLA_SEED,
+  srinagar: SRINAGAR_SEED,
+  jammu: JAMMU_SEED,
+  leh: LEH_SEED,
+  puducherry: PUDUCHERRY_SEED,
+  port_blair: PORT_BLAIR_SEED,
+  amaravati: AMARAVATI_SEED,
+  guwahati: GUWAHATI_SEED,
+  gangtok: GANGTOK_SEED,
 };
 
 export const STATS_JSON: Record<CityId, unknown> = {
@@ -129,6 +249,30 @@ export const STATS_JSON: Record<CityId, unknown> = {
   nagpur: nagpurStatsJson,
   kanpur: kanpurStatsJson,
   bhubaneswar: bhubaneswarStatsJson,
+  patna: patnaStatsJson,
+  bhopal: bhopalStatsJson,
+  ranchi: ranchiStatsJson,
+  thiruvananthapuram: thiruvananthapuramStatsJson,
+  dehradun: dehradunStatsJson,
+  gandhinagar: gandhinagarStatsJson,
+  panaji: panajiStatsJson,
+  raipur: raipurStatsJson,
+  chandigarh: chandigarhStatsJson,
+  shillong: shillongStatsJson,
+  aizawl: aizawlStatsJson,
+  imphal: imphalStatsJson,
+  itanagar: itanagarStatsJson,
+  kohima: kohimaStatsJson,
+  agartala: agartalaStatsJson,
+  shimla: shimlaStatsJson,
+  srinagar: srinagarStatsJson,
+  jammu: jammuStatsJson,
+  leh: lehStatsJson,
+  puducherry: puducherryStatsJson,
+  port_blair: port_blairStatsJson,
+  amaravati: amaravatiStatsJson,
+  guwahati: guwahatiStatsJson,
+  gangtok: gangtokStatsJson,
 };
 
 export const HISTORY_JSON: Record<CityId, unknown> = {
@@ -151,6 +295,30 @@ export const HISTORY_JSON: Record<CityId, unknown> = {
   nagpur: nagpurHistoryJson,
   kanpur: kanpurHistoryJson,
   bhubaneswar: bhubaneswarHistoryJson,
+  patna: patnaHistoryJson,
+  bhopal: bhopalHistoryJson,
+  ranchi: ranchiHistoryJson,
+  thiruvananthapuram: thiruvananthapuramHistoryJson,
+  dehradun: dehradunHistoryJson,
+  gandhinagar: gandhinagarHistoryJson,
+  panaji: panajiHistoryJson,
+  raipur: raipurHistoryJson,
+  chandigarh: chandigarhHistoryJson,
+  shillong: shillongHistoryJson,
+  aizawl: aizawlHistoryJson,
+  imphal: imphalHistoryJson,
+  itanagar: itanagarHistoryJson,
+  kohima: kohimaHistoryJson,
+  agartala: agartalaHistoryJson,
+  shimla: shimlaHistoryJson,
+  srinagar: srinagarHistoryJson,
+  jammu: jammuHistoryJson,
+  leh: lehHistoryJson,
+  puducherry: puducherryHistoryJson,
+  port_blair: port_blairHistoryJson,
+  amaravati: amaravatiHistoryJson,
+  guwahati: guwahatiHistoryJson,
+  gangtok: gangtokHistoryJson,
 };
 
 export const NEWS_JSON: Record<CityId, unknown> = {
@@ -173,4 +341,28 @@ export const NEWS_JSON: Record<CityId, unknown> = {
   nagpur: nagpurNewsJson,
   kanpur: kanpurNewsJson,
   bhubaneswar: bhubaneswarNewsJson,
+  patna: patnaNewsJson,
+  bhopal: bhopalNewsJson,
+  ranchi: ranchiNewsJson,
+  thiruvananthapuram: thiruvananthapuramNewsJson,
+  dehradun: dehradunNewsJson,
+  gandhinagar: gandhinagarNewsJson,
+  panaji: panajiNewsJson,
+  raipur: raipurNewsJson,
+  chandigarh: chandigarhNewsJson,
+  shillong: shillongNewsJson,
+  aizawl: aizawlNewsJson,
+  imphal: imphalNewsJson,
+  itanagar: itanagarNewsJson,
+  kohima: kohimaNewsJson,
+  agartala: agartalaNewsJson,
+  shimla: shimlaNewsJson,
+  srinagar: srinagarNewsJson,
+  jammu: jammuNewsJson,
+  leh: lehNewsJson,
+  puducherry: puducherryNewsJson,
+  port_blair: port_blairNewsJson,
+  amaravati: amaravatiNewsJson,
+  guwahati: guwahatiNewsJson,
+  gangtok: gangtokNewsJson,
 };
