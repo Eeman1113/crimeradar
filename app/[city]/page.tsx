@@ -58,20 +58,21 @@ export default async function CityHome({
 
   return (
     <div className="flex-1 flex flex-col">
-      <section className="border-b">
+      <section className="border-b animate-fade-in-up">
         <div className="max-w-6xl mx-auto px-4 py-6 sm:py-10 flex flex-col gap-5">
           <div className="flex flex-col sm:flex-row sm:items-end sm:justify-between gap-4">
             <div className="min-w-0">
               <Link
                 href="/"
-                className="inline-flex items-center gap-1.5 text-xs text-muted-foreground hover:text-foreground transition-colors"
+                className="inline-flex items-center gap-1.5 text-xs text-muted-foreground hover:text-foreground transition-colors group"
               >
-                <ArrowLeft className="h-3.5 w-3.5" /> All cities
+                <ArrowLeft className="h-3.5 w-3.5 transition-transform duration-200 ease-out group-hover:-translate-x-0.5" />
+                All cities
               </Link>
               <h1 className="mt-2 text-3xl sm:text-4xl font-semibold tracking-tight">
                 {cfg.name}
               </h1>
-              <p className="mt-1 text-muted-foreground max-w-2xl text-sm sm:text-base">
+              <p className="mt-1 text-muted-foreground max-w-2xl text-sm sm:text-base leading-relaxed">
                 Estimated risk per {cfg.unit} with a night-time multiplier
                 applied per crime type.
               </p>
@@ -98,7 +99,10 @@ export default async function CityHome({
         </div>
       </section>
 
-      <section className="flex-1 max-w-6xl w-full mx-auto px-4 py-4 sm:py-6 grid lg:grid-cols-[1fr_320px] gap-4 lg:gap-6">
+      <section
+        className="flex-1 max-w-6xl w-full mx-auto px-4 py-4 sm:py-6 grid lg:grid-cols-[1fr_320px] gap-4 lg:gap-6 animate-fade-in-up"
+        style={{ animationDelay: "80ms" }}
+      >
         <div className="flex flex-col gap-2">
           <div className="h-[55vh] min-h-[340px] sm:h-[60vh] sm:min-h-[400px] lg:h-[65vh] lg:min-h-[440px]">
             <Suspense fallback={<MapSkeleton />}>
@@ -146,7 +150,10 @@ export default async function CityHome({
       </section>
 
       {wards.length > 0 ? (
-        <section className="max-w-6xl w-full mx-auto px-4 pb-6">
+        <section
+          className="max-w-6xl w-full mx-auto px-4 pb-6 animate-fade-in-up"
+          style={{ animationDelay: "160ms" }}
+        >
           <Card>
             <CardHeader className="pb-3">
               <CardTitle className="text-base">
@@ -166,7 +173,10 @@ export default async function CityHome({
       ) : null}
 
       {showHistory ? (
-        <section className="max-w-6xl w-full mx-auto px-4 pb-12">
+        <section
+          className="max-w-6xl w-full mx-auto px-4 pb-12 animate-fade-in-up"
+          style={{ animationDelay: "240ms" }}
+        >
           <Card>
             <CardHeader className="pb-3">
               <CardTitle className="text-base flex items-center gap-1.5">
@@ -195,6 +205,6 @@ export default async function CityHome({
 
 function MapSkeleton() {
   return (
-    <div className="w-full h-full rounded-lg bg-muted border animate-pulse" />
+    <div className="w-full h-full rounded-lg bg-muted border animate-pulse [animation-duration:1800ms]" />
   );
 }

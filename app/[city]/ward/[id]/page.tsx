@@ -65,7 +65,7 @@ export default async function WardPage({
 
   return (
     <div className="flex-1">
-      <section className="border-b">
+      <section className="border-b animate-fade-in-up">
         <div className="max-w-5xl mx-auto px-4 py-8 flex flex-col gap-4">
           <Suspense fallback={null}>
             <WardScoreDisplay city={city} ward={ward} />
@@ -80,7 +80,9 @@ export default async function WardPage({
                   ? ward.name
                   : `Ward ${ward.id}`}
               </h1>
-              <p className="mt-1 text-foreground/80">{ward.neighborhoods}</p>
+              <p className="mt-1 text-foreground/80 leading-relaxed">
+                {ward.neighborhoods}
+              </p>
               <p className="mt-2 text-xs text-muted-foreground">
                 Pop. ≈ {ward.population.toLocaleString("en-IN")} · data
                 quality:{" "}
@@ -96,7 +98,10 @@ export default async function WardPage({
         </div>
       </section>
 
-      <section className="max-w-5xl mx-auto px-4 py-8 grid lg:grid-cols-2 gap-6">
+      <section
+        className="max-w-5xl mx-auto px-4 py-8 grid lg:grid-cols-2 gap-6 animate-fade-in-up"
+        style={{ animationDelay: "80ms" }}
+      >
         <Card>
           <CardHeader>
             <CardTitle className="text-base">Reported incidents</CardTitle>
@@ -132,13 +137,17 @@ export default async function WardPage({
             <CardContent className="flex flex-col gap-2">
               {news.length > 0 ? (
                 <ul className="flex flex-col gap-2">
-                  {news.map((n) => (
-                    <li key={n.link}>
+                  {news.map((n, i) => (
+                    <li
+                      key={n.link}
+                      className="animate-fade-in-up"
+                      style={{ animationDelay: `${120 + i * 50}ms` }}
+                    >
                       <a
                         href={n.link}
                         target="_blank"
                         rel="noopener noreferrer"
-                        className="group block rounded-md border bg-card p-3 text-sm hover:bg-accent transition-colors"
+                        className="group block rounded-md border bg-card p-3 text-sm hover:bg-accent hover:border-foreground/20 transition-[background-color,border-color] duration-200"
                       >
                         <p className="font-medium leading-snug">{n.title}</p>
                         <p className="mt-1 text-xs text-muted-foreground flex items-center gap-1.5">
@@ -155,7 +164,7 @@ export default async function WardPage({
                               })}
                             </span>
                           ) : null}
-                          <ExternalLink className="h-3 w-3 ml-auto opacity-60 group-hover:opacity-100" />
+                          <ExternalLink className="h-3 w-3 ml-auto opacity-50 group-hover:opacity-100 transition-opacity duration-200" />
                         </p>
                       </a>
                     </li>
@@ -166,11 +175,12 @@ export default async function WardPage({
                   {concerns.map((c, i) => (
                     <li
                       key={i}
-                      className="rounded-md border bg-card p-3 text-sm"
+                      className="rounded-md border bg-card p-3 text-sm animate-fade-in-up"
+                      style={{ animationDelay: `${120 + i * 50}ms` }}
                     >
-                      <p className="text-foreground">{c.text}</p>
+                      <p className="text-foreground leading-snug">{c.text}</p>
                       {c.detail ? (
-                        <p className="mt-0.5 text-xs text-muted-foreground">
+                        <p className="mt-1 text-xs text-muted-foreground">
                           {c.detail}
                         </p>
                       ) : null}
@@ -202,7 +212,10 @@ export default async function WardPage({
       </section>
 
       {cfg.hasAbsconders ? (
-        <section className="max-w-5xl mx-auto px-4 pb-12">
+        <section
+          className="max-w-5xl mx-auto px-4 pb-12 animate-fade-in-up"
+          style={{ animationDelay: "160ms" }}
+        >
           <Card>
             <CardHeader className="pb-3">
               <CardTitle className="text-base">
@@ -214,7 +227,7 @@ export default async function WardPage({
                 wards.{" "}
                 <Link
                   href="/legal"
-                  className="underline underline-offset-2"
+                  className="underline underline-offset-2 hover:text-foreground transition-colors"
                 >
                   Naming policy
                 </Link>
@@ -222,10 +235,10 @@ export default async function WardPage({
               </CardDescription>
             </CardHeader>
             <CardContent>
-              <Button asChild variant="secondary" size="sm">
+              <Button asChild variant="secondary" size="sm" className="group">
                 <Link href={`/${city}/absconders`}>
                   View {cfg.name} absconder list
-                  <ArrowRight className="ml-1 h-4 w-4" />
+                  <ArrowRight className="ml-1 h-4 w-4 transition-transform duration-200 ease-out group-hover:translate-x-0.5" />
                 </Link>
               </Button>
             </CardContent>

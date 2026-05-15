@@ -35,16 +35,22 @@ export default function Home() {
   return (
     <div className="flex-1">
       <section className="max-w-5xl mx-auto px-4 pt-10 pb-8 sm:pt-16 flex flex-col gap-6">
-        <div className="flex flex-col gap-3 max-w-2xl">
+        <div
+          className="flex flex-col gap-3 max-w-2xl animate-fade-in-up"
+          style={{ animationDelay: "0ms" }}
+        >
           <h1 className="text-4xl sm:text-5xl font-semibold tracking-tight">
             CrimeRadar
           </h1>
-          <p className="text-base sm:text-lg text-muted-foreground">
+          <p className="text-base sm:text-lg text-muted-foreground leading-relaxed">
             {t("home_subtitle")}
           </p>
         </div>
 
-        <Card className="border-primary/20 bg-primary/5">
+        <Card
+          className="border-primary/20 bg-primary/5 animate-fade-in-up"
+          style={{ animationDelay: "80ms" }}
+        >
           <CardHeader className="pb-3">
             <CardTitle className="text-base sm:text-lg">
               {t("home_cta_title")}
@@ -58,14 +64,17 @@ export default function Home() {
       </section>
 
       <section className="max-w-5xl mx-auto px-4 pb-12 flex flex-col gap-4">
-        <div className="flex items-end justify-between gap-3 flex-wrap">
+        <div
+          className="flex items-end justify-between gap-3 flex-wrap animate-fade-in-up"
+          style={{ animationDelay: "160ms" }}
+        >
           <h2 className="text-lg sm:text-xl font-semibold tracking-tight">
             {t("home_pick_city")}
           </h2>
           <div className="flex items-center gap-3 text-xs">
             <Link
               href="/compare"
-              className="text-muted-foreground hover:text-foreground underline underline-offset-2"
+              className="text-muted-foreground hover:text-foreground underline underline-offset-2 transition-colors"
             >
               Compare cities →
             </Link>
@@ -75,29 +84,33 @@ export default function Home() {
           </div>
         </div>
         <ul className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4 auto-rows-fr">
-          {tiles.map((tile) => {
+          {tiles.map((tile, idx) => {
             const hasAny =
               tile.wardCount > 0 ||
               tile.statsCategories > 0 ||
               tile.absconderCount > 0;
             return (
-              <li key={tile.id} className="h-full">
+              <li
+                key={tile.id}
+                className="h-full animate-fade-in-up"
+                style={{ animationDelay: `${200 + idx * 45}ms` }}
+              >
                 <Link
                   href={`/${tile.id}/`}
                   className="block group h-full focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 focus-visible:ring-offset-background rounded-xl"
                 >
-                  <Card className="h-full flex flex-col transition-all group-hover:bg-accent/50 group-hover:border-foreground/20 group-hover:shadow-md">
+                  <Card className="h-full flex flex-col group-hover:bg-accent/40 group-hover:border-foreground/20 group-hover:shadow-md group-hover:-translate-y-0.5">
                     <CardHeader className="pb-3">
                       <div className="flex items-start justify-between gap-2">
                         <div className="min-w-0">
                           <CardTitle className="text-lg">
                             {tile.name}
                           </CardTitle>
-                          <p className="text-xs text-muted-foreground">
+                          <p className="text-xs text-muted-foreground mt-0.5">
                             {tile.state}
                           </p>
                         </div>
-                        <ArrowRight className="h-4 w-4 text-muted-foreground opacity-0 group-hover:opacity-100 transition-opacity flex-shrink-0 mt-1" />
+                        <ArrowRight className="h-4 w-4 text-muted-foreground opacity-0 -translate-x-1 group-hover:opacity-100 group-hover:translate-x-0 transition-all duration-200 ease-out flex-shrink-0 mt-1" />
                       </div>
                     </CardHeader>
                     <CardContent className="mt-auto flex flex-wrap items-center gap-2">
@@ -139,7 +152,10 @@ export default function Home() {
 
         <Separator className="my-4" />
 
-        <Card>
+        <Card
+          className="animate-fade-in-up"
+          style={{ animationDelay: `${200 + tiles.length * 45 + 40}ms` }}
+        >
           <CardHeader className="pb-3">
             <CardTitle className="text-sm">{t("dq_title")}</CardTitle>
           </CardHeader>
@@ -169,11 +185,17 @@ export default function Home() {
               — {t("dq_empty_desc")}
             </p>
             <p className="pt-2">
-              <Link href="/methodology" className="underline">
+              <Link
+                href="/methodology"
+                className="underline underline-offset-2 hover:text-foreground transition-colors"
+              >
                 {t("nav_methodology")}
               </Link>{" "}
               ·{" "}
-              <Link href="/legal" className="underline">
+              <Link
+                href="/legal"
+                className="underline underline-offset-2 hover:text-foreground transition-colors"
+              >
                 {t("nav_legal")}
               </Link>
               .

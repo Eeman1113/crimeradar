@@ -10,17 +10,17 @@ import { withBase } from "@/lib/site";
 export default function HeaderBar() {
   const { t } = useI18n();
   return (
-    <header className="sticky top-0 z-30 border-b bg-background/80 backdrop-blur supports-[backdrop-filter]:bg-background/70">
+    <header className="sticky top-0 z-30 border-b bg-background/80 backdrop-blur supports-[backdrop-filter]:bg-background/70 animate-fade-in-down">
       <div className="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between gap-2">
         <Link
           href="/"
-          className="flex items-center gap-2 font-semibold tracking-tight text-foreground min-w-0"
+          className="flex items-center gap-2 font-semibold tracking-tight text-foreground min-w-0 group"
         >
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img
             src={withBase("/icon.webp")}
             alt=""
-            className="h-7 w-7 rounded-md flex-shrink-0"
+            className="h-7 w-7 rounded-md flex-shrink-0 transition-transform duration-300 ease-out group-hover:rotate-3"
             aria-hidden
           />
           <span className="truncate">
@@ -34,19 +34,19 @@ export default function HeaderBar() {
           <nav className="hidden md:flex items-center gap-1">
             <Link
               href="/compare"
-              className="text-muted-foreground hover:text-foreground px-3 py-1.5 rounded-md transition-colors"
+              className="text-muted-foreground hover:text-foreground hover:bg-accent/60 px-3 py-1.5 rounded-md transition-colors duration-200"
             >
               Compare
             </Link>
             <Link
               href="/methodology"
-              className="text-muted-foreground hover:text-foreground px-3 py-1.5 rounded-md transition-colors"
+              className="text-muted-foreground hover:text-foreground hover:bg-accent/60 px-3 py-1.5 rounded-md transition-colors duration-200"
             >
               {t("nav_methodology")}
             </Link>
             <Link
               href="/legal"
-              className="text-muted-foreground hover:text-foreground px-3 py-1.5 rounded-md transition-colors"
+              className="text-muted-foreground hover:text-foreground hover:bg-accent/60 px-3 py-1.5 rounded-md transition-colors duration-200"
             >
               {t("nav_legal")}
             </Link>
