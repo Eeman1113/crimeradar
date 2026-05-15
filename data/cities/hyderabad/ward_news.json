@@ -1,6 +1,732 @@
 {
   "source": "https://news.google.com/rss/search",
-  "scrapedAt": null,
-  "wards": {},
-  "notes": "Pending first ingest. Run: node scripts/ingest_ward_news.mjs hyderabad"
+  "scrapedAt": "2026-05-15T16:59:40.992Z",
+  "wards": {
+    "Ward 91 Khairatabad": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"91 Khairatabad\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 105 Gachibowli": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"105 Gachibowli\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 60 Rajendra Nagar": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"60 Rajendra Nagar\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 95 Jubilee Hills": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"95 Jubilee Hills\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 6 Nacharam": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"6 Nacharam\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 59 Mailardevpally": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"59 Mailardevpally\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 133 Macha Bolarum": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"133 Macha Bolarum\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 1 Kapra": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"1 Kapra\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 136 Neredmet": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"136 Neredmet\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 2 Dr A S Rao Nagar": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"2 Dr A S Rao Nagar\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 5 Mallapur": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"5 Mallapur\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 7 Chilka Nagar": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"7 Chilka Nagar\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 10 Uppal": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"10 Uppal\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 12 Mansoorabad": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"12 Mansoorabad\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 16 Hasthinapuram": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"16 Hasthinapuram\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 14 BN Reddy Nagar": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"14 BN Reddy Nagar\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 15 Vanasthalipuram": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"15 Vanasthalipuram\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 139 East Anand Bagh": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"139 East Anand Bagh\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 20 RK Puram": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"20 RK Puram\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 21 Kothapet": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"21 Kothapet\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 8 Habsiguda": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"8 Habsiguda\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 9 Ramanthapur": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"9 Ramanthapur\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 92 Venkateshwara Colony": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"92 Venkateshwara Colony\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 93 Banjara Hills": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"93 Banjara Hills\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 126 Jagathgirigutta": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"126 Jagathgirigutta\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 124 Alwyn Colony": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"124 Alwyn Colony\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 128 Chintal": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"128 Chintal\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 132 Jeedimetla": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"132 Jeedimetla\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 130 Subash Nagar": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"130 Subash Nagar\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 129 Suraram": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"129 Suraram\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 125 Gajularamaram": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"125 Gajularamaram\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 116 Allapur": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"116 Allapur\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 114 KPHB Colony": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"114 KPHB Colony\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 108 Miyapur": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"108 Miyapur\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 107 Madhapur": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"107 Madhapur\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 109 Hafeezpet": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"109 Hafeezpet\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 110 Chandanagar": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"110 Chandanagar\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 106 Serilingampally": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"106 Serilingampally\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 104 Kondapur": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"104 Kondapur\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 78 Gunfoundry": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"78 Gunfoundry\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 79 Himayath Nagar": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"79 Himayath Nagar\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 84 Bagh Amberpet": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"84 Bagh Amberpet\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 81 Nallakunta": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"81 Nallakunta\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 85 Adikmet": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"85 Adikmet\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 87 Ramnagar": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"87 Ramnagar\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 89 Gandhinagar": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"89 Gandhinagar\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 86 Musheerabad": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"86 Musheerabad\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 146 Boudha Nagar": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"146 Boudha Nagar\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 88 Bholakpur": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"88 Bholakpur\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 145 Seethaphalmandi": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"145 Seethaphalmandi\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 147 Bansilapet": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"147 Bansilapet\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 40 Riyasat Nagar": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"40 Riyasat Nagar\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 36 Lalithabagh": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"36 Lalithabagh\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 35 Gowlipura": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"35 Gowlipura\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 44 Uppuguda": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"44 Uppuguda\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 45 Jangammet": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"45 Jangammet\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 48 Shalibanda": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"48 Shalibanda\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 43 Chandrayangutta": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"43 Chandrayangutta\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 46 Falaknuma": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"46 Falaknuma\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 47 Nawab Saheb Kunta": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"47 Nawab Saheb Kunta\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 54 Jahanuma": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"54 Jahanuma\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 55 Ramnaspura": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"55 Ramnaspura\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 53 Doodh Bowli": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"53 Doodh Bowli\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 33 Moghalpura": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"33 Moghalpura\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 52 Puranapool": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"52 Puranapool\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 32 Patthergatti": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"32 Patthergatti\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 49 Ghansi Bazar": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"49 Ghansi Bazar\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 94 Shaikpet": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"94 Shaikpet\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 76 Mallepally": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"76 Mallepally\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 63 Mangalhat": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"63 Mangalhat\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 64 Dattatreya Nagar": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"64 Dattatreya Nagar\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 73 Vijay Nagar Colony": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"73 Vijay Nagar Colony\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 72 Asif Nagar": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"72 Asif Nagar\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 70 Mehdipatnam": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"70 Mehdipatnam\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 71 Gudimalkapur": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"71 Gudimalkapur\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 69 Nanal Nagar": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"69 Nanal Nagar\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 68 Tolichowki": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"68 Tolichowki\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 67 Golconda": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"67 Golconda\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 66 Langar Houz": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"66 Langar Houz\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 100 Sanath Nagar": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"100 Sanath Nagar\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 98 Ameerpet": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"98 Ameerpet\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 97 Somajiguda": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"97 Somajiguda\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 96 Yousufguda": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"96 Yousufguda\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 102 Rahmath Nagar": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"102 Rahmath Nagar\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 101 Erragadda": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"101 Erragadda\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 103 Borabanda": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"103 Borabanda\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 99 Vengal Rao Nagar": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"99 Vengal Rao Nagar\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 150 Monda Market": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"150 Monda Market\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 148 Ramgopalpet": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"148 Ramgopalpet\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 149 Begumpet": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"149 Begumpet\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 90 Kavadiguda": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"90 Kavadiguda\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 117 Moosapet": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"117 Moosapet\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 118 Fateh Nagar": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"118 Fateh Nagar\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 127 Rangareddy Nagar": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"127 Rangareddy Nagar\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 120 Balanagar": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"120 Balanagar\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 121 Kukatpally": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"121 Kukatpally\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 123 Hydernagar": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"123 Hydernagar\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 122 Vivekananda Nagar Colony": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"122 Vivekananda Nagar Colony\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 119 Old Bowenpally": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"119 Old Bowenpally\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 135 Venkatapuram": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"135 Venkatapuram\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 134 Alwal": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"134 Alwal\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 131 Quthbullapur": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"131 Quthbullapur\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 115 Balaji Nagar": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"115 Balaji Nagar\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 143 Tarnaka": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"143 Tarnaka\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 144 Mettuguda": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"144 Mettuguda\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 138 Moula Ali": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"138 Moula Ali\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 142 Addagutta": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"142 Addagutta\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 141 Gautham Nagar": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"141 Gautham Nagar\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 137 Vinayak Nagar": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"137 Vinayak Nagar\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 140 Malkajgiri": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"140 Malkajgiri\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 23 Gaddiannaram": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"23 Gaddiannaram\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 22 Chaitanyapuri": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"22 Chaitanyapuri\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 19 Saroornagar": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"19 Saroornagar\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 18 Lingojiguda": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"18 Lingojiguda\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 38 IS Sadan": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"38 IS Sadan\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 17 Champapet": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"17 Champapet\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 27 Akbarbagh": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"27 Akbarbagh\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 24 Saidabad": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"24 Saidabad\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 25 Moosarambagh": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"25 Moosarambagh\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 26 Old Malakpet": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"26 Old Malakpet\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 28 Azampura": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"28 Azampura\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 29 Chawni": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"29 Chawni\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 37 Rein Bazar": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"37 Rein Bazar\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 37 Kurmaguda": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"37 Kurmaguda\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 39 Santhosh Nagar": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"39 Santhosh Nagar\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 41 Kanchanbagh": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"41 Kanchanbagh\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 75 Red Hills": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"75 Red Hills\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 77 Jambagh": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"77 Jambagh\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 50 Begum Bazar": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"50 Begum Bazar\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 51 Goshamahal": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"51 Goshamahal\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 62 Ziaguda": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"62 Ziaguda\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 65 Karwan": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"65 Karwan\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 34 Talab Chanchalam": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"34 Talab Chanchalam\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 83 Amberpet": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"83 Amberpet\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 82 Golnaka": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"82 Golnaka\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 80 Kachiguda": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"80 Kachiguda\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 58 Shastripuram": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"58 Shastripuram\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 57 Suleman Nagar": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"57 Suleman Nagar\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 56 Kishanbagh": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"56 Kishanbagh\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 61 Attapur": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"61 Attapur\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 112 Ramachandrapuram": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"112 Ramachandrapuram\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 111 Bharati Nagar": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"111 Bharati Nagar\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 30 Dabeerpura": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"30 Dabeerpura\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 42 Barkas": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"42 Barkas\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 74 Ahmed Nagar": {
+      "cachedAt": "2026-05-15T16:57:14.717Z",
+      "query": "\"74 Ahmed Nagar\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    }
+  },
+  "notes": "Per-ward crime-related news from Google News RSS. Queried per the ward's distinctive neighbourhood name + Hyderabad + crime keywords. Items are filtered to last 18 months and to titles containing at least one crime/police/arrest term. Up to 4 per ward."
 }

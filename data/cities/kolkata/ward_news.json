@@ -1,6 +1,471 @@
 {
   "source": "https://news.google.com/rss/search",
-  "scrapedAt": null,
-  "wards": {},
-  "notes": "Pending first ingest. Run: node scripts/ingest_ward_news.mjs kolkata"
+  "scrapedAt": "2026-05-15T17:03:28.525Z",
+  "wards": {
+    "100": {
+      "cachedAt": "2026-05-15T16:59:41.069Z",
+      "query": "\"100\" Kolkata (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "101": {
+      "cachedAt": "2026-05-15T16:59:41.069Z",
+      "query": "\"101\" Kolkata (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "102": {
+      "cachedAt": "2026-05-15T16:59:41.069Z",
+      "query": "\"102\" Kolkata (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "103": {
+      "cachedAt": "2026-05-15T16:59:41.069Z",
+      "query": "\"103\" Kolkata (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "104": {
+      "cachedAt": "2026-05-15T16:59:41.069Z",
+      "query": "\"104\" Kolkata (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "105": {
+      "cachedAt": "2026-05-15T16:59:41.069Z",
+      "query": "\"105\" Kolkata (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "106": {
+      "cachedAt": "2026-05-15T16:59:41.069Z",
+      "query": "\"106\" Kolkata (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "RG Kar case: Former Kolkata Police commissioner among 3 IPS officers suspended for ‘mishandling’ probe",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZjdkckVUTnV2WTQtejgxN2NYNFBCWHlSVTE2Y3dfMktIdzB0NTJualBHTUIyUVk5aWd5WEUyN1lianZpYlBpTTRRaURxbW9udVp2YXZvb2gxOWJKSWdqTW1LdTdwcFV1QUkwcVlpZ1NHN0pjTGVld1JHTVEyMlVyVG9DbnYyMjNvNVZFNEtpUEUzQXR3S1ZVOW9IdTYzazQtTW82M013RURBZjhYaU5yX0tJMDZ2MGYybFNxOWx0MTlxZU9NM2o5NWtiTWhwTGpoZU1TV0tJNjFST2MzTUtMQ2lxRWbSAeQBQVVfeXFMTWY3ZHJFVE51dlk0LXo4MTdjWDRQQlh5UlUxNmN3XzJLSHcwdDUybmpQR01CMlFZOWlneVhFMjdZYmp2aWJQaU00UWlEcW1vbnVadmF2b29oMTliSklnak1tS3U3cHBVdUFJMHFZaWdTRzdKY0xlZXdSR01RMjJVclRvQ252MjIzbzVWRTRLaVBFM0F0d0tWVTlvSHU2M2s0LU1vNjNNd0VEQWY4WGlOcl9LSTA2djBmMmxTcTlsdDE5cWVPTTNqOTVrYk1ocExqaGVNU1dLSTYxUk9jM01LTENpcUVm?oc=5",
+          "date": "2026-05-15T10:48:41.000Z",
+          "source": "The Indian Express"
+        },
+        {
+          "title": "Kolkata Traffic Police intensifies helmet violation drive: Over 3300 prosecution cases registered across ci...",
+          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNeVRiZG56dVEweGRfNk9RWjI5NHMzMTU2dzJuMWhQUU01aVJkSXNVZjdPN3FtQjhEckY1c3ZQQTdTY3RsTEZGZGNvRjZ3WWNPVy1lOFZvSzFBWFdLcmFqT3ZhLU5IM2h0RjZJM21OUkdFUDFHc0IzOXNsd3gtM3lVSXpxRVJyeEFnMWNNM2pOQzc1TnZDWDZXSTVIbkRCVndpamktWlYwTnlDNzNIUEw3UVlLazdGazgtejhLNERNajBqcWxMQjhleFpzYVRTQWlDemQyUWc0eWR4MVNEaFZrQkdOQTVkMVJxU3lRNHEwNzRnUGJ2THRsS1V5MXoybElmVzZBVFpxVlZ6QdIBigJBVV95cUxNeVRiZG56dVEweGRfNk9RWjI5NHMzMTU2dzJuMWhQUU01aVJkSXNVZjdPN3FtQjhEckY1c3ZQQTdTY3RsTEZGZGNvRjZ3WWNPVy1lOFZvSzFBWFdLcmFqT3ZhLU5IM2h0RjZJM21OUkdFUDFHc0IzOXNsd3gtM3lVSXpxRVJyeEFnMWNNM2pOQzc1TnZDWDZXSTVIbkRCVndpamktWlYwTnlDNzNIUEw3UVlLazdGazgtejhLNERNajBqcWxMQjhleFpzYVRTQWlDemQyUWc0eWR4MVNEaFZrQkdOQTVkMVJxU3lRNHEwNzRnUGJ2THRsS1V5MXoybElmVzZBVFpxVlZ6QQ?oc=5",
+          "date": "2026-05-13T13:26:52.000Z",
+          "source": "Bhaskar English"
+        },
+        {
+          "title": "Post-cognisance, ED’s arrest power lapses: PMLA court in ₹106-cr Axis MF case | Mumbai news",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTS1TdWd6akhWTXBFQ2M2VGFqSUtLVW9hYmxPVWlSc3hXeWZHS1VacmxhRGFzTHlOVUg1WC1MQmswa0tLMDV0T0dWTC1EdDlJQXlWc3BYdjc0MGNrSjRyTkt6RVhQN1poejJUUng2QW9CUkpPOFNLWnJtYVB3UG0wR3BmZTFUNjdrTndra2VVWFBNcWd6b3BSWEJ6MEVBbjZyWkFsRnRqTll1MUd1SHRqUDBHZEVtUVdQYjV2Nl9IRjk1M0ZzWUkyaUxudmlpU0VlbEdUMzRaeGowWWVn0gHiAUFVX3lxTFBfNGpFUjVMZDlUZ0pKSTMtWW9FRVAzWW5qS2JmQ01vSjA1ZkxHOVRha3ZaLU1NZ1FUYVV1SGx6cVhNaGQ0NWZEREhyOU1QSTJfYW5yNlVkaC0tYklnb3Q3YmlpRHRJaWNPckJsWXBXUnQ2ZlpfS2pnOU5aeWFQQmlEV2JXZkpyS3BNbi1LQWtyYngzZm9ENFJTdURoYXp1WFJsVHcybzZ2N0REOVVRZ0JWR0lqeFhBeUhDdWl1UDBCS05GS3NOMk9WaFJwYTdQT0lENUQ4TDNTcHFEU0g1Qk1qSVE?oc=5",
+          "date": "2026-03-23T07:00:00.000Z",
+          "source": "Hindustan Times"
+        },
+        {
+          "title": "Karnataka Crime Branch Arrests Nigerian National, Seizes Narcotics Worth Rs 5.15 Crore; 106 kg Ganja Recovered In Separate Puttur Operation",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWXZlMGNuWWFKb2pBYWxpVXlmQ1VDTU9jU0h4RkZ6Um1LVExLVXkwdGFTcFVrX3NXYnM5bW1hVS1mQUs1TVAzd0RudElhaFRwY1VhMnlNT2YyV2hnNmNKUElFUjhVZ1U5VW9BNGtjWjFXMHNYQ3Z0d3Y0cUc1ZGRabk9SeFNldmFmVHdfc2trRi1PLW5xdC1keHMyTVhId1ZsSVR5ZVl1b0J0XzdXTktYR3BpT2VVNHJac2pOM1hPd9IBxAFBVV95cUxOUlRlZWsxMl9fM2NHQXhQb0J4VmJDNmI0TnlndFlUMkExYmpYTnNLS2JUa0NxOTRkOENCQno4X21QMVVPU0czam1CajNobUVYZFV3U21OS1AwWU5PTFRGLWVndkVkUlJIeDZrV2xQbnNmaUdpUThZUjU2S3hPOUhHOU9lQ2dIQ1JPaTFxVXhNaFk3SHl2US1sRkpfVUJXRTNYSHBvYmpfREdlWDRYanpPbHcta3BvLXpoamJ2RjlnYUFFS2Q1?oc=5",
+          "date": "2026-01-20T08:00:00.000Z",
+          "source": "ETV Bharat"
+        }
+      ]
+    },
+    "107": {
+      "cachedAt": "2026-05-15T16:59:41.069Z",
+      "query": "\"107\" Kolkata (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "108": {
+      "cachedAt": "2026-05-15T16:59:41.069Z",
+      "query": "\"108\" Kolkata (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Rajkot police seize 108 kg ganja brought from Odisha, arrest three",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaUVWQ3lPUHRiQ1dHNV9JVWs1aURnTzB4bmlSWmtUTi1LWFNsQmpHWXN0MDFVU09rbWh3Y01nSUJQc3poRmdfcU84Z3BucDVSTXZ3MTN4eHNMa0VobWlXSi02cGQ1YUIwcWZ3VE02LVN2NkxSc1pLU2JVdUZnY0ktVmZpcmNua1RGU283amJWTmRrMmdKM2JhX01qb3FLMm10djRhRmJYU3FhdloxVThmOUVvQVMzOXBxVFl2bEJpS2pZdXhG0gHLAUFVX3lxTE81UGk4aWYxSGF1OHQ4QmhrbW1HQXJ4bXFrRzBLVG9oOGNwV1JndW4wSGVEUzlFdGJxZVVfMVh2RXRDdE9Zck5xRG9yeXdiUUMtdHZzSFdkdUtYT3JkNGk3RWJRaEwyUGlNVnUwd0xyWXl1a0g0c01TekdfZ0IwMUNtSGl5U1pKSE9haEdySjBqemlCZThGQ1A0N1ZxVUN0UzNzWjh1Wlg1ZUZjZFdid1k4Ykdtb0FPQTVXdUhZdmpnZHc4S1V3XzRNeXRz?oc=5",
+          "date": "2026-05-08T00:22:24.000Z",
+          "source": "The Indian Express"
+        }
+      ]
+    },
+    "109": {
+      "cachedAt": "2026-05-15T16:59:41.069Z",
+      "query": "\"109\" Kolkata (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "1,542 'Troublemakers' Arrested In 36 Hours Ahead Of West Bengal Assembly Polls Phase II",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcjJ4Sm5hdDFNSzNNWnF4anhpejB1Z1RhZFhGZlh0cnFvV1hjMlE3Q05GY0VkeHI4RVhfN0RoUHdPUFJ2MmdweHV3QW84LUVMLVF4bS1jc2dqRWk2WmgyWGl2Q2JoNy1MOFJGSDNxN01BOVUxaWFSZVVma3ZBS0ViT3JUYmw1Um1RZWtCblNENmFBTk5CQVlBNjdzdmFZdENBaXpmdmp1QWJaVk9vYXZEWXo4RlRLMlJkQllrSDh1RktNSWI4aGxPSEN0NGxlOFlS0gHWAUFVX3lxTE5ZU1UxangwTzJMUGJ1TWRoWHI5T2N3RkN3c0JfcmprRTBPY2N4aml3YzE3aFp0V0lXemQ1T3ZrN0x5LXFxVldxWWZyUTBRcndOWjQyOWhDMXY0R1ktcFhtV1NUWWJyZEozQ1VSQWRQUkZpRWxlaFp1QnpENlpLV01LX0sxdUtmck5ITXNmbjJwYTBHS055NTc2SWtHLUpxTThucm42MzhpX043elVUUWlnZ1R3cTlWdWZXU1o4SjVkMlZ0SU95b29rNTFOTnhfZHZmSFBEUGc?oc=5",
+          "date": "2026-04-27T07:00:00.000Z",
+          "source": "ETV Bharat"
+        },
+        {
+          "title": "Bengal polls 2nd phase: 1,095 preventive arrests made in the last 24 hours",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUDBQR1BpQTJsU3BBN09oQmJWRnZfZTFwZk1XNnZhY1NXNUxlSW5tM0VESURVRjdZbmRzYkhQeTBZNDE2ZHNqNUpfWUMtbFJDLTNrblZRd0RDQmxCaFo3c1E5RTN6U3ZoZks5YU5pa0pOOThuM0R1ZmYycWlRM3EzY1oxMzNid3hUU21nSGNZOG8yMFNxUVNqT0F5c2h2Tnk5emR2NDRjekl0UXZzRm5CMNIBsAFBVV95cUxPUDBQR1BpQTJsU3BBN09oQmJWRnZfZTFwZk1XNnZhY1NXNUxlSW5tM0VESURVRjdZbmRzYkhQeTBZNDE2ZHNqNUpfWUMtbFJDLTNrblZRd0RDQmxCaFo3c1E5RTN6U3ZoZks5YU5pa0pOOThuM0R1ZmYycWlRM3EzY1oxMzNid3hUU21nSGNZOG8yMFNxUVNqT0F5c2h2Tnk5emR2NDRjekl0UXZzRm5CMA?oc=5",
+          "date": "2026-04-27T07:00:00.000Z",
+          "source": "Social News XYZ"
+        },
+        {
+          "title": "Enforcement Directorate arrests Kolkata businessman Joy Kamdar in PMLA case tied to Sona Pappu",
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOUHZZdXYzWmxhT2hwR3l6b19VS2l2MlhaTnhzMTl3UDdpTk1lbXFDdFNBMEd4QnNiT09PaHVPdUZ1RzEyZ0tLX0U2NkotRkhLSW92V19tbEl0dWl5WkVaeDctYWE4aS0tNkp3YzBMWkxKbUpBYmpBR2hiWmRUS0VsSEVNZllIN1pXd0xJd2NTMVkwX1JkNkhhdk9McW9GM1hxQkt0YTlhckIzM0NaS25pV2JBWEp3WDdkYTg4ZXFFTVJTOHE4NXpDSnBIdVRMYjB5b1NVc2xfdXpYTGVob3hHNnpfUkQ0RnhmVEducnB2dDBYNlnSAfgBQVVfeXFMTXVfWWJBNXdwQTJaMGtQWE9jSDQ0SUxyU3RfbjFJYktuMG43Ty13NG5VT0tCNUhMS3l0eUdzZUpnSE9RY2FfaE84T1Q2V3J0Q0JZZDNVMGtHWUo4ZnNsRURVRHdJN2pJMXY4bGZUdndkY3RURU1xdUFTNjNnS3FDZW9leW1lTVI1MjREbmo5M0xTZmd4SUltS2hhM2p5LUF5eDBxNnBxd2N3aUllZldUNkJjRVlkTGdKZEdPWTdxMG04X1NqblBDdGlCanRwTnpPSWEzWWl0Wkc2WldaVHBZWExxNW9GRUdvbVIxTUxQc2l1NmgybXd3VW0?oc=5",
+          "date": "2026-04-19T07:00:00.000Z",
+          "source": "Telegraph India"
+        },
+        {
+          "title": "Kolkata Woman Dies After Being Set Ablaze, Accused Arrested",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbWx0Mk9WVWIxcnRYd2ZUNGRZX0Myakc4NG9oX0RIcDl3dWJtUWZOcVFwMWtjc2VDTFJjRVBiT0ZCQXdxRDlyQkpLTmQ2UXhHWWcwaENJY0JMdEhCOXhoQVhqQ1hyQmNjank1TmVTQ3A3YUZQdTRjU3Z2d3JkQVhyY3NKdWdXVTg0RjFLcg?oc=5",
+          "date": "2026-04-06T07:00:00.000Z",
+          "source": "The CSR Journal"
+        }
+      ]
+    },
+    "110": {
+      "cachedAt": "2026-05-15T16:59:41.069Z",
+      "query": "\"110\" Kolkata (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Buddhist monks arrested with 110 kilos of cannabis at Colombo airport in Sri Lanka",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUXB5Q1ZYWmY1dHpHSnhUem0xX2hManBxNE05TVE1VjZmOUk3QXp2QjB5LXc0ZDdhdm1MVUZ6Um5fQ0d6bnkyNzRxaC1Fc2tvUWN4NjdVRmVVLWE4MVl3WFFqSmVxRG5pa0MxX203RUNLT2Fya092aXNUMXFtR1VONFZ5SFRCbERrc2ktbEpNeHpsNUtCZEl4bDBfZXIxUGJCYWw5R3N0R1EzMldHOTlyWDVKME42M2JnTFNtMmpGWTVEalhaU1ZGUFZn?oc=5",
+          "date": "2026-04-29T06:20:13.000Z",
+          "source": "MSN"
+        },
+        {
+          "title": "Bengal’s first handloom store, opened by Gagan Tagore, turns 110",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRE42dlZNSE1TWk1zT25jUURPbVZzTjBWZHlTWXpybng1QW9lMS1rNkJkZERRX2dOWnVvOTYzVEdpZnJxeVhITzQtdWhsOXNCQkI5c0ZNeUNRaE9tTEtqaklSUjczM0dneDVmRGQzbmVKUWt6SXphWW92aDRUUVpIZ01zQ2l6VjNsNnh0UTVQbU10cUVPTEdkUm5QbzJLbUMwQWc5UHVVQnB2U1VZUUZPdm8tUG5PSWJGUW1Iei1uZjhtVzdtWmdWYU5xT2xCbW5TakHSAdcBQVVfeXFMUE1JUmtYSE1wamhWWG1QU1ZWSWZiWkpRYUc3ZVBfMWV5dDIxcHRFN0lfUS1aV2NjcWExTzRYN2RjZm83ZGJOamlqa1JEX1dPc2dtdXUxbFR3VnBnNFJwdk16LUxJMXZHWE5YSHZLellIOTF1WmNLUGEyeV9tNzNsNnNreFBKWFdIWm5GV3ZWNnFNYnNBSmRUa0x5bEtWbkxJZ2lxZTFVU1lMZUxfZVdmSVJ1czdzUHNIdElRM1I3OURGUmpkcTZuWHY2d3U0QVphTktTWFY3Y1U?oc=5",
+          "date": "2026-04-15T07:00:00.000Z",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Ex-KBC winner Amita Singh Tomar arrested in Rs 2.56 crore flood relief scam in Madhya Pradesh",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNOVhVNE90NHh5RWxZRHVEb29lNlJsN3NQQnJYaTN6OUZBSm1QR0lSQThvVl9zM25VVGVyS282bUZiYmVGMTFUNjgwa3hqUGo2aG5LLW5vTkxuSHZGMTdDUmZvaUVpd19pbFlhREZqc0dPelBUT01CWmhERU5wVUc3ZEVtNElfSml2ZWluRkRmQU9EYVRnZlRFd0RZRnB5RDRidUNmTDdYb0NMR05LX29LcElOejdKTGdUblp5eFJxYmRpcV9DdFNBVXQxUmh5emE1aVlVX0diTTRPQ0MxekRwaktDTmRhVHpJYlQzYTc1bE7SAf4BQVVfeXFMTlVfT2YtREw0UXdrYkRZZzFvcWF0T0ZoQkNRVHpzZFZZV1pSUVdtdjlCb1IxM0I3QkVnOXNnU1g0R1lPanRZQnNGVGloa0U4ay0xQ3g0S1pVZDZkOVJzeXRoS05NeGFPM1ZHdDFldldKRFE3NVRIWXVRWXYzWW96Uks2RFgzY2h0eXJXSnFqS2x4MTlHVmpodmxVbUotQ0tVcjk5NUVhcG00eERvYWVzNFpXX3BQcEYwQm5DYkxueGdwakdTSDJkYld1UC1SVVl3c1J5OGJHT2t6aFBySzNjWjJSUnhfc2dITlU5LXJnV1JxNVl3M0IyRlBRc0tTOEE?oc=5",
+          "date": "2026-03-27T07:00:00.000Z",
+          "source": "The New Indian Express"
+        },
+        {
+          "title": "Jamshedpur Police Arrest 3 Drug Peddlers, Seize 110 Brown Sugar Packets",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQjZzaTZTZUtmVDFKSjdoNzF6ajRHYkd1a09vMjJoeXVkOEROaGFvYzVEZ04wWHhGcTRKNlZ3OFpRSnZYOXZzV01pRFMtNExaZWtXWEQ1bVdSV3BqWlRFY2N2UUl2SzkzbnNTbmttLU9jNFNsTVlDOFRVenNPeUNaaVk2Vm5xX3pWUjVrN2NkakVHQzBxSTEwU2Q5QWlxLU5oeGlOYWFLTHRINEZ3RjZIRU5PS2ZYeU0zMmtSMnRhaTc5X3g5ZERhdmJTUVp3TGxkYmdVdEJ4b1FLWkxm0gHiAUFVX3lxTFBJejJzSTF0M2JVbWRQRnUzdl9GcWhoYnNjb3d0UVNTZWRHMDBBWEhpaVJTY3gzUDRscUtyVHBVRnFWNkFQYl9vc2FSQS1jVWJKN0d6YkR5RjhUYXd5U0dJQWtEZU0wbGpWQllOTFdsZ2h1X05yVW1yZk5Rc0VsdWMwSHpnOExkcFJLaDRaM3NUSFNrckFpM3ZzSzRBdmZONTJQUVE3ZXNNRUVpYzlwU1lSd3Q2WWFCSVllSTAwa085dkx6eEFrZm80emY4RXduZFNnV0NVUlBZWWtfRVNpVktnX1E?oc=5",
+          "date": "2026-01-20T08:00:00.000Z",
+          "source": "The Times of India"
+        }
+      ]
+    },
+    "111": {
+      "cachedAt": "2026-05-15T16:59:41.069Z",
+      "query": "\"111\" Kolkata (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "112": {
+      "cachedAt": "2026-05-15T16:59:41.069Z",
+      "query": "\"112\" Kolkata (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "113": {
+      "cachedAt": "2026-05-15T16:59:41.069Z",
+      "query": "\"113\" Kolkata (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "114": {
+      "cachedAt": "2026-05-15T16:59:41.069Z",
+      "query": "\"114\" Kolkata (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "115": {
+      "cachedAt": "2026-05-15T16:59:41.069Z",
+      "query": "\"115\" Kolkata (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "BJP functionary’s wife alleges assault, molest at Joka shop",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORjlBdXl5SFZVRHhSOVhfZkdfOXdFamZYN2tiYVZLNVhYaHFsOWN6QXpkbVl5TjJFOWVrVlFycUttN0I1THJlcm8yN1JYMTYxSVlIVjhTbXlxZGhzZnNYNmRHaUU1aGgxRkgxM3VoNGlyT0VpUVdQVU5KTjRaZ2VObDRYQXI4ZjJIRlN5QWxPRURSc1Fmd0NGdE9RcnpSYkF2cFBTX2x4U0puX2ljejNPVTJaT3lqUVBVUnJ1Tk1ZbERvc0d4a0VBdmFhOXjSAdIBQVVfeXFMUFZBanp4N09yRmlzdXNjQmVwd3JPdDZZamNZUW5MQ3lwZ05feWIwcEszVi1ad1lhSmUteXNXVDRyVGd5Z1p5RTBJWDhVMFBWaFc0Y3RPRzRLbDhlQzRCaHEwbllkclViNjZNRUpuem5PaG91Smk5WjZ5aW4wcU5UVFFqQnhrTHl6OWdaa3RxWHJkUkM5OGRzZWNXcFdoX2YxT21UWC01cVhSMWhnNkkyRWFmQVlVbUI3Qmsxc0FDcnZtMGJnYlZKQ1h6LTU3ZVBuZkd3?oc=5",
+          "date": "2026-03-24T07:00:00.000Z",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Woman assaulted inside moving car in South Kolkata: Three arrested, police probe sexual assault, abduction ...",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOQTdNcFgtV3BMXzZ5QkE4UTRUWHdQd0d4Xy1kMFdhU09WTUYtU3FfS0loSnAtX3NsRTBuTkJHajhYMTZGSkJ2aFpHZTBGc0M0b2tBeVZWdS1TWHd6UU5rNVJJUkowempLZ1J0WWpVb1pjTUZ6T3ppZFZaTGQ0eGhGZC1acUMwMzlHYjVkUFhibFRsUEx5d3pjekp0MkpLSnZsd0J0djJ1dW5KUG9HNzV2elp0UGZTeGtGUE5iNVFfLW5pRVNIVWNSNU9naEM2YUJieGVYMThCZXcxMEdydHFlOHZvSm5BSGl2NlJlMUhR0gHzAUFVX3lxTE1UNk1ISThXc1FCSjlJMkQzS1dVOV8xb2NWa1l3aGVFMl9lLUVFZzVFdWIwa1h4aEhteXVWTGNmaXJTRVVERTVxaWFXQXBhSnBhbWNENzVBa3ZvUmVXNWJKR3Z2MHRFVG53bC1BUHBLWHE3REhvWTNOY2FvVTVUNFVqOUg4djRuNzhWa21KUDRTR0FjZ3huY0syb3ZyOGlVTlZwSWZPU2Z3QUNrb3FtTC1vWEo3RzBTak9YZVVBN0RhVkVXajl6MUgzUkhkbV9CNXpZUWJxNFdDNnBjai1EUlUxNjh1SDVtUEZzT2R3c0JVTzNucw?oc=5",
+          "date": "2026-02-16T18:43:18.000Z",
+          "source": "Bhaskar English"
+        },
+        {
+          "title": "Domestic help, caregivers behind 35 out of 115 thefts since Dec 2025",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeTFGTGQ3bm55UXRpYWdtOF9CODJjd2FReWZuVGRubnRDV3hiNUlvdGtMQ3ZnRmw1YmV6ajdjMng4bTBjeVJwTVYxYmpxblpfOG5qR3hRbDVqbnRQckVNVXhyeF9ON3FvZUFFU0Z2MVl5WHdTQ2hDYjd2dnJCOWdEYUdMS1UwNWdnbnQ3Q1A4QTM1RlhxdGVnUlZQR0dTTk9DRWRtMWJzUC02VGg2bjFhWWZZeHpwcUItUGxlLVRjUGYxMVRHRk9MU3lSZ3l5TW9wM2NCbVBDbFZkQdIB3wFBVV95cUxNQWJuY1ExbkJ4Z0hnYlRSOWVqcFNad0Q1YVkyc0tiX1NCNTZmMVlMWmNxRllrNVVvdXRBRkVwTjBmc212My1FM1hMbDZQZ0RsY0JvNjgxMmhnWjQ2TVhXODlqLTUzNlFCTDFVbUlLSFQyMjVWZjg2OXFpeXExQkZRdktjTXpmeUN2dENhLUtvLV96WXpLUU1RV0dfQkNnVk4zZkdGekpUX3pCUUZnZTJGYnNKRUs0cU0xMlVWdGFtelN5M09QWG54REIwTkpkWk96cGNoQi10ZVg0YVZnUmtr?oc=5",
+          "date": "2026-02-08T08:00:00.000Z",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Punjab Police arrest 115 drug smugglers in statewide raids under anti-drugs campaign",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObDVJUnpJOEw4RnUwZmpVdE5sUVNCbEloRU1SUXJIR0pmcmo3b1RFRjNlNXlaRHVIbGJRRVdxbHMwQTktNmZYejJFT0YzYUlFeDk5Ykx6dVdjMnM2NjJRX09nQ0hHWktmTkFOX0Y3X25oN1BkRDJ2NjY3SW5rZGNoTGFMb2JRdHVzdzhDZ1hRVHNocGhkd2t2OFo2NXk0TDVCdG1hMHR0enRJVmRIaThYa3RxNlE0OEhSUnFrSkd1eVZyOXlu?oc=5",
+          "date": "2025-12-25T08:00:00.000Z",
+          "source": "The Tribune"
+        }
+      ]
+    },
+    "116": {
+      "cachedAt": "2026-05-15T16:59:41.069Z",
+      "query": "\"116\" Kolkata (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "117": {
+      "cachedAt": "2026-05-15T16:59:41.069Z",
+      "query": "\"117\" Kolkata (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "118": {
+      "cachedAt": "2026-05-15T16:59:41.069Z",
+      "query": "\"118\" Kolkata (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Sisters' drug use uncovered in Klang raid",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSTBpYkYtOGZGdGhBbTVkWmFxY0xUMlRpak9RVlBsSHNTYVUzOXZiSGdQUHd6MjlaVHVudHBVRm1KSnhyMmJiY0lGX0h2SmthQkl3Uklnd3U3WjdkYlhndV9vZEVBWnpMVHBzeER6ZllFZHhWekstSUt0dy1vU1RXWXdoeTUycGFBS3FmZy1mczg3QdIBlwFBVV95cUxOeC1zRmdoZ2Y4MFhFdGcwRExCbE5PNGdRc0h3WnprSU9MbmpGdDhRODEyZHJqeEZ6aXJ4Q0Nfd2piZC1aQmlZUU51YU1ENkd4U1BqVGNRZTBCS3JyalV3WUxpb0hRY1MzUU9rZ3FVMlBoVVh2clhzNmZmUTBfV242SWxnMTFTWHpTVndBdGk5SExjR3NDMFVF?oc=5",
+          "date": "2026-04-30T07:00:00.000Z",
+          "source": "NST Online"
+        },
+        {
+          "title": "Odisha Crime Branch Arrests Kolkata Man in Rs 12.33 Crore Online Investment Fraud",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeHQ5YWFvb3VBdFN5NFY4WEdrZmMxMUsybUVTcGFiMVdrdmJrdW5fR3BsMlg2X05UY2EzZW5PUkdteWdJS3lKSGVXdUlINC0wQTBsTEM4SGZLdjRfMkRYQm9FWmZSU3liaTU4dGtWYjlSUmxkaUpncXFMQnhKT25kY3lnRUdFZnZXWnNqSUpfSXpBUQ?oc=5",
+          "date": "2026-03-25T07:00:00.000Z",
+          "source": "pragativadi.com"
+        }
+      ]
+    },
+    "119": {
+      "cachedAt": "2026-05-15T16:59:41.069Z",
+      "query": "\"119\" Kolkata (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "120": {
+      "cachedAt": "2026-05-15T16:59:41.069Z",
+      "query": "\"120\" Kolkata (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "121": {
+      "cachedAt": "2026-05-15T16:59:41.069Z",
+      "query": "\"121\" Kolkata (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "122": {
+      "cachedAt": "2026-05-15T16:59:41.069Z",
+      "query": "\"122\" Kolkata (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Noida police scan mule accounts, investment patterns, stop 122 scams midway",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQeDhMUkFtX3lTMUxUekdWUDRXRGdwa3A1MGNjYmVfOGNfLUNtZmVLVW9ITDdqcGZqVzJVWW5TLUtseUxRRjZZeGpyNWFBNWd6R01nckU1OERSUWRLdmNiVVhBa1o5UGdXdTU2b2x0Z3dfcHlNbUFqbVRDam5zaGphOHB2bVlVUk1yTE82VTZkaFk3M1lXbnl0eVZGYzBQRWhTb0lKSzcwanNybXlBX3hyQUFRZ2tKbzFMS1BjaUM0d0gtc1B1WVdGZ2xFdWpSOHY3VGhLelRLVEhZdTJxN0dv0gHkAUFVX3lxTE9vY2owaEZiRHd0Vm9RNElBX2ZvWF9NYktCd2x3LVhVenVKQjl0X2FlR0ktY1d0cDJYUENNNUVEN29BSEVGT09BQ1hoUUotb2x2RkhhVzNWelItX3dBY01LNTRrRW5odWxaTzR6TFVwa094Nm1jNFdRb3FydXRtekVWeXM2OGpSTk03ZGk2dDB0QzB3elZweXcxRFc1Z0pISjhEV0V1VGxrUUhNT2t4cXV0TVA3bnJ2MkZkaU1pZjZtMWVNcktpY2dVTFUyTGhpTUI0MHBoZVZPRnA3MjFkdTYwVkdzMA?oc=5",
+          "date": "2026-02-22T08:00:00.000Z",
+          "source": "The Times of India"
+        }
+      ]
+    },
+    "123": {
+      "cachedAt": "2026-05-15T16:59:41.069Z",
+      "query": "\"123\" Kolkata (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "124": {
+      "cachedAt": "2026-05-15T16:59:41.069Z",
+      "query": "\"124\" Kolkata (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "125": {
+      "cachedAt": "2026-05-15T16:59:41.069Z",
+      "query": "\"125\" Kolkata (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "RG Kar case: Former Kolkata Police commissioner among 3 IPS officers suspended for ‘mishandling’ probe",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZjdkckVUTnV2WTQtejgxN2NYNFBCWHlSVTE2Y3dfMktIdzB0NTJualBHTUIyUVk5aWd5WEUyN1lianZpYlBpTTRRaURxbW9udVp2YXZvb2gxOWJKSWdqTW1LdTdwcFV1QUkwcVlpZ1NHN0pjTGVld1JHTVEyMlVyVG9DbnYyMjNvNVZFNEtpUEUzQXR3S1ZVOW9IdTYzazQtTW82M013RURBZjhYaU5yX0tJMDZ2MGYybFNxOWx0MTlxZU9NM2o5NWtiTWhwTGpoZU1TV0tJNjFST2MzTUtMQ2lxRWbSAeQBQVVfeXFMTWY3ZHJFVE51dlk0LXo4MTdjWDRQQlh5UlUxNmN3XzJLSHcwdDUybmpQR01CMlFZOWlneVhFMjdZYmp2aWJQaU00UWlEcW1vbnVadmF2b29oMTliSklnak1tS3U3cHBVdUFJMHFZaWdTRzdKY0xlZXdSR01RMjJVclRvQ252MjIzbzVWRTRLaVBFM0F0d0tWVTlvSHU2M2s0LU1vNjNNd0VEQWY4WGlOcl9LSTA2djBmMmxTcTlsdDE5cWVPTTNqOTVrYk1ocExqaGVNU1dLSTYxUk9jM01LTENpcUVm?oc=5",
+          "date": "2026-05-15T10:48:41.000Z",
+          "source": "The Indian Express"
+        },
+        {
+          "title": "Kanpur police bust cyber fraud gang laundering Rs 125 crore through fake GST firms and bank collusion",
+          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNOUVrQUR3NV84UkhkWFE0bHZzNzQ3cjFfSXRxUE92N0hEYnZ3LUVfZjJfck9sbzNIMERHQTlzWVFROEhkNThvUTQxWGF2QVRIMjAzZ29QdnRoV0Z4SkwyZkRlQVZ3cExkZVdyTXZ2Uk1talBabnV0bHVXSWVyYlBYaUtHNDVTTnFxN21Eek5rU3IwbEdnV2gxVDFHMkdzSkdsdk5JWHliVGsweVp3ZE5jLVZkLXpFZ2JJYWZ6Sk5iVDd3SXZfNko1bEZvSTVFOHh2SlR5SGNaTXk4TUNFOWFXNWkxU1doS2p5dDBwUk5WWXQwQ05WMEpBNk9icXE1eXBNRHNPaU1R0gGLAkFVX3lxTE1jRks1QkZWWTVOMDlrRzB3VDJySVQ3VUtIZWJ4RDdIaU1ydE9kQ3VnbjgybnVwM2hwMDZOX29KNFVoc3FNdHZMS1JyTkpGdzAyZHljNEx4YVhyR1RCUm5YWEtrV1d0Z2h6VDhfV2VTSW5IaXYxQzZkVi1uek1RaUM5U3I1SDlnLTBCUVRBOG5CSVk2TjdSZEx1RkVUeXhXb19sa1A4ZHN4eXJtUUloWFFGRVN4bzh2OTR4Tmk5UEt5MURYRzByaHg3ZjRUM0xNN1JJaG1PbFVMNmdERUZYeWhBWTBGZHVpbndWY0R5LWc2RjNKRV9LUUF3NjUwZjgzdGloWld5ZlZoYjk5dw?oc=5",
+          "date": "2026-05-01T07:00:00.000Z",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Coimbatore gang rape case: conviction in 125 days",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSGVzVWtpcDVHM3lsd0o4RUQ1bmRDRlZRc0dPMGdiMG9hYmtKb2h3b0UwckpDc0ZVTzFWd3EtMll4UnlFajlPQnVsTFNUUlRiN0tkc2R2U1preWlRa05UeW0tVTVNd3RzaW9YYkpFUDl6eXhEbFRTTkNwc1dVdzFwSl9DWWZHMHpHZEczRk8xbmJoVlF2b2dxaW5PejNaX3dKdnR0eWtDMjBNT1hNVnJGU0lIQWlfajTSAb4BQVVfeXFMTk1KWHdmNWxJbDVmanYtbHFfeFY2N0VEMW9uS251eDJDb3VETk51dFNHR3A5VEhDWVpqdW11elZVTm1ucklRWDI3RHUyNnRSdkFqMUljY250cTVJWFlHN3RpUnR4SDdFLWpPc0JTRkdxMzZpd25Gd3l0Y0RpMVFxdG1USXZIZ0ZucUlpeENYOVFxdG8tQVZTbW1nQXlDQ0x3WHV3eS1ONHg5SDZVX1FFNnQzU2F6ZXdjaEJ2MlhIUQ?oc=5",
+          "date": "2026-03-07T08:00:00.000Z",
+          "source": "The Hindu"
+        }
+      ]
+    },
+    "126": {
+      "cachedAt": "2026-05-15T16:59:41.069Z",
+      "query": "\"126\" Kolkata (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "127": {
+      "cachedAt": "2026-05-15T16:59:41.069Z",
+      "query": "\"127\" Kolkata (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Ex-KBC winner Amita Singh Tomar arrested in Rs 2.56 crore flood relief scam in Madhya Pradesh",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNOVhVNE90NHh5RWxZRHVEb29lNlJsN3NQQnJYaTN6OUZBSm1QR0lSQThvVl9zM25VVGVyS282bUZiYmVGMTFUNjgwa3hqUGo2aG5LLW5vTkxuSHZGMTdDUmZvaUVpd19pbFlhREZqc0dPelBUT01CWmhERU5wVUc3ZEVtNElfSml2ZWluRkRmQU9EYVRnZlRFd0RZRnB5RDRidUNmTDdYb0NMR05LX29LcElOejdKTGdUblp5eFJxYmRpcV9DdFNBVXQxUmh5emE1aVlVX0diTTRPQ0MxekRwaktDTmRhVHpJYlQzYTc1bE7SAf4BQVVfeXFMTlVfT2YtREw0UXdrYkRZZzFvcWF0T0ZoQkNRVHpzZFZZV1pSUVdtdjlCb1IxM0I3QkVnOXNnU1g0R1lPanRZQnNGVGloa0U4ay0xQ3g0S1pVZDZkOVJzeXRoS05NeGFPM1ZHdDFldldKRFE3NVRIWXVRWXYzWW96Uks2RFgzY2h0eXJXSnFqS2x4MTlHVmpodmxVbUotQ0tVcjk5NUVhcG00eERvYWVzNFpXX3BQcEYwQm5DYkxueGdwakdTSDJkYld1UC1SVVl3c1J5OGJHT2t6aFBySzNjWjJSUnhfc2dITlU5LXJnV1JxNVl3M0IyRlBRc0tTOEE?oc=5",
+          "date": "2026-03-27T07:00:00.000Z",
+          "source": "The New Indian Express"
+        },
+        {
+          "title": "‘Our son slapped her,’ say parents of accused influencer Shamik: Influencer remanded to police custody till...",
+          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPUGRDS3pYSzdmTDlrQ2hHRmJKRUxPYUdMOHIzX0N4ZEgzT1VmZk1SZXUydU9tTEFaTmxsN0ZiQXJhVS1PdFRLSUVhSlRCQU1pOEU1NkJHYTRuMEdtRnlKNkZtNVZoWkVTWnNtNWRRejAzZkdJd2ctQzRxV01aYUZuT0NVZG9Ob3paemt1QTNlLXVyUi1aSUI1UEViUlpCV2dEOEdCdEtFY2huNV9qanJucU1laEhRNTRpNkpoYndkdEVJQmdYcEFzLVhJeWxLbU5uWXpUcUtHS3I1OC1INEJYSllSMFNXRGllOGp4aTBHM0RrM09YV0UzTXc2TzZEQdIBgwJBVV95cUxPOVZyd2c1X25EMnlROUcyNmdnWFNZT0s3RUZTSThSRUVfNlB6RkNhSy1hbm5KVUEzbkZZTjlIb0tFaWhBRFlwTHJIUTVQdzNuZnF1Y25JYjh4WlBxcVcxOEhfMC1tcENnUnAtaVdNaFloWUxPSjRCVjVvNWNGWnphY2J0bHZ1V25zUmk5bHk4ako5dzgzSWtLNktJZHd2bkdObU1XVnhaQXc5SGNCOGlzbENrOVpMMjF0aVRjU3puYzVMcGFTd3pHd2ozd2M4YXh1TDA1WlRPWGo3MndLcmVJUEpNUU54NllKeHV6Y0JUSU1DcmVGeTZfYW1ISm5SdFJZQ0Fj?oc=5",
+          "date": "2026-02-16T08:00:00.000Z",
+          "source": "Bhaskar English"
+        },
+        {
+          "title": "Kolkata influencer faces serious charges: Girlfriend alleges unlawful detention and assault",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVjl5ZlFRckM2emNTQXBVLVNqeGRYUkI4YXB0MUZCN3pCQ05yRGt5ald4bEFOeGZzZEpaYlFISGFseEUzLTNvMFF3RVF6T0VfaXFHakxrcnpRQzlxRmJZZlJZbGtMazJPOEtpek9nN2oyRjZ6eFdqM2pDYjh4NFJJS3VnRUFZc1pFb0lvaFRTMWVrWEF4ejF3VG5qUWlYZFlibWt3Rzc1a3JzRGE1RkxZdDk2MXo5VENsSVHSAb8BQVVfeXFMTmw0eGhQLTlCd3FjZnpZOElPdFcwMVZJcHBMX3p4UnlhazQ1N2pkLWkxbmtQSEdYbjZ3T3N4X0k1Zk4xa1NDTGdwQUtvSncycXFCb3VuS29GUGJtR0E2OGJONGRXVVBGVjEwLVh1R19IR1FGVno0Uk5iazVKTnUyblNOQmxCcjR1Sy1ZelI4UjBUMGZjOVRDWlRRZUw0eU1hUDVGT0Nzc2hTSWxQUHFIU2RmdGtTOGR1MmJhT0V5LUk?oc=5",
+          "date": "2026-02-06T08:00:00.000Z",
+          "source": "Mathrubhumi English"
+        },
+        {
+          "title": "Bengali influencer arrested for allegedly molesting girlfriend",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxON2Y2SlZRbk5lUGNRTHhvV1R0dWhLX3ZkOFZiX0V1WUhiQWlacER4UFhJNXQ1aEFTX1hOYTM4X3BwZS1YVHJDdXpqeDRCS1VSek5fRWIyRkI2dUxBYTdkeUlZU2FPd0FzTzhnelFZQTFla1B4NHdrNDVYV3NDTURTRHBMSHNOWHFfQjAwZ2kyY3VhTWJtRlFuaVZHb2VERUlvbDRNR2FCYw?oc=5",
+          "date": "2026-02-06T08:00:00.000Z",
+          "source": "NewsBytes"
+        }
+      ]
+    },
+    "128": {
+      "cachedAt": "2026-05-15T16:59:41.069Z",
+      "query": "\"128\" Kolkata (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "129": {
+      "cachedAt": "2026-05-15T16:59:41.069Z",
+      "query": "\"129\" Kolkata (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "130": {
+      "cachedAt": "2026-05-15T16:59:41.069Z",
+      "query": "\"130\" Kolkata (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "131": {
+      "cachedAt": "2026-05-15T16:59:41.069Z",
+      "query": "\"131\" Kolkata (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "132": {
+      "cachedAt": "2026-05-15T16:59:41.069Z",
+      "query": "\"132\" Kolkata (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Ludhiana Police Busts Largest-Ever Cyber Fraud Racket, 132 Arrested",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYkV3TUI2ZjNFOTl4UXROMGo3WXM1aFNVdlZTM2NObG9XQVc3Nk9ZMGtKYVpMblVqeGdaZlIwQ29TTjE5QTM3bS1ha0VmdnZ3YnliQ1huT0k3MkdhXzhqY0J5SjJmRDYwbXJmcWVNUm93dEJzanI3NHlyZjliWXo5M2lJN1EzaUdNSkhfVWRGZmZCcjl1aEJTcXhVbzdqUUdueVg2Q3ZOR2xmMXJnWWxSWEZpODZyVUR2WDdKNDNvNkM5OXfSAcMBQVVfeXFMTWJFd01CNmYzRTk5eFF0TjBqN1lzNWhTVXZWUzNjTmxvV0FXNzZPWTBrSmFaTG5VanhnWmZSMENvU04xOUEzN20tYWtFZnZ2d2J5YkNYbk9JNzJHYV84amNCeUoyZkQ2MG1yZnFlTVJvd3RCc2pyNzR5cmY5Yll6OTNpSTdRM2lHTUpIX1VkRmZmQnI5dWhCU3F4VW83alFHbnlYNkN2TkdsZjFyZ1lsUlhGaTg2clVEdlg3SjQzbzZDOTl3?oc=5",
+          "date": "2026-05-15T12:59:59.000Z",
+          "source": "Devdiscourse"
+        },
+        {
+          "title": "Ludhiana Police bust international cyber fraud racket, arrest 132 accused in fake tech support scam",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPU01jMzRySmRRZno1UFBRZzI3VlpFdzNNNVVrcW96UVM1V2Jvem5ZR0tHblltMU5GMEozVVNNLVMyMVVOdEp4N2p0YXk3ZmhZU29uN1dFSGQtYWtOcDlkOURqaXhoODVIWlRmVnFkNjJrRXBMbjZNRjVhclFMckNCbG5SdFVDVmNJb3NpMmdfeHVVRmZ4dFY4d3JESkVRaTh2QklaNnBFQ2NOVDNwcl95RjBCX1pZNWFnYTlXNXRIeTI1bmNUMmFoYWNRcktpSXlYR1hQM2NfY0Ryak41R2xhLUlqMNIB6AFBVV95cUxQNkJZN1E5TWZaVWxyZVI4VmpsbUxCTEJlMl9Vai1mdmlHMEd2UGU1SFlkRjNYemdBeHl1cXU5WlI4SkttMEdKc2xoZDl3UkhjS2IzV3ZrUmtTOVB2eVlVODV1NDctaFNMM0FVTjNlb2JQdmhLMkFVM0JoNUpaSE1IOFhGMHNva0luTG5WRTZDZ2drQU5TQmctbU9XQUZSQm9wNVg3eEZaSGJYcHNkRkRmU2NsY3lYTFdOQXV3OUdoRk1GNlQ1MWkxRkZvNEJ0RHZvUUZlaVE3RklxdFc4Tm5hcktYYkNEOTJa?oc=5",
+          "date": "2026-05-15T10:19:00.000Z",
+          "source": "The Statesman"
+        },
+        {
+          "title": "‘If you have guts come to my home,’ Didi dares after I-T raids",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYUxwUUVCZVRFOF9PbXF6ZnRRZ2plY2hhZ3dfT3lhRHJud1dBelhnZ1k3ZW5SbG1iNU54eVZKUGZWcTVGU3QyTFdubXBMQTBFT1NtTEE2WWlyRnktU3hxYWFEcjFjbHBzNFNkREo5UXRza3g0SFBQTWltUlotQ21NVmVOUWFsUjB5N296dks2dVZGNGNCUFNMZUxzeDdkcjA5R1hYN0E2QldIVGNQbTl2OXJrakk1NnVvZk5pa2J6WW52eVNRSTF1QWpIX2VHRGvSAdQBQVVfeXFMTTAyeUktcXgyY3U1NC05YjZVdWg5ckl3eDVjVzIwVUhwYmo4YUwzV0RabmxLTzRqcUVfb0VGVVhPc1pLYjBZVTZVaFB6TkpGM2diV19NcXFtSlljQ2ppY2FjbGdyZ0h6em9Lejc2aWh4d0xBc3BTWFRPeDV5V1lxWnRLM1JCcS02aGp2UEJTVTdHSDR5NDFKMXUyc0s2enpaNWN5eFdCcm51eElDZjN6WmNuV3FKTmtmZEJvbVRqU0RoV2dFZEJzMzBybkVBXzB5UW1Vb0c?oc=5",
+          "date": "2026-04-19T07:00:00.000Z",
+          "source": "The Times of India"
+        },
+        {
+          "title": "On-duty cops assaulted in Kasba, Anandapur",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZVU4RjZIWlJSS2tPMW9qMXZmb2RBT3l3UVpjMl9XanZXR3Z0UFJqcXRBaXhqRkFkSEVnTmMzb0VZVFB4Z1k1akZ2SERQUXkxZW1SRU9BYUlTSVdBWk5uYlIzYUZiQ0pGMkFfUngyV3dXMFd2dm5fQlZJOHBfQzNmVG1vTzJqMlpBamdsYU9ES2dpVVZsamdUdlpwOUNjOU4zcUZtQVV6Q3BmUHkxb0N4T3BCc2hmVEXSAbwBQVVfeXFMTzA3NS1JT0VybnVMc29mX3ZiNmxXODdoSlE4WHFwRVoycEpGUXVIeFQ1R0VuQjEzaDNSdlB6QTB1VnhEUm5KVGFIeTNUWUZ5ZHRuSHlYRXZ6MnI3VGp0MDZiNENuSXVpa3VyTWlXV0Excmw3bmg4NUFDUmd3NjRXaFowRjJXWWNhOC1pejBFUVd1NHdQOEVncjBtOGFEeHJpd3hITTJDNUFiU0NWMUphSmdPdURldFlIS0d4Vms?oc=5",
+          "date": "2026-04-01T07:00:00.000Z",
+          "source": "The Times of India"
+        }
+      ]
+    },
+    "133": {
+      "cachedAt": "2026-05-15T16:59:41.069Z",
+      "query": "\"133\" Kolkata (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "134": {
+      "cachedAt": "2026-05-15T16:59:41.069Z",
+      "query": "\"134\" Kolkata (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Haringhata’s TMC councillor arrested",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNLU9Bd0x4S042a2RiYVg4cW9oYjBsNzVXdnFtLThhZFZSamtKMlNLNFdOOU02LXBLR1Y1TFBPUEZ3VXlTNmJkNmIxWWdJZUFUdHJlM0NDWjQ4dmdlaTB4el9XaG5MMTJVTmExTEpjTFJVLUtBRzhrUVFQNnN1eXdmd3ZPb012anBrWmp2eVU3VmlFOURtUDN6dEFCc1E0ZWFrUkgzY1NJeW5xQmh6OWg40gG0AUFVX3lxTE9IQUxJUnRQMVlIZjA5M2tJQjZhWW1oUVRWckxVZ3FGWUgyRXktbzJ3MlJsbWhqejVadUhvaW5JY3dFSTVBekY4NVQ4eUZ1MXE1YXBha0g4cVdYYUJRTkgyWlY2UTZGb1Nsdk9pTW11YXdjaExpWG45azRhWG5pM3A1NnpGaUJVRktEUGpnQm5WYXBwVEFLZlRMbzMwOHBHeWJYc0o3U2I1S19scjJwUlpzY1RWLQ?oc=5",
+          "date": "2026-04-17T07:00:00.000Z",
+          "source": "The Times of India"
+        }
+      ]
+    },
+    "135": {
+      "cachedAt": "2026-05-15T16:59:41.069Z",
+      "query": "\"135\" Kolkata (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "South Kolkata rape campus falls off booth map, CAPF moves in",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRjlnTUZaRXRVRWZuMjFEa2g1eFlQMXRrUmlWUHZ0eW1DTC1KcEx2NWE2RTV3cmdQLUpZUXo5cFhhT2QtcDNpSDdvUXlrS3FHQUdwR2prWjJZb1Y0cXZpTDRnLVFaSVRocENvOUtnOW5pY0pOakJrNHRYampVZ0Q5N0o3U1FtbXBRYm9rMm5CZWRjR0Z6dkdZa2lYbFBxb0lhVzNaR0RtbGltMGVGT0lXRFlDMWNDSGlZY0ZHR0VvNHNjdnhz0gHKAUFVX3lxTE9MSTJDVnlHcUU5emZBYVhlOVBDU3I2REJ1ankyYTlnOThYTTRRWWZvZVFzM1BQeElZeDFya0g1ZzJmWlE2bWpHY2ZCWC1qWm9lTU9wdHJURldCeTYyelFJVFFVYmVQM1RXTWNzQ0E5U2lsN1RvT3p3VG9PTU84QkV1NmxtZGFOb2dnbDVDWG9uVEhMeWlPZDJURklOMkg1am1JcnBZSTNadXdQYVkzMkk0NmRZUHd0Ty0wX1dDSWhCLVBhbFpOc3JwdWc?oc=5",
+          "date": "2026-04-15T07:00:00.000Z",
+          "source": "The Times of India"
+        }
+      ]
+    },
+    "136": {
+      "cachedAt": "2026-05-15T16:59:41.069Z",
+      "query": "\"136\" Kolkata (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Reliance Power CFO Ashok Kumar Pal Arrested in ₹136 Crore Fake Bank Guarantee Scam",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPR1JpN0JaNTlySjJIdTZ3VlNMa2NUWjRmcU1xbml2ci1pdkRWdXJNQXg4TFI4eUVkLWVRRDUwdzlSTlExMEg0OEJCUG83cmlpalVNMTFxOU9TMk90Sll1RmZvTnJRWkpEN0QtN2JuQmczbTdIOTJDX2RBbFNmRHM1d1RSdkJMd0ZENEJUWUNhUzRKTDhhYnphcnVZVU5XSmxPdGtLV3o4dFhYc2JHVGFMYy1qUFBwVVh6LTg0ZkF1aW93Ums?oc=5",
+          "date": "2026-04-22T07:00:00.000Z",
+          "source": "Moneylife"
+        },
+        {
+          "title": "HYBE Chairman Bang Si-hyuk faces arrest warrant in USD 136 million allegations of misleading IPO investor",
+          "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOaWQ4VER0WUNjR1ZSODF3V2pEdDU1cktFVkdxdnZzcGhSSFppcEl2THVJMDlvdGQzcHV0Qjc2WnREWUVpMGkwSDg1eGR3OHBEODJvakxYa3hMU2cyV3RkVmhjdlhtMTdqQWFic3RMMWpMMm5SeHlybUlkYUJDV2hoQ0EzdC1hWkY2LVhFR0ROX0I4eU5PMHVPZm5YT2w4dzBYZEZZWGR6Vkg3VFpyYmdjN0VMamdGaEpRVEkzaG5SNWpERGhJRVdSYWxUYXNfbDl6MEJFRWNzQmFad0tNNTFZUFlJcC1wVW9iX3BKVFhqOXFheDNBQlk3UF81LVBYQlY2Ylk2dHRxSGZ5eW5zMjRNVnFfdHZWZXQxMkdBUlZkd3pzNU5mcjMtTU5ZZGpZNmozUGJB0gG4AkFVX3lxTFBDX1MwT1N3ZTdlZFJ2bnVBczdFQkh4WEM0MDZhenFZWm9FbzE0WmZDZWxPNWM0alEyc0xScmFka1ZkNkRfNU5XQTVsZjB2b2MtUnV1bnVfX19FLUFwVFV0N0d6LTVZbDZ0cmpfbGNEaE5QVFYwY0tyOUhvOF9jbWd2R1lhdXFkS1hEalNZQkNtLXY1cGlHWFRGUVd5RDA3RWJObkctUS1zQk9BaVQxQlJlRXhqUXlXYzRWVEZJbFU0M2tsaExJMGNuLXQ5cUhCTThnRTNvQVZ4aWwwYzVXTTJlUi1zMTk5cXhpbmdfLXZCaER1SE85bFBoaVdmTFBEWE1HOGQyNHkzbEJOOXNFVERTN3haQmUtMW9NNnpUTjFuT1lFUkxVb0UtSzFXZTNfME5QUU14S2prRQ?oc=5",
+          "date": "2026-04-21T07:00:00.000Z",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Haryana Police launch Operation Hotspot Domination, arrests 136 criminals",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVk1OUHJ6cUpaVkdGVWtwTGEtQ0p6N0Q3Y2V3OEk3aGxfTERWb1lTX0ZYek9MbV96RFBMVHVWcFU4UkNjYUhweTlsTlE1OV8wcGM1VW9kZ2ZlT1hmclQyODE3OFFxWmxpUDY5VmJNUDYwLWlZTTBEc1hBa0thdTY2SHZLdkJTTnBDZ29vemEyRDNXQTYxVEdKVTc0cmdxdXFNT0dFOEFobThOalJ5RVpBdkJWTjdIQdIBugFBVV95cUxQSFlJVlpvNmFDVkRXcnlyWllzT2pDSmtROEtPMHJfTjdiZGFvdUhsbzRHaUdVTlIyaXM2WmlFSFJyekp0Tzg4bFpEWnBoVjlrOTJKenJFRnVTVkdjcFNrcW1nV25uSXV2Szdiek1UQWdTMEt0Z3NuemRLM29VU3d5V3VtTU1EeHhjUy1VZXlhdjhVWTJRWVFBSy10NUtWXzEwWDNYOEtsX0ZuZmxMS3J3TDAwbXpMX0lmSHc?oc=5",
+          "date": "2025-12-01T08:00:00.000Z",
+          "source": "The Tribune"
+        }
+      ]
+    },
+    "137": {
+      "cachedAt": "2026-05-15T16:59:41.069Z",
+      "query": "\"137\" Kolkata (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Delhi Police bust illegal LPG racket in Palam-Dwarka; 137 cylinders seized",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWmprX3RteWNCSlA0MkZvZjFTeXZDTGprU0JucjJxeHpuMjduSExQbXA2enNUdUhMM2tyRTJCekYxaVhKY3VkZ2c3VDNPQ1Y1VTVmOFIza3gxTExsdVhSZWFneGVvdTlNcVJuaVR4YmxFR0dnU2F4dlh3bUEtS0ZVdTUzN2xrc1ZBdk9Sc2FNSnRhNE11X3Vxc0FfcTgwd2pyVDNjd1BQRjhOVHFOM1RUX9IBtgFBVV95cUxQVXFoSVNwRWdqd2xnYzk2WFFOc0M1ZVlsQ0FCNUJ2a3UxVXV1ZllLb2lpTEpFRUMtUC1QQ3Y0QXVBV1J2TkVFR051bC14d1ZxbG84QWVRWThOTFc0WGw2RGdlMWZtZ3ZOSWo0bS1MV1NVTkpKaXNCZDczSlpURVBNQVE3VmM2aUMxaEszVnRidFhURjJqUE56dGh0VUpMRWZFMnB0eVM4VVBURTZSS0g4dXM3b0tOZw?oc=5",
+          "date": "2026-04-23T07:00:00.000Z",
+          "source": "lokmattimes.com"
+        },
+        {
+          "title": "Delhi Police bust illegal LPG racket in Palam-Dwarka; 137 cylinders seized",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOX01UdDE1bVZVWTVIbVAwbDZNQ2c3ZVd1Y21ZS3p2Z3Q5MkNvcE5tYml3ZlhuSW9UMWd1UGJXYll0dnVBaldRSVBnekY3MTFiVDJkZGVfdzNhcTFmRThRUW1acDd5QVdBOWFvSG5MSUFHYzhCT0FxdnF5ekdaV2o0WjdTcTI0VEpaX3I0cURzRVJWaTVOSERQVTJfSVdvTzQ5OG5VVWtvZUY1NDA?oc=5",
+          "date": "2026-04-22T07:00:00.000Z",
+          "source": "thehawk.in"
+        },
+        {
+          "title": "Massive ₹1.37 Crore Electric Cable Theft Busted! Kolkata Police's Anti-Burglary Squad Nabs Kingpin",
+          "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxORDdpUzRxOWwxRkZ5X0I1SnVqcWtLOTB3b2tNWnFwSTh3elVLTENvUGRLZEJGSTJPcUFlWGtHVmRZVmVyVUZGd042NlBTejhQQzN0UzlTdUJrT2psakw5NzB6aVZ0RWFzSll4bFh1anRHajcxTWhPd3hEa3ZMcndFaXh1cjQxcUJhbVBqUGx0bzJwQzlKQmFKM0ZxdkdwdFl6OTJkcnhBSGpmV1liV3dJTG5lRENyanpScFplcW5uN0Q5VWZQeUdaYUtldlRDVXpzQlBoZTJLWE5IU1pIcFJnNHQ1WmYtQmtqWE42Vktxd0pkWUFVVl9HMUVIX3NaeDBIRDNCQTY1eWZobmJRV2djd3V5OVJlZw?oc=5",
+          "date": "2026-03-13T06:34:28.000Z",
+          "source": "Dailyhunt"
+        },
+        {
+          "title": "ED arrests bizman in ₹137-cr dry ration scam | Mumbai news",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ3VLTEY2RlNnM2RpUmNYbmN4dnZId1VGR1Nxc0c4Yno2RXM2LTgxNWc5VDJyOFhNN0lpakhIa05USmI4QnFzSnUyeUZYOU9JRWFxdnl1OHJ2S2NKazdod3lGUnNpdUdLWGFDZzJuRW5yaWlqRlZ6UW5kUWhPZjUzRkRrNVZJRC1xRWJHOWlLMlNrTnZNVDF4VzY3UXptejh3Q2NiTklxNlZYWTliZ3dzT3FxWEjSAboBQVVfeXFMTWw5MkZ6OVJwX2JnZ3pKS0hMNUk2R1VSNVlXa0p5SW1tV1plc1NTQ3Z6QklaeVRJaE9QUVRXM2QxcW9UenlJMnJFOTZhNDB6UEpLVHQySnZVUzh5bjFxR1AyTjljRUpVTGgxYjN1Y0FHR3FLaWlpN0pxdFlsUE1XWmJTNkVkbERWb2UzWFc4OVlqd21vS1J3ZW5pV2J0TXp0dU1ydUhrZkEwZVhVYUF3WVQwYzA4cGduc3BR?oc=5",
+          "date": "2025-11-19T08:00:00.000Z",
+          "source": "Hindustan Times"
+        }
+      ]
+    },
+    "138": {
+      "cachedAt": "2026-05-15T16:59:41.069Z",
+      "query": "\"138\" Kolkata (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "139": {
+      "cachedAt": "2026-05-15T16:59:41.069Z",
+      "query": "\"139\" Kolkata (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "140": {
+      "cachedAt": "2026-05-15T16:59:41.069Z",
+      "query": "\"140\" Kolkata (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "141": {
+      "cachedAt": "2026-05-15T16:59:41.069Z",
+      "query": "\"141\" Kolkata (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    }
+  },
+  "notes": "Per-ward crime-related news from Google News RSS. Queried per the ward's distinctive neighbourhood name + Kolkata + crime keywords. Items are filtered to last 18 months and to titles containing at least one crime/police/arrest term. Up to 4 per ward."
 }

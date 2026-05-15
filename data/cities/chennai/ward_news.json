@@ -1,6 +1,1652 @@
 {
   "source": "https://news.google.com/rss/search",
-  "scrapedAt": null,
-  "wards": {},
-  "notes": "Pending first ingest. Run: node scripts/ingest_ward_news.mjs chennai"
+  "scrapedAt": "2026-05-15T16:57:14.640Z",
+  "wards": {
+    "100": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"100\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Fresh arrest for IPL ticket black marketing in Bengaluru; racket exploiting corporate quota loophole",
+          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQRUl2NjYyM2x4cFFNTzdnRl9ON3N0dG5IUzNSUzZhaWlMYWpNRkhrTmQ3bFFLRVZLaFNCRERHdmRKTGktbzFKelpteFQ2OW1jUm1LNjdWbzF5NVlkUmlqTTQ1eEx1dUNJeVprZkNKVTd0Zm1RbjZkLVh3cWM1Tl9PTjJLMXBrVi1Xb1lpTUg1RExpTnVKZXNlTVVfTjdJbHBaS25HQ3R6RU9rV0haZ3BVQ0V3ZGotcHNYeGdhdEdvcTNhUVRLenRnVGpXc3Q4NDRxbWdyNmNjY1BERGZfRGZ3STNfWThrY1p4ZXNFRlRJeHdCSU14VGlCWWJXNlFJSkdqRHU0eVhrNTHSAY8CQVVfeXFMTXl0YTJpVUtrYk5mTV9XLVpiYXVNYTRGUkZRbnlFaklXZTIyWWpkcEctVzN4M2VRN0o2VnZlNjFWVHVqb3VpWUc5YkJDS2pRLTc4YXZKSlNYakEtT0FuclB2c21DU0JxMmVUdUlseENsVUFSQWpWQlFhNEJQb2FNZm9iVGtQVWFOMGxyUGtveGZZS09DOVRueVNDNVowdkp6VlN3NG9qRWRSaHVhWG96NlRqRXIyODNaMDlZdTZzY25BYi1VNENXWFkyMi1kZXlKLU5MdkppWEFrZUhWdlB4ZGowSFFwZEpZNUlqdXdYVHNOVGwydWp3U0RpQXEyc25NbWprYWY1dTUtS0RyQ1RwYw?oc=5",
+          "date": "2026-04-17T07:00:00.000Z",
+          "source": "The Indian Express"
+        },
+        {
+          "title": "Two arrested for duping Chennai businessman of ₹4.62 crore under guise of land deal",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaGZITlc3S01BYXQ1Vm5JWkR1U3RSOW9TTkxENmhjSVdVb29EX3oyanNoUEVHZTdvS3B5ZFc0TTJOSlJERmRfSzZlRVZKS3ZqeVY4alBHVDhYWEYwM3VfejVVMlQ3bW80YlNMQ08xQzBfSnhoOWp6N1VRT0JGdUw2Snc4cHdjZUJLcXliTzFOS1RTb3lXaGlFb3Q0V1R5Sm1TaFNzRUZOQWZNektrYUp1YmQxaDZjN1BVbm03ZGlJTzJzSUxBZlRKNnM0emdKTDk3Y29PUkQ0Z0VmanNteW9j0gHmAUFVX3lxTFB2bWtodWc0bkpCQ2VQVGFmaWRjS0VWQUJONEs3NHJUWnpCcmJMMExJZk9XYkVSRXowX3ZVTGxLQUJxX0ZJa3dDbU0xZDVVeWhhZ25QSi1DSmNMWnNCWnZZVWhfRUpTTUJ1WENLVjBLVThDX0t3OFFQUW40N0E0RjVyMl83bHJBRFpKTXJOUjFrWmNQeVZWNU5EMERwSVRFdlVEUzNmNmtrNF9uTFJlUUhoM2prOTFvX0RpbDFPZTROWUNyci1mcmE0YWVUTzVZZWJNQ3N3c3N4WF91NnZ0U2N5TnJiUE93?oc=5",
+          "date": "2026-03-13T07:00:00.000Z",
+          "source": "The Hindu"
+        },
+        {
+          "title": "Policeman arrested in ₹100-crore cybercrime racket",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNXlhMlI5U3ZsVWZkMWpzakoxTlJCYlYwTlIxeFRMZWtaR1BibDhDR1NMMlpFaWdVekRwRFZVVGpZWlVub1I1VzBoWEhRMW05VzFvVUlFUUFpN0llTkhFYzVjSmd3RG1JT1FDRjA3Tl95bGNFYk9ubHp0YTRaV0pnYldMUlJGcnRELWREbkJZcnR4M2NNNmVoZkJpVThva1BpQTFYMGtqaVVqSHhZU2g2REZibVfSAbsBQVVfeXFMT3dpX29MMDc2VTltRXhMV052YUhYaDB1U1gzMndxOUo4R0I1TC1PMDZUTm4yRXl2d2RoNmpvRmdIMGtTR2hPQkk2S0o2cUZJU0dsNm1XRUJvNWJXQk9oNTV5WnNpRUgzZFZQSFZrWjdhSW55aTV4RnpqVmt3VmNObGd6ZWNZY3R4ZkViQm5ZRXZqRlNPTzFfR2xqZU1rZ0tzT093YkZ6RFU0TGNGQjdEdkZCUXVxc0ppNk11VQ?oc=5",
+          "date": "2026-03-12T07:00:00.000Z",
+          "source": "The Hindu"
+        },
+        {
+          "title": "Chennai police arrest ‘monk’ who burgled Jain temples in Tamil Nadu, Telangana and Karnataka",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPOXJna1RVYmt1RnRCVmxmS0lJb2tRNDNaWGhRTWdtNTVHU2pMXzBHNjZrMWZ4NTJKZ051Z2tRZjYwNDJhU1FrSU1CaHdBcElMaHRmMDVjTXZkc210cTVLQ2I2bXpKbkFlU3dwT0ZiZ29ZbUtVOHJjWTZCT19PRG9hckhqWV9qSzJieG0xVUxyc2FaUnd1V2F6VHQ4SGlGVHVzeXYzb3NQMXlSVG0yQ2E5QUh1R2dadnlmdzY2MTc4aEZra0tqeldMLV85RGR0bWF4S3ljOUF3bm11SHRzbDlqMjNHQ3RNanZ2MEd0ZmEtSi1GbGVNSVIw0gH8AUFVX3lxTE1nVEdZZFJZYUVnOXVxeHFHVVJ3N2NScXdnZ0lRWWd6c3hmby1sTkM5RDVGTDlpRlpGUDFYUWRiTXlWeENPalRNa2o0MjJlRjhjbUNHeGUzQm9GZElxNjFWanJNU0pvdTJnd3FLd2dZMjBuRF83R1NZNUNXeG9pM3VURUF3dlQwWURzbjN1ZXk0OVYxTHF5akNqYmxlRzMzZjBEWE1XUzhMckxSZUFNVFVPQWQ1UnA3UVdLcXdjRmRVOURoOXZpNG5fM1hpZVVBSm4xbFpWLTItSEVUeHp5bTJraFJtd05aMHoxRWpWNDJXcG04VTBnUnRKSTdOVw?oc=5",
+          "date": "2026-02-12T08:00:00.000Z",
+          "source": "The Times of India"
+        }
+      ]
+    },
+    "101": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"101\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "'Crime 101' OTT release: When and where to watch Chris Hemsworth and Halle Berry's spy thriller",
+          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPLVdaNjREdGVlMnFiaEVOb2RRWXMtczNHbjV0LWZFNEczNHAtMkxvaTVPTkRrVkd6elJvVktNZVp5TkFrUDFmbWFMb1pjd0VaR1JNbXNXakMwMFQ3MGU3X2dIVjBaVTFvLVk2R0NHRml4cjhHczBXTnl3UkVHMWc1Yk1DY0IyQXlQMDJsUk9tckI0cmJBaFRkZ3NqNHh0SmowbmE5cjl5Q083MURJZmlkQ1pibEFqazQ1ZWJ4cFdrQ1E3dUhBNDJ0YVdlUjcxYkppZHpNRnQzSXpUY2FNanE4dF9iNGJwSExuOG1mWEdld0UxOGh1NkwzUVVaRjRVbExKNTUyRGNzMzjSAY4CQVVfeXFMUDlpVmxUMkp3bjdPbDV3aXFWdjV2OVpYbjA4SlVBczg0U3JuS1hub2E0MFo2b2h4ekNhc3VDa3hRQ3dyT1ZsbGp5NVhDQXI5UmtndEVtVEw5QnhGZ3RrZUcwUFZzbml3MGVUcmJGT0hVVTdGVk82ekRrYzlJSEY5UnR1cDhVNGU0RTIzWVNtS2xEU3E0U2hwc1hUclJZQzMxeElPTXNvTFVHdkFBdFNTWFVTWlh5aUxleVNncllhVU83c2VYSGRlaWRCWmhZSlpUTUZCeS1VRHFOTjVjcmpVNmk5R29yZ1dsV0xkSEtJLXVnZmc0UF9xSTZkNjZsUzBVNXViRkdXblJhYUVaQUlR?oc=5",
+          "date": "2026-03-31T07:00:00.000Z",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Crime 101 Movie: Showtimes, Review, Songs, Trailer, Posters, News & Videos | eTimes",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORzZjT1lHNkhoZE9EZXRNNlVNUzh4X05zaEFudnZLM2FkbEl4UDUybFkwVjFXT0N5UmZidk1XWWhaeGRVUGRyU3NGVUhBcGpEcGRlWmxEV0tJNm9WZmJvZFJ2a3VsQ2NHbmJ0TjFCYzZtaWNaWkQ1X01hNzNTREJNYVJYbkZzR3pkdGM5aGR2Z1lWMFBBYWhjOF9ZbklhdW9WU1VJck9La2k?oc=5",
+          "date": "2026-02-13T08:00:00.000Z",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Delhi sees 101 murders in 8 months: What’s driving minors to major crimes?",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWS1QWEJLeUVGdWpxOXZtYVB2SmxvaUpTUXNrbHFab0t2SWVMWkVCOVRrM0YxNldoaVpHV1EzV1daWHFJWWVCR2FFanFrVl9nV01OeDVXeFlhVmFWN2pjbkxnN1dfM2Y1dDZuSFdqZXp3dklHQzBFd0lsaVd5Y0FoMmVlOVVkd1U1YnBFak42WFFHUG95cWJnVE1jUzNaMXphSDhVR011Q1FqYy11RVpwME1hWGpORWpqYVVJcGg2b1p3cVdyZ3g5cUFrQlJEclJZTTBDMFZRa0lQT0Z00gHiAUFVX3lxTE9ydU5kMzk3dDI4NnJHOUR2OUw0QTFwR1FyaVNCSUNjbjh4c1Z5UnlVQ0N0RDBNWWFtb3V4cUtlcTU1dzNfdmxya2ZsRXVzS1VuQ3RtZThaSGpoZHNFVW1jN2xVTmJUREFibUJtekhpTmgyRkkxaEMwbE1oY3I4ZENYRHo2bUt1akVHczFWa1duZEZCNGxPVEtidGE3RnR3YnBaeVB0OUJCUVYwWkpLcXhzcS1SM0JTZ2tXakloZFYtdnhUb0g4MEoyMXpwMzJ4ejdzVG44bEs3RzN1a0ppd29qLUE?oc=5",
+          "date": "2025-12-10T08:00:00.000Z",
+          "source": "The Times of India"
+        }
+      ]
+    },
+    "102": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"102\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "103": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"103\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "103 sovereign gold jewellery, cash stolen from locked house in Cuddalore",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdGZyQnU4bDJ2Zks1TENjUUk2YVNNNS15cVZrZ1NfYkJpM254SVl4R2xMOVZ4dHBDR2RXSWpob1dFakxvelRhVTdOTDdxRFlDNHU3MHhfOVV0SDFhdlhjM2cxYW81RkxEWENYZGttb2JVdHJIQnR2N1VQVkhLS240NTg5Ny1NT0ZkSWZIQ1RSOF9zRVZUbWRaN1NMcVFkbWRxWEdKMHVleDkyQdIBtwFBVV95cUxOQVU2ejVvUW1zNjdmT0x3NWpmQzFxeXVBclB2NmkwUmlYOVFlRWtxWnltb1FFTmdHZE5zSFNQQTJTNnFHbW9EbmMwcmViV0lHRTJnUl9tek83VEI1dkdFdm5NaUlCdDc0S29zWGgxRE52RW9DUm05eU0tbHBxLUpkZ29QTHJ2a2d1R243RGZVbGhzTmtqTEVubFRiWDlLMFNLRU5maXdEckFCS3dFZzVNVWppc2VQbzQ?oc=5",
+          "date": "2026-05-15T14:16:48.000Z",
+          "source": "DT Next"
+        },
+        {
+          "title": "Vadalur: 103 sovereigns, Rs 6 lakh stolen from house",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdXY5cUhFMGJaZS1LTVlGZldSNWRzTDlYVXdDRGtpNDdjVXFUQkZCbWM0YlZhdHNyZll6WF91MmJOWXl0ZkFndnhLbENpTzBIbmlPcmRFNGVjOC1jY0dWUXo1czFEbG5jVllMdEIxdTlBWHR5QThCb29qb3JjRzloMmJ6T0FKLXlYU0xQSE5HTjhmelI4SGpSMUwtUdIBmwFBVV95cUxQdXY5cUhFMGJaZS1LTVlGZldSNWRzTDlYVXdDRGtpNDdjVXFUQkZCbWM0YlZhdHNyZll6WF91MmJOWXl0ZkFndnhLbENpTzBIbmlPcmRFNGVjOC1jY0dWUXo1czFEbG5jVllMdEIxdTlBWHR5QThCb29qb3JjRzloMmJ6T0FKLXlYU0xQSE5HTjhmelI4SGpSMUwtUQ?oc=5",
+          "date": "2026-05-15T14:16:00.000Z",
+          "source": "DT Next"
+        },
+        {
+          "title": "TVK member films casting his vote, shares it in social media and gets arrested",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQY2FXUnV4Q0FPOWRLQzh5OEh1c3lCbmY5Tkt6NDgtelJBa1NTdDg2Sld4OUNYSmZyQ2RZLWxFYm5VcVR5c2dLTGU2eU04ZlIxZ0x3dElPRURMTzN5V1dnYUwyQlZ5T3dac3VvWEFTRThac0FBWGM1MU41WVBVRzdfY1htYWtmZV9TQjNJeUVnM0NVdldyam1TdTJNam1tVEpmN1J4R1pyS0pBa09xNTV0X1FJemlSN3ZzdjBoQlptOGVaUmpUV1Q3SjcxeTJqR3B3SE1rRFVFaWVlWTZ5UjYtS2RRMzhIakFVRDN3UXVoek5EcVljY294VXpYVWNHRmI50gGGAkFVX3lxTE1rU3prWjdOREtnamNSeXZ4LVFQSVVqdjhyajNSd2k5M1c5ZWxqYUlVT0NwMS01d01BQ1hNcmdOMDVNSmZjT3ZOeU9fWWlfbnE0Zk5EaUtnRlJwcVNBMnphLXBkREZ3TWNHcXc1MnRZOFNGaDh2dzRXb3laS0N5NHN5OEpYNVU2UzNuM2M5Z3UxSk1LR3lRcjhWN2FSeWRxejVVdFFzQ0pnaUhVX2lhZ3ZWekRhYVVNblhKTTV5THlHYkhEY3I1MmtTUTJfdXJ0WmhpTTJNUUdBUXlERVJTNWI5WHJJMllINjVaM2tHV29WMkNYLUVzMlNqVFZ6Vnl3WmtUcDNxX0E?oc=5",
+          "date": "2026-04-23T07:00:00.000Z",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Thoothukudi minor murder case: Suspect caught on camera, held and brought for investigation",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQWUFLUlVzQ1RNdVVlYTNTd29RVDZBQU5NdlNVb3BTV0Z5WC1vYk9sZzk5SUJsMGk4X1Q5U09wTDRqSVo2UUJGM3NOX1hyTncwU09xaXhkVXZ0V3VPX2FpNlRVQ3FoNjdLMTZYSVhIZkhKUFBwaTlCeXV2TDNmckszSVI5YnZIZExwVDZjWXBlai11cDBjUkVodERrTlh4d1dtZGw3bmRya25CR0RzaFRfZjB4eUQxLTFRMHN5TDJmU2hJdFVHc09MRXBzMUlIRFB5TWNfaEtLUXROT1k0MWtJeE1SQVMyMEnSAfQBQVVfeXFMTTJJNHlpZmVIVlJJaXd0cHJ3UmlPUlVYZTl3VlF4RUV2cGhEM2xwMHF2dDBfNGp4b3pYM05sMkJWTWNqR3NfV1picVVZRlRVblRHbzVWLVJHX2ZGYkdDbnU5VVRUOElHcGVTanJmMFhFT2VVcFEtSFJ1NHFRenFVaE5TaWtKaXZoRWdQdzV2RkZuZFBUV1R2bldwSkJNT0tRRTdiVGJ6WXdaM2FETTJTeDFPNDQ4cGFXNEZ2dkx2QnZlNGVyZHNad09Gb1pjb0FPb0xRS1M1LVJuWHlYVnZlejIxbjF4WHMycktHelVfNEtGSjYtLQ?oc=5",
+          "date": "2026-03-19T07:00:00.000Z",
+          "source": "The New Indian Express"
+        }
+      ]
+    },
+    "104": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"104\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Two Chennai cops booked for alleged harassment after Rajasthan jeweller dies by suicide",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQXhoTklscWs2eTk0VUpMZko2UVhwTWhRR0xHOXVVZ1BJRm5CMkZMSlBiVnRZMWx5bGtUZG5HWm5TN2hOVWNEMk5OZ3IxVm0tMFJxLVE1V01JTmY3WW80WGtOYmlKTW9RWDRBV0R1eDQ4T25uQ3lIUkRPQzJNcjVEanY1TVZqei1SVFQtT2pUaDY3ajF3UmNNbDRBcU55NEswU01SczZqejdfLWZkNUczUUR5a0pqY2V2VFJFYU9KNXZEeU91XzcwUXBiYlBuU1V0c3hFYTJOb3BWdkcxRW9mT9IB7gFBVV95cUxQTzMxSVlZUVJKT3lzd09FYzByVVpJdGl2OE15TXhpemJsd1ktQzVRNXFUb2dmSDJDYnhIMEJzc3RfbW91b0NfYkw2QkU4MmhtT0dXclhsbUxXV3NIN2FzQVhHS0UxLVJRTXcwdXpxTTBTS0pUcTJUcnNRTFFSUDBtQ21kMGxYbFRJODZ5T1VZWWstWTE0NVhZZ013TVdsQW5YRjJtWEN6eWw0bGZIZS1qc2o1RHNBUlE3b19YMzU5M0lENmJyeXh4ZEtjQnhwQ2lVcnlDY1N6SWdjYUxJNElxcDZrNDYyNktlZURyaUhB?oc=5",
+          "date": "2026-05-02T07:00:00.000Z",
+          "source": "The New Indian Express"
+        },
+        {
+          "title": "IPL 2026 SRH vs CSK: SRH snatch 10-run win as CSK’s chase withers at the death",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVl9hZUwyaTh6aUJrcnlrT0JpVjNEajZEQVB3bmlMcnlYT2xJQ1B6VVhsSHlCR0QzS2hkZkkyQ0xMYm4xUXdJZXdlRXo4V2p6WS10Q2gwQUVDMHE0RHN5bGhkZFlnRlJLcEhvRmVoeUY1Q0JIVmdlZmhja19wWWFTZVJDRTM5amlrNER6SFlMbi1waTlTUDhYOHV5YUZhNHA2dUZJN3BreDY?oc=5",
+          "date": "2026-04-19T07:00:00.000Z",
+          "source": "SportsMint Media"
+        },
+        {
+          "title": "Hyderabad police arrest 104 in pan-India cyber fraud crackdown under Operation Octopus",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbmt5d3pHekU3RGRyNmlXMHZuMnFLVEZLUGtrU01HbkhHU1lRN2k4a2pPa2hvU3hZUTlsNXViMHp3S0VhODRyUHJmMkJiTW1jeFlJNG9JMG1JZmVqTmh3dGJ3b1gxSm9tOUgwVGJtS0tEZFNpZ1Y0Q3lHeUktdDAycGE2VDVZNGtvTVQwb05HUF9ldmp4SWY4d29wY2NYSWlwbFFObUZJTlJaX3RjS3BaMDhIT0tiRGN5UkR4azczVDNqSmtXLWNBcmRpUnNPU01LeWdkYmJLU1FmS21DcXJNdkZFSFVJb2la0gHvAUFVX3lxTE5QR1ctQlpkNFE0VWdKek1ybkQxODBEUm0wZUhNOTZwODJpV2RENWFKMmtrUWFZdmI4ME1hOVp6cHBBaE42d2tWbUppN1htX1ZCQVVYSTdGckplSVVGZ2JHSi0zZTRmNkZQOW9iYy1vdWU0emI0RGR5WjJpU1lsT1dUZy1lMUxzUnZSbm1TQU1DcDlSS1RrTHdoOWVmV3RscE5JTGJBczZWWmFyaFdUb2xZU1ZnaWs4SzNEVGRoZkQ4NUVPdm9qd0REMDkzMXZwZ05BODZVNXlfc2R4LTJRb3JWVmtXTEpiY0JPZktBWFBV?oc=5",
+          "date": "2026-02-24T08:00:00.000Z",
+          "source": "The Hindu"
+        },
+        {
+          "title": "Operation Octopus: 104 culprits involved in cyber crimes nabbed from 16 states",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMlNVUVZvWGJIbVliNjA4YkVmamMzSFQ5MzVGeWFFOVVfa3ozZE9QS0cyb1pJZGFPczBPWm1wTFozSTNFZmE0UlAyUmwwY2c4Ni13NlpldGZWd1RORXRaaHNobEhScjFXZ3ppQjlGRHNabmFHdm9zZXc3ejd1c18zZmdhZFMtNVRfazBwekdWOEVFdDJqUW1Mdlk2N05VZ05GdjhOb2pYWE9GLWFWNjVzWURoczI4SEhSMm1hR2tNdThfWTJDS2FmRHBHUlhYa0pYbzM3bmZFeTcyUEdiRkgzVXZHMk9yM3FHdGfSAe8BQVVfeXFMT2tGWWVwbzU4aE1jbzhFQ1pJTFJldHlqY3czMXZvUGVPaG5lcXhENEVQaXp5WEtXSmxjVS1hdjhJTEQ4SnRsX2ExVF9RRzhNOTZpUVhjYXh4UjUyTFh3a2FDUGdnd0h2Yl9TTEFWRmEzVm9HZTFwSE1EM3lJSkstVnRMMnViV05TTTY1S0wybUEyQW1GNG9IVWxNVWllRElsY3JSSGJBWTNqSEl2TzVsWnBoejVJVzRMRkdrYzhmYUpDXzZYbG5UQlZMY3FBWTdkZU9DZXVsaVBxZUJmdUM1d3lxbmxnbkhhWWFKYVBtejQ?oc=5",
+          "date": "2026-02-24T08:00:00.000Z",
+          "source": "The Times of India"
+        }
+      ]
+    },
+    "105": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"105\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Losing Money in Cyber Crime: Prevention and Safeguards’: talk by police officer. On Mar.21 - MYLAPORE TIMES -",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMGl3VmlYZkQwNU5BWGVOS3diRUJkRzZ2U3JUTWlwRU1wOWJ4dUl1Rm9DYWo5QUlidnVEUmY5QWxzbGdCYk1GdktRTWpfTGo4U0lpNEU2SHNxdzMzdVpjbVJvdnFNTjN2SEtJcE8tTmRHQTdjLU9xbzhtLVljNG5RSzI2Mk52bl9IVHp4UGZWNGNfSUxJSmExMEZLd25tMjZQSHR3UDZtSFk1NEw3WWZWUFZjNnE5RjV5S29oTGMzWTR2MHM?oc=5",
+          "date": "2026-03-20T07:00:00.000Z",
+          "source": "MYLAPORE TIMES -"
+        },
+        {
+          "title": "105 arrested in two-day special drive against drugs in Chennai",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMm9wV004YU8yWmhhRTV6elJzaTJsazlnQjc2Z05UekdJbzZybTJaaUlFNmlFbGo4U1o4MU43UUZ6emwyZWo5OVdZOHJjYlRJLWVRdzZCTDJIaTlPai1ieE9idjc2TmlPVERlUmhDNVdpZjFkNWRlaE54ZEJoSmRWM1lrWnBXV3duTlRiWkx3Tm45Z2N6d0dhOFZkU3FzTHFLYWhSd0xObG9Rd096MWZuWDEzMXNkaGRkU0JHU0lYTjlSazBmUlHSAcwBQVVfeXFMT3V6TkxKYVAzdVRndWJWczRwUlF5OHJobE5FZi10RERIUWV1WkNEQVN2Vk9Qeno5WmV6WHdaaVVSTk84d0tnb1hSQ05HWkQ1cjJTaFFmQkhjVHZPNmVZQ0Q2enNkTkdDY2NqbnpvejVvQktyUE10c0JFbjBaZmlGNVp2SjJ5Ujl3c2Q4WVdnTUhkY2piR2gtOEhPYXRrWlV6d3pkc2lSZUJ3d2F1ekdMZGhvTlljTUxvaWhUd19KeENwMmMzVmhaTlhpTUpC?oc=5",
+          "date": "2026-02-02T08:00:00.000Z",
+          "source": "The Hindu"
+        },
+        {
+          "title": "Murders, other crimes have come down in city: Greater Chennai City Police",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNENGNlFxRDdBVWRLZ3c0b2IzdVhqNlJib1dOaDdiRzN3aG9CYVlHZjJNTUkzYlRnQWxqanpWbXpGWFYxRXdYdmMtclNYak1TeEZkdXE5bTVIY3ZQeXI4STBfR2RIOHNueFc2UXprVllEaTIwUFQ5QjYtNjNqZGlPWWUzM1NHVW1hNmNTeVRpTUk4Y1F3a1drVDl0c1RSZFpfRUlCOWg2REpiNFdtN1g4bHZEQTRmLS1wekc0SUtEZGlpV0pIS094bE5Fc0RMNURvVktPVFhtZ9IB3gFBVV95cUxPX2tkakRSUldvLTQzNVpHaGVmcTlPU3lIZ3NQN0tOd3BnUjJFdTRhTXNpRVBMcEYteXQtOUR1RWNTSE9lZHRvbHU3clM1LVFrZ0tQZkJ2YmJ1QUJsbVRSWkRhSkJFX2pDRmVPajU3dmo5NWpWeXBjM1NFcWNRZm5lZ1d1NlR2X1l2Q3Zubk12cnp1RUJJRThldS1EQl9NYlRhSWtXTTg3OXFlamFfRmY2Q1lsUXIyMWpUR2VlVTJtQXh2dmNpWHVpMGdPZ2JKT0UtY0J6M01YWmFLaTY3MFE?oc=5",
+          "date": "2026-01-09T08:00:00.000Z",
+          "source": "The Hindu"
+        },
+        {
+          "title": "Chennai records fewer murders, property crimes in 2025: GCP data",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWFY2cFlDTzdVODlKUGVmLV9xRDBWZDIzRzBSY0NZV3k5YjNkZU9CeVZQUXhUVDZlaF8wMWpPUlVnRVhOYTZsQlVzeGNyMzRxTWVfTzVqQVNsZzFOVG92Z0lOUmgzLXhxajZSOUl2M1cyVFAzXzVvekt6MWRQMllEbU1nTmIwZUJZS1N4R045VS1FUl9RTFdrR3NISGRWd9IBqwFBVV95cUxNZEhfdHFQMWF4TEFpd0RKQ2t6WFBOSTR5M2tUbEZGeDdHZXpMTzhYdldaM3daNXY2aHRJUnpvRTMwVVUwNUgxSVo2Y3B4V2Rzc3ZwT1JfY3hDZl9tVTlJNDZjZk54U3JoaUpYQkxKcnJfSVNmQnBxb2J1VnlUMWt2cnpTUGJVaEFucTJ2bDVNMkEtRXZ4UGg3c1g2ZTNHS2I5aHc1WFgtSDJQLVE?oc=5",
+          "date": "2026-01-09T08:00:00.000Z",
+          "source": "DT Next"
+        }
+      ]
+    },
+    "106": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"106\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Post-cognisance, ED’s arrest power lapses: PMLA court in ₹106-cr Axis MF case | Mumbai news",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTS1TdWd6akhWTXBFQ2M2VGFqSUtLVW9hYmxPVWlSc3hXeWZHS1VacmxhRGFzTHlOVUg1WC1MQmswa0tLMDV0T0dWTC1EdDlJQXlWc3BYdjc0MGNrSjRyTkt6RVhQN1poejJUUng2QW9CUkpPOFNLWnJtYVB3UG0wR3BmZTFUNjdrTndra2VVWFBNcWd6b3BSWEJ6MEVBbjZyWkFsRnRqTll1MUd1SHRqUDBHZEVtUVdQYjV2Nl9IRjk1M0ZzWUkyaUxudmlpU0VlbEdUMzRaeGowWWVn0gHiAUFVX3lxTFBfNGpFUjVMZDlUZ0pKSTMtWW9FRVAzWW5qS2JmQ01vSjA1ZkxHOVRha3ZaLU1NZ1FUYVV1SGx6cVhNaGQ0NWZEREhyOU1QSTJfYW5yNlVkaC0tYklnb3Q3YmlpRHRJaWNPckJsWXBXUnQ2ZlpfS2pnOU5aeWFQQmlEV2JXZkpyS3BNbi1LQWtyYngzZm9ENFJTdURoYXp1WFJsVHcybzZ2N0REOVVRZ0JWR0lqeFhBeUhDdWl1UDBCS05GS3NOMk9WaFJwYTdQT0lENUQ4TDNTcHFEU0g1Qk1qSVE?oc=5",
+          "date": "2026-03-23T07:00:00.000Z",
+          "source": "Hindustan Times"
+        }
+      ]
+    },
+    "107": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"107\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "56 of newly elected MLAs in Tamil Nadu have murder, crimes against women and other serious criminal cases",
+          "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOb3BBSDFwUmROS1VJUUxWN0lnaTl3MkZiS1NXd0FiRUU1d3M3ZDRwa0U5aWkwNm5NUUhORDctM3Y3QkhCMVRXckZDRk9QeHZfUkNoX0RCazNjbnAySmxCRU5GY1htS3A5dUM5QXBEQVN2V243dExGRGNmWFJYOTJXak1keWlxZmQ4ckxBZHlKNUtHRjNncHZFWmkwN3NFeVZoTkVXWnNxdzNzdnp0bndIVHdmV3VHMmlxR1p6WTBYSXpFMjJWSVZpSG5aUVBNUEpZZkk4QnNvZnlQdGlsZHBQQXZiVVFnSGlLc3M1d0ZveHI3cWZDUDBjaWpObDNjbkRjNjJLUWZYQ0ZibnRRQzJTQjg4VGRSNTItQkZYNjhsc25kWXdBa1hZ0gGsAkFVX3lxTFAyVnA3ekNyQUtETC1TUlFwLTFzRkFhSV94LWJncXdtX2owejlDVHVIeVJTVTYwSUQzZTlyV0c1RnJqMkhkNHRPcGtnSlhVZjJSVGJaQzNoRzJubW9YeFo0bTBwV19MOEtZakhIeHpCZ3hCU19JZm1XWDJTTWxlNXVERG1iV3lyZmFUMHlnZXcycFRtdFJWVU42S2JHcEplamtQTUlMd3RVdW1MYi1FWVdyaV9mYmExVFpybTRKLU5iempSQkpacFlRRVFiWS1QQVZreWRxcUJPeGx6VDBIWTRENEZpUUwzNnFpRjRrRDJmbk1PYzd3VmFHS0dva0h6eGp3eTJEX0ZVRjRXd1lyblYtejZMeExvRVhiajVoZEotVnltWEdfbEFLQTd0aw?oc=5",
+          "date": "2026-05-09T12:50:00.000Z",
+          "source": "The Times of India"
+        },
+        {
+          "title": "In first under BNSS, Gurgaon police attach, auction car to pay fraud victim",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOcFRnaVZPSUZwU0piNzZQWnJuNlN5dG1OMmFmZ3hRUlhGVUdFaDlDeEM0dlVaSU5nRi1ZdnpwMGhrbkoybEhJNTRyVzZfdW5MUDBrWkNFdV93ZWtqNXpsbzJvR3JLenNxR2x4NkE2NHlpenlBUllmcHNCcG56TzQ1RWl3aDBKLUlya3IzSDdHNXd0cXByZVRjTThoNm9FSmpZVXFSTDZjY1dwRjUtWXRQTEtWMTVMNC1RX2VCWmpzLWtKUGdjLVhnamxNcXFqQjRsUU9tTDBTQUdoZm9Ka1lEaER30gHnAUFVX3lxTE1YVmNheEE5d0dNN0ltX1d0RGprT2FERHZjQ19HUFl2aXNwdWMwaThMdWVzUnBZbHhQbEM2cmR5RGVqSGVXRWxJdE45all3OHFvN2dKOFBzZll3eGhMeHJBRzMxa1QtNUJMUV9TUHZnNkZlUFRFV0FwYWFoTTFCLVVoellIcVZuS05qYjIyNWJiNk9zeWxRTV9PX0gzWjdaVjQ2SjItY2hjbnNUbmlfb3NWRXB0VXhLaDJRWW5uNEFMR1E3dmxjVVcxTXA2T0FNLWZPUXkzODNHOHZNcnpiODNZZlFTaGs3Yw?oc=5",
+          "date": "2026-03-04T08:00:00.000Z",
+          "source": "The Times of India"
+        }
+      ]
+    },
+    "108": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"108\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "‘108’ TN ambulance staff deal with 800 assault cases on poll day",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcHYtWC1vbmxqNlJScW5GZHQ5eW9UMHlxRTN1NVVZcUo3dENNLTFwdG1TODhvU2VoU21KWGdpVl9waUcxTXp0dXd2dFRJdGxWRkh4eE4zaFBaYmhXeWpPTVlCZExEQXlEZDZKN3pkTWQ1Y1NNZGhvQjBtYVJRcl9pNjJWTHJYbjlRaFdEcE1HWUMtU3JKbDlod212cDY2dzVUak05NnR6ZkFFOE40cnVUWWJrbnpRWTJiUklMOHA5REJVdHPSAdABQVVfeXFMTWN0NG9VTHk1a2Npc0VMTVU3YzVuRk05MmtYR0VDdG1JblozbkV3c0t6UGNXUTRVOTF6TXJLWjFKcWlsNVU4OW44S0lEVWhpTk5MSFlTMjhnZUswUjRXalpIWUVGZzVRN3hvQTd1Vk5NNFRYZ052eG94VVdBVGhiTmtMdXdVN3ZKaVlHbTF3WHlFTVFmSmE1QXEyMFVkbGdOTHlTZURJbEZIeTdYY1ZxVVFzRzlBS0JRM2tpTWxDUzF4M3pjMHowdUpTTjBoUFBzbg?oc=5",
+          "date": "2026-04-25T07:00:00.000Z",
+          "source": "The New Indian Express"
+        },
+        {
+          "title": "Odisha Migrant Worker Stabbed Near Tiruttani Station Refused Further Treatment & Left, Say Doctors",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZVdKWF9Nd3M1Rm9IUlV1ZGdlVXZVYWJ4TEx1cU5vbzZhckctWktObUROcUxUdTlHdU9ZTy1ObG9iN01zaUlienFwNThuZ3QzaFRNTDJNSE55bEdabVpfd3UycjJXaklYbFVFVWxPVDJfSGEtSUpQWTVVQ2NKYmxwaVlMT3Y0OVZMM3pLdmtBNDF5STNGa1NQX0xvRGJvOGFWcTZFUVl3Y2c1Uy1kZF9zeUw3TU1FWWdiUnJSeWpzdk9iLS00QUFYNThzZkFhQTl2N2xhZlJhODNKWGEtUjFXX185SdIB6AFBVV95cUxPOEtIU3A0ODN2R2Y4eVFwdTZSU1ZJLVZrMDItdWtBeG15bWE2TDRlS2FDNFF6QkVHOXd5OE55aTRablRUcFlxd09DbW1PTDlPSVB1cExNdWJaS2IwWmRWR3ZqQzNNUm0wbUx6LVZ5a0JCeUVVQ0MwcEtacVlfRktsUVAxbHVvaDEwNDJmaFNaS2JVMndybng3ZWx6dWFvYnFaazlkME1zN3ZOUWFUUVVFOTJmQlNFMTAxek1sQzFFZzFHZUdDdjR1NzFvdENJNXkwY1B3SXB4UmhMRU1fSmdaR3kzQU16OGN5?oc=5",
+          "date": "2025-12-30T08:00:00.000Z",
+          "source": "ETV Bharat"
+        },
+        {
+          "title": "Auto driver ferrying students dies of cardiac arrest; kids safe",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPR3VrTGd4ZFdUU0RrNzZCV2FfTU5YSVVEZlcwcnh4VjVQdWV3NDFtbWhvZ1lYaXRtTlZNR1d3OXVHTTBEczZYNEI2dGhjRGthT2VsUjdhMHlfVVk1R2N5MGdmNnppdG0tYllHbTExTmJZelc4X0o5bENhQnRDcWV0OS10WmZYUmQ3ek9LUTBDZ1ktdVFScXhRVHdaUVB1RklERExCbnN4THZrVTRibU5WNkhQWW5DSGVhanMxdWQtQUZhbzVlZ0JPTi1ZYzU3Y3BjaVdJ0gHYAUFVX3lxTFBxakpWUWRVemFXZ2s1V1RxOUZuaTBia1RVX2lyN3dYVXduV0lwX29ZZEUtel9qZ2JscUx6TktMaHQ4cERDaXZZa2lRQTdIZzlISEZ1STl0b3B2TV9ESXJ5czJWVnpuc2pZa3JCMldPWmJadVpVRmhkRlg4anl5RnFaOGluLTJ5V0xpVW5nSWUyQjRqUXdKQ3Z4WVhlUkZxeUM5WnptZjcwTHVsWUJnRjVyNWU0NHgyeUs2M3hrbEZfQTU3ajRVV3FxZU1SRG4tdEh0cHdaczdmUw?oc=5",
+          "date": "2025-11-19T08:00:00.000Z",
+          "source": "The Times of India"
+        }
+      ]
+    },
+    "109": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"109\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Two Arrested In Chennai For Hoarding LPG Cylinders, Officials Say No Need To Panic Buy",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMzZnZnAxMkJrNlFRVzFjLWttQ0JMc0Z4VDI0NExuVjRhODR2RWJOZml3OFpQSFplQ1JmM21VT1FkQmtiUmphZjNPdlIwM3RXUENxNzEzNlh1T1paSGFMYVJISWZqaDMzZmNHTWdubkFfNWhTWUJ3OFYzQ2xSM29WbkhBSFlDZmFUdTRJWUhwWGJLT3IwZ1ZMczBWSVRRY3NVb1FSLTZaUUJXSm1GMnVOcHB2VmlaUVdYS3hPczVFQWwxQnhpb1N4dmdXZ2vSAdIBQVVfeXFMUE1Uck9VZnRWMnhfTWxnaTJYVEl6VnFYV1picW5DTVV4Q0xkeFpmVjhPczNXNU5QX3A3d0hpelJxX2ZraXI2N3lmRjJWMURxZm0zOGhINm4xZTUxTWJndTBDWGNmajFSUnIzRjdKVFdXOFM0TW14djVDWG9CMU9tcUtTMFUxZGg5cE5tOHBhU1RIaUlGMk5rSDJoSk85U2pJNGV1M3Rfa2FxLURFSDNkbnY0elY3cmg4MDdPYXlpMUdxb09mQ0lOdVZhNXR6aVRpWWx3?oc=5",
+          "date": "2026-03-13T07:00:00.000Z",
+          "source": "News18"
+        }
+      ]
+    },
+    "110": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"110\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "111": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"111\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Three get life term in Coimbatore college student gang rape case",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTko3eTFtS2g0UWFVMzNIOVNvN3lzMFZ5UF81eE42ejFNdkxDR2lHeUlaUnRCdF9KQklqRXluejFVbGF6dlFCcnhRLWpBUnVzLU1WZkxLazVjQzJ0bFk3YXRaSFJ0TEpCbUFRVzB5VG1sX2VDUXFfRG9MZU9oZldKdi1MeWcwV2lYUE1Pdzc2Q004bUZoSGFJZnBUekpDYTZiMXZCb1hTQzEzdEh0QmRaM2hPTkp3QUtRUlpyamI0MVBMNVRsclY5V1hROERRSlNBdDY5U2NB0gHbAUFVX3lxTE9nbTd0dUFrek1iRm8wQUZsQURiN1U2VFJENVJyOGhOYWFaZTZzbDJxTnBiOTBld0VVbktHaG5Md3JSSGRyTWNIQl9WbUs4YUZ4WlNUakcwYnJOOU1Rd242eWFJZ1M4dXVoeGNNcHEwU1NBbnp0TV9YdnBxSU5FUldwTHdFTDA3QmNTTWFaTmlhMTdLUUk1bnpHaEJNMGEybE9peWZqNG9ZTFk1b3RxQXlZRmt6aU1TU1J1dzRTV0J4aDBJbFJIUkNQbUdFVTVFVUNLSmg4NWhGcmE1VQ?oc=5",
+          "date": "2026-03-08T08:00:00.000Z",
+          "source": "The Times of India"
+        },
+        {
+          "title": "₹1,000 crore cyber crime racket: CBI chargesheets four Chinese, 111 shell companies unmasked",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZWdMNWZYdGR0cE0wQzVPMmtHREV0RW1pa0ZnNlhWSVFBVjVDOFdDRTQ5dDk0NUhmSWxERHp1cHE3djF4R2llNzlQR0kzekVDLXNVU3J1dnZVdjFBMzJDU0xuT3FBODdsN1B2bkxBYnRhRzZBTGQxdUxybHpyNUZCcVJ4U2JTbkJrLVAxQkUzbzJUSUtPWG5iN2Ywc1R1Q2IybHdCaFBxNkplM3gtWG5fY19uajlzdzhBeWdNVjJEVEpJSEllQlhMVjF4bmtjSWhYWm5qLVFBMzl5UV9Qc0hMSmNn0gHnAUFVX3lxTE1MOHRSbVVkUXZoYTZCYXZtZVQwSTdmMGlTZDY4NXMwZ2tEMTVEWnp5OHlBTGFCZGl0VDloSGdTc3FUZ1RKbGpCa2pmV3F2U1Q5U08yajYzRWdkSkhGTUNjN0NBQ1pJNzVmY1FpRzJfeWQ4YV9qMXJJYVFLdFEyMTZmYnBTWkFpUnRELWtYQVZBN1pQbV83YVozM0wzOWZiMlprdHU2eDhQXzd5OUREb19NcVpyTDNpakRhZ3VjWmZXdzA5MTdpczBrYmoyWE1Wd0k0MndybVBWSjIwY0JDSlpxaVh5YWNoSQ?oc=5",
+          "date": "2025-12-14T08:00:00.000Z",
+          "source": "Mint"
+        },
+        {
+          "title": "HC directs magistrate to examine Kanchanpreet’s arrest circumstances",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNmtOemtubjZzY3hobDAyNnktMUJBcmFSM3lJUy03Q2c0Qkh1UlpTWDhfNzA5aHRZSHk3RjFxYXgtYkZMLVd4SDBCQjRTTVMzVlMyQlNlQ1lPSVhzeGlVX1ZlTGZ5QjFzdDc1QTFLY21TWDJmMmotS3NDbjNVTFNRWi0wNk5uU1FZQVJoT2RtWk9aQVZiaTNYMlo2Q2IyWlduejBjN0RyalBpUUVFamo0RWR2ejF0MGlJNzJfVS1fTVpNenEzZE1URFU3NUxqZVZNZU1WejB1Q0o1OTBCS3fSAeMBQVVfeXFMUDVSU09rOWU0bE92bXZmbl9CMW9RdHdESWlobEVqeGtyRGhBVlRVb2l5MlZQQXhsS2pZdjVyV1BySVNvVmJkUkFodDV0enR3SUdjS0poX1J3amthY3FVTGFGVVVwZWxPVnluUHc3b2YzZE9XeUwtdE5DM0VrX0NCWDJwbmFneXQ4SWpES1JiMzR3RFcwVVl0T3pCS0lCdllGT0dUM2ZMX2F3ZVc3TElzLUNXUG5jWmxSLWU4SVF0M1dWSjB4eGExY215aV9lMG1OWTBNd3lSbHN2M0lGeV80Zm5CSW8?oc=5",
+          "date": "2025-11-30T08:00:00.000Z",
+          "source": "The Times of India"
+        }
+      ]
+    },
+    "112": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"112\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Tirupati district police crack jewellery shop robbery, recover gold ornaments worth Rs 14 lakh",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOYlNmanJZRy1adURJWG8yelpPemc0OXlmZUtLN1oyUXczbW8yMnpiMk1zbEFyT1lhSllnRnN3dDlULXVKRWs1OG9rcFZhd3A0a3dBR1FpMnJWS2FkakZtWUpNLVJiZGV5bzhyX3BSX3BoTWFRTGttcXYtWkhvRUJMMEdDN20xV2diT3VZWVNCcEJzWHN5V3FKRjFLSWo2VTZ6VlU5dEVDM05FV05BSGpRTFZad3NKSktOQTVTRXAzd1lqXzR0R05maXdCM25yaDVKN2UxR1p4ZnpTbFFnZUduemZ3TjByWllfQV9wX2FEZWd5Z9IB_wFBVV95cUxQemxSazgtRFd2YXZqTDRFZ0FTU2J2SWZlQlJRR0Z5YmJEUE51blREX09pMWg2REw5T0tWbmVIYXlfTVJqNGRSUjV2V2VzanlSSXVmV2M1VFQ2d24wREU5bEZ4RkN0UjM5RHNkX0NFakxHM2MyU2U4V2xWQm9Dc1N0THhsVllvVlpIZ2d6UVB5cUdBSmprZUVodkRlN3JEazBHYzJsTTY5M2RhQXN3aVQ2N0RyMllNNkxoX1I3SkxvS1pJemFHRWNrbXhEVF9Fdk1HcEtVdmhFSC1nR1RtVTlmMllEUUx3OWJjZHlQZWZvRjRIcnNqWlpSWkdaNmR0cGs?oc=5",
+          "date": "2026-04-12T07:00:00.000Z",
+          "source": "The New Indian Express"
+        },
+        {
+          "title": "Assembly elections 2026 highlights: R.G. Kar Medical College rape-murder victim’s mother seeks BJP ticket",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQLU56d3V0NzhRYklQQi11RExlcnBnZkE4eUFWVkpwWUJPSG5nWTBSeTBJa3JyaF8wN2lFaWNkWDdyT0JIT3R1b2xZS1Vaeld5RnlkbWg0RXRlSGRCX1BDdkNuYXF1Tmx3cS1NQld2MU0yUklRTTZfcU5UbmMzdTdEUldwRDZTU3Z0cTMzUmEwckNiQnRuYXBUSkNaenM5QW45M1p3a0dNTExwWEo1bm5UbV9zTXBrcU14SVNRU2paMGo0a0YzOFI2UEl4WDVOdTJCelZKT29tamo1MWptSDBnY9IB5wFBVV95cUxOVGd6VlJDRHZINFE2NWZFRU95eElLLWFIcUFnUjlwaTB4Qy13LXpsa1gyWFRBdnJUUUVEMk5xc0pKQmFJZldjNWZzbENYc04zTDFrOE02YmM5STExdGk2MFYzNVBPTEdRdFRkeFlIRjFjWTRkV284X1Qxc2RfcmlWUWNId25BWjJEbUpicWZ0N2tJbUR3UFc3Q0JLMWktQm5HblpXREd4dnlUWGlYSnlPTmp0WnI5SDZEdmdYYjUzZzl0STA3RWZYWXJPejB3VzRfYWxjVEhGQ1M4WEZzekR3WEpSaFBKMFE?oc=5",
+          "date": "2026-03-19T07:00:00.000Z",
+          "source": "The Hindu"
+        },
+        {
+          "title": "Report illegal sale of banned ‘manjha’ on 112: UP Police",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRlhVY2tvNTVYTFZzQ2E1WWlPMjdwQ3NMRHdOUDRWb1RXT0g5b3RFT2poYXN5YUZZZEducHJ0X21yd2NoUzhGRjF0MGwtZEc3V3NYTHpKUjlPYUszX2JBaFR4VWZOVmNYeU5Uc2JHWkxBX3g3X1c5a2pPa1ZvdlhYZDJBT3UyUHVJRHRwaFo1NzI4QnBNeUk1VVFpVXVtTFUxSGYwRVctbmplNUFOYllNV1dBVGc4V1BnU2M4ZU1lbHQ4YUs1ZXBB0gHMAUFVX3lxTE9VUFNxZVRTOTZQQnpTQkdvVzE1MWUxTUZNYkJIOXVFVXMxT2Jfd2Z4ZVdBYnZoX2RRVWJWTVZ5TWRTUzhFRjdFYUliMmpyY2MycnY5WERGY3BkVm5kYWpnYjlGaGMwMEZQLVhIY3AxSS1iM0dHU19oLWQzcnE4bGZQaWUtdHdnZHg1aWc2MTllT2dOcko3UXF5dV9hRHhMampQSUxxVXZYSHJuc1hMUUJlWGVMSzZuZ0J6RENHckRvc0Z4a2doeG5NbXlkSw?oc=5",
+          "date": "2026-03-14T07:00:00.000Z",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Driver of Chhattisgarh police's 112 emergency service among accused in teen's rape; public outraged | India News",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPenJvWUNvTk5YY0RGRWxJYkdlMlZKemdXeWZQRndEZ1RzQm51eDkxdnpjSXotX3BwTWVKQ0N0T0NDcnhrSUJDMGxmOXhneGgxV0NNWlZlcWRUYlVNeTZCMWx6eVdBWFZPcGZQb3p0N3VnUzhGNkpDcUpvcjJJUFEwV2xSUjQ1OGQxSFF6NEI1RnRGQ1IxVFpqd0ZsbG5QRWdwTGljY0picTRtQ3N4RTFQMGFDQnVfXy1kaEJ0b1pjZkxUVTRLcVhFRURoRGU1UGMtS3gzMDFsak1DdFhONzk0b2JEdFBTNVJVSXliVzRVRWLSAfYBQVVfeXFMTlZZSXlTQjRpbVZ2UUQ2aUVacTR6TVVrUGNnSElyMnNJclhXeGZYSFQzdXZOMEh2NkRFN1pKUnBCNW9xaTR0M1Y3dXo3c2o4b1F3c3A1VmxGUW5xUWRVSnNjcjNtdUlGYTh5XzhmLU9LQjEtVWV2MVJPSVk0aHlhQnhOTC16Y2VidHVzVVBHeVoyc3g1bkwyWDJMeWlWbjVrQXpZNmQxUVZWSjZQZExWSTIyZnBlOFRfSUpOYkc2d1BsTF94RUVPRFFGWFA4UkNfQ2E4cGNHanRoeE40c0hENHRvR25mVlpwczRFVHc4QUVtLUl0ZDRB?oc=5",
+          "date": "2026-01-12T08:00:00.000Z",
+          "source": "Hindustan Times"
+        }
+      ]
+    },
+    "113": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"113\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Raid uncovers LPG ‘black marketing’, 12 cylinders seized in Kannauj",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOd1ZRXzItZjJNZk01NUY4RE9vYWxBSlRyUTh4aHNRLVNEbW9KVTdmdkNQNkkwU3dKOGFDNTM0ZmV4Y1NYMVdKaDBsTFI1U3U3cWdXdmM2dEtOcnVJTFdnejBVRXBUSDd5RnpkVFJLVS1KbFZibHZGN1dkaUtLNWhhLVhUb0lVTU1oa3Vrck9VSTV3VFA5U21kUmhKLWFRdGFYMmpXTERZeWdpVEFHUHBKY014S3U5VURQMkdOa0diOVdnQ1Rid2dNT1NmZlc1Yld6azlsUNIB2gFBVV95cUxOemJzTFZKSFBXSEdYQ1VBM21ncENhczJNdDZzNlNsYS1IRXRxZHk4SVQ5R3V5c2VwM25uUk1hdFFfMndiN3h6MGlvOGEzdzBTMG5HbTIwV1k0VnpiV0cxOWpMNkotc1g4bTVJbnJfWl9fa2d1alJvQk9CU1pyWTFIaTg5QXhjNDhITHVjVFozQUVtLXY3S09nZ3czaWtQTlRfX2RZSUF4LWhXUHduNGhmQndoeS13ZmMwak04N0xTdmRlQ0lmcThjLVQxa0p0VmEzM1N4U0N4cGpndw?oc=5",
+          "date": "2026-03-15T07:00:00.000Z",
+          "source": "The Times of India"
+        }
+      ]
+    },
+    "114": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"114\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "115": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"115\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "CBI arrests accused on the run for 9 years in Rs 4.66 crore bank fraud case",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQV9XWHlZQThIV3p6YVdGd2ZUeU42M0JoaklOb2R5YWdhVkNUaWxiX1dxd3gtaWNBdUtXR3Vja3R4a3Y3NnU4LXQ0azNKb21HSC1kQmlSUUdobkdjSUg0am1YUU9MbS1RVmtKY0FYcDJ1a0lvY3A5ZEczcWhldVNKZ3JwSlQ0cDFSNVJBX2Jsd2RGU2dMZ0c3TVNJYWVoUXQ2M0VsVWNNaG9teFVOcUdLMXN3VFRheXRNNV9xVnE3M2gzMHNTMEJ4T09lbEc5cTDSAdwBQVVfeXFMUEY1TzF6MS1wOG1PVDBRdk1pMHJoYTY1QXg3dGV0WlRNd05uWmJUWnBlQ1VKNHBuSl9LX0g4R3pxeUxfUzVoWGlDaFZhTDR0Rlp6NVh6TUhyMGpIbVNZQV9TeG1OQUdmYzM4N01rZW5SeGRyRGVtTms4WUo4RzdNSGstWm8wbnlZMmNFMk8xaHluVDFwY2tacTM1bjhMT2ZlRExzVHNuTXhuR0RIbS12YmxlbC1RWW1fNVUtZHFFSHR4dFVXUlpvUGc0eFlhRGpGOWZoc1NaSWUwVTRBbw?oc=5",
+          "date": "2026-03-18T07:00:00.000Z",
+          "source": "The New Indian Express"
+        },
+        {
+          "title": "Punjab Police arrest 115 drug smugglers in statewide raids under anti-drugs campaign",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObDVJUnpJOEw4RnUwZmpVdE5sUVNCbEloRU1SUXJIR0pmcmo3b1RFRjNlNXlaRHVIbGJRRVdxbHMwQTktNmZYejJFT0YzYUlFeDk5Ykx6dVdjMnM2NjJRX09nQ0hHWktmTkFOX0Y3X25oN1BkRDJ2NjY3SW5rZGNoTGFMb2JRdHVzdzhDZ1hRVHNocGhkd2t2OFo2NXk0TDVCdG1hMHR0enRJVmRIaThYa3RxNlE0OEhSUnFrSkd1eVZyOXlu?oc=5",
+          "date": "2025-12-25T08:00:00.000Z",
+          "source": "The Tribune"
+        }
+      ]
+    },
+    "116": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"116\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "117": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"117\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "NCRB report: Crime against elders spikes, Bengaluru has second highest crimes against women",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNV2VTWjZUZXBPN2xTM2t6VGZwVFdDWVZiT2JIWHZGa3cxem1lT05uUWI0SGhDTU5KbVBkV2d4aFU5bGtRYmJ3SlQ1M0VBUUJpSjhXWFpscE80REJhTFBtX2JVb0l6dGVNVTBmQXVnUXZiTXNJSmQtOTlzTUY5ZjRQdXMwY0JyTk96Y3h3Tlk3RmYxOTRfMXBHYkVXM1IwMmJvZDYwb0Q4RkNLelZkZ2tmRWlYSjk3RjlQSjR6ZFZOM01NY2dEZ2VsUHQxN0p0YWFNTUw5QzNicnJGOTdoZS14YmRVbUw2ajdSbzcyTklISdIB9gFBVV95cUxPcFUtcDZGdDdsZ1hYdmtOTG1fRGRyVHdKOEFudll6ak5LY0VBQXlZSTQ3UDRrYUJFUVYzZGNwc1piYXNsVmZYMVBMdnR1aC1yNXVBamlUWFJobUw4ZzFGRkF0dElWU29iT3BrMFlBTDFBN3d2dFk3WnM2WGFqRFA3MWQ5UFFaZGhRaGdZT1pqWDQ5SVZWSmdJNU9QMjdld0liSE9Fb01MQlVYak1VTEVMRjZvM3lvalIxS2J4cXd6MFMwVGhFeWI4SVl6X1lDMmZmOTZ3dmFiRmZBN3FuWnVQbjBRLUdZdU9ZLVluR2lSS2o2dTB1TXc?oc=5",
+          "date": "2026-05-07T15:37:04.000Z",
+          "source": "The Hindu"
+        },
+        {
+          "title": "Cybercrime police arrest 117 fraudsters in ‘Operation Octopus’",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMHhfMUtDQ2EyWDNjVS0wZ0Z0NjMyemQxRDl6LUpPTUlTcERudjdsQl9BZkYtRGdIVEFVMF9oTW9HRVVJVHFQc3lMY1FhaloxX3UwRjVWVjFsb3NXSGhsbFM1b0QtemlkalhNRkNtWVZHUldOWVE5NFo0dDlVSlZnTGZvV2NJYlhHSmppdHNTZzh3RG1DWWJtNGNhZktfdEczUk1Ma1N3a3RPMDTSAbABQVVfeXFMT0dSOEVkRzFVRE5Tem1MTEJoNGRnQVJFYWtzb2FSREVyYlVDNzBtR0NvT1AwVTdFZ3g0T0d6VXpNdGlWdi1MYzlIQmRSNzVZT2M2Tk1VdG95bnI4V2hic3FZdWtpWVhIRnF5VTUwNkhtM3k4SGVzZ2xfd3Q4MEphS2dXVjlpYS05cUpRVk1PUFVoSEdXaFdGS0owdk9sckhHcF83WFZwdTYzdlo4ZTZDaXY?oc=5",
+          "date": "2026-03-13T07:00:00.000Z",
+          "source": "The Hans India"
+        },
+        {
+          "title": "Hyderabad city police arrest 117 suspects, trace Rs 140 crore in suspicious transactions",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNdm9zRTZ1Y0MtVEpvVWZHUnE5S0psd0ZJd3Z1Tl9sVEFzZTRMWHBtLVAwRnFLR2pVTnBCaDNaeGRCZ3B6Z0RjY2c0NENKWkhnWWJXWWt5N3pJNVNLM2hUSUdlZDNFbW1HeVNseDJlamdxVy0wYnhzcXdVS09qS2JPc20wb3FKMGtMdF9qTG4yUFJ3d1NtMVVDcjdQcjRjX2t1OWNFV0tUV3hicGUwdnU0bWdyUWRyVFFQQzFSTE5adklwd0VqcldpVk5IbmlHdHliZXpDcVNFMFBkMFZsYnRRZG5WRzJ0NGd3SktOZGlyYmNrVFl1WFpZ0gH8AUFVX3lxTFBzN2Nmall2RDJIM056elRwQUVZaE1hbWUtRmZHTGUyY1JGRG5UT0dxRXJoUXI0MXpORzh5RVVVcGloVDQwZDBYOGc5TDEzQnAwSlg3b0U2ZzRIaGVLMVVWM1A3NHIyRF9ZUHlZbmRRY1FMWjJtTlZYZkZIclJleWlSNDFIWlRPTjE2WDlRcGxGTTVIYVU2clY2U0o2Mkh4ZjdRUXFaT1JDeVpsYnNidWx4M3hFalFudzZZUWI3dDBFOU4tSDEwRDd3aDY2RjFpVjljbjN0eDgybVB6UnI5cW1qVEN4NHRpZVJxT21OcnR1aEdnTDc0TmUyY2kxMg?oc=5",
+          "date": "2026-03-12T07:00:00.000Z",
+          "source": "The Times of India"
+        },
+        {
+          "title": "16 states, 78 FIRs, 117 held: CCPS, Hyderabad launches ‘Operation Octopus’; smashes cybercrime dens",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcExSai1GRGFBX1FFVDkxVENFeTFuN01KSXlOUmFrR09sMzFFOVlSWHAtUkllVUFvSWE4YkZqZXpZc0Q2Y1RBcEJtSmliVDdjSzJSUmRuam93Y3RLMkJRU0MzNGRHR2M0bkI1c2FubXZKaktDSFNsaDZCTThBXzdMNGZuTkc4QzVDdi1xUGJZTUdTSVRTT0NldXZtV1RLYk9hbVo1dVhTYlJlbXNCWUUzQUhBREw5SS01YlY2Q3dBNzhhQWtn?oc=5",
+          "date": "2026-03-12T07:00:00.000Z",
+          "source": "NewsMeter"
+        }
+      ]
+    },
+    "118": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"118\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "119": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"119\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Rape charge falls after Madras High Court finds no mention of ‘signs and gestures’ in deaf and mute survivor’s statement",
+          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOUjNVV0JNdkdONFhMcGV5RVk0U0RLcHpHM2pZaU1MUjVxMUlIb184Y1B1eWxobGNrYnFTYnFacnlVazRKVFZlejF4MVJ1eFFHckplQVJ4ZUV1XzFmQ1MtNm5nZUExV2psdlg4SHBWb2Z3UnpCTkdyYmZJY1dtZUNOT0hGOFhrUzRqT2xfbnRuWFlUWTlYZFJfTW9zMkxuazNrbTFKZUZkMDlWWk0ycHdqUXJZQ095VDBUbVBnc19GaVhRQmhpRzYxY2JWNUxtY3ctal9weWNaVjZYR2JRWEJnQVh2VXpBTFRaUW5nN1BhdUlEUkU1WjlpVk5MUHFsODE3Y3fSAYgCQVVfeXFMTWZsVnJQaTBkNHFIZkphcXEyTDUtaTRmX2RGd2JSOEZLVHVoY1gyNmY0R2pfb0ZKYlg1WFJCX2M3dHppbXZ4ak9VenVMMHpycnVwRFFaWTB5NmhMeEI5aXhVUlNLekVxaE5haXZZTkxWT0VRaENmQmFtVFpETVRXdXlNemFBUlZMNDlPX3ZvM3hydU1yOHg4cmNLb2VScXVsV3lLX0txNmdJY2xwRlZDbGo5TDMzUmlqTDVwQm90VGppYV9HUmFTN09aMG90cmNDSWkzdlpjUnliUmdpZV9MM2xqYlVncklxWGJsa2E4SUJKRzFud3dUT0JScVhhVV9ObkMtcUQ5UXNX?oc=5",
+          "date": "2026-01-13T08:00:00.000Z",
+          "source": "The Indian Express"
+        }
+      ]
+    },
+    "120": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"120\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Russian tourist allegedly gang-raped in India",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4WEp1N24yY3pvYWs0ajlITS1WTktNQkZ1Ui1BWnQtMVlfdEtrUkxWNG56aDFDTkVwRHpzcjZ5S05zTUxtdDF4UW5rRi11LTBNVUNQcDRTZW5TVXlZcHJZ?oc=5",
+          "date": "2026-01-30T16:14:03.000Z",
+          "source": "Ratopati"
+        },
+        {
+          "title": "Arrest of Venezuelan president: CPM bid to hold protest near US consulate I Chennai foiled; 120 arrested",
+          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOWEV5RzRuRUVzSjVjenBYWHFTaDk0QzhHN1FkWTc5b3lzcnBWY1AyeGV2WTBRam1YSm9TNUMtaG5BT1ZJNkUwa2pfUk1tOGtVdVVrbVpuNl90Mi1IX3lVdF9CNzZYdGFsWjBhbnJNOVk2bkptTnpjWXpsT3Y2THBma1MtZDdhY2lOQUtZWFFUSk1VYmtYcGVkWS0yX0J0NDFWcGlZSTRPTTVwbmFfdW5RQk83X3J3bVJGaXp4T29hS3l4cnhBeDV5anBrOTI5WlBDZFVlXzZuQWFwbXZra0d4X3pMZ19jUzJZbm9Gb2RpWGNRRldFb05ldDFETFJ1bWtRenhheHA3eEnSAY4CQVVfeXFMTWhFV19uOWpsNFZGa3FXVVFxUjF3OWNSZUlMZkVrT2ZXakdORXRabDdvd0hWRC15c3ZZcVJ5YndIaG1idVByU3I0MFNDUnRqR2xEZHA4RUszRU40QkMyOUI3MjZtYWEwRTFwSjhlNEZBbzgtZU5RR0tTVmY2QTV2SVJXZFNmUE9peS1COGIyWUlvQV94TE1OQ0lvUElXd2FFNUw3Q09LbG9VUmd6WFZaYTRBTDNSai1MMmhMWW9qRTkxdzR2dVV4NEh6cDVvVFR4QzJueG51aE4zM2Z0bGRvYnNERFJRcm5MRHFVOGtlSjVLblhzanM0bC1RRWVyYlFRcmVMOXhzUUxnVVRWRmdn?oc=5",
+          "date": "2026-01-06T08:00:00.000Z",
+          "source": "The Times of India"
+        }
+      ]
+    },
+    "121": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"121\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Nashik shocker: Senior citizen arrested for sexual exploitation after extortion probe unearths 121 obscen",
+          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxORjZ4ZjlqdlZRREdTdHM5bWU4Z1VIZjE0Ul9za3RvcEJiOTVUQ3JRbXFBdFltMXc2OWJkY3BPa21YU2lTTUVXc1RRWEFFUWFZbHFaWmxPM1BMbXM5TFhzYXdsSElFMHc4V1M3aHo3UWg5a2V4WEg5bGN6UnZpQjdhUXV6ekQwM1dTcFRfdU1zRnNuSTQ2ak5qOFlnNTlMaVZlTXZOeHJEa055NWtBV3pIVTRFTk4zTFBEYzJmQW5xZ0dVQVZDOVdYOVR1ZVVZU2pPNXJpc0tEa2IzQkIwNjRYZEV3OEx4WUlGS2U2d2tZcmY4cnZlLUl2SktzRmtaWkM3bng0c05wTVRyZ9IBjwJBVV95cUxNdk5rRUVFTm16N0g5OVJXdzZXOC1DeFRIaFJxbDRudXpHeW1VYUZWZmRCVHhVTER0TzVzZ3J0UzdzUEdTQUYzQ2tjLTEtMlVGVDQyRWlWOHpwMFpCSzJ5QmVMWFNJS2FEUWNrOWk3Zkd6RE5WdHNmMTZPUk9hTVdDSkJHMElUUWN6clFocE1PcF81Tm5ReWc5TWJ4X1UzVExZaWNLMWtNdE5EX2puUmN0Zk4xbTRBUEw0dFZZTEhqOVgwRnJnUGhvWER4R1EwNWg3MlBPR3JVNHZReEFTMnQxVlg0M2dQdVRhNmJaUlVVQzZNMUF6UGxyeC01NUc1SVowVS1XMUdlMHI3Q2JxZVp3?oc=5",
+          "date": "2026-04-04T07:00:00.000Z",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Tamil Nadu Cyber Crime Department Warns Public Against Fake OTT and Movie Apps",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5XQnVGNlhjR2JMUjFWSTU1V2lYbjh3WGJ5Z2xFX09POUNXVUVndWpLZ1dmbjJnemRWcEh6S3N5SkJIbjNtdHZMXzRiLVkxRmZ5Tk1EZXUzY3pMUWxvV1dEUU1FRnhoSmtSRmxBalRYVmNYcEtmUjZub0VCYw?oc=5",
+          "date": "2026-02-25T08:00:00.000Z",
+          "source": "LiveChennai"
+        },
+        {
+          "title": "Haryana STF steers away 121 youths from organised crime through counselling",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMVRhTmVzTUdlRGpvNDFlVTBhME5fU29tclNHMVNlZTdVdmx1bmFnMTE3WkxKazdRWEFkUXRGRExqSW84djRWWTlycXRaaXY1amxNLTJaTk0ySjhsT3UxYVR0WWkxb28ya1poa285VVFSY2NxMEVkS0FZR05GRVMySHpNZ0RVZHF1SkUwblB4SmJKbXhJUGltSWlSamdMQWotaTZHT21raEc3bE0yakVOZ1ZMdkxDRHFtMUZmbWpqb1lYM19OUExUZzVhZ05LdURpcHVV0gHaAUFVX3lxTFBJQ3R6ZDYybEcwanpTNU1SSGxLa0NlYlZEZVJHTDF0ekpobWJsRlI2STNoMFhpNW1WTUNPMlhEems5SFd1V2ZmUWdDLTV3SW5tMVhaYmEtMVFndXN6dWxKdmRNaGFpVHdfYWZLM1NRajBxZm8yN1pFZXVuV0lJV09EV3V0aGhvY3F1b3RXS3BIWmxESXh5bkd6akxfSm9WSEYzMkFyWEZIZnkxS2Q5ekpmbkF1UGNuS28wS19rV194SlhpbnJ1MTFqLVdtcjZUUGVhVUFrbWZDOG1R?oc=5",
+          "date": "2026-02-03T08:00:00.000Z",
+          "source": "The Indian Express"
+        },
+        {
+          "title": "Crackdown on chitta trafficking: HP cops raid 121 location, over 4kg contraband seized",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNdWZkeTg4QWw4UFBSWmdaOW9IVjZUVjZ6dkRHemhzNW1YRUVTbUJHLVgtQVN4ZVBlNlBWYzBMRUVuaTBTcnAxRGJfQmhEd3B0cWdiSExRTkZ3d3VkVGhBTUZIcEM3RHFLclAxVDNSby1Qd0E0SnNaaFlwT3NGNHZ3VFAzWUxfOC1Vb0hEbURSNEN4dXptRUY0NXd3Q2k2MGVMNWoySlprWHRQNVByUjJraENZY3h6SjhVRnZsakVwTmNDQXVQTm4yUE5weEVvQVBtS1k4T3EycEtVUFhBNWhyNWczTTdqbThVUmJNS01idlRLMF9F0gH6AUFVX3lxTFBkaF9SMUl4ZWwzRnNHRlFvNFZNSE8xT0YwbmdJRHhOLVBHeWhJVTZEdUZyZGJiTXEzN043TUdtT0ZWbHoxR3RQN2lHQ2RBSXV2cU1tRmRiNFEtWDJVaDhUZExXZ0NKRjAyZ19VQzltMUNsLTN2aFFQRDRpSVJGVkNBa09GQ0tDdUpNeGdNVWhoRmx4ckk4bWFPc1RXUDdLSTRIVEVZY01nZVA0d0pIRVJOakJaOG9FRk1yeG9nd2FiUmpMMHRRamNlSVlNWVAtNFh0Y2tMaXB5UlAzSk5odFU1TThzMnI5czh4d244SlF5SlJOS0g0VVA5LVE?oc=5",
+          "date": "2025-11-22T08:00:00.000Z",
+          "source": "The Times of India"
+        }
+      ]
+    },
+    "122": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"122\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "NTR police recover 122 stolen & lost mobile phones",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdTdZVmdpS19LazhDSklUUEF2OHBWUWJtVE9CUWhuYXBwZDBTN3A2WkpkWkpuWnhqNllyOTE4UHYtMm1RWnlkaFB2RVpvdmtfM3BtNWJwQW9LVjJlWW9nYUR1ekVORUJQbXliUDQxbzc3Z3JIcFF5ZWpiUVZEZTNfelQ1NTdLeWpnUHZBOHN5aTUybGRETkZHd1V0RVVYLWNhbHdOU28zcFdEd3FJNnpEZ3RGRlUzLVVRRV9XMW9EcHczaGla0gHKAUFVX3lxTFBQQ2pQMVJJV1c3Tm5qelpKOVlFQ0xIQXVteHdpZS1CQ3BjU0hwSVZicWlUMTBMQUZ2RXdQNXAxeFU4ak1LaVlfR1BkT1ZFQVBRbTY3UlRvOC02VUd4MkhXQi15Z3hzSzRaRFM1Z3NiTHd5dVpFOW1TYnZBSjZVRlVXUXM5Y1BYZVdicXdVMU5waEV1SGtPVDVrRlAtUUo5bXFTQ1MtZXJCRWJvR2k4eFhyMDM4WlBlbDFPamNEY3ZfcGRHNXhRX2JmLWc?oc=5",
+          "date": "2026-02-26T08:00:00.000Z",
+          "source": "The Times of India"
+        }
+      ]
+    },
+    "123": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"123\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Man from Erode arrested in ₹1.23 crore online stock market investment fraud",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQkIwal8xUHhWbWtFQTFnQ3ZEUXdfMXpKYmJxUlJKUXRMWFNrSENnUi0yTkI2VXpYVFRtcEMwWDc0T04xY0hPLV9PX0tzdW9uNXd6b0gzYUFHRWxBdzg3eUl1UGQ4RDZzTTFaUklQNWNTQ2RoODZxbldjR2JrQTRMbW5GbWRhVjY2Nnl1S3owWFhydmtMcWp5RFBLT0NxSDNZaEJHcll1NFl6TFo4SDZCYXVTdFh4dThKaFBxbWZPNjM5dDVXVEZNT3p2elJQaUJ4QTZja9IB2wFBVV95cUxOZDhoOVdtSlgzRU92c25SblFYR1l4REptLXliaU1PeTN4aVRUemZ6OGpIQ3hjX0JBS1NmQlhBQ0psSlZpTUlQWE1mekQzODNlZnVWbFhJOWhhTEd4QVVueVJtQmlsdGY5S0xDR2g1TVpFYlcxOTFWSjFyMXNjaWQ2b0NJRHZZYU5acW9ydE02YmxvZFB1V25iYUQyY0VqU2tCU29LQXJHU193UFlIck04MEgtdUtvVGx2aUR0RlphM3pwRVptME42Y1d3TFpLVGtzS0ZuV2k0bWJMVmc?oc=5",
+          "date": "2026-01-11T08:00:00.000Z",
+          "source": "The Hindu"
+        }
+      ]
+    },
+    "124": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"124\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Chennai Police Transfers 34 Inspectors; Commissioner Arun Issues Major Reshuffle",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9JTXpwZXNXc3piQnMwWkpGaFpGREVDOXgyM0YyMGZ0MmNuR3luaXBVZUNrR3dqdTJKT0RkMTlLc0w3UTBoaV9KQzhRaUxsWk5SeEgxWnAyY3VzX3dZLTRDbTJaLUlid2xLY2N5c2RoanZ5ckQ0NTJSNXJtdw?oc=5",
+          "date": "2026-03-05T08:00:00.000Z",
+          "source": "LiveChennai"
+        },
+        {
+          "title": "Chhattisgarh High Court gives pre-arrest bail to man in Rs 124 crore GST fraud case",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQVlCYXVUZVRLeU1hRnkzQ0ZpRGluNHBnajhQamZiYjdOaFE2M1IxT2pXdTJ5d2RsTllQQjl0cVBqM2Fhc2hwVklleTQ1ZUswMVpudDVnTUpmcmI3Skt6UkJ2Q2I2VkZ2QTREOHFfN2p4WUpPLTFUVnBiNnR5U3FoejZkS09VU3VDMHNMbHdIZmhBaXY3T2xBcllaMDB0WkpXSmtMY1RjWTJvRTVzUTB6RHlScFQ1Nm90U1d6T3NlaW9JYnZmV19Kd0lVMzY2ZDMzaHNRX9IB2wFBVV95cUxNTEN4MEstdTBSVWc2cnh3YkN2Y0EwdFlZb05Wa3ZudnpsXzZtSmZzMW14a2FlejgxSlpSM3pLYnBSdjkyc05jeWhfa3B5Y2FMeDFPMUNUNlozWC0yemFNdVVfVDlfOHYta2RZMmFXOGsyQ0J1NkoyZ2dkQXp6aWkxRUlOYkhkV215RWlFS0pZVXJ3dGduZ2tzQ0Z6UXF3a0FoRDY3THlzamZNS1VDbktGWEpRa2JtZnZMclc3a3dQaTVoSWdGV1RxaEVab0Z5dXc5MWk0WllFUmNNOTg?oc=5",
+          "date": "2025-12-13T08:00:00.000Z",
+          "source": "The Indian Express"
+        }
+      ]
+    },
+    "125": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"125\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Mumbai ‘doc’ arrested from Chennai hotel for performing illegal ear surgeries",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSXNEZnRsY0V4SUNteEFyRzZkeGFMQWVINElaaUFmaXRodlRBQW5ObE5FRnJGUGlxamwzb1ItSTdyX0Jxd3hrX2xRbERpbjVzSDhreDFqN2JtS25rd0phbHhscnZUVUlibWM2enNEVUZ2LVpDT3J5bU14VHltQThSaExld2pXQnJSU2JFT2xkNS03XzdWNjgtc21TZjFRa3NKQnZrRllYc3YySEI1b3loSl9wbEJ1SHhtaDZoeTc3OVkyUkN1VnBaNVI5emV4UG9oWTFZd9IB4gFBVV95cUxQZDZKOUROdks0Q2hOUHB2YUlDOTBpdllhWVN1bkpRY0VkWXNVZ2psd296d3Y4N09ManNxbkZUNTJ2SWF6eG52SEFsR2ZoMS02aEVOTW1McWE5emJ6cHpCczllamc1RnFUY1dVQjBIS2hJVHNMUzduMVVsOUl1QTZzZ2p0ek9oY1lPT2h3UjhKN2E0UW02SlFtTnZpektxTnRwT1M1YlZLNW8wY2xYZm1TRlY5NHF6ZlZKYUQ4em5jcmZUUExNMmw5VlZqTWxZMDhJaDZBZVZEc3h1TEoxMmxlZ3hn?oc=5",
+          "date": "2026-03-07T08:00:00.000Z",
+          "source": "The New Indian Express"
+        },
+        {
+          "title": "Coimbatore gang rape case: conviction in 125 days",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSGVzVWtpcDVHM3lsd0o4RUQ1bmRDRlZRc0dPMGdiMG9hYmtKb2h3b0UwckpDc0ZVTzFWd3EtMll4UnlFajlPQnVsTFNUUlRiN0tkc2R2U1preWlRa05UeW0tVTVNd3RzaW9YYkpFUDl6eXhEbFRTTkNwc1dVdzFwSl9DWWZHMHpHZEczRk8xbmJoVlF2b2dxaW5PejNaX3dKdnR0eWtDMjBNT1hNVnJGU0lIQWlfajTSAb4BQVVfeXFMTk1KWHdmNWxJbDVmanYtbHFfeFY2N0VEMW9uS251eDJDb3VETk51dFNHR3A5VEhDWVpqdW11elZVTm1ucklRWDI3RHUyNnRSdkFqMUljY250cTVJWFlHN3RpUnR4SDdFLWpPc0JTRkdxMzZpd25Gd3l0Y0RpMVFxdG1USXZIZ0ZucUlpeENYOVFxdG8tQVZTbW1nQXlDQ0x3WHV3eS1ONHg5SDZVX1FFNnQzU2F6ZXdjaEJ2MlhIUQ?oc=5",
+          "date": "2026-03-07T08:00:00.000Z",
+          "source": "The Hindu"
+        },
+        {
+          "title": "Mumbai-based homeopathic doctor, assistant arrested for unauthorised ear lobe surgeries at Chennai hotel",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOaldYZnRSZXJabmJGMVgzS1E4TE9rZ3dyOHc3S3ZrUVoyM2Q5Y0NtNEFMNl96OFJpTzBzUk1CSzJBVzIwODFWaTR0R0F4U3hJR29vR2g2a1k1MmNrQW13Qk9TVWM3V1g2QXppNkY2QWpsQzI3dTlrZ1d4QnFEUm1EWEhBa1A0MndLa1VrUkF2S1JQVGdsZ1BxN1pLOGhzd3VzTDBPaWx0LTdRaU50Wlc0THV1SVNZM0ZFOTlCQXQyWlRtWUp5SXdSNVhDcmRXYVIxX3ExaDdPSGNCS2FC0gHiAUFVX3lxTE1sWThXOHFvWndHOTFvWFNUT3BqekY4QjVuV2ViT1VqSUczQUxWOWxTYVhsMy14SllwLVJlMkJXSTNqU0kxWnFCZHdEdlJScjZ6NHhGZWhGc0RQOF9YeXE4eTFrOXNCUXlZb25XVFlKSzg1eTFwZzhMakJiaHdOekV5Z3NZQURNZDN2RkU0VDd0ZjZMRkxBSEhjSW40RC1lYkowdHFtRWFndFZxVEg2akVRZXRmeTc0RGhtZmJBQXlnbjVQbXlpQkZSdFctSG5fWWlYbGs0amxmZlZKQ3JZdEp5N0E?oc=5",
+          "date": "2026-03-07T08:00:00.000Z",
+          "source": "The Times of India"
+        }
+      ]
+    },
+    "126": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"126\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "56 of newly elected MLAs in Tamil Nadu have murder, crimes against women and other serious criminal cases",
+          "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOb3BBSDFwUmROS1VJUUxWN0lnaTl3MkZiS1NXd0FiRUU1d3M3ZDRwa0U5aWkwNm5NUUhORDctM3Y3QkhCMVRXckZDRk9QeHZfUkNoX0RCazNjbnAySmxCRU5GY1htS3A5dUM5QXBEQVN2V243dExGRGNmWFJYOTJXak1keWlxZmQ4ckxBZHlKNUtHRjNncHZFWmkwN3NFeVZoTkVXWnNxdzNzdnp0bndIVHdmV3VHMmlxR1p6WTBYSXpFMjJWSVZpSG5aUVBNUEpZZkk4QnNvZnlQdGlsZHBQQXZiVVFnSGlLc3M1d0ZveHI3cWZDUDBjaWpObDNjbkRjNjJLUWZYQ0ZibnRRQzJTQjg4VGRSNTItQkZYNjhsc25kWXdBa1hZ0gGsAkFVX3lxTFAyVnA3ekNyQUtETC1TUlFwLTFzRkFhSV94LWJncXdtX2owejlDVHVIeVJTVTYwSUQzZTlyV0c1RnJqMkhkNHRPcGtnSlhVZjJSVGJaQzNoRzJubW9YeFo0bTBwV19MOEtZakhIeHpCZ3hCU19JZm1XWDJTTWxlNXVERG1iV3lyZmFUMHlnZXcycFRtdFJWVU42S2JHcEplamtQTUlMd3RVdW1MYi1FWVdyaV9mYmExVFpybTRKLU5iempSQkpacFlRRVFiWS1QQVZreWRxcUJPeGx6VDBIWTRENEZpUUwzNnFpRjRrRDJmbk1PYzd3VmFHS0dva0h6eGp3eTJEX0ZVRjRXd1lyblYtejZMeExvRVhiajVoZEotVnltWEdfbEFLQTd0aw?oc=5",
+          "date": "2026-05-09T12:50:00.000Z",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Police hunt for gang for kidnapping, extorting Rs 1 crore from Erode entrepreneur",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOclBhR0NMUTUyTTNtbEdNUXljR1ZyS0JmV0tlbHdfZ1lXamF4RmE3MjFBOVJMLW95ZWxKVHVHeDZfcldFSElRV0s2bVJ3Zy1ZRENHNjFVa2Mzc1NobFVJZGJtazRzZXgxSXhIQkp1S3VvNHh1bWhTQlhFaURKc2dBaUdSdkk4ZGM0dzY3N0U3ZFcwMHc5R0t0NDJhX3NOZ3ZqYWd0V005RVcxbkVheFFXZGdjZGFqRVE3RjRYeHZQci14ZGFya0h4azlVVW9FWWZGNFJIbmtPZnBraknSAegBQVVfeXFMTTBUVDl4UkFmMUt4S2NoWkxCcGk1bkpDUGdzbmI5cUJCbGJUbURMM2tyTlViU0V0Z0RTLWVGaVlMZG1QdnZNT05PcjV1YzFOZVNacEd0SVFQRjFSX0VMVDMwX2RFM1VYUWxHR3hNQWFCMHZGMEkyUXA4c1RXZEsySXZXLU96OWJsdlNWc0w5VXdLUVhUVWtLVWxPdmUweTFCRTBaQUtqb2dCWUpZR3M4b3IwZThLZGQzVTR2Q2d5RGktRjBfY2N4LXFrVmtPMUszaDU4OU1EeENLVHA4ZTFkemZrQkZuMUNuSA?oc=5",
+          "date": "2026-03-10T07:00:00.000Z",
+          "source": "The New Indian Express"
+        }
+      ]
+    },
+    "127": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"127\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Police hunt for gang for kidnapping, extorting Rs 1 crore from Erode entrepreneur",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOclBhR0NMUTUyTTNtbEdNUXljR1ZyS0JmV0tlbHdfZ1lXamF4RmE3MjFBOVJMLW95ZWxKVHVHeDZfcldFSElRV0s2bVJ3Zy1ZRENHNjFVa2Mzc1NobFVJZGJtazRzZXgxSXhIQkp1S3VvNHh1bWhTQlhFaURKc2dBaUdSdkk4ZGM0dzY3N0U3ZFcwMHc5R0t0NDJhX3NOZ3ZqYWd0V005RVcxbkVheFFXZGdjZGFqRVE3RjRYeHZQci14ZGFya0h4azlVVW9FWWZGNFJIbmtPZnBraknSAegBQVVfeXFMTTBUVDl4UkFmMUt4S2NoWkxCcGk1bkpDUGdzbmI5cUJCbGJUbURMM2tyTlViU0V0Z0RTLWVGaVlMZG1QdnZNT05PcjV1YzFOZVNacEd0SVFQRjFSX0VMVDMwX2RFM1VYUWxHR3hNQWFCMHZGMEkyUXA4c1RXZEsySXZXLU96OWJsdlNWc0w5VXdLUVhUVWtLVWxPdmUweTFCRTBaQUtqb2dCWUpZR3M4b3IwZThLZGQzVTR2Q2d5RGktRjBfY2N4LXFrVmtPMUszaDU4OU1EeENLVHA4ZTFkemZrQkZuMUNuSA?oc=5",
+          "date": "2026-03-10T07:00:00.000Z",
+          "source": "The New Indian Express"
+        }
+      ]
+    },
+    "128": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"128\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Chennai: Supervisor held for sexually harassing cleanliness worker",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZVpwMEZoNzNQbWoyYkx2aFhjY1FNWFpvMUVHX0xVZm5VNDRqc2pVdXdjSzdCUmVmYlNuV2FIc0ZGWXpzX1V0YnFlZ0N5Y2NsRVlQbHZtcGxycXpPcXYtUC1CM2l2cWs1MkY0WlJqdnBrZkdSOTBfaGx5SXZILV9JZVoxMjRQTHFjVzNCSmc0OHNHUjllalYxT3g1UTE5TkxCTWfSAa8BQVVfeXFMT2ViamlHZnQ3M09ST09Jc0ZNbUg1RW90NnhqeDNEV0w2TWNramd5b2F6TktsalZ2SFVMY2tLbnR1WUVGVVdpb1k0bE16aUtaal90bVJlREpVa3NGdmJmYlY5TXI2UndYazFTUll2VFY4d3FaR2pKSGZQSmRZTXE2TXRlYm9IcHU4TzQycm5vWnplcFUtY3l6aWV5X0tOQ1BVcmZjSGtfMXpOS2JwUHYyNA?oc=5",
+          "date": "2026-04-20T07:00:00.000Z",
+          "source": "DT Next"
+        },
+        {
+          "title": "128 cylinders seized in Agra raid",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYjBzdHRGWEFVMVJBMUNfdVk1ODhnWG5tVS1mV2szdG8wRnF4WVk0RG1IZXVNcFM3bjJfT3k3bl82R2NPMW43T21aeXNfU3BsdXlLM1RsNWpJTmR5N1hwSzVSX2gtTGp5dGtBMDBrUWF4S09NcEZUR0xCSHNxa1ZBVHpxZXNibEptaDZXUjQtM25lcVRWaHNlUGNjcXVPZHVWeDY3WTFMTnbSAa4BQVVfeXFMUEhrWHBYOXo1RkJiLUZUZDJuWkVwbU1VNzZ2dlpvYlFUaUtSc0RBUWdIcFhyVVRCSnVYaE1yYjhKaUlOSmNVTEllLTFTcFZOeEMwaHN3bzdnVTJ1SUpZc2lyaVdJV3lLVDhtOUNDcllqLVlsWTk2SUVSbjNFY243Z21zNGNkNVowdXZjQmVFYVZsbi1raHh0Y2ZIRG9XZGxTX3BadXk3SmJNSDNUaXZ3?oc=5",
+          "date": "2026-03-20T07:00:00.000Z",
+          "source": "The Times of India"
+        }
+      ]
+    },
+    "129": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"129\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Cyber crime police take down 129 illegal gaming profiles",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORnpHMjNzR3JCelpsUm5ZcmJ2d1BLdzJUQzBnazVJaFFmN2lXc1JIU0hzLWJxcnQ1cXd4aWtNTWtpZ2I5M1lZUHZvdV9oRVFQQnJRMVRNaGFDQVMtXzJpUFpvLThVOTJQSXluX2o1Q0pGNWx1WHZ5WEhyT2NTQjNBMWY5R19zMmFFZWFlOHZjMWdrMmhQLXdJVDhIaTByVjBzeVJkcXRwbWM4WkVwbFZCMlZ1VFk1QQ?oc=5",
+          "date": "2026-04-01T07:00:00.000Z",
+          "source": "The Hans India"
+        },
+        {
+          "title": "Opposition leaders slam TN govt over murder of Class 12 girl",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZDl2amlvQmlZbGxTSlB5bllHTXNZY0pKM2lxMVYyOUJmTERsbDhJVkZFdmMyQkt5ejBnMjVyVm1JaFFuQnhfczcxTGk3X1VwQ2x6VWlXY0lyTEg1ZlZjazQwV3V4dVRRQjFJWVJIUEk1OWpKWDRtci1RMGZIam1zU2Y3LTMzSVpxcjZDME5vUEhoQXNkQ0xEYUN6S3VVdENZMjNFdGVHdDVlLXdIbFl4MWpXNHJlOGRaXzJLZlhhSl_SAc4BQVVfeXFMUHBOcUlyVDlFVlRmZW42UlZyOEk3dnRmYmY4OFAyaG9UNnZNc2doM3FGVXg0N25YaGFxamJXNUVKR3ZlNENpZGtnOTNNYVo4X0VPYm9MaDlnSXVuSk1RaWZJVWdURzRHM0l5R2tIQTc4TjRCVzRaUXJra1JKbGdQMVIzdEFhQWZqQTNvdk1BLVRHQXhWSmM4bU9QaVVYSHRiMjdFM2cyRnd4ODAwV08tQVBheE1IRzVZcFJLQURLTEM0RS01c0l0VDVzRXk0V1E?oc=5",
+          "date": "2026-03-13T07:00:00.000Z",
+          "source": "The New Indian Express"
+        }
+      ]
+    },
+    "130": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"130\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Delhi tops in crime against women, seniors and children: NCRB 2023 data",
+          "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOTHliTmdWZW5rb3h5TXEwSnFiY0VCaE9xZDMzbkNqYjJjdnl6Q2VRX09IMTF5OVZpbmhTYVZ4RlRyRnhjUFlhSXdjRmpZSDdLQTdjMHd0eHdoTllhZ1NUd0lMazh3dWRkVVBBOFRobHdUeERNRThOcnVaYzFURVRNMnFDdXBfTFVFaUk1b2hmSWhZczR2VkFpUkNIdmtkZDNiUEgyQ0JxTk14VFVyVU9kWlF3RHA3RmlEUUtpMzk4OVMtY3dhTElFLTJPUjdId1gyVEJzbUo5ZGdqU1lWcWs2bnU5T3Rjc183S3paR3JkQzlTeU5valpDSXh0N3dSQloxTmdob0t1TlZJaElwWXhudzFZLW1DZWpfUVhkNHhud24zX1g4U1AyVFpZbjhpSUQxNFRYYlZOZTZDT090TExCYUdpUVhrUVJBaGoteWRVeXk?oc=5",
+          "date": "2026-05-08T02:22:32.000Z",
+          "source": "MSN"
+        },
+        {
+          "title": "‘EXECUTION NEXT…’: Iran BUSTS US-Israeli Spy Network, Over 130 Nabbed In Sweeping Raid | Watch",
+          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNRFFjNjJnZWpzRk9EN3VaV3Vya0pINGFJQlg1N3UxOTJwMEd1dUhZZWNDcDVEX21xZko5VEh2RTdJRFZQQjAzXzNNNE9aSVE2RnhoVHl0UDY5OWc2eWFsS3FqcUxfbFBUcmlOVzVvc0o4d0hXYjFGU19uSmNaLTVORmJSLWU4NTQwcnJ6WGdzVzRUVEVwTWhDRjZSV19STFR3TzFLbDlodUdaYldIWm9xNVNqdkk4SjVZQ200R3NHeE1WQXFEM1VxX19OTE5OYmo0NmtZNmRNbHpDeWpTZzRmd1NQTldkeHhmMHNyMG1Qc1kwdG1SRFh2Y05DcnnSAYICQVVfeXFMTkdDUWJOWEI1TkxCM1EyRGZ2Z0ZRMWwzS1lGdng0QVJ0REFrajBlX204aVJRRVlKMXlBa3Z5UFdlaUhyMFl5bURVUHF6Y05iT3lIMkhPVm91bG43V0F6MTdRTm5YY3ZnQ2g1cWl3YkxSMk5UT3FLWVZ1dzNHMk96NEpyNGdETTNMTWZNYjI4enpmT0FhQlQ1Q3RqUm1yU25UdXNyLUotLTZpZmFPdV92Z2d5dDVPSkZqVVJIdHY1ZkFVa0sxOUxCbWhYcnU3enIzaXU1NEhPcFQ5Y18zWnc0c0RpZ2NjRlRPN1RZUjBSRGxKWDl0eUFIUWduSmtSeVhxREZ3?oc=5",
+          "date": "2026-03-31T07:00:00.000Z",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Over 130 arrested in 2025 for visa and passport fraud at IGI | Latest News Delhi",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOczkwYU1sUGZfZkJybzk2X0R2YUxXcUJBY0tUUXhla3ZiUldCck5oeXEyUVZaS280M2ZhSllaZTNYRWNqWWwwR2lMT1otNFh2YTQ2RDRtVTJZTVlDM0NiT3VPWUhMUGJsUjZKTURCRURUOFB4bThmVE5ld1V1bHROYm84bF8xVmRHSVlZc0FESWZIVVBsVk9pbXpTM1llT3l1Wk9yUlFCZ25GWVV2Rkw3R2d1Nzg1dlJqQmx5TXZ3N3dGQTRtdWNjSkRR0gHPAUFVX3lxTFBNM1dYUklfdk1YdUVFbGNqbS11V0dpcWFlZDRjQm4xVWRyNjJHY3FLaVVQbXlhaUp5YXVSWHJfb3NpTng0OFVQWVZqV3BBV0dJMHdZWUZuMHE5ZTZ4THRIbHF3TTZfVkZTaGdYSUR5ekRlVzJHcjFrRThwdFZEeEw1SkVxSTZkM1FOQVlEaHR3RkRYUTdncXVmNENjYWpyMjhMZFJUX3dPdzZwbDR3RUpEd1BkYWs5ZGdIZFZlQUdLdXdBd3hOY1JoTk9hM0szQQ?oc=5",
+          "date": "2026-01-05T08:00:00.000Z",
+          "source": "Hindustan Times"
+        }
+      ]
+    },
+    "131": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"131\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Fitness trainer thrashed inside gym in Noida; one arrested",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTjZaNDkyNXVCMjVjZTU5dzBOUkhLLTdVWmV4Q3lTaG5abldhaFUyNnhHeXJlR2tFdkpsYkFLQzJQTTd1RXktNzJ4T0dMOGtUdFNNemh4YUplUG1NY1RtamJKVlRsUGdRR1VlQVMxRmpDeVRTc2NJVTBaZkZRV25TM3ptZkNXLWY1UE05cUJjM2tPdVFkVzB6cVV0Y0k1VTJkSXlsc2Fodm53Unh2UlAzNFduV0ZkMmNhQVBHVnUzSTFCVV9nNWtBRHdB0gHPAUFVX3lxTE81Z2RlUWNDbHBKVDRhZG53cjNsQ0k5OUxjWUNxTUtmUllCdG9JWDdKTDFNdHhaYklDTlRQMVY0Nm5zQzgwdS1hNXJBVHBNU3dzNHdQdFFZYnNoNGJ4eHQwQjMwNHhIeW50enJfeUhvVkdlRFo2YVFDeEdzSUZndHV2eVFYRk1MZWJyOXp0UUYtM0FYTW50NF9WWE1TY1Bza2hndjR4aHpBTnVtWWJOZnpVVTBVemtGNWdYN05VSDRDdzVJT3R2RElybFp3d1gzMA?oc=5",
+          "date": "2025-12-04T08:00:00.000Z",
+          "source": "The Times of India"
+        }
+      ]
+    },
+    "132": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"132\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Gujarat: Isanpur police return Rs 10.8 lakh to 132 cyberfraud victims",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOXzVSVjNUeXlZVjVHYWEwenl3SFd0NnNVblJ3OUxUNmp1cnNReWlITUFObWkyOW5EVlc2WnNjbUZvVTZmbjVFeU5YUEFUNEF5ZXNDVGFKZTU0ZEYwRGk2Y2RjWmxsS0RyeHRKTzU5c25VT0RvVE5fdzIzQk5VR0x0LUVYRWtvYzgtdnhXVEdQX3NyZ3Q4U29WVk1nNm5TTnYyVFF3cnp6S2NYaEdBZnF5UU80SzJONE5fa1haMHRlcTgyb04tbWRLU01STE5hWlN4dWxibHkwbVYzRDdvZlHSAeMBQVVfeXFMTVZ0dVJlS1dTNjFnRTI5c3FRbjZSMDBqNVloa2JYRTQxVEpWdmMwVG5YSHhLcWdRR1pXbnFlOWhfMUJMcDNJYVdvS0tVcVlya1hNRHIxUF9VRWNzZmdHMy1kZEVIcFRKUGFpclR4TURiSTlpMlVsZzMwZ1JaRFpWT3ptQ1ZvN2hXN0d0ZmFhLUE1M2xVUVJyY09XVHp2dXozcFNZTGs1dDEwMkhQOEZxS3pVMWdjcTBodVRMTzBmX2R4UHpoZ3BCc2hjNkxlVnNIc3c5VnhldXhYQWRhY0ZyR3VjX0k?oc=5",
+          "date": "2026-03-15T07:00:00.000Z",
+          "source": "The Times of India"
+        }
+      ]
+    },
+    "133": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"133\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Most DV cases not registered as crime, settled via dispute resolution: IIT-M study",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVWRmUjdQZ2FsTEJPUURpRzQzSUJYODhzY2JvNzVCUVdSQVdQdHYta1ZGTnkzZlNseDZwYnhVeFBJdnV3TDNla3Q1TVdyVy1RX29HTmVLVWF4QjlpVTNmVzNJM3NOMXg0ajJnRTRzS1FVUDhxbkJCWGhFUV9hSm1TR0VmSjhyaUI1RWhCcURCWHA5WnhfZnNwczkxX1JrRHFIY2prdTJUak5KS0FteXI5Q2t3UTBxQdIBwwFBVV95cUxNdU13M21UUllJSV8tRXNaTm5uYWd2VTRoT2VhTkJkVFZtWVVMeWZtaXJSQjNjdnAtZW5IYVUwbFhfdl9nQXoteHRUUHNtS2Exb3VSX3VkX1dpRU13WU5TQXVYSndHTXB4dDVkSXVzU2JXNFdySVpmQUN1aVFiVFpWZHhhREIwWjlrMFJGRU9DQmttZWdmdWxQaTFUdHdFTzFYZU9hLTVVMWV5RkU2bVF1dFBJR1RDNWtvMTZEY184R3pzR00?oc=5",
+          "date": "2026-04-22T07:00:00.000Z",
+          "source": "DT Next"
+        },
+        {
+          "title": "Three arrested with 133 fake 500 notes in Bapunagar",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOel9qOWNwSTEteC10WHJ1d004ZTk2SDBsTU1ybGNJR3lqc01BZWg4S0w5T3BTdGFRNkEweUlLSDhieXBDSFFQNlgyaVBBeml1Vi1tdHJlMWdQY196V0ZobkJiaDE0eXBxWmdQanFuUkV1N01rYUppYWc5UGdkUTdDWkhDM0dMYUJ1MkNJSDBDMG5Na1dLNXU2VnhGeXBJUmJoVkFsZ29PcEhOanBIdktJWE5QZkRjaUpfOHBNaldfVXJhckoyRzMw0gHMAUFVX3lxTE5meGdCYlhZTkZCalVGdVFPdFR1cDkwVFJqOEtCOUtGcl94enpneF8weWEza3d0TEZ4bkFLaktKSVh3SVhBTEJJLXFnREtPMU5DU3VoZllST2w4anZic1FuT3V3alk3aHRIWTB3RmZ5UGdILXJnZzYwMXdSUU1vYmMyc1ZIY19xZWpYM2hwaXZGdzgtSklxdkNIdFB3OVk0U0tBU252RWRoT0hBem1Va2NyTXA4SFFFY29GelVlVnBpTnZid0h2SjhrdFZFQg?oc=5",
+          "date": "2026-04-15T07:00:00.000Z",
+          "source": "The Times of India"
+        }
+      ]
+    },
+    "134": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"134\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Chennai: Bank locker in-charge steals gold worth Rs 1.34 cr, returns it secretly; arrested",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYkcySkRoMDFuaTFSbWhfc0ZUM2tLampXdmdBa1laazFScG9WTXhYaGwxUjdZTnE4el9xRGptcGI5cXVKc2lzNTlPSjdZTmRxbHF2d3BudnQ4b3M1MFZlYWRuQl9iSFozY0Jobjhhd0ZoMi00c2dleXpDaWRZQUc5QlB3ODBWSzF5SzZCOWhxR01VNEc5dkZMbEZocWlnNzZjejctVGhCUHhial9GdExTaEVCdGQwdGEtTlo2Y2UzVnnSAc4BQVVfeXFMTVEwNmtyQnNFMjk0N1U3bTlKNktEMTgxalpXT1AxdGdGY0J3VjV5WnZNY0YtVHBCTkJYSWRUY0RacWFGY2RPQ1dFVWI2cFh4WUZVTkVUb0lDTk9JMkFMRk5hSUYzTEhxampzeEdqc1dKcnBXbnl0T2JDbHpoSTRZQkRvcnd3VGpaSTdrSDByZnJGMkluWDJMTkx5bjlaM0FCeFotQnMtS3JxaDRKUGt4SDZPQXdpZVJoS2ZhZFB5cTdOOC1FRHY4LTFMZ2dRNmc?oc=5",
+          "date": "2026-04-03T07:00:00.000Z",
+          "source": "DT Next"
+        }
+      ]
+    },
+    "135": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"135\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Pune: Shop Owner Arrested For Recording Woman In Changing Room In Kamshet",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQM013OWN6MG5Ec2twRDh1XzZ5WHRHM3ZITlA2SWpCY2dxU0VOV0tzcXpjMjhmT2x0c0JTS2toN0JoOXhSUTlKNjNaVi1lbzNnRXE3VmQ1YUQyTk0yUlotQVNLNHZXMXFvNUFDZ2FaUEJXc1lMZDdta1lxQUJJcm1VSU9lVVRGd0VMdG5RYzVEbll0bG5sVHJpME9zWVpjMVhTdEZNdVotWmI2V2o5TGfSAbMBQVVfeXFMTm5HaVhjTjBUMkZBZkhzUFhwU2QyMEcyWjNQM1BlTU5RY2JHTjFRbzNwdjZpd29JOEhMTU9IajFpdm11cld3S1loelBiXy1CNlBXZWs2ckp3TERxWVlZT2ppZzByX3lZRWptQVhzMC1MTXhQelJlbjcxMWNwWUpqTHM3cVgwYnhTSTlsSXU4MVREcDRlV0JqbDRoVmRfOFFEY1RYeVMtRUpRa2xmazBJSUdkRTA?oc=5",
+          "date": "2026-04-08T07:00:00.000Z",
+          "source": "Free Press Journal"
+        }
+      ]
+    },
+    "136": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"136\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "HYBE Chairman Bang Si-hyuk faces arrest warrant in USD 136 million allegations of misleading IPO investor",
+          "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOaWQ4VER0WUNjR1ZSODF3V2pEdDU1cktFVkdxdnZzcGhSSFppcEl2THVJMDlvdGQzcHV0Qjc2WnREWUVpMGkwSDg1eGR3OHBEODJvakxYa3hMU2cyV3RkVmhjdlhtMTdqQWFic3RMMWpMMm5SeHlybUlkYUJDV2hoQ0EzdC1hWkY2LVhFR0ROX0I4eU5PMHVPZm5YT2w4dzBYZEZZWGR6Vkg3VFpyYmdjN0VMamdGaEpRVEkzaG5SNWpERGhJRVdSYWxUYXNfbDl6MEJFRWNzQmFad0tNNTFZUFlJcC1wVW9iX3BKVFhqOXFheDNBQlk3UF81LVBYQlY2Ylk2dHRxSGZ5eW5zMjRNVnFfdHZWZXQxMkdBUlZkd3pzNU5mcjMtTU5ZZGpZNmozUGJB0gG4AkFVX3lxTFBDX1MwT1N3ZTdlZFJ2bnVBczdFQkh4WEM0MDZhenFZWm9FbzE0WmZDZWxPNWM0alEyc0xScmFka1ZkNkRfNU5XQTVsZjB2b2MtUnV1bnVfX19FLUFwVFV0N0d6LTVZbDZ0cmpfbGNEaE5QVFYwY0tyOUhvOF9jbWd2R1lhdXFkS1hEalNZQkNtLXY1cGlHWFRGUVd5RDA3RWJObkctUS1zQk9BaVQxQlJlRXhqUXlXYzRWVEZJbFU0M2tsaExJMGNuLXQ5cUhCTThnRTNvQVZ4aWwwYzVXTTJlUi1zMTk5cXhpbmdfLXZCaER1SE85bFBoaVdmTFBEWE1HOGQyNHkzbEJOOXNFVERTN3haQmUtMW9NNnpUTjFuT1lFUkxVb0UtSzFXZTNfME5QUU14S2prRQ?oc=5",
+          "date": "2026-04-21T07:00:00.000Z",
+          "source": "The Times of India"
+        }
+      ]
+    },
+    "137": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"137\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Crimes against SCs dip in Tamil Nadu in 2024, conviction rate still below national average",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNNkJyUkFtUGFTUTdVeGJQSWlPdGFFSDJXeUVoazJ1cTZoRkExTGxOVENQSFUwbzBwczJDSGJ2eDVseWpfdGtRNEVHV1I4OHVDekJtdjdmUmN2YUhBdS1GQ3hkZDl2MVU5WmVrZUxIa1Z5ZDZjdHo4a0YtOFpiQnlJaFNRZndTU3ZtZzNISG5sYk5rYWYzYzJvMWRJN1ZoUEowbW5IT1paUTBlcTJFdGd3SGU2T0RXWGdRLTNkcFhGc09ndXlaSU5lODFNQ0VXblo3M0N1RlJ3TDByNzBPOE5BbF9hb2FFYWvSAfQBQVVfeXFMUGRjZGg2NTBCTjd2NkJIVU1RaHBHY2Z2QmhjT21ocUpsb2JqdEZPWmFuMHlJTUpnOVF5UXBkQmxTb1JVQmRQS0JURUkyMHVFN1RhRnp2c3hGTWtqTkFyMjZreWdiaXZWbEU0MjJhYjY2bGV2c3NvSkRXMW5MVlBUcWZjU2RJaW5TMHdHRkRSdXVHT1FoUlN5dFhUYWtUZVhaUElMZ1ZtQnF0TXNmRDlzMk1PVDBuSzE1eE0yMUYweUxpWjN4dlAtMTdPRXNkZk05MXdTd2RaQUl6aEpaa3BrMnFXWXhfdjQtMWlYN0pHWC1kcDJ3QQ?oc=5",
+          "date": "2026-05-08T03:35:32.000Z",
+          "source": "The New Indian Express"
+        }
+      ]
+    },
+    "138": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"138\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Telangana: ₹138 Crore China-linked Mule Racket Exposed, 13 Arrested",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSGZ0S2lRX0ZHZUZwTm9SU3hWQWNyS0hZREdTRHVVSkZBOXU0ZVIyeFdQT0hrMkozMXpRc2JQVlBaY3ZNc2pDMnRPcFBoWkdrSUVTUWRHbWd6UGNXNEpJM2VMaHA2WHpEWjBnejkxa0RpMDJPRTNaM3NUajJQUHNHckE5Z2xjQQ?oc=5",
+          "date": "2026-03-28T07:00:00.000Z",
+          "source": "The420.in"
+        },
+        {
+          "title": "138 cylinders seized in Danapur raid",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ2U4Y3FVeE1ELUFWbnhIVGJXRk04SF9XaXVzSVFFQlY1SEJkdkFBbkV6dV96VkJJNWJremp2SkpqQ1R6LWZ2ejdaMy05N1ozZkd6Q1dDZW03Y2tQT1FkRzZNUFhxd09TUFUyTl9yY3N4NFhUZGZ1ZG9rbldieUR2NTVTeXd6RmRMeC1DR1piRzduU0ZOeTh6eG1IZHlJRlFsd0w0X21UOVd3UXNxS3fSAbMBQVVfeXFMTlY1TEx4bjBJX1NiVWFScmZVWVF2TjVGb0wwMVFUZm5DSGZ1RTBOY1VfLUVHY2tHUU8xenlNSEtIYXp0STViSUJLRDFtMy1VX1JNY3pBQTFSbTZOWGZQUlR2SnUwY0ZEMXdqU0lvZXFRMTliUGRLVEJyNWxVNl96enhYUXVIb3F6RjFrWUptSXJrb1BtU0twMmh4WU0zMk0zN0lhbnA0ZWY3VlAxc1BVZXg0MkE?oc=5",
+          "date": "2026-03-14T07:00:00.000Z",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Godman nabbed with 2 accomplices for facilitating cyber crimes for commission",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRUFZLW5fT2RCa2pESmtHZTlfaUxySTd0RlJvaktMZ3lpUDRkX3cyT2ViVlkxZllRa0c4MDFnSGxtdTdJRUFxd2ZSbTUxOHlrdV9IbkNnSWUyTHpEckgzeUVNMWJ2VHhOa2ljMU5PeFJxaVo0UXI0U3lZM0xZMnVfYy1BU3MxR0tPM1pqTk12WV9yR244RzdOV3c0d3pVZzVYbkpDVFZ4VUlidnJoU3JzekpzdDdidWROd0R30gHIAUFVX3lxTE0yT2YzbmhUMFBfaHBnT0hUZkl0bjdMeUZKRTd6UmJwNXRIdVBpSTZqVXUtTlJoSldpMk4telAyMHNkVy1odzBKcXdpT2h5VFFOZy1ZZS1HZzBBeXdWZkpxSE5sRzZDekRTLTBpb19KZjc4eHFOY2xua0Zpem4yVUlURDlNMjF1XzBTMmxDbmd1emE2SEdVZkFsRlFVd3c3MTZ1YWVvMTg4Yy1nSV84MERZTUNEMklYYzZSWnJyRlJLQVF5Mnk3Yk1J?oc=5",
+          "date": "2025-12-07T08:00:00.000Z",
+          "source": "DT Next"
+        }
+      ]
+    },
+    "139": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"139\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Odisha: 139% rise in crimes against women in Bhubaneswar in 2025, say police",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTUs3U0diR0ZIQWlxZjdqR054U0xyTlRoeXRBakE5MEZmZ3J4aUJlRU5SZG01LXRaUGVJSnB4cUJNbVhVZG9SZzlXMWg1QVM5cElsMUJRQ2MteF9RWUZuLU5oS3F0RlFZTnBaNnBKclBVTzNGalM2bjUyemdNT0hoOTFrTHBtLVRDR2M5NGJsc0otUEo1b3k2Y2R0QTVwY1FDMkJCMEJJbnUxUHpQRDRqcXp3UUpRWFBuTXpYSlB2NFF6OEw0dTdFU3BUZmhqamPSAdQBQVVfeXFMT0pqNnYwSW9VY1Bxd3F1SUlnc2IzNjlvY2pVYmgtUUhhUl9TVzItSDlRdUp2RXo3b1VORFpLOHFCQ211ZGpmZno3TkxsanM5Nk9ibDRRdDcwbVE5SHFuZ3l2RW04Q1pvRzBvcGRvR1RoTmNkWENQWE02cW1LQzVrdi1HRG56RmhYd3ZaRFh4R0RCRUxwV2ZtQS1DbUl2a3VKYVlPQzVuNzc1cW5URVVzbDNEazVlaFZrREFFRFdWRnJ5bHd1WHpsdHhlU2Uzd3VuZHI3X0o?oc=5",
+          "date": "2026-03-11T07:00:00.000Z",
+          "source": "The Times of India"
+        }
+      ]
+    },
+    "140": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"140\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Crime rate has come down in Tamil Nadu, state home secretary says quoting data",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNOXNGZ3ZaTnBGd3NMTmJ1U181TXFBaHEzSjB2c1ZqTXhpV3RlSWhkWndqUGJMOG9ibVBjd0RDT21jX0FuM04wZlRhUjhsUGx2MHQwUU5XYzBLZzIxdGVHME45bDFDY1VvdW1DRGluMjdzSXFJVDNwamxEdFJ1SG5oSjc0NzV2UHNPcUQzc3ZqVlhmZ1RsSEpza3ViWWNVUmk0UlIzLVQ2M1M3bWk3alhDXzRtblNCeUFpUjdoYXNNWjZWNVVRTG1iNEdTZHJWeWlYTnZVaXVSZWZrbnp6Z0JwS1hNWmN1ZE3SAewBQVVfeXFMTlZ3UnI3X1M0aDYxUE05ZU5fYUNEZGtmcERQREpOVjFqZ2p6TG5DWHFsVW5DY1oyaktFODdwellpUk4xZ1hlQ0FIdkgwZ1c2dFlEa2x4QzlwMk9TcmpUTUsxRFZVTzR4ZnlpVnhlT2tWMS1EQTY1Z2xwWHZONFhfRzdvb0xldnJZTGJndWxuVUlhMTBJN2RxaWdhMnl2eGtEWExRV0dEaXBRcWhnbFduN0JuanlFTGs3WWVkdThQbU1aNHIxU0ZrWEsxUnI1ajYtM3g2eXFYMTVSU3RwQzRrbF9yRmtGNEtJTTEzcWY?oc=5",
+          "date": "2026-03-12T07:00:00.000Z",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Hyderabad city police arrest 117 suspects, trace Rs 140 crore in suspicious transactions",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNdm9zRTZ1Y0MtVEpvVWZHUnE5S0psd0ZJd3Z1Tl9sVEFzZTRMWHBtLVAwRnFLR2pVTnBCaDNaeGRCZ3B6Z0RjY2c0NENKWkhnWWJXWWt5N3pJNVNLM2hUSUdlZDNFbW1HeVNseDJlamdxVy0wYnhzcXdVS09qS2JPc20wb3FKMGtMdF9qTG4yUFJ3d1NtMVVDcjdQcjRjX2t1OWNFV0tUV3hicGUwdnU0bWdyUWRyVFFQQzFSTE5adklwd0VqcldpVk5IbmlHdHliZXpDcVNFMFBkMFZsYnRRZG5WRzJ0NGd3SktOZGlyYmNrVFl1WFpZ0gH8AUFVX3lxTFBzN2Nmall2RDJIM056elRwQUVZaE1hbWUtRmZHTGUyY1JGRG5UT0dxRXJoUXI0MXpORzh5RVVVcGloVDQwZDBYOGc5TDEzQnAwSlg3b0U2ZzRIaGVLMVVWM1A3NHIyRF9ZUHlZbmRRY1FMWjJtTlZYZkZIclJleWlSNDFIWlRPTjE2WDlRcGxGTTVIYVU2clY2U0o2Mkh4ZjdRUXFaT1JDeVpsYnNidWx4M3hFalFudzZZUWI3dDBFOU4tSDEwRDd3aDY2RjFpVjljbjN0eDgybVB6UnI5cW1qVEN4NHRpZVJxT21OcnR1aEdnTDc0TmUyY2kxMg?oc=5",
+          "date": "2026-03-12T07:00:00.000Z",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Police hunt for gang for kidnapping, extorting Rs 1 crore from Erode entrepreneur",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOclBhR0NMUTUyTTNtbEdNUXljR1ZyS0JmV0tlbHdfZ1lXamF4RmE3MjFBOVJMLW95ZWxKVHVHeDZfcldFSElRV0s2bVJ3Zy1ZRENHNjFVa2Mzc1NobFVJZGJtazRzZXgxSXhIQkp1S3VvNHh1bWhTQlhFaURKc2dBaUdSdkk4ZGM0dzY3N0U3ZFcwMHc5R0t0NDJhX3NOZ3ZqYWd0V005RVcxbkVheFFXZGdjZGFqRVE3RjRYeHZQci14ZGFya0h4azlVVW9FWWZGNFJIbmtPZnBraknSAegBQVVfeXFMTTBUVDl4UkFmMUt4S2NoWkxCcGk1bkpDUGdzbmI5cUJCbGJUbURMM2tyTlViU0V0Z0RTLWVGaVlMZG1QdnZNT05PcjV1YzFOZVNacEd0SVFQRjFSX0VMVDMwX2RFM1VYUWxHR3hNQWFCMHZGMEkyUXA4c1RXZEsySXZXLU96OWJsdlNWc0w5VXdLUVhUVWtLVWxPdmUweTFCRTBaQUtqb2dCWUpZR3M4b3IwZThLZGQzVTR2Q2d5RGktRjBfY2N4LXFrVmtPMUszaDU4OU1EeENLVHA4ZTFkemZrQkZuMUNuSA?oc=5",
+          "date": "2026-03-10T07:00:00.000Z",
+          "source": "The New Indian Express"
+        },
+        {
+          "title": "“Civil Verdict Is Not a Shield Against Crime”: Supreme Court Restores Criminal Trial in Family Property Dispute",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcnVUdlN0M1hOTThlbG9fYTVfbXE4Sm02dHlQUjhrZ3lfbHZSeHN3SldaSkh2akVydU1xU1g3T2QyWHhuWEV3ck9LUVFySGNzUC1PODRzNERjSVdPUXhjRjM4SHVyLWotLTBzWEVyXzQza0xELTZ2WFZHVWpBX3BEag?oc=5",
+          "date": "2026-01-09T08:00:00.000Z",
+          "source": "LawChakra"
+        }
+      ]
+    },
+    "141": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"141\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "142": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"142\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Warriors snatch T20 Challenge crown in Super Over against Boland",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdHV5SmpxdldyaF81TXpjX0pVam1fMUZCbW5jZk1zb2QxcFNnY3Qyd1NUNEp4TWRCVFlpWnlMZXJUR3RXUm03MThoYmpKQmcyUDNSMmY1OVd5X2MweDBxUC0waEdqaDdITEdKRzREQlRDQko5VE5OUXJMVjNrU2RRYVExVVByXy13ZThjSDdHSWJHYTZBLWdZ?oc=5",
+          "date": "2025-11-30T08:00:00.000Z",
+          "source": "News24"
+        }
+      ]
+    },
+    "143": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"143\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Chennai Police Transfers 34 Inspectors; Commissioner Arun Issues Major Reshuffle",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9CczRTQUZRamJib1VFZUx1NEl4bkZYdENWTkg3T2tZTWVJMDNOZ2JZYWRxSkFUQy05NEE1bnk4NWpPZlpaeWFESWgybk1NaEF0ZWR6NTZEVFZDeUsyVnBXUTNMcmpfRktqZ2d3bTFhcHNPZjQ?oc=5",
+          "date": "2026-03-05T08:00:00.000Z",
+          "source": "LiveChennai"
+        }
+      ]
+    },
+    "144": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"144\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Tamil Nadu Police Transfers: Asra Garg appointed IG of intelligence",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQXBfWTJJT1A0UTFqcnJxVHZoMl9DVV9NQ1JUZUNUZE9Pa09yb2l6b3BzM0psMlgtaEFoeENGM25Db1Q3d1VrMzBtcG1FcWtDYTVBODk0dl9JT3ZqSVc5aFMzSklRTHU2MFFjS0tjQVEtNTVNVFFxR0NoTHlmbXN6UVFvVnFKV3FkZGZzZ1NzRUZkMVZnUE03RW90a1Q5LUY4ZWZiT2FwTdIBrAFBVV95cUxQQ2Y2S1VINEtwN0Y1RTlIenE2b3RpSVZiNUp4UWtwQ0FRMk1mVEM2eFRSXzhtVF8teVpXMnBQWG8xY3JDYV84RDdWUUx3TjBIdVpoOU1LWEpkSkcwRE85NG9ESC1jalhxOWhCQTRQNlBCT2E1elBucGNpT1Z2ZGNtR1RiWGJ6TFdmaVhnV1NYZm4zMUlaT21ZcVNqZnpSVXJqdldIQWlYR2xNRkY1?oc=5",
+          "date": "2026-05-13T10:29:38.000Z",
+          "source": "Dynamite News"
+        },
+        {
+          "title": "Man arrested after couple get hurt in bag snatching incident in Mylapore",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRDhhSnJoU3pUVDU3NkI4WjU5c3JQQ1ROLWw4OGpTYlZ2NkVJQ1ZNZzJXWDg1WWI0MWk2Y3NKVmRUOEpJdThLeFNzNTVNNDkwUWQ2WlV5U2wzMFFOWlJZNEZ6LWw5RDJtMTl5ZU9KTVYtSXc0ZmNEaXdrQ2UxVTBLLUM2dDB3b1NJWkpwQUd0SzBqa0lyak9TSDBDeDRfVzlzQnVzLWFCTDFsaF9La0JJUTNtWUZQc0V3bFUya2Qwb2NBZnFsQ1dWallwUlpkT3ZJLUpXQ05VdXFKeld0azdRcdIB5gFBVV95cUxQc2RWX0VoV3AyS1k2cXptVk1IbTljNm5Dd1FiRERsREd0d0xPVmNkV21mTmpCRTgwREVqSlNWSDVqaGNwWjRSaHN6cy1BbEFoNDMtX2JFcUl2NHl5U2NhUkE1QVl2U2ppLTVvUjZkUS12S2RiQTRNWXJ5QWxQXzFwSnlUVnQwaE42TGJKdXBGYkNidjc0ZGI2eDFBbnhSU1FVQ3BSVWt6cmpnTjdhcW5XWG5UMWlGTm9LZEFRV2xhellITE91dV9HcHp1SDZUZldGcU1rcFJNaWxIS1N1WXhsMWR5Zm42QQ?oc=5",
+          "date": "2026-01-19T08:00:00.000Z",
+          "source": "The Times of India"
+        },
+        {
+          "title": "SIT busts Rs 400 cr GST fraud run through 144 shell firms, 2 held",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcHAxRTE0MHlkRFlIaGpFX0poa3ZTUnNTWHlneWR6aENFRGlhQzlRVUdCcmhHWUVWeXBoeEdMNURjZ2JabDM0WW53MVE1T01OT2hNbXZLaUtrTUlUcjhHUjVNMkwtRFNkNXNHRjV5aGxVRDhUbWc3VWNTeHhPQUZVMHc0Nnd2RWl2STZKYnVjLWF3SEhtbVJVZzMwRVJjZjZsQkpFaDhBcWFoQmllWUpoUnNwQnpsVFRYS2JrUTIwOUlJbWh1VXVWc1h6dzUwT1dzd3poZdIB2gFBVV95cUxPOF8zelBaeWJraDlGczVaRUdGTVJFZnI4S2JPMHpNQnk3bFFfSl8zMXJIZVZBeFJTUGt0ZDYtc09JbTFUd05janNWVEdOT0NENW9DM0NEYjMwSm1vQXlqVDI4bmJyNVUwV014VEdJVkdvaWlkM3RJTUc0RmV5OUlqdy11XzZQZG5oWDB1TERKSWZ0MDdSRU53X21nb0VqVi1aYzRwalBzb2ZiSkwxUUFNM0Z3bVQ4RGFULXlqaFRqMmxQMW5vdTNnSXJFOVZERHFaTzE0aFk3OGJ3Zw?oc=5",
+          "date": "2025-11-23T08:00:00.000Z",
+          "source": "The Times of India"
+        }
+      ]
+    },
+    "145": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"145\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "ED raids 12 locations across Panckula, says unauthorised email IDs used by bank officials to obtain approvals",
+          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNOUJtOEEwVURUREZrWFhNU3lNcHY2VjBMQ1owcDhFYUlfNlRHb2E5LV8wamxsLUhiN00wOTBEZU1Sd1FDdFRiaUY4aTFOeEl0S0FIRTl3X0JJdFJvMUZrWVpCYXhYanFNTEhPa2VLRXhkRFdaNWhmaGhHVFE1TFRYdWk0SDZxWUpXLTdpTUt1RE5USzU5SzZqZWs4ankwWXZNRmtla2IwemxVUHVOd3hlS0tGdHB0VzNEdWF4MjFaellwUHVOOFphM0M2eUlkc3BidFA3bXNSbHU1VEdjZ1RQUGtlamVJT3BwVzZSd19vc2pHckFNNjdwQmVqY3hXa1nSAYYCQVVfeXFMT2s1OTRlamsyandCYlRJdVBrUm5BS2ppT2RUZENPamJjVWpmTHZzQVB4QmhYa2l0U3JFeE5mb3V6Wm9jM24xUGpBRWpwY0d4NGprRDhkLTVHVElpc0FTOWVfUHQydFJkYXhtZFIxSDQ4QnJjek1KdVZtNDBPRmFfbFlxNlJkbmJwZ3Q5R0VHRlFDUHQzWTJDSmpCRkhpRm91NmNFUkxDck1YYzVod1hSd2o2WHJSRXdaRUVVRzliMGV0Wjg0MU15Y3gzb19DXzgwcDBNU18zQW9OWmR4R01zQVZ4eFoxUEhjV1l6ZFpVanctSGFwMUVPeGlZeG82TVJ0NDBBVExHQQ?oc=5",
+          "date": "2026-04-23T07:00:00.000Z",
+          "source": "The Indian Express"
+        },
+        {
+          "title": "‘Anti-Chitta’ campaign: Himachal Police raids 145 locations, seizes drugs, registers 10 cases",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRHR6cEhwOTFYQTVuOElsMXF1Mjl3UjQ3U3VXSDNhUHdReEwwYlNxcTZoMFRXajhmaGRqemM2bjN0eTZ4RGhYTG0zS2U3YTdueTlNYzNBNFlTMi1BdXNiSzgyakh0RnZhZ1g3dUp4NXp1UjE0Nk40anl1NU1vcWg2ajRPTUljam5abkF6SlhDejFZZ2FhcnRFMXhIZ29jZno4OTUzOHZlR2w3OTFsTjN1ZENYenpCNW_SAb4BQVVfeXFMUEVsZkdWbVpxa2dSUzFUWjcxVjVsSzJ5MWo3ZENteFk5WGVzbnZHZlBFZ2x2TXNsbXFGd2VwU21qbk5hYkdCQVppcFVaemhpekFHMEVWSTBzR0xYUU1wNFlmUGszaEYtb0NJa29vaXVQYmVmTXR3SXBqZzg4LUpIbnJQRDZieTZndXItUUxDUmdYZ1ZVa3NmbUZJczdzNjBGRW1aZFo1WmRKV3hYQ041R19zVVRxUlZOTkVuekhpZw?oc=5",
+          "date": "2026-03-01T08:00:00.000Z",
+          "source": "The Indian Express"
+        }
+      ]
+    },
+    "146": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"146\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "147": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"147\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "At 147, Chandigarh cyber crime FIRs at five-year high | Hindustan Times",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdlVReHZJcExIQnRvV3pfVDc1QnhjZU5jMF95SHAwaWVXUWxSNEtHY0FsZWNwZ0xFNmRKT1hjdmxsZTR5Mk1QbWQxRnZKN3RKOHdrdmpwNmxtQ0lCd2V1dF9VLUx1OXRfNnZPQkZLSDhucHZnOURYUHJLQUZlb2ZKRUo1OHlnNkg3V3JCQURNVXJ2X1pOMDhXV3NzQkNyUTJ6eV9Tc2RUdWVMd2dPcndmVEh6VXRoaHRWZ01v0gHAAUFVX3lxTE8ybWdRVU9ZVjhGS2VDajFuREpna1lJZmg3RktNRVBoYVdtaHJZOTJzSmlUcXk3RDlIWmkwVTVvYTFtRlBmYklPNVRXVnpGODFfbzRYclJZalFkcmZxUzl1c1RtUW01VFkyQmtaWWk2bzNpdHYtQjZuNkFuMG85OUp0YXhrblNBWC1BVHJDWjdULWZ5ZWJIVmV3LWFfR09RZFdZLUpuUS0zdWNIMERibjlDOGtHOG9RYVBNQ3N1Tm1yZA?oc=5",
+          "date": "2025-12-28T08:00:00.000Z",
+          "source": "Hindustan Times"
+        }
+      ]
+    },
+    "148": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"148\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "TVK office bearer arrested for sexually assaulting minor in Chennai",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVmQyVFZ0NXZ6bTh4SU1iUFBIakhoZTF2cEZiZmUzR2h5Z2QzZV9MQzZZSjlRdEVFSzVJMnVoNUh3UnVIbUlwZFdrc3MwdVRYUzc2Q2J4TlVwemljNklkRjdCb0pzTVlaZ3YzQWcyMGJFV21hNjEtX19GdFFYNUFlRGt5Y1lLN1JmOHdJTXJJTE03bzYyaTRkdkYtMFBsNUFzVnZ1QWg4UmNCczlm0gG6AUFVX3lxTFBiM2JZOXQzSmUzMmdQTlNHYTBhdXlMUG9LLU9rRmczcm5mMVRJMUFTRmFDX2tFNkxLc29PWlhnZld5VURwbHJuMGpQeFRmT2RqOVdzTmdhaGEtZEh3RVJsMkFWUG1pVTVCWWk1RXllaGtGOTR4LWlsa0ZZSkExWWZqbU1SNHpjV3JVVVZDNUh4UnJ1NmdVal9FdkZmSmh2SEVwS1dpbTFhSzBCa1FvYTNscDJSZzlZUnRSdw?oc=5",
+          "date": "2026-05-06T10:12:55.000Z",
+          "source": "The News Minute"
+        },
+        {
+          "title": "‘Savukku’ Shankar arrested from Andhra Pradesh for failing to surrender",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcDMwVW5wNFhFYW1lTnQtdUx3UkNKTlNoVnpNZU5sWkhGemFIV2o0T0dRdlBEQ0owazdna0I1bnpTaU9nR1hfOHVlZENHVEU5Zlowcy1yQTE3bTAwOTRvbXFXSUtESmpQUHdGQ2s3c1FFd0hYQkVEVi1JRHBYUWo0ZTZLMGx1ZE8zNFpOUmR6MmVBU0tyNGxyV3p4bHFmQWc3bGRlX0hSQ0VLWkF1dlZv0gG8AUFVX3lxTE5PRXZ5T0pNUm83dHhmenZZZ3BRRlNwdEYxSmxnYXlqeEY3OFJrSHN0UE9HLUlHbF9PN3VDcDJIdDFQNXFEeklVMDRvdzNYVXAwdmkxc242dHVpY0JrcHFxRjhDbGZfVXVwR0xwSUNtdVAxUHpyVXlQY1d0U1ZxZlVjal9kTU1lQVAwSG95ZGNhcTRMbVotMUQ5d3dZZE5yU0hpbzlKSUppbElIUGRqN1lxS2RfNTFBd0lOOUFE?oc=5",
+          "date": "2026-04-09T07:00:00.000Z",
+          "source": "The News Minute"
+        },
+        {
+          "title": "Chennai history-sheeter ‘Thoppai Ganesan’ shot dead by police",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNFpBY0hlWHA4R2habjVYRkoxWDVpWWNSMXpMXzBGWGJ4aDVITWFONGYwSXpEZ0tacDhQZU50aHpnckdfV2NzWVRYR1NzbUV5QlVSVm1xU29Rb3VRTERDSlpEMmc4VTdrWjZtNDcydnJ4SzVrZGttbi1ieHBIU2tXdlktVmpicS1zUURMSHlFSFc0Mm9pWjhhYko3ejBoVEpKUEHSAa8BQVVfeXFMT2VPdGtXdGlfTV9qa0tEYlVrcWM5TnhZbUJuYUZPZy1UeVV1SHJpRzdPYldQdVZ4MmFpZW9aZHYybi0tWHBFSUoyTGRRWEJ0Wm0tT3c3Y0MwNWdpSDBaS3Z2ZnNZODRxVDBrR3Zrb2wzNXhNdWlQRC00UjF6aXQ1WkgzbVlDNTVlLWJhQVJDb0lqTzZBOWEwaURwM2JoTVVBYWF1a25NOUhPUXRWLW1FYw?oc=5",
+          "date": "2026-03-17T07:00:00.000Z",
+          "source": "The News Minute"
+        },
+        {
+          "title": "Woman sexually assaulted at Chennai govt college canteen; three arrested",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUldnYUJmdjB1RXR4LTh4TEVqdzRIMmRrbWR4NlVHc0JhaDZkTDhFdWh2bWowbTk4LVpzanFYNU1ycU9NOUQ4Tll0ZGZUcHZOVnphWHhzVU5saVpNV2dMYUhDN2tzeWZYTG1IZ0I4U1FlVmctbDlOTld0Qy1BcFdxUGdQSGNLOW5fSjlnNmRZVTd4cXFCWFplUXluZGhHNEtUUktFN1FaMzZIR3Zza3FoNF9R0gG_AUFVX3lxTFAxeFIzRjdtSGVaRUdyZzBGSjlubDdTTTBfQVMzTk5wX3pvMnNNZm5DSkVYRFpUNmZXbko3bElHTVNUSjc5Q1ZMQ25KcWRIeGJVYlN1OTlreVRNWnhneEt4UldnVXFabE5QbWtFNXVQU0U0c2tpbVIxcTlLN0d2alNpMld0aG16RHBzSFRzV0VLMS1ZVWRvdEtkUGVRYkxaSEc3ZmNObjV2dG1BUmxKdVhmVVRVT054RThMTFlteVFB?oc=5",
+          "date": "2026-01-30T08:00:00.000Z",
+          "source": "The News Minute"
+        }
+      ]
+    },
+    "149": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"149\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "150": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"150\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Farmers opposing Hosur international airport arrested in Chennai before CM meet",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQ1MtRng4Z0pfaDBqN2RmMkF5NHhwVE52VEJhVGwtYUp5dG1TY3hQbTBwQ2g1ekd5am5lQi1QOGg1V2hXa2trQWlfRThMTjNBVnhCa3FWWG9YazU3VjZCay11LXdhTWNTUVlWcHZ0bkkyeEtjV09PejBTRThjbDVoNWVaUXA3djY0VEFybE5WUDlBMlJGblZyQlJYLU1kb2tkbDNkMGV3czhRaDBoblZzTnZEbmhTOUJleTZ3UHJDZlU5LXpBNDhaRXl3MzlkTldscXlJRmcwWElxQdIB5wFBVV95cUxQYmNfTkM2bjNLc20tUE14R0xpSXpjLUpXSTMtWFFBcW94V2VyaDY5VDg4WU1vMlpWb3ZLdnFZQWpuRDVKaFBDNjdJN18tdC05NnNfWlRGY2hYMmxHR2Yzak11U29sM0EyN2hkVkZ4QlA0UVlWU3JQY1ROdmhxRzM5eUREcEQzYTFlaWVuT0FVUGhRYlIzaEdyc1F4V19JemR3Q0lwWk1GTW5XTFI3NEdsR0dpV1JRbGgxR3dtUEd2b3ZBQk5FMDYyRXkyTHpxSkdzREtaOWU1WEl1N1RwckplRUllQXZFVTA?oc=5",
+          "date": "2026-03-10T07:00:00.000Z",
+          "source": "The New Indian Express"
+        },
+        {
+          "title": "Criminology grads seek inclusion in new Scene of Crime Officer cadre",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPb3EtMXB2U0VWUlpfMTE4LUNHS05fclpvOW5KVTU4TGZRaXhPRy1BQjFUbDdsQUFkWDNKR2Q1bGQ1YVh6OGFqeHBOdjlHOUZhR3ZxRFFiM1NhNmJzMFFZUFNZcTA5aFRXRGVqVW5YeUhmeFRHMm8wR1JES0h6SjEydDNGUHdtVWNYZHBwTHI3bWhMTHJmRmdSMVl4QzY2X1BlT0RTVkFDbm1LaHpDUVkwZzRQMlB1VWpBblFtbHVXSTI0LVg0S2NhTGdlTdIB2AFBVV95cUxQUzJpSWFITEdMM0NGMFRMdm9PdVJ0VUVyRXNsME8xY1d3Sm84cEJiSXBBblRDWTZVdEFuVndxZUVBS3dVUDdvbFBtd2tQZlZNVjlGTllhemlGeElhMlRPYnZHNWxDSDdCRHpFUU5fNGU3WHNlZEhkYzhickV5SDZzdzdCeWpDcER1aHhWY3dGV2tWRFlUbFRob2NXMS00d0c0Q0h5WXBDd2Q2VUNFTEhkTHBVZ2JZdHA3d0E2bEJaT05ORXpNMmI4NUhLX1RoX01jVEpBVFJRZUc?oc=5",
+          "date": "2026-01-05T08:00:00.000Z",
+          "source": "The New Indian Express"
+        },
+        {
+          "title": "Chennai: Cleanliness workers protest outside Anna Arivalayam, arrested",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOelJ1b0dNd1lxS216em42aGxBRVhSQnA4TE04WGFtM1k1dHBhV0VwbEQ5U0VUM3daNUdKWWlQd2w0dzU0emIzenBlMkhsX0JfeGFkdHlLLTdybUotdmVEZ2dqcV9nRWloZEVTZEpKUFF2QUo5N2g4OUxBQ2hkVWMzSTNYbGV3V0FpTFNqQ0tsZ2xNa3dfM0RmM2NVVzhDU0s2a05odWtB0gGzAUFVX3lxTE0zVWZFY0dMLV9ERS1uVEtZTFY4MUJNVXd3MVQxV01JaklmWnUzLVg3NXlRZzFCci1DYjRVclhDWkc1QUx2UWF1VUJ1SlRKQ3BWNkE5TTVpWThtTzRyLUpKT1NuLXlKZnlyWmVxUzc2bWpCTkxzRGtjMkQ3bmlpLVhIQUJPZTF0c0lkS1dfNExZRUstNGxGSXpDZ1VsZlNGMV9LcGpRLXNZNGhQeTNrbGlvZFJz?oc=5",
+          "date": "2025-12-30T08:00:00.000Z",
+          "source": "DT Next"
+        }
+      ]
+    },
+    "151": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"151\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "BIS OFFICIALS RAIDED PROTECTIVE HELMET SALES OUTLET IN COIMBATORE",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBIWm95WVBzWjhTd2MxRnBvSml6c2VVcWx6MFg4TFAzeVdsdy11eWg2Qmo0Tlp2bkwyWFpzakt3dzNTS0NpdXJkLVdnQUxLN3hUY2dBXy04LWg4N2ctZ05GaDhROU5la1VK?oc=5",
+          "date": "2026-05-15T14:55:00.000Z",
+          "source": "PIB"
+        },
+        {
+          "title": "Bangalore: ‘Operation Suraksha’ to curb night-time crime sees 151 cases related to narcotics",
+          "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQLWhKczVuT1JOM3phSmhMVGxzTEZoMUtVM1pXMXJQc01LZ3Mzanowa3FpRER0dTZiRnMtWFlSRHUzbVU0d3hDcnFDSUg1VUdHakdaZGxwMy1OcVo3clpFeVVtRGt6R2NLcDV5RXQ0ODlvVjU3VXJ6M0FXb1B4VkVEWmk3ZTE5cGpnb2I4V2NMdHdhQ29obzhwS043aHVzNDdSOGxiQnhJd0VVbjhXVGZQUGxkZk5RRnE5NW1BRmFnanBUcEZOeXRTMktlSzB4VUZCNWlSY0pRcUM2azhUc1lNUWttLUY4T3NMQzNCSk9sUTNPUWhIdnJrUHpETE03YUJRZ2tfRmZLcTlQRHJGNldiV0R5dlMwTmxwZmppNWhfNlLSAacCQVVfeXFMTWVRbjhTdE1rWjBncktVbXkxTWlLNFlSMFJxUEZKUE13eEJSV1RrV2c4WVhUSWdKTm9FRXhCSTlNMk5SYll4TUVlZkJaaVQwd0lBSTJYSjM2TlJqa0VFLWJ2NktFd1hVUjgxV3o0bGlXbEFsRzA2LWJQNUtJRG9mM3owbVFKdk8wTlZOSWFuM19OVTE3V2pRbWFKQ1B6VWotX2VPb3NXTWc0SEVwYkFqaDg2cllralNabnM0WlFrblNTUUJkRGxjUHhCaEpVX0ZFLXNwWVBhSEEyeF8xNmZLTmp0cWlmQTBia3gyMGx5Wl9BdzZ6UUVodHpGbU9aaFVoRU1iQnJuVmhtVElERVZ0bkY1ZE9sUDF1NXBhVGR5NW1qSnJqSEpvRQ?oc=5",
+          "date": "2026-02-11T08:00:00.000Z",
+          "source": "The Hindu"
+        }
+      ]
+    },
+    "152": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"152\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Man gets contract online to target vehicles‘linked to particular community’; arrested",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNaXhMempmNGdWMDhBTjRMNkVhT3ZiTHpjdkNzRWpxZUtUMkRicjA4Z05jdGV2eEc5S3hrLWtRUUoxQjZvZzlEdmltSUladXA4T2E5ZXZSRW9CcFVLVWExeGJEZkk4TW44ZmN5WFllS2g0WXg5M1plVmt5OVhnQlVkZmhCV1drSWFiSzJOblZzT0w5WGJKLTNRVVNLODZaNlluR2lIcmdYZjFNalJ0cUVaUnU4YWF4ZEN1bEh5cndQYlZ0dFZPaVh4c0pjdTV2WmduMWFYRGtuWXhRT0Zwb0lzSVVJeFVlVUctSHNQbtIB8gFBVV95cUxOVFhPY25jY0hFLUdqRVdyUnBGNEh1SGludzAzbVZ3ajN1alRyZjRraXhPS1pxc0xnUjJjVnNCNWhZMlBoN0E5YWpyajd1cE9pNXQ0YWlzb1RDeW5DemtZWFdxcndwcGdCR2tuOUJsdWRXem9vU3pBeU5nSW5kdzdxZkdteU4wVTYyVUhHUzdCNW5LdTUzYVlfcjJwT2xOMXlTR1c3WDloZjJQU01jbnZna2xVcHg4M2tJeHRDc3NzQ1V6SGR2OUdTNHQ5eDBIQ2thSkh3RGhvUWRYbl9RMXBoTTd4UC04WnIwNzMyQXVLdTVDdw?oc=5",
+          "date": "2026-03-14T07:00:00.000Z",
+          "source": "The Times of India"
+        }
+      ]
+    },
+    "153": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"153\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Former TN BJP chief welcomes HC order quashing FIR against Amit Malviya",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeHlWV25MRzMxOHJRX2FUdkV5a2hqYnNOTkdibnlhVWJFcFFhR3JDVC1GT1cxWDBhbV82eHItdW1LeVNGdjNFMWtmZkQzd0N5REo2U3lKLVRSdk5xLTkxbndmOE1KcjRiY3RQM2xxek1jX0VFUWlacGxvcUVRVUtmT2k0RHZPSEU1bktFYUFyZUozN3NrVlJNS19WWVpsUWRndE5ielMtajJPOUt1RmNpSG5PenVDQVZQVVZBaEcwWdIBxAFBVV95cUxOakZNTmdBUXdya3l4cmlXMUc5Vk14R3pQN3FLVHVPME0yaTJSRExGRThFYlFtbEpCZ0w1dWxxRXg1ZUt3RHNHd3B1bjdjN0tGdmZWV0kzbUw5YllYek0xVHV2S09PdThTdzhIT3RoZk51VHFoZGpfYjZzRnA0aC1oTmJWcnFaeUpRZ0FmVEdzZlJKcnBGUHBlb0hfdmNVajBzMm0xb0M0czVhZnA1ZXNUVjRER005V1FxeFRRREpDMS1xbG9Z?oc=5",
+          "date": "2026-01-21T08:00:00.000Z",
+          "source": "The Hans India"
+        },
+        {
+          "title": "Punjab Police arrest 153 drug peddlers in state-wide CASO",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObFFsb1pWclh5NEMyTnROQzZlXy1fOF8wd1h2enlQMC16NC14S1NNZXBrSEdrbmgxWFZ5RFVITjBnbmpISGpmVThYYjNHbDZfaEFVdXZmSDNvYUxrYV9OejZkSm1GeVY3NXpXYVFDRzNuakM3R285anVDd3VMSW1SSlFfellnWk95MzBnNVdyOE9kVnBaaEYxNHBucl9KeS1VOFlIQmNtblFSV29meDFkU05VOV80Wk5iZGNIRFNzTHZaM2lyR1QxTFFwRFRJWkRl0gHWAUFVX3lxTE91UXF5TmJDU0w0RlBXOGhJLVhaZTlfOW5CaURTalMzMk1vNWRBSTJod1ZvSm9xblVlN0dKRlNZSDFmQVVNSldrT3Q2M3Bfb0s5SjJsdkNhdkt4VXFzMWxXSGZ3QnFUNXM2Y2t5THU4UTEtbHpEaFNQSk5xVlpYQ2d1aDZMSktqdnE4Uko5SE91MTZPX2RlbHRTeEFNeUR2bllMaERLR0ZlVFA5UzRFTFVKRVZoTzZITm1ING01WFJuOVJHeVBLQTZVUHRwSWFKVDJaVmNkM1E?oc=5",
+          "date": "2025-12-21T08:00:00.000Z",
+          "source": "The Times of India"
+        }
+      ]
+    },
+    "154": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"154\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "155": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"155\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Mumbai loses Rs 155cr to digital arrest scams, 33% rise in 1 year",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTHFHN2FrREZneXhpYmhqRllMTnBybElheUVqOWRuMkM5UWktUUxDc3R6V2x0ZlgwVXBuSW8zTTZ5clVIY0dXaEpSc2NLbWs4VngxUlZZWXQxSGRYcWFRcDJLbk9Vc1djRjFiMmVMeGNkeDMzUThXQnhZYjV3QWxnWkp5aE5VdzhoSnBUVWlBNmZJZHlNU0ZSc0loSy02bUtTQ3pqVmhvM21pN3NRR2FQTGw3T2dtX3NXNUxERzF2cXNhU0k0Snd5bG92d9IB0AFBVV95cUxONXZRNEIwQlNVajZ6bWJPdzRJVWU0Wkd2UlNueDFYQXY0UzNfbmlhNmJXYkpKN2oxcmtxblFINVNhQklXUzRZTEpHbkFTX3pYRU0zSnBWdXdlVjc5ME84LW9LRmdQUW5XQXFqOFh5c0J5dExhdGZ6NHQyYXNEVWwybkxKbVQ3Nllwa3ZFQUVuLVEwaVB1eWZzLV9LNDdtZDVFcXVpYlVwWTh4TFNmR3lXZVJyMVllSDkyWDh4b0JRVUZWR3ZiMlJOMmVoa1o0ejhZ?oc=5",
+          "date": "2026-02-14T08:00:00.000Z",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Five arrested in Hyderabad for selling banned Chinese manja; 155 bobbins recovered",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTHZMVUpkdzRkTzdESDFuYXg0dF84b2ctUVk2dXZ5R1VRZjl3VF9MN05LQmJJTTFoSFZ0MV9UNzh2WWNCdlZIZWpuZGF3M1ZYSHpWRVV1aXk5eGJxekVZb0NwX25RSFpfaHlSOHRVOVk0b0ZmcDJfa29LWGF2X3JDUFdab1ZZVjJVZnBzaXNXNjM0aklESjNyMk9rOEdwUkRFU0NmaW1VazY1ejhqeTlRX0twMm9FRUJwWEt0dnoxamtmdEJsUVl1dk5xOWZGdndlOVFzNVFFNlRmNENKbXhGdU930gHoAUFVX3lxTE1ja1NlV1ZKS1Nvcjd6X0lLODVQQnUwVURRSDNZVW0wT1ZhVkJiaTJ6elNESUdwT2o4Y0FPTUk0WlVidUVjQkUyZ2RHaWlncGRPSVk4Q3g1M3JOOG1reU84S2hGaTJiRFlxWmRsQXBaSl9LaVc4UW1BZnF0akV2Sno0VmNsWWpxN0lFNnd3c2tIZVg5ZDFpWmNqY1g1bXVkOVotdllPcGF1VVdqVHNyVmJPVk1lZnB0QVJRWkZjcWhlYU9SY2p6Uktmdi1vNXB0MWZTR0V1MVJTSTJndUNDUExvaTdnVGtBajk?oc=5",
+          "date": "2026-01-09T08:00:00.000Z",
+          "source": "The Hindu"
+        },
+        {
+          "title": "TN BJP slams DMK over Tiruttani assault, demands urgent crackdown on youth crime",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOGdEbEo4U2NFcnFsVS1TRlZGeW8wMTdMaE12cFlCSVA1VW9VZzVvODFEN2pVM1U1VVBBMUhWYTc0WVNmVGlIbGtsUGRfTHF0MW51elNXVk1nVjlsc3M5RkxRWHdYcFFqWU9TMzBOekJZa3VCT0Z6ZVo0WDhpMTlGTm95a3dvZ3p6OU11U3R5a1gta2pCNXJBV0hwN09xcHFzSjlBcHRNLWpfcUZTc0tBWXAybU4wMGZ6?oc=5",
+          "date": "2025-12-30T08:00:00.000Z",
+          "source": "lokmattimes.com"
+        }
+      ]
+    },
+    "156": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"156\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "157": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"157\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Crime branch raids famous SoBo restaurant, siezes 157 e-cigarettes | Mumbai news",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVzA4THRpYm8tUXRBOFFlYWJiUkZMNDlIN3JQWFhlMmRQdlNhTHp6aE5ZcmxWUWQ0ZFVMbmVDbnN1RXJRMUs4b2kxaDlJQVRVVFpnOEFZTldXcXF5cm5BaHc2eU9TT0ZVd2JBSXJkZzQ1YURxT0s0N0h3THlkcWVadE1xeTNMQm1ZdERuQXM1NFowN1VaYk5zNG95ZXNKQnVsdkNDVHBrMEtmMGRta1ppeFdxa2hIaTBtWTJkV01KanJaMDU3N3VaOV9wNnM3U1U00gHWAUFVX3lxTE5PWEg5ZGIybkZ1TWduQVREUzVfS2NYNnVsZGtNcTQyMGs3WVZodjFZTFJPTmJnb3hTSkpBd2g0WXQ5V0xRWlZJME9zOFZOeTZpeUx0Smg3NzM1NnFZS3ZoZ1c0WDVENWU4Mi00YWdSckNZbXJfOXFUTkE0MjdNUzRVY3dFMGV3OU1XQjVITWZzcXVWdTdhSlFjMUdnSHpkbldmTHFlc05GOXVQWlhRWG14aUVmenJIOWVld1dpeXNRdnEtZkJhUlU2Y013em5pdjZzeld1UHc?oc=5",
+          "date": "2026-01-10T08:00:00.000Z",
+          "source": "Hindustan Times"
+        },
+        {
+          "title": "Kurukshetra cops arrested 157 cybercrime accused in 2025",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcktDN0Jsbl9ZUDNvMnc2a3NmNlk2NHVjRl9YMXFKTzVUSlVIUmlpM2FpNDJwODRwLTZFTlhiMzJkeDFHejY5TTg0UVljdEt1Wm0wejQzMTR2YW9sZFR0bVpyY3JLNmlaRWRTRXNFTGt4TjdFcl8weFNqUmJVal9fS1FSVExFLTI2MnNpUmRHOFBIOVk0ekt0RlhVUXVXcFZi?oc=5",
+          "date": "2026-01-04T08:00:00.000Z",
+          "source": "The Tribune"
+        }
+      ]
+    },
+    "158": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"158\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "IPL 2026: Gaikwad’s unbeaten 74, Overton’s late fireworks help CSK post 158-7 against GT",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMzlKZG83Z3VBeEwxYk9KZGVPZTRlZndTWEpfdExfOGdJdFJUeVpXR25NT2FsbDcwZlcwMFBaX2h0ZHVvZk9jbDV3emVkRnV2eklIanQ2dXJ6UER1Z1diUklNNzRCSW5wMC16SWZrVzBlNkRSVUxfMlR5ektvdUJINmtaZDV5MGRGY2tZSHZFNWsyajVUdzNKTHROSWRZR0ZicU5xTlAwemNoWldlXzhIbHVsekNiZThGbGNV?oc=5",
+          "date": "2026-04-26T07:00:00.000Z",
+          "source": "thehawk.in"
+        },
+        {
+          "title": "Vijayapura police detect land grabbing of 158 acres, arrest 200 accused",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNmdRdWxFekgtZkRpSVZySVB4VllhVFNlQ2N3VkFnb1RMd2lQVnk3LVNpWnpFcnFSaEcwelRkQkpDM0lBclFDZGpFUGxBR1NzZFBsUEFUaGg0ODJTSncyTXAzZXF6QWVpNTVYdmU4TGV1SjNpdVlnS0RCam1GSlZkdTV2WXVJOGdQQ2NIMG5qcHBza0NuWTVKbC1WaTZmMzBzU0FnVGw1NGtsZGhVZTFBU2JEVXM2d0NLT0tyUHFYeVZRRGJMRGMwN3JDV1UtcWhzZTF6VmF30gHcAUFVX3lxTE93ay1GcG55RHA2RW9JdmpYc3BBdUJNem45X2pORTdjeTluTGtoS2JpckJ4TmhMS2x0WFJHV0RKMWM2a3A1Ql9vOTBnZHVaOWVDdGl6WkR3N3BoR0p0eF95Wm1YZi1YVVNyODI2ZVAwaUdTRVBOdHdwNkEyeFE0bm11OWZ1LWtnYVhwZGR3dnR5QnJNcmRoc01sd3FERDhjcURvcl9CdllWeTNrNVlpdm1JczUtM1l1cERhODNiUklKeDBLSFh3T3ZfZmdYQ3ZSZGcxQllRcm5mZmFHT00?oc=5",
+          "date": "2026-02-02T08:00:00.000Z",
+          "source": "The Hindu"
+        },
+        {
+          "title": "Rs 158-crore loan fraud: Mumbai police file chargesheet against developer for cheating Motilal Oswal Fina",
+          "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNcVhuSzBVRjZIMXB5MGlvRFB4ZndEOTVET2RDem9HbWFWSlJrZ0hHaEtLN2VMOHUtd1JtNmlaRHhBR3hRV0paXzUzQllqVGlTTEFncjhzTEhMWm9aeGFnTUVKbVc0cXk5VlFHNnNLM0hwQzJTSFNJZjZiQTdpSkNSSEhCVEllRHUyQ1dicG9FUVNCVy1xQWxyMEQ3ZDZwTEhqcVBRZ0xrTG5MZVVSOEZyOE51WWJtNVZzRHl1eUtaamxKX0E1MlBXR0ROTExtVGFheXo0TFhaRVpIelk5YzNMRXhRQzJKTmFSTTIzbk1qMGhHLTJ2OUhwQjEtQUN2MnJac0dfbGJEVlBYSnN4RnNYUUFrZ9IBmAJBVV95cUxOZW8zQ2I2XzI1ZkNOc1MzdHAxaU4xUTRDLTZVeXg1dl9XLXpGRkc4cWRWV1lvX0NOOUNzcm9PUDd5WHdUQnhhS1NxUVlqVS05c1B5Z2JwbTdmbzNhdnVFQXktYXlnZEFRWF9zRDhVZlVxUGQtb05QYWE0MzljMzJDekxsLVF1cjk4YW1JRnVVTTJEZ3E1dU9rN1Q4T3FleWllRGNzS3NuOVkweUIyeVN0V25XbWItNGF3Ti0tTHNyRk5CNHNiUkJiZVJSVS1vZzJ2d1JBbk56N2N1dzlkZ0c4SjJnejRfQWhqUnRLTTREOFEtcF9UZ0tvdDllWktGNS1qRERROUVQcnNJR0hFM0NHRXh0bXFjU1A1?oc=5",
+          "date": "2026-01-05T08:00:00.000Z",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Chiranjeevi on iBomma mastermind arrest: Hard work of so many people ruined by one entity is unacceptable",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNd3pRcmpKTTQ5UkNRV0RyWDM0TWN5ajVPek56blVyYk1NdlZHdmQ2Tm1FTWpZMmNxTzdMVjNhUDk3dGNzTnppUjJNdzhXWjBnbzlld2l5UEdocjh4S0NuTHRRajVRMHV5Sy1fZ21abDJacldiMDI1Znlaa0htdUJJZmp6N2lxUnJ5akpzTkZERFRPNlFkNk5QZWx6ZFREVThpREQwYnFqamdFTWxuUktRcl9mWk4xVE9mWmR1S1A5QTkyY2N3VTdkeUI1QjZMUEdlaDV2OXZIRklXR0w0Y29HaEMzN3ZXaXNPQ2x6eW5mRdIB_AFBVV95cUxPaVVqLWhlQkFpRFdVdEFJeC1oLWxZei13aWF0anYwZk1KZUxGMnVxSUFPS1Z2ZHdOd1ZXVF9ZdTBFbjA3Q1pnSmlKYmhuU19LM3VsdEVjVXV5UExCRVczYUdZaU5BaWZ3NlJ0dEJMYWhPckh4eE9jakhRejBQVEY0NzVzQ1VTRmREZ2pFbVNCclBvcFlialIwSVBsWk5uODRmLUU4cEtFSWw3a2d3SDFJSzRuYldXeEtIY2puM0JYbU1SOW1aOFdIR3RwYlpUaFJVOHBreEJtX0doazRkWUFpQmprOHpOYVBrbzZtX1lCWXdMeV9oMFpoNUUwY0U?oc=5",
+          "date": "2025-11-18T08:00:00.000Z",
+          "source": "Cinema Express"
+        }
+      ]
+    },
+    "159": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"159\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "160": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"160\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "IPL 2026: Young Guns Fire As CSK Beat MI With 8 Wickets To Win Their 4th Match In The Tournament",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVDZoeU1RLWJjX08tWlBVaFF3N2hPaVpOYWtWV0RvNlZrRVFHT3JEMW5CUGhid0NfdHFpLXNsem1kdzY0RFlSazZCeFRKUW1VOEJlS2VIaE9NNXFVR09XaC1EbDNrZUtTYV80VmJnMkJVZU00ekhaVl9IWHN6YkZlNVlHb0V2bmNnek11Snl2TzZnVU1wMDFSR0FPUDlEcHpoS0NVQnh2TEFMU2ZSZEZyS3lXWW9wYmJGSjRWSDVab0F3QkRFdk42aVdxanZZLTTSAdQBQVVfeXFMTkJIaUgtSWo0RGxIek4wenZSUFJsQ1BEcGp5ZDRlNGtmRm5WZDVDYW9TV2hfVmZHVFZyN19BRjdOTHdfeGF3X0pENmd3bGlNV3hwREFHNTJ3U3ZhdDhpMERRc1BLMWZ1RDZxNFlkRGkwa3FNVHJkdmJUdkYtS00wT2JuQXdHRE9qMHYya2dBdU9SRTZNRDFqTkVDSGx2Yl9wRzhoNV9xNXFtb2hvZkU0TUhuWVk5bzBBeWZOQVZSVDU5anM0Q094ZENOUUh5cGtLd2hBLUQ?oc=5",
+          "date": "2026-05-02T07:00:00.000Z",
+          "source": "Free Press Journal"
+        },
+        {
+          "title": "ED seizes assets worth over Rs 160 cr of Shyam group firm",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZlB6Z1NkejdhVzBlQ0VWNWxzRWtYSzZlZkplVXZrSkVoTVZ2aDFHb0x4Vjd2TjFmMjk0MWlHV1I2R0lkQ28zN3RaUEVUWkJ0NEw4OFJsZUJGdWNUSC02bU9BYk04SWF0czN2WGlZLThuZ210SUkzY3JZWXF5QXhXLUJtdElWWjNkMHZvdnNvZTkwM2JNaElJN2otaEo0cVlpQ1lhS3RMMVN0SllzS3R1eDU3dExwX3ZObUE3M3JFbWQwTVHSAcgBQVVfeXFMTWNXbV9IMEZ3LUY4NGY5cG1JSm5ZUV9Mb05aUHdKQTZJNURta0hQRmFSZmlBX2FLWGhlYUlBVTd5ejZWcDk2WTk5ZzVmRE9LN0RyTjRqSWxMbjZPS1RBZjRNWHdRWTkza1E4aGlRSG5TNVF1NEZSNzdCTUhyRDc1akxDWkppNTllNXNidXd3SnNCdGxGX201VlY1eGpoaGNQM2thbF9LT29sX0lJNk12M25OWk5SdWNkZ1JYM1FvTHZyWVZ0Zi1UczI?oc=5",
+          "date": "2026-04-16T07:00:00.000Z",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Woman held for aiding rape of daughter",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcWktNFRqdzk4ZVZ1WTRjQUloSmlidWx2WWRqZmwwWUgxM281TjB1dU1QdVZmeWhoTHFaMDdiZXMyYkxjMXlJWTlxTW9JRVo0VUl4TERLVXdHbzN6WmpickExZElhVmpRQml0RHVkTjNUWEJqUGtGdXNsOGVmNnlOYUtNOHZtNGxDNHRaWVpKMlZfM2w5ZGplcG5ucVJ6dHY0Y1k1SktEdTZRSFdySTl0LXNpVdIBuAFBVV95cUxQcm5LM0Q2VFFYc041NkRydlBIOHhQakFDVDVFMnJHX182Z0RYN2RsRjRkTjA4TGRWUG5qdU5aUU1DTjJVY29FMFNFYlVzLU82eWNtN2hUMUtjbnU2RWJvNHZoVUE0X2xXLUlaOVk5Q2JkdVhLOVFtdlB5NzRCUl9qSWlwV1JYeFdjQ01xekk0b2UtVGdkSXd3XzcxbVVnajIwdERZTzlKQkFkRmFhMFJkYVIxQzNyTDc5?oc=5",
+          "date": "2026-02-27T08:00:00.000Z",
+          "source": "The Times of India"
+        }
+      ]
+    },
+    "161": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"161\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "162": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"162\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Weekend raid: Haryana Police arrest 162 criminals, seize illegal drugs arms & liquor",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPeE84Z0l1YXFndW03RFg3WlF1N1BmR1NzcW4tcjk5UElicnRDNnhHYzNLQ1RURklYSGRiMG1sVzJUREVuVjhESkpXaGk2eUdaOXM2bFJSUVBsVWNmLU8ta3EtNXRWY0dLelFoamkxLVRHXzFhT242M3cwOGI0Mkh2V0VIQXFrak9xekQ2UVBha29iOUJuSVlKMlExVzlBZjZKMkl6SFktZlpic0ZwcTRibVF5VTJoY3lVWm1HLXh4WktlRzVuNnpnalBDSHYtOXZxaUdhR3V6YmZVSWJwLVJBOEo4ejBoN20xdkVmdjJIRdIB9AFBVV95cUxQamJnOTA3MTBTQ2FaY0MzU3gzaHZkb3U0c1VNSk1BWDJ5WlpWdjhTbW05TFVvM0FZVGNXemFqRnNETml3Y0UteWRxRVF1TnFxSTU4LU4tS1Z1RkxxUENQVlVxbjM2dElCbExRTV8xcE5jLVItT0hyYWppeUNtNkhEdDRxaFcwR09QZ3ozTEEzOFhkbWZZWnFoWFM1WENoUkdhQ1VjekdPeFoySkpJam9VWHNwQmd6b2RVMU8zTEM4VHN4SXNEMEo3dEcwQWowTE9MWjhvN1NUUF9yTTZuWnI2bktHR3J6Tm9GbkxuSlA3eVZTZWRy?oc=5",
+          "date": "2025-12-22T08:00:00.000Z",
+          "source": "The Times of India"
+        }
+      ]
+    },
+    "163": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"163\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Tamil Nadu polls: Cash, gold, liquor and drugs worth Rs 1,262 crore seized by EC; 163 FIRs lodged",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOS3VNWXl4ejBPbm1rQjI2c1h3WEVtd3gxV0FMNWtHS24zUzdkZVNhdmROM2pHcjhOZkx5WXg4MzJybXZSZEJERzI5SnNKMlR1cDMwcmE5cDgxOGZ4akZJc2JJTnRCSnVTVkNsNGRkRVZ5SS1hcFBWRldMcXdEQlNBaV9GcG1FUWlsWS1LOFRRckNucFgyWHlwTHlYaHdVamVGdERpdmExMndDSmdnQmozTlp0LWxxT1NDVHJRY1l5NUZ5UVdXLXNZRmpFZlZhQWN0VTVoUWxnS2JUQQ?oc=5",
+          "date": "2026-04-22T10:22:39.000Z",
+          "source": "MSN"
+        },
+        {
+          "title": "Tamil Nadu polls: Cash, gold, liquor and drugs worth Rs 1,262 crore seized by EC; 163 FIRs lodged",
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNOVhtMnEzdk1zS2FEaVJqNWNEa1RkNW5VM3c3ZmNqb1YwNjFjaXprWl83cEQ3ZXFzUFZWakg1UzB3QUdxUHcxOERxOE1YT0x5cU5KRjQ0UHpiTENscVZYZkhxLVdQQ19zOGExNHlZYTNTT1pVN1BnT0dibVd3Q3RFUjF3Y0NQN2lZdTh1TVJEcUo5a3phSjJocmZHMDhKanVUMm1VUWpZRkdWY0NvdkZpXzJMV1l6U19jdmJ4SS1UMzlfVXp0d0QxTkF2UXptamFEa2c5N2xNakNQdkktY244SW12dEZNbFpva19qcGJzMjl1aEVxdkVINS05NNIBgAJBVV95cUxPQXhKMmQ0V3d2emNCeTJadTByb0NWZ3I5QkhOS1E5SUNZaHFjTDhzYnRBbG53UmlZdWI1Vk8wNHQ3aEFnRG9YX3lkYi14d3U4WUJJazVyZFc0M0V3eFVlbDB0UnJMUUt3WXpEcVZ0cTJIRVpKYTB6RkZMLS1rN2JqTm1EQkpyemZOWThEUGNtUFcyRlZFZVlJQ2o1LXl6UXc3am9NRm1QYVRHSmY0Tm5rXzhIRnZIcE1kcmhOMk1hSXdXaGJNRDczWUhsaXNDR2lwS1NYZ29faTdTd0NVeUlOZExxbVNfYWNkeHFpMmhvUjJOLTZKNk1VRXlyb2VnMmhB?oc=5",
+          "date": "2026-04-22T07:00:00.000Z",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Sexual harassment at Nashik tech firm, company's HR official arrested for inaction",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOT0lFNllfR0pzU0dCTnlPQTl5ZmRZRlVTTjlRN0VtMzJ0RmJoazJYelJ3Smkwb2c5UjY2N1A4ejRSNzc5eExEcktzdHRpYzZuUmh2YW5HTnVlVnVWTS0xQzNkTENXQkZXY05Rcm04SzZaYjd4LXY3ZjFubE0tazhfTzIxRjY4U0tTZy02UzhHeG54UFJZbUNTQk4xZ3ZjZExabWJFbVRZR2VrZzFudGZLZkpLS3RtdDB0eHhkenp2UmNLMmxHVjJzbkdHLXhRNlhyV0R6cG5EY0czZEJMNmFOZ3lrU3pxZ20wSDg4VHNiekg2ZnRENE52M2h30gH_AUFVX3lxTE1kdzNEOGZ5YjhMVW1xM0ZBY0gxTzVTa01uN2JhTzdwNW5Pa0lUM1E1TkZRTlRQRC00Unc0emdxaUxmRHo2b1drUjJWbGNjSXFfZi1WWkJTV2R6a1MzaGY3TnRJRnNZcEJXVEc4eVZKbkxVUXl5dzNkQWNWRDdtMjBOMmhVOUgzZ2xLN1lSWllmSlZIRWFzQzhqTmpXWC1QamM0UHdvbHJvWkstTE00Ymx1Rm9tUy1DN0NnRHBPNm9qNmJwc1pzbTcyYVZtdEJ3YmdPZ012c3BsaDJCWmRFMnk2cjc1WktaZ09VSkpNT1VUeTFnY0dZUnFxbjdDMjJrbw?oc=5",
+          "date": "2026-04-11T07:00:00.000Z",
+          "source": "ETHRWorld.com"
+        }
+      ]
+    },
+    "164": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"164\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "165": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"165\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "166": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"166\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Jharkhand Excise Constable Exam: 166 Arrested in Paper Leak Scheme Sent To Jail",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNX1h3Nkc5cjJjUWUxa3o2a2VTQVpIVHVjRFl0ZFdUUjVPYlFGckFlVjFHdzh4NjVzZVB5SFBUUWs5WDJ2aEpWS2tpUHJvWHd6SGF5el9yVzhSN0JBOS1mNV9Pc1pubzU4Y01DLVBPOTZUb1JmcGNHdmtUdWVtSXRHOWZuazk0alRBNjZ4dFFBZk1pdGNvZW50UzhvN1JfTmRPLUM5emVQSndaT2RqdUU0dHUzMHFiSWhYXzVQMks1emdFTHg1NC1GN2liQS1ObVNmdWhxd1Q4dzkxdGJTcjlkUTdaaGJtLTjSAewBQVVfeXFMTWtTVkpua1JkY3RENzl1N0J5elBYZWVQMHpsVHZCRWVFMVNDVjJ6bmVqZDJLV1JXZl93b3RlQktuT1Bsd1Z2TkVqSVgzUEJjSTI1TWxCWlU0dzVPUmd2Z2xRMGJVQmc1VzV4cVo5NmhqY2JVVWxGSjg5Sks0NWtiaUdWMllaaGc5dExTdThZUVd0QTRoc21zYUtMT29CY3hOdUFtQVNkMUpIS05IbDFINllLdXJEVmhzanl2UVZzV2tuVzRLRG1HbHFpVUl4ZnlhUEpld0RUZG4yakxVaG9rWnRaN1puUTZoRUVFWl8?oc=5",
+          "date": "2026-04-14T07:00:00.000Z",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Vidarbha Bowl Out Baroda For 166 To Snatch Initiative",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMm5fcTliUmFRVmR2Sjlwc0N0S3ktS1JYZmQtQlN4RS1SQTFWbFRMQ1lXNFNRcGhpV3Q4N0RiS2sxMEI5MmdxMk5IVWhwVFFId1FlLU9IZmEwazJzcFg4SzhzN1BMVmxVMmV3STBkaXE5dktkbTBlZjZIaTQtS3pEVGYwOC1GMHFrcTFRdDJSNU91SFF2MklpMFVjRGNxWDlmRFFnbGUwLTdxcFlhaWRoTEljc3laN1k5U1ZUVDdpVmhyVHR1b0HSAcsBQVVfeXFMTklva3NqbXF2SlJZbkFZdjBPQ3FpMTA1T25heWp0c0FVM2N6S29ZY0VlX2plcUhsQ1NFNzBmSUVaNkF5WVVXb1lKS2Z4T21mc3Q1WHJkNEtRMWV4YTZmdEprdTQyMVFEMndXOHJBY3NRUk41QWV0VkJHM1FpZURvWkVKN3BHbFFDYmphZWhQbVdtSnZlT3FlSDRPaTQ5bDhpcVpYa3l2ZzdEVW16aF9OTExmUHFyNjJQM3JTcTltTk9TbE5QcWRmSC10cFE?oc=5",
+          "date": "2025-11-18T08:00:00.000Z",
+          "source": "The Times of India"
+        }
+      ]
+    },
+    "167": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"167\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "168": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"168\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "169": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"169\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "20 foreign nationals arrested for allegedly voting in TN Assembly polls",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPME13YUhxYkZUOWtWUjVIVEdIb0VNeE42c2Nha1pVVFlaZ29XNFU2MDBCVFdpRGtacklHZWRfR3l1ZVhXMlNkLXNDVXJmalE2V21Uc0M5dVNMNEpZRU1fRU8xQVlVekQ5UWJKSWNqWVdwTklsODBHTGFtRU1SejI1dUlNTXkyb281OTNRZzY2T2hDWC11TW8wTUFFajJIbnNTMGdQRk5fN3NhSzRSWXFmY1dUS3BIdkk0VnkzZDR2S3JqMXpZSHlfaXdQa3FWUUnSAdwBQVVfeXFMUGNDMUIzZUVGOExvYnRsLUF4dlllWGcwRmRrTm1KV2NIamYtQXY0VUZrTGtUX25ZOFkyVXd0N1FRMy1oWkZxeElaRDZjb2JBSDYxSU5udnNjTjFHdzZEckdZUU91ZEZPTzBOREZWQWJOVUFnTW9aNGxoUXdjZHhsVkVmcm9QNTJuRDdWamRIOFNWYkt5c2dyTWVQN2lCU0FOWWpTXzFKNDdsUVpWR2dHZFlreF92b0pmTjlVb0Q0WEhmWXQ3X3pZRXhwQ292TGVUY0dubzd5Yk5adFVXSw?oc=5",
+          "date": "2026-05-15T02:07:17.000Z",
+          "source": "The New Indian Express"
+        }
+      ]
+    },
+    "170": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"170\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Bengal Industrialist Pawan Ruia Arrested After HC Lifts Protection in Rs 170 Crore Cyber Fraud Probe",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcV9JRzJla2FDZFBKNDhhVFN6c1k0SmNST1FKR1JyeGNNRko0bmRpVE9fbGVnZFUyc2VuT2tMUUdGdGtpM3psaVdsRXRhN1o0dG9UdFdaeUJpRzJFdncxc3QyNTRvMGdINW9XQVFRTFlheFFzV21DZWtfNXdqRDFkU1FYcUwtWW5jeXVvODg4VzdkZll4OWFpT3owRDhlWmxnSWtZTXJJSEhIQTRzSmQ1cFEyT0k0WEw3aDZyM25WRmM2cUVHTkd4ZXkxcVVsaDBuT05aNXU4TVJJWmfSAeABQVVfeXFMT1M1cVJBUm12bGVlUHlIYnE5QVhPb0ZvblNlSTBjcDBhV3ctN0hibldyOFBBU3hXeXRWeVdQa2tndFZieURlY0ZnZ2hJSmNfMDRZeHRwSGxKTXYtMWJETnVKcjJvNUdKVExCTk8wSk14U3NHWkVTWFl6Z0t4MjBsQUt0bkxTZEtzOXVZeTU3ZkhTdXJlcXQwOWFTcFcyNS1ZX1JFMTdtZ3J6ZUJ6dkVxWnFiaktOQmcyX29JLTJwTFZCU3dfaHpJUUROT2RtNEJHMy04NHBMZDJfYVBDWkJ1ZWI?oc=5",
+          "date": "2026-03-31T07:00:00.000Z",
+          "source": "News18"
+        },
+        {
+          "title": "‘We’ve lost our family… have we committed a crime?’: 170 Indians died in Malta boat tragedy. Nearly three decades on, case still stuck in court",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRDJYYlNsX25INTZUamw3MUdUa2dkY0JQSDFseE5DcTJYaE5wd2UwYVlKWTUzZTRRUjhLeDJrcmlZTXdlaWl6VG94ZTZhdDZUTWM4WnZnbjlmYjBKS3pua1V5QWpfVk9LTWlUay1zT0htWElCbnctQ2pLOUFYbWVtTTJ4blZzY0VXak5fdnNDS0YxZHVxRkJGZlEtX0xfU29RcU9raFBwdUpqX0pmcVp5Y0xhUlN0cFhaaGE5NFc4ZGtCbUZvcnZjQdIBzwFBVV95cUxOaVNrcXJDbGFwWTZBeHdMckRyQUZDR21aVkVVS01COGVXRXNxcm1HRVE0T0NLVS1fNVB2eE1BRTFKd0Q4X3o2eFFoemZpME0xZGp6eUdqTnhEcC1kMTFvYkZoTXgwZU9ZVnFxQ3F4MVhIdVlib3JjejVSU0l2TFZ4NHJ2Ty0tYy1HeDJGaEF4NmJoRXZZaFhXaGhuVWVJYkJqQXMtdGFWU25adG5vWlFwVHY2RDFKbVJIUFIxN0NPeGFnaDVhSFlBaDd1VllWYmM?oc=5",
+          "date": "2026-01-21T08:00:00.000Z",
+          "source": "The Indian Express"
+        }
+      ]
+    },
+    "171": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"171\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "172": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"172\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "173": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"173\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Sri Lanka arrests 173 Indians in major Cyber crime sweep",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbTNQUWxoMnZ1bUVITEswRUFCcjdoZjAydlF0c0FhOENSd1RGdEpPdUliQUx0UVNlZ1NxOFFtMUF2TVowc2NfbGVnWEhKX2lRRTJkY0Z2Y1pqczBmNjVhWk1vRFRYSDlWclo4bzZfMmg3TW5KY1N5NG8zOFBZdFdEUjRKMWFvMm9kQzRiWmtFY1ZYQUhXTWZXQjFCM0VNMjd2Q1VQR3dTU3I?oc=5",
+          "date": "2026-05-12T13:54:26.000Z",
+          "source": "MSN"
+        },
+        {
+          "title": "173 Indians among foreigners arrested in latest cyber crime crackdown in Sri Lanka",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPV2pWUHNWWHYyRjRRcWhoY3VoUWx0T0JxTHdoZFYzem43Mm5GY1Y2V0t5MURidmJYRWtlMjJjMUhpdktWbjdBSHB1a0hsTnlKUy1QdkZER2FhRFZYZEQ3ZVdrT3ZvSnZmTEs1OWstSlhHbWFvRHlMS1NzTzdkWTNZMldieHpnUnF3eVFxeC1qRllzeGFqSE9adlk3MlVjV29fejMwcTMyUFFneWpLcVdZSUZZTW01azBfMkxxUFRvTUZuZkNCTGVxY25ZQkNaVVNNanVaT3Q1YTBLRl8tYk1V0gHmAUFVX3lxTE1qSE9paWVjbkctaU4xRzZYTGhaMElFUk5PWE5fTy1mTFRReDF0ZnRacVczdDk4b21Fem96Y0NsRFZ5MlNfWWs4T2NhSjFDN3pscUlRX3lOa0ZsSjc5RGVFVkVpRnBHeWRtSjFxNldFTS1pakdqZXFWLUJ1LTV4dGlhZV84LVZ6aXZMYm02UzlOY29vTGM3alZJQURCUDQ2bDRVRktYazhsWENaaW11eWdkc1NQeW1fY3Z0ZEtWNTUySFV0SkhXSDVJSjdHWFFxbEYxR2tkMFJFZkszbjJqT1BWM2JWUU5B?oc=5",
+          "date": "2026-05-12T06:09:19.000Z",
+          "source": "The Hindu"
+        }
+      ]
+    },
+    "174": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"174\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Woman found unresponsive at Chennai home, husband detained as police probe suspicious death",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRFoyZnNHbF92YURHVFA4Uk5Uemk3RGNoU1B2Z2ZwR0oyLUZ6MFBEZmZIOEFfUW5sbVZaNmNQcHlwdENXeng1S1h0YUFtMUtjeGJVRmw4T1FLVjJnN1h2a2VIQ2xvdDByNzJJM19qdlFRZUdvckpUQ2hSV0gzSW9GcWFHVjQwaTFZRTVKTkFpSDBBVHdUa0xfZDlEbTAxaFFWSG03OTR30gGrAUFVX3lxTFBFNTZBMUlSazA1b1FTcTAwNldkb2ZGb3BnNm9QUU1BZ3V6ZG5EMVBYZXlyeThtSUhzbkRJM25BdC1WeHhyNnV4Q21CVmxjRmU2T2E2em5CeG5DMTdGUTI4UUxtUGxfdy1OMmRPZmpuUFhEaFpPNHprdWhMSDJvSU54Qlh2enhXV28zc3VPdmtsb2RwNFVIS0RNZGRpNEt6TVhTVUM0QUVISEkzTQ?oc=5",
+          "date": "2026-03-31T07:00:00.000Z",
+          "source": "Mathrubhumi English"
+        },
+        {
+          "title": "Man arrested in Chennai in ₹1.74 crore GST fraud case after absconding for two years",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxObk5LR1Q3cnJJOXloblhsTEFGN21vWFNsRmpNdXZIWmZlMnRwZVR6cml4OGpUUUFZb1JoY1d3dE1nUmhRTzJaOHVfdHBJV2RLbS1YMEUxUWk0LWhMVzcySy1fcXd4QVZ3c0xyMzJfOExTbDB1N1c4TUEwVEhjQjJ1OUZ6WjBOZkpQZko4Wk9peHo0dGo0UmxDaGVKbVJFNmgxXzBZTWN6QTVBRDRQc3J3Y21uNXY5NVN0aUNydm5HS1RwdkV3V2RkTTBpN0R5X0kyMGVQSS1pVlZmR282allIbdIB5wFBVV95cUxOWG52VE45UzU5Q0M1ZE9TdEZzd2trTV96dndXd2RZb2VQbE90MGFMOVQ3LXBnUFZ4RmJ6UG9kVzNhRktpcWl5LUFMZTk1Wm8xamNWeHBVbkFYX3RCenZ5c20xcmJwWXhxUzdPc0xZVVRZMkI0ZlR6T2gzVzZfZ0otMGxicWRmN0tBVXdMWGRxaUVUMzN6bEhxejVqY0dldm1uaC03VWM1UW9PTjAyX05rMXdYRWZPNDM0VFBBQ0dZN0dJVHh2M0FtT2lVNml0RnI3bXl0SE5rNWxVSThUMWtuZHI0bWZRZ0U?oc=5",
+          "date": "2025-11-26T08:00:00.000Z",
+          "source": "The Hindu"
+        }
+      ]
+    },
+    "175": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"175\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Chennai railway police arrest 19-yr-old for murder of elderly woman in Karur",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPWUEzRS1KOVd6aV9lTW9CRVkzQXFjYVZDVTZrZzFoQ0JOVGxPZDZobmthcXZGUnRZdzg0dTVDX3NfSUZ3UXg1UGRVWDYzRzNUYzJFTm1vbUNEU3RNWEowOUVmdTByS3BEanh1QnBWdU9hcUpxQ1NhdG91SmFNem1HR3N5VDdXcUVYX3VFQ09vUktrcElSQTFuckNpMThpLU82Wl9xa3p1Tk8yaEtlSXlEUUZCOWlWRVc0SkJ3MDZEVHR0TE45SVlmM3VKN2NvbFVjZzFqSTYxWFF4VTdVcHc1cWUzRmZ0Z9IB6wFBVV95cUxNMVRSV1hNR1RoUHBWLWdvOUZRV1dWYlBCcV9TZ1Nzbl9VbW1EOW9sSkpOd1pNMVVCSmt1N1hRMXFuTWR1cEg5TFpKb0VtTV9OUWl1N0loeWU5em80Yy1nMDV3UGJiWmU3Z29VbTVWRW04eWNLTWRyQ3NzbTh4WkQzSThuTlNHbXFzSGhtZ1dMVHhKQU9FOUNZdk50Q2k2Rlc5OTVoMUpxelYxdjN4UEtDVFlrUEw4TTA2RlVnZDJ1Y3Aya0Uta3Q3Wm51NGJtWWpYTlcxQnBxVjQ1bGVncEFEV1JHSmZNbFlvM0xB?oc=5",
+          "date": "2026-04-30T07:00:00.000Z",
+          "source": "The Times of India"
+        }
+      ]
+    },
+    "176": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"176\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Criminology grads seek inclusion in new Scene of Crime Officer cadre",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPb3EtMXB2U0VWUlpfMTE4LUNHS05fclpvOW5KVTU4TGZRaXhPRy1BQjFUbDdsQUFkWDNKR2Q1bGQ1YVh6OGFqeHBOdjlHOUZhR3ZxRFFiM1NhNmJzMFFZUFNZcTA5aFRXRGVqVW5YeUhmeFRHMm8wR1JES0h6SjEydDNGUHdtVWNYZHBwTHI3bWhMTHJmRmdSMVl4QzY2X1BlT0RTVkFDbm1LaHpDUVkwZzRQMlB1VWpBblFtbHVXSTI0LVg0S2NhTGdlTdIB2AFBVV95cUxQUzJpSWFITEdMM0NGMFRMdm9PdVJ0VUVyRXNsME8xY1d3Sm84cEJiSXBBblRDWTZVdEFuVndxZUVBS3dVUDdvbFBtd2tQZlZNVjlGTllhemlGeElhMlRPYnZHNWxDSDdCRHpFUU5fNGU3WHNlZEhkYzhickV5SDZzdzdCeWpDcER1aHhWY3dGV2tWRFlUbFRob2NXMS00d0c0Q0h5WXBDd2Q2VUNFTEhkTHBVZ2JZdHA3d0E2bEJaT05ORXpNMmI4NUhLX1RoX01jVEpBVFJRZUc?oc=5",
+          "date": "2026-01-05T08:00:00.000Z",
+          "source": "The New Indian Express"
+        },
+        {
+          "title": "176 mule bank accounts under police scanner",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUWFDVVFZUk5NMjNoVE1GaE1oWURNTXgtM1ZUd3dJb1kxanVmQlZVVjdHODJHMEduX2xEbFdYby1fSk55eUVKcUEybjVtdS1KeldfYllmcE1GRF9sT2pPcDA5NDlibl9rUG9OdGh5Z3NWdnJMQW16VjJsZjNJZFc0dlBlU0hsTTVTWDlMazBnS09IQXNpMExueEE0cm8tSi1zSE5SN29jdldGemEyZzMyblVrWkx4U3BqSWNoU29Pa9IBxAFBVV95cUxOblZwZ1I4bTc5T09YcFBzYUN5clE1NWROUHBJX0NkdTI1Mi1NaG9aMDVkRnMxWWZzbWkxVngxSmQxTHg3eGFra0FNc2VQVzAwZzRsX2VYVTNqUzk1LUtJcGpWSDMxZUZ6Qkdhbm9SVXFuTmUzNnBuZGJCa2FsdE9BaHlYSG5qcW9PdVN2MjZiMW84WDdXMWRtYTdENWRhdjAxUWNlYm9tTnNqZkU5dlBLR3hGZkRxMmUtQ0Z0VXNaOFFKNklr?oc=5",
+          "date": "2025-11-26T08:00:00.000Z",
+          "source": "The Times of India"
+        }
+      ]
+    },
+    "177": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"177\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "178": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"178\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "178 Reported Crimes In 5 Years: How Tamil Nadu Has Become Unsafe For Women And Children Under DMK's Dravidian Model Regime",
+          "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPWWswbnFTcDlCVU9vQktOUGVYQ2RjQWZNdWNuNkFFX3JJSjZoUWRFRFlsWkxDcmlYckYxb19EV25iLUVYdWdVNkhwSXpRVl9vdW5sZmxOR29GUjZnNm1BdzFfdjF2NG9reXRncDVGRDJjbzQxOHMxbXhFbUhqcmM4d1o3dHFhel9HM3NwN2JWeHQxNnNsX2lDRW1sS2hOT21CZHpGWnVoTUp5VnpRdFNwRnJfTE5lNjJKWV9oa1c1U05hTzJtYWhlTkVua3FONnd2cl9ZWS1mQUJvR3NOeWJnX2oyZ2ZaeC1GdVB4QTFoNEZxSVQyRnJzSXpYSFRybDE4ZmJIcGYzdFZKNVR0Mld3cGtkZkhuMVRqb0JzdGQ1TWowMFAxTEktZ25fcDdmbGs?oc=5",
+          "date": "2026-03-22T20:18:38.000Z",
+          "source": "Dailyhunt"
+        },
+        {
+          "title": "Criminology grads seek inclusion in new Scene of Crime Officer cadre",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPb3EtMXB2U0VWUlpfMTE4LUNHS05fclpvOW5KVTU4TGZRaXhPRy1BQjFUbDdsQUFkWDNKR2Q1bGQ1YVh6OGFqeHBOdjlHOUZhR3ZxRFFiM1NhNmJzMFFZUFNZcTA5aFRXRGVqVW5YeUhmeFRHMm8wR1JES0h6SjEydDNGUHdtVWNYZHBwTHI3bWhMTHJmRmdSMVl4QzY2X1BlT0RTVkFDbm1LaHpDUVkwZzRQMlB1VWpBblFtbHVXSTI0LVg0S2NhTGdlTdIB2AFBVV95cUxQUzJpSWFITEdMM0NGMFRMdm9PdVJ0VUVyRXNsME8xY1d3Sm84cEJiSXBBblRDWTZVdEFuVndxZUVBS3dVUDdvbFBtd2tQZlZNVjlGTllhemlGeElhMlRPYnZHNWxDSDdCRHpFUU5fNGU3WHNlZEhkYzhickV5SDZzdzdCeWpDcER1aHhWY3dGV2tWRFlUbFRob2NXMS00d0c0Q0h5WXBDd2Q2VUNFTEhkTHBVZ2JZdHA3d0E2bEJaT05ORXpNMmI4NUhLX1RoX01jVEpBVFJRZUc?oc=5",
+          "date": "2026-01-05T08:00:00.000Z",
+          "source": "The New Indian Express"
+        }
+      ]
+    },
+    "179": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"179\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "₹990 crore recovered from defaulted financial firms in last 10 years: RTI reply",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWjRoeVVuXzlmemRXVUxrTGNCVnY3R1ZSX1Z6NU9XSmRVeXd3UkxkOXhBRlphMFg0VS1yYWY3dDZjWFhJMnZsTi1BTHRNZlUxRXU1aV91dVR0dU5VZnVkZ3RKRlljQl93ZXZHN0JPcDlpczVfb1BCZnZfUUlYX3BOWDFrc1U5dEFoR3hESVA5dmM5N09hQjdYanE5cGs4TFFYRFNtWDFxZUQtcm1WZ0hycWJITUItRGgtSW52cWtEaG1lRFhaUy1PUS1WNDdIQmFmemVKemY0emJ3Q3JYdGRWWNIB5wFBVV95cUxQMEpYM3UzMGJQR0FsLTJURFE4SDZ5YThTMVAtbkpBUE1SUFZhcXJmM0FpOTRZZExsQ0h0bS1YYTVZd1dQQmo5UDN6U05XdDRJWVE4U3VqcDhoR0pJMmZWdXpSbWEtVjhKLVh0d0IxQm5mSkdlcU5CZGdmN2tMYVRqbHpwNlBwMVZGM1JRS0lEOXJwMjRUeFdobWgwc0loanBJc1dEc2lHWHFXUkVtT2RmTWdhQ2UyT0ZweUF5UlhreGhleWZDRzAwaEo1WGZTTUFzYVY1dkxkbjJIVzVqT1JDRFJERkpFdDg?oc=5",
+          "date": "2026-02-14T08:00:00.000Z",
+          "source": "The Hindu"
+        },
+        {
+          "title": "Crime branch busts LPG black marketing racket, seizes 179 cylinders amid domestic gas shortage",
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNbkVsSVhsZjNqblVpZVZNb19ibmMxN0ZYR0g1Rk00TmtzeWFqZFlQaDRiQ2plR2dza0RhcXpnajhCeE1KYVF1TWpuVUhNSURqMFNETnAwc0hsTGc4SDZhYzgzbjRITzluc0FxamtTQlgxNFN3ejhBSzhKZURCeVJmbmR2WjNWRGZ5U3Bma04tcktNYUl5bjVyYnNCYzVMTzMyakVkczNEYXhWRXVnRHJoXzg1WTJuclpLclBZSGJ2elRhbV83VWg4ejFtVi1OTFhqcnJYM1dNTGVWbTh2NDlSek1jY2FQLVZUclhoQk1oM0htSHNHOGdGT2FKQdIBgAJBVV95cUxNN0J0REpvZHphTXJ2RWdBUkJpc2NYQ3VpZkhWUXBVZ0hqV3h3bW5nM29MQmhSYVZwVWRuSW9zdWVyZ1diekp5bjJ5RTlCeFlwWU9hVTdPY2ZiZDAtS2t2RlNDck1lR0lfbC1Dbng1dUE4YU9xZ0pEUDhoZWNLNzBkYWMtR2VKRUtUaGJQb09ZYlQ4YWRTX3NSa1RPeGg3ZzJ1YVNKTTRnT3RTSzZqRHNkWUp5cDhGWVAyNk0zSnJGZFN5b3pDWDNuQmROLVRiZW1DYlB4bExTOEl2UnhLOUphMko2OWk4STROT3ZFTUs4cUVYMEtzVVRqXzdXcFY5NWZh?oc=5",
+          "date": "2026-02-11T08:00:00.000Z",
+          "source": "The Times of India"
+        }
+      ]
+    },
+    "180": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"180\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Delhi Worst Among Metros For Crime Rate, Kolkata Safest: NCRB Report",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcG01a1Y1dGtfcU1Sbm9VMzI2T0k4OHdxQWE4VFJtMGFndVNCZHBvaW9BWC1Vc3Y1aUtjbzg5U0NxUzhqV1lkSE55b21KekpZMGQyWEtiQUlzc0dZNGVQT1hCdkV3TUtvRHBLandnSGZueWJjWnpiaENnYVA2Tm13dV9kV3lIQkZHdUUtLXdZZU5RTklHbXkxTl9mbWZXWEdwY01kM1JmMzZacWJPZ2RISU82X3NwY1d40gG-AUFVX3lxTE1RU1lWVHFyNkRhTmRRRDFtZTRUMHktUUoyLUsyT2kwcTE0YTVuZ25pakZoa2hobVJQckxSTHpYdFVoMmJZTUw4cGdSQUdHX0cwNXhfUGJpUm1xakd1SmF5UzVKNEFITHZENXNjMVRrYkpqNGxBZ1lUcGpSZnZiZlh1d21rS3l0STQxTmdqZUxHSDNhb25ucHh1V2NsVmwyQlBDSUZ6ZjNkTHJVcWlaUkRHYU5aWDlWelhCdUxtYUE?oc=5",
+          "date": "2026-05-07T07:00:00.000Z",
+          "source": "ETV Bharat"
+        },
+        {
+          "title": "Bengaluru Stadium Canteen Staff Sold Over 180 IPL Tickets Illegally, Arrested",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUmJPRmNMWkRiM2ttd0o2cGN2OFJCbXBiU2dESXJ6cWUydWNacFRmVFN3MGpZcXVkdkUyWmI0TG9LeXpGdkotY21NQWt3RFBVZFdMVjUwTlJuTXFqZGI3SU81aEtTbGtGV2ZTMXRiazZLSXJwYjBpeTJOUjRWLVpiblJ3dkgwMDMyaVRoUFYzdHdNSE5mRzdsdGI4VWZLTVNhQkdCMkxqSVZmVk9WUmRMV0Z4SjAtMjBOV1c2Z2Rpb2hSbjY2dVFNSWlPTzJJSlB5MUVjM3VvTkVHQ2JYNTJzNGZaSkFCUmN2VHNDUWxQN015Z9IB-gFBVV95cUxQMzRLbWJrN1hyYndOaDVBZUtvN0Y1SWp1bTJIMHN4SUppeXR1YlE2MElNN01rUDZoZXI0Q2xOWHUyMGRfdmY5Y19IZFRPanJwUHVHZjlZb1JFWEVNaU1fZkpRV2ZSWWZyc2RXUWZuam8tcGc3MUVVOVYwMTkwX1Z5QndLUWRkTjVwQTE0VUtBTEgwRE9Vbmh1YklKUUo4bVZsd3RLNC1SMWJoTWpoRHB0RXZKdy1Kc1JjUE1hVkFjYXFZVE5UQXBJb1ZCZkN4N2NuTHh6aVhVbWluOFRIUVhRT181TlhUS25ZZTdqSDM3dFNQMUxMSFJDNTN3?oc=5",
+          "date": "2026-04-17T07:00:00.000Z",
+          "source": "NDTV"
+        },
+        {
+          "title": "Chennai records fewer murders, property crimes in 2025: GCP data",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWFY2cFlDTzdVODlKUGVmLV9xRDBWZDIzRzBSY0NZV3k5YjNkZU9CeVZQUXhUVDZlaF8wMWpPUlVnRVhOYTZsQlVzeGNyMzRxTWVfTzVqQVNsZzFOVG92Z0lOUmgzLXhxajZSOUl2M1cyVFAzXzVvekt6MWRQMllEbU1nTmIwZUJZS1N4R045VS1FUl9RTFdrR3NISGRWd9IBqwFBVV95cUxNZEhfdHFQMWF4TEFpd0RKQ2t6WFBOSTR5M2tUbEZGeDdHZXpMTzhYdldaM3daNXY2aHRJUnpvRTMwVVUwNUgxSVo2Y3B4V2Rzc3ZwT1JfY3hDZl9tVTlJNDZjZk54U3JoaUpYQkxKcnJfSVNmQnBxb2J1VnlUMWt2cnpTUGJVaEFucTJ2bDVNMkEtRXZ4UGg3c1g2ZTNHS2I5aHc1WFgtSDJQLVE?oc=5",
+          "date": "2026-01-09T08:00:00.000Z",
+          "source": "DT Next"
+        }
+      ]
+    },
+    "181": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"181\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "182": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"182\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Kolkata: Hotels Overbooked, HC Bars Coercive Action In Mahua FIR, AIMIM To Contest 182 Seats & More",
+          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNTVoySndsbFZXT3BiZm1sTFNLUkdOMXBZcmtQSWk1dTRsWENmOHc1RVpfNzJacTdwcEVQNVV4YjJqUmV0RlU1eDZNa1F5aS1ncUs5Qnd3QUVQdE9TWUVQenRnY2J0OGVSLW5YMUtWR0dXM0ROLXEwVGRMbWpkbGFLSzVraXJYWXJ0d3VVRC1iNlZZT01EeHNYZjN4UWtxNnBKdnROd2psQ1FIZGJpVVJQSFJnUjhPbnhBRlJrdV9GdjNwaVp5M0lxTmdUMzlnS2FGMDNJakduRUFrT181OEcxMDdCZ2xPeFJXdmp3ZGRZSXRxckhWVEFaLVZsUFlZMVhqaVRJ0gGIAkFVX3lxTE9tYkRncDd1OFNsXzZsbFBIQmRmd1ZGN0otR1RGbjgzTnhISEN5YTZEVG9ndVNHS2ZWVEtQSUtOQjlZZ05uVVE3Q1BDRUxIaWtKRzZ1VXZCdEZreXpEdnF4UlBJWmstaktlalluTF9JWXBnQU5mdXl6NGVELThmVFA1ODJhemlhTUlBdmxacmgyVXFvZVpEM1VxQmo1aEtfZFBTeGlCdzFBdGxfVXdfbXU0OGZtS1pCSkJiSllVYUFrb2c5X1ZONzdVZ1BGM3pUYUdYMUhwYVJmd0tDdWNwYnVjYmMwRUhYUDBsWUdWVVdpa0dLSlh4MUJ5SjRlSjk5MzBnVk0wMnppcA?oc=5",
+          "date": "2026-02-17T08:00:00.000Z",
+          "source": "The Times of India"
+        }
+      ]
+    },
+    "183": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"183\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "₹183 crore CSMCL overtime ‘scam’: CDL VP arrested; 7 co-accused sent to judicial custody",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQVlowdW9jVW8zdWM0Y1lGbm95YmlCQ1BsM21BcmZ1T2RhUUc0a0tMZnZjUXhqMEtxbDBDVXhFVENyNWN6WkNLWUNKcERWT2QyeEZ3TkViMmdXbUJCMWc0M19XVWYzVGRBOU5CWkpmelpGNDF0NUVZOWZqNHpWWFRZWGc5OWJpSFZSRHZaY3M3VGpQVkc0UThNbU5ncDBEVk1oWkhMVVRGVU9XemJrVUZsM2Nocnp2M1h4OE1HRHRNQjVKNEhVbUNGSm15RUoxU1BrZzVWSUY2RHV4TjdseW9DN0FSQWhPb0hycS1RbHF30gHzAUFVX3lxTE9ZRGQ1cV83ZFBtTjFTc3B0dThtTHBZV05TNGczbVQ3R3NYMU1Jc1c1NE1mNnc0Vk9LVDN6cU5EUFp3MnROUEgwRElKM3drenhINkJieDBXU2RHSnZ3dS1naHBJbE02MVl3cV9iSHVNZjlhdDliT1ppek5wUGxCUjRjYzlWdUZaOWpRcFFqRDA1cUM0bGtaUVZETU5KMDVzS3ZVVGx1ZmZVWG1KYXhHZTdWV3dsamZZWGxLOG0zbU9MY2RMT3dtUzZXbDQ4c0tDWEdHYzVEZmdHUXlUd3VjcFhzRldINngwTkh1WmhKQ1MyY0NQOA?oc=5",
+          "date": "2026-05-13T14:06:00.000Z",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Delhi Police busts LPG racket, seizes 183 cylinders as people scramble for gas",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSEp5dXVGV1F4bjM4V0Z5OHNZNWR5UmlEZzNsdGpNc2o2TF8tWS00c1kwOHBFVjNSdDhhenlOZHpzNFFCMEdJM2k5ZG5DOXFQTmwxVmpSaWRJbERsNFY2RllOU1JjZWdiN2RhQ3Q2NndYN0t0SW45Y2VDdE9FdVMtdVhFbEIzcDIzT0hnVWVXZ2xsbGJCUmc3TDhYWjNQWUR2c3c0T1I4TThLbEhYNjktRkpyZF9DbG5CQUgteUhWTDJ2TjNEcTY2YnZYUDkxcExYdllSYzk3b3pIYm13elHSAeMBQVVfeXFMUFpxaGJ3alRFZTJKVS1OaC1fNWd1Vklyb1ptejFWd190amJSUzYwcVl5bExxYmk3X1ktd1dpNFNGQmZ0bU9UTFZzS3lRZ281MVR0ZVdsQkdzUDJJMEY5S2VuMHVhS202WDBySXNmNzZjcXlWTkRSa1MxMzk0dEh2R2pONUdFa3N1SWJnT2NtVUJUS1YtdWoyQ0pQNzRHVlR5ZERFYXQ3Rm1UTk4wRERWVjh4UjdNNjI3andkTHRuMUhSRjNLSHZ4RUhNN3ktUThDZWZGekpjUGVFQ0UzaXJ1UjNkU0E?oc=5",
+          "date": "2026-03-25T07:00:00.000Z",
+          "source": "India Today"
+        },
+        {
+          "title": "Delhi Crime Branch bust illegal LPG racket, recovers 183 gas cylinders",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNE5UMThJZ08tdWtTN2FJZjF0bTBneWpMYUNrUWNYNW9Ob0c0OE1CNnkxYmRzMzRBY1VLanJHM2xKNF94OXdISE1pWnZBekEtNWlQS2QwMWN6dmFsY3BPSDA2VmZLV3A3ZDZLVmNrN1ZWUV8zYkRBLVFwR3pJWWpGdGxpRDJiM2Y1YlBzcXJhaGFROFBaMjdyanJ1UTVIMkFW?oc=5",
+          "date": "2026-03-25T07:00:00.000Z",
+          "source": "Kalinga TV"
+        },
+        {
+          "title": "Delhi LPG racket busted: 183 Indane cylinders seized, 4 arrested in Sangam Vihar",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOOFRjcF95Vk9ILTBmU3ZUSmx6TkRZbmdEeldKWkNkRF9CLTVIcnc2OVZndXZXcUtBazRmdFVUYkd2dXZTTWhmYnVGNVNMNndCT1ItWF9IQ1dLS3ZCTlFpSkF1c2tsV0ZUN3ZmSGxmTldRX0hWakhmS3FUbmNyQ2FOd1k5N0RLZWNwem4zY2trUnYxRENNdEt2Ylpxdkd6VXQ2cnU2dTFrOTZwSnJYbmpoQWM4bU5YeVVkN2YyNFVObTJNTXp3MmM4TFpHNWJ6NE3SAdQBQVVfeXFMT05HTFlfVy1NNS10azRfYlE5Y25aMTBualkyYzdhOWVDY3F5MW8zeVowVVdlRmFOUjdueVJTUnAwZlNfd01oTXJSb0gwXzdKQ2FFMTZTM1VDY2FkV09ZVjRJT3k0SXNGRXRvNWhtSnNaZ1pJYmgtUEtsT3hGdktULXpoVFkyVjYxY1NvUHdzR1RpYTlrU1psaWYwa1BnZHZZby1aQ2RrU195bDQzZ3RseWp3NWxOZzF3UXpfVWFtR2dWaXlUdWVidTlrRXhObW94MkdydjE?oc=5",
+          "date": "2026-03-25T07:00:00.000Z",
+          "source": "Mint"
+        }
+      ]
+    },
+    "184": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"184\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Yellow mellowed at Uppal as disciplined SRH snatch win from CSK in Hyderabad",
+          "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxPRVhHalhzZTFqWG5YM0hZWU9oNkh5WUczdEYxRlNWWTI4TWw3U2pfNlplVndwV2lfQXNLSkNXSGNEMWk5SS1rVzE2WDVoSmxHOHNqMk93Si1MNEN5WkhlcmQxdVdjMXgwOHpWU0tfSmw0M0tiZkNzd1p5T05vd0phZUF0MlpGczFhTjVVakw3ZG9hYkp5ZVZNaHMyYmV2b29Lem9iVXRnaWc0VWJLemFpcUYxSWluYVhxOFhCZWZSSUFkNXJTYk5RZ1dlMFZQR0tETGh5SXIxeWIzRnFuMk9KRkk3Y0JJVDE3c04yd2l0bUdScWtZdE1IYTg5QWFhekVtcl8tN0hUMXFoMEs4SUU2SDZHamRGcEVIbnVjVlZqcm9tQ0dXN01PXzZnSXgzX3c5eUVVT3JUck5hTjc5WUp2ZGJDR2UtUDlxb29IQ25GeUVwa2xCUzFDU1F1MENnY2ZpZkVLbndMUzNOaGswYi1B?oc=5",
+          "date": "2026-05-10T09:01:12.000Z",
+          "source": "MSN"
+        },
+        {
+          "title": "IPL 2026 SRH vs CSK: SRH snatch 10-run win as CSK’s chase withers at the death",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVl9hZUwyaTh6aUJrcnlrT0JpVjNEajZEQVB3bmlMcnlYT2xJQ1B6VVhsSHlCR0QzS2hkZkkyQ0xMYm4xUXdJZXdlRXo4V2p6WS10Q2gwQUVDMHE0RHN5bGhkZFlnRlJLcEhvRmVoeUY1Q0JIVmdlZmhja19wWWFTZVJDRTM5amlrNER6SFlMbi1waTlTUDhYOHV5YUZhNHA2dUZJN3BreDY?oc=5",
+          "date": "2026-04-19T07:00:00.000Z",
+          "source": "SportsMint Media"
+        },
+        {
+          "title": "Yellow mellowed at Uppal as disciplined SRH snatch win from CSK in Hyderabad",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZVZVSGMzWFBOMmlEdW5jaWdtQjI2SFpPN3E3a0lUelRzRmM5Ynd4YTRncFlpcWFXRHJtRE1la2U2NkNSaFpxSWt6ZV9hYVlpY0w0T3U3RE8yUzBvam84R3VCaVMtYzYxQ0RPM2pjRlF3cTNFbkk1VW96QXM3X015MVQ5RmxiNDU1RXFTLUlVOHdkYWdNX1BicEx4ZnhGSUIzUVVVZENWRFBrUlpseFNibUxjREY2TUHSAbwBQVVfeXFMUDI5MFNMcVNxaVpQR3pKckZNSEJBaEVuYWRLb0JYNVh0d1J6WDd5dGFQamtCU3l2REtyRFV4SlRJeUFoRGZSYmFJLXVGZ2hkY3R6a2JNLTE5M1dwQ0E1TXROQ3BpWHM4ZVNoM1JiMVhBTk9UVjV2UGgwSUhnNC1TcGN2U0UyeHBNZ2prbXRTQXZxdkZ5QnppTDVsVGs0MlBtbEpUQmVkbzhvSkh4UFRUODgwaGlLTWV2OFlWblg?oc=5",
+          "date": "2026-04-18T07:00:00.000Z",
+          "source": "India Today"
+        },
+        {
+          "title": "‘Mask Man’ busted: Police arrest serial thief, recover 1.25 kg gold worth ₹1.84 crore in Bengaluru",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTWJScHRMcl8yTEs5N2tTbVJnTlY2ZFhIaXU1OXhBNDB0V1B0bGZGVWV4XzRURUZZbkZOci1BUTVxaUpGaDVMQ2R5em1KVVgxWWg1WDd0RFNCRWlNZ3FKazBBcUxyODBKVExzbnphdnFfTEdvOWZLN1k1ZWlCcVJSZzlfaTctV3RqN284Tnp0TzdVekN6dUJ1VFp5YnFoRlBqdWFsazYwZnF6LVJudE91Ym9zTEtDd1FaSG1HaTFMMDEzaFJDb3M3NE5VYWZ1cGlNT2E4?oc=5",
+          "date": "2026-02-09T08:00:00.000Z",
+          "source": "NewsFirst Prime"
+        }
+      ]
+    },
+    "185": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"185\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Thane police did not arrest main accused in Rs 185 crore stock fraud, says NCP(SP)",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOdUtOT2daLVpydVdGbXI5dUxNRmtadVZPMmxnaS1NQ3B2VVdVZS1RNTRRSWxEUnJ5bV9LV3FCeTNCalFvOEEzeGJ3SGdUU3RuMTBPckpaanE0QkFEU2lnNk50dG81Wjd3LUY5ZElqWGN3RnNpOTl6cTM4VG9NXzNkS09CcW1aSG9mTEpjMVVMb3h5SmNmUTktSzRGd2pFRzdOQ2p2ZDdHakdtR29faTdjbGo0eGZxNWh4eVNoUEFkNW5GOGd4cXAtWENZNUdwTnQ3WFdLNTYzaWhpdWp6ZXV4ZlkwZUxXemFj0gHuAUFVX3lxTE5tdWduMi1LcWRTd2U1RzNkRW03YmxXM0ItM2R0eElnME01OEZ3VU9veC1hRFZxNkhkYnd6WnlUMnIxbUxyLUduaGZlakx6QUJHUkVHSjJUenowLW1Damx3bnd5bVh1TXNSemZubU51cUsxQkpnbkNBUGxudGtaR0JJUWJibnlkTm1FNGhxWkhjWkRRVlJtZjVOSDd6NnM3Y0JkUkU4NFF4ZU5haWp2VUdpY2RfWVU4LXZ2dDE0VWF3UkhhZmVwWDlpYVlJUEl1STlzbWdaajJjSEVUdmdBNkd0M254Y0cyTmJsSG9GaFE?oc=5",
+          "date": "2026-04-19T07:00:00.000Z",
+          "source": "The Times of India"
+        }
+      ]
+    },
+    "186": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"186\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Haryana vigilance, ACB 2025 action: Rs 1cr seized, 186 arrests",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcHJYSkFOck5kcjlxVUVjOGcxZ0l4RzRnRGVpSElZQTc0NVVwZ3djeU1rQnFSNG9KbXEweDE4QTdYa2tzVm5xNUF3SUE3Y0FZMm5NR0RKeDFrak11bl9lM191NXhOMXZzczZlQ29pcXJoSnhuMHliTkp6LTVQS3FIZXpENGJoMGVseGdXb2ZtR3VCTWIzcUZWVFlFZElweWRWcFNoRks0bXVmVG9GUnA5eHdjX3BlTWtqb0NDV0cxVlFoc2toZkt6d1AwMm94cmVTQ0k00gHYAUFVX3lxTFBRX2JLWXVSWVpBM21UaDVyMWRnWlZpVm9WUUZqbHlWWmxsa2JGV0ROUlh5UWpuXzlFQjRpVndSVGJuMGNiYk1mODVESlUwZ3F5ZzI5TzQ5eEdLaVFiX1ZUS29DNEdVU1BrOC15ODk0eFhGVXc1WUtYM3V0WnlTbTBhSE9yOXZUUEJicU12ck9IUG9HWWQ3REpkV1hlQVlhOWZTUm0wUkI5Y0ZGeDREVzhobXVFVVR5aGZwZmVxLWhQUFdKZ2xsVDZUM0NubC1TbVIxT2pNZ0NlOQ?oc=5",
+          "date": "2026-01-01T08:00:00.000Z",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Smuggling racket busted: 186 iPhones, Pakistani cosmetics seized at Mumbai airport; 6 arrested",
+          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPVi1HYVVFRjVQMDEwQzJfLTlqVTlMTXJDbVBLR2tFQS1VNjU1QzRsR21jdUFYdmR5M1FRLUcteW91RnN5c0h6MEo4LXhQb3ZMaFMzRVh1Vy1hTUxnMnRkbEFwd1Z0Qmk5UWM1QTNyN2VEZVU1aVBJMXpWR3hDUFZOQzA4RGZSMTNuazg2V3hHMVFPbm15N2FTNEJuelJtV01sYWR0SkVNX25WUHpITVJjNzFZOTR6OU5ubWY3RXdNR1dZaC01TWdOUmswZXM1Tm1xTTBvbGhGOUlOUDZyQXg3NVdHem93cHZsTlZLZDk4bG5CaC01S1BVUtIB_gFBVV95cUxNTU9QVUJDcFc0Szg0bWRjQk5wUWFRUXpYMk55TFpsdGlWUGRYZ0FjXzJoWkQzVXBIUkYtakFGUFFuVlVMbzBUT0JJa2NMcnpVbmktckhLbzRFMENmdk5NWTBYanY4UHRVY2wxdVFkamFiYW1zWDNxTlZSTWozSnlKSVVab3RLTTNHb0NHenZrN0lDUDJiNk9tbkl0NjN2ZEY2eWRkblhVclFMcG1lOFp3a21ZekpPaVEySG1fekJsMTdocGFacXZ5dHItMFpBeDRaalJNVU5EaVJKQTVvSEJiYTFxck52NGtHMXNzNGZNWGY0TUZfc19hVFZOR29Ndw?oc=5",
+          "date": "2025-12-25T08:00:00.000Z",
+          "source": "The Times of India"
+        }
+      ]
+    },
+    "187": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"187\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Cops bust international scam syndicate, seize RM57.68mil in assets, arrest 187",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQckk2U0Z6b2VXVGNyalpJM0x5VVFvUG1IeU8wcGtta1VpbjdKS0wtNDl6S0NsQ25FQmgwdkQ1em9QOUNCZWVyVDZGbGhoMFNYRllKai1ZRFlxZUtrMjNOS0dLRFo3dHp5NmcwVXpxbUNMWGdhQXhuQVgyYVpQMTBnTGcxcG80X19kUnZPWVQ4MXdMcmFDck9Sbm5jYlk4Yjdfc080bndpRUU0VWR5ckpkbXg0cXNKX09kZHhBTUNrc29LUjVXUGRKSjViQndjQdIBwAFBVV95cUxOOGFISDhlQ1VkWll4RXJ5WGppOWdiUXoyTFZqaDQ5SWE1Y1cxOGszcmJGOXBoeThuLV9NQUtHTWJhanNJZkVGTUdNZmRiSTRfeUlvZlloQVhQVmRaTDFxMVBtWmUxTmEtTXp1dmRiMU96bG1WbmNreVBDZjZ2UGhLcG56LVZUMHZFaG80ZWRkdmlSbEctQ3Nqd3hWZkhHUUFYOUpXUEpYanY3VmdBQ2hMYUQ3U0RNYnVaSkE0RjdWTWY?oc=5",
+          "date": "2026-05-15T06:52:12.000Z",
+          "source": "NST Online"
+        },
+        {
+          "title": "Fake CBI officer, Skype calls, 187 transactions: How this Bengaluru woman techie lost Rs 31.83 crore to ‘digital arrest’ over 6 months",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOWlJ0OVQyeTBBU0pEUDg3RXpoVXRFM1lybmI2WkU2MUp6SWt3aGIyVENqOExqOEg0eGZ1VzdlT3lBeWVVUk5GWUZqODVEaHBnT25DcVpQSUxubC1ZWFltY3JCZUR1SkJrdmJ0V3kzdjI1cDhKQVprUW50TU1vNmZRVFZja0x2eUNpUUZpeVBjZy1WTjBtYXF2QnlkTmdEQU9xSnN0ODlSZ1JHUmdJLWFwQkVJUXc1NGhvMk1oUFdhUV80c1YxMm9ocHJoVUpaVlpuUDJmTVRYeEtHMzM1blF3VURiRzd3MEtST1JQQ0p2SdIB9gFBVV95cUxQVmNMNDlmNG8xRUhYVWlvMDRoeW9FejhQSlZ0S003N0hYallJU3FhMUl1UkNQV2lUdy1zeGxtd0dUZzNPb1AtZ3FyX1ViSWUtS2c4bG45OVdyUnNJXzZ2OEFlejlmMjY3bWFXeWs2cEJxbkVjenE3RUMtQmNXSUd2MkZDa1hwOFBzYTFYQ29fS2FJWlFyNWJMNHJFSEJyQi1DNWtvQ3g2QWZIMXdxRTJvakhaOXNvdnZkdWkzNnpwTWR4Mjh3eWlDSl9nb0dXcExzMDExdU1TQk5La0tnVEZ6a011bkxPV3pkUXV3dXhzX0dBbzA2cWc?oc=5",
+          "date": "2025-11-17T08:00:00.000Z",
+          "source": "The Indian Express"
+        },
+        {
+          "title": "Bengaluru Woman Duped of Rs 32 Crore in Six-Month ‘Digital Arrest’ Scam, 187 Bank Transfers Made",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQY1d1NXBhd1ZnWURabUFlbnpQN1dldHFHVWxNalRUYk1VXy1FSE5xZUVJSjF5Q2MxalRnMFN0ZnhfNzYxa09jTThDUWJ6WmdfVHZPeHduaG5LWVdrSFRZT0o2STJRbmlTbm4wTmpPa3ViQnBGQVVJVmpaMHVoVFRIanNDQWh3dkt1UUVva2RfZ0FPZU5scmRPam13NzRwaXp2OVR6LVhxNmt2dWRNdldQd294TWM2ZXl4X3JOZ3pvUG9hZ2Q0X1NJ0gHMAUFVX3lxTFBNOUhVenhYVUgwNEdITnJKTDMyaERQZGRUakd4ZTRhaG9KaG01YjI2N3pJRldKZURIT2xLaF9DUXcxUVpOM2RHaHNpR2hsWVRNdVI3cVUteHJEWktzTnBTLS1WLXVsNkIwa1dNb3FDbFBJUlNDNVRCMzM1RkxaREliSTFjdmFTNnYyX3ZYUXByWEZsTDdLaE5yZWRpbjNFelFSdDBrQTdVaTVBWE9neFkySEl4SWh0NDloZ05RT3NXblRYb1FDUVlvNXVpNw?oc=5",
+          "date": "2025-11-17T08:00:00.000Z",
+          "source": "Republic World"
+        }
+      ]
+    },
+    "188": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"188\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Sacked manager hid underneath burqa to abandon stolen gold at HDFC bank in Chennai",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbm5iSmNKVEhFQXNPU1hzR29PdlZFOUxlbkU2dVRHcGRGSXNaa0dfaHNOS1BkbDI4ZGRGVGZldkJJT0I5LWtsMGx0alluZXBSYlVnOUFEeV9fanVGZjJjRFNuQUNhSHFFdC03MGg1TmJaaUtCVnl6bUIxSjJWZU9BSXFKTmc4NEpRcFFyQWFNbXo4WVFVZ0tVcTVzZ2RtMjBQQWF6eHkxeTh0WkhYT1RQaXZ2VlN4bHlyOHJtdW94TV9MUdIBzwFBVV95cUxNbF9BLTlxVk1pLU1qVnBNNGowSlp6dTQwQVlTSlBNdVBKMmxkRHNNZ2phdkZqU0xSeFg5c0EzT0pmWm1lRUpLR1BlbkRIUTM4UVdnVE5GNDhzWU84RGlMUWtHT0dvTVo5bHEwaTJmQnhOMGlVQXVqWkF2czFIaGdYdlk0dGJGR01NSTdxNjVEN0Y2dC1MQk9SVnQ2SFhZUUU4M01CSmt5Y3hCeEtXTU5ITjBtLU8ydWhfVFVPYVR4aGRndWR6clV6MTBBZ2hNWXM?oc=5",
+          "date": "2025-12-11T08:00:00.000Z",
+          "source": "DT Next"
+        },
+        {
+          "title": "Chennai HDFC Bank Manager Arrested for Stealing Gold, ₹21 Lakh Cash From NRI Customer’s Locker",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQY2tlRWJqaXptQXlHdXpRWVNsMjBwdnR6NjRGUTdub09zbVRWT3YxMm8yOUVfR3k1a2VlUU9OMlZQVmlONDg4RHgwTTRYLVlYU0RPbFVPVmcxRVhRS1lSWC1ERl83QS1YajFObGVMczZEUEVsUEpQVF94NWVNVGdrc293bHR2LWZIeEVJQmVpSVlWMGFCdFM0eUlVVi1BSDFrcEpnbTFsMXMyTGQxV0xjbWotc3U4N05pMHMzTWZUcVRpekFHRkQ5MmlB?oc=5",
+          "date": "2025-11-19T11:04:58.000Z",
+          "source": "The Logical Indian"
+        }
+      ]
+    },
+    "189": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"189\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Cough syrup racket: ED finds Prada, Gucci bags, Rado watches at kingpin’s house; 189 bogus firms seized",
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPeVdSYnkyYnRialpMRERjOVhjRnk4Y2VHME9MZ1kyaXhfTmk4R1dlYXNJeld4SzVMUDB4YTFuRmxiZlM4M0tGajBDdjZxNkxpWU5XUlhPMFVhQThrQUFkZFl6U0tWZFM3di02djRuaEVoYmI1cnZ3bFAwSzdHRnNKcFRMRldMSXUtekFlWF9Oem40R0xJN184NUR0OXNNUUx2SHJIQTdvRWwyYUJaWkNNRHhwc0gyZnl6MFAxSl9teV9hRkRBaDdLZHBwUkFNM3J5bDhhQ0E0Wi1RbVhQbGhzUVZ5bmxnNEw3YlktV3hObTZPZWPSAfgBQVVfeXFMT3BFVjI4ZzNULUZvWno2YkhFVWhuSXk5dzFGOVROWmdoRmQ3SEhmTnN4dTNTbnVjbWR6RVVKVHl1c3JKdWNmRVhKR2sxZlJGQ1hST1F4LWd4M3lKa1Q5b2IxNU5RTDlob3RnM1BPMnMxaTJmT19mR2lRNVQ3anUtNzNwR09FOFctcXN4bnlEZ2ZzME15ZjRGVnEtclFuQmNwUWVmMnN4anVPcWpxSU9sVi00blI5VV9YNVVhcjJ2Z1Y3a2ozMmpUSHZHV0RRWGp1eXBBWm9hU25YUVI5MUlid1hoZnB3eFZWelBWRkcxUW9NOU5DbEx6UmU?oc=5",
+          "date": "2025-12-14T08:00:00.000Z",
+          "source": "The Times of India"
+        }
+      ]
+    },
+    "190": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"190\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "12 years and 190 hearings later, Ghaziabad court acquits man in minor rape case",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUy1KYktLUjVxMEtCbXdUX3hPVXFkdkdhVml0M0p2b1dIT3VVWXZFWFNoeUZjeEFxZDJleU50ZXdmRjlVWm00bldqcnJMLTRsYng5Q20tMXZxLW9YY0piSU5lMURZTlVaZ1dZbGxSbkdOSlNwUldaRVBWYS15aTdXNU02UzVMMmFRalFXOU9wRFNnRWZxLXZIWUdlSnB5WTdrRU9HbE9UTlVicnh6Um80RUdWdFFJZmF1andyaUZHeWNEZF9lQjdFWkh4RGHSAdIBQVVfeXFMT0x1R1htMUlWZDlBSHg3ZV9LZ1JwMEZESExGRXpMQkljdk5UbWZ4WGo4ZmdSRkMzcmxwNzltQTdEMXZRZ0Q1RXE5WWxGUDhlS2c5V2RtMDNfU1M0STVtajlrcjlZelN3ckxJeS1zdzdleUp4NFNURUN4dTBlaEdkekJuOEhoamk3b3pRTTBQdlZvb1E2LWhDVnQxaGtJUTh6bU5Lc2g1MGxqZWFmSng5NndWRXRUMWs4SVBSWU1DeG5sd1JKdmdCdmRzWmpoNUNCRjRn?oc=5",
+          "date": "2026-03-31T07:00:00.000Z",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Two arrested in digital arrest scam involving Rs 100-crore fraud",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORWNzT2ZrYVprOFlfdlh1Q3p3dVZ6NHlsWjh6TjRmaGtpaDdaeG1YU2s3Z1BuSzVDektQVS1LSjFPNUM0WEFPR1p4OEZ3eEpSVFlLbk1oM1ZFUGdXYklQZ3NqSGw2MmpCbEhmM2xsUEZteVJKRk82RjlqUC1VVC1Hc1N2ejhMVFNiMHNseElJRTlQMHFqVlU2TzVVN0w3b0tKTkpFN3liS3NfbHl4d1BHVEIzZ1FpSFd2WWFvZ2x30gHEAUFVX3lxTE9zQmtpRmRwZnJBVTJfbWp5azhtTlhycjc3SGh6MEtORjR4QlJTdFdoSE92MjkzUjhFS05IZmpzc2hpNlJRMFpQbkc2UTl4bXd5cUkyQW56andRM0RNN0dRRXFKM3h4M1EwTHRrLUNvT09DVEpkM25sbGM5U3cxQVRSS3pIRjViVTZ1ZVpjQ01VSkdGNlhkVDZ6UTk1cjJjQmFEWUZQb282TXNMUElQLWd6NkFEQ1duS2ZNQjZnOHpUUDk0REs?oc=5",
+          "date": "2026-02-09T08:00:00.000Z",
+          "source": "The Indian Express"
+        },
+        {
+          "title": "2 held in digital arrest scam linked to 190 complaints, over Rs 100 cr fraud uncovered: Delhi Police",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVTB1dDh4THRYNHJXeUdCaUhRSE16WW9IbzZuR001aHFFbWQ3cVdKZ1FUUWdmZTJYakNWV0tVZll0SXo0aW5uOW5xRFJ1Q1dkcVNBQlZDNE12U3diY2xOQ2Z4WGdiQUtaYmdqOGhhbHJ2Z2o5eTdKZVROblB1SjBlekpYZl95dmF6WVlxNlhnUTExSFNQVktkbng0RW93ek41YUlVNDVoT0pDZ003MHdTa2ptTF9sSHlvX3V4YlFXZUkzUDZyTzZWWnkySnpzczDSAdwBQVVfeXFMT2gxVXBVLVQ2ZWhNNEJrQm11YXV1cmN0a0xJMW5FWnJoNGxycGhVMkNWVjFIWE91dXZxZmJ1WjVSaldVQWsxa2o2b3NsUTNJS2J1akFxLUpFUG1FOElXYmVYTUl4SDFpcTJFWnB3NTVoRlBUN3hfc0ZDanNURU1qZG9xU2VVZXZmTngxREVXOFY2TGhEN1R1U2R4SmFzYTdsUlBwYTU4cUlFeHNIYmdqbTk4ODVmM1FIT2t1ZFVhR1pPanlHd2ZheEJOWmU2SlBrajh2a19OOVVRdFNfRQ?oc=5",
+          "date": "2026-02-08T08:00:00.000Z",
+          "source": "DT Next"
+        },
+        {
+          "title": "Chennai: Fashion designer among 5 arrested in separate drug cases",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSUtSMEtzd2ZRU0xCcjN3OG84VGVFVFlFdVViRnNDSjMxNDkzS2pmdEhxSlVUZG41SldvSUNrTzZHczFsZ1JZOG9idktlV1l0eVlJLU1qdGl2SkF5TXNWTkZEVHZJa19MM2JIa2kzQ19kaGNjODRXMl8yWVdJdUNER2JWeG1JOTVhUWNROWc3TDJDVERGcnlHQ2FGMHFGaFd00gGuAUFVX3lxTE8wRHB3eW5BcnFHZW0tRUJkc3FsVG5vYndVZFFXLTdHLVBzcVNybkNoWHBRZ1BOZ3R4dXYxbEZlZ3VwSU83RTlHQ1NtT3l3b2ZJMlVNOFFfdndSd0wxSlYyNl8wMUtHcUlqTEZRSk9MTlVRWjBGSzZ3U1RGaXl5cnczdWs3T3NUczlVUW9kd3hmRXY2SnNfUTVxaDU1Tk1BVWdyVUY4YWhUMHdZVllRZw?oc=5",
+          "date": "2026-02-04T08:00:00.000Z",
+          "source": "DT Next"
+        }
+      ]
+    },
+    "191": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"191\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "192": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"192\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Over ₹25 crore retrieved by Cyber Crime Police Stations in Chennai last year",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRS14MlNaYXZNY1dhV2JxLUVlVW93THRIRldNZlFTa3VDSHFFR2hzeEhPLW41enh5OEdsMVRjeWFNcEV1S25ubGV2cGJ2TVBXcHZ2VGNXOWUtUmpIX0dSb1E0T2UyeTJxV3RXOVd1RlM1YUlkbE0xaHV4bVk0bjQ3SkpXRWtkcmhkSjFEZXVuTWhIbnBqSUp6Z2w0bmhFbUpXMUtCOVdTQ3RjV2ozUzZMMFBOeTB3OENvOUNFZlc3Q2poaFdlWjRoU21KNVctSWJKYlFyLTV5QdIB3gFBVV95cUxPeU5QTXMxTkxwR005U2ZRVlREbDNsdGtjSkJsUThWcXlveVVsc0thZDM4YzBDcHBDa3BaYVVnMHRmNWplX0RGb20ta3lkVjVISDlpc2U2NENFSGRaajFNTnRYcjdaNmk3Y3dKUjNoSmV2RkpUbFNkY1B3Sktnd19iQU1laU5ENGJ1UDFTVzZkNmNlOHFDalBFOHBHTjJrSnhWai1lWUV0RUFQWGY5ZXhPWWVyZE9yVnA4RFpiNUdnM1dPN3ZJQk5IR01Ca3lTOHFYQTdENGtIVFFoT3g2cnc?oc=5",
+          "date": "2026-01-04T08:00:00.000Z",
+          "source": "The Hindu"
+        },
+        {
+          "title": "Chennai: Cyber crime cops recover Rs 25.97 cr from scammers in 2025",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdUluaGN4YkRqNUU3eTVOM2toYVJ4VGV2UXdtNEpmQ2pNRTdmcWxHLTBOVVIxdlNpUmJCU2wtTVdkcFNQQklHbm55c0lQcnFRYlR3b3JQbkFoSlhrelFJUlRfN2V4R0FqUWNfUjNpSHo2SkVQODV4dW9iTFNzbHhwa0djb1N2aUM2WDlDeGpPYThBZjFWZ1diTDBCelc1aG9RNXfSAa8BQVVfeXFMTTY1d0VnbG1yal9MOHV0b05vZGpQNEVZQ1pCUGNfckN2NUszQjItXzQwVG9zWmJubXdaSDBSdDhYVFh5VFB4Y1A4dWxBQk9MaXFRRHpHQV82Q2xqY05GY1ZjcHMya0V5RkE4RC1BdDhrTDJWT1FzQ2dQaG1iX2V2TVFlS3MxbVhOUjNlRWNHRlhiai1Gd2xDNUhVRmtNaFExclpLOTNxelZwejktNUVMRQ?oc=5",
+          "date": "2026-01-04T08:00:00.000Z",
+          "source": "DT Next"
+        },
+        {
+          "title": "ED raids audit firm, freezes Rs 192 crore in Karnataka",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbnBvZlJmWG1BTlQzcEFiSUlGU3BZVWRTTU5WMGVXdXYwaEF0VEJsazVrV1B2UzBBYm5MUTNVNmc4V3QwVXhFbnhYelBOdnJBeXg1LXo3Mk1uMWVpdnA3d0daeVdQMzBzbGNzY29mQzlpaXZsU1dHQ0JVNDdrLVh3OHJGNFZKMndvWDlycjlwR1VqQjYxNGlwSUFqc2pmams5Z0pNTkRnMGUwZ1E3YWVxNXE4NjNSUdIBwwFBVV95cUxPR1d2UGNhaVZTYk03TnJ5T2RLbUFoaThVWGxRWFZVRUU0b0t0dTB6MW1PWERxNGdsakkyWjBKUlVyeUR1QXhmM2xoZHVFZDllcFVidk1KZEdmVE5OMmlrSzUxaXZuOUstaUtOVDdqd0ZzOGtPckdIOVRkYzh6WXNkVmM1Q0JXVnE1amV6b3dOMXlQSnQtMDBJamdqRW44M0JTMW1lNWtyWUliWGJLZGl6S1ZPNjlVLW1ZcWxqT3phMFhOTTQ?oc=5",
+          "date": "2026-01-02T08:00:00.000Z",
+          "source": "The New Indian Express"
+        },
+        {
+          "title": "Cyber Crime Unit arrests three in ₹1.92 crore digital arrest scam",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTkdUeTBSYTRUbG1JeElpZmN5R1RCZmVNbWhMcVlNWTdEckYtbTZKSV9USGkxejFUMV9zTkRBSXNSNjVfLWhQc1NxLWg5OWgySFp3OHpWVnZNR1c5S3pKdTdSSFJaT2J2cTZndHpaRTZBZHBINzVYM0NiejVfdFNtbndoSU4wOWhkYlAza2hSM1pMM1hOb0ljUktob0lpengwdGJlcEUyWVRjUXUxamhOWTVpTXNkbnAxSDRhWE9hUmlXQ05KcDBLT2Q2bXrSAdMBQVVfeXFMT1d1Z3pNZG1STTZQMUE3Y3Rac0U2dHpiRy0xUDg0OWhfZ2oxbEpXQnN4QnhsaDV4VURDM2ZqS1RCMDNTZXRERjJDMVlaLXBTeDdid25jYjVDT05Dbk5RVy1aOW0tVGRyNmxJbDNNUjhHYlIzcDViTHZGSUZ2Z01ONThBS3FwMG9VSk1PNjlPRjNSWTBpdVAxd2Q4RHlGNDVRVGRKQi15MVFmdWYzT0xZdXJKc2tIYW1leWxWbV8zdlpSN1FRRmd6bG11TlIwbUI2elR6RQ?oc=5",
+          "date": "2025-11-30T08:00:00.000Z",
+          "source": "The Hindu"
+        }
+      ]
+    },
+    "193": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"193\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "56 of newly elected MLAs in Tamil Nadu have murder, crimes against women and other serious criminal cases",
+          "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOb3BBSDFwUmROS1VJUUxWN0lnaTl3MkZiS1NXd0FiRUU1d3M3ZDRwa0U5aWkwNm5NUUhORDctM3Y3QkhCMVRXckZDRk9QeHZfUkNoX0RCazNjbnAySmxCRU5GY1htS3A5dUM5QXBEQVN2V243dExGRGNmWFJYOTJXak1keWlxZmQ4ckxBZHlKNUtHRjNncHZFWmkwN3NFeVZoTkVXWnNxdzNzdnp0bndIVHdmV3VHMmlxR1p6WTBYSXpFMjJWSVZpSG5aUVBNUEpZZkk4QnNvZnlQdGlsZHBQQXZiVVFnSGlLc3M1d0ZveHI3cWZDUDBjaWpObDNjbkRjNjJLUWZYQ0ZibnRRQzJTQjg4VGRSNTItQkZYNjhsc25kWXdBa1hZ0gGsAkFVX3lxTFAyVnA3ekNyQUtETC1TUlFwLTFzRkFhSV94LWJncXdtX2owejlDVHVIeVJTVTYwSUQzZTlyV0c1RnJqMkhkNHRPcGtnSlhVZjJSVGJaQzNoRzJubW9YeFo0bTBwV19MOEtZakhIeHpCZ3hCU19JZm1XWDJTTWxlNXVERG1iV3lyZmFUMHlnZXcycFRtdFJWVU42S2JHcEplamtQTUlMd3RVdW1MYi1FWVdyaV9mYmExVFpybTRKLU5iempSQkpacFlRRVFiWS1QQVZreWRxcUJPeGx6VDBIWTRENEZpUUwzNnFpRjRrRDJmbk1PYzd3VmFHS0dva0h6eGp3eTJEX0ZVRjRXd1lyblYtejZMeExvRVhiajVoZEotVnltWEdfbEFLQTd0aw?oc=5",
+          "date": "2026-05-09T12:50:00.000Z",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Delhi Police arrest proclaimed offender in Arms Act case",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQWJySWMyWWFCMV93MF8tYzEtczRIeml4RHZVVFBUYllyZEdVQlNkUmcxM3RmZnRUV0VuanR3R3pJOWZVLUZkOWIwRVBzczdQaU5RWFZCQTM3UmhLd3F4REM0bVJNRnMyQldUbXVQTks5VmY1TVBQTVJlX0owQ2Fjbjg3b1RCcU1Yai1IU3NNbC0zcTluN1BlQURseHpPMkk?oc=5",
+          "date": "2026-04-15T07:00:00.000Z",
+          "source": "India's News.Net"
+        },
+        {
+          "title": "CGST Chennai Unearths Rs. 34.81 Crore Massive GST Evasion; Copper Firm MD Arrested",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWmo3SFdER1FJMV9yZjNaeFFEdFhaU000eVhVWS1sSFJtcjRvQ2R1b0liYkJEaWczb0RpM0oyem5OalBuX3I5Ulh6RXB3UHlrYmh3MkZkdmJ6Rzd4eEFjQWs4WmtlYlZvdDR1VVN3LVh5ZUFwZ1NWYzFWUU52Sjc5RVlnbTk2WHl4bl9WdXN2LU1OTGJ2SHkxWEFnQl8tbW9iU19rc0Q2Ukx1VDhhakt1WFAwVQ?oc=5",
+          "date": "2025-11-25T08:00:00.000Z",
+          "source": "Studycafe"
+        }
+      ]
+    },
+    "194": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"194\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Crimes against SCs dip in Tamil Nadu in 2024, conviction rate still below national average",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNNkJyUkFtUGFTUTdVeGJQSWlPdGFFSDJXeUVoazJ1cTZoRkExTGxOVENQSFUwbzBwczJDSGJ2eDVseWpfdGtRNEVHV1I4OHVDekJtdjdmUmN2YUhBdS1GQ3hkZDl2MVU5WmVrZUxIa1Z5ZDZjdHo4a0YtOFpiQnlJaFNRZndTU3ZtZzNISG5sYk5rYWYzYzJvMWRJN1ZoUEowbW5IT1paUTBlcTJFdGd3SGU2T0RXWGdRLTNkcFhGc09ndXlaSU5lODFNQ0VXblo3M0N1RlJ3TDByNzBPOE5BbF9hb2FFYWvSAfQBQVVfeXFMUGRjZGg2NTBCTjd2NkJIVU1RaHBHY2Z2QmhjT21ocUpsb2JqdEZPWmFuMHlJTUpnOVF5UXBkQmxTb1JVQmRQS0JURUkyMHVFN1RhRnp2c3hGTWtqTkFyMjZreWdiaXZWbEU0MjJhYjY2bGV2c3NvSkRXMW5MVlBUcWZjU2RJaW5TMHdHRkRSdXVHT1FoUlN5dFhUYWtUZVhaUElMZ1ZtQnF0TXNmRDlzMk1PVDBuSzE1eE0yMUYweUxpWjN4dlAtMTdPRXNkZk05MXdTd2RaQUl6aEpaa3BrMnFXWXhfdjQtMWlYN0pHWC1kcDJ3QQ?oc=5",
+          "date": "2026-05-08T03:35:32.000Z",
+          "source": "The New Indian Express"
+        },
+        {
+          "title": "IPL 2026 SRH vs CSK: SRH snatch 10-run win as CSK’s chase withers at the death",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVl9hZUwyaTh6aUJrcnlrT0JpVjNEajZEQVB3bmlMcnlYT2xJQ1B6VVhsSHlCR0QzS2hkZkkyQ0xMYm4xUXdJZXdlRXo4V2p6WS10Q2gwQUVDMHE0RHN5bGhkZFlnRlJLcEhvRmVoeUY1Q0JIVmdlZmhja19wWWFTZVJDRTM5amlrNER6SFlMbi1waTlTUDhYOHV5YUZhNHA2dUZJN3BreDY?oc=5",
+          "date": "2026-04-19T07:00:00.000Z",
+          "source": "SportsMint Media"
+        },
+        {
+          "title": "Yellow mellowed at Uppal as disciplined SRH snatch win from CSK in Hyderabad",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZVZVSGMzWFBOMmlEdW5jaWdtQjI2SFpPN3E3a0lUelRzRmM5Ynd4YTRncFlpcWFXRHJtRE1la2U2NkNSaFpxSWt6ZV9hYVlpY0w0T3U3RE8yUzBvam84R3VCaVMtYzYxQ0RPM2pjRlF3cTNFbkk1VW96QXM3X015MVQ5RmxiNDU1RXFTLUlVOHdkYWdNX1BicEx4ZnhGSUIzUVVVZENWRFBrUlpseFNibUxjREY2TUHSAbwBQVVfeXFMUDI5MFNMcVNxaVpQR3pKckZNSEJBaEVuYWRLb0JYNVh0d1J6WDd5dGFQamtCU3l2REtyRFV4SlRJeUFoRGZSYmFJLXVGZ2hkY3R6a2JNLTE5M1dwQ0E1TXROQ3BpWHM4ZVNoM1JiMVhBTk9UVjV2UGgwSUhnNC1TcGN2U0UyeHBNZ2prbXRTQXZxdkZ5QnppTDVsVGs0MlBtbEpUQmVkbzhvSkh4UFRUODgwaGlLTWV2OFlWblg?oc=5",
+          "date": "2026-04-18T07:00:00.000Z",
+          "source": "India Today"
+        },
+        {
+          "title": "SRH vs CSK highlights, IPL 2026: CSK mess up run chase of 195 as SRH snatch victory from jaws of defeat",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOT0M2OE1NX3JYUzNNdjBhQ2o2cGRKMmVWaF9GTHlUUE5yQ3A3VzJIWHJNaGQ4dnlqWG9ENkM4RU1Wc0F5MUxqWFEtRHFWcHVNWE9QRHRVOEFSUDJFMUhQRGxWUEhoNm50R1AtS2oxMUF4ZnVzMC1BNTduX1hOcnhkWUxoNnpvc3hrQTZQRE5ZZlVvbElMOXRBZmdBdkI4WUJzQTBJLW1PbWVqSmhVRnZtaWU1NXBHZlVkcWRNUnAxejd1QjZvVWJyZ2FCcl9jR0ZNYzRydjhuNzM4YWVkY2dFMnpOQm15YzFWa2c?oc=5",
+          "date": "2026-04-18T07:00:00.000Z",
+          "source": "MSN"
+        }
+      ]
+    },
+    "195": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"195\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "SRH vs CSK highlights, IPL 2026: CSK mess up run chase of 195 as SRH snatch victory from jaws of defeat",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNRk5PVW9EVlo3VWdnLVFObVA4OVdQejFPanJEYWk0VFlmZXN2X2dBem42elFibkZ1RldxU1lsNDNNWHUyUGdoamh3M09UbmIzdlRzNHRMVVF3SjV1Q0FtSklTSndlWDFzbWZOMnQ0NmNhT1NTWGtNdlQ3YjJWdzh6MUI3WlVtUDhDYVVTbzF3MVZhMEQzeFgzU3FrSExvQUJsY3d2WDVnSGFNbGJYZy1aZHdWb0FKOHpmbnZTTTYzTEx4NUJhYVo4UU1SSGdNUWRrMzI4TFZVZGFFOGkxWXBSdmtieVNQSFhVT2I1MnNsSEF5UzFndnBraVNVZzlTdzRr?oc=5",
+          "date": "2026-05-08T03:51:59.000Z",
+          "source": "MSN"
+        },
+        {
+          "title": "Video | SRH vs CSK Highlights: CSK Mess Up Run Chase Of 195 As SRH Snatch Victory From Jaws Of Defeat",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbUtYMU9JSmM4anVSZkk2cFhzRXRONi05VEtab3dLVExtZ2dFWDFxbmlyZWtjSGd2REVTNmZFMTNSeWF3NFZPU0lLZWxqYzNzeWFmQU5uczk1RXBsSHdfaGNnSVVXRFVLRkI1WFZHdUkwTDBZT29aZGNmSlhUbnU3VkRTVHMxS0hDbzZjOWpmNU1mWGxpb2JfNFdJRzhEb0lCdUI4ckNjOEhvM1BLSHF2a3VuaUZkTWIwNUZCbjhEVXppR3FURnc?oc=5",
+          "date": "2026-04-19T07:00:00.000Z",
+          "source": "NDTV"
+        },
+        {
+          "title": "Yellow mellowed at Uppal as disciplined SRH snatch win from CSK in Hyderabad",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZVZVSGMzWFBOMmlEdW5jaWdtQjI2SFpPN3E3a0lUelRzRmM5Ynd4YTRncFlpcWFXRHJtRE1la2U2NkNSaFpxSWt6ZV9hYVlpY0w0T3U3RE8yUzBvam84R3VCaVMtYzYxQ0RPM2pjRlF3cTNFbkk1VW96QXM3X015MVQ5RmxiNDU1RXFTLUlVOHdkYWdNX1BicEx4ZnhGSUIzUVVVZENWRFBrUlpseFNibUxjREY2TUHSAbwBQVVfeXFMUDI5MFNMcVNxaVpQR3pKckZNSEJBaEVuYWRLb0JYNVh0d1J6WDd5dGFQamtCU3l2REtyRFV4SlRJeUFoRGZSYmFJLXVGZ2hkY3R6a2JNLTE5M1dwQ0E1TXROQ3BpWHM4ZVNoM1JiMVhBTk9UVjV2UGgwSUhnNC1TcGN2U0UyeHBNZ2prbXRTQXZxdkZ5QnppTDVsVGs0MlBtbEpUQmVkbzhvSkh4UFRUODgwaGlLTWV2OFlWblg?oc=5",
+          "date": "2026-04-18T07:00:00.000Z",
+          "source": "India Today"
+        }
+      ]
+    },
+    "196": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"196\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Akash death: Madurai bench of Madras HC tells police to invoke SC/ST Act charges",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbkF6UlA4b1BQQ1dBVnFGWVhuSUVCZTNaOWR6MU9qWXNvTlJsLWRfcFdld0lHQk84SURXUC1sLXlBRk1udjhDVWJVemw1SnpmbENnYWxrUnR0bUhOaG95bktBRHVvQ3MzbDRwSzZ5QjhlTnY5OEVXdHp4cFI4U0JzTEtmR190bnl3RHpybUpYWGpGZi1JT3hQTlREMk5DbXlVZkgxYURxVnlvV0tod05IeWhxcHFDZnMtaWc2N2RURmE4ZHRTQ1oyYWRua2JkT2JWNF9sY3JuckFhUdIB5wFBVV95cUxNWXhqS21DX1BuRDBQYVl2TmZweG5PbXJmR1lja2NGUE5LWlRfbUpPbWt2YWdQbmt3VGJNREktR3NjcXdHUjFsc1A3RnBKdjBYTF9NRVZxSk9QNDc4US1mRUR6R1k1S1Uxemx3Q0RYNVpxdjQ5M3dUMHk3eWFXQ25MZVdtZWV1a1k1WVV6dE9QUkJVblBqamgxbWFKUG9SWHFrTkZKQmMwYU0zMVFaTTRLdEd1LWJCVkhEeWd1aEsxYkdNQkxvR3JmS1VCUHhrRmkzVjVOVW5KbVkyNGZnRG5QdW5ia1RNdEU?oc=5",
+          "date": "2026-03-12T07:00:00.000Z",
+          "source": "The New Indian Express"
+        }
+      ]
+    },
+    "197": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"197\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "198": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"198\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "TN sees sharp spike grave crimes against women in 2024",
+          "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxOaEhnbkVKSlRJZWtoN3B5MEdJem5xWHd5bmNhaFBDVXRYcGtsMFdRRVRuOTVoQVAzSG9sTWJ3dGt2SlNHcHJka0lXUUgwaUVFR0E2Tk5LdWhDSVpieXNtR2hNT3RfU2pmMk41Q25OSmo2UGFPSVZVOGdibU5jTmZwODVGSUs4WlJmZU53ams4V1VDY25icFJsdFZxRVBnMlhIdnhRc3daSktDdjVBX0U4bTR6TWVTUUp0ekpUUzFUaFc0dm9FeTZEYmd0R1c4WHhXUGVOQ09Gamk1UWFjbGE0Q0ZKaGh6Y1RzUW1UT0xPM2d2SWxkOThCd0tzemhUTk9XdE5uemgxTlQ1Qnp5Y2tUNllrUzRPVkhOZjA4QmIzVVZIZ29wUS1fekFQcUc5VUYtV2Vhc0l0ejVIZDFM?oc=5",
+          "date": "2026-05-13T06:08:16.000Z",
+          "source": "MSN"
+        },
+        {
+          "title": "Crime against women in TN up 30% in 2024",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVldHTUI1SVVWMnVvcjF3bXRwdkNGY3BnTDJvLXUzTFRybTRKUG1rSENjeERIalVtaVRZVVBWUTQ4NzJpZnRWTmQ3bjRvSm9JTUdBX3hIRFpiS29xc1Y3cGZQM2xEc21tQTlDU2V0TUhPLTZnSE9JaUhySDVUVDd1ZXJBaWM0b2VIZFAtSk5iWTgyd1p5ZFZCQXlvWGJ0cGItWTJwctIBsgFBVV95cUxQWW1oZnRTQTNmdXdLLXpLekpZRHpYTlVXNGU3cmIyVDNmRjEzdUNMaDlRSi1sZDdRb0VfTUFWRnJ2LWpYakNheWxXVVhBODJ4VE5zaTBFZnducXdLQ0YxQnd4aDVCSHNYckhWemk4NnU5U1B5cnZKb2hNbzFyNE0yXzlCano0MG9OYlJmblB4RFRKSE9ROVRyejZHTkJZUF9xbndZb2ViRXJzbVFqdzUzUXZn?oc=5",
+          "date": "2026-05-08T03:39:22.000Z",
+          "source": "The New Indian Express"
+        },
+        {
+          "title": "TN sees sharp spike grave crimes against women in 2024",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWXgtVlJtNWpPbUVFT2NpZWhrZHNXNFIxcE5kcy1PTEpwcnMtTjZiN3QyZmJBY1lxbGRMWlAtbFpwMzlMVjhPNVQyaXQ4dUFNY1d1RE40Nmh2T09aaU90RklCSXd6dFV0MW13VThyeFFDa1M3SGZVNi05TlJ0TzNndnozYURiUGV0eElnLWRMWTdvTEk5TTVtcjZxLWNhcm1FMkxEd2NtVlgyTW5wRFoydkdIXzZvSnNQNWh0UXFiQktBNUw5WXFNU9IBzgFBVV95cUxOMEp0YWxuS1FubjhESTZ6OTJpX3RfOXdJbnQ2VUEwOC1nMWZKYUNidS1QUWhNMm9jWnk4YVZBMmVrbXZ0REloWTJHRklwT0ZsVnAyekllVWxLTkhudGZqQ0V6Z0dLS1RIMHZCNkFEYmExWVp2bXdRYWk3Um9yYXdYT0RDZV9sUHBuYktieFFtR2pVUlN2b2lMVnNGaVFWUEFCZmdFWG9PZDNLTkhvcFM3cER1S0RoSXNSbzRTeFcxRXh6bVR5OXg1aEF5Z0xGZw?oc=5",
+          "date": "2026-05-07T23:21:00.000Z",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Marturu police seize 198 kgs ganja of Rs 25 lakh, arrest two",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUU5JWURYUldZWGJmVkNoRGxNRWZVRGI5dmNNbFlIQl8xRTNZRGdYWmxMVXNvblVlanNFMW9zUUNlRDRIbTd6eTNtUy1lMy1YV0lLTlFTVGFRX3d4RUNlMzRkWllBMGJ4OTRvWnJ2YkFmMk5DOGRxTkNQWUZzVGx6Wmw2Uk9SSjliemxOTzRHODVYZ3VvazRUdjFiZ2dQRDR6T0lLbHRHWGhfUHZ4c1VUbHNxaWoyMXloamtvbjJXT09PY3JPWS1VV2xaRDV5REl5S1Y00gHYAUFVX3lxTE03YWtpYnVIWUJwMi1wOGc5Ym45bUlSa1RBWnpGd2ZoVEJFaU5uS2cxcE1kMnBxOEp3U2pvYXBXaUl5eXFUdmFpWEFSaVN0OEp4QVNUcW1ZWEV5dmY2emZzMGppZFBfbVF1cF9OSGNITjdGV2VDTEVwSjFocVFIQXdpaURYRGxIdFRuYlpuWF9jb3E3WWVNWjZlYmZsTy1Ub3FlV1ZPNG04YjRWd0VSVWRvSmZHWlU5SzFjYVYxMWY2UEw2ZzA4VndGcHA2Rm82V2RqYlpxblB0RQ?oc=5",
+          "date": "2026-01-30T08:00:00.000Z",
+          "source": "The Times of India"
+        }
+      ]
+    },
+    "199": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"199\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "200": {
+      "cachedAt": "2026-05-15T16:55:22.175Z",
+      "query": "\"200\" Chennai (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Chennai police arrest ‘monk’ who burgled Jain temples in Tamil Nadu, Telangana and Karnataka",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPOXJna1RVYmt1RnRCVmxmS0lJb2tRNDNaWGhRTWdtNTVHU2pMXzBHNjZrMWZ4NTJKZ051Z2tRZjYwNDJhU1FrSU1CaHdBcElMaHRmMDVjTXZkc210cTVLQ2I2bXpKbkFlU3dwT0ZiZ29ZbUtVOHJjWTZCT19PRG9hckhqWV9qSzJieG0xVUxyc2FaUnd1V2F6VHQ4SGlGVHVzeXYzb3NQMXlSVG0yQ2E5QUh1R2dadnlmdzY2MTc4aEZra0tqeldMLV85RGR0bWF4S3ljOUF3bm11SHRzbDlqMjNHQ3RNanZ2MEd0ZmEtSi1GbGVNSVIw0gH8AUFVX3lxTE1nVEdZZFJZYUVnOXVxeHFHVVJ3N2NScXdnZ0lRWWd6c3hmby1sTkM5RDVGTDlpRlpGUDFYUWRiTXlWeENPalRNa2o0MjJlRjhjbUNHeGUzQm9GZElxNjFWanJNU0pvdTJnd3FLd2dZMjBuRF83R1NZNUNXeG9pM3VURUF3dlQwWURzbjN1ZXk0OVYxTHF5akNqYmxlRzMzZjBEWE1XUzhMckxSZUFNVFVPQWQ1UnA3UVdLcXdjRmRVOURoOXZpNG5fM1hpZVVBSm4xbFpWLTItSEVUeHp5bTJraFJtd05aMHoxRWpWNDJXcG04VTBnUnRKSTdOVw?oc=5",
+          "date": "2026-02-12T08:00:00.000Z",
+          "source": "The Times of India"
+        }
+      ]
+    }
+  },
+  "notes": "Per-ward crime-related news from Google News RSS. Queried per the ward's distinctive neighbourhood name + Chennai + crime keywords. Items are filtered to last 18 months and to titles containing at least one crime/police/arrest term. Up to 4 per ward."
 }
