@@ -30,12 +30,20 @@ export default function RankList({
   const params = useSearchParams();
   const { t } = useI18n();
   const isNight = params.get("night") === "1";
+  const isWomen = params.get("women") === "1";
 
   const rows = useMemo(() => {
-    const score = (w: Ward) => (isNight ? w.riskScoreNight : w.riskScore);
+    const score = (w: Ward) =>
+      isWomen
+        ? isNight
+          ? w.riskScoreWomenNight
+          : w.riskScoreWomen
+        : isNight
+          ? w.riskScoreNight
+          : w.riskScore;
     const sorted = [...wards].sort((a, b) => score(b) - score(a));
     return variant === "high" ? sorted.slice(0, 5) : sorted.slice(-5).reverse();
-  }, [wards, variant, isNight]);
+  }, [wards, variant, isNight, isWomen]);
 
   const titleKey =
     variant === "high"
@@ -47,7 +55,10 @@ export default function RankList({
         : "rank_low_day";
   const Icon = variant === "high" ? TrendingUp : TrendingDown;
 
-  const qs = isNight ? "?night=1" : "";
+  const qsParts: string[] = [];
+  if (isNight) qsParts.push("night=1");
+  if (isWomen) qsParts.push("women=1");
+  const qs = qsParts.length ? `?${qsParts.join("&")}` : "";
 
   return (
     <Card>
@@ -66,7 +77,13 @@ export default function RankList({
       <CardContent className="p-2">
         <ul className="flex flex-col">
           {rows.map((w) => {
-            const score = isNight ? w.riskScoreNight : w.riskScore;
+            const score = isWomen
+              ? isNight
+                ? w.riskScoreWomenNight
+                : w.riskScoreWomen
+              : isNight
+                ? w.riskScoreNight
+                : w.riskScore;
             return (
               <li key={w.id}>
                 <Link

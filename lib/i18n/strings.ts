@@ -41,11 +41,19 @@ export type StringKey =
   | "badge_city_stats"
   | "badge_absconders"
   | "badge_geometry_only"
-  | "lang_label";
+  | "lang_label"
+  | "women_mode_on"
+  | "women_mode_off"
+  | "women_mode_on_label"
+  | "women_mode_off_label"
+  | "women_mode_hint";
 
-export type Dict = Record<StringKey, string>;
+// Per-locale dictionaries can omit keys; the provider falls back to English.
+// English (below) is the source of truth and must include every key.
+export type Dict = Partial<Record<StringKey, string>>;
+export type FullDict = Record<StringKey, string>;
 
-const en: Dict = {
+const en: FullDict = {
   brand_country: "India",
   nav_methodology: "Methodology",
   nav_legal: "Legal",
@@ -93,6 +101,12 @@ const en: Dict = {
   badge_absconders: "{n} absconders",
   badge_geometry_only: "geometry only",
   lang_label: "Language",
+  women_mode_on: "Women",
+  women_mode_off: "All crimes",
+  women_mode_on_label: "Switch to women-safety mode",
+  women_mode_off_label: "Switch to all-crimes mode",
+  women_mode_hint:
+    "Map is using only sexual offences, harassment and kidnapping rates — the crimes most relevant to women's safety.",
 };
 
 const hi: Dict = {
@@ -145,6 +159,11 @@ const hi: Dict = {
   badge_absconders: "{n} फरार",
   badge_geometry_only: "केवल भूगोल",
   lang_label: "भाषा",
+  women_mode_on: "महिला",
+  women_mode_off: "सभी अपराध",
+  women_mode_on_label: "महिला-सुरक्षा मोड चालू करें",
+  women_mode_off_label: "सभी अपराध मोड चालू करें",
+  women_mode_hint: "नक्शा केवल यौन अपराध, उत्पीड़न और अपहरण दर दिखा रहा है।",
 };
 
 const bn: Dict = {
@@ -197,6 +216,11 @@ const bn: Dict = {
   badge_absconders: "{n} পলাতক",
   badge_geometry_only: "শুধু সীমানা",
   lang_label: "ভাষা",
+  women_mode_on: "মহিলা",
+  women_mode_off: "সব অপরাধ",
+  women_mode_on_label: "মহিলা-নিরাপত্তা মোডে যান",
+  women_mode_off_label: "সব অপরাধ মোডে যান",
+  women_mode_hint: "মানচিত্র শুধু যৌন অপরাধ, হয়রানি ও অপহরণ হার দেখাচ্ছে।",
 };
 
 const mr: Dict = {
@@ -248,6 +272,11 @@ const mr: Dict = {
   badge_absconders: "{n} फरारी",
   badge_geometry_only: "केवळ भूगोल",
   lang_label: "भाषा",
+  women_mode_on: "महिला",
+  women_mode_off: "सर्व गुन्हे",
+  women_mode_on_label: "महिला-सुरक्षा मोड चालू करा",
+  women_mode_off_label: "सर्व गुन्हे मोड चालू करा",
+  women_mode_hint: "नकाशा फक्त लैंगिक गुन्हे, छळ आणि अपहरण दर दाखवत आहे.",
 };
 
 const ta: Dict = {
@@ -300,6 +329,11 @@ const ta: Dict = {
   badge_absconders: "{n} தலைமறைவு",
   badge_geometry_only: "வரைபடம் மட்டும்",
   lang_label: "மொழி",
+  women_mode_on: "பெண்கள்",
+  women_mode_off: "அனைத்து குற்றங்கள்",
+  women_mode_on_label: "பெண் பாதுகாப்பு பயன்முறைக்கு மாறு",
+  women_mode_off_label: "அனைத்து குற்ற பயன்முறைக்கு மாறு",
+  women_mode_hint: "வரைபடம் பாலியல் குற்றங்கள், துன்புறுத்தல், கடத்தல் விகிதங்களை மட்டுமே காட்டுகிறது.",
 };
 
 const te: Dict = {
@@ -352,6 +386,11 @@ const te: Dict = {
   badge_absconders: "{n} పరారీ",
   badge_geometry_only: "సరిహద్దులే",
   lang_label: "భాష",
+  women_mode_on: "మహిళలు",
+  women_mode_off: "అన్ని నేరాలు",
+  women_mode_on_label: "మహిళా-భద్రత మోడ్‌కు మారండి",
+  women_mode_off_label: "అన్ని నేరాల మోడ్‌కు మారండి",
+  women_mode_hint: "మ్యాప్ లైంగిక నేరాలు, వేధింపులు, కిడ్నాప్ రేట్‌లను మాత్రమే చూపుతోంది.",
 };
 
 const kn: Dict = {
@@ -404,6 +443,11 @@ const kn: Dict = {
   badge_absconders: "{n} ಪರಾರಿ",
   badge_geometry_only: "ಗಡಿಗಳಷ್ಟೇ",
   lang_label: "ಭಾಷೆ",
+  women_mode_on: "ಮಹಿಳೆಯರು",
+  women_mode_off: "ಎಲ್ಲಾ ಅಪರಾಧಗಳು",
+  women_mode_on_label: "ಮಹಿಳಾ-ಸುರಕ್ಷತಾ ಮೋಡ್‌ಗೆ ಬದಲಾಯಿಸಿ",
+  women_mode_off_label: "ಎಲ್ಲಾ ಅಪರಾಧ ಮೋಡ್‌ಗೆ ಬದಲಾಯಿಸಿ",
+  women_mode_hint: "ನಕ್ಷೆಯು ಲೈಂಗಿಕ ಅಪರಾಧಗಳು, ಕಿರುಕುಳ, ಅಪಹರಣ ದರಗಳನ್ನು ಮಾತ್ರ ತೋರಿಸುತ್ತಿದೆ.",
 };
 
 const gu: Dict = {
@@ -455,6 +499,11 @@ const gu: Dict = {
   badge_absconders: "{n} ફરાર",
   badge_geometry_only: "ફક્ત સીમાઓ",
   lang_label: "ભાષા",
+  women_mode_on: "મહિલા",
+  women_mode_off: "બધા ગુનાઓ",
+  women_mode_on_label: "મહિલા-સુરક્ષા મોડ પર જાઓ",
+  women_mode_off_label: "બધા ગુનાઓ મોડ પર જાઓ",
+  women_mode_hint: "નકશો ફક્ત જાતીય ગુનાઓ, ઉત્પીડન અને અપહરણ દર બતાવી રહ્યો છે.",
 };
 
 const ur: Dict = {
@@ -506,6 +555,11 @@ const ur: Dict = {
   badge_absconders: "{n} مفرور",
   badge_geometry_only: "صرف حدود",
   lang_label: "زبان",
+  women_mode_on: "خواتین",
+  women_mode_off: "تمام جرائم",
+  women_mode_on_label: "خواتین کے تحفظ کے موڈ پر جائیں",
+  women_mode_off_label: "تمام جرائم کے موڈ پر جائیں",
+  women_mode_hint: "نقشہ صرف جنسی جرائم، ہراسانی، اور اغوا کی شرح دکھا رہا ہے۔",
 };
 
 const or: Dict = {
@@ -558,6 +612,11 @@ const or: Dict = {
   badge_absconders: "{n} ଫରାର",
   badge_geometry_only: "କେବଳ ସୀମା",
   lang_label: "ଭାଷା",
+  women_mode_on: "ମହିଳା",
+  women_mode_off: "ସମସ୍ତ ଅପରାଧ",
+  women_mode_on_label: "ମହିଳା-ସୁରକ୍ଷା ମୋଡକୁ ସ୍ୱିଚ କରନ୍ତୁ",
+  women_mode_off_label: "ସମସ୍ତ ଅପରାଧ ମୋଡକୁ ସ୍ୱିଚ କରନ୍ତୁ",
+  women_mode_hint: "ମାନଚିତ୍ର କେବଳ ଯୌନ ଅପରାଧ, ହଇରାଣ, ଅପହରଣ ହାର ଦେଖାଉଛି।",
 };
 
 const ml: Dict = {
@@ -610,6 +669,11 @@ const ml: Dict = {
   badge_absconders: "{n} ഒളിച്ചോടി",
   badge_geometry_only: "അതിർത്തി മാത്രം",
   lang_label: "ഭാഷ",
+  women_mode_on: "സ്ത്രീകൾ",
+  women_mode_off: "എല്ലാ കുറ്റങ്ങളും",
+  women_mode_on_label: "സ്ത്രീ സുരക്ഷാ മോഡിലേക്ക് മാറുക",
+  women_mode_off_label: "എല്ലാ കുറ്റ മോഡിലേക്ക് മാറുക",
+  women_mode_hint: "മാപ്പ് ലൈംഗിക കുറ്റങ്ങൾ, പീഡനം, തട്ടിക്കൊണ്ടുപോകൽ നിരക്കുകൾ മാത്രമാണ് കാണിക്കുന്നത്.",
 };
 
 const pa: Dict = {
@@ -662,6 +726,11 @@ const pa: Dict = {
   badge_absconders: "{n} ਫਰਾਰ",
   badge_geometry_only: "ਕੇਵਲ ਸੀਮਾਵਾਂ",
   lang_label: "ਭਾਸ਼ਾ",
+  women_mode_on: "ਔਰਤਾਂ",
+  women_mode_off: "ਸਾਰੇ ਅਪਰਾਧ",
+  women_mode_on_label: "ਔਰਤਾਂ-ਸੁਰੱਖਿਆ ਮੋਡ ਤੇ ਜਾਓ",
+  women_mode_off_label: "ਸਾਰੇ ਅਪਰਾਧ ਮੋਡ ਤੇ ਜਾਓ",
+  women_mode_hint: "ਨਕਸ਼ਾ ਕੇਵਲ ਜਿਨਸੀ ਅਪਰਾਧ, ਸ਼ੋਸ਼ਣ ਅਤੇ ਅਗਵਾ ਦਰ ਦਿਖਾ ਰਿਹਾ ਹੈ।",
 };
 
 const as: Dict = {
@@ -714,6 +783,11 @@ const as: Dict = {
   badge_absconders: "{n} ফৰাৰ",
   badge_geometry_only: "কেৱল সীমা",
   lang_label: "ভাষা",
+  women_mode_on: "মহিলা",
+  women_mode_off: "সকলো অপৰাধ",
+  women_mode_on_label: "মহিলা সুৰক্ষা মোডলৈ যাওক",
+  women_mode_off_label: "সকলো অপৰাধ মোডলৈ যাওক",
+  women_mode_hint: "মানচিত্ৰে কেৱল যৌন অপৰাধ, উৎপীড়ন আৰু অপহৰণৰ হাৰ দেখুৱাইছে।",
 };
 
 export const DICTIONARIES: Record<Locale, Dict> = {

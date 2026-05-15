@@ -30,6 +30,8 @@ export type Ward = {
   population: number;
   riskScore: number;
   riskScoreNight: number;
+  riskScoreWomen: number;
+  riskScoreWomenNight: number;
   breakdown: CrimeBreakdown;
   topConcerns: string[];
   dataQuality: DataQuality;

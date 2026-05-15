@@ -28,8 +28,16 @@ export default function WardMap({ city, wards }: Props) {
   const router = useRouter();
   const params = useSearchParams();
   const isNight = params.get("night") === "1";
+  const isWomen = params.get("women") === "1";
   const { resolvedTheme } = useTheme();
   const styleUrl = resolvedTheme === "light" ? STYLE_LIGHT : STYLE_DARK;
+  const riskKey = isWomen
+    ? isNight
+      ? "risk_women_night"
+      : "risk_women"
+    : isNight
+      ? "risk_night"
+      : "risk";
 
   useEffect(() => {
     if (!containerRef.current || mapRef.current) return;
@@ -74,6 +82,8 @@ export default function WardMap({ city, wards }: Props) {
               neighborhoods: w?.neighborhoods ?? "",
               risk: w?.riskScore ?? -1,
               risk_night: w?.riskScoreNight ?? -1,
+              risk_women: w?.riskScoreWomen ?? -1,
+              risk_women_night: w?.riskScoreWomenNight ?? -1,
             },
           };
         }),
@@ -84,13 +94,12 @@ export default function WardMap({ city, wards }: Props) {
       const fillColor: maplibregl.DataDrivenPropertyValueSpecification<string> =
         [
           "case",
-          ["<", ["coalesce", ["get", isNight ? "risk_night" : "risk"], -1], 0],
-          // no data → grey
+          ["<", ["coalesce", ["get", riskKey], -1], 0],
           "#3f3f46",
           [
             "interpolate",
             ["linear"],
-            ["coalesce", ["get", isNight ? "risk_night" : "risk"], 0],
+            ["coalesce", ["get", riskKey], 0],
             0,
             "#14532d",
             25,
@@ -136,10 +145,7 @@ export default function WardMap({ city, wards }: Props) {
               "concat",
               ["coalesce", ["get", "ward_label"], ""],
               "\n",
-              [
-                "to-string",
-                ["coalesce", ["get", isNight ? "risk_night" : "risk"], 0],
-              ],
+              ["to-string", ["coalesce", ["get", riskKey], 0]],
             ],
             "text-size": 10,
             "text-font": ["Noto Sans Regular"],
@@ -189,17 +195,18 @@ export default function WardMap({ city, wards }: Props) {
           map.getCanvas().style.cursor = "pointer";
           const fid = f.id != null ? String(f.id) : null;
           setHover(fid);
-          const p = f.properties as {
-            ward_id?: string;
-            ward_label?: string;
-            neighborhoods?: string;
-            risk?: number;
-            risk_night?: number;
-          } | null;
-          const score = isNight ? p?.risk_night : p?.risk;
+          const p = f.properties as Record<string, unknown> | null;
+          const score = (p?.[riskKey] as number | undefined) ?? -1;
+          const modeLabel = isWomen
+            ? isNight
+              ? " (women · night)"
+              : " (women)"
+            : isNight
+              ? " (night)"
+              : "";
           const scoreLine =
             score != null && score >= 0
-              ? `<div style="margin-top:4px"><strong>${score}</strong> / 100 ${isNight ? "(night)" : ""}</div>`
+              ? `<div style="margin-top:4px"><strong>${score}</strong> / 100${modeLabel}</div>`
               : `<div style="margin-top:4px;opacity:0.7;font-size:11px">No risk data yet</div>`;
           popup
             .setLngLat(e.lngLat)
@@ -270,15 +277,14 @@ export default function WardMap({ city, wards }: Props) {
     updatePaint();
     function updatePaint() {
       if (!map || !map.getLayer("wards-fill")) return;
-      const key = isNight ? "risk_night" : "risk";
       map.setPaintProperty("wards-fill", "fill-color", [
         "case",
-        ["<", ["coalesce", ["get", key], -1], 0],
+        ["<", ["coalesce", ["get", riskKey], -1], 0],
         "#3f3f46",
         [
           "interpolate",
           ["linear"],
-          ["coalesce", ["get", key], 0],
+          ["coalesce", ["get", riskKey], 0],
           0,
           "#14532d",
           25,
@@ -296,11 +302,11 @@ export default function WardMap({ city, wards }: Props) {
           "concat",
           ["coalesce", ["get", "ward_label"], ""],
           "\n",
-          ["to-string", ["coalesce", ["get", key], 0]],
+          ["to-string", ["coalesce", ["get", riskKey], 0]],
         ] as unknown as FilterSpecification);
       }
     }
-  }, [isNight]);
+  }, [riskKey]);
 
   return (
     <div

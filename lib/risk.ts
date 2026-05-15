@@ -30,6 +30,22 @@ export function rawScore(b: CrimeBreakdown, popPerK: number, night: boolean) {
   return (3.0 * womenCrimes + 2.0 * violent + 0.5 * property) / denom;
 }
 
+// Women-only score: same per-1k normalisation but ONLY the crimes-against-
+// women bucket. Used by the "Women's safety mode" toggle on the UI.
+export function rawWomenScore(
+  b: CrimeBreakdown,
+  popPerK: number,
+  night: boolean,
+) {
+  const mult = (cat: CrimeCategory) => (night ? NIGHT[cat] ?? 1 : 1);
+  const women = AGAINST_WOMEN.reduce(
+    (acc, c) => acc + (b[c] ?? 0) * mult(c),
+    0,
+  );
+  const denom = Math.max(popPerK, 1);
+  return women / denom;
+}
+
 function percentile(sorted: number[], p: number) {
   if (sorted.length === 0) return 0;
   const idx = (p / 100) * (sorted.length - 1);

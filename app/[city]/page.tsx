@@ -5,6 +5,7 @@ import { Suspense } from "react";
 import WardMap from "@/components/Map/WardMap";
 import LocateMeButton from "@/components/Map/LocateMeButton";
 import NightToggle from "@/components/NightToggle";
+import WomenToggle from "@/components/WomenToggle";
 import RankList from "@/components/RankList";
 import CityStatsCard from "@/components/CityStatsCard";
 import TrendChart from "@/components/TrendChart";
@@ -76,7 +77,10 @@ export default async function CityHome({
                 </Badge>
               </div>
             </div>
-            <div className="flex items-center gap-2">
+            <div className="flex items-center gap-2 flex-wrap">
+              <Suspense fallback={null}>
+                <WomenToggle />
+              </Suspense>
               <Suspense fallback={null}>
                 <NightToggle />
               </Suspense>

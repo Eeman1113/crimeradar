@@ -19,7 +19,7 @@ import chennaiHistoryJson from "@/data/cities/chennai/monthly_stats_history.json
 import hyderabadHistoryJson from "@/data/cities/hyderabad/monthly_stats_history.json";
 import kolkataHistoryJson from "@/data/cities/kolkata/monthly_stats_history.json";
 
-import { normalizeScores, rawScore } from "./risk";
+import { normalizeScores, rawScore, rawWomenScore } from "./risk";
 import type {
   CrimeBreakdown,
   CrimeCategory,
@@ -117,8 +117,16 @@ function buildWardsFor(city: CityId): Ward[] {
   const popPerK = seed.map((w) => w.population / 1000);
   const rawsDay = breakdowns.map((b, i) => rawScore(b, popPerK[i], false));
   const rawsNight = breakdowns.map((b, i) => rawScore(b, popPerK[i], true));
+  const rawsWomenDay = breakdowns.map((b, i) =>
+    rawWomenScore(b, popPerK[i], false),
+  );
+  const rawsWomenNight = breakdowns.map((b, i) =>
+    rawWomenScore(b, popPerK[i], true),
+  );
   const day = normalizeScores(rawsDay);
   const night = normalizeScores(rawsNight);
+  const womenDay = normalizeScores(rawsWomenDay);
+  const womenNight = normalizeScores(rawsWomenNight);
   return seed.map((w, i) => ({
     id: w.id,
     name: w.name,
@@ -128,6 +136,8 @@ function buildWardsFor(city: CityId): Ward[] {
     topConcerns: w.topConcerns,
     riskScore: day[i],
     riskScoreNight: night[i],
+    riskScoreWomen: womenDay[i],
+    riskScoreWomenNight: womenNight[i],
     dataQuality: quality,
   }));
 }

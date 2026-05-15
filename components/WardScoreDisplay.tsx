@@ -16,8 +16,18 @@ export default function WardScoreDisplay({
 }) {
   const params = useSearchParams();
   const isNight = params.get("night") === "1";
-  const score = isNight ? ward.riskScoreNight : ward.riskScore;
-  const backHref = isNight ? `/${city}?night=1` : `/${city}`;
+  const isWomen = params.get("women") === "1";
+  const score = isWomen
+    ? isNight
+      ? ward.riskScoreWomenNight
+      : ward.riskScoreWomen
+    : isNight
+      ? ward.riskScoreNight
+      : ward.riskScore;
+  const qsParts: string[] = [];
+  if (isNight) qsParts.push("night=1");
+  if (isWomen) qsParts.push("women=1");
+  const backHref = qsParts.length ? `/${city}?${qsParts.join("&")}` : `/${city}`;
   return (
     <>
       <Link
@@ -29,6 +39,7 @@ export default function WardScoreDisplay({
       <div className="flex items-center gap-4 mt-4">
         <RiskBadge score={score} size="lg" />
         <p className="text-sm text-muted-foreground">
+          {isWomen ? "Women-safety · " : ""}
           {isNight ? "Night-time estimate" : "Day-time estimate"} · scaled
           0–100
         </p>
