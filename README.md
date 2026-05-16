@@ -1,52 +1,130 @@
 # CrimeRadar
 
-Mumbai ward-level safety map. Estimated risk scores per BMC ward with a
-night-time multiplier, plus the Mumbai Police Absconder List republished with
-attribution.
+Ward-level safety map for Indian cities. **43 cities across 28 states + 6 UTs**,
+in 13 languages. Per-ward risk scores derived from real city-aggregate crime
+statistics (NCRB / state-police annual reports), with a night-time multiplier
+and a women's-safety filter. Five cities (Mumbai, Delhi, Kolkata, Pune,
+Gurugram) also republish the official police Absconder / Proclaimed Offender
+list with attribution.
 
-**Live data:**
+Live at <https://eeman1113.github.io/crimeradar/>.
 
-- City-level YTD crime counts from
-  [Mumbai Police monthly statistics](https://mumbaipolice.gov.in/CrimeStatistics)
-  — refreshed daily.
-- Absconder names from the
-  [Mumbai Police Absconder List](https://mumbaipolice.gov.in/absconder_list)
-  (CrPC §82) — refreshed daily.
+## What's real, what's not
 
-**Editorial:** per-ward relative weights (used to apportion the city totals to
-each of the 24 wards) are hand-built and documented on `/methodology`.
+CrimeRadar is honest about its data layers:
+
+- **Ward boundaries** — real, sourced per-city from datameet / datta07 /
+  ESRI India Living Atlas / OSM Overpass / official municipal GIS portals.
+- **City-wide crime totals (43 cities)** — real. NCRB "Crime in India 2022"
+  (megacities + District-wise Additional Tables), NCRB 2023 expanded
+  34-city table, plus state-police annual reports / commissionerate PDFs
+  for capitals. See `data/cities/<id>/monthly_stats.json` for each city's
+  source URL + year.
+- **Per-ward populations (26 of 43 cities)** — real, Census 2011 (or the
+  city's own published voter/ward demographics where they predate Census).
+  The remaining 17 cities have post-2011 ward delimitations that don't map
+  1-to-1 to Census ward IDs, so they ship with synthetic even-split
+  populations until a spatial-join is built.
+- **Per-ward crime distribution** — **synthetic for every city**, calibrated
+  to match the real city total. No Indian city publishes per-ward crime
+  data anywhere, so this layer is unavoidable. Per-tier profiles based on
+  distance-from-centroid + deterministic noise; the `calibrate()` step in
+  `lib/wards.ts` rescales the per-ward breakdown so the sum matches the
+  real city number. The data-quality badge on each city card surfaces
+  this: "calibrated" means real sum, synthetic per-ward split.
+- **News headlines per ward** — real. Google News RSS keyword-filtered for
+  crime/police/arrest terms, ≤4 items per ward, refreshed weekly.
+- **Localized city names (12 Indic languages)** — real. Fetched from
+  Wikipedia interlanguage links. Average coverage 11/12 across 43 cities.
 
 ## Stack
 
-Next.js 16 (App Router) · TypeScript · Tailwind v4 · MapLibre GL JS ·
-@turf/boolean-point-in-polygon · Recharts · pdf-parse (pure-JS).
+Next.js 16 (App Router) static export · TypeScript · Tailwind v4 ·
+MapLibre GL JS · Recharts · GitHub Pages.
+
+## Architecture
+
+The city registry is **manifest-driven** — `data/cities.manifest.json` is the
+single source of truth. `scripts/codegen_cities.mjs` runs as a `prebuild`
+hook and emits three generated files (`lib/cities.generated.ts`,
+`lib/wards.generated.ts`, `lib/absconders.generated.ts`). Adding a city is
+one manifest row + a GeoJSON file in `public/geo/`.
+
+Per-city data lives under `data/cities/<id>/`:
+
+```
+data/cities/mumbai/
+  wards-raw.ts             per-ward seed (id, name, population, breakdown)
+  monthly_stats.json       city-wide annual/YTD totals from the official source
+  monthly_stats_history.json  multi-year history where available
+  ward_news.json           Google News RSS items per ward
+  absconders.json          police absconder list (5 cities only)
+```
+
+## Onboarding a new city
+
+```bash
+# Drop the ward GeoJSON in public/geo/<id>_wards.geojson, then:
+node scripts/add_city.mjs \
+  --id <id> --name "<Name>" --state "<State>" --state-code IN-XX \
+  --tier capital --geojson public/geo/<id>_wards.geojson \
+  --ward-id-key <propertyName> --unit "<MC ward>" \
+  --population <city_total> \
+  [--population-key <perWardPopProperty>]  # if GeoJSON has it
+```
+
+The script validates the GeoJSON, registers the city in the manifest, stubs
+the four data JSON files, generates the ward seed, and re-runs codegen.
 
 ## Local dev
 
 ```bash
 npm install
-node scripts/ingest_absconders.mjs    # refresh data/absconders.json
-node scripts/ingest_monthly_stats.mjs # refresh data/monthly_stats.json
-npm run build
-npm run start -- -p 3000
+npm run dev        # auto-codegens via prebuild, then next dev
 ```
 
 Open <http://localhost:3000>.
 
 ## Data refresh
 
-A GitHub Actions workflow (`.github/workflows/ingest.yml`) runs both ingest
-scripts daily at 00:30 UTC and commits the updated JSON. Vercel (if connected)
-redeploys automatically on the push.
+Three GitHub Actions workflows keep the data fresh:
+
+| Workflow | Cadence | What |
+|---|---|---|
+| `ingest_news.yml` | Sunday 04:00 UTC | Google News RSS per ward for every city in the manifest |
+| `ingest_stats.yml` | 1st of month 03:00 UTC | Mumbai / Bangalore / Chennai / Delhi monthly scrapers + optional NCRB CSV ingest via `workflow_dispatch` |
+| `ingest.yml` | Monday 02:30 UTC | Absconder lists (5 cities) |
+| `deploy.yml` | Every push to `main` | `next build` static export → GitHub Pages |
 
 Manual trigger:
 
 ```bash
-gh workflow run ingest.yml
+gh workflow run ingest_news.yml
+gh workflow run ingest_stats.yml -f ncrb_csv_url=https://... -f ncrb_year=2023
 ```
+
+## Onboarding the NCRB megacity stats
+
+```bash
+# Once you have the megacity table as CSV (City, Crime Head, Cases):
+node scripts/ingest_ncrb.mjs --csv ncrb_megacities.csv --year 2022
+```
+
+Aliases for state-capital names are wired into the same pipeline, so
+state-police CSVs in the same shape ingest the same way.
+
+## i18n
+
+13 locales supported (en + 12 Indic). UI strings live in
+`lib/i18n/strings.ts`; city names come from `nameI18n` per city in the
+manifest (populated via `scripts/fetch_city_names.mjs` from Wikipedia
+langlinks). `useI18n()` exposes both `t(key)` and `cityName(id)`.
 
 ## Disclaimers
 
-Risk scores are **estimates**, not safety guarantees. See `/legal` for the
-naming policy, takedown contact, and DPDP notice. See `/methodology` for the
-exact formula, data sources, and limitations.
+Risk scores are **estimates**, not safety guarantees. The per-ward crime
+distribution is synthetic — only the city-wide sums are real. See
+`/methodology` for the exact formula, every data source, and the known
+limitations per city. See `/legal` for the naming policy (absconders are
+only on this site because the police themselves published the names),
+takedown contact, and DPDP notice.
