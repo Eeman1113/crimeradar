@@ -55,14 +55,16 @@ export default function Home() {
         </div>
 
         <Card
-          className="border-primary/20 bg-primary/5 animate-fade-in-up"
+          className="animate-fade-in-up"
           style={{ animationDelay: "80ms" }}
         >
           <CardHeader className="pb-3">
             <CardTitle className="text-base sm:text-lg">
               {t("home_cta_title")}
             </CardTitle>
-            <CardDescription>{t("home_cta_desc")}</CardDescription>
+            <CardDescription className="text-xs sm:text-sm">
+              {t("home_cta_desc")}
+            </CardDescription>
           </CardHeader>
           <CardContent>
             <LocateAnywhereButton />
@@ -94,56 +96,41 @@ export default function Home() {
 
         <Separator className="my-4" />
 
-        <Card
-          className="animate-fade-in-up"
+        <div
+          className="animate-fade-in-up flex flex-col gap-3 text-xs text-muted-foreground"
           style={{ animationDelay: `${200 + tiles.length * 45 + 40}ms` }}
         >
-          <CardHeader className="pb-3">
-            <CardTitle className="text-sm">{t("dq_title")}</CardTitle>
-          </CardHeader>
-          <CardContent className="text-xs text-muted-foreground space-y-1.5">
-            <p>
-              <span className="font-mono text-emerald-600 dark:text-emerald-400">
-                {t("dq_live")}
-              </span>{" "}
-              — {t("dq_live_desc")}
-            </p>
-            <p>
-              <span className="font-mono text-sky-600 dark:text-sky-400">
-                {t("dq_calibrated")}
-              </span>{" "}
-              — {t("dq_calibrated_desc")}
-            </p>
-            <p>
-              <span className="font-mono text-amber-600 dark:text-amber-400">
-                {t("dq_seeded")}
-              </span>{" "}
-              — {t("dq_seeded_desc")}
-            </p>
-            <p>
-              <span className="font-mono text-muted-foreground">
-                {t("dq_empty")}
-              </span>{" "}
-              — {t("dq_empty_desc")}
-            </p>
-            <p className="pt-2">
-              <Link
-                href="/methodology"
-                className="underline underline-offset-2 hover:text-foreground transition-colors"
-              >
-                {t("nav_methodology")}
-              </Link>{" "}
-              ·{" "}
-              <Link
-                href="/legal"
-                className="underline underline-offset-2 hover:text-foreground transition-colors"
-              >
-                {t("nav_legal")}
-              </Link>
-              .
-            </p>
-          </CardContent>
-        </Card>
+          <div className="flex flex-wrap items-center gap-x-4 gap-y-1.5">
+            <span className="font-medium text-foreground/80">
+              {t("dq_title")}
+            </span>
+            <span className="font-mono text-emerald-600 dark:text-emerald-400">
+              {t("dq_live")}
+            </span>
+            <span className="font-mono text-sky-600 dark:text-sky-400">
+              {t("dq_calibrated")}
+            </span>
+            <span className="font-mono text-amber-600 dark:text-amber-400">
+              {t("dq_seeded")}
+            </span>
+            <span className="font-mono">{t("dq_empty")}</span>
+          </div>
+          <div className="flex items-center gap-3">
+            <Link
+              href="/methodology"
+              className="underline underline-offset-2 hover:text-foreground transition-colors"
+            >
+              {t("nav_methodology")}
+            </Link>
+            <span className="text-muted-foreground/40">·</span>
+            <Link
+              href="/legal"
+              className="underline underline-offset-2 hover:text-foreground transition-colors"
+            >
+              {t("nav_legal")}
+            </Link>
+          </div>
+        </div>
       </section>
     </div>
   );

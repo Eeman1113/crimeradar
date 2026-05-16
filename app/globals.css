@@ -219,3 +219,21 @@ html,
 body {
   font-family: var(--font-indic-stack);
 }
+
+/* ============================================================
+   Motion respect
+   ----------------------------------------------------------
+   Strip page-load fade animations for users who set
+   prefers-reduced-motion. Tailwind 4's animate-* utilities don't
+   honour the media query by default, so we collapse them here.
+   ============================================================ */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

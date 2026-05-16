@@ -1,4 +1,4 @@
-import { ArrowLeft, LineChart as LineChartIcon, Share2 } from "lucide-react";
+import { ArrowLeft, Share2 } from "lucide-react";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { Suspense } from "react";
@@ -135,7 +135,7 @@ export default async function CityHome({
             </div>
           </div>
 
-          <div className="flex items-center gap-2 border-t pt-4">
+          <div className="flex items-center gap-2">
             <Suspense fallback={null}>
               <LocateMeButton city={city} />
             </Suspense>
@@ -156,7 +156,7 @@ export default async function CityHome({
         <aside className="flex flex-col gap-4 lg:max-h-[calc(65vh+2rem)] lg:overflow-y-auto scrollbar-hide">
           <CityStatsCard city={city} />
           {topRiskWard ? (
-            <div className="flex items-center justify-end px-1 -mt-2">
+            <div className="flex items-center justify-end -mt-1">
               <WardSourceDrawer cityId={city} wardId={topRiskWard.id} />
             </div>
           ) : null}
@@ -200,13 +200,11 @@ export default async function CityHome({
         >
           <Card>
             <CardHeader className="pb-3">
-              <CardTitle className="text-base">
-                Wards with the biggest night-time premium
-              </CardTitle>
-              <CardDescription>
-                {cfg.name} {cfg.unit}s ranked by how much higher their
-                night-time score is than day. The amber bar is the day score;
-                the indigo bar is the added risk at night.
+              <CardTitle className="text-base">Night-time premium</CardTitle>
+              <CardDescription className="text-xs">
+                {cfg.unit.charAt(0).toUpperCase() + cfg.unit.slice(1)}s ranked
+                by added risk after dark. Amber is day; indigo is the
+                night-time delta.
               </CardDescription>
             </CardHeader>
             <CardContent>
@@ -223,14 +221,11 @@ export default async function CityHome({
         >
           <Card>
             <CardHeader className="pb-3">
-              <CardTitle className="text-base flex items-center gap-1.5">
-                <LineChartIcon className="h-4 w-4 text-sky-500" />
-                Multi-year trend
-              </CardTitle>
-              <CardDescription>
+              <CardTitle className="text-base">Multi-year trend</CardTitle>
+              <CardDescription className="text-xs">
                 {isAnnualHistory
-                  ? `Annual reported totals per IPC category for ${cfg.name} (NCRB Crime in India). Click a category in the legend to toggle it.`
-                  : `Monthly registered cases per category for ${cfg.name}, scraped from the historical archive. Click a category in the legend to toggle it.`}
+                  ? "Annual totals per category (NCRB Crime in India). Click a category to toggle."
+                  : "Monthly registered cases per category. Click a category to toggle."}
               </CardDescription>
             </CardHeader>
             <CardContent>
@@ -251,13 +246,10 @@ export default async function CityHome({
         >
           <Card>
             <CardHeader className="pb-3">
-              <CardTitle className="text-base flex items-center gap-1.5">
-                <LineChartIcon className="h-4 w-4 text-indigo-500" />
-                Per-category trajectory
-              </CardTitle>
-              <CardDescription>
-                Each IPC category plotted individually for {cfg.name} — easier
-                to spot which crime type is driving the headline trend.
+              <CardTitle className="text-base">Per-category trajectory</CardTitle>
+              <CardDescription className="text-xs">
+                Each category plotted individually — spot which crime type
+                drives the headline.
               </CardDescription>
             </CardHeader>
             <CardContent>
