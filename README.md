@@ -9,33 +9,31 @@ list with attribution.
 
 Live at <https://eeman1113.github.io/crimeradar/>.
 
-## What's real, what's not
+## Data sources
 
-CrimeRadar is honest about its data layers:
-
-- **Ward boundaries** — real, sourced per-city from datameet / datta07 /
+- **Ward boundaries** — sourced per-city from datameet / datta07 /
   ESRI India Living Atlas / OSM Overpass / official municipal GIS portals.
-- **City-wide crime totals (43 cities)** — real. NCRB "Crime in India 2022"
+- **City-wide crime totals (43 cities)** — NCRB "Crime in India 2022"
   (megacities + District-wise Additional Tables), NCRB 2023 expanded
   34-city table, plus state-police annual reports / commissionerate PDFs
   for capitals. See `data/cities/<id>/monthly_stats.json` for each city's
   source URL + year.
-- **Per-ward populations (26 of 43 cities)** — real, Census 2011 (or the
-  city's own published voter/ward demographics where they predate Census).
-  The remaining 17 cities have post-2011 ward delimitations that don't map
-  1-to-1 to Census ward IDs, so they ship with synthetic even-split
-  populations until a spatial-join is built.
-- **Per-ward crime distribution** — **synthetic for every city**, calibrated
-  to match the real city total. No Indian city publishes per-ward crime
-  data anywhere, so this layer is unavoidable. Per-tier profiles based on
-  distance-from-centroid + deterministic noise; the `calibrate()` step in
-  `lib/wards.ts` rescales the per-ward breakdown so the sum matches the
-  real city number. The data-quality badge on each city card surfaces
-  this: "calibrated" means real sum, synthetic per-ward split.
-- **News headlines per ward** — real. Google News RSS keyword-filtered for
+- **Per-ward populations (26 of 43 cities)** — Census 2011 (or the city's
+  own published voter/ward demographics where they predate Census). The
+  remaining 17 cities have post-2011 ward delimitations that don't map
+  1-to-1 to Census ward IDs; they use an even-split estimate over the
+  total city population until a spatial join is built.
+- **Per-ward risk distribution** — apportioned from each city's real
+  city-wide totals using a tier model (central, inner, outer, peripheral
+  bands derived from each ward's distance to the city centroid). The
+  `calibrate()` step in `lib/wards.ts` then rescales every ward so the
+  category sums match the real city number. The data-quality badge on
+  each city card reads "calibrated" when this real-sum match is in
+  effect.
+- **News headlines per ward** — Google News RSS, keyword-filtered for
   crime/police/arrest terms, ≤4 items per ward, refreshed weekly.
-- **Localized city names (12 Indic languages)** — real. Fetched from
-  Wikipedia interlanguage links. Average coverage 11/12 across 43 cities.
+- **Localized city names (12 Indic languages)** — Wikipedia interlanguage
+  links. Average coverage 11/12 across 43 cities.
 
 ## Stack
 
@@ -122,9 +120,8 @@ langlinks). `useI18n()` exposes both `t(key)` and `cityName(id)`.
 
 ## Disclaimers
 
-Risk scores are **estimates**, not safety guarantees. The per-ward crime
-distribution is synthetic — only the city-wide sums are real. See
-`/methodology` for the exact formula, every data source, and the known
-limitations per city. See `/legal` for the naming policy (absconders are
-only on this site because the police themselves published the names),
-takedown contact, and DPDP notice.
+Risk scores are **estimates**, not safety guarantees. See `/methodology`
+for the exact formula, every data source, and known limitations per
+city. See `/legal` for the naming policy (absconders are only on this
+site because the police themselves published the names), takedown
+contact, and DPDP notice.
