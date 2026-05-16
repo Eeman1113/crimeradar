@@ -19,9 +19,9 @@ interface PdfExportButtonProps {
   className?: string;
   /** Optional override for the visible button label. */
   label?: string;
-  /** Optional Button variant. Defaults to "outline". */
+  /** Optional Button variant. Defaults to "ghost". */
   variant?: React.ComponentProps<typeof Button>["variant"];
-  /** Optional Button size. Defaults to "sm". */
+  /** Optional Button size. Defaults to "icon". */
   size?: React.ComponentProps<typeof Button>["size"];
 }
 
@@ -40,8 +40,8 @@ export default function PdfExportButton({
   showPreflight = true,
   className,
   label = "Save as PDF",
-  variant = "outline",
-  size = "sm",
+  variant = "ghost",
+  size = "icon",
 }: PdfExportButtonProps) {
   const [open, setOpen] = React.useState(false);
 
@@ -100,10 +100,10 @@ export default function PdfExportButton({
         size={size}
         onClick={handleClick}
         aria-label={label}
-        className={cn("print:hidden gap-2", className)}
+        title={label}
+        className={cn("print:hidden", className)}
       >
-        <Printer aria-hidden="true" />
-        <span>{label}</span>
+        <Printer className="h-4 w-4" aria-hidden="true" />
       </Button>
 
       {open ? (
