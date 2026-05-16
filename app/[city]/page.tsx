@@ -115,7 +115,7 @@ export default async function CityHome({
             Tap any {cfg.unit} to open its full report. Pinch to zoom.
           </p>
         </div>
-        <aside className="flex flex-col gap-4 lg:max-h-[calc(65vh+2rem)] lg:overflow-y-auto lg:pr-1">
+        <aside className="flex flex-col gap-4 lg:max-h-[calc(65vh+2rem)] lg:overflow-y-auto scrollbar-hide">
           <CityStatsCard city={city} />
           {wards.length > 0 ? (
             <>
