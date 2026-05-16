@@ -249,10 +249,6 @@ export default function RealtimeNewsSection({
           <CardTitle className="text-base flex items-center gap-1.5">
             <Newspaper className="h-4 w-4 text-emerald-500 shrink-0" />
             Live news
-            <span className="relative ml-1 inline-flex h-2 w-2" aria-hidden>
-              <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-emerald-400/70" />
-              <span className="relative inline-flex h-2 w-2 rounded-full bg-emerald-500" />
-            </span>
           </CardTitle>
           {state.kind === "ok" ? (
             <span className="text-[11px] text-muted-foreground tabular-nums whitespace-nowrap">
