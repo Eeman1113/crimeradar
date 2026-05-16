@@ -23,16 +23,32 @@ type FetchState =
   | { kind: "ok"; items: NewsItem[]; fetchedAt: number }
   | { kind: "error" };
 
+// Public CORS proxy. Default works out of the box — no infra to deploy.
+// Override with NEXT_PUBLIC_NEWS_PROXY_URL if you stand up your own
+// Cloudflare Worker / Vercel function (see workers/news-proxy/).
+//
+// Two proxy shapes are supported:
+//   1. allorigins/corsproxy style: `${base}?url=<encoded target>` → raw RSS
+//   2. Worker JSON style:          `${base}?q=<query>&limit=<n>`  → {items}
+// allorigins.win/raw is the default — corsproxy.io's free tier is currently
+// returning landing-page HTML for free traffic.
 const PROXY_BASE =
-  process.env.NEXT_PUBLIC_NEWS_PROXY_URL ??
-  "https://crimeradar-news.workers.dev";
-const CACHE_TTL_MS = 15 * 60 * 1000;
-const FETCH_TIMEOUT_MS = 8_000;
-const MAX_ITEMS = 4;
+  process.env.NEXT_PUBLIC_NEWS_PROXY_URL ?? "https://api.allorigins.win/raw";
+const PROXY_MODE: "passthrough" | "worker" =
+  PROXY_BASE.includes("allorigins") || PROXY_BASE.includes("corsproxy")
+    ? "passthrough"
+    : "worker";
 
-// First distinctive token of the ward's neighbourhood string (falls back to
-// the ward name). Matches scripts/ingest_ward_news.mjs's query logic so the
-// realtime fetch surfaces the same kind of articles the weekly cron does.
+const CACHE_TTL_MS = 15 * 60 * 1000;
+const FETCH_TIMEOUT_MS = 9_000;
+const MAX_ITEMS = 4;
+const FRESHNESS_MS = 18 * 30 * 86_400_000; // ~18 months
+
+// Mirrors scripts/ingest_ward_news.mjs's keyword set so cron-cached items
+// and live-fetched items pass the same bar.
+const CRIME_RE =
+  /\b(crime|arrest(?:ed)?|theft|robber|burglar|assault|molest|rape|raped|kidnap|murder|stab|sexual|harass|stalk|chain.?snatch|fraud|police|scam|drug)\b/i;
+
 function firstToken(s: string): string {
   return (s.split(/[,\s]+/).find(Boolean) ?? "").trim();
 }
@@ -46,6 +62,57 @@ function buildQuery(args: {
   const terms =
     "(crime OR arrest OR theft OR robbery OR assault OR molestation OR rape OR kidnap OR murder OR police)";
   return `${distinctive} ${args.cityName} ${terms}`;
+}
+
+function buildFetchUrl(query: string): string {
+  if (PROXY_MODE === "worker") {
+    return `${PROXY_BASE}?q=${encodeURIComponent(query)}&limit=${MAX_ITEMS}`;
+  }
+  const rss = `https://news.google.com/rss/search?q=${encodeURIComponent(query)}&hl=en-IN&gl=IN&ceid=IN:en`;
+  return `${PROXY_BASE}?url=${encodeURIComponent(rss)}`;
+}
+
+function parseRSS(xml: string): NewsItem[] {
+  let doc: Document;
+  try {
+    doc = new DOMParser().parseFromString(xml, "application/xml");
+  } catch {
+    return [];
+  }
+  if (doc.querySelector("parsererror")) return [];
+  return Array.from(doc.querySelectorAll("item")).map((node) => {
+    const titleRaw = node.querySelector("title")?.textContent?.trim() ?? "";
+    const link = node.querySelector("link")?.textContent?.trim() ?? "";
+    const pubDate = node.querySelector("pubDate")?.textContent?.trim() ?? "";
+    const sourceTag = node.querySelector("source")?.textContent?.trim() ?? "";
+    // Google News appends " - PublisherName" to titles when no <source> tag.
+    const tail = titleRaw.match(/^(.+?)\s+-\s+([^-]+)$/);
+    const title = tail ? tail[1].trim() : titleRaw;
+    const source = sourceTag || (tail ? tail[2].trim() : "");
+    const dateMs = pubDate ? Date.parse(pubDate) : NaN;
+    return {
+      title,
+      link,
+      source,
+      date: Number.isFinite(dateMs) ? new Date(dateMs).toISOString() : null,
+    };
+  });
+}
+
+function filterAndCap(items: NewsItem[]): NewsItem[] {
+  const cutoff = Date.now() - FRESHNESS_MS;
+  const seen = new Set<string>();
+  const out: NewsItem[] = [];
+  for (const it of items) {
+    if (!it.title || !it.link) continue;
+    if (!CRIME_RE.test(it.title)) continue;
+    if (it.date && Date.parse(it.date) < cutoff) continue;
+    if (seen.has(it.link)) continue;
+    seen.add(it.link);
+    out.push(it);
+    if (out.length >= MAX_ITEMS) break;
+  }
+  return out;
 }
 
 function relativeTime(ms: number): string {
@@ -101,7 +168,6 @@ export default function RealtimeNewsSection({
   const [, setTick] = useState(0); // forces relative-time re-render
   const aborted = useRef(false);
 
-  // Re-render the "X min ago" label every 30 seconds without re-fetching.
   useEffect(() => {
     if (state.kind !== "ok") return;
     const id = setInterval(() => setTick((n) => n + 1), 30_000);
@@ -111,28 +177,34 @@ export default function RealtimeNewsSection({
   useEffect(() => {
     aborted.current = false;
 
-    // 1) Warm cache hit — skip the network entirely.
     const cached = readCache(cacheKey);
     if (cached) {
-      setState({ kind: "ok", items: cached.items.slice(0, MAX_ITEMS), fetchedAt: cached.fetchedAt });
+      setState({
+        kind: "ok",
+        items: cached.items.slice(0, MAX_ITEMS),
+        fetchedAt: cached.fetchedAt,
+      });
       return;
     }
 
     setState({ kind: "loading" });
 
-    // 2) Live fetch with an abort + soft timeout.
     const ctrl = new AbortController();
     const timeoutId = setTimeout(() => ctrl.abort(), FETCH_TIMEOUT_MS);
 
-    const url = `${PROXY_BASE}?q=${encodeURIComponent(query)}&limit=${MAX_ITEMS}`;
-    fetch(url, { signal: ctrl.signal })
-      .then((r) => {
+    fetch(buildFetchUrl(query), { signal: ctrl.signal })
+      .then(async (r) => {
         if (!r.ok) throw new Error(`HTTP ${r.status}`);
-        return r.json();
+        if (PROXY_MODE === "worker") {
+          const data: { items?: NewsItem[] } = await r.json();
+          return Array.isArray(data?.items) ? data.items : [];
+        }
+        const xml = await r.text();
+        return parseRSS(xml);
       })
-      .then((data: { items?: NewsItem[] }) => {
+      .then((rawItems) => {
         if (aborted.current) return;
-        const items = Array.isArray(data?.items) ? data.items.slice(0, MAX_ITEMS) : [];
+        const items = filterAndCap(rawItems);
         const payload = { items, fetchedAt: Date.now() };
         writeCache(cacheKey, payload);
         setState({ kind: "ok", ...payload });
