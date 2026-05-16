@@ -87,9 +87,9 @@ export default async function CityHome({
         <div className="max-w-6xl mx-auto px-4 pt-6 sm:pt-8 pb-4 flex flex-col gap-4">
           <Link
             href="/"
-            className="inline-flex items-center gap-1.5 text-xs text-muted-foreground hover:text-foreground transition-colors group w-fit"
+            className="inline-flex items-center gap-2 text-sm sm:text-xs text-muted-foreground hover:text-foreground transition-colors group w-fit -ml-1.5 sm:ml-0 px-1.5 py-1 rounded-md hover:bg-accent/50 sm:hover:bg-transparent"
           >
-            <ArrowLeft className="h-3.5 w-3.5 transition-transform duration-200 ease-out group-hover:-translate-x-0.5" />
+            <ArrowLeft className="h-4 w-4 sm:h-3.5 sm:w-3.5 transition-transform duration-200 ease-out group-hover:-translate-x-0.5" />
             All cities
           </Link>
 
