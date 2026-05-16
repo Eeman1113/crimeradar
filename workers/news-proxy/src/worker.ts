@@ -86,6 +86,96 @@ function parseRSS(xml: string): Array<{ title: string; link: string; source: str
   return items;
 }
 
+// Per-city HT + TOI section feeds. Both outlets publish slug-based RSS
+// per city — we hit them in parallel with Google News and filter to
+// items whose title mentions the ward's distinctive token. Cities the
+// outlets don't cover (NE/UT capitals, smaller cities) silently fall
+// through to Google News-only.
+const CITY_FEEDS: Record<string, string[]> = {
+  mumbai: [
+    "https://www.hindustantimes.com/feeds/rss/cities/mumbai-news/rssfeed.xml",
+    "https://timesofindia.indiatimes.com/city/mumbai/rssfeedstopstories.cms",
+  ],
+  delhi: [
+    "https://www.hindustantimes.com/feeds/rss/cities/delhi-news/rssfeed.xml",
+    "https://timesofindia.indiatimes.com/city/delhi/rssfeedstopstories.cms",
+  ],
+  bangalore: [
+    "https://www.hindustantimes.com/feeds/rss/cities/bengaluru-news/rssfeed.xml",
+    "https://timesofindia.indiatimes.com/city/bengaluru/rssfeedstopstories.cms",
+  ],
+  chennai: [
+    "https://www.hindustantimes.com/feeds/rss/cities/chennai-news/rssfeed.xml",
+    "https://timesofindia.indiatimes.com/city/chennai/rssfeedstopstories.cms",
+  ],
+  kolkata: [
+    "https://www.hindustantimes.com/feeds/rss/cities/kolkata-news/rssfeed.xml",
+    "https://timesofindia.indiatimes.com/city/kolkata/rssfeedstopstories.cms",
+  ],
+  hyderabad: [
+    "https://www.hindustantimes.com/feeds/rss/cities/hyderabad-news/rssfeed.xml",
+    "https://timesofindia.indiatimes.com/city/hyderabad/rssfeedstopstories.cms",
+  ],
+  pune: [
+    "https://www.hindustantimes.com/feeds/rss/cities/pune-news/rssfeed.xml",
+    "https://timesofindia.indiatimes.com/city/pune/rssfeedstopstories.cms",
+  ],
+  ahmedabad: [
+    "https://www.hindustantimes.com/feeds/rss/cities/ahmedabad-news/rssfeed.xml",
+    "https://timesofindia.indiatimes.com/city/ahmedabad/rssfeedstopstories.cms",
+  ],
+  gurugram: [
+    "https://www.hindustantimes.com/feeds/rss/cities/gurugram-news/rssfeed.xml",
+    "https://timesofindia.indiatimes.com/city/gurgaon/rssfeedstopstories.cms",
+  ],
+  noida: [
+    "https://www.hindustantimes.com/feeds/rss/cities/noida-news/rssfeed.xml",
+    "https://timesofindia.indiatimes.com/city/noida/rssfeedstopstories.cms",
+  ],
+  lucknow: [
+    "https://www.hindustantimes.com/feeds/rss/cities/lucknow-news/rssfeed.xml",
+    "https://timesofindia.indiatimes.com/city/lucknow/rssfeedstopstories.cms",
+  ],
+  jaipur: [
+    "https://www.hindustantimes.com/feeds/rss/cities/jaipur-news/rssfeed.xml",
+    "https://timesofindia.indiatimes.com/city/jaipur/rssfeedstopstories.cms",
+  ],
+  patna: [
+    "https://timesofindia.indiatimes.com/city/patna/rssfeedstopstories.cms",
+  ],
+  bhopal: [
+    "https://timesofindia.indiatimes.com/city/bhopal/rssfeedstopstories.cms",
+  ],
+  bhubaneswar: [
+    "https://timesofindia.indiatimes.com/city/bhubaneswar/rssfeedstopstories.cms",
+  ],
+  chandigarh: [
+    "https://www.hindustantimes.com/feeds/rss/cities/chandigarh-news/rssfeed.xml",
+    "https://timesofindia.indiatimes.com/city/chandigarh/rssfeedstopstories.cms",
+  ],
+  indore: [
+    "https://timesofindia.indiatimes.com/city/indore/rssfeedstopstories.cms",
+  ],
+  kanpur: [
+    "https://timesofindia.indiatimes.com/city/kanpur/rssfeedstopstories.cms",
+  ],
+  nagpur: [
+    "https://timesofindia.indiatimes.com/city/nagpur/rssfeedstopstories.cms",
+  ],
+  kochi: [
+    "https://timesofindia.indiatimes.com/city/kochi/rssfeedstopstories.cms",
+  ],
+  thiruvananthapuram: [
+    "https://timesofindia.indiatimes.com/city/thiruvananthapuram/rssfeedstopstories.cms",
+  ],
+  ranchi: [
+    "https://timesofindia.indiatimes.com/city/ranchi/rssfeedstopstories.cms",
+  ],
+  guwahati: [
+    "https://timesofindia.indiatimes.com/city/guwahati/rssfeedstopstories.cms",
+  ],
+};
+
 async function handle(request: Request): Promise<Response> {
   const origin = request.headers.get("Origin");
 
@@ -101,6 +191,8 @@ async function handle(request: Request): Promise<Response> {
 
   const url = new URL(request.url);
   const q = (url.searchParams.get("q") ?? "").trim();
+  const cityId = (url.searchParams.get("city") ?? "").trim().toLowerCase();
+  const wardToken = (url.searchParams.get("token") ?? "").trim();
   const limit = Math.min(
     MAX_ITEMS_HARD_CAP,
     Math.max(1, Number.parseInt(url.searchParams.get("limit") ?? "4", 10) || 4),
@@ -118,16 +210,7 @@ async function handle(request: Request): Promise<Response> {
 
   async function fetchRss(query: string): Promise<Array<ReturnType<typeof parseRSS>[number]>> {
     const url = `https://news.google.com/rss/search?q=${encodeURIComponent(query)}&hl=en-IN&gl=IN&ceid=IN:en`;
-    const res = await fetch(url, {
-      headers: {
-        "User-Agent":
-          "Mozilla/5.0 (compatible; CrimeRadarBot/1.0; +https://eeman1113.github.io/crimeradar/)",
-        Accept: "application/rss+xml, application/xml;q=0.9, */*;q=0.5",
-      },
-      cf: { cacheTtl: 600, cacheEverything: true },
-    });
-    if (!res.ok) throw new Error(`upstream ${res.status}`);
-    return parseRSS(await res.text());
+    return parseRSS(await fetchRaw(url));
   }
 
   function process(items: ReturnType<typeof parseRSS>) {
@@ -154,19 +237,34 @@ async function handle(request: Request): Promise<Response> {
       .slice(0, limit);
   }
 
-  // Two-pass: nudge toward crime first, then plain "<token> <city>".
-  // The plain pass surfaces something for sleepy small-town wards where
-  // the crime-tagged query returns nothing.
-  let primary: ReturnType<typeof parseRSS> = [];
-  try {
-    primary = await fetchRss(
-      `${baseQuery} (crime OR arrest OR police OR fir OR theft OR rape OR murder OR molest OR kidnap OR robber OR assault OR accident)`,
-    );
-  } catch {
-    /* fall through to the broad query */
-  }
+  // ---- Source 1: Google News (broad + crime-leaning) ----
+  const gnewsPromise = fetchRss(
+    `${baseQuery} (crime OR arrest OR police OR fir OR theft OR rape OR murder OR molest OR kidnap OR robber OR assault OR accident)`,
+  ).catch(() => [] as ReturnType<typeof parseRSS>);
 
-  let processed = process(primary);
+  // ---- Sources 2..n: HT / TOI per-city section feeds ----
+  // We pull the whole city feed then filter to items mentioning the ward
+  // token (case-insensitive). This catches local stories the Google News
+  // search may have missed for a given ward.
+  const tokenLc = (wardToken || baseQuery.split(/\s+/)[0] || "").toLowerCase();
+  const cityFeeds = (CITY_FEEDS[cityId] ?? []).map((u) =>
+    fetchRaw(u)
+      .then(parseRSS)
+      .then((items) =>
+        tokenLc
+          ? items.filter((it) => it.title.toLowerCase().includes(tokenLc))
+          : items,
+      )
+      .catch(() => [] as ReturnType<typeof parseRSS>),
+  );
+
+  const results = await Promise.all([gnewsPromise, ...cityFeeds]);
+  const merged = results.flat();
+
+  let processed = process(merged);
+
+  // Fallback: if nothing turned up, retry Google News with a broad
+  // unfiltered query so smaller wards still see *something*.
   if (processed.length === 0) {
     try {
       const fallback = await fetchRss(baseQuery);
@@ -180,6 +278,19 @@ async function handle(request: Request): Promise<Response> {
     status: 200,
     headers: corsHeaders(origin),
   });
+}
+
+async function fetchRaw(url: string): Promise<string> {
+  const res = await fetch(url, {
+    headers: {
+      "User-Agent":
+        "Mozilla/5.0 (compatible; CrimeRadarBot/1.0; +https://eeman1113.github.io/crimeradar/)",
+      Accept: "application/rss+xml, application/xml;q=0.9, */*;q=0.5",
+    },
+    cf: { cacheTtl: 600, cacheEverything: true },
+  });
+  if (!res.ok) throw new Error(`upstream ${res.status}`);
+  return res.text();
 }
 
 export default {

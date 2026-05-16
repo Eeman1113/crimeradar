@@ -59,11 +59,21 @@ function buildQuery(args: {
   return `${distinctive} ${args.cityName} ${terms}`;
 }
 
-function buildFetchUrl(query: string): string {
+function buildFetchUrl(args: {
+  query: string;
+  city: string;
+  token: string;
+}): string {
   if (PROXY_MODE === "worker") {
-    return `${PROXY_BASE}?q=${encodeURIComponent(query)}&limit=${MAX_ITEMS}`;
+    const p = new URLSearchParams({
+      q: args.query,
+      city: args.city,
+      token: args.token,
+      limit: String(MAX_ITEMS),
+    });
+    return `${PROXY_BASE}?${p.toString()}`;
   }
-  const rss = `https://news.google.com/rss/search?q=${encodeURIComponent(query)}&hl=en-IN&gl=IN&ceid=IN:en`;
+  const rss = `https://news.google.com/rss/search?q=${encodeURIComponent(args.query)}&hl=en-IN&gl=IN&ceid=IN:en`;
   return `${PROXY_BASE}?url=${encodeURIComponent(rss)}`;
 }
 
@@ -160,6 +170,10 @@ export default function RealtimeNewsSection({
     () => buildQuery({ cityName, wardName, neighborhoods }),
     [cityName, wardName, neighborhoods],
   );
+  const wardToken = useMemo(
+    () => firstToken(neighborhoods) || firstToken(wardName),
+    [neighborhoods, wardName],
+  );
   const cacheKey = `crimeradar.news.live.${query}`;
 
   const [state, setState] = useState<FetchState>({ kind: "loading" });
@@ -190,7 +204,10 @@ export default function RealtimeNewsSection({
     const ctrl = new AbortController();
     const timeoutId = setTimeout(() => ctrl.abort(), FETCH_TIMEOUT_MS);
 
-    fetch(buildFetchUrl(query), { signal: ctrl.signal })
+    fetch(
+      buildFetchUrl({ query, city, token: wardToken }),
+      { signal: ctrl.signal },
+    )
       .then(async (r) => {
         if (!r.ok) throw new Error(`HTTP ${r.status}`);
         if (PROXY_MODE === "worker") {
@@ -228,9 +245,9 @@ export default function RealtimeNewsSection({
   return (
     <Card>
       <CardHeader className="pb-3">
-        <div className="flex items-start justify-between gap-3">
+        <div className="flex flex-wrap items-baseline justify-between gap-x-3 gap-y-1">
           <CardTitle className="text-base flex items-center gap-1.5">
-            <Newspaper className="h-4 w-4 text-emerald-500" />
+            <Newspaper className="h-4 w-4 text-emerald-500 shrink-0" />
             Live news
             <span className="relative ml-1 inline-flex h-2 w-2" aria-hidden>
               <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-emerald-400/70" />
@@ -238,12 +255,12 @@ export default function RealtimeNewsSection({
             </span>
           </CardTitle>
           {state.kind === "ok" ? (
-            <span className="text-[11px] text-muted-foreground tabular-nums whitespace-nowrap mt-0.5">
+            <span className="text-[11px] text-muted-foreground tabular-nums whitespace-nowrap">
               updated {relativeTime(state.fetchedAt)}
             </span>
           ) : null}
         </div>
-        <CardDescription className="text-xs">
+        <CardDescription className="text-xs text-pretty">
           {state.kind === "loading"
             ? `Fetching recent headlines around ${firstToken(neighborhoods) || wardName}…`
             : `Latest crime-related stories matching “${firstToken(neighborhoods) || wardName}, ${cityName}.”`}
@@ -281,7 +298,7 @@ export default function RealtimeNewsSection({
                   href={item.link}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="group block rounded-md border bg-card p-3 text-sm hover:bg-accent hover:border-foreground/20 transition-[background-color,border-color] duration-200"
+                  className="group block rounded-md border bg-card p-3 text-sm hover:bg-accent hover:border-foreground/20 active:scale-[0.99] active:bg-accent/70 transition-[background-color,border-color,transform] duration-200 touch-manipulation"
                   onClick={() =>
                     posthog.capture("realtime_news_clicked", {
                       city,
@@ -291,12 +308,18 @@ export default function RealtimeNewsSection({
                     })
                   }
                 >
-                  <p className="font-medium leading-snug">{item.title}</p>
-                  <p className="mt-1 text-xs text-muted-foreground flex items-center gap-1.5">
-                    {item.source ? <span>{item.source}</span> : null}
+                  <p className="font-medium leading-snug text-pretty">
+                    {item.title}
+                  </p>
+                  <p className="mt-1 text-xs text-muted-foreground flex flex-wrap items-center gap-x-1.5 gap-y-0.5">
+                    {item.source ? (
+                      <span className="truncate max-w-[60%]">
+                        {item.source}
+                      </span>
+                    ) : null}
                     {item.date ? (
-                      <span>
-                        {item.source ? " · " : null}
+                      <span className="tabular-nums">
+                        {item.source ? "·" : null}{" "}
                         {new Date(item.date).toLocaleDateString("en-IN", {
                           day: "numeric",
                           month: "short",
@@ -314,7 +337,7 @@ export default function RealtimeNewsSection({
                       strokeWidth="2"
                       strokeLinecap="round"
                       strokeLinejoin="round"
-                      className="ml-auto opacity-50 group-hover:opacity-100 transition-opacity duration-200"
+                      className="ml-auto shrink-0 opacity-50 group-hover:opacity-100 group-active:opacity-100 transition-opacity duration-200"
                       aria-hidden
                     >
                       <path d="M15 3h6v6" />
