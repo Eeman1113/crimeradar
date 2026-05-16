@@ -67,3 +67,82 @@ export function normalizeScores(raws: number[]) {
 }
 
 export const NIGHT_MULTIPLIERS = NIGHT;
+
+// ---------------------------------------------------------------------------
+// Alternative framing: "policing intensity"
+// ---------------------------------------------------------------------------
+//
+// Requested by the sociology / RTI review (Ruchi et al.): the existing risk
+// pipeline weights crime categories by perceived severity, which implicitly
+// treats high-FIR wards as "dangerous neighbourhoods". An alternative reading
+// is that an FIR is a record of *state behaviour* — a police station chose to
+// register an event. Higher counts therefore conflate (a) actual incidence
+// with (b) station-level willingness/capacity to register. Surfacing the
+// un-weighted rate gives readers a second lens on the same data.
+//
+// These additions are purely additive — existing `rawScore`, `rawWomenScore`,
+// `normalizeScores`, and `NIGHT_MULTIPLIERS` exports are unchanged.
+
+export type RiskMode = "risk" | "policing-intensity";
+
+export type ScoreOptions = {
+  /** Apply night multipliers from `night_multipliers.json`. */
+  night?: boolean;
+};
+
+type ScoreInput = {
+  breakdown: CrimeBreakdown;
+  /** Population expressed in thousands (per-1k denominator). */
+  popPerK: number;
+};
+
+/**
+ * Severity-weighted FIR rate per 1k residents. Wrapper around `rawScore` that
+ * accepts a ward-like `{ breakdown, popPerK }` object so it composes with
+ * `scoreByMode`. This is the "danger" framing — categories are weighted by
+ * perceived harm (women's crimes 3x, violent 2x, property 0.5x).
+ */
+export function riskScore(ward: ScoreInput, options: ScoreOptions = {}) {
+  return rawScore(ward.breakdown, ward.popPerK, options.night ?? false);
+}
+
+/**
+ * Measures registered police events per resident. Higher numbers can indicate
+ * active policing AND/OR higher actual incidence.
+ *
+ * Unlike `riskScore`, every crime category contributes equally (weight = 1).
+ * The night multiplier still applies if requested, because a night-time FIR
+ * is still a single registered event — the multiplier reflects reporting
+ * patterns, not severity weighting. The output is shaped identically to
+ * `rawScore` (a per-1k rate) so it can be fed through `normalizeScores` to
+ * produce the same 0-100 p5/p95-normalised value used by the UI.
+ */
+export function policingIntensityScore(
+  ward: ScoreInput,
+  options: ScoreOptions = {},
+) {
+  const night = options.night ?? false;
+  const b = ward.breakdown;
+  const mult = (cat: CrimeCategory) => (night ? NIGHT[cat] ?? 1 : 1);
+  let total = 0;
+  for (const cat of Object.keys(b) as CrimeCategory[]) {
+    total += (b[cat] ?? 0) * mult(cat);
+  }
+  const denom = Math.max(ward.popPerK, 1);
+  return total / denom;
+}
+
+/**
+ * Convenience dispatcher that picks the scoring function by mode. Lets call
+ * sites stay agnostic when toggling between the "risk" and
+ * "policing-intensity" framings.
+ */
+export function scoreByMode(
+  ward: ScoreInput,
+  mode: RiskMode,
+  options: ScoreOptions = {},
+) {
+  return mode === "policing-intensity"
+    ? policingIntensityScore(ward, options)
+    : riskScore(ward, options);
+}

@@ -47,7 +47,20 @@ export type StringKey =
   | "women_mode_off"
   | "women_mode_on_label"
   | "women_mode_off_label"
-  | "women_mode_hint";
+  | "women_mode_hint"
+  // Page-level headings & section titles (Methodology, Legal, city page).
+  // Added so the i18n provider doesn't fall through to the raw English key.
+  | "methodology_h1"
+  | "methodology_live_data_status"
+  | "methodology_data_sources"
+  | "methodology_risk_formula"
+  | "methodology_night_multipliers"
+  | "methodology_limitations"
+  | "legal_naming_policy"
+  | "legal_takedown_requests"
+  | "legal_disclaimer"
+  | "city_per_area_coming"
+  | "city_night_premium_title";
 
 // Per-locale dictionaries can omit keys; the provider falls back to English.
 // English (below) is the source of truth and must include every key.
@@ -109,6 +122,17 @@ const en: FullDict = {
   women_mode_off_label: "Switch to all-crimes mode",
   women_mode_hint:
     "Map is using only sexual offences, harassment and kidnapping rates — the crimes most relevant to women's safety.",
+  methodology_h1: "Methodology",
+  methodology_live_data_status: "Live data status",
+  methodology_data_sources: "Data sources",
+  methodology_risk_formula: "Risk score formula",
+  methodology_night_multipliers: "Night-time multipliers",
+  methodology_limitations: "Limitations",
+  legal_naming_policy: "Naming policy",
+  legal_takedown_requests: "Takedown requests",
+  legal_disclaimer: "Disclaimer",
+  city_per_area_coming: "Per-area data coming",
+  city_night_premium_title: "Wards with the biggest night-time premium",
 };
 
 const hi: Dict = {
