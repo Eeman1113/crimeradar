@@ -171,32 +171,40 @@ export default async function WardPage({
             </CardContent>
           </Card>
 
-          <RealtimeNewsSection
-            city={city}
-            cityName={cfg.name}
-            wardId={ward.id}
-            wardName={ward.name}
-            neighborhoods={ward.neighborhoods}
-          />
-
-          <Card className="border-amber-500/40 bg-amber-500/5">
-            <CardContent className="pt-5 text-xs text-amber-700 dark:text-amber-300 leading-relaxed">
-              <strong className="block text-amber-900 dark:text-amber-200 mb-1">
-                Reminder
-              </strong>
-              High-score areas often reflect higher <em>reporting</em> rates
-              (better policing, more cameras, more women who can safely file
-              FIRs). A lower score is not a guarantee of safety. See{" "}
-              <Link
-                href="/methodology"
-                className="underline underline-offset-2"
-              >
-                methodology
-              </Link>
-              .
-            </CardContent>
-          </Card>
         </div>
+      </section>
+
+      <section
+        className="max-w-5xl mx-auto px-4 pb-6 animate-fade-in-up"
+        style={{ animationDelay: "120ms" }}
+      >
+        <RealtimeNewsSection
+          city={city}
+          cityName={cfg.name}
+          wardId={ward.id}
+          wardName={ward.name}
+          neighborhoods={ward.neighborhoods}
+        />
+      </section>
+
+      <section
+        className="max-w-5xl mx-auto px-4 pb-8 animate-fade-in-up"
+        style={{ animationDelay: "140ms" }}
+      >
+        <Card className="border-amber-500/40 bg-amber-500/5">
+          <CardContent className="pt-5 text-xs text-amber-700 dark:text-amber-300 leading-relaxed">
+            <strong className="block text-amber-900 dark:text-amber-200 mb-1">
+              Reminder
+            </strong>
+            High-score areas often reflect higher <em>reporting</em> rates
+            (better policing, more cameras, more women who can safely file
+            FIRs). A lower score is not a guarantee of safety. See{" "}
+            <Link href="/methodology" className="underline underline-offset-2">
+              methodology
+            </Link>
+            .
+          </CardContent>
+        </Card>
       </section>
 
       {cfg.hasAbsconders ? (
