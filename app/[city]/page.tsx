@@ -104,8 +104,8 @@ export default async function CityHome({
         className="flex-1 max-w-6xl w-full mx-auto px-4 py-4 sm:py-6 grid lg:grid-cols-[1fr_320px] gap-4 lg:gap-6 animate-fade-in-up"
         style={{ animationDelay: "80ms" }}
       >
-        <div className="flex flex-col gap-2 lg:h-full">
-          <div className="h-[60vh] min-h-[300px] max-h-[640px] sm:h-[60vh] sm:min-h-[400px] lg:h-auto lg:max-h-none lg:min-h-[440px] lg:flex-1">
+        <div className="flex flex-col gap-2">
+          <div className="h-[60vh] min-h-[300px] max-h-[640px] sm:h-[60vh] sm:min-h-[400px] lg:h-[65vh] lg:min-h-[440px] lg:max-h-[720px]">
             <Suspense fallback={<MapSkeleton />}>
               <WardMap city={city} wards={wards} />
             </Suspense>
@@ -115,7 +115,7 @@ export default async function CityHome({
             Tap any {cfg.unit} to open its full report. Pinch to zoom.
           </p>
         </div>
-        <aside className="flex flex-col gap-4">
+        <aside className="flex flex-col gap-4 lg:max-h-[calc(65vh+2rem)] lg:overflow-y-auto lg:pr-1">
           <CityStatsCard city={city} />
           {wards.length > 0 ? (
             <>
