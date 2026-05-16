@@ -270,7 +270,7 @@ export default function AddressSearch({
           className={cn(
             "h-10 w-full rounded-md border border-input bg-background pl-9 pr-9",
             "text-sm text-foreground placeholder:text-muted-foreground",
-            "shadow-sm transition-colors",
+            "transition-colors",
             "focus:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-0",
             "disabled:cursor-not-allowed disabled:opacity-60",
           )}
