@@ -8,6 +8,10 @@ import WardScoreDisplay from "@/components/WardScoreDisplay";
 import NewsLink from "@/components/NewsLink";
 import LocalizedCityName from "@/components/LocalizedCityName";
 import RealtimeNewsSection from "@/components/RealtimeNewsSection";
+import WardSourceDrawer from "@/components/WardSourceDrawer";
+import ShareCard from "@/components/ShareCard";
+import PdfExportButton from "@/components/PdfExportButton";
+import PerCategoryTrendChart from "@/components/PerCategoryTrendChart";
 import { CITY_IDS, getCity, isCityId } from "@/lib/cities";
 import {
   dynamicWardConcerns,
@@ -16,6 +20,7 @@ import {
   wardNews,
   wardSlug,
 } from "@/lib/wards";
+import { BASE_PATH } from "@/lib/site";
 import { CRIME_CATEGORY_LABELS, type CrimeCategory } from "@/lib/types";
 import { Button } from "@/components/ui/button";
 import {
@@ -25,6 +30,17 @@ import {
   CardHeader,
   CardTitle,
 } from "@/components/ui/card";
+
+// Canonical production origin — see lib/site.ts comment. Used to build absolute
+// share URLs (social shares need a fully-qualified link).
+const SITE_ORIGIN = "https://eeman1113.github.io";
+
+function bandFor(score: number) {
+  if (score >= 75) return "High";
+  if (score >= 50) return "Elevated";
+  if (score >= 25) return "Moderate";
+  return "Lower";
+}
 
 export const dynamicParams = false;
 
@@ -54,17 +70,28 @@ export default async function WardPage({
     (a: number, b) => a + (b ?? 0),
     0,
   );
-  const topCats: CrimeCategory[] = (
+  const sortedCats = (
     Object.entries(ward.breakdown) as [CrimeCategory, number][]
-  )
-    .sort((a, b) => b[1] - a[1])
-    .slice(0, 3)
+  ).sort((a, b) => b[1] - a[1]);
+  const topCats: CrimeCategory[] = sortedCats.slice(0, 3).map(([cat]) => cat);
+  const topCategoriesForWard: CrimeCategory[] = sortedCats
+    .slice(0, 4)
     .map(([cat]) => cat);
   const concerns = dynamicWardConcerns(city, ward);
   const ratePerK =
     ward.population > 0
       ? (totalIncidents / (ward.population / 1000)).toFixed(1)
       : null;
+
+  const wardDisplayName =
+    cfg.unit === "MCD ward" || cfg.unit === "GHMC ward"
+      ? ward.name
+      : `Ward ${ward.id}`;
+  const canonicalUrl = `${SITE_ORIGIN}${BASE_PATH}/${city}/ward/${wardSlug(ward.id)}`;
+  const shareTitle = `${wardDisplayName}, ${cfg.name}`;
+  const shareSummary = `Risk score: ${ward.riskScore} (${bandFor(
+    ward.riskScore,
+  )}). Day: ${ward.riskScore}, Night: ${ward.riskScoreNight}.`;
 
   return (
     <div className="flex-1">
@@ -86,18 +113,29 @@ export default async function WardPage({
               <p className="mt-1 text-foreground/80 leading-relaxed">
                 {ward.neighborhoods}
               </p>
-              <p className="mt-2 text-xs text-muted-foreground">
-                Pop. ≈ {ward.population.toLocaleString("en-IN")} · data
-                quality:{" "}
-                <span className="font-mono text-sky-600 dark:text-sky-400">
-                  {ward.dataQuality}
+              <p className="mt-2 text-xs text-muted-foreground flex flex-wrap items-center gap-x-2 gap-y-1">
+                <span>
+                  Pop. ≈ {ward.population.toLocaleString("en-IN")} · data
+                  quality:{" "}
+                  <span className="font-mono text-sky-600 dark:text-sky-400">
+                    {ward.dataQuality}
+                  </span>
                 </span>
+                <WardSourceDrawer cityId={city} wardId={ward.id} />
               </p>
             </div>
-            <Suspense fallback={null}>
-              <NightToggle />
-            </Suspense>
+            <div className="flex flex-col items-start sm:items-end gap-2">
+              <PdfExportButton />
+              <Suspense fallback={null}>
+                <NightToggle />
+              </Suspense>
+            </div>
           </div>
+          <ShareCard
+            title={shareTitle}
+            summary={shareSummary}
+            url={canonicalUrl}
+          />
         </div>
       </section>
 
@@ -172,6 +210,29 @@ export default async function WardPage({
           </Card>
 
         </div>
+      </section>
+
+      <section
+        className="max-w-5xl mx-auto px-4 pb-6 animate-fade-in-up"
+        style={{ animationDelay: "100ms" }}
+      >
+        <Card>
+          <CardHeader>
+            <CardTitle className="text-base">Trend by category</CardTitle>
+            <CardDescription>
+              Top {topCategoriesForWard.length} categories for this ward
+              ({topCategoriesForWard
+                .map((c) => CRIME_CATEGORY_LABELS[c])
+                .join(", ")})
+            </CardDescription>
+          </CardHeader>
+          <CardContent>
+            <PerCategoryTrendChart
+              cityId={city}
+              categories={topCategoriesForWard}
+            />
+          </CardContent>
+        </Card>
       </section>
 
       <section

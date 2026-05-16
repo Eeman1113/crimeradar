@@ -2,22 +2,31 @@ import { ArrowLeft, Info, LineChart as LineChartIcon } from "lucide-react";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { Suspense } from "react";
-import WardMap from "@/components/Map/WardMap";
 import LocateMeButton from "@/components/Map/LocateMeButton";
 import NightToggle from "@/components/NightToggle";
 import WomenToggle from "@/components/WomenToggle";
+import RiskLegend from "@/components/RiskLegend";
 import RankList from "@/components/RankList";
 import CityStatsCard from "@/components/CityStatsCard";
 import LocalizedCityName from "@/components/LocalizedCityName";
 import TrendChart from "@/components/TrendChart";
 import AnnualTrendChart from "@/components/AnnualTrendChart";
 import NightDeltaChart from "@/components/NightDeltaChart";
+import PerCategoryTrendChart from "@/components/PerCategoryTrendChart";
+import AudienceModePanel from "@/components/AudienceModePanel";
+import PdfExportButton from "@/components/PdfExportButton";
+import ShareCard from "@/components/ShareCard";
+import WardSourceDrawer from "@/components/WardSourceDrawer";
+import CityMapWithLayers, {
+  CityAddressSearch,
+} from "@/components/CityMapWithLayers";
 import { CITY_IDS, getCity, isCityId } from "@/lib/cities";
 import {
   cityDataQuality,
   listWards,
   monthlyHistory,
 } from "@/lib/wards";
+import { withBase } from "@/lib/site";
 import { Badge } from "@/components/ui/badge";
 import {
   Card,
@@ -57,6 +66,18 @@ export default async function CityHome({
   const showHistory =
     history.length >= (isAnnualHistory ? 2 : 6);
 
+  // Highest-risk ward feeds the WardSourceDrawer in the stats area so users
+  // can drill into provenance for the most consequential number on the page.
+  const topRiskWard = wards.length > 0
+    ? [...wards].sort((a, b) => b.riskScore - a.riskScore)[0]
+    : null;
+
+  // Share-card metadata. Static export means we can't read window.location
+  // server-side, so we build a base-path-aware path. ShareCard's encoded URL
+  // will be a relative-with-base path; share targets resolve it once opened.
+  const shareUrl = withBase(`/${city}/`);
+  const shareSummary = `Ward-level risk estimates for ${cfg.name} — ${wards.length} ${cfg.unit}s, data quality: ${quality}.`;
+
   return (
     <div className="flex-1 flex flex-col">
       <section className="border-b animate-fade-in-up">
@@ -92,11 +113,27 @@ export default async function CityHome({
               <Suspense fallback={null}>
                 <NightToggle />
               </Suspense>
+              <PdfExportButton />
             </div>
           </div>
           <Suspense fallback={null}>
-            <LocateMeButton city={city} />
+            <AudienceModePanel />
           </Suspense>
+          <div className="print:hidden">
+            <ShareCard
+              title={cfg.name}
+              summary={shareSummary}
+              url={shareUrl}
+            />
+          </div>
+          <div className="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-3">
+            <Suspense fallback={null}>
+              <LocateMeButton city={city} />
+            </Suspense>
+            <Suspense fallback={null}>
+              <CityAddressSearch city={city} className="flex-1 min-w-0" />
+            </Suspense>
+          </div>
         </div>
       </section>
 
@@ -105,10 +142,12 @@ export default async function CityHome({
         style={{ animationDelay: "80ms" }}
       >
         <div className="flex flex-col gap-2">
-          <div className="h-[60vh] min-h-[300px] max-h-[640px] sm:h-[60vh] sm:min-h-[400px] lg:h-[65vh] lg:min-h-[440px] lg:max-h-[720px]">
-            <Suspense fallback={<MapSkeleton />}>
-              <WardMap city={city} wards={wards} />
-            </Suspense>
+          <CityMapWithLayers city={city} wards={wards} />
+          <div className="px-1 pt-1 sm:hidden">
+            <RiskLegend compact />
+          </div>
+          <div className="px-1 pt-1 hidden sm:block">
+            <RiskLegend />
           </div>
           <p className="flex items-center gap-1.5 text-xs text-muted-foreground px-1">
             <Info className="h-3.5 w-3.5" />
@@ -117,6 +156,11 @@ export default async function CityHome({
         </div>
         <aside className="flex flex-col gap-4 lg:max-h-[calc(65vh+2rem)] lg:overflow-y-auto scrollbar-hide">
           <CityStatsCard city={city} />
+          {topRiskWard ? (
+            <div className="flex items-center justify-end px-1 -mt-2">
+              <WardSourceDrawer cityId={city} wardId={topRiskWard.id} />
+            </div>
+          ) : null}
           {wards.length > 0 ? (
             <>
               <Suspense fallback={null}>
@@ -175,7 +219,7 @@ export default async function CityHome({
 
       {showHistory ? (
         <section
-          className="max-w-6xl w-full mx-auto px-4 pb-12 animate-fade-in-up"
+          className="max-w-6xl w-full mx-auto px-4 pb-6 animate-fade-in-up"
           style={{ animationDelay: "240ms" }}
         >
           <Card>
@@ -200,12 +244,29 @@ export default async function CityHome({
           </Card>
         </section>
       ) : null}
-    </div>
-  );
-}
 
-function MapSkeleton() {
-  return (
-    <div className="w-full h-full rounded-lg bg-muted border animate-pulse [animation-duration:1800ms]" />
+      {showHistory ? (
+        <section
+          className="max-w-6xl w-full mx-auto px-4 pb-12 animate-fade-in-up"
+          style={{ animationDelay: "320ms" }}
+        >
+          <Card>
+            <CardHeader className="pb-3">
+              <CardTitle className="text-base flex items-center gap-1.5">
+                <LineChartIcon className="h-4 w-4 text-indigo-500" />
+                Per-category trajectory
+              </CardTitle>
+              <CardDescription>
+                Each IPC category plotted individually for {cfg.name} — easier
+                to spot which crime type is driving the headline trend.
+              </CardDescription>
+            </CardHeader>
+            <CardContent>
+              <PerCategoryTrendChart cityId={city} />
+            </CardContent>
+          </Card>
+        </section>
+      ) : null}
+    </div>
   );
 }
