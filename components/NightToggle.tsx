@@ -41,7 +41,7 @@ export default function NightToggle() {
       ) : (
         <Sun className="h-3.5 w-3.5" />
       )}
-      <span>{isNight ? t("night_night") : t("night_day")}</span>
+      <span className="hidden sm:inline">{isNight ? t("night_night") : t("night_day")}</span>
     </Button>
   );
 }

@@ -44,7 +44,7 @@ export default function WomenToggle() {
         ) : (
           <Users className="h-3.5 w-3.5" />
         )}
-        <span>{isWomen ? t("women_mode_on") : t("women_mode_off")}</span>
+        <span className="hidden sm:inline">{isWomen ? t("women_mode_on") : t("women_mode_off")}</span>
       </Button>
       {isWomen ? (
         <span

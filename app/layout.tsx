@@ -84,6 +84,29 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" suppressHydrationWarning className={fontVariables}>
+      <head>
+        {/*
+          Apply the saved locale (lang + dir) before React hydrates so screen
+          readers, :lang() CSS rules, and font cascades pick up the right
+          script on first paint. Translated string content still flashes once
+          on hard refresh because SSR has no localStorage access — that's a
+          static-export constraint.
+        */}
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+              try {
+                var l = localStorage.getItem("crimeradar.locale");
+                var rtl = { ur: 1 };
+                if (l && /^[a-z]{2}$/.test(l)) {
+                  document.documentElement.setAttribute("lang", l);
+                  document.documentElement.setAttribute("dir", rtl[l] ? "rtl" : "ltr");
+                }
+              } catch (e) {}
+            `,
+          }}
+        />
+      </head>
       <body className="min-h-screen flex flex-col bg-background text-foreground antialiased">
         <a
           href="#main"
