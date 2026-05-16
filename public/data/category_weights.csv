@@ -1,0 +1,10 @@
+category,group,group_weight,night_multiplier,notes
+sexual_offence,against_women,3.0,2.4,"Also counted in violent group (2.0x). Effective combined weight before night = 5.0x."
+harassment,against_women,3.0,1.6,"Women-only score uses this category."
+kidnapping,against_women,3.0,1.4,"Also counted in violent group (2.0x). Effective combined weight before night = 5.0x."
+robbery,violent,2.0,1.7,"Violent crimes group."
+assault,violent,2.0,1.8,"Violent crimes group."
+theft,property,0.5,1.1,"Property crimes group (down-weighted)."
+burglary,property,0.5,1.3,"Property crimes group (down-weighted)."
+other,unweighted,0.0,1.0,"Not included in rawScore; carried for breakdown display only."
+FORMULA,FORMULA,FORMULA,FORMULA,"rawScore = (3.0 * sum(women) + 2.0 * sum(violent) + 0.5 * sum(property)) / max(popPerK, 1). Night mode multiplies each category count by its night_multiplier before summing. Final 0-100 score is a p5/p95 percentile-clamped normalisation across the city's wards. See lib/risk.ts and lib/night_multipliers.json."

@@ -1,0 +1,12 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "city": "mumbai",
+    "kind": "school",
+    "source": "TODO",
+    "license": "TODO",
+    "updated": "2026-05-16",
+    "todo": "Populate with BMC + private schools. Candidate source: BMC Education Department school list + UDISE+ exports. Filter to schools within BMC limits; include school_id, board, gender (co-ed/girls/boys)."
+  },
+  "features": []
+}

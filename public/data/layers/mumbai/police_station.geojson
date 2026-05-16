@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "city": "mumbai",
+    "kind": "police_station",
+    "source": "Mumbai Police public station directory; coords approximate",
+    "license": "CC0 — placeholder data, replace before production",
+    "updated": "2026-05-16",
+    "todo": "Expand to all ~94 Mumbai Police stations across the 12 zones. Add fields: zone, division, jurisdiction_polygon_ref, phone, women_help_desk (bool)."
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Colaba Police Station",
+        "kind": "police_station",
+        "zone": "Zone 1",
+        "ward_hint": "Colaba"
+      },
+      "geometry": { "type": "Point", "coordinates": [72.8147, 18.9067] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bandra Police Station",
+        "kind": "police_station",
+        "zone": "Zone 9",
+        "ward_hint": "Bandra West"
+      },
+      "geometry": { "type": "Point", "coordinates": [72.8296, 19.0596] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Andheri Police Station",
+        "kind": "police_station",
+        "zone": "Zone 10",
+        "ward_hint": "Andheri West"
+      },
+      "geometry": { "type": "Point", "coordinates": [72.8458, 19.1197] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dadar Police Station",
+        "kind": "police_station",
+        "zone": "Zone 5",
+        "ward_hint": "Dadar"
+      },
+      "geometry": { "type": "Point", "coordinates": [72.8417, 19.0186] }
+    }
+  ]
+}

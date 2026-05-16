@@ -1,0 +1,10 @@
+tier,category,weight,notes
+all,theft,1.0,"Per-category scale = (city-wide YTD total)/(sum of seed breakdowns); falls back to 1.0 when real total is missing or seed sum is 0. See calibrate() in lib/wards.ts."
+all,robbery,1.0,"Same per-category scaling rule as above."
+all,assault,1.0,"Same per-category scaling rule as above."
+all,sexual_offence,1.0,"Same per-category scaling rule as above."
+all,harassment,1.0,"Same per-category scaling rule as above."
+all,kidnapping,1.0,"Same per-category scaling rule as above."
+all,burglary,1.0,"Same per-category scaling rule as above."
+all,other,1.0,"Same per-category scaling rule as above."
+NOTE,NOTE,NOTE,"calibrate() does not bucket wards into central/inner/outer/peripheral tiers. Every ward in a city shares the same per-category scale factor derived at runtime from monthly_stats.json totals vs. seeded breakdowns. Effective weights therefore vary by city and refresh cycle, not by ward tier. To audit live values for a city, divide that city's YTD total for a category by the sum of seed breakdown counts for that category across its wards."

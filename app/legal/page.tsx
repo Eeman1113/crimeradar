@@ -9,7 +9,35 @@ export default function LegalPage() {
         Legal &amp; takedown
       </h1>
 
-      <h2 className="text-xl font-semibold mt-6">Naming policy</h2>
+      <h2 className="text-xl font-semibold mt-6">Grievance Officer</h2>
+      <p className="text-foreground/90">
+        Per the Information Technology (Intermediary Guidelines and Digital
+        Media Ethics Code) Rules, 2021, CrimeRadar designates a Grievance
+        Officer to receive and act on complaints from users and affected
+        individuals.
+      </p>
+      <ul className="list-disc pl-5 space-y-1 text-foreground/90">
+        <li>
+          <strong>Name:</strong> (To be appointed)
+        </li>
+        <li>
+          <strong>Postal address:</strong> (India)
+        </li>
+        <li>
+          <strong>Email:</strong>{" "}
+          <a href="mailto:grievance@crimeradar.in" className="underline">
+            grievance@crimeradar.in
+          </a>
+        </li>
+      </ul>
+      <p className="text-foreground/90">
+        The Grievance Officer will <strong>acknowledge</strong> any complaint
+        within <strong>24 hours</strong> of receipt and{" "}
+        <strong>resolve</strong> it within <strong>15 days</strong>, in line
+        with Rule 3(2) of the IT Rules, 2021.
+      </p>
+
+      <h2 className="text-xl font-semibold mt-8">Naming policy</h2>
       <p className="text-foreground/90">
         CrimeRadar only publishes names of individuals from official police
         absconder / proclaimed-offender lists — currently Mumbai Police,
@@ -86,6 +114,15 @@ export default function LegalPage() {
         for your own judgment, local knowledge, or police advice. CrimeRadar
         accepts no liability for any decision made on the basis of the
         information shown here.
+      </p>
+
+      <hr className="my-8 border-foreground/10" />
+      <p className="text-sm text-foreground/70">
+        See also:{" "}
+        <a href="/legal/terms" className="underline">
+          Terms of Use
+        </a>
+        .
       </p>
     </article>
   );
