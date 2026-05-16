@@ -23,6 +23,26 @@ type Props = {
 const STYLE_DARK = "https://tiles.openfreemap.org/styles/dark";
 const STYLE_LIGHT = "https://tiles.openfreemap.org/styles/positron";
 
+// Some GeoJSONs (notably ESRI Living Atlas) give us verbose ward names
+// like "Shimla (M Corp.) - Ward No.3" or "Gandhinagar (Corporation) Ward
+// No. 6" — fine for the detail page header but unreadable on a 10px
+// label. Compact them down to "Ward 3" / "Ward 6" while leaving
+// neighborhood-style names ("Mulund (East & West)", "Babu Jagjivan Ram
+// Ward", numbered "A"/"B" letters) untouched.
+function shortMapLabel(name: string, fallbackId: string): string {
+  if (!name) return fallbackId;
+  // Match a trailing "Ward [No.] <token>" — extract token, prefix "Ward".
+  const m = name.match(/Ward\s+(?:No\.?\s*)?([A-Za-z0-9]+)\s*$/i);
+  if (m) return `Ward ${m[1]}`;
+  // Drop "<City> (<anything>) - " or "<City> (<anything>) " prefix when
+  // followed by something meaningful afterwards.
+  const stripped = name
+    .replace(/^[^()]+\([^)]+\)\s*-?\s*/, "")
+    .trim();
+  if (stripped && stripped.length < name.length) return stripped;
+  return name;
+}
+
 export default function WardMap({ city, wards }: Props) {
   const containerRef = useRef<HTMLDivElement | null>(null);
   const mapRef = useRef<MlMap | null>(null);
@@ -72,14 +92,16 @@ export default function WardMap({ city, wards }: Props) {
             (f.properties as Record<string, unknown> | null)?.[wardIdKey];
           const id = raw != null ? String(raw) : "";
           const w = wardById.get(id);
+          // Prefer the ward's human-readable name (compacted) over the
+          // raw GeoJSON id — which is an internal ESRI objectid like
+          // "10145" for many cities.
+          const label = shortMapLabel(w?.name ?? "", id);
           return {
             ...f,
             properties: {
               ...(f.properties ?? {}),
               ward_id: id,
-              ward_label:
-                (f.properties as Record<string, unknown> | null)?.[wardIdKey]
-                  ?.toString() ?? id,
+              ward_label: label,
               neighborhoods: w?.neighborhoods ?? "",
               risk: w?.riskScore ?? -1,
               risk_night: w?.riskScoreNight ?? -1,
