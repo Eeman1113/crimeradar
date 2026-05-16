@@ -42,12 +42,7 @@ const PROXY_MODE: "passthrough" | "worker" =
 const CACHE_TTL_MS = 15 * 60 * 1000;
 const FETCH_TIMEOUT_MS = 9_000;
 const MAX_ITEMS = 4;
-const FRESHNESS_MS = 18 * 30 * 86_400_000; // ~18 months
-
-// Mirrors scripts/ingest_ward_news.mjs's keyword set so cron-cached items
-// and live-fetched items pass the same bar.
-const CRIME_RE =
-  /\b(crime|arrest(?:ed)?|theft|robber|burglar|assault|molest|rape|raped|kidnap|murder|stab|sexual|harass|stalk|chain.?snatch|fraud|police|scam|drug)\b/i;
+const FRESHNESS_MS = 24 * 30 * 86_400_000; // ~24 months
 
 function firstToken(s: string): string {
   return (s.split(/[,\s]+/).find(Boolean) ?? "").trim();
@@ -100,12 +95,15 @@ function parseRSS(xml: string): NewsItem[] {
 }
 
 function filterAndCap(items: NewsItem[]): NewsItem[] {
+  // Trust the Worker's two-pass scoring + freshness filter. Client only
+  // dedupes by link and caps. Dropping the crime regex here lets the
+  // fallback "wider net" query actually reach the UI when the strict
+  // crime-tagged query returns nothing (common for smaller ward names).
   const cutoff = Date.now() - FRESHNESS_MS;
   const seen = new Set<string>();
   const out: NewsItem[] = [];
   for (const it of items) {
     if (!it.title || !it.link) continue;
-    if (!CRIME_RE.test(it.title)) continue;
     if (it.date && Date.parse(it.date) < cutoff) continue;
     if (seen.has(it.link)) continue;
     seen.add(it.link);

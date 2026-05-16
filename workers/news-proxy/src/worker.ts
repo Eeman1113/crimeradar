@@ -18,8 +18,14 @@ const ALLOWED_ORIGINS = new Set([
   "http://127.0.0.1:3000",
 ]);
 
-const CRIME_TERMS = /\b(crime|arrest|theft|robbery|assault|molest|rape|kidnap|murder|police|chain.?snatch|stabb|fraud|sexual|harass|stalk)/i;
-const MAX_AGE_MS = 18 * 30 * 86_400_000; // ~18 months
+// Soft tag — items that pass this get prioritised, but we no longer
+// gate on it. Google News's own ranking + our query suffix already does
+// most of the relevance work; gating an extra regex on top kills
+// otherwise-useful headlines that just happen to not include one of
+// these literal tokens.
+const CRIME_TAGS =
+  /\b(crime|arrest|theft|robber|burglar|assault|molest|rape|kidnap|murder|police|stab|sexual|harass|stalk|chain.?snatch|fraud|scam|attack|killed|raid|booked|fir)/i;
+const MAX_AGE_MS = 24 * 30 * 86_400_000; // ~24 months — wider net
 const MAX_ITEMS_HARD_CAP = 8;
 
 function corsHeaders(origin: string | null): HeadersInit {
@@ -106,45 +112,71 @@ async function handle(request: Request): Promise<Response> {
     });
   }
 
-  const rssUrl = `https://news.google.com/rss/search?q=${encodeURIComponent(q)}&hl=en-IN&gl=IN&ceid=IN:en`;
+  // Strip a trailing literal-OR clause if the client included one — we'll
+  // re-add a leaner version below. Lets old + new clients share one Worker.
+  const baseQuery = q.replace(/\s*\([^)]*\)\s*$/, "").trim();
 
-  let xml: string;
-  try {
-    const res = await fetch(rssUrl, {
+  async function fetchRss(query: string): Promise<Array<ReturnType<typeof parseRSS>[number]>> {
+    const url = `https://news.google.com/rss/search?q=${encodeURIComponent(query)}&hl=en-IN&gl=IN&ceid=IN:en`;
+    const res = await fetch(url, {
       headers: {
         "User-Agent":
           "Mozilla/5.0 (compatible; CrimeRadarBot/1.0; +https://eeman1113.github.io/crimeradar/)",
         Accept: "application/rss+xml, application/xml;q=0.9, */*;q=0.5",
       },
-      // Cache successful upstream responses at the edge for 10 minutes.
       cf: { cacheTtl: 600, cacheEverything: true },
     });
     if (!res.ok) throw new Error(`upstream ${res.status}`);
-    xml = await res.text();
-  } catch {
-    return new Response(JSON.stringify({ items: [] }), {
-      status: 200,
-      headers: corsHeaders(origin),
-    });
+    return parseRSS(await res.text());
   }
 
-  const all = parseRSS(xml);
-  const now = Date.now();
-  const filtered = all
-    .filter((it) => it.title && it.link)
-    .filter((it) => CRIME_TERMS.test(it.title))
-    .filter((it) => {
-      if (!it.date) return true;
-      return now - Date.parse(it.date) < MAX_AGE_MS;
-    })
-    // Dedupe by link
-    .reduce<typeof all>((acc, it) => {
-      if (!acc.some((x) => x.link === it.link)) acc.push(it);
-      return acc;
-    }, [])
-    .slice(0, limit);
+  function process(items: ReturnType<typeof parseRSS>) {
+    const now = Date.now();
+    return items
+      .filter((it) => it.title && it.link)
+      .filter((it) => {
+        if (!it.date) return true;
+        return now - Date.parse(it.date) < MAX_AGE_MS;
+      })
+      .reduce<typeof items>((acc, it) => {
+        if (!acc.some((x) => x.link === it.link)) acc.push(it);
+        return acc;
+      }, [])
+      // Crime-tagged items first, then everything else by recency.
+      .sort((a, b) => {
+        const aT = CRIME_TAGS.test(a.title) ? 1 : 0;
+        const bT = CRIME_TAGS.test(b.title) ? 1 : 0;
+        if (aT !== bT) return bT - aT;
+        const aD = a.date ? Date.parse(a.date) : 0;
+        const bD = b.date ? Date.parse(b.date) : 0;
+        return bD - aD;
+      })
+      .slice(0, limit);
+  }
 
-  return new Response(JSON.stringify({ items: filtered }), {
+  // Two-pass: nudge toward crime first, then plain "<token> <city>".
+  // The plain pass surfaces something for sleepy small-town wards where
+  // the crime-tagged query returns nothing.
+  let primary: ReturnType<typeof parseRSS> = [];
+  try {
+    primary = await fetchRss(
+      `${baseQuery} (crime OR arrest OR police OR fir OR theft OR rape OR murder OR molest OR kidnap OR robber OR assault OR accident)`,
+    );
+  } catch {
+    /* fall through to the broad query */
+  }
+
+  let processed = process(primary);
+  if (processed.length === 0) {
+    try {
+      const fallback = await fetchRss(baseQuery);
+      processed = process(fallback);
+    } catch {
+      /* swallow and return [] */
+    }
+  }
+
+  return new Response(JSON.stringify({ items: processed }), {
     status: 200,
     headers: corsHeaders(origin),
   });
