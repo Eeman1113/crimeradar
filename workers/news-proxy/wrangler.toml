@@ -1,0 +1,7 @@
+name = "crimeradar-news"
+main = "src/worker.ts"
+compatibility_date = "2026-05-01"
+
+# Free Workers tier: 100k requests/day. Enough for tens of thousands of
+# ward-page views per day given the 10-min edge cache + 15-min
+# sessionStorage cache on the client.

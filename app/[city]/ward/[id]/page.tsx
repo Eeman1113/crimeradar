@@ -7,6 +7,7 @@ import NightToggle from "@/components/NightToggle";
 import WardScoreDisplay from "@/components/WardScoreDisplay";
 import NewsLink from "@/components/NewsLink";
 import LocalizedCityName from "@/components/LocalizedCityName";
+import RealtimeNewsSection from "@/components/RealtimeNewsSection";
 import { CITY_IDS, getCity, isCityId } from "@/lib/cities";
 import {
   dynamicWardConcerns,
@@ -169,6 +170,14 @@ export default async function WardPage({
               )}
             </CardContent>
           </Card>
+
+          <RealtimeNewsSection
+            city={city}
+            cityName={cfg.name}
+            wardId={ward.id}
+            wardName={ward.name}
+            neighborhoods={ward.neighborhoods}
+          />
 
           <Card className="border-amber-500/40 bg-amber-500/5">
             <CardContent className="pt-5 text-xs text-amber-700 dark:text-amber-300 leading-relaxed">
