@@ -97,39 +97,22 @@ export default function Home() {
         <Separator className="my-4" />
 
         <div
-          className="animate-fade-in-up flex flex-col gap-3 text-xs text-muted-foreground"
+          className="animate-fade-in-up flex items-center gap-3 text-xs text-muted-foreground"
           style={{ animationDelay: `${200 + tiles.length * 45 + 40}ms` }}
         >
-          <div className="flex flex-wrap items-center gap-x-4 gap-y-1.5">
-            <span className="font-medium text-foreground/80">
-              {t("dq_title")}
-            </span>
-            <span className="font-mono text-emerald-600 dark:text-emerald-400">
-              {t("dq_live")}
-            </span>
-            <span className="font-mono text-sky-600 dark:text-sky-400">
-              {t("dq_calibrated")}
-            </span>
-            <span className="font-mono text-amber-600 dark:text-amber-400">
-              {t("dq_seeded")}
-            </span>
-            <span className="font-mono">{t("dq_empty")}</span>
-          </div>
-          <div className="flex items-center gap-3">
-            <Link
-              href="/methodology"
-              className="underline underline-offset-2 hover:text-foreground transition-colors"
-            >
-              {t("nav_methodology")}
-            </Link>
-            <span className="text-muted-foreground/40">·</span>
-            <Link
-              href="/legal"
-              className="underline underline-offset-2 hover:text-foreground transition-colors"
-            >
-              {t("nav_legal")}
-            </Link>
-          </div>
+          <Link
+            href="/methodology"
+            className="underline underline-offset-2 hover:text-foreground transition-colors"
+          >
+            {t("nav_methodology")}
+          </Link>
+          <span className="text-muted-foreground/40">·</span>
+          <Link
+            href="/legal"
+            className="underline underline-offset-2 hover:text-foreground transition-colors"
+          >
+            {t("nav_legal")}
+          </Link>
         </div>
       </section>
     </div>
