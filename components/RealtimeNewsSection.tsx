@@ -23,17 +23,17 @@ type FetchState =
   | { kind: "ok"; items: NewsItem[]; fetchedAt: number }
   | { kind: "error" };
 
-// Public CORS proxy. Default works out of the box — no infra to deploy.
-// Override with NEXT_PUBLIC_NEWS_PROXY_URL if you stand up your own
-// Cloudflare Worker / Vercel function (see workers/news-proxy/).
+// News proxy. Defaults to the Cloudflare Worker deployed from
+// workers/news-proxy/ — see its README for redeploy instructions.
+// Override with NEXT_PUBLIC_NEWS_PROXY_URL for local dev / forks
+// (e.g. point at https://api.allorigins.win/raw as a no-infra fallback).
 //
-// Two proxy shapes are supported:
-//   1. allorigins/corsproxy style: `${base}?url=<encoded target>` → raw RSS
-//   2. Worker JSON style:          `${base}?q=<query>&limit=<n>`  → {items}
-// allorigins.win/raw is the default — corsproxy.io's free tier is currently
-// returning landing-page HTML for free traffic.
+// Two proxy shapes are auto-detected:
+//   - Worker JSON:    `${base}?q=<query>&limit=<n>`  → {items}
+//   - Passthrough:    `${base}?url=<encoded target>` → raw RSS
 const PROXY_BASE =
-  process.env.NEXT_PUBLIC_NEWS_PROXY_URL ?? "https://api.allorigins.win/raw";
+  process.env.NEXT_PUBLIC_NEWS_PROXY_URL ??
+  "https://crimeradar-news.eeman-majumder.workers.dev";
 const PROXY_MODE: "passthrough" | "worker" =
   PROXY_BASE.includes("allorigins") || PROXY_BASE.includes("corsproxy")
     ? "passthrough"
