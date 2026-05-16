@@ -11,7 +11,6 @@ import {
   CardHeader,
   CardTitle,
 } from "@/components/ui/card";
-import { Separator } from "@/components/ui/separator";
 import LocateAnywhereButton from "@/components/LocateAnywhereButton";
 import CityPicker, { type CityTile } from "@/components/CityPicker";
 import { useI18n } from "@/lib/i18n/provider";
@@ -93,27 +92,6 @@ export default function Home() {
           </div>
         </div>
         <CityPicker tiles={tiles} />
-
-        <Separator className="my-4" />
-
-        <div
-          className="animate-fade-in-up flex items-center gap-3 text-xs text-muted-foreground"
-          style={{ animationDelay: `${200 + tiles.length * 45 + 40}ms` }}
-        >
-          <Link
-            href="/methodology"
-            className="underline underline-offset-2 hover:text-foreground transition-colors"
-          >
-            {t("nav_methodology")}
-          </Link>
-          <span className="text-muted-foreground/40">·</span>
-          <Link
-            href="/legal"
-            className="underline underline-offset-2 hover:text-foreground transition-colors"
-          >
-            {t("nav_legal")}
-          </Link>
-        </div>
       </section>
     </div>
   );
