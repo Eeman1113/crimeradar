@@ -3,6 +3,9 @@
 import { BarChart3, FileText, Globe, Menu, Scale } from "lucide-react";
 import Link from "next/link";
 import { useState } from "react";
+import { FontSizeToggle } from "@/components/FontSizeToggle";
+import LanguageSwitcher from "@/components/LanguageSwitcher";
+import { ThemeToggle } from "@/components/theme-toggle";
 import { Button } from "@/components/ui/button";
 import {
   Sheet,
@@ -66,6 +69,11 @@ export default function MobileNav() {
             {t("menu_legal_full")}
           </Link>
         </nav>
+        <div className="mt-4 mx-2 pt-4 border-t flex items-center gap-1">
+          <LanguageSwitcher />
+          <ThemeToggle />
+          <FontSizeToggle />
+        </div>
       </SheetContent>
     </Sheet>
   );

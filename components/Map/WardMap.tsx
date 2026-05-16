@@ -7,6 +7,7 @@ import maplibregl, {
   type MapMouseEvent,
 } from "maplibre-gl";
 import type { FeatureCollection } from "geojson";
+import Link from "next/link";
 import { useRouter, useSearchParams } from "next/navigation";
 import { useTheme } from "next-themes";
 import posthog from "posthog-js";
@@ -15,9 +16,23 @@ import { withBase } from "@/lib/site";
 import { wardSlug } from "@/lib/wards";
 import { getCity, type CityId } from "@/lib/cities";
 
+export type WardMapOverlay = {
+  id: string;
+  geojson: GeoJSON.FeatureCollection;
+  visible: boolean;
+  style?: Record<string, unknown>;
+};
+
 type Props = {
   city: CityId;
   wards: Ward[];
+  /**
+   * Optional extra MapLibre overlay layers (e.g. CCTV, patrol routes,
+   * helplines). Each entry becomes a `geojson` source + a layer keyed by
+   * `id`. Future-proofing stub — left undefined renders nothing extra and
+   * preserves prior behavior.
+   */
+  overlays?: WardMapOverlay[];
 };
 
 const STYLE_DARK = "https://tiles.openfreemap.org/styles/dark";
@@ -43,7 +58,7 @@ function shortMapLabel(name: string, fallbackId: string): string {
   return name;
 }
 
-export default function WardMap({ city, wards }: Props) {
+export default function WardMap({ city, wards, overlays }: Props) {
   const containerRef = useRef<HTMLDivElement | null>(null);
   const mapRef = useRef<MlMap | null>(null);
   const router = useRouter();
@@ -59,6 +74,9 @@ export default function WardMap({ city, wards }: Props) {
     : isNight
       ? "risk_night"
       : "risk";
+  const cityCfg = getCity(city);
+  const cityLabel = cityCfg?.name ?? city;
+  const nightQs = isNight ? "?night=1" : "";
 
   useEffect(() => {
     if (!containerRef.current || mapRef.current) return;
@@ -250,6 +268,28 @@ export default function WardMap({ city, wards }: Props) {
         popup.remove();
       });
 
+      // Future-proofing: render any caller-supplied overlay layers on top
+      // of the ward fills. Skipped silently when no overlays are passed.
+      if (overlays && overlays.length > 0) {
+        for (const ov of overlays) {
+          if (!ov.visible) continue;
+          const srcId = `overlay-${ov.id}`;
+          const layerId = `overlay-${ov.id}-layer`;
+          if (map.getSource(srcId) || map.getLayer(layerId)) continue;
+          map.addSource(srcId, { type: "geojson", data: ov.geojson });
+          map.addLayer({
+            id: layerId,
+            type: "fill",
+            source: srcId,
+            paint: {
+              "fill-color": "#0ea5e9",
+              "fill-opacity": 0.25,
+              ...(ov.style ?? {}),
+            },
+          });
+        }
+      }
+
       if (hasScores) {
         map.on(
           "click",
@@ -332,11 +372,44 @@ export default function WardMap({ city, wards }: Props) {
     }
   }, [riskKey]);
 
+  // Pick the same risk score the map paints with, so the sr-only list
+  // and the map stay in sync when ?night=1 / ?women=1 toggle.
+  const srRisk = (w: Ward): number =>
+    isWomen
+      ? isNight
+        ? w.riskScoreWomenNight
+        : w.riskScoreWomen
+      : isNight
+        ? w.riskScoreNight
+        : w.riskScore;
+
   return (
-    <div
-      ref={containerRef}
-      className="w-full h-full rounded-lg overflow-hidden border bg-card"
-      style={{ minHeight: 400 }}
-    />
+    <>
+      <div
+        ref={containerRef}
+        role="region"
+        aria-label={`Ward risk map for ${cityLabel}`}
+        className="w-full h-full rounded-lg overflow-hidden border bg-card"
+        style={{ minHeight: 400 }}
+      />
+      {/* Screen-reader equivalent of the map (WCAG 1.1.1 / 2.1.1).
+          Hidden visually but becomes visible & focusable on tab. */}
+      <ul aria-label={`Wards in ${cityLabel} with risk scores`} className="sr-only">
+        {wards.map((w) => {
+          const score = srRisk(w);
+          const scoreText = score >= 0 ? `${score} of 100` : "no data";
+          return (
+            <li key={w.id}>
+              <Link
+                href={`/${city}/ward/${wardSlug(w.id)}/${nightQs}` as never}
+                className="focus:not-sr-only focus:fixed focus:top-2 focus:left-2 focus:z-50 focus:bg-card focus:text-foreground focus:px-3 focus:py-2 focus:rounded focus:border focus:shadow-lg focus:outline-none focus:ring-2 focus:ring-ring"
+              >
+                {w.name} — risk {scoreText}
+              </Link>
+            </li>
+          );
+        })}
+      </ul>
+    </>
   );
 }

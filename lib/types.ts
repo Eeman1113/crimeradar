@@ -13,7 +13,7 @@ export const CRIME_CATEGORY_LABELS: Record<CrimeCategory, string> = {
   robbery: "Robbery",
   assault: "Assault",
   sexual_offence: "Sexual offences",
-  harassment: "Harassment / Eve-teasing",
+  harassment: "Sexual harassment",
   kidnapping: "Kidnapping",
   burglary: "Burglary",
   other: "Other",

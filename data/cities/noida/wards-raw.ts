@@ -86,7 +86,7 @@ export const WARDS_SEED: WardSeed[] = [
     },
     topConcerns: [
       "High footfall — pickpocketing & phone snatching at Atta Market and Sector 18",
-      "Harassment & eve-teasing reported around late-night nightlife",
+      "Sexual harassment reported around late-night nightlife",
       "Vehicle theft from market parking lots",
     ],
   },

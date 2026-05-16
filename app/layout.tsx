@@ -1,5 +1,11 @@
 import type { Metadata, Viewport } from "next";
-import { Poppins } from "next/font/google";
+import {
+  Poppins,
+  Noto_Sans_Devanagari,
+  Noto_Sans_Bengali,
+  Noto_Sans_Tamil,
+  Noto_Sans_Telugu,
+} from "next/font/google";
 import "./globals.css";
 import Disclaimer from "@/components/Disclaimer";
 import { I18nProvider } from "@/lib/i18n/provider";
@@ -10,7 +16,50 @@ const poppins = Poppins({
   variable: "--font-poppins",
   subsets: ["latin"],
   weight: ["300", "400", "500", "600", "700"],
+  display: "swap",
 });
+
+// Indic-script fallbacks so glyphs render correctly when translated UI text
+// contains Devanagari (Hindi/Marathi), Bengali, Tamil or Telugu. Poppins
+// covers Latin only, so without these the browser falls back to whatever
+// system font happens to be installed — which often looks awful (tofu,
+// inconsistent weights). We subset narrowly and only ship 3 weights per
+// script to keep the total payload small.
+const notoDevanagari = Noto_Sans_Devanagari({
+  variable: "--font-noto-devanagari",
+  subsets: ["devanagari"],
+  weight: ["400", "500", "700"],
+  display: "swap",
+});
+
+const notoBengali = Noto_Sans_Bengali({
+  variable: "--font-noto-bengali",
+  subsets: ["bengali"],
+  weight: ["400", "500", "700"],
+  display: "swap",
+});
+
+const notoTamil = Noto_Sans_Tamil({
+  variable: "--font-noto-tamil",
+  subsets: ["tamil"],
+  weight: ["400", "500", "700"],
+  display: "swap",
+});
+
+const notoTelugu = Noto_Sans_Telugu({
+  variable: "--font-noto-telugu",
+  subsets: ["telugu"],
+  weight: ["400", "500", "700"],
+  display: "swap",
+});
+
+const fontVariables = [
+  poppins.variable,
+  notoDevanagari.variable,
+  notoBengali.variable,
+  notoTamil.variable,
+  notoTelugu.variable,
+].join(" ");
 
 export const metadata: Metadata = {
   title: "CrimeRadar — Indian city night-safety estimates",
@@ -34,8 +83,14 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" suppressHydrationWarning className={poppins.variable}>
+    <html lang="en" suppressHydrationWarning className={fontVariables}>
       <body className="min-h-screen flex flex-col bg-background text-foreground antialiased">
+        <a
+          href="#main"
+          className="sr-only focus:not-sr-only focus:absolute focus:top-2 focus:left-2 focus:z-50 focus:bg-background focus:text-foreground focus:px-3 focus:py-2 focus:rounded focus:ring-2 focus:ring-primary"
+        >
+          Skip to main content
+        </a>
         <ThemeProvider
           attribute="class"
           defaultTheme="dark"
@@ -44,7 +99,7 @@ export default function RootLayout({
         >
           <I18nProvider>
             <HeaderBar />
-            <main className="flex-1 flex flex-col">{children}</main>
+            <main id="main" className="flex-1 flex flex-col">{children}</main>
             <Disclaimer />
           </I18nProvider>
         </ThemeProvider>

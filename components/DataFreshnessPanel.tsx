@@ -9,8 +9,22 @@ import {
 } from "@/components/ui/card";
 import { CITIES, CITY_IDS } from "@/lib/cities";
 import { listAbsconders } from "@/lib/absconders";
-import { historyMeta, monthlyStatsMeta } from "@/lib/wards";
+import { cityDataQuality, historyMeta, monthlyStatsMeta } from "@/lib/wards";
 import { useI18n } from "@/lib/i18n/provider";
+
+const QUALITY_TOOLTIPS: Record<string, string> = {
+  calibrated:
+    "City total matches the official source. Per-ward distribution is modelled, not measured.",
+  seeded:
+    "Per-ward values are illustrative estimates, not police data. Treat as exploratory.",
+  live: "Sourced directly from official monthly police releases.",
+  estimated: "Estimated from limited sources — see methodology.",
+};
+
+function qualityTitle(q: string | null | undefined) {
+  if (!q) return QUALITY_TOOLTIPS.estimated;
+  return QUALITY_TOOLTIPS[q] ?? QUALITY_TOOLTIPS.estimated;
+}
 
 function daysSince(iso: string | null | undefined) {
   if (!iso) return null;
@@ -43,6 +57,7 @@ export default function DataFreshnessPanel() {
       hist,
       absconderCount: absC,
       absconderSource: absScraped,
+      quality: cityDataQuality(id),
     };
   });
 
@@ -60,6 +75,7 @@ export default function DataFreshnessPanel() {
             <thead className="text-left">
               <tr className="border-b text-xs text-muted-foreground">
                 <th className="py-2 pr-2 font-medium">City</th>
+                <th className="py-2 pr-2 font-medium">Quality</th>
                 <th className="py-2 pr-2 font-medium">City stats</th>
                 <th className="py-2 pr-2 font-medium">History</th>
                 <th className="py-2 pr-2 font-medium">Absconders</th>
@@ -72,6 +88,23 @@ export default function DataFreshnessPanel() {
                 return (
                   <tr key={r.id} className="border-b last:border-b-0">
                     <td className="py-2 pr-2 font-medium">{r.name}</td>
+                    <td className="py-2 pr-2">
+                      {r.quality && r.quality !== "empty" ? (
+                        <span
+                          title={qualityTitle(r.quality)}
+                          className="inline-flex items-center rounded-md border px-1.5 py-0.5 text-xs font-medium text-muted-foreground cursor-help"
+                        >
+                          {r.quality}
+                        </span>
+                      ) : (
+                        <span
+                          title={qualityTitle("estimated")}
+                          className="inline-flex items-center text-muted-foreground cursor-help"
+                        >
+                          —
+                        </span>
+                      )}
+                    </td>
                     <td className="py-2 pr-2">
                       {r.stats?.source ? (
                         <span

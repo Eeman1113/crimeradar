@@ -92,11 +92,17 @@ export default function RankList({
                   className="flex items-center justify-between gap-3 rounded-md px-2 py-1.5 hover:bg-accent transition-colors"
                   onClick={() => posthog.capture("rank_list_ward_clicked", { city, ward_id: w.id, variant, risk_score: score })}
                 >
-                  <span className="flex flex-col min-w-0">
-                    <span className="text-sm font-medium truncate max-w-[180px]">
-                      {w.name.length > 18 ? w.name.slice(0, 18) + "…" : w.name}
+                  <span className="flex flex-col min-w-0 flex-1">
+                    <span
+                      className="text-sm font-medium truncate"
+                      title={w.name}
+                    >
+                      {w.name}
                     </span>
-                    <span className="text-xs text-muted-foreground truncate max-w-[180px]">
+                    <span
+                      className="text-xs text-muted-foreground truncate"
+                      title={w.neighborhoods}
+                    >
                       {w.neighborhoods}
                     </span>
                   </span>

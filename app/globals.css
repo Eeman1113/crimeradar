@@ -15,7 +15,7 @@
   --secondary: oklch(0.967 0.001 286.375);
   --secondary-foreground: oklch(0.21 0.006 285.885);
   --muted: oklch(0.967 0.001 286.375);
-  --muted-foreground: oklch(0.552 0.016 285.938);
+  --muted-foreground: oklch(0.45 0.016 285.938);
   --accent: oklch(0.967 0.001 286.375);
   --accent-foreground: oklch(0.21 0.006 285.885);
   --destructive: oklch(0.577 0.245 27.325);
@@ -147,4 +147,75 @@
   &::-webkit-scrollbar {
     display: none;
   }
+}
+
+/* Root font-size scaling for the FontSizeToggle component. Applied to
+   <html data-font-size="..."> so rem-based UI scales proportionally. */
+html[data-font-size="large"] { font-size: 115%; }
+html[data-font-size="xl"] { font-size: 125%; }
+
+/* ============================================================
+   Print stylesheet for PdfExportButton (Save as PDF)
+   ----------------------------------------------------------
+   Strategy:
+   - Tailwind handles `print:hidden` / `print:block` on UI chrome
+     (toggles, nav, modals) and the print-only brand footer.
+   - When `targetSelector` is supplied, the button marks the chosen
+     element with [data-pdf-export-target] and its ancestors with
+     [data-pdf-export-target-ancestor], then everything else is
+     visually suppressed via the rules below.
+   ============================================================ */
+@media print {
+  /* Always white background for printable layouts. */
+  html, body {
+    background: #ffffff !important;
+    color: #000000 !important;
+  }
+
+  /* Avoid awkward page breaks inside cards/charts. */
+  .print-avoid-break,
+  [data-pdf-print-footer],
+  figure,
+  table {
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+
+  /* Make links readable on paper. */
+  a[href] {
+    color: #000000 !important;
+    text-decoration: underline;
+  }
+
+  /* Scoped printing: when a target is set, hide siblings of the
+     target chain so only the target subtree (and its ancestor
+     containers) actually paint. */
+  body:has([data-pdf-export-target]) [data-pdf-export-target-ancestor]
+    > *:not([data-pdf-export-target]):not([data-pdf-export-target-ancestor]):not([data-pdf-print-footer]) {
+    display: none !important;
+  }
+}
+
+/* ============================================================
+   Indic-script font fallback cascade
+   ----------------------------------------------------------
+   Poppins (loaded as --font-poppins) only covers Latin/Latin-ext.
+   When the UI is translated into Hindi/Marathi (Devanagari), Bengali,
+   Tamil, or Telugu we need real script-specific fonts so glyphs
+   render correctly instead of falling back to whatever the OS has.
+
+   Browsers walk the font-family list per-glyph: Poppins is tried
+   first (so Latin keeps the brand look), then each Noto variant
+   for its native script, then system-ui / sans-serif as a safety
+   net. The Noto variables are injected on <html> in app/layout.tsx.
+   ============================================================ */
+:root {
+  --font-indic-stack: var(--font-poppins), var(--font-noto-devanagari),
+    var(--font-noto-bengali), var(--font-noto-tamil), var(--font-noto-telugu),
+    ui-sans-serif, system-ui, sans-serif;
+}
+
+html,
+body {
+  font-family: var(--font-indic-stack);
 }

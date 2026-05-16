@@ -62,7 +62,7 @@ export default function LocateAnywhereButton() {
       if (candidates.length === 0) {
         setStatus("error");
         setMessage(
-          "You're outside our 6 supported cities (Mumbai, Bangalore, Delhi, Chennai, Hyderabad, Kolkata). Pick a city below to browse it manually.",
+          `You're outside our ${CITY_IDS.length} covered cities. Pick a city below to browse it manually.`,
         );
         posthog.capture("locate_anywhere_error", { reason: "outside_coverage" });
         return;
@@ -70,31 +70,47 @@ export default function LocateAnywhereButton() {
 
       // For each candidate city, fetch its GeoJSON and check point-in-polygon.
       // Usually the bounding-box filter narrows it to one city already.
+      // If a fetch/parse fails for a smaller city whose ward data is patchy,
+      // we still want a useful fallback rather than a hard crash.
+      let nearestCityName: string | null = null;
       for (const city of candidates) {
         const cfg = CITIES[city];
-        const res = await fetch(withBase(cfg.geojson));
-        const fc = (await res.json()) as WardCollection;
-        const pt = { type: "Point" as const, coordinates: [lon, lat] };
-        for (const f of fc.features as Feature<
-          Polygon | MultiPolygon,
-          Record<string, unknown>
-        >[]) {
-          if (booleanPointInPolygon(pt, f)) {
-            const raw = f.properties?.[cfg.wardIdKey];
-            if (raw != null) {
-              posthog.capture("locate_anywhere_success", { city, ward_id: String(raw) });
-              router.push(
-                `/${city}/ward/${wardSlug(String(raw))}/` as never,
-              );
-              return;
+        if (!nearestCityName) nearestCityName = cfg.name;
+        try {
+          const res = await fetch(withBase(cfg.geojson));
+          if (!res.ok) throw new Error(`geojson_http_${res.status}`);
+          const fc = (await res.json()) as WardCollection;
+          const pt = { type: "Point" as const, coordinates: [lon, lat] };
+          for (const f of fc.features as Feature<
+            Polygon | MultiPolygon,
+            Record<string, unknown>
+          >[]) {
+            if (booleanPointInPolygon(pt, f)) {
+              const raw = f.properties?.[cfg.wardIdKey];
+              if (raw != null) {
+                posthog.capture("locate_anywhere_success", { city, ward_id: String(raw) });
+                router.push(
+                  `/${city}/ward/${wardSlug(String(raw))}/` as never,
+                );
+                return;
+              }
             }
           }
+        } catch (geoErr) {
+          posthog.capture("locate_anywhere_error", {
+            reason: "geojson_load_failed",
+            city,
+            detail: geoErr instanceof Error ? geoErr.message : "unknown",
+          });
+          // try next candidate
         }
       }
 
       setStatus("error");
       setMessage(
-        "Your bounding box matched a city but no specific ward — maybe the boundary data is slightly off at your spot. Pick a city below.",
+        nearestCityName
+          ? `You're near ${nearestCityName}, but ward-level data isn't ready for your exact spot yet. Open the ${nearestCityName} city page below.`
+          : "We matched a city by bounds but couldn't pinpoint a ward. Pick a city below.",
       );
       posthog.capture("locate_anywhere_error", { reason: "no_ward_match" });
     } catch (err) {

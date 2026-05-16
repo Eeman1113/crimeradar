@@ -1,6 +1,7 @@
 "use client";
 
 import Link from "next/link";
+import { FontSizeToggle } from "@/components/FontSizeToggle";
 import LanguageSwitcher from "@/components/LanguageSwitcher";
 import MobileNav from "@/components/MobileNav";
 import { ThemeToggle } from "@/components/theme-toggle";
@@ -51,8 +52,11 @@ export default function HeaderBar() {
               {t("nav_legal")}
             </Link>
           </nav>
-          <LanguageSwitcher />
-          <ThemeToggle />
+          <div className="hidden md:flex items-center gap-1">
+            <LanguageSwitcher />
+            <ThemeToggle />
+            <FontSizeToggle />
+          </div>
           <MobileNav />
         </div>
       </div>
