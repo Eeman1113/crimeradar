@@ -1,4 +1,4 @@
-import { ArrowRight, Newspaper } from "lucide-react";
+import { ArrowRight, Newspaper, Share2 } from "lucide-react";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { Suspense } from "react";
@@ -30,6 +30,11 @@ import {
   CardHeader,
   CardTitle,
 } from "@/components/ui/card";
+import {
+  Popover,
+  PopoverContent,
+  PopoverTrigger,
+} from "@/components/ui/popover";
 
 // Canonical production origin — see lib/site.ts comment. Used to build absolute
 // share URLs (social shares need a fully-qualified link).
@@ -124,18 +129,33 @@ export default async function WardPage({
                 <WardSourceDrawer cityId={city} wardId={ward.id} />
               </p>
             </div>
-            <div className="flex flex-col items-start sm:items-end gap-2">
-              <PdfExportButton />
+            <div className="flex items-center gap-1.5 print:hidden">
               <Suspense fallback={null}>
                 <NightToggle />
               </Suspense>
+              <Popover>
+                <PopoverTrigger asChild>
+                  <Button
+                    type="button"
+                    variant="ghost"
+                    size="icon"
+                    aria-label="Share"
+                    title="Share"
+                  >
+                    <Share2 className="h-4 w-4" />
+                  </Button>
+                </PopoverTrigger>
+                <PopoverContent className="w-64">
+                  <ShareCard
+                    title={shareTitle}
+                    summary={shareSummary}
+                    url={canonicalUrl}
+                  />
+                </PopoverContent>
+              </Popover>
+              <PdfExportButton />
             </div>
           </div>
-          <ShareCard
-            title={shareTitle}
-            summary={shareSummary}
-            url={canonicalUrl}
-          />
         </div>
       </section>
 
