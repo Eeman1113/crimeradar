@@ -49,3 +49,7 @@ next-env.d.ts
 CLAUDE.md
 .claude/
 .env.local
+
+# stray agent artifacts (e.g. wizard reports left behind)
+posthog-setup-report.md
+*-setup-report.md

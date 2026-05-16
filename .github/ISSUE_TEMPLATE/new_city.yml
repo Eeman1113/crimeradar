@@ -1,0 +1,64 @@
+name: New city request
+description: Propose adding a new city to CrimeRadar.
+title: "[New city] <city name>"
+labels: ["new-city", "data"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for proposing a new city. To get a city onboarded we need a ward-level GeoJSON and at least one official source for crime stats (NCRB, state police, RTI, etc.). Please fill out as much as you can — missing fields just mean we'll have to chase them down later.
+  - type: input
+    id: city
+    attributes:
+      label: City name
+      description: Common English name of the city (e.g. "Pune", "Bengaluru").
+      placeholder: Pune
+    validations:
+      required: true
+  - type: input
+    id: state
+    attributes:
+      label: State / UT
+      description: Indian state or union territory.
+      placeholder: Maharashtra
+    validations:
+      required: true
+  - type: input
+    id: ward_geojson
+    attributes:
+      label: Ward GeoJSON source URL
+      description: Link to the ward / zone boundary file (GeoJSON, Shapefile, KML, etc.). Municipal corporation portals, OpenCity, Datameet, and ESRI Hub are common sources.
+      placeholder: https://...
+    validations:
+      required: true
+  - type: input
+    id: crime_source
+    attributes:
+      label: NCRB / police crime data source URL
+      description: Link to the PDF, dashboard, or dataset with crime numbers for this city.
+      placeholder: https://ncrb.gov.in/...
+    validations:
+      required: true
+  - type: input
+    id: license
+    attributes:
+      label: License of source data
+      description: e.g. Government Open Data License - India (GODL), CC-BY, public domain, unclear.
+      placeholder: GODL-India
+    validations:
+      required: true
+  - type: input
+    id: ward_count
+    attributes:
+      label: Estimated number of wards / zones
+      description: Approximate is fine.
+      placeholder: "144"
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Additional notes
+      description: Anything else we should know — known quirks, ward renumbering, multiple competing boundary files, etc.
+    validations:
+      required: false

@@ -1,0 +1,57 @@
+name: Data correction
+description: Report a wrong number, ward label, or boundary on CrimeRadar.
+title: "[Data] <city> / <ward> — <short description>"
+labels: ["data-correction"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Help us fix the data. Please include a source we can verify — without that we usually can't act on the report.
+  - type: input
+    id: city
+    attributes:
+      label: City
+      description: Which city page is affected.
+      placeholder: Pune
+    validations:
+      required: true
+  - type: input
+    id: ward
+    attributes:
+      label: Ward / zone
+      description: Ward number or name as shown on the site. Use "all" if it applies to the whole city.
+      placeholder: "Ward 12 — Kothrud"
+    validations:
+      required: true
+  - type: textarea
+    id: whats_wrong
+    attributes:
+      label: What is wrong
+      description: Describe the incorrect value, label, or boundary. Include current value on the site if you can.
+      placeholder: |
+        Site shows 142 thefts in 2023, but the actual NCRB figure is 162.
+    validations:
+      required: true
+  - type: input
+    id: proof_url
+    attributes:
+      label: Source proving it is wrong
+      description: URL to a PDF, dashboard, news article, or official document supporting the correction.
+      placeholder: https://...
+    validations:
+      required: true
+  - type: input
+    id: correct_value
+    attributes:
+      label: Claimed correct value
+      description: What the value / label / boundary should be.
+      placeholder: "162"
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Additional notes
+      description: Anything else that would help us verify.
+    validations:
+      required: false

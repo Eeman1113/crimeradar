@@ -164,3 +164,7 @@ for the exact formula, every data source, and known limitations per
 city. See `/legal` for the naming policy (absconders are only on this
 site because the police themselves published the names), takedown
 contact, and DPDP notice.
+
+## License
+
+This project is licensed under the GNU Affero General Public License v3.0 — see [LICENSE](./LICENSE).
