@@ -11,7 +11,7 @@ import { withBase } from "@/lib/site";
 export default function HeaderBar() {
   const { t } = useI18n();
   return (
-    <header className="sticky top-0 z-30 border-b bg-background/80 backdrop-blur supports-[backdrop-filter]:bg-background/70 animate-fade-in-down">
+    <header className="sticky top-0 z-30 border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/85 animate-fade-in-down">
       <div className="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between gap-2">
         <Link
           href="/"

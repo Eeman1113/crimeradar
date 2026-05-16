@@ -95,18 +95,22 @@ export default function LocateMeButton({ city }: { city: CityId }) {
   }
 
   return (
-    <div className="flex flex-col items-start gap-2 w-full sm:w-auto">
+    <div className="flex flex-col items-start gap-2 shrink-0">
       <Button
         onClick={locate}
         disabled={status === "locating"}
-        className="gap-2 w-full sm:w-auto h-10 sm:h-9"
+        aria-label={status === "locating" ? t("city_locating") : t("city_use_location")}
+        title={t("city_use_location")}
+        className="gap-2 h-10 sm:h-9 px-3 sm:px-4"
       >
         {status === "locating" ? (
           <LoaderCircle className="h-4 w-4 animate-spin" />
         ) : (
           <MapPin className="h-4 w-4" />
         )}
-        {status === "locating" ? t("city_locating") : t("city_use_location")}
+        <span className="hidden sm:inline">
+          {status === "locating" ? t("city_locating") : t("city_use_location")}
+        </span>
       </Button>
       {message ? (
         <p className="text-xs text-amber-600 dark:text-amber-400 max-w-xs">
