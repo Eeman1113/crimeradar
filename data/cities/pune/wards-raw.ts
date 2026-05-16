@@ -43,7 +43,7 @@ export const WARDS_SEED: WardSeed[] = [
     id: "AUNDH",
     name: "Aundh - Baner",
     neighborhoods: "Aundh, Baner, Balewadi, Pashan, Bopodi, Sutarwadi",
-    population: 181124_000,
+    population: 181_124,
     breakdown: {
       theft: 400,
       harassment: 82,
@@ -63,7 +63,7 @@ export const WARDS_SEED: WardSeed[] = [
     id: "GHOLE_ROAD",
     name: "Ghole Road",
     neighborhoods: "Shivajinagar, Deccan Gymkhana, Model Colony, Gokhale Nagar, Senapati Bapat Road",
-    population: 171678_000,
+    population: 171_678,
     breakdown: {
       theft: 513,
       harassment: 129,
@@ -83,7 +83,7 @@ export const WARDS_SEED: WardSeed[] = [
     id: "KOTHRUD",
     name: "Kothrud - Karve Road",
     neighborhoods: "Kothrud, Bawdhan, Erandwane (west), Mayur Colony, Bhusari Colony",
-    population: 209331_000,
+    population: 209_331,
     breakdown: {
       theft: 319,
       harassment: 75,
@@ -103,7 +103,7 @@ export const WARDS_SEED: WardSeed[] = [
     id: "WARJE_KARVENAGAR",
     name: "Warje - Karvenagar",
     neighborhoods: "Warje, Karvenagar, Erandwane, Shivane, Dahanukar Colony",
-    population: 233399_000,
+    population: 233_399,
     breakdown: {
       theft: 381,
       harassment: 90,
@@ -123,7 +123,7 @@ export const WARDS_SEED: WardSeed[] = [
     id: "DHOLE_PATIL",
     name: "Dhole Patil Road",
     neighborhoods: "Koregaon Park, Camp, Boat Club, Bund Garden, Mundhwa, Magarpatta (west fringe)",
-    population: 155413_000,
+    population: 155_413,
     breakdown: {
       theft: 698,
       harassment: 195,
@@ -144,7 +144,7 @@ export const WARDS_SEED: WardSeed[] = [
     id: "YERAWDA_SANGAMWADI",
     name: "Yerawda - Sangamwadi",
     neighborhoods: "Yerwada, Vishrantwadi, Lohegaon, Kalas, Dhanori, Sangamwadi",
-    population: 269642_000,
+    population: 269_642,
     breakdown: {
       theft: 572,
       harassment: 143,
@@ -164,7 +164,7 @@ export const WARDS_SEED: WardSeed[] = [
     id: "NAGAR_ROAD",
     name: "Nagar Road",
     neighborhoods: "Kharadi, Viman Nagar, Wadgaon Sheri, Chandan Nagar, Kalyani Nagar",
-    population: 239564_000,
+    population: 239_564,
     breakdown: {
       theft: 688,
       harassment: 159,
@@ -184,7 +184,7 @@ export const WARDS_SEED: WardSeed[] = [
     id: "KASBA_VISHRAMBAUG",
     name: "Kasba - Vishrambaugwada",
     neighborhoods: "Shaniwar Peth, Kasba Peth, Shukrawar Peth, Sadashiv Peth (north), Tulshibaug",
-    population: 178484_000,
+    population: 178_484,
     breakdown: {
       theft: 868,
       harassment: 194,
@@ -197,14 +197,14 @@ export const WARDS_SEED: WardSeed[] = [
     },
     topConcerns: [
       "Pickpocketing in crowded peth markets (Tulshibaug, Mandai, Laxmi Road)",
-      "Eve-teasing reported in narrow market lanes after dusk",
+      "Sexual harassment reported in narrow market lanes after dusk",
     ],
   },
   {
     id: "TILAK_ROAD",
     name: "Tilak Road",
     neighborhoods: "Sadashiv Peth, Narayan Peth, Sinhagad Road, Vadgaon, Dhayari, Dattawadi",
-    population: 242290_000,
+    population: 242_290,
     breakdown: {
       theft: 471,
       harassment: 117,
@@ -224,7 +224,7 @@ export const WARDS_SEED: WardSeed[] = [
     id: "SAHAKARNAGAR",
     name: "Sahakar Nagar",
     neighborhoods: "Sahakar Nagar, Parvati, Sarasbaug, Swargate, Mukundnagar, Maharshi Nagar",
-    population: 205441_000,
+    population: 205_441,
     breakdown: {
       theft: 407,
       harassment: 94,
@@ -244,7 +244,7 @@ export const WARDS_SEED: WardSeed[] = [
     id: "BIBVEWADI",
     name: "Bibvewadi",
     neighborhoods: "Bibvewadi, Market Yard, Lullanagar, Salisbury Park, Indira Nagar, Chintamani Nagar",
-    population: 291446_000,
+    population: 291_446,
     breakdown: {
       theft: 403,
       harassment: 96,
@@ -264,7 +264,7 @@ export const WARDS_SEED: WardSeed[] = [
     id: "BHAVANI_PETH",
     name: "Bhavani Peth",
     neighborhoods: "Bhavani Peth, Nana Peth, Ganesh Peth, Rasta Peth, Lohiya Nagar, Timber Market",
-    population: 192932_000,
+    population: 192_932,
     breakdown: {
       theft: 940,
       harassment: 212,
@@ -285,7 +285,7 @@ export const WARDS_SEED: WardSeed[] = [
     id: "HADAPSAR",
     name: "Hadapsar",
     neighborhoods: "Hadapsar, Magarpatta, Mundhwa, Sasane Nagar, Gondhalenagar, Satavwadi",
-    population: 324751_000,
+    population: 324_751,
     breakdown: {
       theft: 402,
       harassment: 93,
@@ -305,7 +305,7 @@ export const WARDS_SEED: WardSeed[] = [
     id: "DHANKAWADI",
     name: "Dhankawadi",
     neighborhoods: "Dhankawadi, Katraj, Ambegaon Budruk, Ambegaon Khurd, Balaji Nagar, Bharati Vidyapeeth",
-    population: 236648_000,
+    population: 236_648,
     breakdown: {
       theft: 421,
       harassment: 110,
@@ -325,7 +325,7 @@ export const WARDS_SEED: WardSeed[] = [
     id: "KONDHWA_WANAVDI",
     name: "Kondhwa - Wanavadi",
     neighborhoods: "Kondhwa Budruk, Kondhwa Khurd, Wanowrie, NIBM, Undri, Mohammadwadi, Salunkhe Vihar",
-    population: 185905_000,
+    population: 185_905,
     breakdown: {
       theft: 537,
       harassment: 134,

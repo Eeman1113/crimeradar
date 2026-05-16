@@ -7,20 +7,16 @@
 // Run: node scripts/ingest_mumbai_history.mjs
 //   first run downloads everything (~100 PDFs, slow). Subsequent runs are
 //   incremental: only new (year, month) entries are fetched.
+//
+// Pilot for lib/ingest/* — uses the shared write/dedupe helpers so future
+// scripts can be migrated incrementally. See scripts/README.md.
 
-import fs from "node:fs/promises";
-import path from "node:path";
 import { PDFParse } from "pdf-parse";
+import { appendHistory, loadCachedHistory } from "../lib/ingest/index.mjs";
 
 const INDEX_URL = "https://mumbaipolice.gov.in/CrimeStatistics";
 const UA = "CrimeRadarBot/0.1 contact: legal@crimeradar.example";
-const DEST = path.join(
-  process.cwd(),
-  "data",
-  "cities",
-  "mumbai",
-  "monthly_stats_history.json",
-);
+const CITY_ID = "mumbai";
 
 // ─── parser, copied from ingest_monthly_stats.mjs and trimmed ───
 const ANCHOR_MAP = [
@@ -156,24 +152,67 @@ async function fetchBytes(url) {
   return Buffer.from(await res.arrayBuffer());
 }
 
-async function loadExisting() {
-  try {
-    const buf = await fs.readFile(DEST, "utf8");
-    return JSON.parse(buf);
-  } catch {
-    return { scrapedAt: null, months: [] };
-  }
-}
-
 function sleep(ms) {
   return new Promise((r) => setTimeout(r, ms));
 }
 
-async function main() {
-  const existing = await loadExisting();
-  const seen = new Map(
-    existing.months.map((m) => [`${m.year}-${m.month}`, m]),
+// Drops any newly-parsed month whose YTD regresses below the previous
+// in-year month for ANY category. YTD is cumulative year-to-date, so a
+// month-over-month drop within a year is a parsing failure (e.g. the wrong
+// column was read, or an anchor matched the wrong row). Existing months are
+// not retroactively removed — they are treated as the trusted baseline so we
+// only reject NEW writes. Logs a console.warn for each rejection.
+function filterYtdRegressions(seen, freshKeys) {
+  const sorted = [...seen.values()].sort(
+    (a, b) => a.year * 12 + a.month - (b.year * 12 + b.month),
   );
+  const lastByYear = new Map();
+  const rejected = [];
+  for (const entry of sorted) {
+    const prev = lastByYear.get(entry.year);
+    const key = `${entry.year}-${entry.month}`;
+    const isFresh = freshKeys.has(key);
+    let bad = false;
+    if (prev && entry.ytd && prev.ytd) {
+      for (const cat of Object.keys(entry.ytd)) {
+        const p = prev.ytd[cat];
+        const c = entry.ytd[cat];
+        if (
+          typeof p === "number" &&
+          typeof c === "number" &&
+          c < p
+        ) {
+          if (isFresh) {
+            console.warn(
+              `  ! YTD regression mumbai ${entry.year}-${String(entry.month).padStart(2, "0")} cat=${cat} prev(${prev.month})=${p} cur=${c} — skipping write`,
+            );
+            bad = true;
+            break;
+          } else {
+            // Pre-existing anomaly — leave it, just note it.
+            console.warn(
+              `  ~ existing YTD regression mumbai ${entry.year}-${String(entry.month).padStart(2, "0")} cat=${cat} prev(${prev.month})=${p} cur=${c} (not rewritten)`,
+            );
+          }
+        }
+      }
+    }
+    if (bad) {
+      rejected.push(key);
+      continue;
+    }
+    lastByYear.set(entry.year, entry);
+  }
+  for (const key of rejected) seen.delete(key);
+  return rejected.length;
+}
+
+async function main() {
+  const existing = await loadCachedHistory(CITY_ID);
+  const seen = new Map(
+    (existing.months ?? []).map((m) => [`${m.year}-${m.month}`, m]),
+  );
+  const preexistingKeys = new Set(seen.keys());
 
   console.log(`existing months: ${seen.size}`);
   const indexHtml = await fetchText(INDEX_URL);
@@ -224,24 +263,28 @@ async function main() {
     }
   }
 
-  // sort ascending by (year, month)
-  const months = [...seen.values()].sort(
-    (a, b) => a.year * 12 + a.month - (b.year * 12 + b.month),
+  // Validate: reject any freshly-parsed month whose YTD regressed vs the
+  // prior in-year month. Pre-existing entries are kept (separate cleanup
+  // task); we only refuse to write NEW garbage.
+  const freshKeys = new Set(
+    [...seen.keys()].filter((k) => !preexistingKeys.has(k)),
   );
+  const dropped = filterYtdRegressions(seen, freshKeys);
+  if (dropped) console.warn(`  dropped ${dropped} month(s) for YTD regression`);
 
-  const out = {
+  // Hand the merged set to the shared helper. We pass ALL months (existing +
+  // fresh) so dedupe/sort/write is uniform regardless of whether this run
+  // added anything — appendHistory is idempotent on (year, month, window).
+  const months = [...seen.values()];
+  const result = await appendHistory(CITY_ID, {
     source: INDEX_URL,
     scrapedAt: new Date().toISOString(),
-    count: months.length,
     months,
     notes:
       "Time-series of Mumbai Police monthly crime stats. `currentMonth` = the month's own registered counts (block[0]); `ytd` = year-to-date registered through this month (block[4]). Backfilled from /files/Cstat/<id>.pdf, one entry per (year, month). Categories normalised to internal taxonomy.",
-  };
-
-  await fs.mkdir(path.dirname(DEST), { recursive: true });
-  await fs.writeFile(DEST, JSON.stringify(out, null, 2));
+  });
   console.log(
-    `wrote ${months.length} months → ${DEST} (success=${success}, failed=${failed})`,
+    `wrote ${result.count} months → ${result.dest} (success=${success}, failed=${failed})`,
   );
 }
 

@@ -14,7 +14,8 @@ export const WARDS_SEED: WardSeed[] = [
     id: "A",
     name: "A",
     neighborhoods: "Colaba, Fort, Cuffe Parade, Marine Drive (south)",
-    population: 185014_000,
+    // Census 2011
+    population: 185_014,
     breakdown: {
       theft: 180,
       harassment: 38,
@@ -35,7 +36,7 @@ export const WARDS_SEED: WardSeed[] = [
     id: "B",
     name: "B",
     neighborhoods: "Dongri, Sandhurst Road, Mohammed Ali Road",
-    population: 127290_000,
+    population: 127_290,
     breakdown: {
       theft: 95,
       harassment: 28,
@@ -55,7 +56,7 @@ export const WARDS_SEED: WardSeed[] = [
     id: "C",
     name: "C",
     neighborhoods: "Marine Lines, Charni Road, Kalbadevi, Bhuleshwar",
-    population: 166161_000,
+    population: 166_161,
     breakdown: {
       theft: 130,
       harassment: 32,
@@ -75,7 +76,7 @@ export const WARDS_SEED: WardSeed[] = [
     id: "D",
     name: "D",
     neighborhoods: "Malabar Hill, Tardeo, Grant Road, Walkeshwar",
-    population: 346866_000,
+    population: 346_866,
     breakdown: {
       theft: 230,
       harassment: 60,
@@ -95,7 +96,7 @@ export const WARDS_SEED: WardSeed[] = [
     id: "E",
     name: "E",
     neighborhoods: "Byculla, Mazgaon, Reay Road",
-    population: 393286_000,
+    population: 393_286,
     breakdown: {
       theft: 290,
       harassment: 105,
@@ -115,7 +116,7 @@ export const WARDS_SEED: WardSeed[] = [
     id: "F/S",
     name: "F/S",
     neighborhoods: "Parel, Lower Parel, Sewri",
-    population: 360972_000,
+    population: 360_972,
     breakdown: {
       theft: 240,
       harassment: 75,
@@ -135,7 +136,7 @@ export const WARDS_SEED: WardSeed[] = [
     id: "F/N",
     name: "F/N",
     neighborhoods: "Matunga, Sion, Wadala",
-    population: 529034_000,
+    population: 529_034,
     breakdown: {
       theft: 330,
       harassment: 120,
@@ -155,7 +156,7 @@ export const WARDS_SEED: WardSeed[] = [
     id: "G/S",
     name: "G/S",
     neighborhoods: "Worli, Prabhadevi, Lower Parel (north)",
-    population: 599039_000,
+    population: 599_039,
     breakdown: {
       theft: 220,
       harassment: 70,
@@ -175,7 +176,7 @@ export const WARDS_SEED: WardSeed[] = [
     id: "G/N",
     name: "G/N",
     neighborhoods: "Dadar, Mahim, Dharavi (part)",
-    population: 377749_000,
+    population: 377_749,
     breakdown: {
       theft: 420,
       harassment: 165,
@@ -195,7 +196,7 @@ export const WARDS_SEED: WardSeed[] = [
     id: "H/E",
     name: "H/E",
     neighborhoods: "Bandra East, Khar East, Santacruz East",
-    population: 307581_000,
+    population: 307_581,
     breakdown: {
       theft: 360,
       harassment: 130,
@@ -215,7 +216,7 @@ export const WARDS_SEED: WardSeed[] = [
     id: "H/W",
     name: "H/W",
     neighborhoods: "Bandra West, Khar West, Santacruz West",
-    population: 557239_000,
+    population: 557_239,
     breakdown: {
       theft: 290,
       harassment: 95,
@@ -235,7 +236,7 @@ export const WARDS_SEED: WardSeed[] = [
     id: "K/E",
     name: "K/E",
     neighborhoods: "Andheri East, Jogeshwari East, Vile Parle East",
-    population: 823885_000,
+    population: 823_885,
     breakdown: {
       theft: 540,
       harassment: 180,
@@ -255,7 +256,7 @@ export const WARDS_SEED: WardSeed[] = [
     id: "K/W",
     name: "K/W",
     neighborhoods: "Andheri West, Jogeshwari West, Vile Parle West",
-    population: 748688_000,
+    population: 748_688,
     breakdown: {
       theft: 490,
       harassment: 155,
@@ -275,7 +276,7 @@ export const WARDS_SEED: WardSeed[] = [
     id: "L",
     name: "L",
     neighborhoods: "Kurla, Saki Naka (part)",
-    population: 902225_000,
+    population: 902_225,
     breakdown: {
       theft: 610,
       harassment: 215,
@@ -295,7 +296,7 @@ export const WARDS_SEED: WardSeed[] = [
     id: "M/E",
     name: "M/E",
     neighborhoods: "Govandi, Mankhurd, Shivaji Nagar, Deonar",
-    population: 807720_000,
+    population: 807_720,
     breakdown: {
       theft: 575,
       harassment: 230,
@@ -315,7 +316,7 @@ export const WARDS_SEED: WardSeed[] = [
     id: "M/W",
     name: "M/W",
     neighborhoods: "Chembur, Tilak Nagar, Vashi Naka",
-    population: 411893_000,
+    population: 411_893,
     breakdown: {
       theft: 295,
       harassment: 105,
@@ -335,7 +336,7 @@ export const WARDS_SEED: WardSeed[] = [
     id: "N",
     name: "N",
     neighborhoods: "Ghatkopar, Vikhroli, Asalpha",
-    population: 622853_000,
+    population: 622_853,
     breakdown: {
       theft: 430,
       harassment: 150,
@@ -355,7 +356,7 @@ export const WARDS_SEED: WardSeed[] = [
     id: "P/N",
     name: "P/N",
     neighborhoods: "Malad (East & West), Marve",
-    population: 941366_000,
+    population: 941_366,
     breakdown: {
       theft: 600,
       harassment: 175,
@@ -375,7 +376,7 @@ export const WARDS_SEED: WardSeed[] = [
     id: "P/S",
     name: "P/S",
     neighborhoods: "Goregaon (East & West), Aarey",
-    population: 463507_000,
+    population: 463_507,
     breakdown: {
       theft: 320,
       harassment: 100,
@@ -395,7 +396,7 @@ export const WARDS_SEED: WardSeed[] = [
     id: "R/C",
     name: "R/C",
     neighborhoods: "Borivali (East & West)",
-    population: 562162_000,
+    population: 562_162,
     breakdown: {
       theft: 360,
       harassment: 105,
@@ -415,7 +416,7 @@ export const WARDS_SEED: WardSeed[] = [
     id: "R/N",
     name: "R/N",
     neighborhoods: "Dahisar (East & West)",
-    population: 431368_000,
+    population: 431_368,
     breakdown: {
       theft: 280,
       harassment: 88,
@@ -435,7 +436,7 @@ export const WARDS_SEED: WardSeed[] = [
     id: "R/S",
     name: "R/S",
     neighborhoods: "Kandivali (East & West), Charkop",
-    population: 691229_000,
+    population: 691_229,
     breakdown: {
       theft: 440,
       harassment: 135,
@@ -455,7 +456,7 @@ export const WARDS_SEED: WardSeed[] = [
     id: "S",
     name: "S",
     neighborhoods: "Bhandup, Powai, Vikhroli (part)",
-    population: 743783_000,
+    population: 743_783,
     breakdown: {
       theft: 460,
       harassment: 140,
@@ -475,7 +476,7 @@ export const WARDS_SEED: WardSeed[] = [
     id: "T",
     name: "T",
     neighborhoods: "Mulund (East & West)",
-    population: 341463_000,
+    population: 341_463,
     breakdown: {
       theft: 215,
       harassment: 68,
