@@ -9,6 +9,45 @@ list with attribution.
 
 Live at <https://eeman1113.github.io/crimeradar/>.
 
+![Mumbai ward heatmap with city-aggregate stats panel](screenshots/01-city-overview-mumbai-dark.png)
+
+## Screenshots
+
+### Ward heatmap with night-time multiplier
+Per-area risk shaded against a real city-aggregate total, with night-mode and women's-safety toggles, a "use my location" jump, and a side panel listing the highest-risk wards.
+
+<table>
+  <tr>
+    <td width="50%"><img src="screenshots/01-city-overview-mumbai-dark.png" alt="Mumbai map (dark)"/><br/><sub><b>Mumbai</b> · dark theme · BMC 24 wards · calibrated to YTD Jan–Mar 2026</sub></td>
+    <td width="50%"><img src="screenshots/07-city-overview-gurugram-light.png" alt="Gurugram map (light)"/><br/><sub><b>Gurugram</b> · light theme · MCG ward heatmap · 2022 annual</sub></td>
+  </tr>
+</table>
+
+### Ward detail
+Drill into any ward for the YTD category breakdown, the per-1,000-resident rate, and recent crime-related news headlines (last 18 months, Google News RSS, keyword-filtered).
+
+![Ward T (Mulund) detail page with category breakdown chart and four recent crime headlines](screenshots/02-ward-detail-mulund.png)
+
+### Compare cities
+All 43 cities side-by-side. Bar chart normalises to **cases per 100,000 residents** so big metros don't drown out smaller capitals; the radar chart shows the **shape** of crime (theft-heavy vs assault-heavy vs sexual-offence-heavy) regardless of volume.
+
+<table>
+  <tr>
+    <td width="50%"><img src="screenshots/03-compare-per-100k.png" alt="Compare: per-100k bars"/><br/><sub>Per-100k rates across all 43 cities, each year-window stamped</sub></td>
+    <td width="50%"><img src="screenshots/04-compare-crime-mix.png" alt="Compare: crime-mix radar"/><br/><sub>Crime-mix radar — each category normalised to the highest city = 100</sub></td>
+  </tr>
+</table>
+
+### 13 languages
+City names, UI strings, and number formats localise to any of 13 Indian languages. City names come from Wikipedia interlanguage links; UI from a hand-maintained dictionary.
+
+<table>
+  <tr>
+    <td width="50%"><img src="screenshots/05-language-picker.png" alt="Language picker"/><br/><sub>Language picker — English + 12 Indic locales</sub></td>
+    <td width="50%"><img src="screenshots/06-home-bengali.png" alt="Home page in Bengali"/><br/><sub>Home page in বাংলা — city tiles re-render in script</sub></td>
+  </tr>
+</table>
+
 ## Data sources
 
 - **Ward boundaries** — sourced per-city from datameet / datta07 /
