@@ -48,7 +48,7 @@ export default function MethodologyPage() {
         flag on each city&apos;s page tells you where it sits.
       </p>
 
-      <div className="grid grid-cols-3 gap-2 sm:gap-3 mt-4">
+      <div className="grid grid-cols-1 sm:grid-cols-3 gap-2 sm:gap-3 mt-4">
         <div className="rounded-lg border bg-card p-3 sm:p-4 flex flex-col gap-1">
           <div className="flex items-center gap-1.5 text-xs text-muted-foreground">
             <Database className="h-3.5 w-3.5" />

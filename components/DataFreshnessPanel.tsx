@@ -70,7 +70,76 @@ export default function DataFreshnessPanel() {
         </CardTitle>
       </CardHeader>
       <CardContent>
-        <div className="overflow-x-auto">
+        {/* Mobile: stacked card list. Easier to scan than a 5-col table. */}
+        <ul className="flex flex-col gap-3 md:hidden">
+          {rows.map((r) => {
+            const statsDays = daysSince(r.stats?.scrapedAt ?? null);
+            const histDays = daysSince(r.hist?.scrapedAt ?? null);
+            return (
+              <li
+                key={r.id}
+                className="rounded-md border bg-card/50 p-3 text-sm flex flex-col gap-1.5"
+              >
+                <div className="flex items-center justify-between gap-2">
+                  <span className="font-medium truncate">{r.name}</span>
+                  {r.quality && r.quality !== "empty" ? (
+                    <span
+                      title={qualityTitle(r.quality)}
+                      className="inline-flex items-center rounded-md border px-1.5 py-0.5 text-xs font-medium text-muted-foreground cursor-help shrink-0"
+                    >
+                      {r.quality}
+                    </span>
+                  ) : null}
+                </div>
+                <dl className="grid grid-cols-[auto_1fr] gap-x-3 gap-y-1 text-xs">
+                  <dt className="text-muted-foreground">City stats</dt>
+                  <dd>
+                    {r.stats?.source ? (
+                      <a
+                        href={r.stats.source}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className={`inline-flex items-center gap-1 hover:underline ${freshness(statsDays)}`}
+                      >
+                        <FileText className="h-3 w-3" />
+                        {statsDays != null ? `${statsDays}d old` : "unknown"}
+                      </a>
+                    ) : (
+                      <span className="text-muted-foreground">—</span>
+                    )}
+                  </dd>
+                  <dt className="text-muted-foreground">History</dt>
+                  <dd>
+                    {r.hist.count > 0 ? (
+                      <span className={freshness(histDays)}>
+                        {r.hist.count} months
+                        {histDays != null ? (
+                          <span className="text-muted-foreground">
+                            {" · "}
+                            {histDays}d old
+                          </span>
+                        ) : null}
+                      </span>
+                    ) : (
+                      <span className="text-muted-foreground">—</span>
+                    )}
+                  </dd>
+                  <dt className="text-muted-foreground">Absconders</dt>
+                  <dd>
+                    {r.absconderCount > 0 ? (
+                      <span>{r.absconderCount} names</span>
+                    ) : (
+                      <span className="text-muted-foreground">—</span>
+                    )}
+                  </dd>
+                </dl>
+              </li>
+            );
+          })}
+        </ul>
+
+        {/* md+: full table */}
+        <div className="hidden md:block overflow-x-auto">
           <table className="w-full text-sm">
             <thead className="text-left">
               <tr className="border-b text-xs text-muted-foreground">
