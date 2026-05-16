@@ -104,7 +104,7 @@ export default async function CityHome({
                 <span>{wards.length} {cfg.unit}s</span>
               </p>
             </div>
-            <div className="flex items-center gap-1.5 print:hidden">
+            <div className="flex flex-wrap items-center gap-1.5 print:hidden sm:justify-end">
               <Suspense fallback={null}>
                 <WomenToggle />
               </Suspense>
