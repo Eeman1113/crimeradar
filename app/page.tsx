@@ -43,15 +43,12 @@ export default function Home() {
     <div className="flex-1">
       <section className="max-w-5xl mx-auto px-4 pt-10 pb-8 sm:pt-16 flex flex-col gap-6">
         <div
-          className="flex flex-col gap-3 max-w-2xl animate-fade-in-up"
+          className="flex flex-col gap-3 max-w-3xl animate-fade-in-up"
           style={{ animationDelay: "0ms" }}
         >
-          <h1 className="text-4xl sm:text-5xl font-semibold tracking-tight">
-            CrimeRadar
-          </h1>
-          <p className="text-base sm:text-lg text-muted-foreground leading-relaxed">
+          <h1 className="text-3xl sm:text-4xl font-semibold tracking-tight leading-tight">
             {t("home_subtitle")}
-          </p>
+          </h1>
         </div>
 
         <Card
