@@ -82,7 +82,7 @@ export default async function CityHome({
   const shareSummary = `Ward-level risk estimates for ${cfg.name} — ${wards.length} ${cfg.unit}s, data quality: ${quality}.`;
 
   return (
-    <div className="flex-1 flex flex-col">
+    <div className="flex-1 flex flex-col overflow-x-hidden">
       <section className="animate-fade-in-up">
         <div className="max-w-6xl mx-auto px-4 pt-6 sm:pt-8 pb-4 flex flex-col gap-4">
           <Link
@@ -147,13 +147,13 @@ export default async function CityHome({
       </section>
 
       <section
-        className="flex-1 max-w-6xl w-full mx-auto px-4 py-4 sm:py-6 grid lg:grid-cols-[1fr_320px] gap-4 lg:gap-6 animate-fade-in-up"
+        className="flex-1 max-w-6xl w-full mx-auto px-4 py-4 sm:py-6 grid grid-cols-1 lg:grid-cols-[minmax(0,1fr)_320px] gap-4 lg:gap-6 animate-fade-in-up"
         style={{ animationDelay: "80ms" }}
       >
-        <div className="flex flex-col gap-2">
+        <div className="flex flex-col gap-2 min-w-0">
           <CityMapWithLayers city={city} wards={wards} />
         </div>
-        <aside className="flex flex-col gap-4 lg:max-h-[calc(65vh+2rem)] lg:overflow-y-auto scrollbar-hide">
+        <aside className="flex flex-col gap-4 min-w-0 lg:max-h-[calc(65vh+2rem)] lg:overflow-y-auto scrollbar-hide">
           <CityStatsCard city={city} />
           {topRiskWard ? (
             <div className="flex items-center justify-end -mt-1">

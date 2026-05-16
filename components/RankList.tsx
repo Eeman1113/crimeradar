@@ -89,7 +89,7 @@ export default function RankList({
               <li key={w.id}>
                 <Link
                   href={`/${city}/ward/${wardSlug(w.id)}/${qs}`}
-                  className="flex items-center justify-between gap-3 rounded-md px-2 py-1.5 hover:bg-accent transition-colors"
+                  className="flex items-center justify-between gap-3 rounded-md px-2 py-1.5 hover:bg-accent transition-colors min-w-0"
                   onClick={() => posthog.capture("rank_list_ward_clicked", { city, ward_id: w.id, variant, risk_score: score })}
                 >
                   <span className="flex flex-col min-w-0 flex-1">
