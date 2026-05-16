@@ -17,7 +17,9 @@ concurrency:
 jobs:
   refresh:
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    # 43 cities × ~70 wards avg × ~1s (HTTP + sleep) ≈ 50 min uncached;
+    # subsequent weekly runs are cache-warm and drop to ~10-15 min.
+    timeout-minutes: 90
     steps:
       - uses: actions/checkout@v4
 
