@@ -4,27 +4,17 @@
 // city page. The city page is a Server Component (generateStaticParams +
 // async params), so anything that needs React state or function props has to
 // live in a "use client" boundary.
-//
-// Two wrappers are exported here to avoid creating multiple new files:
-//   - CityMapWithLayers: owns LayerToggle <-> WardMap overlay state
-//   - CityAddressSearch: owns AddressSearch -> findWardAtLatLng -> router push
 
 import { AlertCircle, MapPin } from "lucide-react";
 import { useRouter } from "next/navigation";
-import { Suspense, useCallback, useEffect, useState } from "react";
-import LayerToggle from "@/components/LayerToggle";
-import WardMap, { type WardMapOverlay } from "@/components/Map/WardMap";
+import { Suspense, useCallback, useState } from "react";
+import WardMap from "@/components/Map/WardMap";
 import AddressSearch, {
   findWardAtLatLng,
   type AddressSearchHit,
   type WardFeatureCollection,
 } from "@/components/AddressSearch";
 import { getCity, type CityId } from "@/lib/cities";
-import {
-  loadLayersForCity,
-  type LayerKind,
-  type OverlayLayer,
-} from "@/lib/layers";
 import { withBase } from "@/lib/site";
 import type { Ward } from "@/lib/types";
 import { wardSlug } from "@/lib/wards";
@@ -35,51 +25,12 @@ type MapProps = {
 };
 
 export default function CityMapWithLayers({ city, wards }: MapProps) {
-  const [activeKinds, setActiveKinds] = useState<Set<LayerKind>>(
-    () => new Set(),
-  );
-  const [overlays, setOverlays] = useState<WardMapOverlay[]>([]);
-
-  useEffect(() => {
-    let cancelled = false;
-    if (activeKinds.size === 0) {
-      setOverlays([]);
-      return;
-    }
-    const kinds = Array.from(activeKinds);
-    loadLayersForCity(city, kinds)
-      .then((layers: OverlayLayer[]) => {
-        if (cancelled) return;
-        setOverlays(
-          layers.map((l) => ({
-            id: l.id,
-            geojson: l.geojson,
-            visible: true,
-            style: l.color
-              ? { "fill-color": l.color, "fill-opacity": 0.35 }
-              : undefined,
-          })),
-        );
-      })
-      .catch(() => {
-        if (!cancelled) setOverlays([]);
-      });
-    return () => {
-      cancelled = true;
-    };
-  }, [city, activeKinds]);
-
   return (
-    <>
-      <Suspense fallback={null}>
-        <LayerToggle onChange={setActiveKinds} />
+    <div className="h-[60vh] min-h-[300px] max-h-[640px] sm:h-[60vh] sm:min-h-[400px] lg:h-[65vh] lg:min-h-[440px] lg:max-h-[720px]">
+      <Suspense fallback={<MapSkeleton />}>
+        <WardMap city={city} wards={wards} />
       </Suspense>
-      <div className="h-[60vh] min-h-[300px] max-h-[640px] sm:h-[60vh] sm:min-h-[400px] lg:h-[65vh] lg:min-h-[440px] lg:max-h-[720px]">
-        <Suspense fallback={<MapSkeleton />}>
-          <WardMap city={city} wards={wards} overlays={overlays} />
-        </Suspense>
-      </div>
-    </>
+    </div>
   );
 }
 

@@ -1,11 +1,10 @@
-import { ArrowLeft, Info, LineChart as LineChartIcon } from "lucide-react";
+import { ArrowLeft, LineChart as LineChartIcon, Share2 } from "lucide-react";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { Suspense } from "react";
 import LocateMeButton from "@/components/Map/LocateMeButton";
 import NightToggle from "@/components/NightToggle";
 import WomenToggle from "@/components/WomenToggle";
-import RiskLegend from "@/components/RiskLegend";
 import RankList from "@/components/RankList";
 import CityStatsCard from "@/components/CityStatsCard";
 import LocalizedCityName from "@/components/LocalizedCityName";
@@ -13,7 +12,6 @@ import TrendChart from "@/components/TrendChart";
 import AnnualTrendChart from "@/components/AnnualTrendChart";
 import NightDeltaChart from "@/components/NightDeltaChart";
 import PerCategoryTrendChart from "@/components/PerCategoryTrendChart";
-import AudienceModePanel from "@/components/AudienceModePanel";
 import PdfExportButton from "@/components/PdfExportButton";
 import ShareCard from "@/components/ShareCard";
 import WardSourceDrawer from "@/components/WardSourceDrawer";
@@ -27,7 +25,7 @@ import {
   monthlyHistory,
 } from "@/lib/wards";
 import { withBase } from "@/lib/site";
-import { Badge } from "@/components/ui/badge";
+import { Button } from "@/components/ui/button";
 import {
   Card,
   CardContent,
@@ -35,6 +33,11 @@ import {
   CardHeader,
   CardTitle,
 } from "@/components/ui/card";
+import {
+  Popover,
+  PopoverContent,
+  PopoverTrigger,
+} from "@/components/ui/popover";
 
 export const dynamicParams = false;
 
@@ -80,53 +83,59 @@ export default async function CityHome({
 
   return (
     <div className="flex-1 flex flex-col">
-      <section className="border-b animate-fade-in-up">
-        <div className="max-w-6xl mx-auto px-4 py-6 sm:py-10 flex flex-col gap-5">
+      <section className="animate-fade-in-up">
+        <div className="max-w-6xl mx-auto px-4 pt-6 sm:pt-8 pb-4 flex flex-col gap-4">
+          <Link
+            href="/"
+            className="inline-flex items-center gap-1.5 text-xs text-muted-foreground hover:text-foreground transition-colors group w-fit"
+          >
+            <ArrowLeft className="h-3.5 w-3.5 transition-transform duration-200 ease-out group-hover:-translate-x-0.5" />
+            All cities
+          </Link>
+
           <div className="flex flex-col sm:flex-row sm:items-end sm:justify-between gap-4">
             <div className="min-w-0">
-              <Link
-                href="/"
-                className="inline-flex items-center gap-1.5 text-xs text-muted-foreground hover:text-foreground transition-colors group"
-              >
-                <ArrowLeft className="h-3.5 w-3.5 transition-transform duration-200 ease-out group-hover:-translate-x-0.5" />
-                All cities
-              </Link>
-              <h1 className="mt-2 text-3xl sm:text-4xl font-semibold tracking-tight">
+              <h1 className="text-3xl sm:text-4xl font-semibold tracking-tight">
                 <LocalizedCityName cityId={city} />
               </h1>
-              <p className="mt-1 text-muted-foreground max-w-2xl text-sm sm:text-base leading-relaxed">
-                Estimated risk per {cfg.unit} with a night-time multiplier
-                applied per crime type.
-              </p>
-              <div className="mt-3 flex flex-wrap items-center gap-2">
+              <p className="mt-1 text-sm text-muted-foreground">
                 <span className={qualityClass(quality)}>{quality}</span>
-                <span className="text-xs text-muted-foreground">·</span>
-                <Badge variant="outline" className="font-normal">
-                  {wards.length} {cfg.unit}s
-                </Badge>
-              </div>
+                <span className="mx-2 text-muted-foreground/40">/</span>
+                <span>{wards.length} {cfg.unit}s</span>
+              </p>
             </div>
-            <div className="flex items-center gap-2 flex-wrap">
+            <div className="flex items-center gap-1.5 print:hidden">
               <Suspense fallback={null}>
                 <WomenToggle />
               </Suspense>
               <Suspense fallback={null}>
                 <NightToggle />
               </Suspense>
+              <Popover>
+                <PopoverTrigger asChild>
+                  <Button
+                    type="button"
+                    variant="ghost"
+                    size="icon"
+                    aria-label="Share"
+                    title="Share"
+                  >
+                    <Share2 className="h-4 w-4" />
+                  </Button>
+                </PopoverTrigger>
+                <PopoverContent className="w-64">
+                  <ShareCard
+                    title={cfg.name}
+                    summary={shareSummary}
+                    url={shareUrl}
+                  />
+                </PopoverContent>
+              </Popover>
               <PdfExportButton />
             </div>
           </div>
-          <Suspense fallback={null}>
-            <AudienceModePanel />
-          </Suspense>
-          <div className="print:hidden">
-            <ShareCard
-              title={cfg.name}
-              summary={shareSummary}
-              url={shareUrl}
-            />
-          </div>
-          <div className="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-3">
+
+          <div className="flex items-center gap-2 border-t pt-4">
             <Suspense fallback={null}>
               <LocateMeButton city={city} />
             </Suspense>
@@ -143,16 +152,6 @@ export default async function CityHome({
       >
         <div className="flex flex-col gap-2">
           <CityMapWithLayers city={city} wards={wards} />
-          <div className="px-1 pt-1 sm:hidden">
-            <RiskLegend compact />
-          </div>
-          <div className="px-1 pt-1 hidden sm:block">
-            <RiskLegend />
-          </div>
-          <p className="flex items-center gap-1.5 text-xs text-muted-foreground px-1">
-            <Info className="h-3.5 w-3.5" />
-            Tap any {cfg.unit} to open its full report. Pinch to zoom.
-          </p>
         </div>
         <aside className="flex flex-col gap-4 lg:max-h-[calc(65vh+2rem)] lg:overflow-y-auto scrollbar-hide">
           <CityStatsCard city={city} />

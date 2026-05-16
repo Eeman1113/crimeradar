@@ -40,7 +40,7 @@ const PROXY_MODE: "passthrough" | "worker" =
     : "worker";
 
 const CACHE_TTL_MS = 15 * 60 * 1000;
-const FETCH_TIMEOUT_MS = 9_000;
+const FETCH_TIMEOUT_MS = 20_000;
 const MAX_ITEMS = 4;
 const FRESHNESS_MS = 24 * 30 * 86_400_000; // ~24 months
 
