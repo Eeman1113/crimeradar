@@ -26,7 +26,7 @@ export const metadata = {
 export default function MethodologyPage() {
   const sources = dataSourcesSummary();
   return (
-    <article className="max-w-3xl mx-auto px-4 py-12 leading-relaxed space-y-4 overflow-x-hidden">
+    <article className="max-w-3xl mx-auto px-4 py-12 leading-relaxed space-y-4 w-full">
       <h1 className="text-3xl sm:text-4xl font-semibold tracking-tight">
         Methodology
       </h1>

@@ -107,7 +107,7 @@ export default function RootLayout({
           }}
         />
       </head>
-      <body className="min-h-screen flex flex-col bg-background text-foreground antialiased overflow-x-hidden">
+      <body className="min-h-screen flex flex-col bg-background text-foreground antialiased">
         <a
           href="#main"
           className="sr-only focus:not-sr-only focus:absolute focus:top-2 focus:left-2 focus:z-50 focus:bg-background focus:text-foreground focus:px-3 focus:py-2 focus:rounded focus:ring-2 focus:ring-primary"
@@ -122,7 +122,7 @@ export default function RootLayout({
         >
           <I18nProvider>
             <HeaderBar />
-            <main id="main" className="flex-1 flex flex-col">{children}</main>
+            <main id="main" className="flex-1 flex flex-col min-w-0 w-full">{children}</main>
             <Disclaimer />
           </I18nProvider>
         </ThemeProvider>
