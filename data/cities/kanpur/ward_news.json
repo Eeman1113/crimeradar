@@ -1,5 +1,488 @@
 {
   "source": "https://news.google.com/rss/search",
-  "scrapedAt": null,
-  "wards": {}
+  "scrapedAt": "2026-05-17T06:57:00.524Z",
+  "wards": {
+    "1": {
+      "cachedAt": "2026-05-17T06:56:06.182Z",
+      "query": "\"Old Kanpur\" Kanpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "GST scam: Fake firms generating fake input tax credit busted, 4 held",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNXN2TFNQVW5UWERmUC1BZU9vRkI3NlJsLVBHSjZVY2RnZGRKV0VsMXE1ZFBidDBubm9vWVpndXhnVFNkTHJYdmRRNmdzUnYxdFk4Q0IwVFV3VEVBWmNZQUF2ZlczMm1UU1ZibG1MdTFBTThKQ1FXLXNTWVZVWWptN2pzcGowOU8xVWU5YkZsUDVSZnllQktPNmJaeVlMeVE2NGpRb1NpeEFrTVA2ZjRpSTFkQVN6UU14ZUhCUGdPOUxTUmhlb2hfYnlqUUYtNjN4QVpjYkVFcGXSAd4BQVVfeXFMT0FJWkpFOVFJQ01fQmlDOXJibEdHRXhPS3pPeUdpbHdIQU1ob016cmliandyZ09UcFEtWWJwZy05TTJzUDV2dUNPLTM5X0xkSFdlYVhaS2k2dnhGQzk1VENvclQxc1NpTHBKVDhleDFJQ3hBYWxUakFSNWhFbk10WjVzOGNTUzJhLUM1MjNIQnBfNDBPeFVRZEhIVWt0LUM4RDlnQkJzaXNrM2Zhc1FMQXFZNlc5UEV5cmEtbkRWdmpZZkFRUlphRTg2VERERXlNVVNpcV9YdnY4c0JRQ3Nn?oc=5",
+          "date": "2026-02-17T08:00:00.000Z",
+          "source": "The Times of India"
+        }
+      ]
+    },
+    "4": {
+      "cachedAt": "2026-05-17T06:56:06.182Z",
+      "query": "\"Gwaltoli\" Kanpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Uttar Pradesh: Kanpur police arrest tobacco baron’s son in Lamborghini crash case; court grants him bail",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNXZaaUs5Vy00RndYR0V0dUNObTNDd1hzUjZJaFB5cEtJQkNuNU0xUk5qdVNDUkgwdUlxQTlWWHJXaWloLV92ZU5GVWdGLWV4ZXFmck5rNGRsOVpIYWg4ZjNTc1AyTm5zckVhNW9YampNM1RSUm9HR2ZkbU4tM3NDeGhLWmZSXzlNdmlUTUstT0dHVkpBRjZkTkJ2OWlhczhGSEk2VnN1RWVoZm9KOUs5NkJFaHZMODRJWENLMWFYTHlBSGNqNW9KMEw5bnhfbWlDTTlSR1E0ZHRhWndDMDNaaGpvSV9nU1JW0gH2AUFVX3lxTFBuOWVDQUFFb2dhN0xua1M2M0hibmdNVTkyRjNDSWNjZHJTQUhFY2poX2JQdHRhVnYzVFBnNWRHdnVlTW9hSUpieWMwSlVMQ1NZbTh0Y3JVbTJCZmZCcFlwT181NFhTWGd2QVV3eEg0ekd2VElIZm1IOXIzNkIxcVNFS2RjRlZqMlEtZGRlalFjd0tQRFFiWEtFUnc3S0QxQllKOVdQdVF5bFNuT1kxVnFBRTBBLU5xS0dGNEhWQVlvNERlbXU5SUdGbVZncVpqNGZWLVNPVUdmeFlpelZTby1IanRnZEFLcTBITmJwV3diaEFuNzZJZw?oc=5",
+          "date": "2026-02-12T08:00:00.000Z",
+          "source": "The New Indian Express"
+        },
+        {
+          "title": "Tobacco tycoon K K Mishra’s son arrested in Kanpur’s Lamborghini crash case; gets bail later",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQX01aYlNVSmNXeHJwbHEzZnJWMV93al9zQW94b05lek9OYXQwcll2QnVjeWotV3ZMM3JVdjVPQkRBY09PUmgtaTJES29rMDI4S0xtVHdSTFhZXzFfMTczYVYzVDNvME5UeWhlMXVxS0ZXbnJDcXBaLVlBckU3NlBMUnp2bl8tNVNpZ21IVVZqYWtiTEtzTzJUbEtxYXZRWmttZXNhR293Tkc5MHJfdC1yRNIBtwFBVV95cUxPZThjRWtyX3YzRjU0QTdVd3hhb3BwS0tQRzVqdjVyVXdxWnl0VXNzOUFrM29JczBqZ1RKT1dzbUxDdkNwY1lSLThTRTVWRjFVN1lKeVhZVS1wWFlrTkR0VGdtdDdycjRwcjZkU3ZhcEdoSWxWMnc0WGVsUE5XUk42OGpYZjFqbm5OaXFnNXBzeGR5Zzd2TndoUllDUl9SYTFCSWFZdkdnU09GR2d4aTVNb2llZlA3SlE?oc=5",
+          "date": "2026-02-12T08:00:00.000Z",
+          "source": "The Indian Express"
+        },
+        {
+          "title": "Where Is Shivam Mishra? Amid Flip-Flops In Kanpur Lamborghini Crash Case, No Arrest Made Yet",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeHAyU3pEbGhmRTJySFEyd2RmNmVSaXdKR0gtdkRYVXZ5TGJ0Mm9fRWR0SFBCNks0VHNkR1lvOVhFeHAwTkw4QVhWS1NLeFE5NnZlRDNaYWtobWNFRUR2eWJkc0NPOHFHUy02anBOa3BvcE9xank5V0dxZjRKV3JlcXpQemhUdFpfaHo5MmgyWW1qUm5kTTZwT19VOW4yZzZiZ0hUcGJvSkJ2a1lwbWRmaHVnd0pMb2xmSktaZDFfZERRZlRWZXpveGNXdEdlcGFCTWRzd2ticC1ZUW43WEHSAeMBQVVfeXFMTTFhYUN4dWYtSDJkeU1WVm9CcXQyS3g2aDFsTDY2NVYyT1dRVzBxRjFUUU1oTV9hVDhVanZEVE9HbG5Ucl9jSDlfQ2lwdXdNVE5VRGdjQXZGYWtXR2VRNm15ZDRmQ3ZRT2tNNnp4X2NrV1JKNS0xRUx1aXFydlJ4NjM3Q200b2NfNVFOaDgwS1BXWW9rZ3JiaG00OFhqR3VTcEZJc2x1a0FXMU9pYzNqUFpFTFhscGJTNWVTdlNtNTd1LW1JTGtjYUsxNHZNSjBjT1dfUnpUNDNBVlBib1NESGp3YUU?oc=5",
+          "date": "2026-02-11T08:00:00.000Z",
+          "source": "News18"
+        },
+        {
+          "title": "UP tobacco baron's son rams Lamborghini into pedestrians in Kanpur, FIR registered",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdk4wRWVwdzVBeVM1QlhiNDlkMTRDbWdOV3A1MHN4Vk1lem91MFRoQjBFU3ZSOHRwYWZ4MHFnRXZPUTVEUGdZRFdxUTY4RUl4NkdmbllPSEVPTnRTd0QxUW82blRZT3pMa08yS2EzRUZTQ3V5RnhlWjFtMXN5Um0tcEdSa3lwa1hldkw1UzNqN2tjSm9hdVYwNjREUkVZdnBwQ0d6Skp3ZWR6aW12UEdnM3d2MHZSb1VNSjEzR3d3NHJ6XzdpY2h0eDc0WdIB2AFBVV95cUxOcEtwbDJHTVF3SWI5TFkzUTdkMmdhdG5rZkVfaDJ5Q0VyZHg4N2tVYkdpbUJ1T3pYWGw0eG8xQkJaMFBKemc2c0hqakYyNTlVTDhsREJWN0c0NTdmbHZRaXZFQmxEN0JGTWwtVjdxaWZGU09Cb0ZOSnZ1RUNRaXhqaUFQNlRRaFV1UTFZY1NfOVMwZGlUNGo3dWVFX2t4QWFScTN3UjlWX3ctZzQ2M1dpWjN4cG5rM1c5Skg2a3pfYktTOEFnS2VHTmdVSklMU19kRWViaklOY24?oc=5",
+          "date": "2026-02-09T08:00:00.000Z",
+          "source": "The New Indian Express"
+        }
+      ]
+    },
+    "5": {
+      "cachedAt": "2026-05-17T06:56:06.182Z",
+      "query": "\"Chunni Ganj\" Kanpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "6": {
+      "cachedAt": "2026-05-17T06:56:06.182Z",
+      "query": "\"Mecrobert Ganj\" Kanpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "10": {
+      "cachedAt": "2026-05-17T06:56:06.182Z",
+      "query": "\"Chakeri\" Kanpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Rs 1,600cr fraud via 68 accounts, mastermind arrested",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObE5TVFB3WjVTb3o2UGdlWmthbEt4bkcxa0RGVldUZHJFVFhrNVR3WDE1YjN5WG9md1BHTGQ2Q041Q0tZRGtYMlFuNHk1QnB5SGhJWEpvLWw2Z1Ayd3RQRUstaHVGSDlUM0xMZElkbUVJLWdacU9tVDdPWGdERGdZUllPU05wb3d5TzRzUjZHR3NyckhpMGU1V1dQdWpKbHFDQkhoTmlfUzRKZk5ZRzlWRFlBVUZIWlJSN2pfZlJKYnFmZTjSAcgBQVVfeXFMT2xJWEdSWl9haGxURWVMaGJSN0JNczRtZXpKc2E4TEpSU1dqbFMxQlJtaDdBNW9oTU51Y2YyVmh2TlpibGxkMmhCcVl6ZFc0bDZIZ3MwOTUzM3RFSUU5d0FUQWVNdElZSlZwcGswUGdHcWlBelRBdm41OENrTTNOXzFTTXdxQk9JNEhkazlVX0ZZZVhBVFE3eVBBa1JzZmpZbEJtc3RLN05BNUZtOTNacTUwMFFyajEyWVZ2QkJrZFJvX1V3U012emo?oc=5",
+          "date": "2026-05-07T17:56:00.000Z",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Drug peddler arrested",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSUtXTkxJd0RSRFlfd044cURaUThtMUFkSHRCUG9zZXRwbW43OWUtNVFvb0k4TGpyUTc0eFR0WWMwWnREQWZ5TXNGWXUtYkZUdkhOZkJ3bFROUWUyOUVlTldWSTd0Q09TSUNZclBaQVlrZ2tIUEEtUENrZ3lMWGU5b3JJNDNRbnE2RWU3LU9xV1pEZEI1N2lkVnZua9IBoAFBVV95cUxOcGs2dmxubEtrZ0M1Xzh5eFhFSS1RMkxfdnFjT3N1a196dWNOdWJxWVNRUFZ2MjZNTXdWOWZBemFOZmR5MTlzR1paMUJ2YVdQZm83blpJQlp4UVdPQXNRajh2UTZFMUFHaHZhQ1MxN2tYT2dQYThYQTRTeV9HYWhLcTBVb2phTDdVM09rUkF5YTdwbU9zZHR2UmxKcTRqVXlR?oc=5",
+          "date": "2026-04-01T07:00:00.000Z",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Air Force veteran loses Rs17.5L in digital arrest fraud",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOX1dxcTBCRkIxTHR0VVZWdWh3enllcVdLcFFFYmdCX0UtOUFOTUxhSHo1eUF3bUVRZWNNSVNMSHJXTF9JR1JzWFlJUDktd0NJZ01JcXZiSDVtbWV1QUhUeWpTVlNGQ0tXekE3UXhkek1hTnFVTjVUWVlwSktKZ0J6U2FjdENROV92RmdPdVRQMTY1ak9adGNWSURRVG5fRVdYUDg3RTNsbHRzR3NQS2U3NGFyLUlBdV9qd0V1SWg1Zzk1X2oyY05rWNIBzgFBVV95cUxOQkxfVE5MZm5ReHpPTlNuTGFqYk9nRjhPNGYwdlBDZnlPeDhVMEc4WEoxNXBMUFJtb1ppZ0k2NEpfaU11YUt2SlY3SEc0TndraTJ5dnVuNEhQNkRLWmI1U0ZOTTM2YVQzRXFKNkdqeXd5UFZRTUNhMVhSTE9OY1hfTTU0ZjRwVjFpWW8tVlBCdFlLZFhwVjVoN1JXSWhqcG9lQjVVYkFsZXVPX3RBVUhJRzFpSHhhOFRIUGJzaUFjQ0xtV25GREJEdWFfU2ZMQQ?oc=5",
+          "date": "2026-01-11T08:00:00.000Z",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Kanpur: Drugs Worth Crores Shipped from Hong Kong; Crime Branch Arrests Three Youths",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ZSnhsQ1QtVm5PeFdSSmRaY3NwYjVvOUQ2TnJkUm9yS0dxUXN5SzlaX0c4aEhQd25IOGNQWVFOaE1HQWFFNmRGZ2tNeGZFVTJlc1ExbTZEcUUtSVduQXlOek94bTA2UDBaNHJaTjAxLU9Talg2cjdUNThQMA?oc=5",
+          "date": "2025-11-28T08:00:00.000Z",
+          "source": "The420.in"
+        }
+      ]
+    },
+    "11": {
+      "cachedAt": "2026-05-17T06:56:06.182Z",
+      "query": "\"Jawahar Nagar\" Kanpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Two arrested for duping elderly woman of gas cylinder",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQ1pBLWpINFBrV2pMcDJ0ZW1qb2FWdWhkc0I5WkZUMlF4YURtXzFzT1FuNy03MWRZQXZhOUg4dFNEYklRSnQ5REpNeVZmVUxITlRqUFUwWndLeExnVVBOUnF3c25CVHJEOEh3UnFVYUFkaU04ejRfUjAxaXFRQzBOR2tWOVpZTG5La25wWnRuNE5VUm56Z3JwblREdUFxQjR2QzZKTWxvZ1NWcW1qM1BHMGh1S2VTZWJlTVhMZTFKWGlqR2VTcWfSAcsBQVVfeXFMTVgwQkh2MkN2b2t5X09sYnpVcVd3cFdLRm9oTmxwOVRZZE5WZktJV2F0dDAxYTJpdmRpZHVua2ZFaE1FTUk5TTg0cEd6Sk5xNndZV2R3MWtFaEIxdXRmNF9yQ21Za0VCWWhKZVBJTkoyMkdFV3FpbXdwSERiMXUzTmNxQVpQNk1zVXJxNmh0TnRRbDFtTllMTmY5bTFFVmNnVEZSOHJkb3pSenVOREdkZmZOX1d1NlQ0WlgxR21HVFZoalEtZHB4UHFuSlU?oc=5",
+          "date": "2026-04-11T07:00:00.000Z",
+          "source": "The Times of India"
+        }
+      ]
+    },
+    "12": {
+      "cachedAt": "2026-05-17T06:56:06.182Z",
+      "query": "\"Transport Nagar\" Kanpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Jailed codeine cough syrup smuggler’s son arrested",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSGxFUFJYRUxfaGYzMFFCVVZ6VV9Jb1dPZE0teUlUNy1qZWlEZWFLbG81MDhvVm5kLWZURG44SDFaLWxPdjlJWEQzTldNbHFxOWM4OEY3ZThQNGZSNC1INFRXUFNmcHh0ZmdjRVhoX2JxZEdaUUpfdHd0NVlRRTVZYkN3NGVaY3UtdHZidVplaTZzdDktVWg1Qk55SE9CQ2t6VDN6cDl0MTM5V1U0YS10M1BpSVdtZnE3WDFVU296eGrSAcYBQVVfeXFMUF9fY0l0YW9kaTVHNjdHN0hzWmJaSWYzd0dZNVk3UWRoQ0FYS2wxTjNQeXIyei1ZTDBTLTA4NnRzcWxtTi1hZmhXaUtScmZWRTVmTGZpRHNUUnlWU1FNMzhURU5VYTJkck56WlZ3Q3lrN1JTQ20wY2NsSzFsclNTQWtwRWR2R01XSXI1bXlBeF9heGI2cnVSQ3N1WVNqdXRvMlpwQjFqcFZyZXFKaDdrYjFlMWtDeXd2YzBTNkhkX3ZCbl9iaS1B?oc=5",
+          "date": "2026-04-05T07:00:00.000Z",
+          "source": "The Times of India"
+        },
+        {
+          "title": "ED raids in 3 states in1Kcr syrup racket",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZ2tWUkpUZ1N6WE8zR1RxMm1hVXFreGJuc2VGOXVienY4aEYxMUhsVmd3OC1BNmQ5czFOVDVIdjhZbThKTWpxd3VkWDVFLURISDBodUxjcjB4LXFUQ3QtTmk5Zy02RG15TTRzMHZwR1V4MXUwM202MjJjZ3RjdHNYeFZ6eXBrakdPRUR1d25YRlllZVNZc1dUdXZiUUxJb2hBSHJKVUx3clNub3RweW5NQVU0eDB5UdIBuwFBVV95cUxOVFpJd1dIWFc4VmU1UVBQd0FtUVZ2MzJCWHRZVE5HZlVDUkZOVlg3OXozQkl5Q0JjRV9xeXp5N3N4N0pwN1NVOVVrQS1iSkhOZzBydjhaLUNHdHUxcV9PWVBxZ1RjZGF6bTFMQkk0RXVFVW5UeDVjWFBNc194OTRpZGtDWDM5bk44d0FGQ1JSNktnNEhwX0tQZ01Ed01OWEhiX2V3WHVMdjNfMllxcmFSS0RRb0theXZ4SVBJ?oc=5",
+          "date": "2025-12-13T08:00:00.000Z",
+          "source": "The Times of India"
+        }
+      ]
+    },
+    "13": {
+      "cachedAt": "2026-05-17T06:56:06.182Z",
+      "query": "\"Khalasi Line\" Kanpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Kanpur: Consumers Suffer Amidst Gas Shortage, Raid Exposes Irregularities, Agency Faces License Suspension",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNWlEyRS1BMk1TN3E3djN6S1RxYzJXYnZlUHVoZUg2cVp4dlhoOEZ5aFhXTVpBZFRnUEZEc2ZvSE1vTzVQeFlOQ1o4T0tlajUzdUxuSmsyanBldzNNV21QQzZWbndoOHhRUnJtcTlpRmdtRlpNbW1KUzlGN3IyVEcyLUVqalM4RzIxRDMtTU13UEZhTTBxMVctTl9zU3RrTmt3ZzhrNUpHV21YVkRlVThpTEhrSDZtc285d0Rmb09RajFtZzJ4RnU2ZzJwcVVFNEpqRmRlWExyTkNQampoVmFCT3FVdWVFUdIB6wFBVV95cUxOSllYVTR4NHpUWFpCVWhoam5EcEJwTHZWUGw3YktFRjZVckcxNzZtcTROenBMZWZHTEFRaW5oZUt0MXplWVVmNjVhOE9OMTB2aXpMU1ZJNWtZd0N6N1c5VzA4QkVsSlZMRFVuV2ZrTHVGd0dRa3NWVjBoXzVGazRRcFF4VzJiZTdiWmpVcHhrUml4STN5VU5HNFNjNkptTmdWcmZnU0Flal93d1VPcmlPSHlHTV91QjVYRTZURzlSTG40VktzS1RKQXhqc2wzbXJTLWdsMHFqSUxwSVFNOHl3Sm5rTVBzMzdrcWlj?oc=5",
+          "date": "2026-03-19T07:00:00.000Z",
+          "source": "Patrika News"
+        }
+      ]
+    },
+    "15": {
+      "cachedAt": "2026-05-17T06:56:06.182Z",
+      "query": "\"Permat\" Kanpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "19": {
+      "cachedAt": "2026-05-17T06:56:06.182Z",
+      "query": "\"Sanigawan\" Kanpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "GST Officer Attacked in Kanpur During Truck Check, Accused Threaten to Shoot; FIR Registered",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOU25ERWZHeHFBektVZG9EQVVCYzF1bFpJMERNeWczZXU3OGZBRnRfY2NvUGNtZzlhSDBxRHkzZl9JcktyZVU4bTVHX2FTXzBNYWMtTG5kZ091TkFaNW5OYlV3QjJiQ3dsRkd6R3B2NlU5S2dwV0NfTll1eGFfMTJ2Q0g3bm5faVZ6dWpocXJfVGZuSkRPd1RCZW1kWldDVGd5bzlPUEowNlh2M2g4dnNv?oc=5",
+          "date": "2026-04-24T07:00:00.000Z",
+          "source": "Studycafe"
+        },
+        {
+          "title": "GST asst commissionerattacked, FIR registered",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMEFFWUJaaktzRDFKR2RNOHlSZmVRM3dsUWpNMFBNNlFKb09qZkpYa1M5cXVRMXZsWEdqSEh4OEViRlJsM3QwQnpQejRtWHFiSUFNcnkxZk1EUUdfbElxRFBCak5uTnpzWkZmYTFwdHA1eUZWZDQ0ZFBIVmZlU3VxcUZkNDNnMjlDbkg2MFhlT2hJLW1qSTdONkh6ZnRhc2poVFpuSmNFRndpRHI2c0RBRi0tcllMRkJFNlHSAb8BQVVfeXFMUEVCd1lqMl9uRXdXUEhzYnE4WXhBSEg1Nzkxc2dQX1lya1dMY3lfZHVYTzNpVy15UW1RSXVTZVgzZTRUdDJBVW5JRDQ0UlhuNmVzVkM5NW9mUFhIVGI5N0hqTmM4dmxEc01TOC1yejlqb0Z6T3lJWnM4dkxGc093OGVSc0lpN2F3enh6TjhjckV2d0RleEtJN1VVMGdRSHIyZENYdnV6c2h0akp6NnNXOGw5V0IyLTluVGF0UmxzQ0U?oc=5",
+          "date": "2026-04-22T07:00:00.000Z",
+          "source": "The Times of India"
+        }
+      ]
+    },
+    "20": {
+      "cachedAt": "2026-05-17T06:56:06.182Z",
+      "query": "\"Naramau\" Kanpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "22": {
+      "cachedAt": "2026-05-17T06:56:06.182Z",
+      "query": "\"Behna Jhabhar\" Kanpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "23": {
+      "cachedAt": "2026-05-17T06:56:06.182Z",
+      "query": "\"Kidwai Nagar Sabzi Mandi\" Kanpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "24": {
+      "cachedAt": "2026-05-17T06:56:06.182Z",
+      "query": "\"Usmanpur\" Kanpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "25": {
+      "cachedAt": "2026-05-17T06:56:06.182Z",
+      "query": "\"Juhi Hamirpur Road\" Kanpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "28": {
+      "cachedAt": "2026-05-17T06:56:06.182Z",
+      "query": "\"Krishna Nagar\" Kanpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Digi arrest: Elderly woman duped of 21L",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdXJMLTFKRWxGajBwOU9vTTRHNWxDX0lybHNkYkVoanFJdVhTUVl0YUxVVTZERHJmaE9wTnRKdXIwRWNGQl9RNlBFMzZUOWVRWnlqQnUtaDNiSXNGWklmSWJrQ2xXN3o1SlhvUVhjYUZSTl9aT0FkZGp2cHFpdXhRZjV5aGxpT0N6SjhreVBQSHpWWTJPRkdtWUxzdlFjdDZJN0NxekRRMXdSUm11QjdZeXFB0gG3AUFVX3lxTE9IOWNpWjZLbzFxZzFNMUw0UjFOSWRRWDE2OTNoR2s5a0p4LWx4MFhmVVkxSmxCbEk2N2ZLWGZxTDdZRkJXYlFFVk1aVmtXbDhTVWczblR3TEM4TldwUVpqLTFTU3VGS295bklVeWNqQUtHWDg0bWFBVGU5QmQxQ3pVMVFHeTd5NEN6VnJKWEYwV1I1S1FjVUotWjY1VXhWRkhleDdtcUFFSkVjMkhHSjZ3REI3ZlZ2SQ?oc=5",
+          "date": "2026-03-20T07:00:00.000Z",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Retd bank employee put under 6-hr ‘digital arrest’",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNHd4Z0Z2cGNEU0dUVDNxWDJTN1ctU3pwZUg4YkozclhtWUcxX29yU3JnWElwUldWSWNNQW5ianZES3pxRTM3YzFMMHdERmtmWnc3RlcxN25NUVlHZERqWXk0TWhIZlVsc256bl90VnB2NmpSNUd2NWVyc1AyZENEV2JRbl9SVzZxYTJDWVVaRWxOX004U0pLN0trU0JPdWFVNjBxWXVFR3BjamhkeEpENVdUS1ktQ3Q4WkJfbGJvcnPSAcYBQVVfeXFMT3dtS1dLUUY2ZUp0QnM1RmNhTWI4WjQ3TE1aWk0yM2VVU0FvTFdGQk1nVG9PZjJTR0g0MjRhNHVaSE5DWU12QXEzMmFtR1RneTdZLXlIV0N0MDZGMnQzZ2kyZEo4UkNZYlZmanViUmlrWUlKOU9TU0RtSnVObEVIa0JLUnlIWEZKQVF5bHBya1l1ZjUzWkU1OUo2bE02c2ROeE53OFdZTWp0MXZzaWFINUF6b3NXRmROSENRcm5IenMyOEprYlJB?oc=5",
+          "date": "2026-01-07T08:00:00.000Z",
+          "source": "The Times of India"
+        }
+      ]
+    },
+    "29": {
+      "cachedAt": "2026-05-17T06:56:06.182Z",
+      "query": "\"Safipur\" Kanpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Air Force veteran loses Rs17.5L in digital arrest fraud",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOX1dxcTBCRkIxTHR0VVZWdWh3enllcVdLcFFFYmdCX0UtOUFOTUxhSHo1eUF3bUVRZWNNSVNMSHJXTF9JR1JzWFlJUDktd0NJZ01JcXZiSDVtbWV1QUhUeWpTVlNGQ0tXekE3UXhkek1hTnFVTjVUWVlwSktKZ0J6U2FjdENROV92RmdPdVRQMTY1ak9adGNWSURRVG5fRVdYUDg3RTNsbHRzR3NQS2U3NGFyLUlBdV9qd0V1SWg1Zzk1X2oyY05rWNIBzgFBVV95cUxOQkxfVE5MZm5ReHpPTlNuTGFqYk9nRjhPNGYwdlBDZnlPeDhVMEc4WEoxNXBMUFJtb1ppZ0k2NEpfaU11YUt2SlY3SEc0TndraTJ5dnVuNEhQNkRLWmI1U0ZOTTM2YVQzRXFKNkdqeXd5UFZRTUNhMVhSTE9OY1hfTTU0ZjRwVjFpWW8tVlBCdFlLZFhwVjVoN1JXSWhqcG9lQjVVYkFsZXVPX3RBVUhJRzFpSHhhOFRIUGJzaUFjQ0xtV25GREJEdWFfU2ZMQQ?oc=5",
+          "date": "2026-01-11T08:00:00.000Z",
+          "source": "The Times of India"
+        }
+      ]
+    },
+    "30": {
+      "cachedAt": "2026-05-17T06:56:06.182Z",
+      "query": "\"Naubasta East\" Kanpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "31": {
+      "cachedAt": "2026-05-17T06:56:06.182Z",
+      "query": "\"Bakar Ganj\" Kanpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "33": {
+      "cachedAt": "2026-05-17T06:56:06.182Z",
+      "query": "\"Panki\" Kanpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "2 arrested for providing mule accounts used in digi arrest",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPc2p4VXF6MUJvaVNpbWd4cnB3ekljTG9rMWg2NkFRMWZleTlGblIwMHowcFNPMjJIeGxULUEwQkZFMFBVeFFPVGsyRXpERmpjazZrQnNYeTA5QWtvclNTY3I5LWJPMHRjZk84NWJpTFc0bG1UT3RHekRzN1VTbTNkRzlhUWMtaUFUWmpzRWx0enh1c1M0WDgwNExqRzdENXlFUTloUDJ0aXFUd2pFaU9xUlRVUmhyVk1XeUJNblUwbkZLNl9MeFNWaG5xOHPSAdIBQVVfeXFMTjJCdjNfOGpOUzJQRnVaYmlUUUFyQXFuSnRuM3BNMlI4UDA0UGpKWTJWT2VxVEYwVVhCd1hWbVlsek42VVpiNjZrTUN2VmJRTnFROThDLWctTENlaXY3V205cmJNN0l1eDhDMEtuMWpLYXNYNGdPWml3X2xOM213M21lbHRfX09NMUVSckpFVDVrZjcwYnFZcFRsMGRqTWNyNkJVemNPUlR6WWNIZ3hadVpBU1NLSEpLZDFoUXBCcXcta3FZbDJSbno1RnFVZlRxUDh3?oc=5",
+          "date": "2026-05-12T19:24:00.000Z",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Wife murdered by strangulation, body dumped in drain: Husband deletes CCTV footage to escape crime; had lov...",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQekNYNzNSeHRZN3dBbnRPSUJyUXlyN1FkRUpaZ2hIdGMwSmZXWEJwMHVKUUlTRC1jTTR0WW9iTHNDWV9MS0ZlXy1relY4azBfVWRlbmtueW8weTNwc1hoUUp6T1VQYlV5eFBXajNBX0NFODJ6QXB2VFpQd1R3dnFDMk9VQks4YVZsenZQTk1xSG9IVXhYWFhOYjIyb19EQm5BYTNmYUdSSUtyRWhPSWkxbi1pOE9iT2JidERfbjNWd9IBxAFBVV95cUxNRW9NdWhKTlFGSm1rdDQweEIxaVRvYUxEblQycVRrTkRFQk94NDFXQnRxRmtGNTFLYWRNM2F2Zk1YQV92ZWJGTE0taE9PVkV3M2VNMlJQT3MxR1NRMW9HeGZnUk5pZy0zZlQ1NjNVOGxLc3lidnBqeUJjWXl1WHJMN2F0X2E2MndQelR5emVRVjk0RnBqZzAydlBKaFNEbjhDT2lDb1NyeEVqdWVvS3FPWXFMQ0g4VXNpam5talRhTWE3emtw?oc=5",
+          "date": "2026-03-01T13:13:18.000Z",
+          "source": "Bhaskar English"
+        },
+        {
+          "title": "Breaking news: Kanpur authorities seize thousands of liters of fake ghee in Panki area raid",
+          "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPdXNjSTVJbWd4YWFGZlBUck1LZVplQ2ZCQ2UwaTFxcTJFbjJWYVNpSXVoUGVEQ29GejJSSjZkOHRlSXkwdTktS1NFQWhCYzA1dFBWQmVPX0gyWEtHR2RmYUc2WDczclYxNXpSWTlfR0s0M3FmdGZZc290b1VWNzBtN01fVUZUNkhDQkExUl9jRTFNVmZsdmIxLS1YMUdXTmF5ZEJoYUhfSzFybDliRThHel95OE9lemQ0dkNnNDN4UzA1aUpBa3huNFRrcmVIUnpEVFBPUEd3Njl4M0dzdlVqUlhTYi1TMkRvYk80YzlVQ0RfdzdhTzNQREhLVmF2Ul9sVVdEX2FkLTBEX1k5OEhlYTVJSFB0dE1RRzNoT1pTcm9FWU91cW1EOA?oc=5",
+          "date": "2026-02-21T08:00:00.000Z",
+          "source": "MSN"
+        },
+        {
+          "title": "Kanpur Police Bust International Shell Firm Fraud, Czech Company Duped Of ₹2 Crore",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPclMzd0tKUlNISjZLZkRsV2xkakQxcURPaGpBbnhpa3lWanZjU3M1Y1Fod1hZRUt6VUZPUk5kYjBMaXdoNF9ETF9QX0tNanRSSTRmSFVwanR1dGhUS2Z4TzJmcWRTWmZKeVVXeEd4amlqampnLTZaVGxhMU8xY28xZ1QzeU5sdU1ZUEQw?oc=5",
+          "date": "2026-02-20T08:00:00.000Z",
+          "source": "The420.in"
+        }
+      ]
+    },
+    "36": {
+      "cachedAt": "2026-05-17T06:56:06.182Z",
+      "query": "\"Bingawan\" Kanpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "37": {
+      "cachedAt": "2026-05-17T06:56:06.182Z",
+      "query": "\"Harjinder Nagar\" Kanpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Three sentenced to life imprisonment for murder",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMGhXSFNSeExYWGllQUVnZlpQZ1htLWg3ZFJpRERBX2FIc2dQajRzMjU3STJKd19fWWhFZE5tR2szWndUSUFRemZhTmdyQ0pSLTRMVFJUaVhJb2lLQWc1cDlhN2c5NDBXN1FYbHZWRFlTdm8wOThCbVVjN0g4OGFFZDNuQnF3QnhRRnBlMG9CTEF0QThrei1OYTlScVBBTFA2aXZZSTVjT1hvLWVvWkdYTzRJYnI3eWVEYjBhd05n0gHDAUFVX3lxTE9ISDR5ZHdpV3dHWWtFRU16RlJOVURHYVZjdVJXWS1aNURGdHkxV3lidllUVTFRVk5uQzAtSHoyZEQybWZjMHhMYkNYQ3B0QUc1UlZDU0M0TGVVVVJ3blhEXzd5RTg2NFg3MEtlakJZdW9aZFl3aFk4amJJTVY5d0dsZENDa3JKMl96ZFk1N25HdHpzN1c4cUVUVnFvOENWaFBuejlQT1dlRTdWeVVmMTBESTdqc3ZFdWhIUW9lbEh3aHg2WQ?oc=5",
+          "date": "2026-04-07T07:00:00.000Z",
+          "source": "The Times of India"
+        }
+      ]
+    },
+    "39": {
+      "cachedAt": "2026-05-17T06:56:06.182Z",
+      "query": "\"Hanspuram\" Kanpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "41": {
+      "cachedAt": "2026-05-17T06:56:06.182Z",
+      "query": "\"Sisamau North\" Kanpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "43": {
+      "cachedAt": "2026-05-17T06:56:06.182Z",
+      "query": "\"Ashok Nagar\" Kanpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "2 cousins among four arrested for robbery",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdFE4c21ieVYtX1Q3eXVBSzBweG15T1VfaHlwUFY2TlgwOGxnUUJYSm83NVd1QkF6dlhxRHFRRWJFWXYwNVFjZnFna0ZUNWdkd3lYNWxJaUdhN1R5LTZuTmpkeC1BZmxobzQ3LXJXY1JfWUg4UF85aWZLczBnWUNYNEdDbE5aZmJvd0xRcndSdm5FX1BCSDFhZEZRWlFCNkp3dmFTblQzUUxYSnVWT1NMR3hPTm16UdIBuwFBVV95cUxNbFJVNUFQck1RMGNtT2ZYai05T29fbnlZdFJmeTJkRVBwWHc5YXRyLURJRkM3bzQ0aGF5SWRjWGNQcXNBWUpZdkZtcllOdVV6TGZvT1BVbUpxX1N0VGtwWER2dEVQN2hlMlpvWThCREJMNlVPLW1jcjZ4N3pSWWNWMjRyTG5GdVRsVEtXdlJmalVYM0xWT0NaZTBaSEo0MkM0amR3eFNSQ2pwZ2E5NHJPS2paZ0tEVlljNjhF?oc=5",
+          "date": "2026-04-07T07:00:00.000Z",
+          "source": "The Times of India"
+        }
+      ]
+    },
+    "44": {
+      "cachedAt": "2026-05-17T06:56:06.182Z",
+      "query": "\"Om Purwa\" Kanpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "48": {
+      "cachedAt": "2026-05-17T06:56:06.182Z",
+      "query": "\"Pashupant Nagar\" Kanpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "51": {
+      "cachedAt": "2026-05-17T06:56:06.182Z",
+      "query": "\"Nehru Nagar\" Kanpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Income Tax Raids Target Desi Ghee Industry",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOFhWTjhDQU9HbngtTThibkZzVXJkZE1fYVBMdnNpWjI2SmdzblJsR2tFZzJ6RXlIblEtU1dVSlNpLV9hZE8yaGFsSW55U2x6dXItWXpaRWJGallhR2l3TVA2azl4bUM2MHg2djFCVWVHbV84QjE0eFk1WGp0STBOWA?oc=5",
+          "date": "2026-01-16T08:00:00.000Z",
+          "source": "The420.in"
+        }
+      ]
+    },
+    "53": {
+      "cachedAt": "2026-05-17T06:56:06.182Z",
+      "query": "\"Daheli Sujanpur KDA Colony\" Kanpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "54": {
+      "cachedAt": "2026-05-17T06:56:06.182Z",
+      "query": "\"Babu Purwa Colony\" Kanpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "55": {
+      "cachedAt": "2026-05-17T06:56:06.182Z",
+      "query": "\"Kidwai Nagar South\" Kanpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "58": {
+      "cachedAt": "2026-05-17T06:56:06.182Z",
+      "query": "\"Basant Nagar\" Kanpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "59": {
+      "cachedAt": "2026-05-17T06:56:06.182Z",
+      "query": "\"Civil Lines\" Kanpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "₹8 lakh robbed near Kanpur police post: Four attackers on two bikes hit man with pistol butt; escape with b...",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVjVmSHE0YlR4b0xQZktrZHRIQmx5ZjZNN3Z6YjVNaGd2QUp1b1J6amRKcDJPVjdnWUNZMURGd1poTzhxZjJWUXh0cVRueU9NQ1VMaG1SRFdDS09mcnh3ekZoQXdfMUMxbzkxSmJvRkNrLXZvWE53Yl9sTWZuOVUtaGMwRkdwU2dIVUpaSl9oN1NQT2Q2Y1NpZWlrN3hKNllhVjItcExMN0dKV2hGQnc0aFFiSy1pdURjV2tObNIBwgFBVV95cUxOU1Bqclo2M2ZHTjhXM05VcGM0Y3JzaUxVNzM3dEV3OTRLXzdrQWF1cjJ5UnE0WWljaVR3bnVnQnptWGlGZXE1ZC1kM3haUzc2eHptdXBFRlpqZkJXLUhQTHYwZFJoNTYybGVFamZqN1hmZXNkOFdIRWFTU3ZSeWpaWXkwN25wcFVYUVJnZmozeDhJUV9MYVY0NHdsN2FCbDZRdXlkR1FQV09WY3Fkb3huMUU0Um41Y0JDMWVCZjMxNmpxQQ?oc=5",
+          "date": "2026-02-16T08:00:00.000Z",
+          "source": "Bhaskar English"
+        },
+        {
+          "title": "‘No One Consumes Alcohol In Our Family… Police Commissioner Is Wrong’: KK Mishra Defends Son Accused In",
+          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOWUh0RkRzak9JUlNJekxGRVRwXzdKT1hvNlQ3WFVDZDE2eTJiZDZRM2YwN0k5T2hCYWhDN3p5MEdyY01qWDlJZG43NjVMb0Q3eHNCb3NacFNubjBZdzB1UGM3djVuUDFWVVN5aVlFTUV2Z1RsX19McDJhQ1c0WlVEU1RSMHdUYTFYUXBwaU1FMlBqblh0TUJqV0d1RHJzdXhaS3Q1TnRQV1NtZ2JneWJ6ZXRGRmFKRXVTWGsyeUg2MDRIaWFwS2hHX1oxd3BWNGNUbUFCSE5IQU1USzlnbWRkN1NkeEZnc25HVjNGYVB3ZGFEaExiZ1Z4cVFMOU_SAYICQVVfeXFMTUY5Y18xeTlxZGw1QzRQTkdOVmFYblp1UEVPbFUzNDZUMFlkbGlzRWN6b09hWkUwQTlVYzAtVkZVaTVRbjhMeC1iS2dlUk5FNkNwWlBYZmdBUU1kZkpyR3Q4SzVRU1Z6Z1BSZlRYdGFVUHkxU1YtV043M0Jlbm1FekdHVmpsaEh3SFZjZ2t6a2NHeXZHMXpVNldwaDZ0OWlCRmRwbGxzVld1QkIwM2xvTUhRam5vRFNOdUxuN3ZjYXFRbmhaQ2Z2dUd4SmFLVHhQUmdXOUhRZlppblFUTDBQLTBTcWVEVklrR2xyMThseGZQbWlNQkdmdzIzVjlyU2M3aGF3?oc=5",
+          "date": "2026-02-10T08:00:00.000Z",
+          "source": "Free Press Journal"
+        },
+        {
+          "title": "Cyber cell arrests gang for defrauding doctors of crores through fake investment schemes",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQbEdOcGF5ZGRTa1pMY3R5LUtsZUxIcldwTmRpUXBDdGlVSUgtai16LTZ5ZGVJVkxRV0pET09OZHlIa3d2RWJDRnpEV01HZzRDeXRjUy1pTXdaTFMxa0dwNndicXZ3ekFjTWp3dGtMemlzSnZDcGZQTmtsWG9YSHBzRlNJMEN2LUlzdVFJZ1FPZWF6SHA3Nk50ejRCeEhyZEg1TU8xMEsxVWNZQUlaS0tmbTVfb0JKY2tUVlBjRWpGVUFiV0Rhd3lvM3QyT1Z3MzRjUFRMeDAxUGtKQnI1U0lxZnVCNGo5cFVndUhyRTVfLTFUaC1Q0gH6AUFVX3lxTE0yR05KSXlqd2w3YTkyMEI1UHpUWDlMMmdxZ1k0VXRkdG9SZ0FwZ1liZUJkVWpCVHhfdl9PSkdwUlRCVDFUWEgzTU1hbkUxWlhEdnh2TmJ1QVFSbEl4ZkpkbGNQa1pBRU5RWDF6cWR1VVhINFNrbkxCUFZQR1o1dkUxVmJKN1QwRXladUJ2ckRvZktyYzA1OWVHbGtRSTdIMXFUSU5FZy0yeUJCTkdRU3pJNzRYWnB0WU9PN2ZXeUpPanVlUHhzODNjUGl0em1PWHlPS01sLS1yTW9abVRxaUthVTNvUy1TUm42VF9LRDU2LTd5bmVaVjVNNGc?oc=5",
+          "date": "2025-12-28T08:00:00.000Z",
+          "source": "The Times of India"
+        }
+      ]
+    },
+    "65": {
+      "cachedAt": "2026-05-17T06:56:06.182Z",
+      "query": "\"Gandhi Nagar\" Kanpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "66": {
+      "cachedAt": "2026-05-17T06:56:06.182Z",
+      "query": "\"Jajmau South\" Kanpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "67": {
+      "cachedAt": "2026-05-17T06:56:06.182Z",
+      "query": "\"Yashoda Nagar East\" Kanpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "70": {
+      "cachedAt": "2026-05-17T06:56:06.182Z",
+      "query": "\"Tiwaripur\" Kanpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "71": {
+      "cachedAt": "2026-05-17T06:56:06.182Z",
+      "query": "\"Gandhigram\" Kanpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "75": {
+      "cachedAt": "2026-05-17T06:56:06.182Z",
+      "query": "\"Munshi Purwa\" Kanpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "76": {
+      "cachedAt": "2026-05-17T06:56:06.182Z",
+      "query": "\"Suther Ganj\" Kanpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "77": {
+      "cachedAt": "2026-05-17T06:56:06.182Z",
+      "query": "\"Shyam Nagar Sujat Ganj\" Kanpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "78": {
+      "cachedAt": "2026-05-17T06:56:06.182Z",
+      "query": "\"Prem Nagar\" Kanpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Police nab IT expert from Delhi for false ITC claim via bogus firms",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcVUxWlBoUVNKU2Z3NVIzRnFVY0xjVi1PZm1EeWtjamtKNnhGbFhvOE85b2ZNcjF3Wnljakdtckt3bHNUVmVldFBaUWlDcU1nZ0FMb1ZMTU5GbGVDT3BySGloS3BGbl9OUWtUdGxWMmdkeDZJM2RsTU9RQ0hJVDE4SHJlc05objdHdnloYnVwSGIzRU9jaVlMdllnOHJiS3A5M1JraXhXTnU2NEtnWnJRZU5QTnM1dXdlMTJVUWxOM2tRUHpvbUxrNHJxcjgzbW9LTXFnVjA3QnHSAd4BQVVfeXFMUFNqRXFaOV9wWE9wZk82aFdfd2J0UWxiZVBQZkhGdkV0QVdIdnVITGE4YUdUQnpIMEpiNk8zOWFpb3IxYWtLVnRRU01Dd3BrYV9aOXBWR1VjNFNDenhhbG5NX0YyRVNVNUtTNzJFMHM1V3FhYUxZV05TejBDNEtFQjg2b284bUxRSHpNeF83aURSUHk4aHJjN0VwQjJmWVc2V2VjdG8xU2NINjY2WXpfdE00NWFMMmVNWXNfRkZESFhwdVduc0thUEVjTUhPREppLWFUQV9pa3hOd2dHQXVB?oc=5",
+          "date": "2026-04-11T07:00:00.000Z",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Crop insurance fraud racket busted; 3 arrested",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNT2hPVEIySnNBcndpVWw2aUtubGVkVnl5T185NDFWVVJfX1NBRFIxdVdqc3pPRGY0NS1WTWdqSnc1ZGY3S0I0djBjLXdCcy1LSE0wZ1Y2cDhpYzFraWd2M2JCMWdDVFN0eUd5QnJTbjZSaGJBZFI1QXJBbnROS2VNbHdtMlNDczI3MUpzTkVMd0RtZ2lJQ19XcEljbzFtc01BbW9PVVhuZ3laVFF4OXZZX3QwZmZXdXJWZG5B0gHAAUFVX3lxTFBkdDZ0OUg4X0dpcWx0TDhjcy0zZzZtT3VYeG5HdXg2bS1ZQUw5bDZZaXBYaFVzNEZXMmQyNGwxaWlDYUhhMk5NZDcwSTQ3d0Z5YWRRYlhTUmFCN2owZHljTmNtQ1kzektpVXVWU0Y4cGNxUWM5c3V1Wl9rMFZWenJpd0hnVVc5bGdZTXI1QlVjeDZCQmJ5aXRSeC1YV0JYanJ5R284Q1FSdElua0Y2aWx1c1FSLU9oWFFTa2RVNVppSA?oc=5",
+          "date": "2026-03-20T07:00:00.000Z",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Bareilly Shocker: Mob of 25 Storms Girl's Birthday Cafe, Police Fine Victims Then File FIR Amid Fury",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSWl0aW02akx1d1VxQ05ERUJmRFpXWVcyaHpWWU9teDd0Zm00ZFVZZ0FJYjcyY18yUTdmVDVMc1pBWEoyeDBhSlIwcmd0RFdLd2ZHdDdIRnpDRWIteUdGYXhQNjBuYkpaaVhGdGZ2SnBzbkNFd2VaWXlWNkJQZmZweEFvcDZtcXJhcDFjU19MX1NvN25mMnJhem45a1JWaEpGZWE1eHlSaXdpa28tdXVuU2tDcVlMdzYtWGgxT2c2QVkyVDFPMUE?oc=5",
+          "date": "2025-12-28T08:00:00.000Z",
+          "source": "The Logical Indian"
+        }
+      ]
+    },
+    "79": {
+      "cachedAt": "2026-05-17T06:56:06.182Z",
+      "query": "\"Juhikala\" Kanpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "80": {
+      "cachedAt": "2026-05-17T06:56:06.182Z",
+      "query": "\"Barra East\" Kanpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "81": {
+      "cachedAt": "2026-05-17T06:56:06.182Z",
+      "query": "\"Tarauli\" Kanpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "83": {
+      "cachedAt": "2026-05-17T06:56:06.182Z",
+      "query": "\"Naubasti West\" Kanpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "86": {
+      "cachedAt": "2026-05-17T06:56:06.182Z",
+      "query": "\"Jajmau North\" Kanpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "88": {
+      "cachedAt": "2026-05-17T06:56:06.182Z",
+      "query": "\"Karrhi\" Kanpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "90": {
+      "cachedAt": "2026-05-17T06:56:06.182Z",
+      "query": "\"Kidwai Nagar North\" Kanpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "91": {
+      "cachedAt": "2026-05-17T06:56:06.182Z",
+      "query": "\"Yashoda Nagar West\" Kanpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "94": {
+      "cachedAt": "2026-05-17T06:56:06.182Z",
+      "query": "\"Becon Ganj\" Kanpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "95": {
+      "cachedAt": "2026-05-17T06:56:06.182Z",
+      "query": "\"Chandari\" Kanpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "96": {
+      "cachedAt": "2026-05-17T06:56:06.182Z",
+      "query": "\"Baboo Purwa\" Kanpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "107": {
+      "cachedAt": "2026-05-17T06:56:06.182Z",
+      "query": "\"Talak Mohal\" Kanpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "108": {
+      "cachedAt": "2026-05-17T06:56:06.182Z",
+      "query": "\"Begampurwa\" Kanpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "110": {
+      "cachedAt": "2026-05-17T06:56:06.182Z",
+      "query": "\"Cornol Ganj\" Kanpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    }
+  },
+  "notes": "Per-ward crime-related news from Google News RSS. Queried per the ward's distinctive neighbourhood name + Kanpur + crime keywords. Items are filtered to last 18 months and to titles containing at least one crime/police/arrest term. Up to 4 per ward."
 }

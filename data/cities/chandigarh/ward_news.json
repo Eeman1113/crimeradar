@@ -1,5 +1,865 @@
 {
   "source": "https://news.google.com/rss/search",
-  "scrapedAt": null,
-  "wards": {}
+  "scrapedAt": "2026-05-17T07:07:10.550Z",
+  "wards": {
+    "245": {
+      "cachedAt": "2026-05-17T07:06:35.325Z",
+      "query": "\"No 2\" Chandigarh (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "CHANDIGARH POLICE BRIEF OF CASES DATED-22.02.2026",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbmdBMms0Z1dRTUZGS2FqUkE0MUYzeTFQYkZaZm5lLU5sNmlzdUs0cm1RblpUQ29BdkVadHhqc3ZPVDh1UjRQUlkyT3NOcjRCc2dKeDkzRVNNcDNWLTZiWFRIZFdONDNGaVk2Sm9VeUc1SS14Y1dzakdfNEVCUXVsVHp4SmQtMVBzMW1GTzI5RnFyZEF5WnI4anNaM3prQQ?oc=5",
+          "date": "2026-02-22T08:00:00.000Z",
+          "source": ":: India News Calling ::"
+        },
+        {
+          "title": "Punjab & Haryana HC Dismisses Plea To Recall Its Earlier Order In Rape-Promise Case, Citing Statutory Ban Under Section 403 BNSS",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ObmdyRk93LUtHMU9VaURlY25hRXRBS0VVYXpOMVFzVl83UlJhQTJhLVRkNzlkUFNjU2VtVllCQ2NtVmV4U1gwdHI0STNkVVpzNjlfSzh3ejdGa1E4TWtaelFPWjRWZldfLS02UVZ3NU5RRFlFUUlFSzZhSQ?oc=5",
+          "date": "2026-02-06T08:00:00.000Z",
+          "source": "LawChakra"
+        },
+        {
+          "title": "CHANDIGARH POLICE BRIEF OF CASES DATED 02.01.26",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMFJOdEJMc25uelV3WUc0RXMtbnJQcUZOYTFWYlh6cmlzRnhvOUhVX2Y4Um13aHFnN3lBZlFUNkl6b0NoaVFkYTNZc0JVdUVkOUpMN0lfYjhvb05RVTF1emhVM0FrdVpjd192cFFFTC02cWdsbzhSVUtBSk01TWg5aldsckdBbWZ3RmJRRFk2MU03NXpfVlJSR2p0TEpzZWY1bnpF?oc=5",
+          "date": "2026-01-02T08:00:00.000Z",
+          "source": ":: India News Calling ::"
+        },
+        {
+          "title": "Haryana STF caught 804 criminals since Jan 1:Police",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQVJwRnFoWnRhWEVJVElYczNaVFBhandjX2N5TVZaLUpoOEQySkN1eWx6ZENaNDE4RVVicjRnUHp2OWVnYWkzNjRUS2ppVkt2bHUyb25xWVJVRWpCcHpKTmFJY1M4dlVPZEEwSHJaeVQ4d3VyU3BCbnVZb0VVQ2VrX2thYl9pZkxLT1RfYzdyQzlYVTNJc2pENloyVkVYd1RlUzRHQWJ1QjJlcG1oc042dEJBMTdCZmlEZWJ6NW1OUXFEemZKY3Zj0gHMAUFVX3lxTE9TS3RrOG0zMXg2UzI2TThQdUFzTFJDWk9jczZQbmNkcnRPZE0zVmF6Sk83dnZOV1BpOFRMakZmWmQ4STRWTHJNcjl1aDhWbXRrNlBrcHoyY0hteFVMa3R2XzYwRHh1cm5tOWpYN3pyWG9tLThsU01TWGEteU43T2dNM3lQeXBQZms3NHRDQ0gyeTZxcVBkQlB6SHk5YkNzb3pZcVdfZXhWWTdkNHc3bG5vMnZBaDM0NTJhUlg0SDFMQnRyakZkLVdhb0hmRw?oc=5",
+          "date": "2025-12-31T08:00:00.000Z",
+          "source": "The Times of India"
+        }
+      ]
+    },
+    "246": {
+      "cachedAt": "2026-05-17T07:06:35.325Z",
+      "query": "\"No 3\" Chandigarh (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Dushyant Chautala and Hisar crime branch in-charge file complaints against each other",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTnduM1BxLVFLT2k4SEc2N3NtV0VxZjlRb3MzRzNQNjFRMHlReUhyVFVBZ1czaWRGV3VmcU15bzlISVBkbkZZeHVValMxR0s2RnYtUWJXMHZ6U1FFeEtWMFlMcDc2VEUwZHBBS2NmQll4QmttTTAzQ0lIUTBPeHNQZExZUUtGTFRsV2hyaVl2MWVqWkxlUEFPTld3MGNwMl9SXzR0NmNRZ1Q2MmZzZVRxZ0VyTjl5ckRaLWhha20tSWFfaHN1WjNCaktn0gHQAUFVX3lxTE5EdUN2d2pfYUFNT1l4WmJKWkxoUlVaLXotUms1ZDVUNlhadnRiQUk5VW5vRkVJZERUVHBRU3FNSWRIUmhTdkpGQ0VZQ284TV81dUE2dFhhWC0wRFEyeDdsc3pRZEN1WUxzeURYaDlVQVJPeWVfb3Fsb0drekNLaHpKYWo5UDFYakFNWVQ5M1VhS3NmMW52WG5nNG5HZlFSbW1GTzhlSGtmeHNnU2xuOW9nTWRUSTBwbTRmM2d5SnIwcms4ZnZtalA3T3BLRW8xTno?oc=5",
+          "date": "2026-04-19T07:00:00.000Z",
+          "source": "The Indian Express"
+        },
+        {
+          "title": "HC modifies directions on organised crime investigations in Punjab and Haryana",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVWVKNV9IWGNacG5NaHJVTGxMMDFkVVZaQW1ERXRsQXlyVjYwbGlZWmF0Z0ExREZIODc5dmJBaGNpRXhrTHMzdVZPSWlUZ1RKSklyRGNCVy1DOXhDLWFLUjlQQXpmc1MxSXpoQ212WDViaGJxX3RyazRSOEpqZVo4eUlVY0ZPSWhCNVBQTGNxcFMwV1BIVGxFQkFoYWJzVGFaWm15SkM3QmFRb0ZPV2hzOURQSGlJSWdERHRRYUQ1WXJrdGhZcTZzckdhRnpwMWtsZVpjc1NZbHdFY0lZbENaRmpja2RoSUM4RWMzcdIB8gFBVV95cUxQR3VodXY2SXgxWnpsRU1DNjNxcW8xRmJKdXZkdmdWWkxJMXYwZmpXV3JISi1VZGVxNm1hbFBQX2pmNzRidS0xLThPX0lST1V4cGdkakh3bDNlS0RkeWN2cVZ6SFJxd0FTM0JuUVVXNjNSaTRlVkhiUlFvVXpycGpUWVVUTGlUZm9OcS0zelVwaTZNeUI3WVBBM1ctRjZiNkE1a0I0UUxqeXFZeGc3azRudDF0RjM2NGljbkVNMU9hc0hJUm80c05UeVRiRmpMMmV2eHJkUXJhM1RyUTNRSFluNlhEaTJRanFGeVd6SXJCTTNqUQ?oc=5",
+          "date": "2026-01-24T08:00:00.000Z",
+          "source": "The Times of India"
+        },
+        {
+          "title": "HC seeks police report on attacks, thefts targeting lawyers",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQN2pmQlBJdEdVRjdObXRkU01aQmZPLTJZbXA5SUdNMm1PMEZIY0duQzdiaV96b21LeklKYVRWYXZoQUpaenpveDN3MDBmQkp2Z3RXaFBIMUtibWF0UVJPWnJpX1RYVEJDMnZWTEFlcEdsUWhaMDcxdmVPaTBsR0poYTdhRWd6UHM4Q2VJTVBpRDQ2VUhPY1NoX01PMjFmWGRmbU95VTFrMHk4SUw1MmE0a0ZoOGtTTmtXa044RHdMOFZ1NWdmQ0hpT2JGcG4tWTFmSUHSAdcBQVVfeXFMTlM1YjhudkN2LVMwVjA5N3AtcHpsU2I5OVUzZks1MWxSbWp6aWw0c2dSaXgtOHRBZFBHTk5ybUI4a05pSmlreGlKYUo4cXpxRlNzYnJ1bjR3c2hkYXEyaWMzczdMWTFnNEdpUHZyUU9VQTM3RnF0U2NNZWlMUklrbkRwU1BOekExOUtHRTJ1Nm1DRVlyUElZVjZ3MlVpNlFqaGdnQWNfYlQ0NnFCWEZMR093ck1ndE0tZDdfLWNjenVHRUZZbEo3ZHlyOHFxVVRybjF0cGRONHc?oc=5",
+          "date": "2026-01-24T08:00:00.000Z",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Prime suspect among 3 arrested for Thikriwal sacrilege",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONHZyWGlXbzREbjZ0WjhDV2tDMUtPLWdURkJNZkFFYmNYVy1CQVZCd1JNX0pvcnZOTC1aeHRXRVZLR2JmeW0zcTRFb0xHRklhNUU4eFBtdHpFNGpNaEM5dmtDdzBRbEhjYzZyTFQ5TjUyd1Exc1hyMGxvdDJ2T3Y5MTJIWDdobnhfTDU4TGxqNHF0NHUwMTBQWWtBTzlSUTdSMXF2XzIzZWs1NEU0bW44c0FmV2UtVXBZOFBtaTlHZ19WWE9MM0stTHY0LUXSAdIBQVVfeXFMTlBhZEE2OG1jNzdwWTROdVRIczJqTjFGUW5sZXZQN2luUTdwb0o0OXNDaExndTRYTFlGb3BNMUFQYklKeldnZnhvbzBXWklGYTFDRTExdkxJZi1tM3NnaW1faHRoSDA5QzhMTXF4ZEtJcGI1cTc5ZFVYYjJyb1IzYmJHWmxyRmNZWC1wd216RVl0VlFxWTU3a01DUnVvc1JHdHVKd0J0Sy00SHlmWFdpaGx4bXBJRlEtTnh1MGdIQjV0cEczWks1VVN1TG15NEJoemRR?oc=5",
+          "date": "2026-01-24T08:00:00.000Z",
+          "source": "The Times of India"
+        }
+      ]
+    },
+    "247": {
+      "cachedAt": "2026-05-17T07:06:35.325Z",
+      "query": "\"No 4\" Chandigarh (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Mohali police arrest sister-in-law of councillor who quit AAP to join BJP",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbS1tN2ZGMk9HTF9USWd1VldWTG9rdHBaMTljWkxtcFl5UVlSakszSGxFWVFEdXlzSEVUQzZDVzlNVl9SWHQtaC03X19mS1V1ZXdqbVpWOElLbFlmcTZSeGFqZGVocTdveGNhYnozVUdyNmpmUmZ2cUpnc2NuV1dEYkJsUk5VaGxGek9pSm1QUjE1cWZtOW5ZOGtvNmtXZWY2WTR2dVVVVDdaVlViWHJwczdBb2d0X04xQWNZ?oc=5",
+          "date": "2026-01-12T08:00:00.000Z",
+          "source": "The Tribune"
+        },
+        {
+          "title": "Chandigarh councillor’s kin arrested from Mohali | Hindustan Times",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNa1R5cFNfdFRiU2J2ajF0Tk5iRGk1WHNpb3FwX0VXaXBMemVSMGREbGdmN3F6VUNSZmU2WDVEVTNtY053bi1reFlQNWE1ak91Y0xZTUpnVFRkU2ZtN2Z5SnVaYWV3bDdfejVIQ0dQUEUwQVB0QVJmZWwzbjBvWEFnMHl6cUlZZjl6ZE9PM050OW1BR1l2aTkyN0gwaHQ5OXR6RGFMcjBVRXl0djQwbDQ4V1BNOTJnY2l4ejNHTFpJMFXSAcYBQVVfeXFMTmdWczhEQTBsNHNoR1JJX1NLSV9tWGt6YUZGSU40b002eHppTGZxeTlHbnY5TWVkY2diUmo0NDFKSXhaaDZXcE9iOFRoaU1tU1ZvYmhSR0JSM3JDaXRpdy1qNnNvbUlYQV9abS13d1BWaEQxbXM4a08wRzZpTTg2RVlWcGV4QmlXRHJFQ1pLOUlSZ2V2ZE5PcXF0czNndDl4UzBVS3A0TUxiODZXbi1IMVJUMmJvSTA1eklFd3hhNWVCOUtSS21R?oc=5",
+          "date": "2026-01-12T08:00:00.000Z",
+          "source": "Hindustan Times"
+        },
+        {
+          "title": "‘Well-planned conspiracy’: BJP; SAD says state machinery being misused to harass and intimidate political opponents",
+          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQUlpTOWE1ZmZSRm9KUkI1TkJQTGVta09YbDdEVllsRHhrZGhZaWFIR1JMd0xhTTZYUnk4dzZSVGNkZkFWYUFOMjJDUnEyMnFGb0Rjb2dXczJQYV9aX2J3QzRHM2FCYUVERGszbUw2S2ljZ2UwMVFqU1hJTkFpRG5qVE9zbkMzOGpyNmxVajVOd1N5RjlveHFLSHNWSjBfNmc2T25obFpGaE96UUY2NXY1cXduSl9OdUZ5cHZ4X0NlUFh1cWt1RktNR0J4UkQzdWpjZVBkZDBGMUE3SmR1UXdFbnhBVmdCQkNOUHppdWR6ZjZhN1RzM3lqbmxOU3BBWjJBaFBz0gGKAkFVX3lxTFBhY3FrV2Jxa0VkQmMwdTI5M1BiaXR2bURZWnd4bXViUWxhQlAxSHhpdmxZN1pySXZJM3MtYlYyWlNvQUhMVGtncklqRU1jNDlxeWJIMElMa0d5Y2xmYllnX0l1QjJ0S1paa1lObWp5YVZWUGVLRWNiOVRpazdMRlZEcjdXb1haVnBpMnlJNkQtb0FiQUxiZkN6OFJacFVXR2RqQllLcWs5aUlOWFN1bXNaNTh4dEZtNmJPVnRUOFhYc1FVSUwyRjR6ZHFwVlVueDBTR2lZNmVoUWtab0trVl9IVEl2OFI3anZ1RW9VRUUzYW9lakNZZVZtNkNvSUJoUGhxcVkwTWh2R213?oc=5",
+          "date": "2026-01-12T08:00:00.000Z",
+          "source": "The Indian Express"
+        },
+        {
+          "title": "Accused in Jalandhar sexual assault and murder remanded in police custody",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOYUVYS0JQcms4bnJLQlJyX1dDQ2Jpa0toR1BMTmtYcFJrdF80QkVUSFZXem9XZWY4OTctNU1JYTVwbExhemxmOXVwajhxRWNweTNzQmltRjNoeTI1N1FLRlkwaGRFSHh5eTJ6RmtLeEVOTlByWFBnd2cxT2lSckVEM3JXWXJlemcxQVQ0MERxUDRDWXZzZnc0c1ZxNkRFVXJiZi1VbFZDU3U0OVE0UHR5X3JUOExVcDVFLWFJcHFLekhrSllib0dFdDl4eGNEU2pia2hnNnk0b1FnYmVXOXA5bzFCblVVQdIB6wFBVV95cUxNczNUY01xQVdLNms0X1lPblNYMGZmQ0JxdzQzaGRKTmFrdkpiRU51VjhhNElmTDdFbmItaGU1cFlWMjlKUnItU0hHUzktVFh0aEFVb2w1eDdYMExjNC1WUzJhMWQyNUxoczVVQXF0Y2xxU29qVkRIaXRESlJNZFRuUndLY3dDRlZsWjRwN2FGRTZyOVNxeU44ZV9fWndFVmlCWEhBd0xXQ0ZGa0dpR0xlQ0NIZzFIRVd3eDNQc0wwXzhIM2pZS3ByLTRJSUtIZG14QTJJa2VRcEFFVUZuZkpNZUMxZTMwX0hvSGk0?oc=5",
+          "date": "2025-12-04T08:00:00.000Z",
+          "source": "The Times of India"
+        }
+      ]
+    },
+    "248": {
+      "cachedAt": "2026-05-17T07:06:35.325Z",
+      "query": "\"No 5\" Chandigarh (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "CHANDIGARH POLICE BRIEF OF CASES DATED-19.03.2026",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRlY1ODlfVDRCckp3c1d4TVpBeklpdmM1bmp0ak5tUGlnekNtV3VJZjJxOGRQUF9UczRpdFNWdkF2ajNzRF9DdnMzamQzRXNXclRCTWRMNlFzTkVWTVZVSHgtajNpekMwUlAyZmVJRmtZSElNWEl3alJZdUNCalZzYS01RWNuNTgzcGdKd3NJRGt5eW00N2R4TlRselBhQQ?oc=5",
+          "date": "2026-03-19T07:00:00.000Z",
+          "source": ":: India News Calling ::"
+        },
+        {
+          "title": "CHANDIGARH POLICE CRIME BRANCH BUSTED, 5 NARCO OFFENDERS ARRESTED - Face2News -",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNVAyWS04a2ZpZ3N5d1ZOLXYwZnJtQkpMTDB4bFJQNEtOdTlwQmU4RlJCRGhKci1QOWxPcko5TENmVVBEbENNOGlMbk15RXd3ZVh5N3BuTXdNNktSTEEzOVdfZnJKQXc2MElveVhCMlJvTlYtWWdxSDN1WTVwa2tQWkRQX2hPMnZSYUd2NVBzMDUyRWRvYWVwaXhpRDMtVFhH?oc=5",
+          "date": "2026-03-08T08:00:00.000Z",
+          "source": "Face2News -"
+        },
+        {
+          "title": "Robbers loot gold worth ₹3-cr, ₹40L cash from Gurdaspur jeweller | Hindustan Times",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMEtRZHBuWGx5M1B5S0tLOXJ0SmZYcnMya09sOUFvYWtjSURYN0pfT2Zncl9NOThwc3M2YmZzNE5BMjlxZVh6clJMd1FfdDlyazlCekZwYnBuQlVDNmtzcE9qT29PbXVORjJVSmY5ZkcwYU1CVGdUM1hEWVFPbkZFNlJHa1A5M3BmeXJaazRKX3lWbS13MXdxTWJabFA5TWM4TUxWOExNVmxiU1BWSnJlVmp1WklhNUQ2NXFoUFBaVHk4SndJWVpuRkgyRWhGSFJmNVHSAdcBQVVfeXFMTmJUd2JSenU0Q2dsQXY5cDlCNTFscUxQdHBxWTVUTmdtbXJqd2tiVGRlck83MmJhcXVLQmhlTXFicC1tSjNzdTd0T0szbXlTSkVZcjdpczFyZmhIR0d0eEdPQU9ycGNyV2o3cGtEc2hXZ0pLUjRuY1FCeEJUdnNfR3ZRX2w2Nkw0ekpPZ3VBNFRsdXJ3MktTSG5fTnlscVVpVGtpRlE0RUV4UTBxQW0wZHU3RWplcy1WZXdlMTZCYm5FSGhWLWNjWE5ocm1sLVdiWjhwQjlGb2c?oc=5",
+          "date": "2026-03-06T08:00:00.000Z",
+          "source": "Hindustan Times"
+        },
+        {
+          "title": "CHANDIGARH POLICE BUSTED FAKE CURRENCY RACKET OPERATING IN DELHI, HARYANA, UP, UTTARAKHAND , JAMMU & KASHMIR - Face2News -",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVFhJdmdTVzY3U3h4OERlejlBSUNNek5TLUV4NUFsV0p6djI3S19iR3F6WlZkX21OSWlCZzdoY0F2OXdUWHRuX09iY1ZMenFNRXI4Tzh5dllaQ20xOE00TndJczRSRXhCVWF4dlZFNUtHVlZScFVSaVFTZ1dmQkRlM0FmLVVvNTRvTDZ2UFVFRkROeWR0bGV2azFB?oc=5",
+          "date": "2025-12-26T08:00:00.000Z",
+          "source": "Face2News -"
+        }
+      ]
+    },
+    "249": {
+      "cachedAt": "2026-05-17T07:06:35.325Z",
+      "query": "\"No 1\" Chandigarh (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Punjab Police arrest two more in Chandigarh BJP office blast case",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNV190RnFlNGhaU2ZHRW1NTEFUTXpEbWN5LV9kWXJURG5CVktGZlJuWGtKdlFmOXhOdVA2VWdodGxXN3FUNlprNTg3TG1pU0VrT0ZXbkpwaWJtUHU2bXY3b0dLSmFYaDFkUG82YTl5LXE1dEdHRldldDFCUXdBZ3ExdWVXSTV2RWFBdl9JRnZnVzlldlUxZktfWTVreUpHV2RXbi1pUURPMU5LUFFveFYxSmd5d0htTF9UQnJFLVdGdTdJMEVoRGp5dEpNeW0xd3pzT1Y4RjYtVHRoUGVEZjZZVldzS3hmbmRo?oc=5",
+          "date": "2026-04-06T16:07:31.000Z",
+          "source": "Dailyhunt"
+        },
+        {
+          "title": "EOW arrests realtor in 116cr Chandigarh Smart City funds scam",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNX2Q5cmNkdF9QQnVqbGNGVEFJTXBpRnU2ekNuazVtdm5KUlgtaUpiS3U1aFVfUHoySWZsM00zU0l1TGRwLWtWcTI1XzFxeEt4Vm10eVVlZjdMdmVlcXpoYXhvZzJZX3pQRnlhZ25WSFFMMkl6cTdUMDYySFhhTTZxWXlBYzhnZEMwR3ZzX1NPM3lzaDlrNTZlM2swQUJkcU1UdlBmaFNpVWNpb0VnaVJDSlBzcTgxWnBJRGNWb1VycUk3aVdpSnpkQ0xMdTVtRW9oN1FYVHhB0gHbAUFVX3lxTE0tTXpKbTdOLXl4YVlrdVZvZVFENS1tNnhrYWU3X05sY0RsVzhrTThhQ0FNVU5aS01CNktscFZJWHJzTmtxeDBjNDVmR0VOOFJLeFdRQkdzazN5eFY3Q1RCY1ljd21OVVZQdEtsalhXRE5LNUI5b19oUWJ6TVVnaHRKT1NqTWRwVUF4cHh0MW5pRWRtTjRZZHNJU2s4YU5YZmpmR2JzY25Dbm9uRWl0dnk2Q25kZ25qbzRPUWNGOGhqYTZsVFh4TVdWYjhSaV9lb0t3clFQbmttS2tIMA?oc=5",
+          "date": "2026-03-15T07:00:00.000Z",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Elderly woman duped of Rs 1.2 cr on threat of ‘digital arrest’",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNlJQbnhCWndUNFQ3dXc0T21FdWx2WmZNTWdkMF8zSVJYbk4wYzVSMVpoeXgtWk9HcDZFRGxEc2FEZWZyd1I5NEY3enkwU3BVSHA1eFU5UHVQa1Z2dmRUZ0NVeDNwTW0zWXBTY25YaGJxRWxPWXQySDl0RnNhamZrXzVBNW4zY2luVEp5V0FJMHp6bm0wdkdmenB3TUN2OU1xSmRGcnlJVDdUSTE1aTlDS2x6QzFrOFB1Q19oQXlsNTl5VUhLV19Qb3AxZ2txN1JhV3Q5dtIB2gFBVV95cUxNS0Jlb2hhdWEtcGNIWUFiRm5TTFJFc2Rmc0ZSUDc3Ni1Za1VoOGRqSXhqTnVEZTlyMzA1T25fdEduem1fQTl2WTduRmpxeW9sMVJiYkdiNUZ5dUdKamhkMUtUYjlXMEJteDlhWFN5T1BIakZzOUdpVWRlT0JMUUp5LUxLMDhOOHVuTUV2OHZ4RGFObXIzMU8tSEtmVEE5bzVnYk1wWHhGUDFaVGJhZkNRTzM3UURvYnhhbVdqb1JTNEozVWZkdUpPTnZzQUdmaE5idUl3ZWI4UmNrdw?oc=5",
+          "date": "2026-03-11T07:00:00.000Z",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Minutes before Op Prahaar-II raid, cop suffers ‘cardiac arrest’, dies",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZU5CUnBnWG82eUd6V3poVGVnM0NhREpFd05RbjEtcGdzSm5yWnowdEpYak1GUzFxaXpGV2VXcnVzdkJuNHozdjlYdjNNWG9iQ3p0WmZIclJsLU50T0FORTBwX2RtTXljcE9HWGVmX2JzQUVFbk1iTnR4SXFUTDM4SjBoYnllOGtqQUNzOFhId1Y5cG9fUjRmdmdib2JjTHJ1eE1jR2RWeTJZeUJNUU5tQmx0eXhOdks2N0p5Q1Z2ZVJMLVlKTjNhS0kyZ1lSTEVjTXhIbGdzVUppNlHSAeABQVVfeXFMTngxa1JFZHRlTHdDM29IQmxxSzBTSWNGRkUteWxtNXNIOVhYWWVvNWlSWkhRaGNzTWhPcGRWY29veGVRVGZEeFN5Y2QxV3pNRFpkU0RYOFdIeEVIc2ZPMmpNRlE3Slp0LVNTcUw0S3hyaUdUZ0tqV0NaZVQ1WjJ2YTFvcDNwYTg3WVprYllnb3hmMkhmOTlDaFVuc0pTYW5JcDY5NGFLajhzYnYwcnp5VXZYUlpCdUVMM2xfdUk4RnptQUJESEpIYUlScFpxT1NHVVlHOGljTGQ1Mk00VGhQa1I?oc=5",
+          "date": "2026-02-09T08:00:00.000Z",
+          "source": "The Times of India"
+        }
+      ]
+    },
+    "250": {
+      "cachedAt": "2026-05-17T07:06:35.325Z",
+      "query": "\"No 7\" Chandigarh (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "ED action against close aides of AAP top guns: 2 Mohali FIRs, multiple police inquiries form basis of raids",
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQaHlYbWMtTV9wQU0tekJTTXdUQlNGdkp2NzAtQlU3WE9QLVp1U0k3RHlELUhJclMtYnNKTDg0VURQX2tld0cwajZOdUtoQjhwMVV0VGRNZVItUnA2YUhMczFqMTFHd0lPS1ZKcUxuRlZVcENCaWlBY2RMdzIyUmQwQ0ZMYXNibk1vdXJIYWdQZi03UVQ4UVhJNjVQcEItX0dQV0F2WjQ1MkNoS3JqcVQtYkppWUk0djdxdTRLYXdQTnpWVm8za3lyS0JrYV9KcmVIYjV3RXNzR05EVGFsYm1lTldyS3czY0c2RkEtWWpGVnZfck1nSEljQlRMTdIBggJBVV95cUxNdDZ1SnU2REE0UXFieHlyeDdjQWotZ2FCa0FFbldkY0RTcWZSVWdJVUVkbEpjdGc0b0RfT2hhLV9RR1NkRDloR1NQTXVEa2pPbFpBYXA4dVFEZ2d2eXhXQ2hKUzY3UllOcGFnWC12bEJMQW5nVVlDenR1NjBjRXJmcndxWjI2aEs5NzBhWk5pc1cyVldMZ2pYY2hESzZKcEl1WTVicmRKY2ttVEdGNEtZY0ZZaG1IQzd1bTN0NUV2Zk9sN3FqTmJMMkpzUmRZMDhtSWxOOHVRTUlCT0x4X0JJcEY5NWpLWTd6VDFZc0lVYktsNkthdF9MaEViU0ZnSm8zRXc?oc=5",
+          "date": "2026-05-08T07:00:00.000Z",
+          "source": "The Indian Express"
+        },
+        {
+          "title": "Jalandhar police raid spa centre, exit building through ladder",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYVRuTFdFc2R2Z3drSnd5cTNPSUo1eGdqQmpnbXdJS0RIUDNmTlo5M0QxVnBWdTE0cjQ1d2haQTVpSXRNUmZXRno4bW1mWDBjdlVzMDhQVWV1bjBGQU1xMEoybEJKWjBjWl9KcmlPMVpnWUQ5amZwb0ZlSHZkUHhteGlsV1lvclFUbUs2VWpDY1k4RmVnM2dyZEVrM2MtNWs3dFc2NU83cGk5QQ?oc=5",
+          "date": "2026-03-28T07:00:00.000Z",
+          "source": "The Tribune"
+        }
+      ]
+    },
+    "251": {
+      "cachedAt": "2026-05-17T07:06:35.325Z",
+      "query": "\"No 8\" Chandigarh (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Ludhiana: 4 months after earlier arrest Congress leader Indi booked for allegedly assaulting labourers | Hindustan Times",
+          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNZlYxY2pzbTZ5RmQ0RXNOTDhmZ0RUSTFLTTlJbFBOOEhTSk5sdk96dFc5MWphdFczV0dyMGxyWmx4eldLU2ZJNVJFQll2a3FwcmxaTTFZRG1mOWpYeWQydHd4anYxZUtVdlVHZGFSbFZ2c1FtRUdNTkZPZEFLNUFhMEs5MHpHT2VPX196aFZpWkc3eHRHcEFMdzFzRVJ4b2EwOGNBb2N2cHlQX3JYek5sM3Q1WjUzS2d2VXNpT3JDakpyXzY1Z25mc0F4Y1llY0JsZ2J2QVFMX2tlUDVCUXJHT216UUpYbERZZWJrbWtmOEdrbmM4TkNQbUNlWm9YZ0VGQVJSMFQ1SdIBjAJBVV95cUxPLUdZbUYwb1paQ2dUa000T2VPMFVfeVd2a2NrZEVSSW8tRFoxOS1EM3FqWWtCYVhWOVhfZlZCLUNNMmRGU2l5VHo4MmpNTndOZjhFMlM3VEJTc3k1eUhNbS1OVE14ZFR2cUFTNXJKVW9mbEoycC1Hb2FYZzN1Xzh1cFpnWkM2MzZpcUV5WnN4c2FjN2NSOTdMdDBaMXdBNjAteW9ZMHUzSzBzaVJMUldhSjltMG45ancyazF1NUN1cFY4ZHQxMmhBTERBb3hIcHVWTkZseHVGTzAxNWI1NWs0RkJXS1pWRXVEa2sxajFRTnRMdHMtT3NieW5iVTg0S1FsSjlMVEpsajhHcEpH?oc=5",
+          "date": "2026-04-16T07:00:00.000Z",
+          "source": "Hindustan Times"
+        },
+        {
+          "title": "Court releases Ludhiana Cong leader Indi, terms arrest illegal",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYW40ZDhBbnExWFd1X29nYnpXNmVKNkc0ejhyR3BVZkptZ2IwWTdmLU96dlh2cFhRX213QV9oWnRhZmh4b1VFYmlldW1ZT1BUM3U5VzJKNDFocTVfYUlDSlJ1dTA2bTZicjNnYVdhU3NaRWY1RkFVSi11S0xMMHFOZXFDVUFuRWNDenVQNFh4eDllbFJYdHlVVWM5bUZCS3VFcm1XTkhQaEw?oc=5",
+          "date": "2025-12-22T08:00:00.000Z",
+          "source": "The Tribune"
+        }
+      ]
+    },
+    "252": {
+      "cachedAt": "2026-05-17T07:06:35.325Z",
+      "query": "\"No 10\" Chandigarh (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Rivalry over girl behind Kathua murder, teen arrested: Police | Hindustan Times",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcFdtUHd6dVh4TkY5RnI5MGxRT2stcWtmOXpUUlNJSm9ENldOUFFyQS03cm9UdEVhT2RMaUxrclFzWGUxNWNOZVNuM011bUtQeXI0MmFnQkZhaEx2OXhWUUx6ZzNfZjd3XzF0ai1qd01VTk1VUnJqU2lDMGtFbHZpZUVwejJ0OTBlcGpZa2xueGhxN1RuR1lVMF8xQWVPMmJ5Y0k2eTA3M0VSYmZUckpPRTFLN1QyZEdyY094d1hjMHJ1d2xGWWtWUDhLbkpiazTSAdQBQVVfeXFMTVkzdG9iVWhVcTlQUkZLcmhSV190ZDVaTXRMdDh3VnNDZlFUM3Y5dDlZVG4wWXJWOTVMY1J0X1lkR2wzMmtOMmlkc3NzanpUUHViUXhITHBmQjU4by1Ec2Vkc0gwd21pUDhEUWRvenNaajhVcDVQRFlRNjhpdzMzOFVlUnJQODFoRVhwenpsdlhNVV9LbkswMk9Oa3RiQTlubGFZbVp0dmdtSjdVWFRyTTJWLTZYYWZONTZWZTdVLS1aV3dYdGRYM3kwUy0xbDE5VlRKQlk?oc=5",
+          "date": "2026-05-09T00:38:14.000Z",
+          "source": "Hindustan Times"
+        },
+        {
+          "title": "Mohali murder case: Main accused, two minors held within 12 hours",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcjhCM0JVTzNNNUNCLUI4R0lLYlBtSUs4R2dFYUZtZ21USURpM1NQczFYRGtYY0FmZVFINkQ1ajh2RUc2aGFCb3gzcjZjYW1uUmNLUDRQVlBaUmJTeEZFQmh6azFPMm1JMGY2U1p2NVlRSmVKQTZLeTV3aVE4Nml4ODZDTXZmeU1Nb2ljM2RFNFM3SVVTelFSdHdnSWhpZ9IBpAFBVV95cUxOeWxfN0JfTlhiX3FBU212RWRMNi1mQWdJOTZBM1BzLUhEU21VbDNaU1JobmRIb09td0FSR1puMHJSZUUxMEFuX21DUjZyb1BkYmFYd2hmMjB6TzhPT3MyVkRReWdmZmRVZVZYSkNtbUp2djk1U0xpVTRWMnVYSTFrZ3VXUzlYU2Y3NUdOU0ttVkJQVUN4UkhkZlM3LUQ5cUgwMXdwMw?oc=5",
+          "date": "2026-03-03T08:00:00.000Z",
+          "source": "The Indian Express"
+        },
+        {
+          "title": "CHANDIGARH POLICE BRIEF OF CASES DATED-15.02.2026",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONmFrOE5IN0xYMzZ3czNXZnVVTDdqMU90RTFKSndPSWNZZFJScy1lVWpTeDJ0SjNEZDQzMU1SdVR1eld2cER2QXVmYkxmeXR5OTFQSlpzMDNnQ2tpbVpxY3pMc3JBVl9FQVMtbkJQVlVLbDV4Qk1DM1MtTnZJVXF6QXRvUUZUTHI3elBidFlJOFZESkkyOXJaRzZyc1R1dw?oc=5",
+          "date": "2026-02-15T08:00:00.000Z",
+          "source": ":: India News Calling ::"
+        },
+        {
+          "title": "Shooter wanted in AAP sarpanch’s murder dies after encounter in police custody",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOEF6dTNjU2w3S0FaUE5LeXlsOTZrcDBMa1RCQm1CaFNkQlB0SUNpNUJRNmY4cHN1Y1NqY3dNRklLb3F3MXZWWldaYl9DM1VnQ0FmMUkwUVU2OFhFcWRyZTBvLTQ3TjhsWjZWMUVlWTY4SXRtbUtlWVlpWjVGOWtnWklLTWNXd2RRSWU0OFlIX2l6azl4UFNZMXlrWGFNT24tem5fRWx2TG5NMTl6SkxRVdIBtwFBVV95cUxQU1h4LThVX3BuX1d5RmVVblJIMTlnRmQtWFg2eTVZT3pQLUdJaUZoeHdhUkJpenVrZWhXV3RhX2h6QjFLZ2ZzRF8yWVVjQW52U0Fhcll6d1dFaXlDR3ViUHBQM042VmNMVEFFUlpnNzVhV1BLdm5fTHpSWGVKQVgzalk3TG9aY0h2cnhiaTNqUnMtRW82dU1fb29JNmxzMzlLdmM3MDM4RXZfWVpOMVZuYUQwT01PdFU?oc=5",
+          "date": "2026-01-14T08:00:00.000Z",
+          "source": "The Indian Express"
+        }
+      ]
+    },
+    "253": {
+      "cachedAt": "2026-05-17T07:06:35.325Z",
+      "query": "\"No 11\" Chandigarh (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "CHANDIGARH POLICE BRIEF OF CASES DATED-24.04.2026",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUWVHSWN1YzNPeU9jdWVnMUI0YkxxNERES1BDbV9DMFZZUG1TRmMyOG1uLUtyMTg2YlYzdWZLdmtFY2RCR2VXWHhNSTNDUl81ZlAyYVlRMmV2aXFTOGVuVHJ6bC00dm13XzZZUy1zODJiSVBKWUVRdld3RGJkNC1wM0dBdjdIajh0SjZSVzQ5MGxqa2lydDRWT3BkcDYwQQ?oc=5",
+          "date": "2026-04-24T07:00:00.000Z",
+          "source": ":: India News Calling ::"
+        },
+        {
+          "title": "CHANDIGARH POLICE BRIEF OF CASES DATED-20.02.2026",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeTJycnhPU3FCajlmZVZrTThyRm02UDhkWTFjdVZyMHJkYU9ORlNWV193Tm9fem1rNWxweWtfLVVucTh3blpxRjE2bjhRUlZTelVkRHFEdVUyVEluVHRGTnFLY3pOX3kzRGNENnV3dXcxQVRGSnBXTlZXZmdCd1Q3VEg3a2pvXzRNQW1jdi1vYVB6MEpQbm5mZmlYNFAxQQ?oc=5",
+          "date": "2026-02-20T08:00:00.000Z",
+          "source": ":: India News Calling ::"
+        },
+        {
+          "title": "CHANDIGARH POLICE BRIEF OF CASES DATED-19.02.2026",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNDdpNVFib2MwVU9hekJ2SWNHbnZSWUxMYUNOeUI0ZU5scGlxdnl2ZlFhTGNMYVhWMU5icFRuUkZ1bjRMcWREazJycDFNSEZVaWo1ODV1MS1XSEcwRUlqRDhhTlBpVWpHdFhJZUtnQ2ZNQmFKRl96X082VWV0MFRpbkNRUUlGWkRzazJLRTZZVXJkTWRMM2J0T0h2SHdxQQ?oc=5",
+          "date": "2026-02-19T08:00:00.000Z",
+          "source": ":: India News Calling ::"
+        },
+        {
+          "title": "CHANDIGARH CYBER POLICE BUSTS ORGANIZED CYBER FRAUD NETWORK UNDER “OPERATION MULE HUNT”, TEN ARRESTED - Face2News -",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQc1ZOUllOSUNIbGRrOVRfTkVJZGROSHJWdXlsbEk4R016a3pRRlp6N3Y1b0RfdkRpMDdCYlhVNW5SaURKOGlDbThsSmJ0OHd1d0ducUlvMjRfdTFNVks2UmV2YVRWSWM2UllsZGppdUxNTjEwTHJJcVJhNTJZSzREUHRMN2twMnNZbW5kc3RMangtQVo0endSNFRpdXRlQTdvVlNuVFZfa2VzakpzSUszT1dOMklVRUpXYzF5amJmei03NUlKY21YZmVMV1UxQQ?oc=5",
+          "date": "2026-01-19T08:00:00.000Z",
+          "source": "Face2News -"
+        }
+      ]
+    },
+    "254": {
+      "cachedAt": "2026-05-17T07:06:35.325Z",
+      "query": "\"No 12\" Chandigarh (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Exclusive: What is the BJP connection of Raghav Goyal arrested by CBI?",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTEo5RkducDJGdERhNXdpYzNjTTBGTGhWUEwzOE5FNjBNaFFoeUV2aDcwYjVkcEpUV3A0LVF2R0ZYdmR3dHlVcHJPdWs3dTZWcWtablhieTZvOWlWWGdEbmVMdEJfNmlOUDNtQWJPUFZMdVB5WkRzR1ROY1hIMHFZSnVpYk81QWFfWGtlWm56NmpDWnAzbENkc0JCSU5MckdqNWwtWTBnUzHSAbYBQVVfeXFMT2xucURxOFFMaVJIMU1yWmcyUjVxMmtfZW1RVWdDZU50aWlwQVBxcUhwYjduLWx6TGRsaGRlc191dHBWUWdDdkN0dDNHemRpVjNscHNYaVNIY3dYUG93aUFCNVZFV3pmN2tnS0Q3Y3VfaTIyQVhJLWFHTThRYzQ2aW1mTjFKckg4WTZkREJjUWhjSFctMkdMaGg3dXRZd2NONEdnU0lvem40bFFURXFpVXA5c3d2LXc?oc=5",
+          "date": "2026-05-12T10:29:41.000Z",
+          "source": "True Scoop"
+        },
+        {
+          "title": "CBI Arrests ‘Middleman’ in Rs 25-lakh Bribery Case, Raids Punjab Vigilance Bureau Office",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQa2NOSTBXMnZzUkU2S1RYNjlkU1lXOFNETG8yWVlnZDdmYWZSOURrRmhGMVFJTlNvSmQ5dUh4WHFEM0JKYXJad3RtazczakxSYWNRaU85bnVzSF9oZWY3V1puaW9TaU1lTjFVZDBGMDlKWHJIOUQ2TlNMZDd0LXlHN254TW1jQVV2cl9KSFlMMEwtdHlGT3lNQzBjRC1mSmo4QkVQUlhJZEFsWFVOVF9hTWdjbWRGVWtFZjNYalIxWDhCb3VDTjJuNGtHQ0NpWE00TFHSAdcBQVVfeXFMTTcwbFZSV0F3TVZ2ckdOaEdtWXg0V1FBNk9yVUZFakxFRkFOdEI3aURCNXdfSWlseG5hSkVfb0ZOZ3NyaC1tc0ZqSkVXY05GczZ2OE1MSk1lNmI1bXN3UE1obmtGOGJmUWYxRllBOUg2Zl9Nb25JY2phRUtTeFNBR05PdkpRUFZaVEFrNFZDbElZLU1BaTgxYjVZaWpVZnJwbS1MX21oRkFtRmV2bjVIX2pJZG9oNzdEUjVhNlNHVXhTbWFwejVsR1FxUzlCeWdpTUR2QWlhMnM?oc=5",
+          "date": "2026-05-12T05:52:10.000Z",
+          "source": "ETV Bharat"
+        },
+        {
+          "title": "Big Breaking: CBI Team Raids BJP Leader’s Residence in Punjab; Raids Punjab Vigilance Head Office Also",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNN2d2Nlh1MEhlVklOTG1nZmJZa1hYMkM4VjVmUHVQakdRVFJXOVc0ajY0SllBSGdyU21tQnA2dDh4WE5LbjlhZUNVUkRNbUY4VUVyNENuLWFFdTZCRDNkS2I0ZzR5dm9wR1dJUHgyRFBjNklYalpWS0tKc05vLWFvZy1CalN2NFlnOHFBUktoeHNfdWp3NWplcGFpdW9ZSi1lNVhrZUh2bFF5NGgwTVoyVHhiMTdqbjFWelFWX28wNTJ6NVEwLXpB?oc=5",
+          "date": "2026-05-11T17:42:00.000Z",
+          "source": "Babushahi.com"
+        },
+        {
+          "title": "CHANDIGARH CYBER POLICE BUSTS ORGANIZED CYBER FRAUD NETWORK UNDER “OPERATION MULE HUNT”, TEN ARRESTED - Face2News -",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQc1ZOUllOSUNIbGRrOVRfTkVJZGROSHJWdXlsbEk4R016a3pRRlp6N3Y1b0RfdkRpMDdCYlhVNW5SaURKOGlDbThsSmJ0OHd1d0ducUlvMjRfdTFNVks2UmV2YVRWSWM2UllsZGppdUxNTjEwTHJJcVJhNTJZSzREUHRMN2twMnNZbW5kc3RMangtQVo0endSNFRpdXRlQTdvVlNuVFZfa2VzakpzSUszT1dOMklVRUpXYzF5amJmei03NUlKY21YZmVMV1UxQQ?oc=5",
+          "date": "2026-01-19T08:00:00.000Z",
+          "source": "Face2News -"
+        }
+      ]
+    },
+    "255": {
+      "cachedAt": "2026-05-17T07:06:35.325Z",
+      "query": "\"No 13\" Chandigarh (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "CHANDIGARH CYBER POLICE BUSTS ORGANIZED CYBER FRAUD NETWORK UNDER “OPERATION MULE HUNT”, TEN ARRESTED - Face2News -",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQc1ZOUllOSUNIbGRrOVRfTkVJZGROSHJWdXlsbEk4R016a3pRRlp6N3Y1b0RfdkRpMDdCYlhVNW5SaURKOGlDbThsSmJ0OHd1d0ducUlvMjRfdTFNVks2UmV2YVRWSWM2UllsZGppdUxNTjEwTHJJcVJhNTJZSzREUHRMN2twMnNZbW5kc3RMangtQVo0endSNFRpdXRlQTdvVlNuVFZfa2VzakpzSUszT1dOMklVRUpXYzF5amJmei03NUlKY21YZmVMV1UxQQ?oc=5",
+          "date": "2026-01-19T08:00:00.000Z",
+          "source": "Face2News -"
+        },
+        {
+          "title": "CHANDIGARH POLICE BRIEF OF CASES DATED-15.01.2026",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQ1l1MGxjRnhQT2NmT21WWnBTczBhSVVLekZtUzNuV1NySzNSa054bHdfX09VWF8wa3YzTlZNWmgzV0F4SWJmQUVza0FhcElmMFlkRUtMcmRqN1BFbWozc2VXamJTRk1hX2RhX3I0RTFZUmtLOWZyekg3UmUyenVSSWcxc24zdUhoUFJBaU5LRTdtbmdtRzh1b3hVNDU3Zw?oc=5",
+          "date": "2026-01-15T08:00:00.000Z",
+          "source": ":: India News Calling ::"
+        }
+      ]
+    },
+    "256": {
+      "cachedAt": "2026-05-17T07:06:35.325Z",
+      "query": "\"No 15\" Chandigarh (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "CHANDIGARH POLICE CRIME BRANCH CRACKED CTU CASH BRANCH THEFT CASE , CTU SUB INSPECTOR , OTHER NABBED - Face2News -",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZURkTEpIR1NLWk90UTcybHNzTXNCYUNrb1pRanBBOU5XWnprd2ZNRmVtbU1wV0p5VE1kY0tyZ2I0b2pUR3lSQ0pUV1FXNVZwU1gwczQ5RFJqN08tR3Z4dEJ6YU9TTG1BUEJFUTF1TFAwbUpuS0dMR1hIRHJJQU9ETmp3UVdqMWRsU2xDZzBKTngwV0xRaENGcmg3WF9Wc2llRHJvaHNxUkJzb0FEYUtmUmc1ZGFJZGd6YldtZlNiMjF2ZTBITmVKTk5SZEc?oc=5",
+          "date": "2026-01-31T08:00:00.000Z",
+          "source": "Face2News -"
+        },
+        {
+          "title": "Sangrur cops crack blind murder case, 2 held",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNlFMb3BEZkZFMGZ4VXQ3WnpidHRNV21KbGM4RkVycHhCWjF4QUVZR1VZRW8tWm9DOFBuQXdudWZrTnNWdlVIRzZaUHJraF93S3RmdTNqM3ZzcVliQVhsVzg5SlRmSG5ZU0NObVVJZ0NoZThKYUdYdUZteGhMak9kTGFoUHZPaXd4VzctODg4QUxIVUZ4bDM4MS1hSWFsNm1jc05SSzJZQjhzZlZXU1FhTk5kbFlWNVVXY25lQlpB0gHDAUFVX3lxTE9wWG55Z2R0SjlmWVZoT2d6c1VMVXpuSXNqaDZlQ18tZjVFNHdyVEpJUUNUMUljOU80NWxDQ3NwSG1lY1pUbWtLaUJPQ2M4bVJRc2c3VENuTlBJWVV3eVE3ZEpVM2dQWGR3LWozZ19UNTF6aWpOeU1PMkRDSlZkMkpNRmdjdlc0Wl9LYV9tQ2ZCb3dMUWk2OGYtcE01U3ltV0l6UnliOVJITnA2Vi1SakRzTmw2VkN4V3d3UE03bFFjM1VMNA?oc=5",
+          "date": "2026-01-17T08:00:00.000Z",
+          "source": "The Times of India"
+        },
+        {
+          "title": "CHANDIGARH POLICE BRIEF OF CASES DATED-22.11.2025",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOT19rTS15Wk1iNUxTOU5xbGFlNTNGMHdNczRYdGdUejN0Ui1fQUdCRFNlLWhFdXVSSTRLVU5HcVdQZjJUaHpMZ1V4Y1NFSmRheFl1LVNHYWxTMmJiZXN5cnJ6allFNDhqWF9DNkxxQ0VlSkYzamZicW50dFgzQmgxcEJveWhqVjl1Q3Y0a3QzREllNHdqaWU3UTkzREh1QQ?oc=5",
+          "date": "2025-11-22T08:00:00.000Z",
+          "source": ":: India News Calling ::"
+        }
+      ]
+    },
+    "257": {
+      "cachedAt": "2026-05-17T07:06:35.325Z",
+      "query": "\"No 14\" Chandigarh (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "CYBER FRAUD RACKET TARGETING WOMEN TO EXTORT",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSzZjS1MyS2pkNzU5T3dxX2E0V055d29mSmZGUjZ4RFNMb3VWWEpGTVJhUWR4U3k1dEdWc1p3alRITEV5T1h6amxkRWNmZTAxaEpxcWY1amk5TTJIQ3NYNndhNUF1RHI1U0ZRa0hKV2lyY2FlczQzLXZCY0JiRzN3MjJjYjVNb2kyd1hmX1NaS1hQUUp2TkZ3UURiSnFKSnM?oc=5",
+          "date": "2026-03-11T07:00:00.000Z",
+          "source": "livingindianews.co.in"
+        },
+        {
+          "title": "CHANDIGARH POLICE CRIME BRANCH BUSTED, 5 NARCO OFFENDERS ARRESTED - Face2News -",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNVAyWS04a2ZpZ3N5d1ZOLXYwZnJtQkpMTDB4bFJQNEtOdTlwQmU4RlJCRGhKci1QOWxPcko5TENmVVBEbENNOGlMbk15RXd3ZVh5N3BuTXdNNktSTEEzOVdfZnJKQXc2MElveVhCMlJvTlYtWWdxSDN1WTVwa2tQWkRQX2hPMnZSYUd2NVBzMDUyRWRvYWVwaXhpRDMtVFhH?oc=5",
+          "date": "2026-03-08T08:00:00.000Z",
+          "source": "Face2News -"
+        },
+        {
+          "title": "CHANDIGARH POLICE BRIEF OF CASES DATED-07.02.2025",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeEQ3MU8xMGR2cVNnMDVBQWF3bFIxZlprdFh6OURYY1ZFajAzQVBrR2FsVkUzNG1NRGtaRmlvM3U2QlRZdWlPWmc1VURtS3pCbFpsYkg3ZUdsV1J4d29EMHRhcDV1MU5CVmVEbVFOUllRUmJpWkg5em95ZGJkWFM0Z3dubFgyMUpMaFhJRVJJNURqeXh5Q0MxNDI4VWVJUQ?oc=5",
+          "date": "2026-02-07T08:00:00.000Z",
+          "source": ":: India News Calling ::"
+        },
+        {
+          "title": "Punjab Police crackdown on terror-narco nexus: Pakistan-based terrorist Shahzad Bhatti’s aide arrested",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYnVBZ0VKTm5rMFlzMEF2MHpxam9GcXJCeVBwckd1azVZdVNpVGJCaEpBUFgtV3BnRGpqZ0piVF8taDZPTmJRcm5YYWhiQ1BxLXZERE9zVlRIYVh4VkJPWUNHRnRhRXV0VlpPejhVeWJFcUJrNGk2V2JaSFc1bHk1SjJxRG5EMm5fS09kNGFoQ0pEc2JMU0ZNb0ZXWkg3TWJTdHZEVGlsMWxUSFk1RjJjZkNDSkt3S1lsTDByS3VYU1ZvbUg3SHfSAcwBQVVfeXFMUGpmbWVmYlpjRVpYekpQYUhYV2JlM3lmaVBRY2lQd3oxQTl4V29xQ3NydlkzNHpPanZlRTk2X2JmSHVOSHc3YkRSWTBLQjNPLXQ3Q1dRNl9JSDhvdEhGUjFmLVljamswTWVHdFBYQVl0MkRhRlNVSW5jOHZTWWRpamk3bzVLMjhfcUQ2dlEwT1E5MDdBOGY3ZDdPOWxuVkpHeTJSQl9RcTlDWEFHZEJzc0JNY296NjBBX2YtSlMxQnJvcTNPMGhxODBQWHFO?oc=5",
+          "date": "2026-01-25T08:00:00.000Z",
+          "source": "The Indian Express"
+        }
+      ]
+    },
+    "258": {
+      "cachedAt": "2026-05-17T07:06:35.325Z",
+      "query": "\"No 9\" Chandigarh (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Rivalry over girl behind Kathua murder, teen arrested: Police | Hindustan Times",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcFdtUHd6dVh4TkY5RnI5MGxRT2stcWtmOXpUUlNJSm9ENldOUFFyQS03cm9UdEVhT2RMaUxrclFzWGUxNWNOZVNuM011bUtQeXI0MmFnQkZhaEx2OXhWUUx6ZzNfZjd3XzF0ai1qd01VTk1VUnJqU2lDMGtFbHZpZUVwejJ0OTBlcGpZa2xueGhxN1RuR1lVMF8xQWVPMmJ5Y0k2eTA3M0VSYmZUckpPRTFLN1QyZEdyY094d1hjMHJ1d2xGWWtWUDhLbkpiazTSAdQBQVVfeXFMTVkzdG9iVWhVcTlQUkZLcmhSV190ZDVaTXRMdDh3VnNDZlFUM3Y5dDlZVG4wWXJWOTVMY1J0X1lkR2wzMmtOMmlkc3NzanpUUHViUXhITHBmQjU4by1Ec2Vkc0gwd21pUDhEUWRvenNaajhVcDVQRFlRNjhpdzMzOFVlUnJQODFoRVhwenpsdlhNVV9LbkswMk9Oa3RiQTlubGFZbVp0dmdtSjdVWFRyTTJWLTZYYWZONTZWZTdVLS1aV3dYdGRYM3kwUy0xbDE5VlRKQlk?oc=5",
+          "date": "2026-05-09T00:38:14.000Z",
+          "source": "Hindustan Times"
+        }
+      ]
+    },
+    "259": {
+      "cachedAt": "2026-05-17T07:06:35.325Z",
+      "query": "\"No 25\" Chandigarh (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Chandigarh police destroyed phones despite SC order to preserve evidence, says CBI",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaUUxS0M2VUxOUnBMXzNnNk5ZSnNobk1HOFJXWTEzMEVnTXhoUGY3Z3ZxSVRXYm5PT0tSQ29DZy1mYjdzdHpLbXljUVVhLVpnaTVKcnlvcTU0UmxoZEdpMWkxb1VMTk5zMXVXUm9ubEdIOWM4SDBaYjZzZFR4VGt2enpvMXQ3ck1UOGc3VS1tQjFLRjFvYkM5WS03alZCUG93a2RXZkkwOEVQd1VuZERRcHNuSTRRSkF4WldDV29aZzFEUEdMZEhDN9IBzwFBVV95cUxOb242VTlKTHdBdENkRWMzY3l6MWhRV0tnTGhYSEZ5R294UXltSUVYV3kxLVdUZDU5Y2ZFMGRiME1zczZmR3ZWM2xSTGNLdFR6OHhQdG5MOGpWbDIzMkEtaEtyVTZoM0JpUEFxZVc0WU9BQmI4Y2pSSkxhbXE1YjB2V1pkajZ6ZUlKLWZxc2ZmWVhtYXZkXzh4OVNNQXpWNlZTNVRRSGpEOUdoZVNnYWZwZEdidlFDVVpDNUNFdHhSNENJOEQ2ZWs3cTJLUmpSWk0?oc=5",
+          "date": "2026-03-22T07:00:00.000Z",
+          "source": "The Indian Express"
+        },
+        {
+          "title": "CHANDIGARH POLICE BRIEF OF CASES DATED-16.02.2026",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdUhNd2I3VEtPSFY4cnptN2g2eW9nTVF4OGc4LWpMY21PQVFXRUdXYzFzN1VtejVOQm1mNm5PTDhWcWtsak8xWUlNb2tPVl85U0JEVTBIRndYc2NwQXdKOElPRFJfTzlXeVl2TTNIaWFYR2NsbjFPSVZvcHViRjNGY195M05XRV83dWthUl9VN1FmSnRzVDNPa2liWm9YZw?oc=5",
+          "date": "2026-02-16T08:00:00.000Z",
+          "source": ":: India News Calling ::"
+        },
+        {
+          "title": "CHANDIGARH POLICE BRIEF OF CASES DATED-15.02.2026",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONmFrOE5IN0xYMzZ3czNXZnVVTDdqMU90RTFKSndPSWNZZFJScy1lVWpTeDJ0SjNEZDQzMU1SdVR1eld2cER2QXVmYkxmeXR5OTFQSlpzMDNnQ2tpbVpxY3pMc3JBVl9FQVMtbkJQVlVLbDV4Qk1DM1MtTnZJVXF6QXRvUUZUTHI3elBidFlJOFZESkkyOXJaRzZyc1R1dw?oc=5",
+          "date": "2026-02-15T08:00:00.000Z",
+          "source": ":: India News Calling ::"
+        }
+      ]
+    },
+    "260": {
+      "cachedAt": "2026-05-17T07:06:35.325Z",
+      "query": "\"No 26\" Chandigarh (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "CHANDIGARH POLICE BRIEF OF CASES DATED-06.04.2026",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZnBLV1FJcXF4aDZaQldLTHBXZDBvbmNCR08zM0xJbzl6ekswMmYzcG1ORVRsSFlISGVCOGdra2FxdjF0d2I2VmQ4RkVFamlwSG1kXzBSNVZoSUN4OGhPZFRJbFg5QVQtRVJoUTNiTENxaEk1OHN1RnZGRUtuVDNjY3M4Z1oyOUpvV0xhR1lhODg2MlBocUliUkxiZHBHdw?oc=5",
+          "date": "2026-04-06T07:00:00.000Z",
+          "source": ":: India News Calling ::"
+        },
+        {
+          "title": "CHANDIGARH POLICE BRIEF OF CASES DATED-20.02.2026",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeTJycnhPU3FCajlmZVZrTThyRm02UDhkWTFjdVZyMHJkYU9ORlNWV193Tm9fem1rNWxweWtfLVVucTh3blpxRjE2bjhRUlZTelVkRHFEdVUyVEluVHRGTnFLY3pOX3kzRGNENnV3dXcxQVRGSnBXTlZXZmdCd1Q3VEg3a2pvXzRNQW1jdi1vYVB6MEpQbm5mZmlYNFAxQQ?oc=5",
+          "date": "2026-02-20T08:00:00.000Z",
+          "source": ":: India News Calling ::"
+        },
+        {
+          "title": "CHANDIGARH POLICE BRIEF OF CASES DATED-16.02.2026",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdUhNd2I3VEtPSFY4cnptN2g2eW9nTVF4OGc4LWpMY21PQVFXRUdXYzFzN1VtejVOQm1mNm5PTDhWcWtsak8xWUlNb2tPVl85U0JEVTBIRndYc2NwQXdKOElPRFJfTzlXeVl2TTNIaWFYR2NsbjFPSVZvcHViRjNGY195M05XRV83dWthUl9VN1FmSnRzVDNPa2liWm9YZw?oc=5",
+          "date": "2026-02-16T08:00:00.000Z",
+          "source": ":: India News Calling ::"
+        },
+        {
+          "title": "CHANDIGARH POLICE BRIEF OF CASES DATED-15.02.2026",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONmFrOE5IN0xYMzZ3czNXZnVVTDdqMU90RTFKSndPSWNZZFJScy1lVWpTeDJ0SjNEZDQzMU1SdVR1eld2cER2QXVmYkxmeXR5OTFQSlpzMDNnQ2tpbVpxY3pMc3JBVl9FQVMtbkJQVlVLbDV4Qk1DM1MtTnZJVXF6QXRvUUZUTHI3elBidFlJOFZESkkyOXJaRzZyc1R1dw?oc=5",
+          "date": "2026-02-15T08:00:00.000Z",
+          "source": ":: India News Calling ::"
+        }
+      ]
+    },
+    "261": {
+      "cachedAt": "2026-05-17T07:06:35.325Z",
+      "query": "\"No 27\" Chandigarh (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "CHANDIGARH POLICE BRIEF OF CASES DATED-16.02.2026",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdUhNd2I3VEtPSFY4cnptN2g2eW9nTVF4OGc4LWpMY21PQVFXRUdXYzFzN1VtejVOQm1mNm5PTDhWcWtsak8xWUlNb2tPVl85U0JEVTBIRndYc2NwQXdKOElPRFJfTzlXeVl2TTNIaWFYR2NsbjFPSVZvcHViRjNGY195M05XRV83dWthUl9VN1FmSnRzVDNPa2liWm9YZw?oc=5",
+          "date": "2026-02-16T08:00:00.000Z",
+          "source": ":: India News Calling ::"
+        },
+        {
+          "title": "CHANDIGARH POLICE BRIEF OF CASES DATED-07.02.2025",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeEQ3MU8xMGR2cVNnMDVBQWF3bFIxZlprdFh6OURYY1ZFajAzQVBrR2FsVkUzNG1NRGtaRmlvM3U2QlRZdWlPWmc1VURtS3pCbFpsYkg3ZUdsV1J4d29EMHRhcDV1MU5CVmVEbVFOUllRUmJpWkg5em95ZGJkWFM0Z3dubFgyMUpMaFhJRVJJNURqeXh5Q0MxNDI4VWVJUQ?oc=5",
+          "date": "2026-02-07T08:00:00.000Z",
+          "source": ":: India News Calling ::"
+        }
+      ]
+    },
+    "262": {
+      "cachedAt": "2026-05-17T07:06:35.325Z",
+      "query": "\"No 30\" Chandigarh (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "CHANDIGARH OPERATION CELL NABS MAIN SHOOTERS INVOLVED IN PANJAB UNIVERSITY SHOOTING & ROBBERY CASE. - Face2News -",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORTR6SV9ERUlRSVhRMHVESTRkN1V6N3VRdVpzaG9JMEh2SEFIQ0hWRmhlZFZDQnJreGpTdXZqaG5fazNSbDBSMW1xSzdHR09NcWtPODZCdXFCUHFUWGF2SV8tWHhHTU1VeXRKMk03RXUtNEVxQ0dYMlpnR3FtOHZRMjNONDE2dE1HVWk2d1d6TkllcjVobjlJcE5aZGpiTkdjQ2hhQTFHaTVfTk83dUZiRkRGQU1JMGFfRTIxRkw2UG92QQ?oc=5",
+          "date": "2026-05-16T12:18:13.000Z",
+          "source": "Face2News -"
+        },
+        {
+          "title": "CHANDIGARH POLICE BRIEF OF CASES DATED-20.02.2026",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeTJycnhPU3FCajlmZVZrTThyRm02UDhkWTFjdVZyMHJkYU9ORlNWV193Tm9fem1rNWxweWtfLVVucTh3blpxRjE2bjhRUlZTelVkRHFEdVUyVEluVHRGTnFLY3pOX3kzRGNENnV3dXcxQVRGSnBXTlZXZmdCd1Q3VEg3a2pvXzRNQW1jdi1vYVB6MEpQbm5mZmlYNFAxQQ?oc=5",
+          "date": "2026-02-20T08:00:00.000Z",
+          "source": ":: India News Calling ::"
+        },
+        {
+          "title": "CHANDIGARH POLICE BRIEF OF CASES DATED-15.02.2026",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONmFrOE5IN0xYMzZ3czNXZnVVTDdqMU90RTFKSndPSWNZZFJScy1lVWpTeDJ0SjNEZDQzMU1SdVR1eld2cER2QXVmYkxmeXR5OTFQSlpzMDNnQ2tpbVpxY3pMc3JBVl9FQVMtbkJQVlVLbDV4Qk1DM1MtTnZJVXF6QXRvUUZUTHI3elBidFlJOFZESkkyOXJaRzZyc1R1dw?oc=5",
+          "date": "2026-02-15T08:00:00.000Z",
+          "source": ":: India News Calling ::"
+        },
+        {
+          "title": "CHANDIGARH POLICE BRIEF OF CASES DATED-10.02.2026",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaXlldHVqQUFkZHZGZTNQQk1pQUxYMGVtNzFfVF8yX01VQU1nV2JaYjdyUVN2UjhOaFA2R0l6ZXhBVzRMVzE3dlNsVTVrNjhMbGtsaF9sNko2RXFENEhSN2VpTFFJbmxZLUZzUVQ4WDF6eEpHb2hRdkFFazFzSnZ3WFJFbExhX240V3U5dHJFTkZvQURST052aEhPXzN1UQ?oc=5",
+          "date": "2026-02-10T08:00:00.000Z",
+          "source": ":: India News Calling ::"
+        }
+      ]
+    },
+    "263": {
+      "cachedAt": "2026-05-17T07:06:35.325Z",
+      "query": "\"No 16\" Chandigarh (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "CHANDIGARH POLICE BRIEF OF CASES DATED-16.02.2026",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdUhNd2I3VEtPSFY4cnptN2g2eW9nTVF4OGc4LWpMY21PQVFXRUdXYzFzN1VtejVOQm1mNm5PTDhWcWtsak8xWUlNb2tPVl85U0JEVTBIRndYc2NwQXdKOElPRFJfTzlXeVl2TTNIaWFYR2NsbjFPSVZvcHViRjNGY195M05XRV83dWthUl9VN1FmSnRzVDNPa2liWm9YZw?oc=5",
+          "date": "2026-02-16T08:00:00.000Z",
+          "source": ":: India News Calling ::"
+        },
+        {
+          "title": "Chandigarh councillor’s kin arrested from Mohali | Hindustan Times",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNa1R5cFNfdFRiU2J2ajF0Tk5iRGk1WHNpb3FwX0VXaXBMemVSMGREbGdmN3F6VUNSZmU2WDVEVTNtY053bi1reFlQNWE1ak91Y0xZTUpnVFRkU2ZtN2Z5SnVaYWV3bDdfejVIQ0dQUEUwQVB0QVJmZWwzbjBvWEFnMHl6cUlZZjl6ZE9PM050OW1BR1l2aTkyN0gwaHQ5OXR6RGFMcjBVRXl0djQwbDQ4V1BNOTJnY2l4ejNHTFpJMFXSAcYBQVVfeXFMTmdWczhEQTBsNHNoR1JJX1NLSV9tWGt6YUZGSU40b002eHppTGZxeTlHbnY5TWVkY2diUmo0NDFKSXhaaDZXcE9iOFRoaU1tU1ZvYmhSR0JSM3JDaXRpdy1qNnNvbUlYQV9abS13d1BWaEQxbXM4a08wRzZpTTg2RVlWcGV4QmlXRHJFQ1pLOUlSZ2V2ZE5PcXF0czNndDl4UzBVS3A0TUxiODZXbi1IMVJUMmJvSTA1eklFd3hhNWVCOUtSS21R?oc=5",
+          "date": "2026-01-12T08:00:00.000Z",
+          "source": "Hindustan Times"
+        },
+        {
+          "title": "‘Well-planned conspiracy’: BJP; SAD says state machinery being misused to harass and intimidate political opponents",
+          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQUlpTOWE1ZmZSRm9KUkI1TkJQTGVta09YbDdEVllsRHhrZGhZaWFIR1JMd0xhTTZYUnk4dzZSVGNkZkFWYUFOMjJDUnEyMnFGb0Rjb2dXczJQYV9aX2J3QzRHM2FCYUVERGszbUw2S2ljZ2UwMVFqU1hJTkFpRG5qVE9zbkMzOGpyNmxVajVOd1N5RjlveHFLSHNWSjBfNmc2T25obFpGaE96UUY2NXY1cXduSl9OdUZ5cHZ4X0NlUFh1cWt1RktNR0J4UkQzdWpjZVBkZDBGMUE3SmR1UXdFbnhBVmdCQkNOUHppdWR6ZjZhN1RzM3lqbmxOU3BBWjJBaFBz0gGKAkFVX3lxTFBhY3FrV2Jxa0VkQmMwdTI5M1BiaXR2bURZWnd4bXViUWxhQlAxSHhpdmxZN1pySXZJM3MtYlYyWlNvQUhMVGtncklqRU1jNDlxeWJIMElMa0d5Y2xmYllnX0l1QjJ0S1paa1lObWp5YVZWUGVLRWNiOVRpazdMRlZEcjdXb1haVnBpMnlJNkQtb0FiQUxiZkN6OFJacFVXR2RqQllLcWs5aUlOWFN1bXNaNTh4dEZtNmJPVnRUOFhYc1FVSUwyRjR6ZHFwVlVueDBTR2lZNmVoUWtab0trVl9IVEl2OFI3anZ1RW9VRUUzYW9lakNZZVZtNkNvSUJoUGhxcVkwTWh2R213?oc=5",
+          "date": "2026-01-12T08:00:00.000Z",
+          "source": "The Indian Express"
+        }
+      ]
+    },
+    "264": {
+      "cachedAt": "2026-05-17T07:06:35.325Z",
+      "query": "\"No 17\" Chandigarh (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "CHANDIGARH POLICE BRIEF OF CASES DATED- 03.02.2026",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVUFwR3Z1YS0tNzJWRUtFQjBRSC1EcDBURkhxVFNfN1ltNVozcTdDLW13dGl1ckZ3UTcxRGg0Tjk5cW9OWUlQTzJzZm1CMFVSZUhrNkk2LWZLQkwwYVgxd1JzQUhxTHBoeEprR1FPRjA1cVB4RWw4R1pPRXJBWnY3cDZVQ1NQbzdjZ3RQc3FrR043bmdIU1hmc29OM01iQVk?oc=5",
+          "date": "2026-02-03T08:00:00.000Z",
+          "source": ":: India News Calling ::"
+        }
+      ]
+    },
+    "265": {
+      "cachedAt": "2026-05-17T07:06:35.325Z",
+      "query": "\"No 18\" Chandigarh (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "CHANDIGARH POLICE OPERATION CELL BUSTED ILLEGAL WEAPONS NETWORK LINKED TO LUCKY PATIAL–BAMBHIA GANG - Face2News -",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOODRPVWVyZjN5bGNQYjQ4a0d4OXp0czFVSzJwODNTLWx6QVYzbVdzNUVLVXA2MkszdVVmNE1Wa3R1Z1F3OHE1ZGxTSnUxbHF2LVl5b1JzMmhjMmh5bjZRQWhsTjgxbUN3UjhUNEQ5VkNSWmpQZTUybXd6U3pYUzNUSU5EZEtlblNzNTBvQU0tOUt4T0haZWRfaTRwTE1vU2ZEN0lHSlFwUHVHZzdlam0wMzB0YU1UcThGalZJMEF4WHkzRGw4cVE?oc=5",
+          "date": "2026-04-22T07:00:00.000Z",
+          "source": "Face2News -"
+        },
+        {
+          "title": "CHANDIGARH POLICE BRIEF OF CASES DATED-22.11.2025",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOT19rTS15Wk1iNUxTOU5xbGFlNTNGMHdNczRYdGdUejN0Ui1fQUdCRFNlLWhFdXVSSTRLVU5HcVdQZjJUaHpMZ1V4Y1NFSmRheFl1LVNHYWxTMmJiZXN5cnJ6allFNDhqWF9DNkxxQ0VlSkYzamZicW50dFgzQmgxcEJveWhqVjl1Q3Y0a3QzREllNHdqaWU3UTkzREh1QQ?oc=5",
+          "date": "2025-11-22T08:00:00.000Z",
+          "source": ":: India News Calling ::"
+        }
+      ]
+    },
+    "266": {
+      "cachedAt": "2026-05-17T07:06:35.325Z",
+      "query": "\"No 19\" Chandigarh (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "CHANDIGARH POLICE BRIEF OF CASES DATED-11.05.2026",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNT3lRWUdaSkpBMG11c2FOT0l0dlVWQ2JLdmZDaU1lUUdaS1lDTjdVLWVwZ2hZcFF3RUV6LVVQeGluX3BkaE9KckZpME91THVvUTVZV054cEVRYUhQdHFzZ0ozTWU2NDBQQkdjcEZ4RG13QWF5OUFCVlpuTGFmZmVlM1pGMkl0TGtZX3RQMjl2Z294VkdJam8xTW9NRDZqQQ?oc=5",
+          "date": "2026-05-11T10:46:48.000Z",
+          "source": ":: India News Calling ::"
+        },
+        {
+          "title": "CHANDIGARH POLICE BRIEF OF CASES DATED-16.02.2026",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdUhNd2I3VEtPSFY4cnptN2g2eW9nTVF4OGc4LWpMY21PQVFXRUdXYzFzN1VtejVOQm1mNm5PTDhWcWtsak8xWUlNb2tPVl85U0JEVTBIRndYc2NwQXdKOElPRFJfTzlXeVl2TTNIaWFYR2NsbjFPSVZvcHViRjNGY195M05XRV83dWthUl9VN1FmSnRzVDNPa2liWm9YZw?oc=5",
+          "date": "2026-02-16T08:00:00.000Z",
+          "source": ":: India News Calling ::"
+        },
+        {
+          "title": "CHANDIGARH POLICE BRIEF OF CASES DATED-15.02.2026",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONmFrOE5IN0xYMzZ3czNXZnVVTDdqMU90RTFKSndPSWNZZFJScy1lVWpTeDJ0SjNEZDQzMU1SdVR1eld2cER2QXVmYkxmeXR5OTFQSlpzMDNnQ2tpbVpxY3pMc3JBVl9FQVMtbkJQVlVLbDV4Qk1DM1MtTnZJVXF6QXRvUUZUTHI3elBidFlJOFZESkkyOXJaRzZyc1R1dw?oc=5",
+          "date": "2026-02-15T08:00:00.000Z",
+          "source": ":: India News Calling ::"
+        },
+        {
+          "title": "CHANDIGARH POLICE BRIEF OF CASES DATED-01.02.2026",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVVhMSTRLdklvNkg0Z2NKeVMtUmdOUE1pMG9weE40dGRITU55dXI5aVhpbXlVYjdPUWpUanV1dFlhX0pacm51aFc5WG9WSHRJVHVtN1NwXy1nY1JlTjlfSlBYd3gzRUFIYTRFbjd6bk5MS0NrbHRZeHdtTTg4cWhDanhXYVN5d2I0alhUUnRxaUpXZTNYVzM4TENoRmlRdkxlaFR2bWlPZ0d5WVNKVDctNzN0RQ?oc=5",
+          "date": "2026-02-01T08:00:00.000Z",
+          "source": ":: India News Calling ::"
+        }
+      ]
+    },
+    "267": {
+      "cachedAt": "2026-05-17T07:06:35.325Z",
+      "query": "\"No 21\" Chandigarh (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "CHANDIGARH POLICE BRIEF OF CASES DATED-07.02.2025",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeEQ3MU8xMGR2cVNnMDVBQWF3bFIxZlprdFh6OURYY1ZFajAzQVBrR2FsVkUzNG1NRGtaRmlvM3U2QlRZdWlPWmc1VURtS3pCbFpsYkg3ZUdsV1J4d29EMHRhcDV1MU5CVmVEbVFOUllRUmJpWkg5em95ZGJkWFM0Z3dubFgyMUpMaFhJRVJJNURqeXh5Q0MxNDI4VWVJUQ?oc=5",
+          "date": "2026-02-07T08:00:00.000Z",
+          "source": ":: India News Calling ::"
+        },
+        {
+          "title": "CHANDIGARH POLICE BRIEF OF CASES DATED- 04.02.2026",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQUcwQzVfb3N2Nm8tWVdBM2ctWGdELVUwa2VGSkdiWmE3Y2p2VTFHMnBkQzRsbkNCaVRTb2dfT1hyRmlJa3VtMG43Q0hEZTRCSFZXcU5vOXlhc0tEMGlZM0FrY0VQeVF5amJ0UXBTa1dtNEN3aE1oc1Bqa05sbXFBd2VJci1nUXNzR0xIUmEzSHk1ck5MY3FHQ0c4Nzl5Zw?oc=5",
+          "date": "2026-02-04T08:00:00.000Z",
+          "source": ":: India News Calling ::"
+        }
+      ]
+    },
+    "268": {
+      "cachedAt": "2026-05-17T07:06:35.325Z",
+      "query": "\"No 22\" Chandigarh (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "CHANDIGARH POLICE BRIEF OF CASES DATED-10.02.2026",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaXlldHVqQUFkZHZGZTNQQk1pQUxYMGVtNzFfVF8yX01VQU1nV2JaYjdyUVN2UjhOaFA2R0l6ZXhBVzRMVzE3dlNsVTVrNjhMbGtsaF9sNko2RXFENEhSN2VpTFFJbmxZLUZzUVQ4WDF6eEpHb2hRdkFFazFzSnZ3WFJFbExhX240V3U5dHJFTkZvQURST052aEhPXzN1UQ?oc=5",
+          "date": "2026-02-10T08:00:00.000Z",
+          "source": ":: India News Calling ::"
+        },
+        {
+          "title": "CHANDIGARH POLICE BRIEF OF CASES DATED- 04.02.2026",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQUcwQzVfb3N2Nm8tWVdBM2ctWGdELVUwa2VGSkdiWmE3Y2p2VTFHMnBkQzRsbkNCaVRTb2dfT1hyRmlJa3VtMG43Q0hEZTRCSFZXcU5vOXlhc0tEMGlZM0FrY0VQeVF5amJ0UXBTa1dtNEN3aE1oc1Bqa05sbXFBd2VJci1nUXNzR0xIUmEzSHk1ck5MY3FHQ0c4Nzl5Zw?oc=5",
+          "date": "2026-02-04T08:00:00.000Z",
+          "source": ":: India News Calling ::"
+        },
+        {
+          "title": "CHANDIGARH POLICE BRIEF OF CASES DATED-01.02.2026",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVVhMSTRLdklvNkg0Z2NKeVMtUmdOUE1pMG9weE40dGRITU55dXI5aVhpbXlVYjdPUWpUanV1dFlhX0pacm51aFc5WG9WSHRJVHVtN1NwXy1nY1JlTjlfSlBYd3gzRUFIYTRFbjd6bk5MS0NrbHRZeHdtTTg4cWhDanhXYVN5d2I0alhUUnRxaUpXZTNYVzM4TENoRmlRdkxlaFR2bWlPZ0d5WVNKVDctNzN0RQ?oc=5",
+          "date": "2026-02-01T08:00:00.000Z",
+          "source": ":: India News Calling ::"
+        }
+      ]
+    },
+    "269": {
+      "cachedAt": "2026-05-17T07:06:35.325Z",
+      "query": "\"No 23\" Chandigarh (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "CHANDIGARH POLICE BRIEF OF CASES DATED-15.02.2026",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONmFrOE5IN0xYMzZ3czNXZnVVTDdqMU90RTFKSndPSWNZZFJScy1lVWpTeDJ0SjNEZDQzMU1SdVR1eld2cER2QXVmYkxmeXR5OTFQSlpzMDNnQ2tpbVpxY3pMc3JBVl9FQVMtbkJQVlVLbDV4Qk1DM1MtTnZJVXF6QXRvUUZUTHI3elBidFlJOFZESkkyOXJaRzZyc1R1dw?oc=5",
+          "date": "2026-02-15T08:00:00.000Z",
+          "source": ":: India News Calling ::"
+        },
+        {
+          "title": "CHANDIGARH POLICE BRIEF OF CASES DATED-07.02.2025",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeEQ3MU8xMGR2cVNnMDVBQWF3bFIxZlprdFh6OURYY1ZFajAzQVBrR2FsVkUzNG1NRGtaRmlvM3U2QlRZdWlPWmc1VURtS3pCbFpsYkg3ZUdsV1J4d29EMHRhcDV1MU5CVmVEbVFOUllRUmJpWkg5em95ZGJkWFM0Z3dubFgyMUpMaFhJRVJJNURqeXh5Q0MxNDI4VWVJUQ?oc=5",
+          "date": "2026-02-07T08:00:00.000Z",
+          "source": ":: India News Calling ::"
+        }
+      ]
+    },
+    "270": {
+      "cachedAt": "2026-05-17T07:06:35.325Z",
+      "query": "\"No 24\" Chandigarh (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "CHANDIGARH POLICE BRIEF OF CASES DATED-01.04.2026",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNGJqRjB5NW02M2h6T1JvZ2ZuWVpsY0ttdTAwU0hkMHQ5dkFPS21wSU1Qc1BKZGxkRWE4NUNTSk1tZngxY0NubVZuSGtqVklycmZEUWRLdHlwdmg3bXNQcWZhUURDRzV3UGFFSW5CeURraklfNDkwT3JCb0M1cGNXZ1lqVUNPajNvZW53X0ZBaVRXNVA5MV9QUVJZX0hYaFNpcU45R0gzWVNxX1RJbWJ3QXdGOA?oc=5",
+          "date": "2026-04-01T07:00:00.000Z",
+          "source": ":: India News Calling ::"
+        },
+        {
+          "title": "CHANDIGARH POLICE BRIEF OF CASES DATED-15.02.2026",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONmFrOE5IN0xYMzZ3czNXZnVVTDdqMU90RTFKSndPSWNZZFJScy1lVWpTeDJ0SjNEZDQzMU1SdVR1eld2cER2QXVmYkxmeXR5OTFQSlpzMDNnQ2tpbVpxY3pMc3JBVl9FQVMtbkJQVlVLbDV4Qk1DM1MtTnZJVXF6QXRvUUZUTHI3elBidFlJOFZESkkyOXJaRzZyc1R1dw?oc=5",
+          "date": "2026-02-15T08:00:00.000Z",
+          "source": ":: India News Calling ::"
+        },
+        {
+          "title": "CHANDIGARH POLICE BRIEF OF CASES DATED- 04.02.2026",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQUcwQzVfb3N2Nm8tWVdBM2ctWGdELVUwa2VGSkdiWmE3Y2p2VTFHMnBkQzRsbkNCaVRTb2dfT1hyRmlJa3VtMG43Q0hEZTRCSFZXcU5vOXlhc0tEMGlZM0FrY0VQeVF5amJ0UXBTa1dtNEN3aE1oc1Bqa05sbXFBd2VJci1nUXNzR0xIUmEzSHk1ck5MY3FHQ0c4Nzl5Zw?oc=5",
+          "date": "2026-02-04T08:00:00.000Z",
+          "source": ":: India News Calling ::"
+        },
+        {
+          "title": "CHANDIGARH POLICE BRIEF OF CASES DATED-01.02.2026",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVVhMSTRLdklvNkg0Z2NKeVMtUmdOUE1pMG9weE40dGRITU55dXI5aVhpbXlVYjdPUWpUanV1dFlhX0pacm51aFc5WG9WSHRJVHVtN1NwXy1nY1JlTjlfSlBYd3gzRUFIYTRFbjd6bk5MS0NrbHRZeHdtTTg4cWhDanhXYVN5d2I0alhUUnRxaUpXZTNYVzM4TENoRmlRdkxlaFR2bWlPZ0d5WVNKVDctNzN0RQ?oc=5",
+          "date": "2026-02-01T08:00:00.000Z",
+          "source": ":: India News Calling ::"
+        }
+      ]
+    },
+    "271": {
+      "cachedAt": "2026-05-17T07:06:35.325Z",
+      "query": "\"No 31\" Chandigarh (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Snatchers’ gang busted, UP woman arrested: UT Police",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUEt3RGdJUzRKOHlPVjIzek1NTW1JR3NNTkhwTGZIS010dXYweDBkLVJDc19UQzhjblNuZVVueGRvRG4yY3NaWnZQRlA3d2k1eU44ZXBvMTRrUDR3RXNlbE5NSC1RTVVielRvSmFPOER1U0M5ZWxRd1RaZHladlFIUTZWdUxQbVR3V0k5OHVPRDJ0eUhwZGdlYUlRMnRCaWFZVGpuSEYwcjlhanBqUkJhVdIBtwFBVV95cUxQOTBicm9abEN6ODZ1X0NlcTVNV1FVd1J1dGlZWnpKdk5UMlJaZDlfdm9taXJnUVE3cTRXVmoxQUFfazhueVJGLUkzSmdxRm85TFdqYzhaSWhnUFZSeWhjRG04dVlsQjhob056SWVPblVGMjlzbzVTSFdqTktnNlA5akdTNVVNdlZ4M2F4bEY2WUx6Zk5URVFQdHdVaUNjbXFMTmpSTkJaMEF6djlva2xMVnBLSzhiUUU?oc=5",
+          "date": "2026-04-19T07:00:00.000Z",
+          "source": "The Indian Express"
+        },
+        {
+          "title": "Chandigarh Police Bust Organized Snatching Gang Operating in South City Areas",
+          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNOVM3TksySWg2akJfZU9ybWxBMWZoU01IRGxZWUkzaVYtNEhmNVZtMFUwc05BZFUzV0RkOUotQWIzRHBLWU9BUndueWRXakxiU09JY1lwQjY4TlNxYk9NYzVBRUpkUjdYWURBVTk5STFocWgxelhJSUJaVW5EeXVMSTZza0I2WFF6NVA4NDNHcndBSXhIQmlEeU42Zi1GYUxxNTZSeWxxbU44Nk5UbDF6TEtiUDA2Z3dSRnFrWWtLUW5EX3BibUhIZzZZcWlmLXAtV01wZ3ViaEE2V1dJY3ZyQ2Z5SDV5cHJteVRJTDV1V2hjeGl3d3hNYzZvd2g?oc=5",
+          "date": "2026-04-17T07:00:00.000Z",
+          "source": "Dailyhunt"
+        },
+        {
+          "title": "CHANDIGARH POLICE BRIEF OF CASES DATED-08.04.2026",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZDVFU01wQjRFUWlGcHZrT2RmZ0sxbXNyNm5KZmpERWwtMG4yc2RUTUY3cWxVbElwQ0dkRDZDRVlya2hVd3o4OW1nTXNIczE4N3ZVcjU2YWN0TUY2bXJoYVg5elQ1NWxhVVJIY1BSbXUxZXhQbk53RTlyRzhKUlVpdlM5LU9EY3NEQl9jR2xKZnoxLVBSbkJ4U1BuUDZKejZ4UkVDMXhIbl8yeWYwejQwOWQwMA?oc=5",
+          "date": "2026-04-08T07:00:00.000Z",
+          "source": ":: India News Calling ::"
+        },
+        {
+          "title": "CHANDIGARH POLICE BRIEF OF CASES DATED-22.02.2026",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbmdBMms0Z1dRTUZGS2FqUkE0MUYzeTFQYkZaZm5lLU5sNmlzdUs0cm1RblpUQ29BdkVadHhqc3ZPVDh1UjRQUlkyT3NOcjRCc2dKeDkzRVNNcDNWLTZiWFRIZFdONDNGaVk2Sm9VeUc1SS14Y1dzakdfNEVCUXVsVHp4SmQtMVBzMW1GTzI5RnFyZEF5WnI4anNaM3prQQ?oc=5",
+          "date": "2026-02-22T08:00:00.000Z",
+          "source": ":: India News Calling ::"
+        }
+      ]
+    },
+    "272": {
+      "cachedAt": "2026-05-17T07:06:35.325Z",
+      "query": "\"No 32\" Chandigarh (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "CHANDIGARH POLICE BRIEF OF CASES DATED 21.02.26-",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPV2lZelNYcC1rSG5IUnc5WDB5eUQtUUhtX2lUd1ZGOXNOOXB1cWhPcE0yd1o4OFpPXy0yQ3dfcHFRbHpENnU5MVJYcHpwX1hWSG1kTmhnUG1BNlA2QWZobU1fVEdkZUMtWmpQbkpVX0NJQXNpcnI1T1BGRUlFaXZmZGJUT3RiaDJ2U2o5YzN3enMtY29jRklhZzdtQkc?oc=5",
+          "date": "2026-02-21T08:00:00.000Z",
+          "source": ":: India News Calling ::"
+        },
+        {
+          "title": "CHANDIGARH POLICE BRIEF OF CASES DATED-20.02.2026",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeTJycnhPU3FCajlmZVZrTThyRm02UDhkWTFjdVZyMHJkYU9ORlNWV193Tm9fem1rNWxweWtfLVVucTh3blpxRjE2bjhRUlZTelVkRHFEdVUyVEluVHRGTnFLY3pOX3kzRGNENnV3dXcxQVRGSnBXTlZXZmdCd1Q3VEg3a2pvXzRNQW1jdi1vYVB6MEpQbm5mZmlYNFAxQQ?oc=5",
+          "date": "2026-02-20T08:00:00.000Z",
+          "source": ":: India News Calling ::"
+        }
+      ]
+    },
+    "273": {
+      "cachedAt": "2026-05-17T07:06:35.325Z",
+      "query": "\"No 33\" Chandigarh (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "CHANDIGARH POLICE BRIEF OF CASES DATED-24.04.2026",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUWVHSWN1YzNPeU9jdWVnMUI0YkxxNERES1BDbV9DMFZZUG1TRmMyOG1uLUtyMTg2YlYzdWZLdmtFY2RCR2VXWHhNSTNDUl81ZlAyYVlRMmV2aXFTOGVuVHJ6bC00dm13XzZZUy1zODJiSVBKWUVRdld3RGJkNC1wM0dBdjdIajh0SjZSVzQ5MGxqa2lydDRWT3BkcDYwQQ?oc=5",
+          "date": "2026-04-24T07:00:00.000Z",
+          "source": ":: India News Calling ::"
+        },
+        {
+          "title": "CHANDIGARH POLICE BRIEF OF CASES DATED-15.03.2026",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSVJ2LWRpb2tyV25zM3c0LURxU2Q3Q2JXbFN3YkxDb0tYUVRUNVJLTTREb2ZVUVNscW5HZzJKeTBoMXdyZGVRQWd2WkRUNGRVOHJmeF9Jamd3TnNKWGh1LXhXdHkwMjBkM0pXZFNySFh1SnBZOXNUbWlMdmVYenhpamhfN3JiZXgxSERGQzhTWGdzdTVVcWhmWDFXdXBJc2wtUEF5LUtZaGNtTU5YYVRXanRObw?oc=5",
+          "date": "2026-03-15T07:00:00.000Z",
+          "source": ":: India News Calling ::"
+        },
+        {
+          "title": "CHANDIGARH POLICE BRIEF OF CASES DATED-22.02.2026",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbmdBMms0Z1dRTUZGS2FqUkE0MUYzeTFQYkZaZm5lLU5sNmlzdUs0cm1RblpUQ29BdkVadHhqc3ZPVDh1UjRQUlkyT3NOcjRCc2dKeDkzRVNNcDNWLTZiWFRIZFdONDNGaVk2Sm9VeUc1SS14Y1dzakdfNEVCUXVsVHp4SmQtMVBzMW1GTzI5RnFyZEF5WnI4anNaM3prQQ?oc=5",
+          "date": "2026-02-22T08:00:00.000Z",
+          "source": ":: India News Calling ::"
+        }
+      ]
+    },
+    "274": {
+      "cachedAt": "2026-05-17T07:06:35.325Z",
+      "query": "\"No 34\" Chandigarh (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "CHANDIGARH POLICE BRIEF OF CASES DATED-30.04.2026",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ2dWTkxyODFFcWxjOWxCLWJSNTc5YTkzSFZ0Yl95eEhaYXJmUnZGVVY5c1hGZFFNay1XOHhNM3VXUWpxaUJ3YTM3YVZnS0dwMDdmVTlSTnVQREotTGxvOTVTbDUzVzlIaHhJSXVGV0E4a0pla2hWM3FEdS1teGJKUE1SY29tZ2Q4TVFGdUhabEV1cVdVdjNwNENHZk1YREFGci1pMHRGUmRhREU?oc=5",
+          "date": "2026-04-30T15:49:07.000Z",
+          "source": ":: India News Calling ::"
+        },
+        {
+          "title": "CHANDIGARH POLICE BRIEF OF CASES DATED-19.03.2026",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRlY1ODlfVDRCckp3c1d4TVpBeklpdmM1bmp0ak5tUGlnekNtV3VJZjJxOGRQUF9UczRpdFNWdkF2ajNzRF9DdnMzamQzRXNXclRCTWRMNlFzTkVWTVZVSHgtajNpekMwUlAyZmVJRmtZSElNWEl3alJZdUNCalZzYS01RWNuNTgzcGdKd3NJRGt5eW00N2R4TlRselBhQQ?oc=5",
+          "date": "2026-03-19T07:00:00.000Z",
+          "source": ":: India News Calling ::"
+        },
+        {
+          "title": "CHANDIGARH POLICE BRIEF OF CASES DATED-15.03.2026",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSVJ2LWRpb2tyV25zM3c0LURxU2Q3Q2JXbFN3YkxDb0tYUVRUNVJLTTREb2ZVUVNscW5HZzJKeTBoMXdyZGVRQWd2WkRUNGRVOHJmeF9Jamd3TnNKWGh1LXhXdHkwMjBkM0pXZFNySFh1SnBZOXNUbWlMdmVYenhpamhfN3JiZXgxSERGQzhTWGdzdTVVcWhmWDFXdXBJc2wtUEF5LUtZaGNtTU5YYVRXanRObw?oc=5",
+          "date": "2026-03-15T07:00:00.000Z",
+          "source": ":: India News Calling ::"
+        },
+        {
+          "title": "CHANDIGARH POLICE BRIEF OF CASES DATED-22.02.2026",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbmdBMms0Z1dRTUZGS2FqUkE0MUYzeTFQYkZaZm5lLU5sNmlzdUs0cm1RblpUQ29BdkVadHhqc3ZPVDh1UjRQUlkyT3NOcjRCc2dKeDkzRVNNcDNWLTZiWFRIZFdONDNGaVk2Sm9VeUc1SS14Y1dzakdfNEVCUXVsVHp4SmQtMVBzMW1GTzI5RnFyZEF5WnI4anNaM3prQQ?oc=5",
+          "date": "2026-02-22T08:00:00.000Z",
+          "source": ":: India News Calling ::"
+        }
+      ]
+    },
+    "275": {
+      "cachedAt": "2026-05-17T07:06:35.325Z",
+      "query": "\"No 35\" Chandigarh (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "CHANDIGARH POLICE BRIEF OF CASES DATED-03.05.2026",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaFlDWU4yRUZOTWpxN2lYUDlSX0ZPNHpGYjFhQnFHMVF6UmIwRnVUYzZfY2lKTG5uc24wLXJJWkZKWGRRak1oN2c1elBLNkJHU2xXWkZiem9JWllVaWpKMmlJbTN3cFhINVg5ZVhiVjZjeUt1ejdKMnlfQXpyXzNCX1Z6Z29FZVRWS3k3N1NwYzBzUjlhMHNmWlZrVkJQMGUyQ3pLSVhLbmx2MWhIa2JSejkyRQ?oc=5",
+          "date": "2026-05-03T17:37:26.000Z",
+          "source": ":: India News Calling ::"
+        },
+        {
+          "title": "CHANDIGARH POLICE BRIEF OF CASES DATED-12.04.2026",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWVk5dko4el9XTHplbEJqZm5ieGNfSFlCT2c0S2JFcFJhNnBoeEZ4ekgyR053VmdKTGtocjZNcjZwQnFsRTMyZF9kQ3Vqbl9neWRud1pOS1duNkpqakNfSmt6aUpzUXMyOFd4SWpaRUlqMWU3V0ZvazZ6VXZkQ0lTb2gzMm1Fd1lUTjBUaUpsaWFNcWt5TlVzT1loTnBSQQ?oc=5",
+          "date": "2026-04-12T07:00:00.000Z",
+          "source": ":: India News Calling ::"
+        },
+        {
+          "title": "CHANDIGARH POLICE BRIEF OF CASES DATED-19.03.2026",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRlY1ODlfVDRCckp3c1d4TVpBeklpdmM1bmp0ak5tUGlnekNtV3VJZjJxOGRQUF9UczRpdFNWdkF2ajNzRF9DdnMzamQzRXNXclRCTWRMNlFzTkVWTVZVSHgtajNpekMwUlAyZmVJRmtZSElNWEl3alJZdUNCalZzYS01RWNuNTgzcGdKd3NJRGt5eW00N2R4TlRselBhQQ?oc=5",
+          "date": "2026-03-19T07:00:00.000Z",
+          "source": ":: India News Calling ::"
+        },
+        {
+          "title": "CHANDIGARH POLICE BRIEF OF CASES DATED-20.02.2026",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeTJycnhPU3FCajlmZVZrTThyRm02UDhkWTFjdVZyMHJkYU9ORlNWV193Tm9fem1rNWxweWtfLVVucTh3blpxRjE2bjhRUlZTelVkRHFEdVUyVEluVHRGTnFLY3pOX3kzRGNENnV3dXcxQVRGSnBXTlZXZmdCd1Q3VEg3a2pvXzRNQW1jdi1vYVB6MEpQbm5mZmlYNFAxQQ?oc=5",
+          "date": "2026-02-20T08:00:00.000Z",
+          "source": ":: India News Calling ::"
+        }
+      ]
+    },
+    "276": {
+      "cachedAt": "2026-05-17T07:06:35.325Z",
+      "query": "\"No 28\" Chandigarh (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Chandigarh police destroyed phones despite SC order to preserve evidence, says CBI",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaUUxS0M2VUxOUnBMXzNnNk5ZSnNobk1HOFJXWTEzMEVnTXhoUGY3Z3ZxSVRXYm5PT0tSQ29DZy1mYjdzdHpLbXljUVVhLVpnaTVKcnlvcTU0UmxoZEdpMWkxb1VMTk5zMXVXUm9ubEdIOWM4SDBaYjZzZFR4VGt2enpvMXQ3ck1UOGc3VS1tQjFLRjFvYkM5WS03alZCUG93a2RXZkkwOEVQd1VuZERRcHNuSTRRSkF4WldDV29aZzFEUEdMZEhDN9IBzwFBVV95cUxOb242VTlKTHdBdENkRWMzY3l6MWhRV0tnTGhYSEZ5R294UXltSUVYV3kxLVdUZDU5Y2ZFMGRiME1zczZmR3ZWM2xSTGNLdFR6OHhQdG5MOGpWbDIzMkEtaEtyVTZoM0JpUEFxZVc0WU9BQmI4Y2pSSkxhbXE1YjB2V1pkajZ6ZUlKLWZxc2ZmWVhtYXZkXzh4OVNNQXpWNlZTNVRRSGpEOUdoZVNnYWZwZEdidlFDVVpDNUNFdHhSNENJOEQ2ZWs3cTJLUmpSWk0?oc=5",
+          "date": "2026-03-22T07:00:00.000Z",
+          "source": "The Indian Express"
+        },
+        {
+          "title": "CHANDIGARH POLICE BRIEF OF CASES DATED-19.02.2026",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNDdpNVFib2MwVU9hekJ2SWNHbnZSWUxMYUNOeUI0ZU5scGlxdnl2ZlFhTGNMYVhWMU5icFRuUkZ1bjRMcWREazJycDFNSEZVaWo1ODV1MS1XSEcwRUlqRDhhTlBpVWpHdFhJZUtnQ2ZNQmFKRl96X082VWV0MFRpbkNRUUlGWkRzazJLRTZZVXJkTWRMM2J0T0h2SHdxQQ?oc=5",
+          "date": "2026-02-19T08:00:00.000Z",
+          "source": ":: India News Calling ::"
+        },
+        {
+          "title": "CHANDIGARH POLICE BRIEF OF CASES DATED-16.02.2026",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdUhNd2I3VEtPSFY4cnptN2g2eW9nTVF4OGc4LWpMY21PQVFXRUdXYzFzN1VtejVOQm1mNm5PTDhWcWtsak8xWUlNb2tPVl85U0JEVTBIRndYc2NwQXdKOElPRFJfTzlXeVl2TTNIaWFYR2NsbjFPSVZvcHViRjNGY195M05XRV83dWthUl9VN1FmSnRzVDNPa2liWm9YZw?oc=5",
+          "date": "2026-02-16T08:00:00.000Z",
+          "source": ":: India News Calling ::"
+        },
+        {
+          "title": "CHANDIGARH POLICE BRIEF OF CASES DATED- 03.02.2026",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVUFwR3Z1YS0tNzJWRUtFQjBRSC1EcDBURkhxVFNfN1ltNVozcTdDLW13dGl1ckZ3UTcxRGg0Tjk5cW9OWUlQTzJzZm1CMFVSZUhrNkk2LWZLQkwwYVgxd1JzQUhxTHBoeEprR1FPRjA1cVB4RWw4R1pPRXJBWnY3cDZVQ1NQbzdjZ3RQc3FrR043bmdIU1hmc29OM01iQVk?oc=5",
+          "date": "2026-02-03T08:00:00.000Z",
+          "source": ":: India News Calling ::"
+        }
+      ]
+    },
+    "12307": {
+      "cachedAt": "2026-05-17T07:06:35.325Z",
+      "query": "\"No 6\" Chandigarh (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Attacks on advocates, crime against their kin: High Court seeks Punjab DGP’s affidavit",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUlZsMFQ4ZmJsVEtjV0ljTmpoUHMtd0VzOWttMVhKUF8wQkxTWG5iTXIzSUpZSzIybzBqQWJudmwzbjNMMndvNzZzd1pWMDdreTZjeXM0WFVkQU5RTlVaYmlfdHdWblh6cEV6bVBHY0J0NXlWcExNLS1TNWxhRDR2Q3JCQzdUMVd1cDRlUnNhdVc5WTNTdDlzcnllQjVUV3VyRDRRSVpfcDdoalBRU1VvMXdhSnHSAbsBQVVfeXFMTUhOeUx0MndMdHRZOTFzRFBQRGVBTlJfcVZveDJya1JTLXp2bm5Oa3NwYmlWUU9aN2VCWk0yVVM5Vm9JcFVlQnYtNDlRb0JHbkRtdDRGd2tFOWFhM0RRbnplb2RTWjFWME9FT1dxTmcta0p2dHE5Y1JqQ3kwNlBwdWQyZDFJRWlNX1RnTnFRTDlneXBrTFNaeDduOG80VGtSMU9MclV4ZTFTTXNOVVZJYzROMEp1YjFpem5OZw?oc=5",
+          "date": "2026-01-31T08:00:00.000Z",
+          "source": "The Indian Express"
+        },
+        {
+          "title": "CHANDIGARH POLICE BRIEF OF CASES DATED-14.01.2026",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNFFhVXIxWGZKUlM2ZVBUalZxUEQ4Q01ETHhIVVFkRlFONEpaVnNCNjZMaTI5eUFwbF9GRGtQNEpyUmlQSWs5Q0stQ2RhSWNEdG9xMXpJZFNpRE9IemhSa2tKTTUwelRyOVZaYmNrSnhwSHBGSkJlZy1sNHVyNWRzZ2REaWdqX0s3dVlNY3ExdjM1REVDdDg4VDBvSFBYUQ?oc=5",
+          "date": "2026-01-14T08:00:00.000Z",
+          "source": ":: India News Calling ::"
+        }
+      ]
+    },
+    "12308": {
+      "cachedAt": "2026-05-17T07:06:35.325Z",
+      "query": "\"No 29\" Chandigarh (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "CHANDIGARH POLICE BRIEF OF CASES DATED 21.02.26-",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPV2lZelNYcC1rSG5IUnc5WDB5eUQtUUhtX2lUd1ZGOXNOOXB1cWhPcE0yd1o4OFpPXy0yQ3dfcHFRbHpENnU5MVJYcHpwX1hWSG1kTmhnUG1BNlA2QWZobU1fVEdkZUMtWmpQbkpVX0NJQXNpcnI1T1BGRUlFaXZmZGJUT3RiaDJ2U2o5YzN3enMtY29jRklhZzdtQkc?oc=5",
+          "date": "2026-02-21T08:00:00.000Z",
+          "source": ":: India News Calling ::"
+        },
+        {
+          "title": "CHANDIGARH POLICE BRIEF OF CASES DATED-07.02.2025",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeEQ3MU8xMGR2cVNnMDVBQWF3bFIxZlprdFh6OURYY1ZFajAzQVBrR2FsVkUzNG1NRGtaRmlvM3U2QlRZdWlPWmc1VURtS3pCbFpsYkg3ZUdsV1J4d29EMHRhcDV1MU5CVmVEbVFOUllRUmJpWkg5em95ZGJkWFM0Z3dubFgyMUpMaFhJRVJJNURqeXh5Q0MxNDI4VWVJUQ?oc=5",
+          "date": "2026-02-07T08:00:00.000Z",
+          "source": ":: India News Calling ::"
+        }
+      ]
+    },
+    "12309": {
+      "cachedAt": "2026-05-17T07:06:35.325Z",
+      "query": "\"No 20\" Chandigarh (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "CHANDIGARH POLICE BRIEF OF CASES DATED-16.02.2026",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdUhNd2I3VEtPSFY4cnptN2g2eW9nTVF4OGc4LWpMY21PQVFXRUdXYzFzN1VtejVOQm1mNm5PTDhWcWtsak8xWUlNb2tPVl85U0JEVTBIRndYc2NwQXdKOElPRFJfTzlXeVl2TTNIaWFYR2NsbjFPSVZvcHViRjNGY195M05XRV83dWthUl9VN1FmSnRzVDNPa2liWm9YZw?oc=5",
+          "date": "2026-02-16T08:00:00.000Z",
+          "source": ":: India News Calling ::"
+        },
+        {
+          "title": "CHANDIGARH POLICE BRIEF OF CASES DATED-07.02.2025",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeEQ3MU8xMGR2cVNnMDVBQWF3bFIxZlprdFh6OURYY1ZFajAzQVBrR2FsVkUzNG1NRGtaRmlvM3U2QlRZdWlPWmc1VURtS3pCbFpsYkg3ZUdsV1J4d29EMHRhcDV1MU5CVmVEbVFOUllRUmJpWkg5em95ZGJkWFM0Z3dubFgyMUpMaFhJRVJJNURqeXh5Q0MxNDI4VWVJUQ?oc=5",
+          "date": "2026-02-07T08:00:00.000Z",
+          "source": ":: India News Calling ::"
+        },
+        {
+          "title": "CHANDIGARH POLICE BRIEF OF CASES DATED- 03.02.2026",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVUFwR3Z1YS0tNzJWRUtFQjBRSC1EcDBURkhxVFNfN1ltNVozcTdDLW13dGl1ckZ3UTcxRGg0Tjk5cW9OWUlQTzJzZm1CMFVSZUhrNkk2LWZLQkwwYVgxd1JzQUhxTHBoeEprR1FPRjA1cVB4RWw4R1pPRXJBWnY3cDZVQ1NQbzdjZ3RQc3FrR043bmdIU1hmc29OM01iQVk?oc=5",
+          "date": "2026-02-03T08:00:00.000Z",
+          "source": ":: India News Calling ::"
+        }
+      ]
+    }
+  },
+  "notes": "Per-ward crime-related news from Google News RSS. Queried per the ward's distinctive neighbourhood name + Chandigarh + crime keywords. Items are filtered to last 18 months and to titles containing at least one crime/police/arrest term. Up to 4 per ward."
 }

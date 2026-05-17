@@ -1,5 +1,253 @@
 {
   "source": "https://news.google.com/rss/search",
-  "scrapedAt": null,
-  "wards": {}
+  "scrapedAt": "2026-05-17T06:52:30.968Z",
+  "wards": {
+    "1": {
+      "cachedAt": "2026-05-17T06:52:01.707Z",
+      "query": "\"Jahangirpura-Variyav-Chhaprabhatha-Kosad\" Surat (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "2": {
+      "cachedAt": "2026-05-17T06:52:01.707Z",
+      "query": "\"Amroli-Mota Varachha-Kathor\" Surat (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "3": {
+      "cachedAt": "2026-05-17T06:52:01.707Z",
+      "query": "\"Varachha-Sarthana-Simada-Laskana\" Surat (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "4": {
+      "cachedAt": "2026-05-17T06:52:01.707Z",
+      "query": "\"Kapodra\" Surat (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Husband among 4 booked for gang rape of 22-year-old",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYlgyMnRzWmk2VFY1U2g1WXRlMnV0NDFhSEJSdDZhNGFkcWc0UzM3dDhnMHUxMVBWZFpQMDNfQWhienhJazh5cWFWa296S2gyRVFLMDlHZlJiM1liZTIyLWFoZ0FLam9Ed3plQklCZWczQ1l4bGxsRFZyeUYwcGZWWmNjSl9Mc2ZhVzVhNV9HTnZVMkNYUU9ZWVJtS3NlYmVCYzhPUkhiY2s1RUItTGhqd01Rc19oaEtlenowQ2VoeEpVd9IBxwFBVV95cUxQeGN3RkNlQ3A0d3hRZXdEMlR0TUVybm1kS2NQQ0N4aWxKdzl5UE9LWG9GT2JaQjkyN3hsUHhVZ0FldXctQUhxVFNKbHMxWnBIckVUcXJYSUlsamgxS0gzNHR1cExjV2JWWEhrWW9GdXJBcllRQ1RVOFlPZTVrMUh2cXNQeGJXNTRob2otdTlfVkp5STdtRG93YjRfakQtMGFxX0RFUndBSG1NeF9rS2U1b2VDSlVRUTFvcENUUktfSk1lUF9aSGF3?oc=5",
+          "date": "2026-03-17T07:00:00.000Z",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Three rape cases reported in Surat",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVFFLYmg4bTdaRFQ3X2VCcFFpM0hPUm5Ka0wxaUlfemFMZERpQ3IySUoyUExGcE1CQUoxV2syU3hSektiM2RnSlFEV3ZtQm1CbzNCTFVPZVAxdkZ4bzAxMXBUcS04aTNKcVFibnllaW5pb21naVpnQ2d0eXBZRjJSRndaUVBHU1pYdEJodnc4RzNjNVhJSUxBQ2paS0Itb2d2bVM5S3JhaUc0OGPSAbABQVVfeXFMUGhXRXRIUHdBQXF5YXcwbVJMd2VaRnRHTEFISTBIN29idFdONlZkOHdlTmhDMlZaWktNbEdNM0NiUlFJMWh3SEotSTlWcjlfNVRMcFBNOWxuTERSNWhzQ2xlZWd5bTY1NEUyaUpSTktZWk9Hc25ZRm1aWkFJaWFiRUZ1WUJaV2ExZE9TRU1TbWc5MXFjZUk1OE54OE5BcTJQLUNGdERFc0xPT0k5T01ycWc?oc=5",
+          "date": "2026-02-02T08:00:00.000Z",
+          "source": "The Times of India"
+        }
+      ]
+    },
+    "5": {
+      "cachedAt": "2026-05-17T06:52:01.707Z",
+      "query": "\"Fulpada-Ashwinikumar\" Surat (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "6": {
+      "cachedAt": "2026-05-17T06:52:01.707Z",
+      "query": "\"Katargam\" Surat (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "8-year-old girl raped at construction site",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSkl3bTdnMXJ3WjFtX0NPOV9GVk9uLWUyTjJYVUhXZVpUUjljY1dsODFzNFVDelQzWFlHSzlJWENSeHdWcEh5T1drZ051ODFTUzVWdG9GbWdNbjQ5VnVMREZTNTI2VUNmMjNJVFlMY2psSDZSV01UcWZ1NXFEZTM0QjN5OGJiZklCd2xjY1A2TTVZNEw0cXhxV2xLbl9CRkZLNjJaUG5URXo2T20td2lvaFRWbVlMZ9IBuwFBVV95cUxNY3hHSkhwbVVCQXNxeERkYlFSUU5xS0VDanBVREFCZ0U2ZmxxeFhmdkplNGdlTFpJbEwzN0M5cDBVTFhtTVJwVEJYaE5ZVFpGRHZ4MEhhblIzT2ZMVUZIUF8tRnpEX0hSVjVnRUtKSkdqZGtzODFIaXdoOGRPbTZXbnZJS1ctNTMyUnlkc2hkd0otX0UzRi1YRHh1a1BjRGF4LWEwN2FPTmtzVVh4and1ajJwY214RjNEZFow?oc=5",
+          "date": "2026-04-03T07:00:00.000Z",
+          "source": "The Times of India"
+        },
+        {
+          "title": "MSc IT graduate held in ₹800 crore cyber fraud racket: Katargam-based network exposed; accused arrested fro...",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUXZvazd3ZzZVNVdUNUZfNEJ1LTBTR3hQN002cjk0dmEzb1hOQjZ5dWdLc1Z4R3kwY3E4Q2xFakdPT1BkaXRaOWVGZmRLeUM3aUo4czF3Z1JwRXFqTUNROGJNNURzTVlGZGFIbnIwR1pwdVJtaWJ2Y1EteFoyeW1hd2d4ZmxpekQ3d2o2LThhS3FZbzVRaVJ1NHhrYzVFeWtoeXFHZnc5UExnX2ZtTXR1RHhFX1Q2N0Y4Y3hTVWdNWdIBxAFBVV95cUxOQ2kyZndyQkIwWmcyb0xuVmV5MVY1SXVqbGVvelU4Ry10YWgzcTFDMjYzYXVWSlpfNXZHclBOWHNVUHdSTzhNMG1pbEludVBWX1ltTlJmMVlrM0xUOTk0blQzXzFGWjhmZThCVHB5SVNvYjBmMXlVM0dudjc2bV80NzhjWW1GS2JvMDdwZmh2cXV0MUNSbmRCS0hMNGVuOE9pZHBJRDk2RGczTmdvMkJyNThUZW1zTWdZdTAxaTdNX19yaDJz?oc=5",
+          "date": "2026-02-20T15:43:32.000Z",
+          "source": "Bhaskar English"
+        },
+        {
+          "title": "Ahmedabad Crime Branch busts interstate gang swapping high-value online orders with dummy products, 5 arrested",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNT2p3QV9ZVDYyV3Y5UFZYeVc3S3l5a0ZmanpTY2c3eHExa0pvbjFmejJUTnpzOUlPNmkwVmxBaWZfLUwzVGZZYVBmWjZ4eHJZV01JU3FVVmtnNHBVeUFmb2t2NGw2ekVuMU9HanFIUFZHYm9sV2dvdkdWX2FONVI1ZzN6U0M3WEZzSTRLeE5JME9EZHMya2cyaDlTa2liOEFfMS1vcy1rNmV1bDlrLVBGMlg2LXh3a1IwbmlGNnFGRFhLNnZveFpfYzBwNnV3bXExSTJwVGJCNG5zWE01NFBDT2YzSjlOY0FvYzFoQUF0cHRVMFRPNFE?oc=5",
+          "date": "2026-02-07T08:00:00.000Z",
+          "source": "GujaratSamachar English"
+        },
+        {
+          "title": "Builder stabbed in Surat over affair with accused’s wife: Police conduct crime scene re-enactment after mai...",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQN3RHY1B6NVowblpFTnZBS2F1V2tSNkFRR190OFBfbkNhNGtUcUVNeTVjcnZXTl9ZSElORDYxNVFReGpvSUdyRS12aXB6bG5vc1FxNkREclJUWnRpeVliRVlYWkVvWG5vamlvWWd4bmE0bGpZeU9BVGVMWTNUcXZyNjctZmhtTW53RUpRbndUVXhueDJQZFJlX2d6Qkluc3FNY0JKMm5SU0ZrVWRHQUxxWEhpNk1vVEF4MlRzRnVEWUJ3c0gxc25UVNIBzgFBVV95cUxOSWI4aWdLbUFVOWRJRHRyQzBMSFB2cWZMWGlzcWtUWllfQWJTMGZ2UzlQaFAtTEtWOU5CVklKaUctdGtwakwteU51NGoxcjVjNlY2NkwwZUxtX1BOUnlpd0x2V3Ezdk1aTFdlWEJLdjc3ZEtNWWIyQWlNSWhHMDdJUVNjMW80N1M0cWlyU0xnR3VVU0tENUZGa3ZhT2h6X2ZKLU5XenlZaUNxVnB0YWZKNE44WlJSZG55RkwxV1MtZGs4ekt4UTlsWUFnUzR0Zw?oc=5",
+          "date": "2026-01-12T08:00:00.000Z",
+          "source": "Bhaskar English"
+        }
+      ]
+    },
+    "7": {
+      "cachedAt": "2026-05-17T06:52:01.707Z",
+      "query": "\"Katargam-Vedroad\" Surat (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Online escort search lands man in fake police trap: Criminals posing as cops raid hotel, try to extort ₹5 l...",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNkItMGoxM2VVLTFPOEQwX3VSWG9uSG1sQldDZFd5SGp2TDVNUENKSzBseXk3U0RMRnNLcnN3M0NvT25ZNkZYdTNGQ1dUei02R3VzZlVBeXdueVdkT3BvNW5rRXR1Q2tBSVhJQW16VW9YSGJqcGMzV1NtNWlGcnhYc1NhQ2pkUHphMTQ3dEtzT2cxUXBrWXJkYjltR2NUWk03eS12R3JfLUo1eE1uenI0bWlJTm5jTk5L0gG-AUFVX3lxTE5FY2pkUGRxYVNzNndSQ296UVlfd0t3SGNxeHU1R2V2Zjh3WjRkSzNuY2NVa3NwcTEyVmZtQ3d3OGFTR3ZzT2FUWExoY0k4UHVHZFJrc09HRmFPNzhpMVRHZDhwQUx4dkU3VTd3QmFUTDJRci1WaTRJWUcxVExZaE50a29ZM3g1VWg2cmNKM2dyLXRyQ2dJTEVBTTlTaUpJRF9fbmdXX3ljaU9qN2dfbE41RENiVU9OSm4waGtNb2c?oc=5",
+          "date": "2026-03-30T07:00:00.000Z",
+          "source": "Bhaskar English"
+        }
+      ]
+    },
+    "8": {
+      "cachedAt": "2026-05-17T06:52:01.707Z",
+      "query": "\"Dabholi-Singanpor\" Surat (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "9": {
+      "cachedAt": "2026-05-17T06:52:01.707Z",
+      "query": "\"Rander-Jahangirabad-Palanpur\" Surat (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "10": {
+      "cachedAt": "2026-05-17T06:52:01.707Z",
+      "query": "\"Adajan-Pal-Ichchhapor\" Surat (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "11": {
+      "cachedAt": "2026-05-17T06:52:01.707Z",
+      "query": "\"Adajan-Gorat\" Surat (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "12": {
+      "cachedAt": "2026-05-17T06:52:01.707Z",
+      "query": "\"Nanavat-Saiyadpura-Kubernagar-Mahidharpura\" Surat (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "13": {
+      "cachedAt": "2026-05-17T06:52:01.707Z",
+      "query": "\"Wadi Falia-Navapura-Begumpura-Salabatpura\" Surat (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "14": {
+      "cachedAt": "2026-05-17T06:52:01.707Z",
+      "query": "\"Umarwada-Matawadi\" Surat (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "15": {
+      "cachedAt": "2026-05-17T06:52:01.707Z",
+      "query": "\"Karanj-Magob\" Surat (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "16": {
+      "cachedAt": "2026-05-17T06:52:01.707Z",
+      "query": "\"Puna\" Surat (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "17": {
+      "cachedAt": "2026-05-17T06:52:01.707Z",
+      "query": "\"Puna\" Surat (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "18": {
+      "cachedAt": "2026-05-17T06:52:01.707Z",
+      "query": "\"Limbayat-Parvat-Kumbhariya\" Surat (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "19": {
+      "cachedAt": "2026-05-17T06:52:01.707Z",
+      "query": "\"Aanjana-Dumbhal\" Surat (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "20": {
+      "cachedAt": "2026-05-17T06:52:01.707Z",
+      "query": "\"Khatodara-Majura-Sagrampura\" Surat (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "21": {
+      "cachedAt": "2026-05-17T06:52:01.707Z",
+      "query": "\"Soni Falia-Nanpura-Athwa-Piplod\" Surat (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "22": {
+      "cachedAt": "2026-05-17T06:52:01.707Z",
+      "query": "\"Bhatar-Vesu-Dumas\" Surat (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "23": {
+      "cachedAt": "2026-05-17T06:52:01.707Z",
+      "query": "\"Bamroli-Udhna\" Surat (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "24": {
+      "cachedAt": "2026-05-17T06:52:01.707Z",
+      "query": "\"Udhna\" Surat (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Surat SBI ₹50 lakh robbery: Key lead found; gang stayed in Udhna for a month, did 17-day recce, clear CCTV ...",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTHNCMGlLb2lsSWhycWVDb0J0VWo2ZW03VUJfTlZJaWxuMHY0U2RvSGMyVGRZcFJJMjhyMDB5SHY2RF8wSUxvTzRJT25YSzdtZDVDemx5eW1NOGJLaENyMXJteEsyYVRQSkp3amVMdi1lWnNGY3UzNzd5dWhDZmVqTl85ZzR3SGRHUHVfZGN4MlJ6ckE5NThwakpYT3pFRl9JRGVaMDNhUTBsRm5XMUdTWDBDT2lxaC1mVU1KRWJFalZXd3pPWDl6RVN0YmQ3NDjSAdQBQVVfeXFMUGlfWlB6ZUs0ZDdWbUhLMkxzOGxmalE0aG9wc3cwdG0tWTFXZmh3OElEcG1LRUw1RWdSZ25tRk9xMjZ5WFp6V09JbHJaakxCOWxyMVNOUUJQWEpMeDFLdThLV1JGVXVlRTlja0lRUkRQRFNCN01FN0stSTRJU1lFWlh0RENkRXc3ZjhPUlBhNWlNQ2lXdmhqSG9sTHhpZFlqeWlGaVhseEtEa2I1SmxuMWhZT2xtRmhJOWp2cHlmQklsSmNRdjNqbzZDbDdsaU1XME85T3Y?oc=5",
+          "date": "2026-05-02T01:56:23.000Z",
+          "source": "Bhaskar English"
+        },
+        {
+          "title": "Cyber fraud case worth ₹1,550-cr busted in Surat, Udhna police arrest 4",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTEJocjdBUm0yb0xtUUNCZEFDUW5UTTlqeGxpR05IVTU3Mk5Tc2kxQWljcWs2V0dPdWVIR2YzYl82ak1wamlpRlJqd3ctZ1FGc2tpYWdTNTdQNnJtSHQ3NGlVdzZjSVNZUkFQU3ZwdEExNFJRMWl4dF9xeFBEVlhvN1FYRm5ab1Nhdkx4RldQdUJVR3g4WE9xMVktQ0hBQUtsTTJ4WE5KT0VPcU53M2Q3RzZOeGxLdElnb0ZsMEtRVWJFRDJwTHhNZHRzNmMxZUll?oc=5",
+          "date": "2026-01-12T08:00:00.000Z",
+          "source": "GujaratSamachar English"
+        },
+        {
+          "title": "₹1,550-Crore Cyber Fraud Racket Busted in Surat; Udhna Police Arrest Four",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMEV3ZFdQQW85RkVObHpwQUNrUmt2cjRTem1hMDRYWmduX2I2YlFvVEFabUdnQ2JUMTJLY0djVnVXN1pXVEloLW5VSDNCb0tkdlM1eDF3Q2YtcnFpT2NtdDloSFNBRE02WXVZV1UxOW1KbVkwcUR0bnlPdWRGdWFxZnhYaHlXbHRLdnc?oc=5",
+          "date": "2026-01-12T08:00:00.000Z",
+          "source": "The420.in"
+        },
+        {
+          "title": "Rs 1,550cr cyberfraud case: Four more arrested",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcUJCWmc2Ml9YejB6TmpWSUpaaHlWUUtUeEFBenBSN0hPYzQwQ1ZqWFZzYnd1X3MtNGlFd0hsS1VKNkc0TVdUbkZaYk81akFsTkRSVTRmMnIzeGpXTE5scTBfWmRyNi1HaHlwYjdQMHlfS0xTMlRNUm5nYzRIRFRnaHZ3a2Uyckd5YXlNOVdaSG9yRWczTGRRWU5TYkFOUTBSZTg0MlZjN0hhZHgyU3otVkhmbklwYnlT0gG-AUFVX3lxTFBFRjJnLTNKQjJoak55Ym5mNUxmdG0taFRYeXdvSk9pNnRXZWtOQ1R0MjNqemlEQjVjRkRNT3dNZjJYaUd0OXJpWThzckpRVmVhbEdNYmZxR1EzVHkxc2Y1WFpXcXZRR0NpWXFFWThSWEpEZUsxWllxaS13aFFvcUc3SjlBVER1eGI2VkZ1NUNsSDFGTUNTSmJXNHE5c1BpMnVLZ0RYamtoTkdLUGlzakpNYkNqX2NmODdyYUtJZkE?oc=5",
+          "date": "2026-01-12T08:00:00.000Z",
+          "source": "The Times of India"
+        }
+      ]
+    },
+    "25": {
+      "cachedAt": "2026-05-17T06:52:01.707Z",
+      "query": "\"Limbayat-Udhna Yard\" Surat (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "26": {
+      "cachedAt": "2026-05-17T06:52:01.707Z",
+      "query": "\"Godadara-Dindoli\" Surat (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Two arrested for extorting money from fair price shop owners",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQ0F4UF9XRTZXaTctaEhCLURHR1plVEl0QTNIY1NwSzhMWDhBUUY5TkJxZXdQSGsyb0U2NWRGWHVxaXFJdnZwX1d1V3VQYWpsV2xiSzBsVEN6VUp3ZXZOalRLVk9JcDM1QjlaMlU1aXN2ZmtlM0M0b2VIVjd0RWg1MC16THlMYm9SOWlvZ212VUhCV0w0ZG5OVS1yd0FHV1ZTcFViNnQ3eGxoNmUtblk4eXFJZ253Q2FtNV9UbWx5WWJHQjNsV3V0QTkyQlRVd9IB0wFBVV95cUxQQkpwTWFWbm5vaVAwSHlDWlFxVW1DOUF5YWl1ckgyaUJOcTNNWVpPMFkzR2Q2SlpGNXV1ckxmUXVwdDJtNDRmUjFQSHd0ZFZ0T2VOZ1VsT3NXN0tnRWxRTDFFNTk0d211bG1veFBuX1o1VXdzXzFxMmhsOFRHUTJES1pwZ3VNSVhLM0Y0RVV4dk5pMDYxSFg4VU5kMjBBU1FyM0Q3Q2llR3EyTi1PbXNPaTFEbnhBdDVjNDNaa2o0OHJ6S2RMSVhIZE5nMlVTUzFHYWtR?oc=5",
+          "date": "2025-12-31T08:00:00.000Z",
+          "source": "The Times of India"
+        }
+      ]
+    },
+    "27": {
+      "cachedAt": "2026-05-17T06:52:01.707Z",
+      "query": "\"Dindoli\" Surat (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Gujarat: Iron rod theft racket busted in Surat, 4 held",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUTI2RHMyQ1gzM1h5cUpvNE93bEFYaVhNYjJrdW0xbFc3TFN5ZUNVaG9yMUdWN1V2WGxaYlVrVlMtRWdOM2NlZEduY3A1Wk9VcFN2aUVaSHFNYk5vQVM1ajg2NlREbGU3anlIRlFrc2kySFpCQk8zMElNa1Z4RmVySWplQWRCV2wzQ1EwQjV1RWJ1U2t6S2fSAZYBQVVfeXFMTlEyNkRzMkNYMzNYeXFKbzRPd2xBWGlYTWIya3VtMWxXN0xTeWVDVWhvcjFHVjdVdlhsWmJVa1ZTLUVnTjNjZWRHbmNwNVpPVXBTdmlFWkhxTWJOb0FTNWo4NjZURGxlN2p5SEZRa3NpMkhaQkJPMzBJTWtWeEZlcklqZUFkQldsM0NRMEI1dUVidVNrektn?oc=5",
+          "date": "2026-04-23T07:00:00.000Z",
+          "source": "Social News XYZ"
+        },
+        {
+          "title": "Surat Cyber Crime Cell busts massive fraud network that routed over Rs 47 crore through fake bank accounts",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZkNLWkUyTTNkOUZEb1V5d0h3NnZTSzJLZG1wQ19Qd3J1NGZoUVJPTUl5ZkVZaUdhSkdLTXlnNGtVWVF3V0Y4cXRJNl94TE92QXRaVHFHT0RWR3dSN2pvWGNhSUZqTDlaR1gwMS1Jd0lRM29VSVhTTUFyeC1hVEtqbHNWUHJYZDNRU1l4MkxYY1daOTAtQ1Y3UmdIR2pwZjFoTUxfOURDZzRZei1pOEI4U2ZGNXFCSFY5RDlzczNDeWN3TXh3RE9jU08zV0gtQi1WUmItVGxNNU9CSVh6MXBUUXN6cllFZXpCODdMSHNXTdIB_AFBVV95cUxOWTZFazh6eVc5bDViUDY4QUFVR0NRT25uNUd3VWlEWWU1NTFSakVTdW1kWTE5OWtUckdlWjNOQWRpM2RERWdqTUJrM0c1UWNRajZhRGZoRXpBQVhzVDBydl9FY0VMOWUxTklCV1MwN2pwbUdOOE1JbWc1QndzVzBmRUZzdDhIN3l0TkJkOVZZUllmZUNmMVQxcGxzYWlwck5kWXZUbm1CV3B1UmxlU1BNeUwtQWNIM1E4QVpRclo3Y2EzZ1VRQzlRbUtVQ2VRQUZaa1ptMVhFbUJ6ak9MXzZ0dF9fTjd4ak1Vd09jR1A0RnRObndxVG91TGZza0o?oc=5",
+          "date": "2026-04-04T07:00:00.000Z",
+          "source": "The New Indian Express"
+        },
+        {
+          "title": "Surat daylight kidnapping caught on CCTV at Parvat Patiya: Courier boy abducted, beaten over old rivalry, t...",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPY2ZsRk9hZWFLVDlKNmw0NE9McndiZ2hDNXVDSWR1WGVab05uQlpnZExrVE80Y3NuWjFxemFMakpwdVg2UFVuNlR4dnFHcm01SE5LWWtvaFpWWVhoNFZHUHBaY1JJOUxOSlBGZTBRdXFkRGtnMEpDM2pxMG9LT0JYMGhBOE5UQ2hPV2hSU3BTb0xRbi1jVEhYWFlRQm9RYkJBT0JyME9QY2JmZWxqaUM2ZGFKd1M1R1FvTEcw0gHAAUFVX3lxTFAyR3FxWElsNWJ5ZEhLRW0zRXF3TzFZN2xsdDdBUlNfMDI4WndNQkZONHNvMnlPcWhtNUJ2all6a2N5a3RkNS1qdjFRODZ2aWthcHg4YUNHdDFfX0Z4OS0tZkxlN05LMTR2WWlueHpwVlZ4VXNwLU1Bdm9sRmZVSkRBUF9SMmxIZGh5enRKcWhMQkJ4MkplWi1aYzNIT1JtcXJPcko3UVR3ODJMd2dETmV4a0dNZU93eFZnb2swNmpXbg?oc=5",
+          "date": "2026-02-01T08:00:00.000Z",
+          "source": "Bhaskar English"
+        }
+      ]
+    },
+    "28": {
+      "cachedAt": "2026-05-17T06:52:01.707Z",
+      "query": "\"Pandesara-Bhestan\" Surat (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "29": {
+      "cachedAt": "2026-05-17T06:52:01.707Z",
+      "query": "\"Althan-Bamroli-Vadod\" Surat (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "30": {
+      "cachedAt": "2026-05-17T06:52:01.707Z",
+      "query": "\"Kansad-Sachin-Unn-Aabhva\" Surat (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    }
+  },
+  "notes": "Per-ward crime-related news from Google News RSS. Queried per the ward's distinctive neighbourhood name + Surat + crime keywords. Items are filtered to last 18 months and to titles containing at least one crime/police/arrest term. Up to 4 per ward."
 }

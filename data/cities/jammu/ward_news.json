@@ -1,5 +1,809 @@
 {
   "source": "https://news.google.com/rss/search",
-  "scrapedAt": null,
-  "wards": {}
+  "scrapedAt": "2026-05-17T07:11:14.498Z",
+  "wards": {
+    "9994": {
+      "cachedAt": "2026-05-17T07:10:03.044Z",
+      "query": "\"Gole\" Jammu (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Six drug peddlers arrested in Udhampur, Samba",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9VcUtMZzFSNUkyMlNkbnRVQTB2T0s2VEdHaGZsWFJNY25EZ1dTSWZpbXhPYXBKajVmSDRVWW9ta0ZiUXFWcl9OMjhUc0o1OGFSY1dEMUVBdlRQRkE3UWd4Tk1ObWVqQmRGb0hQakVpSzFlMDE1Ymc?oc=5",
+          "date": "2026-03-24T07:00:00.000Z",
+          "source": "statetimes.in"
+        },
+        {
+          "title": "Crackdown on Absconders by Jammu Police: Arrests 02 absconding accused evading NBWs",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbDY5WjBRcGhEZzg5ZWhrS2lpS051N1BWaVo2M2RoZ2NOT2lyMDdjY2ZPY2NLbHphTklLY01VN2JpV20zck1XZGFXbXZ2cFJTRnJaN1g1VGUtTlQzZEFqdXdQTHVMUklvbzlQUS1RX25tMmZPSnU0ZHQwYUxRQlktYWh1VWdnS0RnODh1YzBkMGpjVS1yZmswaXl1SXlnNlZIN3VSTWVRZUtXenQ0M2RRNFpaaVJ3UGVNVnJ2dm9KbldvS3lxb3ZV?oc=5",
+          "date": "2025-12-27T08:00:00.000Z",
+          "source": "Cross Town News"
+        },
+        {
+          "title": "Two criminals held, illegal arms recovered: Police",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVjlPb3pVOUlYeHJYLVZGUzhjajdLNjVQVTFveG10R3ktOExvcTU0V0ZSMDVTZnRNellmeEh1RXJPMmJMUkgzdFFRc1RmVlVNNnBsMXZIMGFDNzJnUk5FUHF3UVdiSUp3WW04UHZLZDdpNENwY1p0R3lBaDlrdjVVelRWWWlvSlk?oc=5",
+          "date": "2025-12-03T08:00:00.000Z",
+          "source": "Daily Excelsior"
+        }
+      ]
+    },
+    "9995": {
+      "cachedAt": "2026-05-17T07:10:03.044Z",
+      "query": "\"Sidhra\" Jammu (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "J&K: Anti-narcotics task force arrests drug peddler in Jammu",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTFpKY3JhNTZyUENqZzdySFpMQ25xS3pPM1dSSDcxOGxhU3lTOER3dUVOa2IzcURHUmVidHh6d2x4MFZfT2g0STAzNGltZTFTWGl1VDFvbVBFcE5rbzlBdVRva3V0T0xuaE13dG5VSEFKaHhPdS1vRkoxNkl1Q0gxOVd3RW8?oc=5",
+          "date": "2026-02-01T08:00:00.000Z",
+          "source": "tennews.in"
+        }
+      ]
+    },
+    "9996": {
+      "cachedAt": "2026-05-17T07:10:03.044Z",
+      "query": "\"Gujjar Nagar\" Jammu (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Four held in attempt to murder case",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE85MjdhejlzbE9lcHNFV05leVBMZmdrZHBEQWQ3bjVjTzVXUzQ4VEU4STF4REoxc1pJLXFqaTBnSmtDa1kydk9wTGZDQTdobUY0Qms3VUtQeHhIRGN0NmNPYXpvdWs0Z3otVHhvdWctZFZrcmZubGc?oc=5",
+          "date": "2026-01-06T08:00:00.000Z",
+          "source": "Daily Excelsior"
+        },
+        {
+          "title": "Jammu Police achieves a major breakthrough in an attempt to murder case: 04 held",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPakpnT2U4NEdWMGhIVGxCQktMUlVnSjYweHg1UU95WGhudEwtNzBnXzZIUFZvTm00M1VMdjByQ29lblFVcU9yalRNTlE4QUpNaU1WUXNRWW82MnllYlQxUGRCdlFfRWIwRnJTeDZGWVR6LWFGeDVodWUtV0xraWZPdGJOeTBTd1FwaGMxNGd1YVh3OFNFM0NwLU1aN3JscDJiNGRrNlNON0JXWHFGTlVzNksya0ljR2ZIOFMyZmF6Mk02OWc?oc=5",
+          "date": "2026-01-06T03:26:06.000Z",
+          "source": "Cross Town News"
+        },
+        {
+          "title": "Police arrest long-absconding criminal linked to Royal Singh gang",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPekVlOXZxV01nUEkyM25GcXd0czBnSkJ4eUZSOFZlZkRQam5jXzJRbGFHTHVpd2JIWkJwZ3QzcDFDVkJsdXgxd0JzQUEwX3kyOXJqc015cjNLS1N3R1dQMU43N1RrRGZaZURIN3p0RTYzekdaRGxiSFB0Yk0xblpRZGxCbkFVUUlWanZPZUczckRVU0NUWEdHYUR4NUdwdw?oc=5",
+          "date": "2025-12-15T08:00:00.000Z",
+          "source": "Daily Excelsior"
+        },
+        {
+          "title": "Five held in Marh firing case; weapon, vehicles seized",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRjEyWU90YWpfMzR0NHc5VTFGWXhrTC1MVmROLWM2dUJIYWFHYXFCV3psTVNMaWIxcnY3ZmlidTM2c0RPTzRfdUs0ZF84RmtJTWZRcWdjc3FjU05CVy03aVZjcktvYnVFYzVTRWM0Rjk1U0M1bEFjLXBETnJNdzE3ZXJtRkdOR1VVMXhnNg?oc=5",
+          "date": "2025-12-13T08:00:00.000Z",
+          "source": "Daily Excelsior"
+        }
+      ]
+    },
+    "9997": {
+      "cachedAt": "2026-05-17T07:10:03.044Z",
+      "query": "\"Paloura Top\" Jammu (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "9998": {
+      "cachedAt": "2026-05-17T07:10:03.044Z",
+      "query": "\"Dogra Hall\" Jammu (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Five held in Marh firing case; weapon, vehicles seized",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRjEyWU90YWpfMzR0NHc5VTFGWXhrTC1MVmROLWM2dUJIYWFHYXFCV3psTVNMaWIxcnY3ZmlidTM2c0RPTzRfdUs0ZF84RmtJTWZRcWdjc3FjU05CVy03aVZjcktvYnVFYzVTRWM0Rjk1U0M1bEFjLXBETnJNdzE3ZXJtRkdOR1VVMXhnNg?oc=5",
+          "date": "2025-12-13T08:00:00.000Z",
+          "source": "Daily Excelsior"
+        }
+      ]
+    },
+    "9999": {
+      "cachedAt": "2026-05-17T07:10:03.044Z",
+      "query": "\"Sarwal\" Jammu (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "10000": {
+      "cachedAt": "2026-05-17T07:10:03.044Z",
+      "query": "\"Paloura\" Jammu (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "10001": {
+      "cachedAt": "2026-05-17T07:10:03.044Z",
+      "query": "\"Janipura\" Jammu (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Judiciary Department Employee Arrested in Srinagar with Heroin-Like Substance, Cash",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQXhJbjZtazNsdkw3aV96bFlTQWt4eUxURmJVYTIyYjFIVnowSUtwb3kzdW85SlZweV9JOGx5R0R0NjFJN25HYWFpUUpFWmY2NnZPWmRDcWxFVGVlWWJTb3Yxb2E5N1M1blN0TTF2ZlB0Mlg0U0xHRGFPOS1YMng5R0IzeGs5Nkp5bWNRektWQ05Ha2d0X2U1eWIwTGJkb0VIU1lqSk1fU3V3UU1QMlpVOE5zd0Y?oc=5",
+          "date": "2026-04-29T07:00:00.000Z",
+          "source": "Kashmir Life"
+        }
+      ]
+    },
+    "10002": {
+      "cachedAt": "2026-05-17T07:10:03.044Z",
+      "query": "\"Talab Tillo\" Jammu (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "10003": {
+      "cachedAt": "2026-05-17T07:10:03.044Z",
+      "query": "\"Upper Muthi\" Jammu (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "10004": {
+      "cachedAt": "2026-05-17T07:10:03.044Z",
+      "query": "\"Rajpura Mangotrian\" Jammu (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Assault case worked out: Police",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbzNxV0lLZEtabHVNbDVmazdRQ0FCRGVnN1ZScjNuSUFNMlA3a19hMGtKSTNHU0ZTM1ZVZmphZVhfOGRkZThiZXNscG41dDJMUEc5V3ZuWWwtMG1lWlJGbmFEUU9JRGc4NzkyX1p1NWE3a20zUHY2YjBHTHpCTHZBSXE5TnN0a0tlUVZrN3I3Vm05Q3ZEenV0alp3TWVrcXN2YU9iM2RrclpQa2hjODZSZFlGcnRfcXZHZm1YbDk3MA?oc=5",
+          "date": "2026-04-26T07:00:00.000Z",
+          "source": "Dailyhunt"
+        }
+      ]
+    },
+    "10005": {
+      "cachedAt": "2026-05-17T07:10:03.044Z",
+      "query": "\"Jullaka Mohalla\" Jammu (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "10006": {
+      "cachedAt": "2026-05-17T07:10:03.044Z",
+      "query": "\"Bhabrian\" Jammu (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "10007": {
+      "cachedAt": "2026-05-17T07:10:03.044Z",
+      "query": "\"Pacca Danga\" Jammu (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "POCSO court pulls up IO over lapses in minor kidnapping case",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRVU1THI2U3g3amw2WVM4VmtjTkRxbGxlRzlEN0dTMnhNQnB4SWZkS1dUS1JWTkpIdzdfLXdPVUhvSl9YWGJKeks5cjVCSjQ0Wm1Mc2VkeEQ4SXltVE1YZ083a0dNNjNUZ21rV2Rzalp5RHZhc2VXbmZFWE9qdFVPaWxRc1VNbllJZnJ2QjZ1aDM0OXFINDJJ?oc=5",
+          "date": "2026-03-11T07:00:00.000Z",
+          "source": "Daily Excelsior"
+        },
+        {
+          "title": "Stolen Gold Worth Rs 50 Lakh Recovered, Accused Women Absconding",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQS0RzS2RMUEs2ekxxU1lVNDBkZVRwcXFTNFMwYTk3OHM4eGlvUEZhZ1paSzlrZF9uMVhTQTVKRGpwUnFuSm5YYzJsQnJoSjBOaVJGNFNlaHRCY0xtV21pdjBWdzF6VW5vbFpMN1ozRXN5eEt2Q3lzNTdZbFNpdmxKTkQ5VG9qalF3dEZKU0FwWnZ4T3lubEE3YmJCVQ?oc=5",
+          "date": "2026-01-28T08:00:00.000Z",
+          "source": "Kashmir Life"
+        }
+      ]
+    },
+    "10008": {
+      "cachedAt": "2026-05-17T07:10:03.044Z",
+      "query": "\"Mast Garh\" Jammu (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Four held in attempt to murder case",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE85MjdhejlzbE9lcHNFV05leVBMZmdrZHBEQWQ3bjVjTzVXUzQ4VEU4STF4REoxc1pJLXFqaTBnSmtDa1kydk9wTGZDQTdobUY0Qms3VUtQeHhIRGN0NmNPYXpvdWs0Z3otVHhvdWctZFZrcmZubGc?oc=5",
+          "date": "2026-01-06T08:00:00.000Z",
+          "source": "Daily Excelsior"
+        },
+        {
+          "title": "Jammu Police achieves a major breakthrough in an attempt to murder case: 04 held",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPakpnT2U4NEdWMGhIVGxCQktMUlVnSjYweHg1UU95WGhudEwtNzBnXzZIUFZvTm00M1VMdjByQ29lblFVcU9yalRNTlE4QUpNaU1WUXNRWW82MnllYlQxUGRCdlFfRWIwRnJTeDZGWVR6LWFGeDVodWUtV0xraWZPdGJOeTBTd1FwaGMxNGd1YVh3OFNFM0NwLU1aN3JscDJiNGRrNlNON0JXWHFGTlVzNksya0ljR2ZIOFMyZmF6Mk02OWc?oc=5",
+          "date": "2026-01-06T03:26:06.000Z",
+          "source": "Cross Town News"
+        }
+      ]
+    },
+    "10009": {
+      "cachedAt": "2026-05-17T07:10:03.044Z",
+      "query": "\"Bohri\" Jammu (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Gold Fraud Case: Police Arrest Woman, Two Aides",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcllnWjJ2Sm9LOUVwWmNDa0g0NjNhMVhEUms0RUgwRWtNSGhGbUExdlZ2MWFmZ2d0cjBSend1QmtXcS03UlVZT1c2Zm9Obl9aazEwbVBwZzE5OHdIR3k0bjNyTVBFSF83MTZKdXNVM2tJUW5DandJS1ZIbWZXdUpYODJUbw?oc=5",
+          "date": "2025-11-20T08:00:00.000Z",
+          "source": "Kashmir Life"
+        }
+      ]
+    },
+    "10010": {
+      "cachedAt": "2026-05-17T07:10:03.044Z",
+      "query": "\"Moh. Malhotrian\" Jammu (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "10011": {
+      "cachedAt": "2026-05-17T07:10:03.044Z",
+      "query": "\"Lower Muthi\" Jammu (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "10012": {
+      "cachedAt": "2026-05-17T07:10:03.044Z",
+      "query": "\"Poonch House\" Jammu (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "10013": {
+      "cachedAt": "2026-05-17T07:10:03.044Z",
+      "query": "\"Toph Sherkhania\" Jammu (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "10014": {
+      "cachedAt": "2026-05-17T07:10:03.044Z",
+      "query": "\"Shiv Nagar\" Jammu (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "7 drug peddlers arrested across Jammu Province",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbGxjYVc3T3BqSEN2NUIycjZBWld2X3dCOXFPb3FQR2x6eTRoSnZHVmZfa3BFbGQ0WkdVUjZaWW4tVExNQXlJSjVWcmo1em5wMUtjTzdScndOY2h5cjBQaGNycm1xUHV3Qmd4Z1hJNFJ0Nk5SZWlHYWs5Tkd3N3J4c0o5a1g?oc=5",
+          "date": "2026-05-08T23:22:06.000Z",
+          "source": "Daily Excelsior"
+        },
+        {
+          "title": "Young girl raped by saloon owner",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9aRG11aUZablphUHhJNkdqT01PQmhZNy1BUFhLNzdQenFxb3A0R05IR19sZXU0NGNCbFhyMnc2SVRfU0wwR2ZjbldZdE1QYlhvaW9pd3BLRnZES2JsazVIeTE2b0hLOU9kWGNmVmFWckhPUQ?oc=5",
+          "date": "2026-02-18T08:00:00.000Z",
+          "source": "Daily Excelsior"
+        }
+      ]
+    },
+    "10015": {
+      "cachedAt": "2026-05-17T07:10:03.044Z",
+      "query": "\"Kanji House\" Jammu (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "10016": {
+      "cachedAt": "2026-05-17T07:10:03.044Z",
+      "query": "\"Panjtirthi\" Jammu (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "J&K: Anti-narcotics task force arrests drug peddler in Jammu",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTFpKY3JhNTZyUENqZzdySFpMQ25xS3pPM1dSSDcxOGxhU3lTOER3dUVOa2IzcURHUmVidHh6d2x4MFZfT2g0STAzNGltZTFTWGl1VDFvbVBFcE5rbzlBdVRva3V0T0xuaE13dG5VSEFKaHhPdS1vRkoxNkl1Q0gxOVd3RW8?oc=5",
+          "date": "2026-02-01T08:00:00.000Z",
+          "source": "tennews.in"
+        }
+      ]
+    },
+    "10017": {
+      "cachedAt": "2026-05-17T07:10:03.044Z",
+      "query": "\"Pratap Ghar\" Jammu (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "10018": {
+      "cachedAt": "2026-05-17T07:10:03.044Z",
+      "query": "\"Bhour Gadigarh\" Jammu (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "10019": {
+      "cachedAt": "2026-05-17T07:10:03.044Z",
+      "query": "\"Digiana\" Jammu (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Fake notes transaction leads to drug haul, arrest in J&K",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORkdGTzRKSW5YZHh1V0ZaSHgzY0RfLUptT3N4NlhTYkZ5bmxGTmprbG8tazNoY0J5Wkh3ZGtmN21uZWF1bDNtZERyUzF6QlhqNE1tWWt2VnplaGhYYlp2ZmlMX252eGI3bzZlem5pNEpTSzNzWVNvTmJhT2dFNENlQmQyM2tzdEtmZVJ6QW5SdTk0VEZLdlNnR3B2VlgwVzJkN2dxajJvSkVMVHNFd1A2VGZZVFpFSnh6NzRuZ25hRdIBxAFBVV95cUxObWtDZE4xbjB6N1hRN2RzX3lUdy1kRDlMNVM4MHQzWlVfaTVIZlZDODNURFA2MUEyZFNkM1A5ZHU1WVF6elB6UmlXbW1nUTlzRHRTSXV6STRKUUJOU0FhR1ZUSllPUWxEcWV5ajZjSmtFaUFCQmlUaGZQd1ZlQXZvWko4cVJmSHdqTVVsMWpXaWVtWTNqbHdHMnl1eFphSHBWRmFQeHNtc1ZUR0pKeFZBOGlTS3F5OG03aTUxRkxGd1UzOS1N?oc=5",
+          "date": "2026-02-10T08:00:00.000Z",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Crackdown on Absconders by Jammu Police: Arrests 02 absconding accused evading NBWs",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbDY5WjBRcGhEZzg5ZWhrS2lpS051N1BWaVo2M2RoZ2NOT2lyMDdjY2ZPY2NLbHphTklLY01VN2JpV20zck1XZGFXbXZ2cFJTRnJaN1g1VGUtTlQzZEFqdXdQTHVMUklvbzlQUS1RX25tMmZPSnU0ZHQwYUxRQlktYWh1VWdnS0RnODh1YzBkMGpjVS1yZmswaXl1SXlnNlZIN3VSTWVRZUtXenQ0M2RRNFpaaVJ3UGVNVnJ2dm9KbldvS3lxb3ZV?oc=5",
+          "date": "2025-12-27T08:00:00.000Z",
+          "source": "Cross Town News"
+        }
+      ]
+    },
+    "10020": {
+      "cachedAt": "2026-05-17T07:10:03.044Z",
+      "query": "\"Shastri Nagar\" Jammu (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "J&K Police bust Pak-linked narco-terror syndicate; 6 held with 5kg heroin, 3 pistols",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNY1k4b2M2VTFaY0JDSzhiYTFadmp5eVg5dEpYeEFDTm5iODhHYl9oa2hVNTFEd2U0a0FKVUF1MTZwdDEwR0RlaThJTUhmZ1NDLUZUblB4UVlZOThRVFVZUWNBYnM2ellzLWw0UWZGeWZoYWdyd1Z4LUdqbXR2N1IzbXVIR3M4UTFfN18yWjhlQTQxMmlVUkZiaTl1SHpGb3RKWWtiNXNyR3dPTG1XdExtb0NZV3IxV1dmMGNrMzZkbklUR00tV3FQR0tYaHVKQUhxM2NHcGlWVm0tMDczN3ZYb3NHY9IB6AFBVV95cUxQaTlTYk1oN2RNajR4dlNOVXZETWZZVGR3U3IteDkzeDRHcXd1U3dCVkVtSzFSbDRvS3FCWHpoeVVnVng1X0MtTUNGNlB4NThCTmVTazFzMkJuT2dPUVVCSDNmYkhYT3RZd2wtZGI1M0hJbmxOUnN5LTFJdTRyN3lWMXNiOFVrY1NIaVJyc1Y0azRjZGt1TWhjbmZEbTJUNmd3UElpZ1NvWFdibWFXVlhaZmtfZUNQTzQxTEVYMW13QkRGMHZ4NGZHbEhreF9RbjRCa2JJWFFyb0RhWDhlTFIwRGhFclFTbVE2?oc=5",
+          "date": "2025-12-05T08:00:00.000Z",
+          "source": "The Times of India"
+        }
+      ]
+    },
+    "10021": {
+      "cachedAt": "2026-05-17T07:10:03.044Z",
+      "query": "\"Nai Basti\" Jammu (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "BSF, J&K Police foil narco-terror plot in RS Pura; 7kg heroin seized | Hindustan Times",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdmhZNDVmdWs2QnVyLWtOZUJieU1lcjZBX0VuQ3RnQlkxUl8xNm9oVVdKa0g2d3RtSFNMUDJwVUNybmtHMmRBeXl4d0tjZ2FjMjNSYzQ1QUFBVHNHU2RESHM0anRVMlN1NnpRWk5CeFVLY0x4V2xYZXJ4QUIxT2hxLUVjRE1lc3VMVHZqQ2VRY3hnTndhRkdrY2VzSmIwOUQ2UG83T2o3dE5MTFlKV280b01HNTZyakRwYlY5UGFyZ200c2czamdtZ0VlU3VyX1luSHRtTkU1bS3SAd4BQVVfeXFMUF9oaG9tQ2kzNTlkcG9ZUXVsNmtUVXZBQ2RYeC14Y291TDR0c19oa0NVWUxDblZTZXRQb2ZSWS1iTk5rS0k0dDhncFlTWmI1bmstXzg1Y0Nnb09LR0pDMlVEYnBqV1Fyald1QWpRSG9uc04zNTNJZ0VKSDZnT2tsSzZNZnFyVWVZZzNpUWN6cng0eVpRRWk3VDlXclNVcWx3NFR4d3pTa1FXSnFDVzd6WUM4S0dLUVdaeEdxajJ5Zy1PdmxVZjVtSEVXZk1IcU16anFMVzNhajE1SGhGeC13?oc=5",
+          "date": "2026-02-14T08:00:00.000Z",
+          "source": "Hindustan Times"
+        },
+        {
+          "title": "Jammu Police, 165 Bn BSF Recover ₹40 Crore Heroin in Suspected Drone Drop Near IB",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPV1Q5VXJ0QkZ3cl9JWHVrTFdsVG1WMzFmTGJXRkJ2elRZZTZ6T0EyN3B3cFlzOGZMeF9MQlBveDBieE9SVVhfbTZ1YnhQdEVsdWdEQ3JGQ1pJUWtURHd0VTBWQXNHcjkzck5PNTVBcnJuTDltb2lhRFBzTnZvSll2bW1ScFZ5Tm12NXpRM0hMV0czWmUzVmZhbTAxOTdySWxWZFYxdHd3dGlaYlY1Mnl0bEdFSXNISDJVNFo1Zw?oc=5",
+          "date": "2026-02-14T08:00:00.000Z",
+          "source": "Jammu Links News"
+        }
+      ]
+    },
+    "10022": {
+      "cachedAt": "2026-05-17T07:10:03.044Z",
+      "query": "\"Gandhi Nagar\" Jammu (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "ACB Arrests Junior Engineer in Jammu for Accepting Rs 75,000 Bribe",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMzBiY1NYRTJUdk81R0xPSE1NRzNlQTNKem53UHlSUlVfRE9NUTg0NlpPNDNUdmZUcVczRGVBODFGTmVpQmlMTGhoU2JfbGtMczQ4M3BxR3phN0dzNEpWN0pQVjRXQ1dMZjZDZzdlV211dUp2ODFGcTN6RmZESThqR1hhcjhZR2ZuLUZNMFlDblN6ZUtSYzlPcEZOTk1GUQ?oc=5",
+          "date": "2026-04-05T07:00:00.000Z",
+          "source": "Kashmir Life"
+        },
+        {
+          "title": "Jammu: Govt Official Arrested For Taking Rs 75,000 Bribe",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNd3hKbExUUHYwZDl2aFp1XzFTZTFFZnkzZFBBZlF4Vkppclhlamk2em5raGlUT1hXbXIzb1BiU2ZLcTRpVW5ZUmRHYkcwZ29yQndIRFdsS1VVeTZGT2xpeVphSlVUYUxrdUV5MTR5cXppdnhGUjkxa2Z5Ny1PM09Zd1V6U2IxZm1FcHAwS1B4Yw?oc=5",
+          "date": "2026-04-05T07:00:00.000Z",
+          "source": "Daily Excelsior"
+        },
+        {
+          "title": "Solves telecom theft, JPDCL robbery cases; makes recoveries worth over Rs 1 Cr",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNU5xSTEySmtuYUhNdGpXX3B6OWZZWUdEak1FTl8yVnZtdnI5LWtLSUdlUWd5Y1pTdEs1VWlub3BtWndZWVhWemtXbWFOcFVteVRLUUtlVWxJS0pmaEVFMnNROUNfNHpVNnoyclN5bllhSG1lS244cFhvVjFuRE02LXZ6MjlvdWYta3VlYWNFbXBIcW1pYWlDQV9LMTl5OUsy?oc=5",
+          "date": "2026-01-20T08:00:00.000Z",
+          "source": "statetimes.in"
+        },
+        {
+          "title": "J&K Police bust Pak-linked narco-terror syndicate; 6 held with 5kg heroin, 3 pistols",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNY1k4b2M2VTFaY0JDSzhiYTFadmp5eVg5dEpYeEFDTm5iODhHYl9oa2hVNTFEd2U0a0FKVUF1MTZwdDEwR0RlaThJTUhmZ1NDLUZUblB4UVlZOThRVFVZUWNBYnM2ellzLWw0UWZGeWZoYWdyd1Z4LUdqbXR2N1IzbXVIR3M4UTFfN18yWjhlQTQxMmlVUkZiaTl1SHpGb3RKWWtiNXNyR3dPTG1XdExtb0NZV3IxV1dmMGNrMzZkbklUR00tV3FQR0tYaHVKQUhxM2NHcGlWVm0tMDczN3ZYb3NHY9IB6AFBVV95cUxQaTlTYk1oN2RNajR4dlNOVXZETWZZVGR3U3IteDkzeDRHcXd1U3dCVkVtSzFSbDRvS3FCWHpoeVVnVng1X0MtTUNGNlB4NThCTmVTazFzMkJuT2dPUVVCSDNmYkhYT3RZd2wtZGI1M0hJbmxOUnN5LTFJdTRyN3lWMXNiOFVrY1NIaVJyc1Y0azRjZGt1TWhjbmZEbTJUNmd3UElpZ1NvWFdibWFXVlhaZmtfZUNQTzQxTEVYMW13QkRGMHZ4NGZHbEhreF9RbjRCa2JJWFFyb0RhWDhlTFIwRGhFclFTbVE2?oc=5",
+          "date": "2025-12-05T08:00:00.000Z",
+          "source": "The Times of India"
+        }
+      ]
+    },
+    "10023": {
+      "cachedAt": "2026-05-17T07:10:03.044Z",
+      "query": "\"Gandhi Nagar\" Jammu (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "ACB Arrests Junior Engineer in Jammu for Accepting Rs 75,000 Bribe",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMzBiY1NYRTJUdk81R0xPSE1NRzNlQTNKem53UHlSUlVfRE9NUTg0NlpPNDNUdmZUcVczRGVBODFGTmVpQmlMTGhoU2JfbGtMczQ4M3BxR3phN0dzNEpWN0pQVjRXQ1dMZjZDZzdlV211dUp2ODFGcTN6RmZESThqR1hhcjhZR2ZuLUZNMFlDblN6ZUtSYzlPcEZOTk1GUQ?oc=5",
+          "date": "2026-04-05T07:00:00.000Z",
+          "source": "Kashmir Life"
+        },
+        {
+          "title": "Jammu: Govt Official Arrested For Taking Rs 75,000 Bribe",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNd3hKbExUUHYwZDl2aFp1XzFTZTFFZnkzZFBBZlF4Vkppclhlamk2em5raGlUT1hXbXIzb1BiU2ZLcTRpVW5ZUmRHYkcwZ29yQndIRFdsS1VVeTZGT2xpeVphSlVUYUxrdUV5MTR5cXppdnhGUjkxa2Z5Ny1PM09Zd1V6U2IxZm1FcHAwS1B4Yw?oc=5",
+          "date": "2026-04-05T07:00:00.000Z",
+          "source": "Daily Excelsior"
+        },
+        {
+          "title": "Solves telecom theft, JPDCL robbery cases; makes recoveries worth over Rs 1 Cr",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNU5xSTEySmtuYUhNdGpXX3B6OWZZWUdEak1FTl8yVnZtdnI5LWtLSUdlUWd5Y1pTdEs1VWlub3BtWndZWVhWemtXbWFOcFVteVRLUUtlVWxJS0pmaEVFMnNROUNfNHpVNnoyclN5bllhSG1lS244cFhvVjFuRE02LXZ6MjlvdWYta3VlYWNFbXBIcW1pYWlDQV9LMTl5OUsy?oc=5",
+          "date": "2026-01-20T08:00:00.000Z",
+          "source": "statetimes.in"
+        },
+        {
+          "title": "J&K Police bust Pak-linked narco-terror syndicate; 6 held with 5kg heroin, 3 pistols",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNY1k4b2M2VTFaY0JDSzhiYTFadmp5eVg5dEpYeEFDTm5iODhHYl9oa2hVNTFEd2U0a0FKVUF1MTZwdDEwR0RlaThJTUhmZ1NDLUZUblB4UVlZOThRVFVZUWNBYnM2ellzLWw0UWZGeWZoYWdyd1Z4LUdqbXR2N1IzbXVIR3M4UTFfN18yWjhlQTQxMmlVUkZiaTl1SHpGb3RKWWtiNXNyR3dPTG1XdExtb0NZV3IxV1dmMGNrMzZkbklUR00tV3FQR0tYaHVKQUhxM2NHcGlWVm0tMDczN3ZYb3NHY9IB6AFBVV95cUxQaTlTYk1oN2RNajR4dlNOVXZETWZZVGR3U3IteDkzeDRHcXd1U3dCVkVtSzFSbDRvS3FCWHpoeVVnVng1X0MtTUNGNlB4NThCTmVTazFzMkJuT2dPUVVCSDNmYkhYT3RZd2wtZGI1M0hJbmxOUnN5LTFJdTRyN3lWMXNiOFVrY1NIaVJyc1Y0azRjZGt1TWhjbmZEbTJUNmd3UElpZ1NvWFdibWFXVlhaZmtfZUNQTzQxTEVYMW13QkRGMHZ4NGZHbEhreF9RbjRCa2JJWFFyb0RhWDhlTFIwRGhFclFTbVE2?oc=5",
+          "date": "2025-12-05T08:00:00.000Z",
+          "source": "The Times of India"
+        }
+      ]
+    },
+    "10024": {
+      "cachedAt": "2026-05-17T07:10:03.044Z",
+      "query": "\"Digiana\" Jammu (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Fake notes transaction leads to drug haul, arrest in J&K",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORkdGTzRKSW5YZHh1V0ZaSHgzY0RfLUptT3N4NlhTYkZ5bmxGTmprbG8tazNoY0J5Wkh3ZGtmN21uZWF1bDNtZERyUzF6QlhqNE1tWWt2VnplaGhYYlp2ZmlMX252eGI3bzZlem5pNEpTSzNzWVNvTmJhT2dFNENlQmQyM2tzdEtmZVJ6QW5SdTk0VEZLdlNnR3B2VlgwVzJkN2dxajJvSkVMVHNFd1A2VGZZVFpFSnh6NzRuZ25hRdIBxAFBVV95cUxObWtDZE4xbjB6N1hRN2RzX3lUdy1kRDlMNVM4MHQzWlVfaTVIZlZDODNURFA2MUEyZFNkM1A5ZHU1WVF6elB6UmlXbW1nUTlzRHRTSXV6STRKUUJOU0FhR1ZUSllPUWxEcWV5ajZjSmtFaUFCQmlUaGZQd1ZlQXZvWko4cVJmSHdqTVVsMWpXaWVtWTNqbHdHMnl1eFphSHBWRmFQeHNtc1ZUR0pKeFZBOGlTS3F5OG03aTUxRkxGd1UzOS1N?oc=5",
+          "date": "2026-02-10T08:00:00.000Z",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Crackdown on Absconders by Jammu Police: Arrests 02 absconding accused evading NBWs",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbDY5WjBRcGhEZzg5ZWhrS2lpS051N1BWaVo2M2RoZ2NOT2lyMDdjY2ZPY2NLbHphTklLY01VN2JpV20zck1XZGFXbXZ2cFJTRnJaN1g1VGUtTlQzZEFqdXdQTHVMUklvbzlQUS1RX25tMmZPSnU0ZHQwYUxRQlktYWh1VWdnS0RnODh1YzBkMGpjVS1yZmswaXl1SXlnNlZIN3VSTWVRZUtXenQ0M2RRNFpaaVJ3UGVNVnJ2dm9KbldvS3lxb3ZV?oc=5",
+          "date": "2025-12-27T08:00:00.000Z",
+          "source": "Cross Town News"
+        }
+      ]
+    },
+    "10025": {
+      "cachedAt": "2026-05-17T07:10:03.044Z",
+      "query": "\"Channi Himmat\" Jammu (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Jammu cracks down on spa centres after Thai women detained in police raid",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTEpYbTRzUV94YnZLdUdmcXVORFJlMG5DM2xtQ1poUDNfU3VUR3VlakdMV2lBYXByLTlweTRJbE9JQWdTQlRkWVNoNzJnNWVxdXBlVlAyaVlUT3d1dk91dThLWlBoVXlRa29nbjhfTVNLTVFHRzVXMHhVSzBUM1JReWxTcEk0Z1R2X0hiMW15Q3lfZ2prQ1hZZ1NmcnNwemdSR2c?oc=5",
+          "date": "2026-02-11T08:00:00.000Z",
+          "source": "IBTimes India"
+        },
+        {
+          "title": "Jammu Kashmir: Police Detain Thai Woman, Book Spa Owner in Raid",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbUJDSTFCM1puR0hxU1dNZVZtNGxqRXBzNHl5U2lRaU1ZaGdMam5GS1UtTXpMd21URm02WVhpbnc4ZkxsT1NyLVhOM25sV3I3ZTV5OHgweHBWQnhNOGNibkwyVUUtMi1fTWxLZzA4azR4ZVRTRlp5YkhoSlVZSC00TDliLVE2dmRuWmg2TWNETU5NMkJSaXlUbA?oc=5",
+          "date": "2025-12-29T08:00:00.000Z",
+          "source": "Kashmir Life"
+        }
+      ]
+    },
+    "10026": {
+      "cachedAt": "2026-05-17T07:10:03.044Z",
+      "query": "\"Rama Trikuta Nagar\" Jammu (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "10027": {
+      "cachedAt": "2026-05-17T07:10:03.044Z",
+      "query": "\"Channi Himmat Thanger\" Jammu (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "10028": {
+      "cachedAt": "2026-05-17T07:10:03.044Z",
+      "query": "\"Resham Ghar Colony\" Jammu (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "10029": {
+      "cachedAt": "2026-05-17T07:10:03.044Z",
+      "query": "\"Channi Biza\" Jammu (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "10030": {
+      "cachedAt": "2026-05-17T07:10:03.044Z",
+      "query": "\"Narwal Bala\" Jammu (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Attempted rape of 7-year-old gets Madrasa teacher 9 years RI sentence [details]",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbGMxRFBwT3N6clpBMDFCOTJVTk1YU2NPOFZ6blVRZ2p1YmR2OTRBQWx2ZUdSSTNnRVBFZjhKNlBSRTQxWnREdzNVXzlYWFNraHgxNl9WUnV2QlZMM3FXS2VHR1FObGp2UG5WWElIM1RYaHpBWU5CWVRRNTFHX09lRVRMenZZNy1IMDBWSkhDaHVNWlZkWjFuNnIwWU9CZ2RFbVptZlAtNFUtSHM?oc=5",
+          "date": "2026-02-27T08:00:00.000Z",
+          "source": "IBTimes India"
+        },
+        {
+          "title": "Police achieved major breakthroughs against narcotics, theft and illegal activities: SSP",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdkZZQ1IwWmg1VXNnbS1id3V0bVQxUk50Nk1LUjlYMzNybmhzUnFpSDg0MEZBZjloYWNvVXdZbk9FeTJ2RzN0UVdCREtORkpOcGoxemxpS3VHcS1QeE8wZ0hyczAxZTMwVFFDeWEzT0RwZTJqY01kbzRLeS1raTNkemFSWUVoS0dJSGQ3U1IwQUdWOEZLYms2VVh4UkJFcXI4YktZVmVrTDNWZEFDZE1VN1JIU2g1YTZkblE?oc=5",
+          "date": "2026-01-26T08:00:00.000Z",
+          "source": "Daily Excelsior"
+        },
+        {
+          "title": "SSP Jammu highlights strong Actions on Drugs/Crime",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZ2V1MUQ1Mi1RWnh6X0NCUXlsQUZ4ZTg4VDVQMjh0YzRGdkxjQVdKYndDMnc5b0ZfZkNPX29iVy03ODliaU5TSGE1Tlo5U2dfOGd3UWtkdkEzQ0FNaG1GLWFxbGVESWVmWER0dmRweFhWOVVFZF9fVU0tV0NQLUE5QUpsUFktckZSVUdLOWJxOVRBeU8xSkFDZXpIWQ?oc=5",
+          "date": "2026-01-25T08:00:00.000Z",
+          "source": "Cross Town News"
+        },
+        {
+          "title": "J&K Police bust Pak-linked narco-terror syndicate; 6 held with 5kg heroin, 3 pistols",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNY1k4b2M2VTFaY0JDSzhiYTFadmp5eVg5dEpYeEFDTm5iODhHYl9oa2hVNTFEd2U0a0FKVUF1MTZwdDEwR0RlaThJTUhmZ1NDLUZUblB4UVlZOThRVFVZUWNBYnM2ellzLWw0UWZGeWZoYWdyd1Z4LUdqbXR2N1IzbXVIR3M4UTFfN18yWjhlQTQxMmlVUkZiaTl1SHpGb3RKWWtiNXNyR3dPTG1XdExtb0NZV3IxV1dmMGNrMzZkbklUR00tV3FQR0tYaHVKQUhxM2NHcGlWVm0tMDczN3ZYb3NHY9IB6AFBVV95cUxQaTlTYk1oN2RNajR4dlNOVXZETWZZVGR3U3IteDkzeDRHcXd1U3dCVkVtSzFSbDRvS3FCWHpoeVVnVng1X0MtTUNGNlB4NThCTmVTazFzMkJuT2dPUVVCSDNmYkhYT3RZd2wtZGI1M0hJbmxOUnN5LTFJdTRyN3lWMXNiOFVrY1NIaVJyc1Y0azRjZGt1TWhjbmZEbTJUNmd3UElpZ1NvWFdibWFXVlhaZmtfZUNQTzQxTEVYMW13QkRGMHZ4NGZHbEhreF9RbjRCa2JJWFFyb0RhWDhlTFIwRGhFclFTbVE2?oc=5",
+          "date": "2025-12-05T08:00:00.000Z",
+          "source": "The Times of India"
+        }
+      ]
+    },
+    "10031": {
+      "cachedAt": "2026-05-17T07:10:03.044Z",
+      "query": "\"Nanak Nagar\" Jammu (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Jammu and Kashmir Crime: Drug peddler nabbed with opium",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSDRiVnVOX0J3WVlOSm5lejVDMnNIeW1GSVlhMmFqenhYMlR1c2w0S3YxX2N6Wkc3NnRUY2txYkxfWWV0NGh6U240REExdTdfZ1BGRXA4SS1BQXFVLWVPeXhJdGFha1VDM3p2LUstVmlFb04zYUs5UVBfQTlzdDd6bTdJcG40c3BhSVYzZ1laTndOQ0pOTU1IMDE0dXR0Z1ZMZ3lZc25IbTdnUXFLbHc?oc=5",
+          "date": "2026-05-12T20:06:26.000Z",
+          "source": "Indiablooms"
+        }
+      ]
+    },
+    "10032": {
+      "cachedAt": "2026-05-17T07:10:03.044Z",
+      "query": "\"Gangyal\" Jammu (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Woman stabbed at Gangyal Park, accused held",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFSnJURzl3RTlBZUhOT2gtYXJXSTdmRXNwaUNGTHBIYzZnQ0tCRkVsdmd2UUo1SHJJdFlnYlZxMXNBQXhIVlhhTXRzdjgwR3RmeG9CWExIWFpteXJSVG9Ed2RKT2hveWRwVlh5UzFFbWwtb0JvMzRpaUtnN002WWc?oc=5",
+          "date": "2026-02-24T08:00:00.000Z",
+          "source": "Daily Excelsior"
+        },
+        {
+          "title": "Mohali police arrest Pakistan-based terrorist Shahzad Bhatti’s associate",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVnBLRGFhWHJnRlp6UFZhZzdxUTlpUjNhWURybE9XaXByN2ROdkVoTzRnRzdEcm5fYkhtczF4VmVlZjhzNkNJRkM4UzZyM1hxTk1rclVnZWV2cm5ySkZYTkZ1QlJ1di1BekNLd01NQ0VCZWxTeXlBS3BfTm5UcWRFZWZfOHppUFBZWjRHUHRSc1FUWUtDNlIwNWxUQUNpWUxzQkdNNWFLS18xWHFONlVwUld5aw?oc=5",
+          "date": "2026-01-25T08:00:00.000Z",
+          "source": "The Tribune"
+        },
+        {
+          "title": "Crackdown on Absconders by Jammu Police: Arrests 02 absconding accused evading NBWs",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbDY5WjBRcGhEZzg5ZWhrS2lpS051N1BWaVo2M2RoZ2NOT2lyMDdjY2ZPY2NLbHphTklLY01VN2JpV20zck1XZGFXbXZ2cFJTRnJaN1g1VGUtTlQzZEFqdXdQTHVMUklvbzlQUS1RX25tMmZPSnU0ZHQwYUxRQlktYWh1VWdnS0RnODh1YzBkMGpjVS1yZmswaXl1SXlnNlZIN3VSTWVRZUtXenQ0M2RRNFpaaVJ3UGVNVnJ2dm9KbldvS3lxb3ZV?oc=5",
+          "date": "2025-12-27T08:00:00.000Z",
+          "source": "Cross Town News"
+        }
+      ]
+    },
+    "10033": {
+      "cachedAt": "2026-05-17T07:10:03.044Z",
+      "query": "\"Gangyal-2\" Jammu (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "10034": {
+      "cachedAt": "2026-05-17T07:10:03.044Z",
+      "query": "\"Deeli\" Jammu (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "10035": {
+      "cachedAt": "2026-05-17T07:10:03.044Z",
+      "query": "\"Greater Kaillash\" Jammu (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "10036": {
+      "cachedAt": "2026-05-17T07:10:03.044Z",
+      "query": "\"Channi Biza\" Jammu (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "10037": {
+      "cachedAt": "2026-05-17T07:10:03.044Z",
+      "query": "\"Sainik Colony-1\" Jammu (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "10038": {
+      "cachedAt": "2026-05-17T07:10:03.044Z",
+      "query": "\"Akalpur\" Jammu (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "10039": {
+      "cachedAt": "2026-05-17T07:10:03.044Z",
+      "query": "\"Shazadpur\" Jammu (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "10040": {
+      "cachedAt": "2026-05-17T07:10:03.044Z",
+      "query": "\"Barnai\" Jammu (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "10041": {
+      "cachedAt": "2026-05-17T07:10:03.044Z",
+      "query": "\"Chinora Keran-2\" Jammu (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "10042": {
+      "cachedAt": "2026-05-17T07:10:03.044Z",
+      "query": "\"Chak Changerwan\" Jammu (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "10043": {
+      "cachedAt": "2026-05-17T07:10:03.044Z",
+      "query": "\"Paloura\" Jammu (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "10044": {
+      "cachedAt": "2026-05-17T07:10:03.044Z",
+      "query": "\"Jannipur\" Jammu (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "10045": {
+      "cachedAt": "2026-05-17T07:10:03.044Z",
+      "query": "\"Chinora Keran-1\" Jammu (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "10046": {
+      "cachedAt": "2026-05-17T07:10:03.044Z",
+      "query": "\"Mohalla Ustad\" Jammu (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "10047": {
+      "cachedAt": "2026-05-17T07:10:03.044Z",
+      "query": "\"Chand Nagar\" Jammu (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "10048": {
+      "cachedAt": "2026-05-17T07:10:03.044Z",
+      "query": "\"Rehari Colony\" Jammu (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "10049": {
+      "cachedAt": "2026-05-17T07:10:03.044Z",
+      "query": "\"Bhagwati Nagar\" Jammu (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Police arrests 2 notorious criminals with 3 pistols, ammunitions in Jammu",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPek9palJydG1qRWM0cy1kSFJnWXFoeVZ4SjE2MVZ4bGROQ3VIOUFoaXAtX05KYXhyejR0THVoM0hHUzZvVTU4S3I3enJFTmxCSms2OHBGMzlxcm4tZy15ZF9CdEM0T3BjNFVad0VzUmFPNU4xc01jU0Y4VWxYLW5JYkVzVXJsQllZNVBNRU14TUZzM0d4SXM4V2NfTQ?oc=5",
+          "date": "2025-12-03T08:00:00.000Z",
+          "source": "statetimes.in"
+        },
+        {
+          "title": "Two criminals held, illegal arms recovered: Police",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVjlPb3pVOUlYeHJYLVZGUzhjajdLNjVQVTFveG10R3ktOExvcTU0V0ZSMDVTZnRNellmeEh1RXJPMmJMUkgzdFFRc1RmVlVNNnBsMXZIMGFDNzJnUk5FUHF3UVdiSUp3WW04UHZLZDdpNENwY1p0R3lBaDlrdjVVelRWWWlvSlk?oc=5",
+          "date": "2025-12-03T08:00:00.000Z",
+          "source": "Daily Excelsior"
+        }
+      ]
+    },
+    "10050": {
+      "cachedAt": "2026-05-17T07:10:03.044Z",
+      "query": "\"Talab Tillo\" Jammu (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "10051": {
+      "cachedAt": "2026-05-17T07:10:03.044Z",
+      "query": "\"Janipur\" Jammu (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Why Jammu’s Ring Road has turned into a crime hotspot",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQUdqaFZtSmI1M2U1T09sYTR2UEFNOGtwZ2tSV1IzakxfM1JQQzNUSkFHcWdJbG9qTE56S1lITjZWckpUdWF5cU80UjMtZzhQTkdrU1VJbVc2aGFwZDVNQ24wc2VDVkdkbGM3WG0yZzFudFpsVldOVXdyU0lweHRCcWpUS01uclpQMFp1NA?oc=5",
+          "date": "2026-04-12T07:00:00.000Z",
+          "source": "Daily Excelsior"
+        }
+      ]
+    },
+    "10052": {
+      "cachedAt": "2026-05-17T07:10:03.044Z",
+      "query": "\"Sanjay Nagar\" Jammu (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "10053": {
+      "cachedAt": "2026-05-17T07:10:03.044Z",
+      "query": "\"Jullakha Moh.\" Jammu (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "10054": {
+      "cachedAt": "2026-05-17T07:10:03.044Z",
+      "query": "\"Nanak Nagar\" Jammu (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Jammu and Kashmir Crime: Drug peddler nabbed with opium",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSDRiVnVOX0J3WVlOSm5lejVDMnNIeW1GSVlhMmFqenhYMlR1c2w0S3YxX2N6Wkc3NnRUY2txYkxfWWV0NGh6U240REExdTdfZ1BGRXA4SS1BQXFVLWVPeXhJdGFha1VDM3p2LUstVmlFb04zYUs5UVBfQTlzdDd6bTdJcG40c3BhSVYzZ1laTndOQ0pOTU1IMDE0dXR0Z1ZMZ3lZc25IbTdnUXFLbHc?oc=5",
+          "date": "2026-05-12T20:06:26.000Z",
+          "source": "Indiablooms"
+        }
+      ]
+    },
+    "10055": {
+      "cachedAt": "2026-05-17T07:10:03.044Z",
+      "query": "\"Bakshi Nagar\" Jammu (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Court grants bail to accused in gang-rape case",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQV2ZYWkdRNVlUYUdoRkYyeDlLRmUwLVhoMTRXb3JzbUVpSXVRRlFqc3RMWFRscmd5c2VZTmFRZkN6MjRiN2hGOGN1T2xNR0lCT3ltMWlnaVYwSEFUWDRyaGRfMHhGMDQyYzRwdmFvajNQU0FyQjZGT2wyUGZyTGFsZlZwNXg?oc=5",
+          "date": "2026-05-12T22:30:07.000Z",
+          "source": "Daily Excelsior"
+        },
+        {
+          "title": "JK Police SI hurt in assault by goons near Bakshi Nagar Police Station",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZUVWSTM4UF9MYkg4N1lMcmhmUWtBdTlGZUxmM0tTWFRfc3BMdWxhb2dYblBoVmVsVExYemJyWVFPZG9nanBaOTJ6cE11YlRyV2tvMlFrRGdpeUljS1V3Z3lmLXZfUExveURoZDNObDltMjN2QmYzaHRwd3dZZzlSWEx6NTFFX0JxajYtV1c3NXBodDZxU3lTTGNoWXhLLTJLQXh0VWhZVEQ5M3BKTTBsNkIzTWrSAbgBQVVfeXFMT0czcW9OWk9udnZ6N2pYUVpjaHdHTHg4ODI3UEdyeFNfVjlGd0RMUV93X2lBdFMyQTJzZzdWOEh2cEZCcHFZSjktXzNnLTRSUks1WU9kM1RPcThQWEtjZ2J1R3NlZ3hxeWNOQ291Sk1lT1lNQkQwR2gtZURlb3c0eGlUNkZvdmh2aS1NMzVaLXR3TjFZS2FHektQUUUwUzR1dUw2RExJellCaFphOTB0Y2Q0LTNZMXJWTA?oc=5",
+          "date": "2025-12-15T08:00:00.000Z",
+          "source": "Greater Kashmir"
+        }
+      ]
+    },
+    "10056": {
+      "cachedAt": "2026-05-17T07:10:03.044Z",
+      "query": "\"Krishna Nagar\" Jammu (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Digi arrest: Elderly woman duped of 21L",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdXJMLTFKRWxGajBwOU9vTTRHNWxDX0lybHNkYkVoanFJdVhTUVl0YUxVVTZERHJmaE9wTnRKdXIwRWNGQl9RNlBFMzZUOWVRWnlqQnUtaDNiSXNGWklmSWJrQ2xXN3o1SlhvUVhjYUZSTl9aT0FkZGp2cHFpdXhRZjV5aGxpT0N6SjhreVBQSHpWWTJPRkdtWUxzdlFjdDZJN0NxekRRMXdSUm11QjdZeXFB0gG3AUFVX3lxTE9IOWNpWjZLbzFxZzFNMUw0UjFOSWRRWDE2OTNoR2s5a0p4LWx4MFhmVVkxSmxCbEk2N2ZLWGZxTDdZRkJXYlFFVk1aVmtXbDhTVWczblR3TEM4TldwUVpqLTFTU3VGS295bklVeWNqQUtHWDg0bWFBVGU5QmQxQ3pVMVFHeTd5NEN6VnJKWEYwV1I1S1FjVUotWjY1VXhWRkhleDdtcUFFSkVjMkhHSjZ3REI3ZlZ2SQ?oc=5",
+          "date": "2026-03-20T07:00:00.000Z",
+          "source": "The Times of India"
+        }
+      ]
+    },
+    "10057": {
+      "cachedAt": "2026-05-17T07:10:03.044Z",
+      "query": "\"Gurah Bakshi Nagar\" Jammu (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "10058": {
+      "cachedAt": "2026-05-17T07:10:03.044Z",
+      "query": "\"Amphalla\" Jammu (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Fast Track Court raps Police in minor rape case, warns SHO of consequences",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOc3d6YW1mX0J2TWdkUkJlcWlzUzBabUcxVjZ4Z2pLc2xjZnNtZWlTVW9nVThPcXVDNzEyWjMxX1hQVjFCR0txV0RZMXhta1RiVjRncC1DU1F3VkxNR0tqeDlEbHhaLXoycWoyQmdzT2JYZVUtWFpuZTNSeE9hNGp0bUwyMlloMXVKaXBDdEw2RUFLUnBFMWZUT3RVdm5OeDBXazdQZkJwUzU?oc=5",
+          "date": "2026-04-03T07:00:00.000Z",
+          "source": "Daily Excelsior"
+        },
+        {
+          "title": "Attempted rape of 7-year-old gets Madrasa teacher 9 years RI sentence [details]",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbGMxRFBwT3N6clpBMDFCOTJVTk1YU2NPOFZ6blVRZ2p1YmR2OTRBQWx2ZUdSSTNnRVBFZjhKNlBSRTQxWnREdzNVXzlYWFNraHgxNl9WUnV2QlZMM3FXS2VHR1FObGp2UG5WWElIM1RYaHpBWU5CWVRRNTFHX09lRVRMenZZNy1IMDBWSkhDaHVNWlZkWjFuNnIwWU9CZ2RFbVptZlAtNFUtSHM?oc=5",
+          "date": "2026-02-27T08:00:00.000Z",
+          "source": "IBTimes India"
+        }
+      ]
+    },
+    "10059": {
+      "cachedAt": "2026-05-17T07:10:03.044Z",
+      "query": "\"Channi Himmat\" Jammu (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Jammu cracks down on spa centres after Thai women detained in police raid",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTEpYbTRzUV94YnZLdUdmcXVORFJlMG5DM2xtQ1poUDNfU3VUR3VlakdMV2lBYXByLTlweTRJbE9JQWdTQlRkWVNoNzJnNWVxdXBlVlAyaVlUT3d1dk91dThLWlBoVXlRa29nbjhfTVNLTVFHRzVXMHhVSzBUM1JReWxTcEk0Z1R2X0hiMW15Q3lfZ2prQ1hZZ1NmcnNwemdSR2c?oc=5",
+          "date": "2026-02-11T08:00:00.000Z",
+          "source": "IBTimes India"
+        },
+        {
+          "title": "Jammu Kashmir: Police Detain Thai Woman, Book Spa Owner in Raid",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbUJDSTFCM1puR0hxU1dNZVZtNGxqRXBzNHl5U2lRaU1ZaGdMam5GS1UtTXpMd21URm02WVhpbnc4ZkxsT1NyLVhOM25sV3I3ZTV5OHgweHBWQnhNOGNibkwyVUUtMi1fTWxLZzA4azR4ZVRTRlp5YkhoSlVZSC00TDliLVE2dmRuWmg2TWNETU5NMkJSaXlUbA?oc=5",
+          "date": "2025-12-29T08:00:00.000Z",
+          "source": "Kashmir Life"
+        }
+      ]
+    },
+    "10060": {
+      "cachedAt": "2026-05-17T07:10:03.044Z",
+      "query": "\"Bahu\" Jammu (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "J&K Drug Crackdown: 733 Arrests, 47 Houses Demolished in 28 Days",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVnpaNFk1VFhya0lsWmhUZDhUMDhGSERRTkpXaDVwTkhQekNSRmhUcGlDeWxnTzZoeFFiX1lSMWdaMTNUcGhXWnVVNTY2YTV6WmNiek1nampQa0p6VkVvVkRqNm9OYkExNWZCTTFtaHFTN1lad2xySEVqczA3alpZYXpGMEZJNjc1R0xJazZJejNpcXFtLVVndTlkdk1jZW9yLXJCd2Q4aS1hZ3lFNHBiZ3VnYVhSczVFc2JBdg?oc=5",
+          "date": "2026-05-16T08:23:21.000Z",
+          "source": "Dainik Jagran MP CG"
+        },
+        {
+          "title": "Wanted criminal held with heroin, illegal pistol in Jammu; 17 FIRs pending against accused: Police",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYkhXY3lZbFI0akZlNzU4R0JVem50NUtYa0FvTGpRT0VDVmhlVGN6VTFoWDV3YUZneVRHTDNEcy1GR1NuTHYwQlBWX0k4NXYzQjhVSVh4NzZUTTJUemsyY0hudTlOTno0TlNFUWlMVjYyc1YyZU1xZ3RHZVRPVVE2cjF0Y2RxWU1CU2YzUktNMXpGbmZfREZkZm5OZUVsREtUN0VmcWRBZmU0S2dVYlBOa25iWUQ4T01MbWxFWA?oc=5",
+          "date": "2026-05-12T14:59:51.000Z",
+          "source": "kimskashmir.com"
+        },
+        {
+          "title": "Jammu Police arrest 19-year-old boy in terror linked case",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdmJadXdmUXFkQ3UwSWE1S3BCTUYxNGJMYzlsSmVaTm40ZTA5Zkt5TTlMZlUwLW82d2lfVzRhX0dwbnBYcnRnaFJRM2l6aXlrZVZSNnlYVGpNWUhncWc4a0NFS25LVS1nODBZNWt5YkNCdlc5aDRQMlhRdnBJMVZva2NYSl82eExJUjNiMUR1Tks?oc=5",
+          "date": "2026-05-09T08:56:18.000Z",
+          "source": "Rising Kashmir"
+        },
+        {
+          "title": "Police achieved major breakthroughs against narcotics, theft and illegal activities: SSP",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdkZZQ1IwWmg1VXNnbS1id3V0bVQxUk50Nk1LUjlYMzNybmhzUnFpSDg0MEZBZjloYWNvVXdZbk9FeTJ2RzN0UVdCREtORkpOcGoxemxpS3VHcS1QeE8wZ0hyczAxZTMwVFFDeWEzT0RwZTJqY01kbzRLeS1raTNkemFSWUVoS0dJSGQ3U1IwQUdWOEZLYms2VVh4UkJFcXI4YktZVmVrTDNWZEFDZE1VN1JIU2g1YTZkblE?oc=5",
+          "date": "2026-01-26T08:00:00.000Z",
+          "source": "Daily Excelsior"
+        }
+      ]
+    },
+    "10061": {
+      "cachedAt": "2026-05-17T07:10:03.044Z",
+      "query": "\"Patta Paloura\" Jammu (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "10062": {
+      "cachedAt": "2026-05-17T07:10:03.044Z",
+      "query": "\"Subash Nagar\" Jammu (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "10063": {
+      "cachedAt": "2026-05-17T07:10:03.044Z",
+      "query": "\"Talab Khatikan\" Jammu (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "10064": {
+      "cachedAt": "2026-05-17T07:10:03.044Z",
+      "query": "\"Rehari Colony\" Jammu (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "10065": {
+      "cachedAt": "2026-05-17T07:10:03.044Z",
+      "query": "\"Sunjwan\" Jammu (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Jammu crime branch calls 2025 a milestone year, 67 FIRs registered in economic offences, 22 accused arrested",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPcUxxbGNEeUpBNTFZMW1NeXFOVUxDZjBHX0kta01JT1NNQVZMXzM1V3BZWk1BdVV1MGN3V1VIM0VKWklEa3lIM0dkbE9QMXVTdElZRDctNkJsbXpIbUtPVVZ2MmI5T01vbWluN2I3Qk9YX244S2t3b293R2VfNkhVZWFhWDEwaklnMU9GOGtNVzZ6cDVjSklLYzRrNURvTlk3ZWNaZXFMeGVwalQwRU9BVkpyenBVMWk0UkIyNGFMbGVHbmtRSmFhSUllUWNNazNPdTNOMjNSVkRfOGpoUUVtWjNSbw?oc=5",
+          "date": "2025-12-31T08:00:00.000Z",
+          "source": "Kashmir Indepth"
+        }
+      ]
+    },
+    "10066": {
+      "cachedAt": "2026-05-17T07:10:03.044Z",
+      "query": "\"Jannipur\" Jammu (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "10067": {
+      "cachedAt": "2026-05-17T07:10:03.044Z",
+      "query": "\"Bahu\" Jammu (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "J&K Drug Crackdown: 733 Arrests, 47 Houses Demolished in 28 Days",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVnpaNFk1VFhya0lsWmhUZDhUMDhGSERRTkpXaDVwTkhQekNSRmhUcGlDeWxnTzZoeFFiX1lSMWdaMTNUcGhXWnVVNTY2YTV6WmNiek1nampQa0p6VkVvVkRqNm9OYkExNWZCTTFtaHFTN1lad2xySEVqczA3alpZYXpGMEZJNjc1R0xJazZJejNpcXFtLVVndTlkdk1jZW9yLXJCd2Q4aS1hZ3lFNHBiZ3VnYVhSczVFc2JBdg?oc=5",
+          "date": "2026-05-16T08:23:21.000Z",
+          "source": "Dainik Jagran MP CG"
+        },
+        {
+          "title": "Wanted criminal held with heroin, illegal pistol in Jammu; 17 FIRs pending against accused: Police",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYkhXY3lZbFI0akZlNzU4R0JVem50NUtYa0FvTGpRT0VDVmhlVGN6VTFoWDV3YUZneVRHTDNEcy1GR1NuTHYwQlBWX0k4NXYzQjhVSVh4NzZUTTJUemsyY0hudTlOTno0TlNFUWlMVjYyc1YyZU1xZ3RHZVRPVVE2cjF0Y2RxWU1CU2YzUktNMXpGbmZfREZkZm5OZUVsREtUN0VmcWRBZmU0S2dVYlBOa25iWUQ4T01MbWxFWA?oc=5",
+          "date": "2026-05-12T14:59:51.000Z",
+          "source": "kimskashmir.com"
+        },
+        {
+          "title": "Jammu Police arrest 19-year-old boy in terror linked case",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdmJadXdmUXFkQ3UwSWE1S3BCTUYxNGJMYzlsSmVaTm40ZTA5Zkt5TTlMZlUwLW82d2lfVzRhX0dwbnBYcnRnaFJRM2l6aXlrZVZSNnlYVGpNWUhncWc4a0NFS25LVS1nODBZNWt5YkNCdlc5aDRQMlhRdnBJMVZva2NYSl82eExJUjNiMUR1Tks?oc=5",
+          "date": "2026-05-09T08:56:18.000Z",
+          "source": "Rising Kashmir"
+        },
+        {
+          "title": "Police achieved major breakthroughs against narcotics, theft and illegal activities: SSP",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdkZZQ1IwWmg1VXNnbS1id3V0bVQxUk50Nk1LUjlYMzNybmhzUnFpSDg0MEZBZjloYWNvVXdZbk9FeTJ2RzN0UVdCREtORkpOcGoxemxpS3VHcS1QeE8wZ0hyczAxZTMwVFFDeWEzT0RwZTJqY01kbzRLeS1raTNkemFSWUVoS0dJSGQ3U1IwQUdWOEZLYms2VVh4UkJFcXI4YktZVmVrTDNWZEFDZE1VN1JIU2g1YTZkblE?oc=5",
+          "date": "2026-01-26T08:00:00.000Z",
+          "source": "Daily Excelsior"
+        }
+      ]
+    },
+    "12644": {
+      "cachedAt": "2026-05-17T07:10:03.044Z",
+      "query": "\"Sainik Colony-2\" Jammu (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "12645": {
+      "cachedAt": "2026-05-17T07:10:03.044Z",
+      "query": "\"Sunjwan\" Jammu (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Jammu crime branch calls 2025 a milestone year, 67 FIRs registered in economic offences, 22 accused arrested",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPcUxxbGNEeUpBNTFZMW1NeXFOVUxDZjBHX0kta01JT1NNQVZMXzM1V3BZWk1BdVV1MGN3V1VIM0VKWklEa3lIM0dkbE9QMXVTdElZRDctNkJsbXpIbUtPVVZ2MmI5T01vbWluN2I3Qk9YX244S2t3b293R2VfNkhVZWFhWDEwaklnMU9GOGtNVzZ6cDVjSklLYzRrNURvTlk3ZWNaZXFMeGVwalQwRU9BVkpyenBVMWk0UkIyNGFMbGVHbmtRSmFhSUllUWNNazNPdTNOMjNSVkRfOGpoUUVtWjNSbw?oc=5",
+          "date": "2025-12-31T08:00:00.000Z",
+          "source": "Kashmir Indepth"
+        }
+      ]
+    }
+  },
+  "notes": "Per-ward crime-related news from Google News RSS. Queried per the ward's distinctive neighbourhood name + Jammu + crime keywords. Items are filtered to last 18 months and to titles containing at least one crime/police/arrest term. Up to 4 per ward."
 }

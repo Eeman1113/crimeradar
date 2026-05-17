@@ -1,1 +1,64 @@
-{"source":"https://news.google.com/rss/search","scrapedAt":null,"wards":{},"notes":"Will be populated by scripts/ingest_ward_news.mjs"}
+{
+  "source": "https://news.google.com/rss/search",
+  "scrapedAt": "2026-05-17T06:48:51.429Z",
+  "wards": {
+    "Sector 20": {
+      "cachedAt": "2026-05-17T06:48:41.582Z",
+      "query": "\"Sectors 1-19\" Noida (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Sector 24": {
+      "cachedAt": "2026-05-17T06:48:41.582Z",
+      "query": "\"Sectors 22\" Noida (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Sector 39": {
+      "cachedAt": "2026-05-17T06:48:41.582Z",
+      "query": "\"Sectors 30-31\" Noida (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Sector 49": {
+      "cachedAt": "2026-05-17T06:48:41.582Z",
+      "query": "\"Sectors 44-55\" Noida (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Sector 58": {
+      "cachedAt": "2026-05-17T06:48:41.582Z",
+      "query": "\"Sectors 56-65\" Noida (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Phase 2": {
+      "cachedAt": "2026-05-17T06:48:41.582Z",
+      "query": "\"Noida Phase 2 industrial area\" Noida (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Noida Protest Mastermind Aditya Anand Arrested by UP STF in Tamil Nadu",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNFpnblMwaU9hcXA5TlBDWGxHemRmR1JpMVF1eFQ0RElfR2NyX0ZkMnViVy04cW41cXRBZndlbEZUbzVWRzlJeDNteWI3QmxrN0dyM1ZXWEJsMnlMNDVwc2VnMVpMNnp3NkpOamptUkp6SmtIVTNZc0Q0c0VXNnhHVHFjaEFFMXpFT1hv?oc=5",
+          "date": "2026-04-19T07:00:00.000Z",
+          "source": "Daily Pioneer"
+        }
+      ]
+    },
+    "Phase 3": {
+      "cachedAt": "2026-05-17T06:48:41.582Z",
+      "query": "\"Sectors 66-75\" Noida (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Sector 113": {
+      "cachedAt": "2026-05-17T06:48:41.582Z",
+      "query": "\"Sectors 110-120\" Noida (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Sector 126": {
+      "cachedAt": "2026-05-17T06:48:41.582Z",
+      "query": "\"Sectors 121-130\" Noida (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Expressway": {
+      "cachedAt": "2026-05-17T06:48:41.582Z",
+      "query": "\"Sectors 131-137 and 143-168\" Noida (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    }
+  },
+  "notes": "Per-ward crime-related news from Google News RSS. Queried per the ward's distinctive neighbourhood name + Noida + crime keywords. Items are filtered to last 18 months and to titles containing at least one crime/police/arrest term. Up to 4 per ward."
+}

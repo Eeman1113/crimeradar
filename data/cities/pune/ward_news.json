@@ -1,1 +1,328 @@
-{"source":"https://news.google.com/rss/search","scrapedAt":null,"wards":{},"notes":"Will be populated by scripts/ingest_ward_news.mjs"}
+{
+  "source": "https://news.google.com/rss/search",
+  "scrapedAt": "2026-05-17T06:48:07.120Z",
+  "wards": {
+    "AUNDH": {
+      "cachedAt": "2026-05-17T06:47:51.190Z",
+      "query": "\"Aundh\" Pune (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Pune Crime: Sex Racket Busted in Narhe; Four Women Rescued, Three Arrested",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORVI5b3pVY3Y2UVNmTzlGNm9LdTVCb3AyTUJwNUlZNUd3b0FQeE1ZdjlRTEJZWlhrSHloVTBjZld6aUdjbjlYN0N1VnZkaEJ4bDVYdGpBZkVzekVSbVk5enFfYmFYODdlSW1vTmw5d2k5NWxKZi1USERoVS15dkFidEpweHl5SnN2VTJselRmdmh2YXdYbF90czQ5M0sxRHJremZ4TdIBsgFBVV95cUxOcUkzZVVCcXJtSXIxdGdFcTh4ejF3OEFUQm10cTNzaC1GVEtFRXdYMUp6cV90d0p5RjZBWkxzRzc1S0x4SWdaX0F4cUwzR25yN2R5ZnVLRU1SOFlucjRpNHNSSl83N2t5WW1ZcDZqVGFCRUdGX2p2UVd3d0VaVzIxUWpPdldDTXZ4MGJYN04xRW5yajMzdi1LQ3RXWXJCdVRIWlRvSF9mOGtTTlBUbzkxNkZR?oc=5",
+          "date": "2026-04-06T07:00:00.000Z",
+          "source": "The Bridge Chronicle"
+        },
+        {
+          "title": "Pune Crime: Dance Floor Dispute Turns Violent in Aundh; Group Booked for Assault",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZmtNR0FRdjcxYlVFRVRVOWY2Qm1PUGoxT0gwX0lFSWRIYmd0Sml3eVc1TVNFajJybnhRRm5saG5IczVoWG5mQjZzTHRPZlBaRmRFY3p3akE3Yy1fRE5HeThiNFEwWElyWWQ2dGR4eFRIaDFNTFN6LUpmWlNBcFBjVDdrMHNIbXJaUkhraDhVQ0x3YjdTRTBQekphZ9IBqAFBVV95cUxOc0lmNVVMenhxdEFyc0hPbFZfa2t1U2F0aDFQNmNnY3JjYlpHenl2RGtmYVhPYnU3b3RHd3hPVVlNTFVxUzVPMEFicEQzdzQ3bUVpTXpZcDVVWjlFRUxHTGlVSXdjc0NMRFc4V1pxVG8wRXItNEhfWHFyTWtnT18ycTNWU3R2N3JYczh0dFcyNUR0VFlHT053cFRsNVkwYUpRSHNxb1dsVzY?oc=5",
+          "date": "2026-04-04T07:00:00.000Z",
+          "source": "The Bridge Chronicle"
+        }
+      ]
+    },
+    "GHOLE_ROAD": {
+      "cachedAt": "2026-05-17T06:47:51.190Z",
+      "query": "\"Shivajinagar\" Pune (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Pune Crime: Illegal Narcotic Tablets Worth ₹3.38 Lakh Seized In Shivajinagar; Accused Held",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQR1FPUngzYnJKQmRINllBTHBvUHVqYktaX2E3MTFEN2xPQ204OVRGN3I0S01LS2x0OFhfWnFjNW1mMG1zbTc2enNEZTV3NE1qMEd5R29Fci1fUmVRNjd5RTN0Z18tTzlOeHpybWNFYmowNlFhRld1LW5ETGpHRXNWcjh2Q3kxa3ZGLVV6bTVRWVZZNGI0c3A2cGJIM2l4X2FwSzFkMU80eDZzRm5QeDdxNy1BdERFVUdMSmFxcnNWb3jSAcYBQVVfeXFMT0FFZjU4aTVndF9EZWFTODNHSnlMb2Z4d3RDRFZVV1pRN20wRHpVZkdHc0x6dmpBY243bm9jN1RncXUzZDNLN3U0dEpmTTJ0ZGR0M1FtT0JPUEJyY1M5UlpPdTZiQUtKbnhsbnZCeTJfLVU1Xy1CcG1qdTlmdzN6dE5VZmttTWJHeEcza1Q4OHU0cFg3VGNWbnRTVlZ2TzN5c0FJQlJMQWtLaTVrTkVWdkdwV3FubHNRRl9nRGZtM1dkQWtmeXV3?oc=5",
+          "date": "2026-04-30T07:00:00.000Z",
+          "source": "Free Press Journal"
+        },
+        {
+          "title": "Pune Crime: 18-Year-Old Killed Near CommerZone IT Park In Yerawada After Dr Babasaheb Ambedkar Jayanti",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMVJRcDBCeGlLc2JYeUlIOEtma2tzdnhkN2dVVFpWV201dEV1Z1Y4WHI5Y2c1V2UxTVdKMUdHUHNSUWFJbTlwbE5qSU1YT1l3d2N4cDZyM2R2bVRRRGZ4UzJWenBLNldyQjNlODBMTWdpTEhUMHUyNmxEM0pNRGhwLTRxUW1BLURxRkNlNnVLTFIwS2w2Y3BsN0s4OWtZZmZka1dKS1BYemNveDZRZWp5OWdQOXo2clphRXctbGNmWlJYX2g1VE1YZC1mRWtBd3RBVjVKcUthSWRESEVvTTctdExLdzHSAeoBQVVfeXFMT0NHYnJEZlRXTXZ1VzBKTFVmWk1SaGUycHI3MlVRYW5zUlpYbDQxanZDWTlnVVh0S2g4MXAwVEJRZm9Oc3RuT05SUV9sbUE0TGhTdU1hUi0tcjVtZ2tNMVhPWkQzWlFHbm1ldnhEd3J2dVpDMVIxSHR6eGFRU2VPSGJvRW9UWWxFM2JGSGRmcXpPaVhfVmRjZFhPV0tkQlVZUnZualBfVTlZc1V2WW5GcW9mWUtXZ1dBRllMdEg3Tjl3SjBmdEViZFRBbjJucnpBbmdvOUJVRW93YThfZkN3Z3dqUVMtOXI4VVVR?oc=5",
+          "date": "2026-04-15T07:00:00.000Z",
+          "source": "Free Press Journal"
+        },
+        {
+          "title": "Pune Crime: 3 Police Personnel Booked For Extorting ₹7 Lakh From College Principal By Threatening Him With",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWUcxVFZ6TjNHTlRWZGdkZndLQlZzTW5oNnBlR253eXkwZTRRWTBjcUZZWXUzVlFMbENVMWJ1TklJR2NFNWYzZE44UzNvYjZldGxnOUdPQ0N6SzU5b1dlYkhJTXdTUEIwaFVBYUR4aXdqemU0SnBTZ25BOXdmb1RSY2ZIa3h0YXRQV1lkZFlMTGNtcVVoSlpEdEhtSDU1Z1pEOFVEUTNkd2RGZjhhUnY0NEw1eklYcE0xeDg4RF9tT3JpYkVpVXA4ZU9MU2g3Snp3WlEwZUw1SExGOENFSjBrb011Q0Y4UjjSAewBQVVfeXFMTmRNNm9faXFHUWEwOUpUMFl5RnlxMFFaMkpFcmp0Y1VneG9zcm9MQnhsNEozX09YWmhMdkk3Y2lnYVJneHJUWFZtdloyWDZ2VEhSeUpKdWF5a1Nua2RUN1hKU3ZjVnZFZ3JVUDhUQzVrMmRIWlRjUm05eG1wWWpHS2wtbXkxMi1MMlFDUXJqQ2VBTHJ2YXh4WDlfdTRrX29iVmQwbXNZNGd4emJ2dDVpbkV5VFdwd1ZxVHEtYVJsZlIxSldSaF9SaHhCZkh3LWtGWWphdkh3X1pmV3dFYlMyS0ROamcxV3drQ1p1NzU?oc=5",
+          "date": "2026-04-09T07:00:00.000Z",
+          "source": "Free Press Journal"
+        },
+        {
+          "title": "Pune: FIR Filed After Woman Allegedly Abuses, Threatens PMC Deputy Commissioner at Manpa Bhavan",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOckk5d3Z6QWNkd0xfQ091aTd4MUw4MlVTNEhsa1RfNWZTOEg3QXRWQjVnbXpNakE1a3NBMm14YUpobmd2Qk9UMXlBUWFFNzRPUGhyQkJ0MWJXT21lWjAtYk1tcWUxM0UyWGttb3BadmtoRjMyRmRNN3prd04wSFAwMjRwSWM0TVdmU0JibHI0SE1SNVdkRUVETUtfQThtZDdPZXRzYkNhTG9uLXJZaWd2X0tqbWxRdjE2RHMzYlhR?oc=5",
+          "date": "2026-04-08T07:00:00.000Z",
+          "source": "punekarnews.in"
+        }
+      ]
+    },
+    "KOTHRUD": {
+      "cachedAt": "2026-05-17T06:47:51.190Z",
+      "query": "\"Kothrud\" Pune (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Pune Crime Files | How ‘godman’, ‘godwoman’ are out on bail to sell property they got via fraud",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPSlU4a0FVTFkyM3FhT3hMR0FkQnhIVTVHREpjR3EyY3B3eXZPSUhqNnV6dDU1ZFVQdWZ5MGdzVTFBS0ZncnJrU3lLc0d4bVZPamJ1TnFUYlB2YUZPZzRfS3BrTVZXUXlRdXUtWVN0YV9uLXBhWmVVSGdiZHVYamI1THZSZVlTTWd2LTVCamZFMWhDVFJGU2t5WEhoT1dmR0dsVkVlYjNyWFc1SFc0RUdwSWNOOHYtME5ZcnJMOWFEdGFWOG9nY2thb2oxcVliNDVELTBRS1lKVnFralRWcjVrY0g2ZjZHYjJGekJwaF85Szh4OTlKQTNtc091cC11TWFf0gGHAkFVX3lxTE43WFQ3YndMcGt3ZlUwRFU0V0F6aDV3NS1XMUhJWXcwZmFoOHdsLVRiS2hVUWtTclNETXZaVkFZS25RM1Y4QXduaF83UDFxT3JJcmNCZnRDZ2w3QWY4WGJ6UWgtLWJmVkliSmxybGM3NEgxeENjajN4SElQeE9SakRHcHdjTmxSNXkwbDhaMnNfazB3cmRZU2tZYmxpWDA1OFREbG54T0xHLUtkTGdWZW9DTWRpYnBMS01LQmE5bjYxaHFwZG9IQS1YNHNjMnBDTUpNY19BWnNSUGZyQTNxdjR2NFNHZWJmb1lqRmtzM1NUSVdOcFA5dFNnNmZvejEtQVBNQ19WZkMw?oc=5",
+          "date": "2026-04-20T07:00:00.000Z",
+          "source": "The Indian Express"
+        },
+        {
+          "title": "Digital arrest fraud: 77-yr-old forced to mortgage heirloom ornaments, loses Rs 1.6 cr",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaUFycGZPeEE5ZFljX25mYkc5T05VdUE5anV5TWtLOTlGZlRZU1F0VDdqRVYzaXRRc1U4RGNEZmJYUTRxY0MxaU5zTFBuTmlxMHdpZWg5SlJCdGFMNWpDSTZHU3NvTk8xUzRQUGtTVmduSldCYi1CUHg0NWVYd2J2RFFxVTRmbW5LNERxWHVEaTl1ZHdzYTRhTHdkQ3VQV3NRZ0VXbNIBqwFBVV95cUxPQjVDZzF1Z2c0UGlpRF90UGRwUldwMUNFRkhZNWtaV3lmSnN1YWlialRUQkxQWkVHRUlmZmo1aElzY3l3MFI0cEg1ZUlhaDh0dFM4clhwX2NOeVlBeDNZLWN0eG55c1FZbkZEenZlazFHTGM2T3NSZjZCUDFSc1VldDRmSTJqOXdNVmdDbHFfRmg4N0U1SHlXbmNDM0JCRFU2Z1FlRDZpUld4WGc?oc=5",
+          "date": "2026-04-07T07:00:00.000Z",
+          "source": "The Indian Express"
+        },
+        {
+          "title": "Kothrud Violence Sparks Fear, Residents Allege Police Inaction",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR0NrYjZESmhBQ1dvNXRvOXhod3JwTG5ua2ROYWZKd0hMUHFFX1RJT19hNkV1aVYxSm5sT1lIbVlWSVZGdExXbERPWVBDZlM4VGVRUmdhWDZIZHZybktnc2FfZUg5QXRuWEtlLW9vUW53QzZFR0ZiVXZDaldVN0laS2pWTDN2MFdD?oc=5",
+          "date": "2026-03-22T07:00:00.000Z",
+          "source": "Pune Mirror"
+        },
+        {
+          "title": "Pune Crime March 18: Kothrud Murder Spurs Law-and-Order Alarm",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNEV6Z29xNGZ2VEdKUjFZeV90X0lpQUhsaWwwZV9ya3M3a1ZDOTBydHhnaHc1cUdfV2J6UmJOZTBrOWpBNTNEbnRoSDgtMzRFQ0ZEdDZaaGQ2UnJWWHY0X3d5TXUzUGozeG1hMGVyVnUtUTFLc1Z4dldlbERKUXZZYjY5TFRLZUpMazlZaUxrZjhGWUU?oc=5",
+          "date": "2026-03-18T07:00:00.000Z",
+          "source": "Meyka"
+        }
+      ]
+    },
+    "WARJE_KARVENAGAR": {
+      "cachedAt": "2026-05-17T06:47:51.190Z",
+      "query": "\"Warje\" Pune (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Warje police arrest four on charge of robbing silver chain and money",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOa043bnpzd0wtSUFxT0xRdTBLMTBzbnd5SE5IRk1yOFZkY0JhV1M5bUtfUUQxOERfdzExcWJ3U25mME0yVUo2bldzc3hiaWFEcnN2N3YydGxrWmpMU2JkS2Z5X3F3WlEtZXQwLUo4SDNxamdFckI2MWJRMC15OW5GYXJFc2hNMUpSeDVHRHU2bjZYMVBwN2YybzRJN203ck5QZks5bHJsQ05ZV2h4NGNxVVlxWkxFdVhvQlcxMjBCbEVXMVZHQXRvLU8zT3Z6UFpVcWlRS3JsVdIB3AFBVV95cUxQei1kX0ZtNjRhaFZrUEhUanpvOEdOV3Vra0cyQUpyT1RjNG5nbjBoUkhvNmVKYTB5R3ZaUEVEeURfcFlKUXg5WDNCbG9XbENRV0hacEZxMzliMWpVY1FpT3ZvTWxmOFdtM0dhLU84SlVTRDhsNzBiT1BOYTBlVEVvbnduWVFQUnc2SmZSbmNlREpfTUVQQ1B3c2xYX3VtLUZvV2RlWWRPb3ZfUWlMUTFfZ1Bsc2hYdHZNNFhYSEdIakx4NTk4emZScmVkazU0dWFfeE1uNmlQeld2V1Bf?oc=5",
+          "date": "2026-05-09T19:44:00.000Z",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Pune police detain four in retaliation firing in Warje | Hindustan Times",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdVFrOTJxUWdLTy11MzlzeVd2a3hBMDY0LS1uY3lxOGRkd2c0c2gweUstQXo0SU5yX2x5MjdpdHhqOEFWZG9qVklZY0ZGdDFrdzFXclZrTTF5S0ZOaldPVERJWmo4TDFnLXJEazdSSHlLNWRkOU00RWtJblVtZVJPWXQ5bGpNZ1N0a1E3Sm41Q1EzY1BJaDEzLVRxd0VQQzJNLVJRSHZUQzI3N1dQMkNCZjFvTlc2S0dnekw5QU43OVDSAcYBQVVfeXFMT0lGM0pQMF83TC1PQ1pOYUR5Mm8xM3o1U09wZ2lUWW5kb2VwVHZncXB1ckdEVjBBR0x3bFdlYVlGVVlNbURMZk16OE13NWI3WHNEQzhVZG15blJ2cDJnUy1iaVhxaXhhV2tZTkQyYmJKaW9nUzkxbTZscFRzb3hUbFJtR1hNeXF1bkd0RWt5REdJTjZ0OVNTMlNubUlHT1RUaTR3OWVzampUTG84eE8xeUl4QmEwTUhzNzg3ZS0tb2RhZ29Pak9R?oc=5",
+          "date": "2026-04-26T07:00:00.000Z",
+          "source": "Hindustan Times"
+        },
+        {
+          "title": "Two injured in firing at Warje salon, assailant wanted in drugs case: Cops",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZmIzN1NJYXhULTN0ZjF1LVlKeTdlSkE0NGhNUGhzcVg3Y1RmX3V2T3A1R1otbTVDck90S2RRZC1jQ3k3b05nX2JXS3F2cUZ2NlZkWE9NMElVRzlUZFNHeVpwdlFoYU1PZEI1VUVmY2xoSUVzQVpvcGxWSlFPZ0Iza3NQNFhQNU45bXBwLWFpWlNpdGNLRnBTREI0elZLTmRIdG9LbEVBb19rSFNSbllXRV9mWGwzRnRfaVZHcTVZTWEzLUc2VTVFanlwYzhaTXhwVW0yVm1kNXdhV2Zu0gHiAUFVX3lxTE1pZ2p5NXpNZmltTmFUNXkycm5LM3pVS3Nwd3lHUktBQmJLTWdPNGpxXzFkTlRfVGxxbHZzWkJzeTBGUHczNHR5WUJGeDViQ0hKSmtlaWt3QXZlVGs4Vzh0b19KNlRUVmpiaXFXankxWUpxdnNvRl85N0FnUzdTM0VyRW9KRzNKRnpFUGxMS18wOTREcFJyNDRTWEpRVlY0dGNVTnBYT1ZwejAxc0t1bjRVcHhwWEhJSEZac0JFTDU1enVzanRMY0xZQjVucFBIY215X18wWXdmMzRoZzBneWJ6NlE?oc=5",
+          "date": "2026-04-25T07:00:00.000Z",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Pune Crime: Salon Shooting in Warje Leaves Two Injured, One Accused Detained",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUWN1TmdnODBGWmYwSkZCcWJvVURKdFFzOGJwYUhCTlVVX0NYcFZVYm85bjBJb1k3aTlUaUliN2tteUwwNFp4Z2Q4OTlZU2s2bUYyTFlib242REt1YjRDd3E1bm00LTJEZS1PVW55b19nT0JDbFVPSk02SXRRLWtJZXg5MGVvZHVySHdhWVZpTTl3ZjZNT2VMeWpWVXRwZU9CX0HSAa8BQVVfeXFMTmF6TEUxM3FGVzBxVS1Jb1hzbkF4ZHF2Yk1oSGlwNGg5c1VDNGZ3S1dGdExQdDg1c2U3bWh4YjN5QWk2QVZkLXRiWHNWRW5hSExmVGlHRS1LM3U0VEhndU5ITHRVMmVmSlkyNUR2d1VLQ3pYN0JaUnBwaE9Ma0F1TlVkRzhzUmo1ZWtvbHNZelZuUDB1bFBDcTNTVzhPckVSZzRSZ0VXMEhvS2RZRnRKaw?oc=5",
+          "date": "2026-04-25T04:57:27.000Z",
+          "source": "The Bridge Chronicle"
+        }
+      ]
+    },
+    "DHOLE_PATIL": {
+      "cachedAt": "2026-05-17T06:47:51.190Z",
+      "query": "\"Koregaon Park\" Pune (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Pune: Constable at Koregaon Park Police Station Held by ACB While Accepting Rs 1.5 lakh Bribe",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVmNvV3Fpa1lDMHVEUUZPb2tjUjNId0paQnhoOGlaYkYyOXZ1enhnNXdudnhZWXZxaEhtWGo4QVJUS2s5bEhIQTFDZTRHZ1FQbTFMLXZzYnNpUmtZNU1TSlpZVzE2SW8wTTQxa05uWlFMcndCQnVUN0NDYVNsREZHWWdwOWRMNVpKeE5BOXFYRWZxNmdPYzQ3dnRfYkVudjZabjRqdGw5MVY1NWdWeXUwRFFBRW5TUkI0T250MA?oc=5",
+          "date": "2026-05-06T07:00:00.000Z",
+          "source": "punekarnews.in"
+        },
+        {
+          "title": "Pune Murder Near Bhide Bridge Solved; Main Accused Arrested, Minor Detained",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRlU5U19QWXdHblhGd2gzUVhNbTh4eTZ3MXZLUENFWlJuZzVWeW4tWWNwdGFjdnVoOW9acndjZ2N2UFpfcVJYd2pJYUhiclhQOXJPSVFRZ3lFcGVDX0FMTDdjMm1nZThSMmVUZEVEbEpIeXhLa1ZMRTc0cXB6bTNtQzZMVlRpV3BuYmwtam12NEZBWTQ3eUpTd1FqeC1PU0XSAawBQVVfeXFMUHd1SUFhNkdSUTMtR3JUdFg0Z0t6cXlBTC1hM00ybWtUMDdBanJuVW1aS0JzZy1ITlNidDNMb2ctMkNmTXBZcGpLRkFWWTVJRVd1VWFqOF9vTXJyeVRMdW5XNGNzdmRwWFBTc0tGTVA0bE9FRlRYblZZcFUtaHF3ZDRjckpzWmhlbFZYWnp5YUdvaGJyVmFDcjZPYmhUb0pTdXdkeWQ3amh1NFFsaA?oc=5",
+          "date": "2026-04-23T07:00:00.000Z",
+          "source": "The Bridge Chronicle"
+        },
+        {
+          "title": "Pune Crime: Delivery Boy Attacked with Weapon in Koregaon Park Over Old Dispute",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZ3Jnb1BwYWN6Nk1vYWNKS2JtWS1HMjZtd2pVRE5ibWhzbDNReEFkMll3T3NzN3otNmpzdVZHRV9aY1NMTUxqT1VielVxdmlYOEdVb2JHX1BsSVVGbkN2ajNudFM2SjRYdS1nbHdXZGFEMUFpTm9oSW9xVDdVaXB0Ym9UWXFmeHE0NFZzNEl1cE0xZF9JTW13Tjl0aTdkNjJsbGfSAa8BQVVfeXFMUGpoUmNNeVZOeksxZHd3elhRdDE3OFptT3h5emVtakVRbUJicTlLSGlLbF9TSXVKRXUzd2RiWF85a2hQLUJWT2Ztajd4aDFuM05fcmtPdUFyZGRGTGVncHUxWVNCSjExem5ycmJvbmMzajNJSWRMMGloSXZCWHF1OHNJZkh1N2lHclNFdEhiajE1bjNXYkdRUmhJVTVEQTJZZkc0SkZodGFaYlQ4Vlk5MA?oc=5",
+          "date": "2026-04-21T07:00:00.000Z",
+          "source": "The Bridge Chronicle"
+        },
+        {
+          "title": "Pune: Prostitution Racket Busted at ‘Kinnari Saloon and Spa’ in Koregaon Park; 2 Minor Girls Rescued and one Arrested",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPV19RMGFMUVZYb1I2aHdwNVhWUzhnelZTY1NWYmZfU0hDTEhrVkttdmJWMXd1bWlCRTd2elZuMU5xcFIxdXNtaXI2eFZ6aFhRRzZiNXJhc3VYSWlWYVpiaDYxV1BCSFl4aURuTFhSc1hqN2tNNUpRMVhidFhUOERjTzFPQXY3dkVCOUZibHE5em9wV1pBcEFGSDh5QW9KOTlyT3p6NWtOUzBFNzN1aHpoZE1SMVV0M1FHbG9oZUQxN1VwbGppX3ZRRnIxaTFfdzQ3WnIzc0E0T2U?oc=5",
+          "date": "2026-03-27T07:00:00.000Z",
+          "source": "punekarnews.in"
+        }
+      ]
+    },
+    "YERAWDA_SANGAMWADI": {
+      "cachedAt": "2026-05-17T06:47:51.190Z",
+      "query": "\"Yerwada\" Pune (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Pune: Yerwada Police Bust Gang For Grabbing Deceased Man's Prime Real Estate Using Forged Documents and Impersonators",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQX2FZX1ZBeTlXYThmMUM5R1pUYXhIZmFaVkppNVRKVDlqaC1hanZuRkpDaW5JakNzNTNsb212NGVZbDZnZ2M1Mkt6NGIyTG94NXl0Q1puWXdJdzY2YWNJTVVOMDhpb21ERmRwUW1OeHRkTkpPRVhaSmVPN1VPV2J6a1pnVFVCenk5R0R0V0liWHZPRlk3TWhQaWVxMW5IN2FxOXlJZE1iNVRvSFI0SXZNS3BETUJfVHdQYW1HRTFOWXZ6cVE3MnRZcFRxV3pmWTRReVBVQzJfaE1HOE0?oc=5",
+          "date": "2026-04-18T07:00:00.000Z",
+          "source": "punekarnews.in"
+        },
+        {
+          "title": "Inmate Dies After Brutal Assault Inside Yerwada Jail; Murder Case Registered",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNTlDaEw4OGV4LXpNRjhpSFdwN2poMEg4MmxrVWlVeWxtQUFiT0ZKRjJvcVowdWMtQUhLM1JkTTBDZGVFU0lUN0t1VWJtTnNSTVR1Vm1oT0tUUlI2Tl9FeGZWdzJqb0lVbms0X3BYYzI4MWxVV2JZckxSRktMcnFNaTAyVjZseVlVTmJyX0ZZcE9tRmvSAaABQVVfeXFMTU8xSmdPTl9xVDRLTGdEWmdveE42dXFGalNKSzB1dHZlMHBfazFVSXAxdUR5S3hjMjJoY2FLeFpPN2JyVkI3UVNmbkZDalRkWlZtR0NmV1gwbkN3UkVsdTM4OGF4ZllJeTlTQTdxVDNra080MHhCelR4Wnh0VDF1RlNiYVVfNGg2RDdVaTgwRTl3MHVwbEtsWFhaU1RNWVZIUA?oc=5",
+          "date": "2025-12-20T08:00:00.000Z",
+          "source": "The Bridge Chronicle"
+        },
+        {
+          "title": "Pune: Notorious Criminal Who Created Terror Through Vandalism Arrested by Yerwada Police",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWTVtN2ljVTRFLVFnaVVoVXFYSVY3aDU4c3dKRW9QQjVaS3hBTmpSZUxYem8xWU04Umh5ZHFxQ0lsNGRvamhxMy1wOVZJdnJKdG05Z1QzTDA0VlViU0RXWVdiWnpIbFlVbVdzSDlIRy1fc2pPZElqbUtUZ0ljN2pnbEticVE1UTUzTjZFTTU3OTF6ZjdVdHE4WkhBSi0zc0JkcHliTDQxUERuNEVnTDFwY1ZIUmlxRU9YSTJr?oc=5",
+          "date": "2025-11-28T08:00:00.000Z",
+          "source": "पोलीसनामा"
+        },
+        {
+          "title": "Pune Crime Branch Seizes Gutkha and Tobacco Worth Over Rs 20 Lakh, One Arrested",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPU0dldVI2NzNiM1hWeVN5SVFkRDZWOUZvYzN2SXI0Tms5b2FtWmcyV01PWkNxRC1RcHU1Mm1EeFBiQnVoMVBNY2NITWF3MFB4M0tVT01HbzdFTWtZN1RzalBXUWNOWFkxR0lrMGg2eHl1NW9qaWhtZWhQdXFLYkE4M1libS0wRW9OdllsWEZNRmt3R1JleWM4OVFQR3l2VkFYaVV3NGJMN1dYQQ?oc=5",
+          "date": "2025-11-24T08:00:00.000Z",
+          "source": "punekarnews.in"
+        }
+      ]
+    },
+    "NAGAR_ROAD": {
+      "cachedAt": "2026-05-17T06:47:51.190Z",
+      "query": "\"Kharadi\" Pune (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Pune Crime: Businessman Kidnapped, Assaulted in Kharadi; 5 Arrested",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQnNqeVZzYWVWenJhbDZqbWdMdmdUOVJCS0JFRHFOS05rNm1nRU1PWG5pcjN1am5JV0RJNl9paG5HYjdrdGZybTRGdi0yMzg1RW5HdGFrTFlJUU42RDJoZE5XSjg0N1BHMDVQZy1obWRaclZybGJxcEYyMXYtVmE0eWhkWXhCb2FCUzRZ?oc=5",
+          "date": "2026-04-16T07:00:00.000Z",
+          "source": "Pune Mirror"
+        },
+        {
+          "title": "Pune Kidnapping Case: 5 Arrested For Abducting Metro Contractor, Demanding ₹50 Lakh Ransom",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcTZ5N2lwYk1BRDZRb252RUxTSVR6dTlib3FIV2pZME5wbTk2SW8ybE83b2RkVEh6NDlOZHNfNmY5NGpkQWFvVlRTMWtZQmZaZUZZQzF3dXpRM0NKd0wtZ2FBa01GUmExS0c1UWFkN29tbG1xcHVHQ1FyUUhLRzRfU3BNS0RvVUxaczhyWnI4UmlhaTFoZm9ScHY3Z253alJxUVFNT3JoVE0yLVpqc1I4R2l2Nkh4WVpzOFVPNzBUNWpCZ9IBxwFBVV95cUxNdXhnWVNfclJKQ3BoY0hyRDNtVDRyOVpZUnU5a0swWU9WQ2ZNSEdSYzVYTlZwcldYcUFwNW54Z0g3Z0VQam1GSFpkOHNWS29aVDJYcHBQWEZ3OUxkUEJWbUJ5SU5Qa3psZzdUYWVfelpjVDY4eWEweUhlbkhVMktMZE4weWtSU25LRTNjX2Njb1FRSVNrd0E4VFVhei1kVkxmRFlFdFRYMzU2WGl5R0NBaGhKZEU4cVJlUkRxdWlCdkN1MGFyTnVZ?oc=5",
+          "date": "2026-04-16T07:00:00.000Z",
+          "source": "Free Press Journal"
+        },
+        {
+          "title": "Pune Crime: Two Arrested for MD Drug Peddling in Kharadi–Hadapsar, ₹27 Lakh Worth Seized",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOLUMySGU2UlQxd1dBQUJjaHZXc3g3c296UVRLN2VVRXRKOFJsMG9fSHF0bFI3S1FXTFV6QXkxVWZvcS1xYXJrWjNrUFBxQUI1a2ZyOVd5MHJTNTV4MUxVNC1Ed0QzT0xGTjBTQ29MZzFfcnd0MjFUbVBCeFZNbE9EVF94YTNRRkNFV2xFbEJDVjdoV051LU43STNjZ9IBqAFBVV95cUxNVzUxamhDeTFseE1LWVVyOFlfcEdXSlBXNHZPQWUtYXczVWlydklCVTF3R3ZUNmN4YkQxNUJxbm5tSC1SUG5KT05yYXA1cVQ4eWZXaGNlYzBpRHUzd2tVTk1rbHNLRWFCNEN3Q1YtV2xLVnlHM3ZpcVRqeElCSFAwZno4YnRLS1Zad3hjZkZXY2FvYURZbUt1WkM2ZG9xYzR0dU9XdUNkcTk?oc=5",
+          "date": "2026-04-15T07:00:00.000Z",
+          "source": "The Bridge Chronicle"
+        },
+        {
+          "title": "Kharadi Murder: Security Guard Strangled by Colleague Over Night Shift Dispute",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOLVdjTElyaE9iSVRqSEZHUFRyaFFLdDJFcW1tUGZ5cUIxVkJMUTlZQ0pNY01MOGY3MkhJU29WTk9uVDI4UV95d2dtSHlTaGRvYTM5YU1RTWlVTVVHQlJ2Y0FlUmJrbXNUZ2poQkl4TUxadmJxS1Z2SUI3cjNjVjlsX1Nval8?oc=5",
+          "date": "2026-04-15T07:00:00.000Z",
+          "source": "Pune Mirror"
+        }
+      ]
+    },
+    "KASBA_VISHRAMBAUG": {
+      "cachedAt": "2026-05-17T06:47:51.190Z",
+      "query": "\"Shaniwar Peth\" Pune (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "TILAK_ROAD": {
+      "cachedAt": "2026-05-17T06:47:51.190Z",
+      "query": "\"Sadashiv Peth\" Pune (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Pune: Fake Alburel Drug Racket Busted; Multiple Firms Under Scanner",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMGMzRTNsRFcyUDRGeVpDSDlQTHZfSURsWkFFQlZCS3R6NjNOLTB1WV9UeF9laDNpajdVSUtiM0k4VmNUNGdxY2tYajQ5dm1OYzdoOTRuckp2Uk5DeTczamtaUHJZNElQZzA4LUUtQTVvZENCWVJqQXJ3RmVTZE9PYmdQOHQ4RWVSNktQQjNKQ1IxVTlocUVCb01ob3A1TlkwWHZoNdIBqgFBVV95cUxPQUM4VzVsYldxNmFtV3FNU1RzZUtwNjBzby1FYno4S0VlRXZtUkhmXzMteHY0TWVKeEx4WkxWcHZ2OUFmc2dXVFkwSm9yWDB2ZjBndEdrQUwtQ3pSN0F6aUY4dHJfaVI1SXJhOF9jSGhHMElYalNBRWxmQXJKaWdieTV1TVpNaVROQUZ5X0ktRHZPdVQwYTdteW1NZXM1LXdockdROFprVDdsZw?oc=5",
+          "date": "2026-03-01T08:00:00.000Z",
+          "source": "Free Press Journal"
+        }
+      ]
+    },
+    "SAHAKARNAGAR": {
+      "cachedAt": "2026-05-17T06:47:51.190Z",
+      "query": "\"Sahakar Nagar\" Pune (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "BIBVEWADI": {
+      "cachedAt": "2026-05-17T06:47:51.190Z",
+      "query": "\"Bibvewadi\" Pune (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Pune Woman Killed in Domestic Violence Incident; Husband Arrested",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbE9Hck11akFPQkl0VExjSnUwR0ktclZmVWlFbXZLX2E0RWNPMEV2UG9rRGt0OW9IdkFqMUtaZzVsNzJpY2ZnalQybXhnMDkyeGg2N1h4emZWYTFhQWRQZ0NCdTlNbldMejNzZkJ5T2JNcnU4dE5ObTdZNVdoM1NFMk51OG8?oc=5",
+          "date": "2026-03-26T07:00:00.000Z",
+          "source": "Pune Mirror"
+        },
+        {
+          "title": "Salon owner, aides held for murdering youth over customers",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRVduNUNxclZTTXB5Nnc5MzNKcXkxbUxYSGhvTTVfS24zZUZ5c25jTWdSY3QwWEkxTXZ0aVUtRGE3bnFjN1NzYjVtNjNCOU5saC1vbDhhaE1tMjZyMWxMaUJlckI5SHI0X3ZFd3ZWN2EtZFdYWFpSUUhPMEFmWUpoUEtLeldxVHRkb1ZlanhGSHN5QUVTb3ppTmgza01MMk9DYmxSMDVIZWNkd1BmWWZJa1p6Q1VkenA2RXB6aUdCb2JSWmgyeTl5btIBzgFBVV95cUxQN3I4WFRJRVJ4MFF1Qk84VDB2ekVzTW8wQjVWc0tHbTJpVzZaejY5dmJsVV81aDh2QVhackJIQ3E0enRkQlZaWm1nV0xBQUZ3em1rMTBzV2ZIRlQwZmNZYjdyOVlwMEVPZ2lVYlk4UnhOOUFvdEJXSDlvWEtsQ0QtM2hCYWprNXZZc000bk1hSGczd3hoUkJvekE0MWpHTGpyU1MyVTAwamUzVGNNWjFiRy1NT1dxdl9tdkhrOVpyY0xNV1dNVmJ5LWVub1o0QQ?oc=5",
+          "date": "2026-02-21T08:00:00.000Z",
+          "source": "The Times of India"
+        }
+      ]
+    },
+    "BHAVANI_PETH": {
+      "cachedAt": "2026-05-17T06:47:51.190Z",
+      "query": "\"Bhavani Peth\" Pune (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Teen Murdered by Friends in Pune Over School Trip Money Dispute",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5VTm9sNm1MZ0tMb0pmb2FORGxEV1ZxVjdtMlc0Tng2RkJhbTNuSG5sQWg3andPRV9iLVlzSGFGTzNvS2F4b3V4UVA1X2dqckc4MmlZX0JiZzBkbG1oX19HZDBabi1WSk92bDFzSzRrME5xNHctLTkxcHlTaFVEdw?oc=5",
+          "date": "2026-04-14T07:00:00.000Z",
+          "source": "Pune Mirror"
+        },
+        {
+          "title": "Pune auto driver, his two relatives arrested for wife’s murder",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNlNncVEyLTBZTG1sTVRQX2dpMGx4VkdPMmoxYndHQjJ3cG1zeTlKMFpyal8tXzVjMTBrT1YyekNXV3VhbjBmeUtlQzZlanp0TGFuUVBmLVRPMS1oOTljWFVaU0N3Z29VT1RoTXg0UUVMaFdaZkZtTEVlZm5wbHFJam5zTW9wSG1Eb1g0SF9zbFUwaS1nel9Fb0hJYXVkSEFiQmU5Y0xBSTRvY3NrdXNzaXg5QXlCLTRQemZBMlhfbklaZEllRDRSM3JBUTXSAdIBQVVfeXFMUE1iZ0NaR19hWkE5Y3diNmRUbjVZTC02cC1FNjZiWTgyMlZ3OEV1Y3FxcjN5Y2RwZktmZU9HQk5xVG1XbzUxQVNBYjdCbzNBOTJTd3BtUUpYYXlXR2xmaURwSmdncnExZGVyVVNQNm1sOUM5Z1hPbEoxa2tHZzJuRlVTdDVCQV9XVmE5RnZYaDlSUi1UN0NxYWxiRU1JOW5VLVljTXo3MGw0ellJOHpGMTNLTGVsdm1BWVhHbk50X2draFdBaldsaElpaW9Ub3FUVGJR?oc=5",
+          "date": "2026-02-05T08:00:00.000Z",
+          "source": "The Times of India"
+        }
+      ]
+    },
+    "HADAPSAR": {
+      "cachedAt": "2026-05-17T06:47:51.190Z",
+      "query": "\"Hadapsar\" Pune (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "No explosives, ‘dummy bomb’ placed at hospital in Pune to extort money: Police",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZGxVSW5tRE5MTXZoTmM4OUFWQzNGX1o4M0lKV0dpZ1YybUo2Z3VQSm1XWkI2NXQ0d2g5bnlCSWhFa2VZdy1oWHA3UUl3SEE1UURrbjVrbndqb3hEeDRMODJBY3RRVDVraG1SbE9IT1dZUEk1RFJtZ1l5a0FnLXNjaDlwMk9QTUl2MDh5VXdfSGwwWG1JNFVfcHhobDh5Uy1yV01tRVBDb9IBrgFBVV95cUxNTUg5cG1XWkFnNUtEdmg3a1k2SUJLODFaSmxudmt2MTYwQWJHODdweXBiNERjMkpJUnZOQVk3ZjM1VF9uZ09jWWhOdHExUUVRb0Q4OUItLXdRN1NDWUdaNjZtcFJPTlY0YjU0V0RPT3QzSmt2SkkyWEJ4a29jaUtkR2tCVkNaYlhlRWd3blNpSWJISU1ESU5JWGtGSjk1N01nTVYxOUk5YVRULW82OEE?oc=5",
+          "date": "2026-05-15T16:36:12.000Z",
+          "source": "The Indian Express"
+        },
+        {
+          "title": "Pune: Five Women Rescued in Hadapsar Spa Raid, Woman Manager Arrested by Crime Branch",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPX0l5eGYtaGFjZUs0V2Iwd3EyWnNENlpQc1pPN2dOUVAwME9iclFvRHJMOWpYcGwtWGRUUjhEOC1EbDNGUEg4LUVyYU9yZTFNT3hEQWpmUmgzNm1QOV9EOHZnc296Y1IydzBtR1dWTHA4OGdGY0kyOU1WZjRaUEhlcUc2akMtb0s1N0x3bVlDZU1JWF9ZbnBCY0pwNmFweF9XMnpBRlp1bGUzckpQOFhSaw?oc=5",
+          "date": "2026-05-09T11:23:37.000Z",
+          "source": "punekarnews.in"
+        },
+        {
+          "title": "Pune Crime: Two Arrested for MD Drug Peddling in Kharadi–Hadapsar, ₹27 Lakh Worth Seized",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOLUMySGU2UlQxd1dBQUJjaHZXc3g3c296UVRLN2VVRXRKOFJsMG9fSHF0bFI3S1FXTFV6QXkxVWZvcS1xYXJrWjNrUFBxQUI1a2ZyOVd5MHJTNTV4MUxVNC1Ed0QzT0xGTjBTQ29MZzFfcnd0MjFUbVBCeFZNbE9EVF94YTNRRkNFV2xFbEJDVjdoV051LU43STNjZ9IBqAFBVV95cUxNVzUxamhDeTFseE1LWVVyOFlfcEdXSlBXNHZPQWUtYXczVWlydklCVTF3R3ZUNmN4YkQxNUJxbm5tSC1SUG5KT05yYXA1cVQ4eWZXaGNlYzBpRHUzd2tVTk1rbHNLRWFCNEN3Q1YtV2xLVnlHM3ZpcVRqeElCSFAwZno4YnRLS1Zad3hjZkZXY2FvYURZbUt1WkM2ZG9xYzR0dU9XdUNkcTk?oc=5",
+          "date": "2026-04-15T07:00:00.000Z",
+          "source": "The Bridge Chronicle"
+        },
+        {
+          "title": "Man Booked for Rape on Pretext of Marriage in Pune",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13NFVPbWx4MVQyRWNFV2VNNlhRX0VJZmdlalRNeFF5TVdSRjF1ZnRMZXdpVURqSmU4Y1FKbWl5ZjJROTd3ZDNPOU1PZkVLcnFGMkNJTkEzclpvdl95UUYzdnBIeFU1bTNpUHNxNndUQmJseEV0aVVXWmhMRUg2cFk?oc=5",
+          "date": "2026-04-11T07:00:00.000Z",
+          "source": "Pune Mirror"
+        }
+      ]
+    },
+    "DHANKAWADI": {
+      "cachedAt": "2026-05-17T06:47:51.190Z",
+      "query": "\"Dhankawadi\" Pune (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Pune Murder Near Bhide Bridge Solved; Main Accused Arrested, Minor Detained",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRlU5U19QWXdHblhGd2gzUVhNbTh4eTZ3MXZLUENFWlJuZzVWeW4tWWNwdGFjdnVoOW9acndjZ2N2UFpfcVJYd2pJYUhiclhQOXJPSVFRZ3lFcGVDX0FMTDdjMm1nZThSMmVUZEVEbEpIeXhLa1ZMRTc0cXB6bTNtQzZMVlRpV3BuYmwtam12NEZBWTQ3eUpTd1FqeC1PU0XSAawBQVVfeXFMUHd1SUFhNkdSUTMtR3JUdFg0Z0t6cXlBTC1hM00ybWtUMDdBanJuVW1aS0JzZy1ITlNidDNMb2ctMkNmTXBZcGpLRkFWWTVJRVd1VWFqOF9vTXJyeVRMdW5XNGNzdmRwWFBTc0tGTVA0bE9FRlRYblZZcFUtaHF3ZDRjckpzWmhlbFZYWnp5YUdvaGJyVmFDcjZPYmhUb0pTdXdkeWQ3amh1NFFsaA?oc=5",
+          "date": "2026-04-23T07:00:00.000Z",
+          "source": "The Bridge Chronicle"
+        },
+        {
+          "title": "Illegal Hookah Parlour Busted in Dhankawadi; Five Booked by Sahakarnagar Police",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNa05zMlBiTHhBdVQ1a2RxQ2ZHak1LVDBVNlktSWllWURDNEQyVlMtQXVmSHhOLVlrb1ozRjJSYVB1TkxhSEZRa0tWNmJOc1JSZW9HT2EwY3JBcjJIeWhCeDBnQnRTaUQwTmlTLUJ2dTJvb1hIdE1YMElvbDVINmJ1cGN5Y3NkTGlLcS1fM2ZncGFfTFpJRWVZ?oc=5",
+          "date": "2026-02-11T08:00:00.000Z",
+          "source": "Pune Mirror"
+        },
+        {
+          "title": "Police raid hookah parlour in Dhankawadi, book five persons | Hindustan Times",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWVRZNTJpSTQycUJxdW1NaUpadmQ5SGdrU2FHT0plT1liUFAwVlRncU05MlBqQW13QU5zcFZHMjdFTDlJOVp6Q1BSSnFFWThFOW9pcm9yV0FuT1pLWjBhSlhBbW5LU28ta2dLVTZPUlZnbWxoUHFfMVJUUTZPdnA1ZHBMdTFZUXhUMG94Um9SSGZWM3d2WjFnTGNvUkdzdV9VaDN1YklzV2I2QXFaTFpoS0hqekFuX0tBNDJwSVRaTV9vYXM5ZUHSAcsBQVVfeXFMTTBUVkpQSDBvX0ZBLU1rMUNLcUdJYkJQYmFpVUgxUk1JT3FpdU1rN1VJTlRKRjFLOWh2dkFTdkUxam1LOWpxZGkxQXFRdEU4dlJOcVF5SU1sX0VXUE11V01lOEx0dzVqNjd3RTI2bWFDZzFDYklZajRzMEdtckVMeXFETVlVdlpNT04zQlgwU3UxNlViZE16TDExX3NoX1ZWeHBGUExCUG1iSGxHbmh3bVFBY0Z3akZqdjZLTW5GMHhiZzNJQThsNi1ZcFU?oc=5",
+          "date": "2026-02-11T08:00:00.000Z",
+          "source": "Hindustan Times"
+        },
+        {
+          "title": "Fire Breaks Out At Residential Building On BT Kawade Road In Pune; No Injuries Reported",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdFB2ME9ISl9CT0xuZ1RKNHhuclZ4WnQ1NUFfNTN1TjdqS2NOQkQyMWh3NkZwc1JfZkR4RTJDMjRYUENPdjhwRFNxdTNRMVhvc1JvWGl6b0JwcnJNRTNKM1ZvZFA2c2U4WkxEV2ltSjV3QWh1ZFk5RXMxY1YxQ01abTZpMEpJREFna2IwdUxBY2pvaUxFTElHTUNWam1ySU1XY0dGblBjQ2U4Y2VRQ3pMcWF2YXpKZWw1VkZBUDI4S3LSAcYBQVVfeXFMTkZ1MHpjYXh5M0Q0UHdGY3lfa0JTNUxVZURzRTM3aVNrZlEyM1lFR1oyZ1ZiazJlQ19vRDFuemZ5ZGl1MnlKQWxzRlBCNFRBd0NfWHFSd3ZoQTI3YmM3TUhGLTFrbHRmYm9uODNWRGVxd3hUdlRUM3lQc2l5NkVjS2JDMS1rOFF1QzdOb0NpTGR0NEJqQXd6d0dyTFFwcXNrREZwTl9GU3RLZmxPQWFuVm81STM1blZJaHRDOGE2V3V0SDl0Y0t3?oc=5",
+          "date": "2026-02-11T08:00:00.000Z",
+          "source": "Free Press Journal"
+        }
+      ]
+    },
+    "KONDHWA_WANAVDI": {
+      "cachedAt": "2026-05-17T06:47:51.190Z",
+      "query": "\"Kondhwa Budruk\" Pune (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    }
+  },
+  "notes": "Per-ward crime-related news from Google News RSS. Queried per the ward's distinctive neighbourhood name + Pune + crime keywords. Items are filtered to last 18 months and to titles containing at least one crime/police/arrest term. Up to 4 per ward."
+}

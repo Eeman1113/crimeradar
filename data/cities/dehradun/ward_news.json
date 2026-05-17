@@ -1,5 +1,608 @@
 {
   "source": "https://news.google.com/rss/search",
-  "scrapedAt": null,
-  "wards": {}
+  "scrapedAt": "2026-05-17T07:04:19.379Z",
+  "wards": {
+    "277": {
+      "cachedAt": "2026-05-17T07:03:21.354Z",
+      "query": "\"Vasant Vihar\" Dehradun (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Five members of international syndicate facilitating betting on IPL arrested",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUXlodEc3U1dVc2xVd2tadElBanZoWkxSNUwwVVhpRkgyU01fNDdUQm41YWdWaUU1UmFxVDl0SElaWDZ3MDV1b0o4ZTJkQlB4WXkxX01XZE14dTVKMVFWR3JQMnZ1RDNqZ08tdjBRajI1enlId2cyMU8zczA4aTBRRUdENmoyNGNybmt4LVNLTkd4bFlybUN0R3lXTS1iUURzelZ4OFZ1cDRRVHNmZTZaTTd0UURkRGdYSGN0T1ZGYzVWT3pxcWpBNC1HY9IB0AFBVV95cUxONjNJRU1PR3lIX0tIT0ZsNzBDNGNtcnBUUDFqSV9iMTFMOTJZUFB6TGd0NDJJTE9LbFJ4UGdUcTdlSDlGbjNJTUdPbWt1N3lLaXFvQzBCYlM3MWZ5aTlEeDFfdElqV2wyMF9NU0JrMERPeFE5WWhobmlielk0clpmZnNZZlNzTXlUWDVzaS1Hcy1xTEpPZUlnVThBbGhVU0RBWENaTUp0TldMeVBKdncxcVFqWlE0bmdwT2JOV0s2dGFtekVFYmdjdkxOMVl4QVNl?oc=5",
+          "date": "2026-05-08T16:41:20.000Z",
+          "source": "Devdiscourse"
+        },
+        {
+          "title": "Bounty criminal from Rajasthan arrested in Doon by STF",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOby0zSVFBYWpqYjZxbkZFYXZnd01LdGl6V3QtX0NOZDVZQWRFbllZYzFQT2xJSUt0ZnowWlJQX21GVnJxc0Z5OF8wOERJaFVRWExTNGdVUlRqTmdxLWwzdmNFT3doUmdveC1pdHNfeHo4Vk1HS1Mzazd3czB1T1hrb2ZDZGE?oc=5",
+          "date": "2026-05-07T13:51:46.000Z",
+          "source": "Pioneer Edge"
+        },
+        {
+          "title": "Criminals open fire at police during vehicle check in Dehradun: 2 arrested after chase under 'Operation Pra...",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQa211NTM1aGo5ZnlxNXdpakFtQ0VqV0ZZT051Y2xBTzRNTzJaVTh5T19zQjNvQ0dEdmhFeU5vU3lQckNFOGNub0UzTkp3ZGNCN2ZVWFpKWTUweEoxTjlfbXRQZjFjdndwZFpCcFlBVHJGdWk0XzBYRGFvVDdhc2JKVTdySko4TG5fWnZvd1JNR1EzSlZZZ0pLRE1XV0NUWWY5STlJUklLa0kyMGEwdjQwZkhXN0oxMEJRYUR5OWhNMkZOMklCWHJsNHp30gHPAUFVX3lxTE1fZTZCeS1wUk4zakdUcVNlSU5TRjJLV3Q1MFlEVElQcklGUVJ1MmlJTy1LVVBZUFN6UkJHRVlUOFI2eUZaTHUxMDQ3NEJGVnBqTGJFWVFrNEtJdDloUnpVUHY3MEotOEI3VTNqa2JnWFJJbnZ3V1J1b2Q2Z2dVc2o1N0IwN0ZPN2dIcElxM0pQTWNIbjFPTDJ5U2U3R1Q1ZVFISVhKNERqZ185dVB2NndLV2VYbEpXLURvdzd6ZVBhaTdKaTdtaVVCQjlEdV8ySQ?oc=5",
+          "date": "2026-04-26T00:00:11.000Z",
+          "source": "Bhaskar English"
+        },
+        {
+          "title": "Aviation services firm director among 2 held for assaulting brigadier, son in Vasant Vihar",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNTXhERHJfRGdyMjRSOHRaaWk2c1h1R2poaVpOVGtiZEFZM291TnRRNDQ0UWRnSmlnY0stb2VUb1JyZl9SRVBJMzl1Vm5jTWt3ai03WDZIQld4UWFWaV9FcV96Sk5UdVpNUmJvWkVsMHdlSHJ3eHIxeFIweXQzMzNKOF9JRElPSlBQRTYtdUt6NWFQczczS3ZuSWVwOWtiQjhVM1dINDd2T2xDMkYxU0MtQklHN1k0enBxTXpjQmxwVzduMkpWVEJ4ay1UemNJYXRfN0xva2hpLS1jMVlMT3drc01pV1lfbEhtQ2xGcXFHa1E4NEsw0gH6AUFVX3lxTE9iLWZJMllwcWFUMERZZk5MNllKOWlkZndNbTFyb0xoUENHRkhRUTE2dTIzMUxNSUJGanVJel9QUjBPdkZ5ZU83V2Z0Zy1UOWxBQWREUm9KdkdmQ2RRRlh3Qy05b0J1X0x3enV2cXExdXI1YXdKcTQzd2tmd0hpOFFycm0tbzA1Y21vTl9CWm1KNzlnbGJHY3UxbGZ3S2xSM00tSXl4TUczR1dMaFBkV1Z4QTAtLWJGejQ0VnJ3VXdxZG5sY1Y3TzhzZFJfMjhsdkYtZHYzSFNsVkpQYWJVbnd1cDNlQ3c1QWdKVGpDcUpYWF8tc1F1czFQdHc?oc=5",
+          "date": "2026-04-14T07:00:00.000Z",
+          "source": "The Times of India"
+        }
+      ]
+    },
+    "278": {
+      "cachedAt": "2026-05-17T07:03:21.354Z",
+      "query": "\"Indira Nagar\" Dehradun (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Businessman booked for rape, cyber blackmail of influencer",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOY3ZXN2pnbHJCRVJobzktWkY4eUlka1NSdDJhLWJ2MXRGV3ptc3hUTWxRaHlNV25uclVWSk9Qbk9xTGN4MDRLVXZBcHZsakxUNGNYbzNwd3QzXzBqbXZOYTB1U3E5bEJwcGxxM1M0VF9vMENxUGlPMFFMejVwZHc2RDhONHJlY09JbnkwZlNYTlF6MVdSVkl0WlFQalpYalRhbVM4Q3pSVEhaX242MDNIbGxlVHpWMnVOamxfeE9XVkJyWTZSTTVueVBGNk_SAdIBQVVfeXFMUElFbVJKR1phR2pydTZBZFR0MGF0ejgtOV85Q1BTVTgzZi0zemJuOTFFTU9rUnU4ZGIwMjVCaHVHVmdlVmpMNDhqX2g1T2ctcGZRdW1wTWUyVUppOUp0UFZsV1J2WkxKOXowcjNaTnJLbFZPSGNzRkYyaGoyWTFpMWppc1ZRbUlNWVB2QmkxeDAtRVhiSnNrSmhMRUk4OHZRU1JCYnZ0eGFzUGhneWozaFdaTGRIVHNnMDJpWWtMQkhyR0taOFl2R0x4SUxrZzNtdjRB?oc=5",
+          "date": "2026-04-14T07:00:00.000Z",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Dehradun Police solve Arjun Sharma murder case; deceased's mother, associates allegedly paid ₹12 lakh to kill him",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNZk9ac0dTVUhWcVZQSDV4NUJuMTRfTkF3VloyUDRjQWphUHZmNHpWaEhNWWNMdVRCTkF6aC10Uy1UYXdEa3J5ZEl5UmJoV3dlRVJLTXA3MXd4X01vd2VzRlE0NTNGNTNPdUw0aXRaWmpwNXpvd1dVczBrUWNZSENUXzQwY1gxSVpLYUxYQkRxak9nUEpnR2xJZVB2RDN4ZGZxbVBiZmozT0I2TjlidDgwRDBBUmYtSmExSnZhQlo4VDloUmItWlJ1X0g2Qk9yRHpFdG5CX3lVY295NThiS3hkYXpLZG5KdElHSDF5a01lV1BVRDlK0gH6AUFVX3lxTE5LUnltYlNfZEdXZlRWUTNXR2VLXzJwemFaUkplVXJzY25SVHBVdmtzQVNVVXp0NGZ5em85VGxHQU5aeHRWU2FhcFlFbFhGSklXa2pITXBpa0V2d0lScEpuY0tmRTNFbUctSmY1em9nMC1fNUw5b1BZejlXNEhxOHVlY21RMkN1bWlEbTVFNWpuYms1WVNYTU8wVWd2Y1JsZUhBM0ZLd0FRSTBfeHFhczNvdHk0Qk85QkRGWTVTMTJuT3JtcmV3S2l1ODYySkZLa1hRSHpkczgwUmM1b2M5OFBLUXRmWGUyY0p6bEtCUTdvVWw0bnRkM2N4bGc?oc=5",
+          "date": "2026-02-13T08:00:00.000Z",
+          "source": "Mint"
+        },
+        {
+          "title": "Dehradun police arrest five in Rs 12 lakh murder plot over property dispute",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRkhPUU94UUJ1a3ptbWxWVVFwT3VrcW11RW5vb1VNYk5VcE5ueW0yMVBoY0VXdDR6SVdFVjgxeTIzTy04TlZiVHhCN3dSV2FKYV9zTjUycEQ1WWM4c3NwRDRRMHkzSXo0U0c1RzV2dElvVGdwRmFxRVdDellHeXQyWVhTMDZDZWh4Smc0VHlpR3haTUZqZ1F5QW4zUzl6aUtJeFJGLVFIcWlWeTBN?oc=5",
+          "date": "2026-02-13T08:00:00.000Z",
+          "source": "The News Mill"
+        },
+        {
+          "title": "Dehradun Police solves murder case in Tibetan market; deceased's mother, associates allegedly paid Rs 12 lakh to kill him",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQWFFQdHc2TjFsZ0VTb0ZhemxfeWt5NzhxdE9ybXB3Q0tfaWFGRWg0ekdtN1VxWWJuWVUtOHFhYVQzZEFqbVBiUTFLNUJwOUtjOU1LTzdWc0hWdTRuUWxKZFRJZTNiM0k5d19rZFpFbUVsT0dIZktzYjhvRWRUU1VVU0szTG1IQ1FwdV96ZGZGSkFlX0EweHZhenh2SEZTekhKMG9yU09qSVBNWTUxbjRwNVNBbWZnai1iNFd1aDZyOGt3RXkwX3hCeTlNNXduTkwwQXV5U2JlY2N1Z0hhajBKQm16anp4UEI5UXpBcDdZZDM?oc=5",
+          "date": "2026-02-13T08:00:00.000Z",
+          "source": "India's News.Net"
+        }
+      ]
+    },
+    "279": {
+      "cachedAt": "2026-05-17T07:03:21.354Z",
+      "query": "\"Indirapuram\" Dehradun (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "19-yr-old held over rape, abduction of minor girl in Indirapuram | Hindustan Times",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYS1lRG5GTmhQRVRIelNOR1hvTlUybmY3WEVGYmplRFJoUUNKUGpSY0dtTnZWRHZpNWtLVEZoaGZoVmY5YUV4LUQtdkd6VUNXTGVndEJXTVBILWRURkVoVEpYNkZnSDNKRGV3UFFrd2dEdVNYNWphYlRuUXpQR0dyN3NteGVrOHVQS3FfS05sT3ZTRnliVUdpU2V0eXFad3pfMWd0Y1lrUUJFTDMwbTRwZVBnYjNmWnNQZWVwRG84WFpMZkVJWUJ3ZWtiSdIB0AFBVV95cUxPcTNSZExSaVVoY2F5OFJJQzIwalpwcDgzMFdVRmtsOUVna1Q0LURKbjR3NUxVQjQ3UVhueWQ3NHpLejlyRHY5NktLdW5EQzZtZjY4TkdnNVNLdDZLWEJtbHZwelFLWDI2YW9YbGVUREVpT3Y1dDZpNHRqTWdCYWFCSmkta3psSV81SGhHRUVXNGRjN1ctdnpMM1FVVURvckhaanpmZW51ZHNJaThXbl8wOU40WWFDalFXOHRiMVN4SkYySWRrMVdRaXRLR1VWV2hS?oc=5",
+          "date": "2026-04-20T07:00:00.000Z",
+          "source": "Hindustan Times"
+        },
+        {
+          "title": "Man held for abducting 7-year-old sleeping with family, raping her",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVDRNd1BNWGd5QWkwUWhaYVNfWk5vUDZKNTBkUmdSeld6RkVtTElVOG1EblVBOE9kNWtYX1B4b201MTY5TUpvSUw3Nm15cjJfUmtTaG5yWWhLU3BMdDl5a3NzeHpvRUJFVzZhSXlFdG13T2V0SWh2RG04TXhVXzJhX2Vxb3BGUEZOWFBVZzJZYTJKbk5lcjJmaUt5NGFIcEw1d2JzQ3NiUTc4ckN6R0NfSFNnNExwdk0ta1Z0TV9RZ3MwZk5JdXFvN0pObWk1WWdTOFlhWtIB2gFBVV95cUxOa19pdi12S3RVOUYtNDBnRnNVZjc5cS13MVp6M2k2RVI1a3UzVXFUVDZTOFM4NWlRT09fdno5ak92R0syRFpaQmdRdlpQaXQyUTU0MnpBYXV1Y1djb2ZXRE1IVlViMHJ4V0l6NFlBSndlM2NPNlVuRnktYVk1cG5yMEpQYjNfaE9PWVNJeVpEY29lVnhQbUpqS0ZpQktYa3l4Q196ZURuNUJsUzhwNloxeHpyMDlldGo5Q2Y3QmY0LWlOdmkxZTlpV1g0dnhkTTlKNkx0STZOMHZadw?oc=5",
+          "date": "2026-04-20T07:00:00.000Z",
+          "source": "The Times of India"
+        },
+        {
+          "title": "18-year-old falls to death from 16th floor in NCR, family alleges rape and murder",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQeWU4VFhTYXdQdF8tRDhCX0k3czJ3Nzlha19JT0gwTmFzVzE4NVZDUnpBN3Ffa2Fab1pXaDNIWnBoRUhFcE45ejVqN295SXppVnVyNjctcktuUkhIZUFPLUNhal95UUNMMnA1MzJvOGdaUkRTLTYzbFh2NHJsTFh6SHpDLU5tMGFkbFJUbGFFUmUzRVdfcFg5cnUxRkdLTkJ5eHB3bWJnWVF4eGNXSU5jVEFiWlNnMUM2VEZnR09mcWVUMEtRbjZkenlBVXNZbEY4WTdlaDVocm5WQdIB3wFBVV95cUxOd3E4bzhsRWFfRTNEZlQxVmxXRXQ4c3RGWHJjNFBoYTFTRFMzLTNhb1AwYTZBbnl0ZUlFMGdxZDJGMXVRNVhTQWpRVjQ1YUpzVmR4NV95dDgtRlBKUmJtNXVpbVI4TFo4QmdJT0hvcjhCZTZfOXFnUTZDQjhPeWtaR2p0Wk1YbGhuNEVGWjl1OTdyR1F0T1JOSENUWnBxV0x4dk1QM3lUSklucjBhUUk4Z1MyYXVyU0h2aml4QzBncElWMTRMeXNPR0VjYVRsN1pCVDM2QUhna2t2TEEwWXF3?oc=5",
+          "date": "2026-04-08T07:00:00.000Z",
+          "source": "The Times of India"
+        }
+      ]
+    },
+    "280": {
+      "cachedAt": "2026-05-17T07:03:21.354Z",
+      "query": "\"Niranjanpur\" Dehradun (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "18 held in high-profile gambling raid in Dehradun",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9zeVJ0emdjbWtnWXRBRWRBLWxhWll1dENwSnVjNWNKbER2X1Z0ZERwZFFPXzhBang5TXJfUjRfUGxvNU9rajFrZm15LUVmNEh1Uy1SSFJWdlpLNUtNYURLQUVMTUZ2VW1qLUNWRUpkVXBVSEdsTlljb0hSa1V0Zw?oc=5",
+          "date": "2026-05-06T15:12:20.000Z",
+          "source": "Pioneer Edge"
+        },
+        {
+          "title": "Dehradun resident duped of Rs 2.27 crore in 'digital arrest' case, 19-year-old arrested from Jaipur",
+          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNYXRzYm9NN3h5bGZTRUsxZ2NybWowc2ZDUHBCaU5zV0txNzZpYklTVkRIS3JjR3ViYW1rdXFHYm1CLWdYWTE4UUdOaUIyZVZCVUMxckhpV3N2VlQ1bXNXSVRHZmhZR0h4YkdSR0JEQUtkeHhZSGsycm9VRjE4QWdPMlpTLUhVbGY1cEtoaXNuTDM5eXczemJuUmV6VnFPUUZHaFNsRTRjMS0zRG9wWk56MTRqRXZVWmQ3S0NrQ2hPRHBIa1hJUkxwUW8yTzZaV3ZaTG9mN1NTNDRyTTV2SFlrZnM0dUtpTTJHaGF1aDRzUFllMHE5dGFsZXdrekpNaWNSTHlqVExTdUdBV3h1YVE?oc=5",
+          "date": "2026-05-02T14:12:03.000Z",
+          "source": "Dailyhunt"
+        }
+      ]
+    },
+    "281": {
+      "cachedAt": "2026-05-17T07:03:21.354Z",
+      "query": "\"Turner Road\" Dehradun (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "282": {
+      "cachedAt": "2026-05-17T07:03:21.354Z",
+      "query": "\"Majra\" Dehradun (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "2 held for firing at husband of lawyer",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOT3ljdTQ2Slg3SmJ5ZUVfandvcmJWanB6QjJmeXJ5c2IzLThLOEI5YTY4azFFZ21xYTgtR2Q0eUNOTE40Y1FhY0dLX1JnU2w0anh2TDdUZ0tvZ0xkbC03V3FpQllWY1QtTjltMUQzUk53MWlwQWpnMnJHSE1xQ0trVGRGdjVvNDlRWlJ0Zy1ndFF5WDNRRUlIS3lPaDFwM2hteU9YdjI4N0laa3pZX2VFQ9IBtgFBVV95cUxOOHhXQXhZVGl0ellqc1IyYkNsWF9CX2RLcXY1YmRsbVFKZ19JbnpNWThMYWF6U2xXM2pHeTIwRFJWZ3BSXzZ4QjdQeUhuUGlueXVzMEplYVZ5d1FfZm5RSGlWOUV4bUFxWXgtYjFiX0Q2MGtQc01ha04wcVUtRmx5d2hBeXhvN051S1p0VUh5NjVFNVJZako2RkVmakd0Mkx4WW0wZjdqeTRQdkg0dU1wSS1OWXVJZw?oc=5",
+          "date": "2026-03-04T08:00:00.000Z",
+          "source": "The Times of India"
+        }
+      ]
+    },
+    "283": {
+      "cachedAt": "2026-05-17T07:03:21.354Z",
+      "query": "\"Mohit Nagar\" Dehradun (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "284": {
+      "cachedAt": "2026-05-17T07:03:21.354Z",
+      "query": "\"Shri Dev Suman Nagar\" Dehradun (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "285": {
+      "cachedAt": "2026-05-17T07:03:21.354Z",
+      "query": "\"Yamuna Colony\" Dehradun (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Opposition protests across Uttarakhand over gang rape of class 10 girl, alleges accused’s links to BJP",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPVUh4MjFxMVhtRDJqX1Fabnd0aEdiMnoxcV9Pczlmb3JVUk5wS3ppRFhEaExtUXZvUEVuaEl0M1NtN2NxNmRncHNpUEk5cWVsQlktZVc0WXp4bWxjZk81Nm1TRFY3eVlqQ3hFb0hOVkVleTlvNXVjYnhyanZOOWc0c19CenVxWTJUbklXNm02cXJZUjBzbWRCclJvWGxBUkFaZHBUV2RoOHNrNjk3WlVWVEhhVTdlUWgzYVhKZlBDdnJzakxuamN5LXI3aUJnVTRRb2s2SEFObl9vN3VjX3VUVWxCUGNDQ1RiaFc0VDljYU9kV2tTbmZNOHpaM3NuY0Jq0gGHAkFVX3lxTE5OVU41Rmd2WkdMZThOQlJhNlhLRFBidXZMZHZWaWdqbkVwVjFQVGdXM1dTenFWWmg4QWpRbHN4SC1xZ0x5eG5BaWl6a3BmOXlja2R4THdqSGVwQkRsWE02aEZLc0ttc2NGOFRRUHd3RWlpY2NBUmt5ZDFMV1FhVUFleUsyVzN1QUpNTG1tbTluNWdFSnp6MnhXczhjLUNpbG9PbTZscEd2dGYzMTFQQ0huc0RpTHlaMllhcDYzNVdHcXJWbHBzWjlsOEpUTURqOHhsUUozZ2lPbm95VjRTaVZvLXhlNDc0QzE1LXo5cDhUWWFLekVvNHRVZ2RfTk5ldlhvT1NGM21N?oc=5",
+          "date": "2026-05-08T07:00:00.000Z",
+          "source": "The Hindu"
+        },
+        {
+          "title": "Former BJP official among three accused in shocking Uttarakhand gang-rape",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQb2d4Z0J2d2tBdzVhazNNeWE1RU9DM3ItdXMwYVlKaUdxeXVpN2V0aFhRcmxPZUhNTjNDbEMwTHZ3NUM2aUw3cnpIbTZHcFJLT1o4WkZOWWRoQmlVb1k5d2FYRnY2NW12MjBCVXRWRXA1RGlHZ0t2U05ZbkJVRDFwNnJkUzYtZ1Z0UmI5NEhEdWtHNzJLMTgydlFkSjFrOVdRbkxGdm5vOW5VWWFWejBMZHJpWVc0S2NrMERRdUtuWFJGQdIBzwFBVV95cUxPQ1Z4cmNiVW9pdnNtNzJxYV92U1JsNE0wUE4xT3EzcDdjSHlWSFo3TXR2dTZxRko5c3ZIclRkVkVXZzRkTmlDWXV5eHFLM1dTekhVMWgyWmRlckdXSDBGRVhLMjBVRnVvRFpDa1h3YkpCWUI2ZVZOajIxV0ZNWEdLZ0JSV3pLaEpZZXhnVG5DZ09fU0JTY1VlcldYWUhZWDNSQlE3LW9OV25sUHNOM0t1aWFFWmkzRGozS2RUUmNmZWVxR2JCLTJLaGJ0VWNmUTg?oc=5",
+          "date": "2026-05-07T07:00:00.000Z",
+          "source": "The New Indian Express"
+        },
+        {
+          "title": "Doon Police undertake intensive verification drive under ‘Operation Crackdown’",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPLV9JZ1Q3cWhublBkaG1FeC0yaUJ1eWk0dklSaGpBZkExbHdhN0RKR1ZGcFBLdGRNQVVnbDlvRjNTOXdNblV6akZiUGo1cXdJcWJGQ0VDZjJVdGZlQzAwSnF0dHlUNWViejRwSEpmRDlMaXl6REVZaERMTzRHSVpWNVdjaDhCZkdDS2poallXNjZLbS1vZEo5QzJIeW40eHVHbkE?oc=5",
+          "date": "2026-03-19T07:00:00.000Z",
+          "source": "Garhwal Post"
+        },
+        {
+          "title": "Ankita Bhandari Murder Case: Congress Stages State-Wide Protests In Uttarakhand; Protesters Enter Dehradun DM's Office",
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPUmZhTktEbjlkdnlUMzBXSlBlb0xSNFRTTE1FSXJUX0d3S1BJTVpsV0trb21aSFY3QW9SakxkNUVXUGF2Z0JtLXVFM1c4dDBFeE9XWG5IZk5aUUlzMXlIeEhESllWeWlFR1FUZWlETWdjUF9ZR3pVM1VPWlVnZE8zbjBxa3JYNHc3RFllTk1YQkZ5c0Z5ejh2NWd4RDhwQURiUGc2MmxwZWFkNnFfZ0w3Rzk0Q0ZvNENRSFRscjgzNnFPSmlGcV9UemZwel92Z0FhazNsZTZEZWZLVE85S1NUTzA5b0xlTEdaa0tsSXNOblNQQlYwemNNZU1UNA?oc=5",
+          "date": "2026-01-03T08:00:00.000Z",
+          "source": "The Daily Jagran"
+        }
+      ]
+    },
+    "286": {
+      "cachedAt": "2026-05-17T07:03:21.354Z",
+      "query": "\"Kanwali\" Dehradun (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "287": {
+      "cachedAt": "2026-05-17T07:03:21.354Z",
+      "query": "\"Govind Garh\" Dehradun (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "288": {
+      "cachedAt": "2026-05-17T07:03:21.354Z",
+      "query": "\"Shivaji Marg\" Dehradun (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "289": {
+      "cachedAt": "2026-05-17T07:03:21.354Z",
+      "query": "\"Dronapuri\" Dehradun (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "290": {
+      "cachedAt": "2026-05-17T07:03:21.354Z",
+      "query": "\"Patelnagar West\" Dehradun (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "291": {
+      "cachedAt": "2026-05-17T07:03:21.354Z",
+      "query": "\"Indresh Nagar\" Dehradun (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "292": {
+      "cachedAt": "2026-05-17T07:03:21.354Z",
+      "query": "\"Gandhi Gram\" Dehradun (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Hindus under attack: a weekly roundup of hate crimes, persecution, and discrimination against Hindus",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QMmRVWDkzUkZkMF9TWTdLa1ZkWUNmRkJSS2hiUV9VeTl1b1N1QVBOc0lfMi1ZdjlGMkdzcVBjQ2xOSDVVRmxJR0I4cUMzTmF6bFo1MkxFaFRwSlphWnJaRk1qOUZ5NDBETnJuWHZJZEpJd2JYazE5MUFPT1NBOUU?oc=5",
+          "date": "2026-03-08T08:00:00.000Z",
+          "source": "HinduPost"
+        }
+      ]
+    },
+    "293": {
+      "cachedAt": "2026-05-17T07:03:21.354Z",
+      "query": "\"Bharmpuri\" Dehradun (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "294": {
+      "cachedAt": "2026-05-17T07:03:21.354Z",
+      "query": "\"Patelnagar East\" Dehradun (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "295": {
+      "cachedAt": "2026-05-17T07:03:21.354Z",
+      "query": "\"Lakhibagh\" Dehradun (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "296": {
+      "cachedAt": "2026-05-17T07:03:21.354Z",
+      "query": "\"Deepnagar\" Dehradun (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "297": {
+      "cachedAt": "2026-05-17T07:03:21.354Z",
+      "query": "\"Defence Colony\" Dehradun (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "298": {
+      "cachedAt": "2026-05-17T07:03:21.354Z",
+      "query": "\"Krishan Nagar\" Dehradun (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "299": {
+      "cachedAt": "2026-05-17T07:03:21.354Z",
+      "query": "\"Kaulagarh\" Dehradun (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "300": {
+      "cachedAt": "2026-05-17T07:03:21.354Z",
+      "query": "\"Ballupur\" Dehradun (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "301": {
+      "cachedAt": "2026-05-17T07:03:21.354Z",
+      "query": "\"Khurbura\" Dehradun (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Another Businessman Shot Dead In Dehradun, Second Murder In The City In 48 Hours, Third In 11 Days",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTFVDNDVZSE93d09tck5oXzQyRkdURmpqQnptQUZlUl9GZ09EVDVCdFpUb0ZrbWJKTlJtUjRpZldXcEN6LXI4UUVGTGFLTjBldXdOWUFDbk55OXdxRG41eVhJZm5ydWtRUGUyV2xUc29lSXN5eFF0R0E2Q2I2QUlIRUdwZHFuNlRXclBaSFdQOVRjLXZrWjYxZzBCT1hFVXdObjFnN3BDNmVaUkt3YVR6ZWdwYkIyQzR2VXo2Wi1XdVloWDNkX1BPbHNfVktXYUF4enN4MGZlR2lZbDJNaExhbXVya9IB6AFBVV95cUxOMTYtTW9EYVFvWHdreXE2dzgwVUN2MEZkY0tpUnFDNVpqV3ZSYjlwdUtzZWhCbWs0NlgyN3VEai1pa2ZfNE85MTFfUUdHWmtRTWFTZHNZRUpBSXA5WWZmLTJHNFBaeHRBbktWbnZvd2RDTEJuZjZXdDRsTVVzZjNLOHU0akFrMEVJaWhqRWF3V2h2eTNvTW5OOGtoVngtaGNYQnQ2bng2OHBIOXE4ZEVjMW1uTkdyM2xwdWJTTDhxSlRVT1JlcDNVS0JFMXM5SWh4cTNxWVAzWUhacXhRSFZrM2k3MTA5bVow?oc=5",
+          "date": "2026-02-13T08:00:00.000Z",
+          "source": "Times Now"
+        },
+        {
+          "title": "SP HQ visits crime scene in Dehradun murder case, assures fair probe",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYkMyYjBhMl9EZ2JCd2VBTjZ6c1F4clFoY2R6dkZYOHZ2ZmRxclZYdWNZNEhBSkNlRXVnNVFoaUswVTB4SVk5Um9sYXhrLVloTGJqd0RqSXV1UURTR1hpbEFDMktOTmg5cmwybFZOekN3U2dHcnZWVzJYMDNrd0p0eHRLNXJETEtmSXY0ek1IU3BxQTk3S3c?oc=5",
+          "date": "2026-02-07T08:00:00.000Z",
+          "source": "Garhwal Post"
+        },
+        {
+          "title": "SSP suspends Chowki in-charge over lapses in daylight murder case",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYTFWWFNLZ0doVFpMbWV5VFRCazNqaXJCNUxLN0dtMGVkTEtTZWpmWklqbkNFVGliSkNWTHhuQnJIUXFPLS15REpnQUF2U1Z1U0xJcUNudjZseFBuNjRkS3dfVkJRSHdCYnRLVmowVllGaHo4Ti10QmdnQVhYVnpHVHJDZGFjVzJPRnNJc09adDFDbUE?oc=5",
+          "date": "2026-02-04T08:00:00.000Z",
+          "source": "Garhwal Post"
+        }
+      ]
+    },
+    "302": {
+      "cachedAt": "2026-05-17T07:03:21.354Z",
+      "query": "\"Tilak Road\" Dehradun (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "18 held in high-profile gambling raid in Dehradun",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9zeVJ0emdjbWtnWXRBRWRBLWxhWll1dENwSnVjNWNKbER2X1Z0ZERwZFFPXzhBang5TXJfUjRfUGxvNU9rajFrZm15LUVmNEh1Uy1SSFJWdlpLNUtNYURLQUVMTUZ2VW1qLUNWRUpkVXBVSEdsTlljb0hSa1V0Zw?oc=5",
+          "date": "2026-05-06T15:12:20.000Z",
+          "source": "Pioneer Edge"
+        }
+      ]
+    },
+    "303": {
+      "cachedAt": "2026-05-17T07:03:21.354Z",
+      "query": "\"Kalika Mandir Marg\" Dehradun (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "304": {
+      "cachedAt": "2026-05-17T07:03:21.354Z",
+      "query": "\"Indira Colony\" Dehradun (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Murder executed on Rs 12 lakh contract over property dispute: Ajai Singh",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOME1CZjcwakdBdlA0OEEwaGV5VnBYQ3ppdFd3RW9wNks2ci1RZ0Q5blVkVzJRcXdscTlRY1l2WUdjZU5IQmtIcnJyeEo2NktJcXJsT3Z1d3pKbEZkNk14WmdXTHBOTTQyQm1veFVSVWpvRWFEd0s3emZ0b1lEakIxTnNrT3ExN2JiczVicmNQZlN6LVdOVGhwVUN2QQ?oc=5",
+          "date": "2026-02-12T08:00:00.000Z",
+          "source": "Garhwal Post"
+        },
+        {
+          "title": "Dehradun Murder Sparks Outrage As Mob Attacks Accused During Court Appearance",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUUJ0Z1ZLVjlhbDZRZENFczBYU3hiODZYaFNqdHlVZTdHbU13S3VqOWxQWkNHcTMyUXRWdjFySzB0NVBuMFpTZ1Q3Z2hyYk1FNTV0V1N4bTFQajQ1WklrS05MeVkwckJkSXVjUnBtNU55cGIySTN3T1BiUUdxc09PN01wTi0wUmZXaDZFWl9PemNLc0ozS3ZnRkFpRVFyZk1lVnVxUl85STk5dTdmSEZsalVIUkhGQkduT3puV3IyWHJPM1d6NVHSAcsBQVVfeXFMUGM4SWhtUG9ma0VsUGpfZ1RPazhjU0ZSR2ozdng1Nl85Yjd4bzFhUjBsLTV3S2tFUXhqNEV3UGp4MVRMQmQyUjFrdDNtWnI5ZC1rWXBoRG56Q01MaXVOd1BHaFpoZS1OZTN5UENyUEp0WTQ3a1J5UWNxT0x0dXNKa3lfTEYyVWxBSG1kemZwMFczcVVqS001YzJTSVluLW5fUENEeW43eXdRblhFRjNlTG1waGVqZk52bjZ1TWRVSTlyTEw3eDQ5SC1FdU0?oc=5",
+          "date": "2026-02-04T08:00:00.000Z",
+          "source": "ETV Bharat"
+        }
+      ]
+    },
+    "305": {
+      "cachedAt": "2026-05-17T07:03:21.354Z",
+      "query": "\"Vijay Colony\" Dehradun (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "306": {
+      "cachedAt": "2026-05-17T07:03:21.354Z",
+      "query": "\"Hathi Barkala\" Dehradun (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "307": {
+      "cachedAt": "2026-05-17T07:03:21.354Z",
+      "query": "\"Dobhalwala\" Dehradun (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "308": {
+      "cachedAt": "2026-05-17T07:03:21.354Z",
+      "query": "\"Clock Tower\" Dehradun (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Minor Girl Found Dead In Dehradun’s Vikasnagar, Police Hunt For Missing Cousin",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVjBkQS15dk5hMS1hMnhSY3l2dnd4NEtHcVptRVpnRU92N1g5d2RaRkRSTlNsdXFvU3VscTRzMDBjQm5RUlVTT011TlNyMDJPZkpBNFl3d3pOczg4R20xTmQ3TzdiTENjQnZjUFhDSmpaQW1mbW1QSEp5VmcwQWVZYk51ejljSW1iXzBTaXd1RFZNdmJ0UFdYTUtaVjNweHBHbmVQQldWemF4cGR0Smd2YkRoQnFwMXRYalRvUTFfTV9VQkFkT1lZOTlTM3A1Z9IB0wFBVV95cUxQd1hMREt4cWZvWUEzODlLQVNWRUhkeDZMSWVZYU90MHN5Rkt0cjdXWE1aNkt1a1NNMnBqU3Z1TERqd2NCcUMtWXVtQnNBNk1BcTZPdmM5cndrUU1PMnlxdXNDVmhoUWhCTTJ6bko0MDBmU05GUDJPRTlSTjVLc3hxTzBiazdqdTZqZ1Y2emNUa3QySVpvcWNVVE93ejZNNmRHcXMxcTc3QnBvZFdnR0FtdDF0ZTJIX3o4RDlOUU1OcnB2ZDR6ZW0yZlBFeXdNY21za1hF?oc=5",
+          "date": "2026-01-29T08:00:00.000Z",
+          "source": "ETV Bharat"
+        }
+      ]
+    },
+    "309": {
+      "cachedAt": "2026-05-17T07:03:21.354Z",
+      "query": "\"Race Course North\" Dehradun (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "310": {
+      "cachedAt": "2026-05-17T07:03:21.354Z",
+      "query": "\"MKP\" Dehradun (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Uttarakhand STF Arrests Gang Members Involved in SSC MTS Exam Cheating",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQkFaWFhBaUNEeS1uVEk4a3BEX0JRc3lUT09BbUFZakFEcEo3TlkwWDRRVFBrWGhtMVQ5dGhsVXBEX2QyYzVhWHVEZVdWMHowb3d2b2dUV2EwMEhtS2VhenZrYXprLVRQQWZycXh1OG40aUdRZGVFVkF2SFloUE9mc003YzRzZE1RZXdSamIwbFB0Q2M4cFh1WTU0T0w?oc=5",
+          "date": "2026-02-15T08:00:00.000Z",
+          "source": "Oneindia"
+        },
+        {
+          "title": "Two arrested as Uttarakhand STF busts high-tech cheating racket during SSC exam in Dehradun",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNExBMDVVVjhHTzNVLVdTS3BnS2lKVC1uMjkwNVdxLWN4ZU9NQV9NSmhCU0VjSjVxaFM3Y25RYWgxckxLMS1ITXZpaGNXb1hSM09NeExDYmZYdUc3VFdJYXhnd3Zfa3FWS2hDdHR1V0pPSkVuR1ZkM0JseC1CNkFUMkJKUWVmdjN5ejNLRnBsRzAwT2lnenE2dkYzSkRnbEpQUTR1N19sZzY1NmdDVUhSd040VkotR0d5blUzRnI2ZFZHSWlfakFqaE5rWlJIU25fd1hvbHFPamhGbnEzY3FfdlZjeEh2bllYUXhpTEd4eFDSAecBQVVfeXFMTTBQOVcya0gxdmtqVTN3Z1A3QjVUek9mTzJtVGp6NWtaaE00WnZYNmxPbW1ib3ZjdGJSNzFqZWllQjhZZWxsZGF2cFJRTTZCRTJxRjFyTzdkUjAzdXRCcTdUTktvOGoycmdGNFFhM1o5dFc2NEtNZ3RXNTloNTB6N08tNlV5TldGd0Jod2NLVG1Xa3VGVDBiYy1fbDlsOHRfb0UyTlNIZlhmSC1kTU9SZmwyLUJ5ZnJnZ1pnZmwwU2FYWndVa1pyaUVYcG0ySi1LWTVuQkU0VTQwOHQ5TzhFR2VqaDF6UDJF?oc=5",
+          "date": "2026-02-14T08:00:00.000Z",
+          "source": "The New Indian Express"
+        },
+        {
+          "title": "STF busts online SSC exam cheating racket during raid",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVXVyVTVUUm9FNkhoWmFxUlVsUS16YTlld1dCelNDMzYtMGRlTUJTd2dYcDV0d2M2RW1xMm9FZkI5Nm84NW9fMDhyUkNfSFJpSlNmNTU4MnIxSWJoMVhsNkRVUkE0Q0U3YmtaQWFodGxUS3BMU3dwZTJEbnFpN3lad2MwNA?oc=5",
+          "date": "2026-02-14T08:00:00.000Z",
+          "source": "Pioneer Edge"
+        }
+      ]
+    },
+    "311": {
+      "cachedAt": "2026-05-17T07:03:21.354Z",
+      "query": "\"Bakralwala\" Dehradun (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "312": {
+      "cachedAt": "2026-05-17T07:03:21.354Z",
+      "query": "\"Chhukhuwala\" Dehradun (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "313": {
+      "cachedAt": "2026-05-17T07:03:21.354Z",
+      "query": "\"Dalanwala North\" Dehradun (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "314": {
+      "cachedAt": "2026-05-17T07:03:21.354Z",
+      "query": "\"Aryanagar\" Dehradun (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "315": {
+      "cachedAt": "2026-05-17T07:03:21.354Z",
+      "query": "\"Rest Camp\" Dehradun (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "316": {
+      "cachedAt": "2026-05-17T07:03:21.354Z",
+      "query": "\"Dalanwala South\" Dehradun (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "317": {
+      "cachedAt": "2026-05-17T07:03:21.354Z",
+      "query": "\"Dalanwala East\" Dehradun (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "318": {
+      "cachedAt": "2026-05-17T07:03:21.354Z",
+      "query": "\"Ajabpur\" Dehradun (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Dehradun Retirees Succumb To Cyber Crime, Lose Rs 1.2 Crore In Total",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWEFRNmFDd0M0WmY5TjBPTnBURGxNQ2RYU1hnQTd3UEdCX0ViV1N2dnZKWU5wVmM0V3RadlhzYS01NXFSQllwMzVoSnhSakZjS0ZtUkNOVEhlR1U5V2VnbENScVJZTmVyTjRiY2txZDJGa1pjeWtXc0hlanYtMTZjZk1SS2lVWW4zclJKTFBhX285bDJjWllMVWcxSUh1S21rMGZ1UzBXMzBZdHR2TjV3UVJPdWZib1ppQmlya2p4VdIBxAFBVV95cUxNbXVLNVlaUFBvSkF5SGhhYjJuRUQ0SHN2TmY1RFAtYS1NRF9kVFVhT3JFWjA1c1JaZEFuTDV2R19MdGFTZnJGaTZZYlR0MktHLUt1ZHVvY01wNGVfajhZRHcyR2libmhGdVhoMGlEaDVJMGhOUkVCV1F4aHJ3SDVoQklhQlVQLXAxX1VjWjZnbTlRbk11MngxREhoanZrUEtVdHJpWjltQV81ZVhuVjFFR2l2elVQTVl5Y2xZZG1BcmwyS1M0?oc=5",
+          "date": "2026-02-01T08:00:00.000Z",
+          "source": "ETV Bharat"
+        }
+      ]
+    },
+    "319": {
+      "cachedAt": "2026-05-17T07:03:21.354Z",
+      "query": "\"Mata Mandir Road\" Dehradun (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "320": {
+      "cachedAt": "2026-05-17T07:03:21.354Z",
+      "query": "\"Dharmpur\" Dehradun (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "321": {
+      "cachedAt": "2026-05-17T07:03:21.354Z",
+      "query": "\"Nehru Colony\" Dehradun (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Swift action by Doon Police led to arrests in murder case: Dobhal",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZTMxelZpQkJyWjd6ajhXaEI3QldYWXRIQ2RKNWItOEZNck8wRVNQUWl4eEFEMzVPT00ybUJDQUJGbTlWcE5aRjIxd3daMUQ0VTJiV0F0a1VmTlN0QnlLZjgxWjRLUkszVzgwNHQyTkdPd0piTWhrbk5zRm16bVhpV09hMUZfYURob3Z6c1NIbGx1UQ?oc=5",
+          "date": "2026-02-23T08:00:00.000Z",
+          "source": "Garhwal Post"
+        },
+        {
+          "title": "Cybercrime Cases Rise Across Uttarakhand; AI Voice Cloning, Digital Arrest Scams Are New Ways For Fraudsters",
+          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQYjlYTkZsNE0ydVpNa05IamxUS3dCQU84ZXVCTGphT3F0T1RycWhOc2wzNW1pVnRzejhZeVhSbEhPRWUtV3p4VnhOZzFIcHFUQ01YX3RiM05UZHg0cVJTZER5Vl82SGhiMWpWZ2RMeTZ4WFVWcU9uMHBwY3lSQnB2N1FzZmFDZm9aWF9kRlhnWXB4N2Z4ckUzYU4wMkduY2RMT1pTLXJuT082MGVUcGRtLWREa3gteWRZSDZMVEJERkROLUJVSXpJSzc2UFJQeFpVZ3QxVVZzYUNMNDJvUnQ0Z2gxMl90THRsQzIySGVrVkNNZFk0WHZuX9IB_gFBVV95cUxOcHdyQnIwVmVoTVltdm9rTGJacXdTX1hvU21ESlFZczh2LUxURW9KcXBaSHh6c1Q0MWJnT3NRNmZncXpCQWFvanBtcjRTZ21QUm5uZFZsY21JZlFLWVU5Slp4OUUxY3ZPVmg3Z2hKZkFRYlZMTTJHTUFZbWtCcGJxdmZxLVVKVWx2M3hJVkNXX2g1bWl4aW5kUnJfNjJxbDJaVy1tU2RSMm5nTzdoQTlvUmtBRS1BRnlYcE5JSVpWUmRvZ1pSSlVnSXE3c0poeGlmRUNvZDdPc0VjMWxUOHlnd2c5MkpHem9MTVQ4T3NPQUJLQlhTTkV1elplMldoZw?oc=5",
+          "date": "2026-01-10T08:00:00.000Z",
+          "source": "ETV Bharat"
+        },
+        {
+          "title": "Dehradun Cyber Fraud: Lakhs Stolen via Fake RTO Challan Link in Rapid Heist",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcmctNWU2YlhZUHBSa3ctRHJqU2RsSzJDeW0tdTl3Z3M3ZGI3bEZiYUtFcDI5bUhhX1BIWkh3cGZhRFJGbVVsNGdzMlRNNkpWNjBJcGFqY3U2MlR1ODMxRGNNdlBBdkJLcV9TOUVzSWRtVUFjS0M5N0JxUVVDaE1lTEhWTG8xa3M2ZXNXZkpBZkZUYlN1Q3Rv?oc=5",
+          "date": "2026-01-08T08:00:00.000Z",
+          "source": "The420.in"
+        },
+        {
+          "title": "HC stays arrest of ex-MLA Suresh Rathore in two cases",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNE5MUmlIaXUwd1F4U05zdEduQTZkNkd2Q0dkTFpRcTJrRTY3dFdmU2tmTzJaMm9Dd191YzlsM2pyaGhBRkFkaFhBeFRvSnB4aXc2c1ZqeDc2cnNnaHpyLTRVQkNlaUZpTm9KSzhILWM5V2xMSFNEUXFIeGhsMXVCVzNVLWJKejkzZXdHMDRfU21NNDljYXdnTUNRdHBZMW1tcjB1QnQ5bVJwX0lEWVdGTk1CLVQ0T2ZWSlJYTUp0d0drVno4WjBKOdIBzgFBVV95cUxOOHVwQXhwSkRSTG5RSVBvOE1ScjJSWHBnVm4yUzNVbXdyeEREemdfNlVTaDhaVDJTZ1FMaFVBekh4REU0REczbXRnQWZDLXNBRVVCM1RISmRaM0tDRUJHWXZPYWJUQ2xaSms2Tm9jQWp1Yl9naDg3dHlkbGlDdTd2bFVmVWtoVEZFQ053NXlxQmgwUlpBUHoxV1pVeHU0TVNqVmswejdGdUNDNVY0dzZoNnJtQkU1QzVydF82Nm1ENjJhSnRKUGNPZmJYOXRJQQ?oc=5",
+          "date": "2026-01-07T08:00:00.000Z",
+          "source": "The Times of India"
+        }
+      ]
+    },
+    "322": {
+      "cachedAt": "2026-05-17T07:03:21.354Z",
+      "query": "\"Adhoiwala South\" Dehradun (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "323": {
+      "cachedAt": "2026-05-17T07:03:21.354Z",
+      "query": "\"Bhagat Singh Colony\" Dehradun (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "324": {
+      "cachedAt": "2026-05-17T07:03:21.354Z",
+      "query": "\"Rajeev Nagar\" Dehradun (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "325": {
+      "cachedAt": "2026-05-17T07:03:21.354Z",
+      "query": "\"Adhoiwala North\" Dehradun (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "326": {
+      "cachedAt": "2026-05-17T07:03:21.354Z",
+      "query": "\"Jakhan\" Dehradun (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Conman posing as Rahul Gandhi’s PA dupes Uttarakhand leaders of lakhs in multi-state racket; kingpin arrested",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOS0F0YUJsUjVmNmEwSlNHd2NSN3BIbnVYMGp1Wi1KQ19pLXNGTHFSUWkzbUhwcTRQd3RBTU1JbVVLTjRHdXc5UzY2TUV3d0J4UW9aaWRfRHNYcGJyWHlJSFhNMlh2dGc1TGh5UmJ1dExOZE1lUC1fR2xrMi1iRHJqVUVzMngtMEhPQ2Q1aDFYZkxCcWtRTzZkOEZyVzZpaUgxYkFXaUpXMFZPM3dtLVpOOFdqUDhQQmxzYUlqUmsyV0ZnZEk1WWtmbU1tSkhHMUt2WHlGVGRVNVQ4aHZlOG1ZSjFVcnRuYzJQOTZxaDBsWjTSAf4BQVVfeXFMTUViNEl6SjRzOW5nRjlDbzE0c09odTZxLU5oOTBLYVBLQ3JRdm5icVplRXN2M3ZRVElUS3dsOEh4LUJfV1FZRzUzaV9SbHdMTEY0X2lSaU04cHpGRm92S0VmeWtiZHdpZkhXWklPN05IRElLVzZqTkFESzdBdktEaE1SazVyZ29KeUh4Q2x2ZUJ2SWdfaGE1V01xTXVMeE40V1JGVnpuMS01QXJ3eUNSVWxrTEFERHBzREF0aVdrY1ZtZl9PQnNMRjBjbGhpR0RIZlRMZHJnVmNMRkpEakNTdVFCU3ZuMmtfM19HY0xRZU5qQy11MGxMMWpCSURGMXc?oc=5",
+          "date": "2026-05-05T07:00:00.000Z",
+          "source": "The New Indian Express"
+        },
+        {
+          "title": "Dehradun: Two accused arrested in journalist Pankaj Mishra's death case, confirms SSP",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcEpFSHhhZm15M1JrRW1YZ25mRldMaFdQSVRTYzZ4R3FVV1A2dmFEWTZ4VzVFbzc2M0piNHJyeFo1RktjUmFHV1VhUndVcTk4NFBiWUFaOFhWV19jdUpOV2VjanMxOTNoVEdEMjRrWldnNkZNbS1jZ3pUTzJnU0V0dnhWYmZaUmtkSENmT2U4Nkl5T2hMODMxTUEwQ25acEVhQUFfYlFGOUxLcTRQWUdBTy1acEY4cV95eWtPRkc5Tng4bHZYaF90VVRHRmtVWGE3N0hxVXNZVzl4Z3lTOV9J?oc=5",
+          "date": "2025-12-18T08:00:00.000Z",
+          "source": "ANI News"
+        },
+        {
+          "title": "2 arrested for killing Doon journalist after brutal assault",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNjgzaEtvbDRTZmhNQUIzRDhST0dnVF9mQV9Ka3dqSmVDUzNWRVJ5UDJNVzh1Wms5bHFDbmxPWVRBT015WHRKQmMxajFqVUo5WDNWbzY1QUZZUHhBdEtUbEtjSHY1UkZVYmxHWmYxOVU1ckhzVVdYSjRzbHpLa0dwcFNLc3g3MXJJaHpvRjRpRXRnMEVBNmhPRXN1MjBzV0N1VXpmZXJueGxLSUJCTzBCY2x0OUI4TjdTb2FyMWc5ZFBKUzhWR0E1Z2pBejF2N3I50gHWAUFVX3lxTE5aaTdLdlZxN04xbWdnVGlSWkdLWTBuTlY1dTZ5cGdiYUJjVDRfTzZXNHZaRXZLUk1fMzFuSHh3WkdpcW1KLVZ1WnVKVFZ5dXBYelNZTWlHaDlLQjFzYjRidU5ISmp2cV9Mb25UR2hSRVlxaWh3SmFIQzlEQnVyS3M0eTIzR0RoZ192RkdVWVhmRnFuNFVwOUVDSFR3cDV1aFVIcC04X2lLSU9yaEdFSkFXSk50TXJxRjFTRGVNWlRNN25JRkFYSGJNLUJ6Q1B6M2xLUDhKMGc?oc=5",
+          "date": "2025-12-18T08:00:00.000Z",
+          "source": "The Times of India"
+        }
+      ]
+    },
+    "327": {
+      "cachedAt": "2026-05-17T07:03:21.354Z",
+      "query": "\"Sahastradhara\" Dehradun (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Jamshedpur’s Vikram Sharma Murder: Multi-State Network Exposed",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Ub1ViMWRsdGxjbGNvTnA1d0ZpZVIyZG9tZ2d3NzFVankxa1BjbFBNSkdlcnlFcHpMNFM3X3FKaHZLVU01RmhMcEJHZDJ3MnRpbTNqdllXUFQzR0w5MFBSVWhHd21FWUJpUkFYd3Qyaw?oc=5",
+          "date": "2026-02-24T08:00:00.000Z",
+          "source": "The Avenue Mail"
+        },
+        {
+          "title": "Dehradun Police Arrest Two For Gangster Vikram Sharma’s Murder",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQLVh4eGtVZjhhemtObkNRbHgtLTdfeGUyVU41QmE3YXVra29GeEtfSUswVExEVWh1cjlKa3JPSWNnLUJpTmRUcHdhZXZ2SV9MUHA5OUZqaHFNMjhGcEFUQVN3NE1vZHVLOUhUd2dIX0NoU0VkTlRmTDl4Nm9vcGN3Nk5icGR5WjZFbndTRXBDcW9CQ2ozd0Z1U0tlUWw4cTRzd0NTVG11SHNiakx2dENSNVZXSdIBuAFBVV95cUxPTjRLZUw1X2d2ZWlGTWtPTEdjaktmMHkzcVQ0MEFzVHpLV29uRDFKZFNOM2pGMUlNSnlaWlRIVHR0WTEwTl9PcEQwcG9aY2JJc2tfUUtrcHU0UmZkMlJBejVhSTFFWkNxOE5JOVhYczVnTHpkNVJMVlZsS05HN0xETEhjTDVYcHhtcUNhVFlKZTJZc3JldkJuUk5SUU1EN2xZanlQTnJlcVhWelNrUnVOYkFZMnlLNkQ5?oc=5",
+          "date": "2026-02-23T08:00:00.000Z",
+          "source": "ETV Bharat"
+        },
+        {
+          "title": "Broad daylight killing in Dehradun sparks major police crackdown",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdWRuMGlFOWJhMkxFd294bXFKN0dNTjJrV3BzaVRSZFE3TUxoVlBXN1EzVEFveDRYTzVtWFNfZDU3VkNSRGliTHNuQVpWYlZod0J5Y0lCdUhUUlBLYnVsTy1ralNxUVh3cVJwanZGT2dyc1U2U3RiSzZ1emUxNm1tZmFIQW9qN09NNTNnVjE5RUNVT19IVG8xdzdSdkxjS1N6bU1VR2dubnFIUEZkSy03bUxxOEZrM3fSAcQBQVVfeXFMTjg5eHd3ZmxxWUh4R3UtVmVGZWFONmJTMjd6YTBrb3ZXOGN0Z3dyUWtqQkFYRVdmemlmdFNIcjZKbF9QRGc3VHplRC1DVWwyU29kSlNPcXNsNWx5dFJrRFJfOWhSUHZrd0xkalJ3eXhyRkl3Y2l4VVp2Y3J1Q0NESk5JVVphVGNHdU1YS0JIWmlGWWRGYzdTajlVWTVpaXNsTlBpX2s3LXh5b1d0NDdQUUNSTk53Z29xSjhqdDdlVG5NMWtjbw?oc=5",
+          "date": "2026-02-13T08:00:00.000Z",
+          "source": "The New Indian Express"
+        }
+      ]
+    },
+    "328": {
+      "cachedAt": "2026-05-17T07:03:21.354Z",
+      "query": "\"Rajpur\" Dehradun (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Cops raid Dehradun bar operating beyond hours, find senior IPS officer present",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQNGUwY0hlTTZjeDFPa1ZlRDZrYzhqY20xUE5YdG1nb3ZGcDRVWVZjd2w0S1h6Mm5pYVpiekxoNWVUbHZFUFB5T2FPalRFYWY4a2FKRWNKdlVYMHFkbnhJT085WGZ1Njhma2FXMHBfeVhaenJOUS1Rd01udXFPMEpVTDBYQTJOYWZTT3phXzhqSTBZcUpKTTBjQ3NnRXFWaHNQcEh5bDMxcXZ1M3Exa3pDN3pCRlZ4TEU0Mi12My1CUDdwOHRUQVBtenBYVWRiZFFCYlBLUXFTUGtHV3NnbnUwc2ZIQjhJWjI4Z0NWS3ROVmNhMnNNWFHSAfsBQVVfeXFMT1JpWWVnbjhiS2lsQWQ3ZXhaMm9waEF2WEI4MUhia3FVOXVtRmNlTlQ3WnZ1ZElFSmtjM21hSU82clpqaFducEttQU5lQ29MRklYWVU3YkZKZW9XUFBrd2s2UkxYZnZsNXg3Q1dUYTJjUXZWbkpsekpodFBjQ2NMZzUxdE9sNzZNWTlTbThDREFacFRpOHRFVHFFVXVLVktjc0ZNT3FXYlBlbld6VjVGVm1NWXQtV2FvZ1lmSkdxWnJQWmRiMnN2MW5mVF8wenNnQ1lUN3R6WGtpSWZ0NEV3NUs5VjdWRjN3ZTF5eUpweDZwWU45bGhxcWEwYTg?oc=5",
+          "date": "2026-04-28T07:00:00.000Z",
+          "source": "India Today"
+        },
+        {
+          "title": "Residents Flag Safety Issues As Crime and Nightlife Grow In Dehradun",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQmp3ZkNFMzdqbDRlLTFDcnZZWTZUYmlEODlYNVRzeWMxRmR5WXAzVE9ESlppZTVDSWNPdEpjY1F4TDE4aWFLNE9TMzBYalRxOGlCald5VzVoaS1nTlBuUzd4cXN6dUx1WWNzRnpzU3lzbG1kdjFtLXlnZFlaOUQySXhQQ05kYVktVUprTldpMjNqUVVEa3piMlhtVEFQM0JNdHhDTk9nUWU4b2V1cEl2eGc3dDRJbFFXdVHSAb8BQVVfeXFMT1BGZjRoMTQ0Qzgyand2WFduLV9UZlVWWHlTaU1KVlk2V0NidWhXYzI0MWZrYVljNE5ITXlRWFBNbFJ1YUV1akkyamI4TW5CdlNpY1JaT3NWcHRGLXpWYUpTajRJR0lmT1JPYlRUb3J1NzNVZVhhTmxLazVDUHR5X21EbE56VHF0eURvbHEyX2lvam9LbUQyekplS0MtR3U1eEM3UXlPcVNYTlJLck54M2lXM0lqYlB5UVRrbmJaUEk?oc=5",
+          "date": "2026-04-04T07:00:00.000Z",
+          "source": "ETV Bharat"
+        },
+        {
+          "title": "Peaceful city Dehradun turns crime hotspot: Retired Brigadier’s murder exposes rising gun violence, target killings & crime networks",
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQVGVtRkZQUnZPYmVZNzdwS3RzWmxlM3VrR2RlbTc0YzJkVkdKSTNKVFoxX3RHWHFQOVg0WkplMFg5VEVYRGh6MTYwUEN1N0ZUT3BQN0xPbU9kVXNid0ZmZFhjM2FfamNxUWlQRjlwdmZWT2x3b0cwRG5HaTdEU0lTN291Q2lvMTZ6Q0JHcVhDNEF5dFNqUGhxQXg3em5XLS1lWTZ2eU4zbkYtbjZRVENpeUdzaDhXdGtKZVFoejNVRlJHZjVtWElqcTAyU1NXWjF3cnJvWGxlTzdVQkUtZ0t3Y0dDOWRWTGNqazk5eVN3WmV2czdFVG1vV2lPZ9IBgAJBVV95cUxNcEZPS1Z2RVMwOFlTdlA0RzlQeTlrV1BTTXYtT2drdDMxWlJjTm1SREhHS05tM2RJVXRDWjAyRFd0MU5rOURJTEo3T2hvV2NTLWZsX0xmNXQyMnFfUGowbEVCYlhaTVNuRzNQTEE4RDEtYm0yVHRuZ1pHSXZnNXNZRkE1cnFFQ3l0STJ5X01jYzh2VVdGNFJrckEya3h4YlQ5VmNJVTB4UlFpdEczT3poNTlscENGa0dmSTZPbnpUMjVOcC1sRTNYU2hhdnlHa1M5YmsyeTZaNlVZQTlKN1FFeDhQbGR0U2F0UlRCQkJobmtPMG5jN2pQMDh2LWgyRUpt?oc=5",
+          "date": "2026-04-01T07:00:00.000Z",
+          "source": "News9live"
+        },
+        {
+          "title": "Gangster Vikram Sharma Murder: Uttarakhand Police Double Reward For Six Absconding Accused",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYmdwQUlpdkJsenItZjJWem45bFplbWRJd2FhZWpfMnJKLTRibFIzbmFWMnJrc0F3NnhQQlZRMzNwbm5LbzNaUXNGdjhwMFpkQU4wWXBwcEZUQXNHbnpfYjA1dnZBc3dlTnJVQjMyU051SFNGQmgyWUExWjhQRXUyRGc3d05PbjhEMUZFckhuVlZpelB2dnFQMEZHQVJDa1dHRXFzY3l0cXd4RTZpNDh1RVZUSGpuRS1iYXdaS3hLeS1KZVhYTktCZHd5WnVWVzZ6OVo1M1FPc9IB3AFBVV95cUxOT2tNQ0VXclppVFlueXlKWE1hb1BlQVczTnhpejJabXhKdF9Tc1dpMUJrbWxHekJ1WXhXRDFIMU8ySWZQMk9Gb01YUVR6b1U4Vk9GWTZRQVYtbzF2V3lKWjJaUWcyWUFOZHZ5TlVDZXhLVGRwS29CdW9IY09UMTdlOG5Kd20xMUloNGZBNU1LelFmYlBNeUdBcUMzbGt1cXhYc0ZHbVVOUnYtSlRBODJEb3hNWmpObXg0TE5wbDNTSVI5cXpJUXRYWVpmRWpBb1hibVJTSDZoLU9pcjBp?oc=5",
+          "date": "2026-03-18T07:00:00.000Z",
+          "source": "ETV Bharat"
+        }
+      ]
+    },
+    "329": {
+      "cachedAt": "2026-05-17T07:03:21.354Z",
+      "query": "\"Reetha Mandi\" Dehradun (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "330": {
+      "cachedAt": "2026-05-17T07:03:21.354Z",
+      "query": "\"D L Road\" Dehradun (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "331": {
+      "cachedAt": "2026-05-17T07:03:21.354Z",
+      "query": "\"Dhamawala\" Dehradun (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "332": {
+      "cachedAt": "2026-05-17T07:03:21.354Z",
+      "query": "\"Jhanda Mohhala\" Dehradun (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "333": {
+      "cachedAt": "2026-05-17T07:03:21.354Z",
+      "query": "\"Kargi\" Dehradun (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "18 held in high-profile gambling raid in Dehradun",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9zeVJ0emdjbWtnWXRBRWRBLWxhWll1dENwSnVjNWNKbER2X1Z0ZERwZFFPXzhBang5TXJfUjRfUGxvNU9rajFrZm15LUVmNEh1Uy1SSFJWdlpLNUtNYURLQUVMTUZ2VW1qLUNWRUpkVXBVSEdsTlljb0hSa1V0Zw?oc=5",
+          "date": "2026-05-06T15:12:20.000Z",
+          "source": "Pioneer Edge"
+        }
+      ]
+    },
+    "334": {
+      "cachedAt": "2026-05-17T07:03:21.354Z",
+      "query": "\"Race Course South\" Dehradun (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "335": {
+      "cachedAt": "2026-05-17T07:03:21.354Z",
+      "query": "\"Karanpur\" Dehradun (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "18 held in high-profile gambling raid in Dehradun",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9zeVJ0emdjbWtnWXRBRWRBLWxhWll1dENwSnVjNWNKbER2X1Z0ZERwZFFPXzhBang5TXJfUjRfUGxvNU9rajFrZm15LUVmNEh1Uy1SSFJWdlpLNUtNYURLQUVMTUZ2VW1qLUNWRUpkVXBVSEdsTlljb0hSa1V0Zw?oc=5",
+          "date": "2026-05-06T15:12:20.000Z",
+          "source": "Pioneer Edge"
+        },
+        {
+          "title": "Pervert Delivery Man Arrested After Viral Video Shows Him Jerking While Following Girl In Dehradun",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdXNfOGR1R3VPaGF4R3BBdWZ3b0l0Wlc5M0xwOXNBVkszNUFMUEpYVHR4N2NWalEyNUJCNWRKQ3NUajRNamVVYkUtSmhmOEN0dnBWMWVGZ3UwNTZLN1VUcm9ZNkFHV195a0xvX2l1QnJTeVBXTVlwY3NQeUljWUhZWTJtd2x0UWFDeWg4X2lNWVh6b0VydGhILTVaZmV3dFp0LWdqcWN1ZGpzZy1CTmdOQkVLQ0UtVWhmLVZiOU4wcGVHRFhHeFVmbFVmQVNrNHJpaVHSAdcBQVVfeXFMTWpvLVpILWJLWGFWVmtabXRlZkUxMFZzT04xOXJkdG80ZDh6Q200SWdTR0VSSmN2eDVXRDRYZXlyZnlWRU5wUWw1aG9QSGRvNFJNSkxyUTZLRlk2VndoRWhBRU1xTURBSS1tbGZMbnNTWFROMUgzcUVFWDZ4NkFLZVJzMkxkMlFvNmdIS3lTZDV4ZXAtWHRpdkJFd3BmaDVQTW5BTVhkYkxLWE5kdVl0bVdpZDcxMjZTbDBGWUFoQmxZS1NHYzQxdkRaR1JsaGRXQktNZ2ZDODQ?oc=5",
+          "date": "2026-01-22T08:00:00.000Z",
+          "source": "Free Press Journal"
+        }
+      ]
+    },
+    "336": {
+      "cachedAt": "2026-05-17T07:03:21.354Z",
+      "query": "\"Rispana\" Dehradun (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    }
+  },
+  "notes": "Per-ward crime-related news from Google News RSS. Queried per the ward's distinctive neighbourhood name + Dehradun + crime keywords. Items are filtered to last 18 months and to titles containing at least one crime/police/arrest term. Up to 4 per ward."
 }

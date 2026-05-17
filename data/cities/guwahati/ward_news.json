@@ -1,5 +1,1590 @@
 {
   "source": "https://news.google.com/rss/search",
-  "scrapedAt": null,
-  "wards": {}
+  "scrapedAt": "2026-05-17T07:12:50.880Z",
+  "wards": {
+    "Ward-1": {
+      "cachedAt": "2026-05-17T07:11:46.794Z",
+      "query": "\"Ward-1\" Guwahati (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Killer teacher was hiding in disguise across states: Money ran out after 3 months, arrested due to one mist...",
+          "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNTnRqR1dPb1JoblFLS3N0eUpCVXEtc0pqdjNHY2RpUTA2dGpqeFFZQkI3d1BSUEpnaU1ZR056ZEJjVWtXblFPUnhXeWpyYzR0aEhmMi1hcnBrLThzRlAxeUpxNnhpaTVmeE5zM3RPX3B0SEY0YkRLdjV3YVJaYmpqYjNJb3ZMV2dFUndnWEluNmpoUVQyMTRldzZkekQxU0J0Z1NmcXczeTB4dXdpYU15XzQ2UU5FNWtDV0piZXBSVlNReEJkY29TMTVXU1pLYlhyN2drakN3WGFORlZEZlBuV1BqVnNuQmNraUtqWFE0WWJzTjc3TzdObE5VSzdzR0lmQ09HX2xadm9NeHpyTjNrdy1aS3lRWjA3U0hNcndQMThqVXZhd0JqSzQyUjAtSExTeDI40gG4AkFVX3lxTE44alBLY01USGNJU2pWdTNQaTJhWmJDOWFDTDk5Z0pOdXdVd1Q3TS1mOHhYYWNrRFc0SzhObjJEQjAtOHhhRVMzUExyZFNNdWtjTEdJV1JRRVpJN0R3LUx3RkFPSmQyZzdtYjJUajEtRDlHS0ItZldUSVoxaExRdFc1TlhqSXoxemJ5YVRTczB2TDJ6YXBfaWl2d1NtOW1EWjVlUllkd3J0VkxBd1BGVTB0Z2VYdmFWNF80TnR6TzZSYVZHZ1hYREZITEtSMVlnODZESWxTc29QWEx0eXRZNGVJU0dDSldNc2ZKTnZtN1phZTZvZXNuREZsVDNnLTNOcmwtWHlYQmIybzNFVG1rZ21ybHR0Sm5QQTl4c2ljaFJrd2hUanFNdXJhNTBTaHdDX2lGOVprSmZ0Nw?oc=5",
+          "date": "2025-12-04T08:00:00.000Z",
+          "source": "Bhaskar English"
+        }
+      ]
+    },
+    "Ward-2": {
+      "cachedAt": "2026-05-17T07:11:46.794Z",
+      "query": "\"Ward-2\" Guwahati (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward-3": {
+      "cachedAt": "2026-05-17T07:11:46.794Z",
+      "query": "\"Ward-3\" Guwahati (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward-5": {
+      "cachedAt": "2026-05-17T07:11:46.794Z",
+      "query": "\"Ward-5\" Guwahati (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward-6": {
+      "cachedAt": "2026-05-17T07:11:46.794Z",
+      "query": "\"Ward-6\" Guwahati (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward-4": {
+      "cachedAt": "2026-05-17T07:11:46.794Z",
+      "query": "\"Ward-4\" Guwahati (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward-7": {
+      "cachedAt": "2026-05-17T07:11:46.794Z",
+      "query": "\"Ward-7\" Guwahati (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Bilasipara Gang Rape: 15-years-old minor Hindu girl raped by Islamist Moynal Haque and three others in Assam",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbnB5ZWZicDYtcVhaUlhXZ3o1ajRYdkNTOGRCSmp5V29lZTNSQjFaQnFNVXRDSjMxVU1iOUxBTlBQY2lNMEYzNGlUdnplOFFVVWNMZVdaQnIwYlIwVllZb2sxUVdHckFjb0RENXM1OVdFMUkwOG1ZcVhQSHRhQVNDWlBNRG1sSmxZdzZ6X0lYUEJFa3ZhVXBGOUtZU2kwUlpaN2o3dlFVOHY3R1FiSWtnR2xic05aZzViYUJ4ZmMyLW4zNVBzVzFIdVhVeEExN01hd0o0SnhiVVR0VjRlUGlGNdIB5gFBVV95cUxOV2hJa1BhWTZHMTlFM0t6Y3UzMm1hd0hwcjFmazNpQ0dsOWxIZzZERjU0c0ZMTV9TaDVyRkY1MHNwWVdqSWEzX1pQbUNRWldITXRrV0xhb05XallibWUyUzF4R2VyYmNMaWxjX2ROYzhRUC04aDFiakJpNG56ZXZHU08wRGQtUWs1aUg2MnVxT0xJOVY5eTJqNFRhdi1UUVFEVU1EMjd6WXU0eXpTQ1MyQXdqNmEyWnhIYTQ3N01RSnJkWXlLWjVTMGU2am5xSFZYblFhdGhScU9KUlkzUTdGZ3pKdDM3Zw?oc=5",
+          "date": "2025-12-05T08:00:00.000Z",
+          "source": "VSK Telangana"
+        }
+      ]
+    },
+    "Ward-8": {
+      "cachedAt": "2026-05-17T07:11:46.794Z",
+      "query": "\"Ward-8\" Guwahati (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward-36": {
+      "cachedAt": "2026-05-17T07:11:46.794Z",
+      "query": "\"-36\" Guwahati (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Three Arrested in Guwahati, Gold and Silver Jewellery Recovered",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdjFfS2RQZ1E1MTUyNThUSUlhZHd1VUlPMWNNTXBzNjVGZEVnR1Aybzk0M0xIRVJPLXFPQnMzMy1BYXFYazhVc3JHaEp1M0ZtQUJtRWRmdTdUZlF4bzIwaHduSDVfU2g4OWVscEstamFhNl9KbEVHRXB5aTJrYmpkbnk0VWcyOUx4c1Q0dkNRNVo0ZTZ6R1M0WFdSN1Y?oc=5",
+          "date": "2026-05-12T06:40:59.000Z",
+          "source": "G Plus News"
+        },
+        {
+          "title": "Guwahati: Sex racket busted in Hatigaon, three arrested after midnight raid - The Sentinel",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMld0Y2NhRnY3alVDeV9hVy1oNnlwbXFJV3BTbUhsU1RJZld2dlkweFN0aUdtSi1rZ0plTHg5RVRycEZ1TXB6dUFMRGc0Y0Nkd3JfZlFOLXA0RWpDVjNodmRwS2ZzNFJHei1iWHd2b2hBQnJiaHE5aFJfUllVWVBHN2JTbDBZcmZ4YVJIQXhFQmxyMVVjdkNnTUhZMi1idnJIa0p5Q0tNZnhxRzlWQVpURWxOVEVqSksyYXBCR1JVaFlGd9IBzwFBVV95cUxQbVZfWDB3MzVRemVYNnQ4YnVvaUJrUmtWOFlUeUFMMUcxVEUwdk5yWWVNQmFfQkJOVzF2ZGZidUNCdnpZZFRnR3dYcHRUalk2eC02QTRjSDVyZVc0dEtqMDBOV25iRWpmVk5hYWpvejY2Q3k2ZGJKYmdHY3BaQllEWWZpblNyTTJtejhGNVRlcG1pT2ZXaDk0dS1CdEdhWldqaUpabHNIRXhra0NSX1I3M0N6VUdPNjdjbXdvN0NxV3JNMVQ2X1FLNktTcnpnRlk?oc=5",
+          "date": "2026-05-02T03:07:15.000Z",
+          "source": "The Sentinel - of this Land, for its People"
+        },
+        {
+          "title": "Drug Peddler Arrested in Guwahati’s Basistha, Heroin Seized",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSWpESzU2TTFmbE0wSFpwVUo0ZElHaTF6RFdpdTloWWZQUjU3X1NwcXlLQ0xxZkNtVWlKTm53WXFjSDhEa3Bsd0lhdzIxMnN1anZ1T0Q5REw2WFE4bEdyU2pyd3NEMU9PeUNoWTVEdzk3UHpxcUhrZzF4alhUbUZacHVLUHVCZWQyZ0tjUUEtRVlpT0JOVWFUcXlhYw?oc=5",
+          "date": "2026-04-03T07:00:00.000Z",
+          "source": "G Plus News"
+        },
+        {
+          "title": "Basistha Police Arrested Drug peddler in Guwahati, 36 Containers Seized",
+          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPZmotQ09FVnFnZUZ1Wk1jUURPSHNHS0lFbmdBbWVnXzRFbTNLcS1nd1I5c2diNXlienFOVTlfeDhJSFJPT0hhU0ZhM1FDa1lvSUl4dEowRTZmdEdwUmhXb1NEby13TE1aakpDcnNUcy01dzg4eHFOb29CZjFmT2NaT0s0SU8xTVlxNTNFYjk0STc2Q3hRRi1yN0pOVDRKVkI0b1ZBM0FwNU5LdVVaQ3pZWnF4eUhHZW91RHdmWU1zd2dlaGlseEtmMjNtQnF5ekxHVm1WcEE4aktVVlVzM0E3dTJBdGNybzd0SWNQWmNLQ0hYVGoxSGU1ZXZkdWluTGlubkNSVA?oc=5",
+          "date": "2026-04-02T07:00:00.000Z",
+          "source": "Dailyhunt"
+        }
+      ]
+    },
+    "Ward-9": {
+      "cachedAt": "2026-05-17T07:11:46.794Z",
+      "query": "\"Ward-9\" Guwahati (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward-14": {
+      "cachedAt": "2026-05-17T07:11:46.794Z",
+      "query": "\"-14\" Guwahati (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Pawan Khera Summoned Again on May 25 After Second Day of Questioning by Guwahati Crime Branch",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ0hLb0c4Y25UcmxJMjVHUTc4V2VLZXFKYmNEazdGb2tuaVNSOVNNTktRYXJWR21EVXZVZnlzaERaYXc2anU1RVY5WWxJSUF1dkdjM1FqQmdtX2VNWUdrX1IwcmY3Si1vNHUwaGE4MkZqaG5qMlRscy1MZFhULXVwbHRLMU1ObUxoWTFKM2JaQXJJQ1lnaTFEcHlQeVExX2JxNk9KeUM2YW5QUnVSU0c4TC1pdDl2SjdkY1E?oc=5",
+          "date": "2026-05-14T14:34:06.000Z",
+          "source": "G Plus News"
+        },
+        {
+          "title": "'Assam's Peda tastes good': CM Sarma takes swipe as Pawan Khera appears before Guwahati Crime Branch in passport case",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPbHVubklkYmtYRHhlbVFmRGdheklUMU9SdzdVazNXRWhpM013dnd5TlgyWXhRU1pLN3FPdlloUFJxaUtDTHNENkdVQnlIU2lGNzM5Z1psQ3JtU2lURW91ZmJVclFMTWJmcUtDRU1CcEhqdmdYMy02ZEUwVlBuRHBUNEhsR3N6R0g2ellleFpHc3l3Vy1HWGJxejkxT0NMaFlkN2tSQ2dJM2gxMHBFUjBZN0U3QkNiUkptRDFKSnZBRmtVUmNjN3JMTURabDlDU1hoTlRLODNqMmNqSHFubHFTbWRYcXhNZFFmZWc?oc=5",
+          "date": "2026-05-14T14:31:00.000Z",
+          "source": "India's News.Net"
+        },
+        {
+          "title": "Pawan Khera Maintains Silence on Media Queries During Second Day of Crime Branch Interrogation",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeDMzcVZmQWI0QlhVWGI5ek5GdTJkTEdYLTlLT3luai02NTRlRVFyYkk4V2xsYmxRdVVCNjlJZmtza3dMYkNHUGFUdTZLZzc0RnZONVlyNWVEWjZKMXNUd082STQ3bE9hSE5PNWNPM0VUUzI1NXFHa3hQQkJnRXBUOEdQYVpBRW41SG9aclEyaTA?oc=5",
+          "date": "2026-05-14T14:07:54.000Z",
+          "source": "Hindusthan Samachar English"
+        },
+        {
+          "title": "‘Assam’s Peda Tastes Good’: CM Himanta Takes Dig At Khera During Crime Branch Appearance In Passport Case",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUWtockdmWDdGMGpVZlJtenAwN25PSk1aOWpPVzRNNEQtNnBRZDhDemtuTTBHVHYyR1ZRM1d2cGpYNHRWYWtpdFdZNC14THBjSU1wVk1zSGNvRFFkUVdKX3NxZ0psNC0yMVlDWGpnNG5jc1BMRm91N2lEalpkdjJneW4zcU82SFFkQkdoUmI0c0pHZ042d0duSDlSOGRnZzZNM0NxMEJhZ1hkXzEzOHJxZ0t1c0RLZG92Rzl4VnJsSUlNdGd4dVJHZUx5YnU2V2VyRExTMWtEdnVtMVNo?oc=5",
+          "date": "2026-05-14T11:43:08.000Z",
+          "source": "Northeast Today"
+        }
+      ]
+    },
+    "Ward-16": {
+      "cachedAt": "2026-05-17T07:11:46.794Z",
+      "query": "\"-16\" Guwahati (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Guwahati: Civil Defence conducts major air raid & blackout mock drill across city",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTERqZGYwTmpVX0hVeXQwd0tjaGxqVW1rOTRhOWI2Z1BjZDlkN2loTTlndTVkX05lc0JLNHBqRVlja1FEekkwV3JXVUlZQmFOZWZ4c01iN01DRmhmcmJwQW9XYkg1emJYeS1LUDZ2QlZ0bFg4NTEtTmNHWkNfeG9UMGpLZWZkaHdEcHRXeEppRFVMRmRENHQ3QXQ0dm1XNlYxWlMyTkVYYW9rOG1iYVZETWk5d0hjVHl4RHU0WS1FbnpVVUhNeUE?oc=5",
+          "date": "2026-05-17T00:48:48.000Z",
+          "source": "MSN"
+        },
+        {
+          "title": "One Held in Guwahati Theft Case; Three Stolen Two-Wheelers, Two LPG Cylinders Recovered",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSDNxQ2pCc0tVVmlGSG14M3lBZ1NFcC0zV1Z6Z0JZTVRLaXlqY00zM011LURCZ3k4b3VkZGJxcjQ5Z25hSjJHQTM1T2Vsd1NGV3ZJYjZZdnF1aFl0TDZaRERRQlFsT0Y4ZXdrQTZqMGZsU1BGSko4QUZEN0JjLU05WjlDVmRNTEdoa2p5TkN3dTR6bXFYQXFncF9XcS04WWRZbGdIVEtJeXh5cFFvRThEdVFZaXI?oc=5",
+          "date": "2026-05-16T11:31:35.000Z",
+          "source": "G Plus News"
+        },
+        {
+          "title": "Guwahati Police Seize 60 Grams of Heroin in Balughat Raid, Detain Suspected Drug Peddler - The Sentinel",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbTFvZTJhS04tbDBFeFpDR05oQnhnbE1UWi1tcWhMN25INFF4VmNCa0RCbHFoeDh6X01naERPaXdNeHZ1MHBzRFpTVGdWckQ5WlFaOU5oSGpzYzF3ekY4T2FmaFpIUllVYkY3ZmNVWjI4djZUTk9EVWZqcm82R0dOSW4yRWMtTXdhR3dNM0w5RTZTa053Mm5qbEtoNkc2d0xaTUxFSklTWThydmJmNllkMGxpWlhSMC1VWHFpX1ZBNml5amkwcGpwYjFEZlF0MXdtTl84RNIB4gFBVV95cUxQa1lPaUdmTDlnaG53dWpoUjdmdkpKLVFvR1RKZ2lDVnYzRVN1eDZvcEZ2TWZORWJYcnRkNWtvRnJCMkJRUkVYQzZla2NvblVCY0VWMUU5Vm9zbF9SVVYzRmlLalcwclFoSzF1TDVRZ0NyeEVubEF2UjdwbzkzRXpBeENrNUhydnZQVUs3eE5Rek9XRGVTbzJtWGQyeVRaT1AtUjEzRHZNV3V6RFFVUlpIR2t2SHp3TTE5b002dHNXOEhJMkVVWG90cDdwa3NRZ3pYT0w3UUs4eXh6UUhJUWt5dzdn?oc=5",
+          "date": "2026-05-15T04:52:50.000Z",
+          "source": "The Sentinel - of this Land, for its People"
+        },
+        {
+          "title": "Pawan Khera Appears Before Guwahati Crime Branch in Passport Case Linked to Assam CM's Wife",
+          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNNElVUXY5MUl1TEgyTkhrWmFicGZyVU9SNk9BWFhjYmVUZ05JVjdlVVVKRFg1dElzY1pIRVBiaThwSWMycFNXRUZ3emNhb1gzdkFJck5BdHR4aHR2cUxUYkFvc05vSk5rbno0NHFEUHFkeURlNXNLVGprMUxjRkg0aU1iTlZFbVhMMmcxXzdSamtvQWpwSGtoaHF6Vzd3ZXppbWRUcmRBamFvRmJQTW9UNWttaW1BenhnYzNnQnZaQy13WVZpTEcxOXMxUmdzSVh2bWMyZWRDcXR0aXFvSGlMSmNGM3FieUNrTTlmTEllZldlX0FfX1pTbWpWbVdWaEw2SEdnb2RLQ1lZOV9T0gGMAkFVX3lxTE00SVVRdjkxSXVMSDJOSGtaYWJwZnJVT1I2T0FYWGNiZVRnTklWN2VVVUpEWDV0SXNjWkhFUGJpOHBJYzJwU1dFRnd6Y2FvWDN2QUlyTkF0dHhodHZxTFRiQW9zTm9KTmtuejQ0cURQcWR5RGU1c0tUamsxTGNGSDRpTWJOVkVtWEwyZzFfN1Jqa29BanBIa2hocXpXN3dlemltZFRyZEFqYW9GYlBNb1Q1a21pbUF6eGdjM2dCdlpDLXdZVmlMRzE5czFSZ3NJWHZtYzJlZENxdHRpcW9IaUxKY0YzcWJ5Q2tNOWZMSWVmV2VfQV9fWlNtalZtV1ZoTDZIR2dvZEtDWVk5X1M?oc=5",
+          "date": "2026-05-13T10:55:12.000Z",
+          "source": "Times Now"
+        }
+      ]
+    },
+    "Ward-17": {
+      "cachedAt": "2026-05-17T07:11:46.794Z",
+      "query": "\"-17\" Guwahati (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "CM Sarma comments as Pawan Khera appears before Guwahati Crime Branch over passport case",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVk9HcS0zMER6TURnbUV1YUt5dTJURGxLR1pKZWs0ck4tVmZIb3BVdGlKdDYtbm9ldVYyYkUxdXdKX0hOUDRxTklHOHh2QVVKWFJSNktyQS0xSnRxdlBQa1pSaE1qczNyeGJ3U3FDVXdXNEtPeVdHTFRGTlFDd0dQLUs3RDNQY3VKRkJiN0R6RlNqS1Nxdy1fclQzdVdkLUxUcHhXOWlnbnJKZnFaRi03SnFtU2pROUlFT1JXMl93?oc=5",
+          "date": "2026-05-14T19:22:23.000Z",
+          "source": "The News Mill"
+        },
+        {
+          "title": "Pawan Khera appears before Guwahati Crime Branch in passport investigation linked to Assam CM's wife",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUG5VRUExcEx5WDBha0U5eG5MN05vRElqVVk2cmhwd1lsRFNhYTVETUVQNlZKcUpiQUJPaWhaSXlMTUlNY1NfM2dnMjN3RDZmMGZLLXMtdEN1Mkt0S0E3SW5KWjhaam1jei1QVVp5eFY1eG4yMmU5MDZXZGYxdmhuS3JYNU04TmxNU0NUZDZlMVcxZ1EzWk1kLXN4ZDBCOGlLdEJCN0ZMUDhlS19vZmRRWXBRUWlaWkN6THlZamlUdmc1WnFPem8wcWtfb2g?oc=5",
+          "date": "2026-05-14T05:42:24.000Z",
+          "source": "The News Mill"
+        },
+        {
+          "title": "Mizoram Police seize Rs 31cr worth of crystal meth, arrest Myanmar national",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNYmtLMk94Z1l4c0Rmd1VodWp5QlRwTnFtc0hFZVBxWWtEcVVRTUNmaHJTMzVwemtBSWp5eloxbkRxYXhRSks4cVNGMURUZWNmZTJxX0QxN3FzN2VfbDlzSkxHdkV4LUt0ekJwYkFRdnRiaS1rQlJYUjl3RmFHSHhzSlNKQVlzT2ZWakRlbWRXNWh5dnJaS3U5WDBSQVJmcUpQcGNCbTRSeUYyS2VwY0ZDOEJwX1J4M2VSOHFmMVBGR2Ftcm5JUzJTNjRhSHdHeTlqMTlVZzdMOUxYQ1NHN2Nab1R2ZWLSAeoBQVVfeXFMT3hpbno1UVBBOGk4aFFkRGZqTmlEdHRCSUlyN2MtUWxQWGkwckJPblJsOXp4bEdOZmgySnl6bGtYMTNXT2YzUDRiS1RuMXdTWnhnUVdBQmNsLWJLTDB5QTlZQUN6WldKS2lGLUNNcUwzTmFUUTdRWGl0U09MdXJCTC01OEdiNTJFcElMbVJMQ1I0SGRCenI1SUF1SmxaZDRrS3BGS2VyLWR1dWJYWkU0Skt4ZXRRdWNmbVIteUw0Z3BCeTNtSmxJbFFHZjF4M2cyZmxLR0tqZ1dpczJWeUhEbXVNNHBsRlFrb1FR?oc=5",
+          "date": "2026-02-21T08:00:00.000Z",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Safe city no more? Break-ins, dacoities rattle Guwahati; police dispute spike",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSnhjSHdTOEJRRGNIWU1CM1Fhc0czMndSdTFfYVQ2c0hLbml0emJGSllVaElPNTFNYUhiSEdWbnJsMzd2blIxZHE4ZkFlenU2SFhpVXBSRW10eFZqMHJxLWNiWjBLT1ZaMS1GMGxBYXJYRjExTlNBdFN0QThLeVZIeHJaMHBTeURGaFNDell3YW85d0dwUll0cmtnam93a2gx0gGmAUFVX3lxTE1OUHBLNlkwYUZMOFR3Q0lsbHQzWEpGOWZKUUVuTE5FSWJZNktKb1dPRjJhMnVKaFBlVUJNUHU0Mmt1SnVPb3lFUXhhd2Q1djBkOGhRUXZMdGdlX09GUHVMT2I1T3k3TW51ZDJJMVhRWmJucjVkdWgzdHRNUHFWb2pVWDVVb0kyMk9FQTB5VWthZzQ2bER0Z0UydnJyNG92UHYza1hLWFE?oc=5",
+          "date": "2026-02-09T08:00:00.000Z",
+          "source": "The Assam Tribune"
+        }
+      ]
+    },
+    "Ward-11": {
+      "cachedAt": "2026-05-17T07:11:46.794Z",
+      "query": "\"-11\" Guwahati (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Pawan Khera Faces Marathon Questioning By Assam Police",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWFlZa3FpYlMzTy1lU2xQb1I1UG1KcTFUS0NQRmtqODdjanBYZ0RncjJlUjRqcmpCMlpCdERyZ1hFbzBDUnFyOHdWNVo4V21xR3c4RDVTS1NXWUtjbjdqa19paGhyaEVxVFRsUVZ1b041dXJSaFp5VkI3MkttZTViOU1FWUJkOWkzUXhYRFFnbGU5X0E?oc=5",
+          "date": "2026-05-13T17:08:56.000Z",
+          "source": "Ommcom News"
+        },
+        {
+          "title": "Three Arrested in Guwahati, Gold and Silver Jewellery Recovered",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdjFfS2RQZ1E1MTUyNThUSUlhZHd1VUlPMWNNTXBzNjVGZEVnR1Aybzk0M0xIRVJPLXFPQnMzMy1BYXFYazhVc3JHaEp1M0ZtQUJtRWRmdTdUZlF4bzIwaHduSDVfU2g4OWVscEstamFhNl9KbEVHRXB5aTJrYmpkbnk0VWcyOUx4c1Q0dkNRNVo0ZTZ6R1M0WFdSN1Y?oc=5",
+          "date": "2026-05-12T06:40:59.000Z",
+          "source": "G Plus News"
+        },
+        {
+          "title": "Police Summon Opposition Candidate From Guwahati Central Kunki Chowdhury in MCC Violation Case, Non-Compliance May Lead to Arrest",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxON0ZWNkxjRDFtN05HN001ZDlXeHVEc3g3WktPM3o0NU5FU19tOHZzQ25DYUtQYmx5Ry03N0xqUzM2TzZPRDJYdnlfVDlEb0swMXJkR0NtaHUyYXVvMEhKX19tLVgtTEMxb0FpTEZ1RktGdWduWWczLWFGSFBIalM0RFNoWjlEYXB4U1lHbUpyclR3dUhFY000OU1KdDc1X3lQZ3BLQ3UtT1NvdUUwQlA0VzZENzMwMmp6eVhtbks3M3RHazZLOW5oOE9sd2dFLTRndklDVU1nNG9SeEU1YlA3Wmdzb25DLUI2?oc=5",
+          "date": "2026-04-11T07:00:00.000Z",
+          "source": "G Plus News"
+        },
+        {
+          "title": "Guwahati Police Apprehend Four Bangladeshi Nationals, Arrest Broker Who Facilitated Illegal Entry",
+          "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQVGtWdEtPbGdCU01BLU1FQjl2TWFDUmhaMVJESld2NnpGckhvcl9rLUtHMnpodmxhWENUNGExTmFEZXlPb0hsTEY4Zlh6eWFaeTlkbVoyTE55eDlRR19scjQ1YmFXdjJpSmFtckt2MllNUDdxQVJ0UC1nQ1hQS3JaU3RBcGUyalIwRTVES05HbEVJSUswa0wzSGRGcE9sSUZvX3RZR0JDc0p6V1RuNzJjRVFJb1lMUUY1bVlmcFJSUEVNV2lyTFVhWmtEMXJjTWJDOFZFbmt5bUEzajc1QTVtX2pDTzhSalEzNTFvWlR5M2VEc25rckFjNHo0WnJiaXZVWHdUVGdObExhMUZ0ZTdFODZR?oc=5",
+          "date": "2026-04-10T07:00:00.000Z",
+          "source": "Dailyhunt"
+        }
+      ]
+    },
+    "Ward-10": {
+      "cachedAt": "2026-05-17T07:11:46.794Z",
+      "query": "\"-10\" Guwahati (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Guwahati court rejects Assam Police's plea for non-bailable warrant against Khera",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd1pIUWFfY1hKX05WMWo0czdVU0h3cjA0bjlNRkwxRXBsWGpHY0N6all1aUwySkFpREdBYnBUbkItcFp1NGZMa05jNnZPMml3WVQwaDVLRXFhRXk5SWNQcVJLeWE4ME5Ebk1SdkpuN3ozM0szQ2xzeUJGMGM3ZXFtbms0QnpuOUNWWDRvbHNNd1kzSXdiSF9QeVNuUWVXX1NjSUI2bTQ0RF_SAa4BQVVfeXFMTzk4Ylh5dzFCUDBVcUNVLUhWd291VzFqeDk0TTNMVElIVlQ4YklrUHFYeDNic0I3d3hybUo0MWVOMDdaRU1WNnF5dDNLbVpkWXB6bjY3Nm9KUVNfTXhEY0J6ekQwVUNNQ2EwN1hlT3ZyZVlabmhyMFpNY3UzZmpEcXlFRGhEWEszaUZoV1pmZjk0empfdXNDY29YdGwtZjhWTzczWmJhRlNpU2xBUjB3?oc=5",
+          "date": "2026-04-19T07:00:00.000Z",
+          "source": "The Assam Tribune"
+        },
+        {
+          "title": "Seven in police custody after violent Ganeshguri brawl; accused allegedly used pistol",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObVFsUXNrWmI4S2Q1TkQyT213THFQbTk0VjRrT0Q4cE9EVmJ6MUVyZXpoUFJyUmllTVl5RkpOb3BEdVFta25nUFhabGppQ2Nva0QzUThzOExicU9UemI4YzlXWFJ5OUxrOHBJeTVRazZnVUZZYXpxSG1ZUmItdjNLX1RNc3ZrcUFPTF9NcGljY3o4Q2Z3N1pVZDVkenlRdnhwOW9NdldxUnRFS3dGam5oaVlxQTBHX1dyRE1GbFBZUXdsZU5o0gHKAUFVX3lxTFA2czZPUjRFclB6U1ItSjFQN1JhaVA2RklyakNPcDFvVjY1TURjdUF5NF9xT1RNdXhjdjJVb3hyUUExeEphRjF1N2p0ZmJpTGRFeGFwcjdIYWZnQmdqRlJRdlliSnVOM0hjYlBici1FcUZyNFZlNXRvMDZTXzBqXzEzMGJFZEllWE5POXMzRXA2SjBMaTN1cU9CVXZwaVlpV2dCbVIzcXBxSTAzOVpSZ3ZuajBSMTVyYjh6Q0Y0WkF6dnJfbGwzcGthYWc?oc=5",
+          "date": "2026-02-28T08:00:00.000Z",
+          "source": "The Assam Tribune"
+        },
+        {
+          "title": "5 spa salons raided, 10 held & 13 rescued",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQ2UzZGlrdUk0RGx5eFhBVjFCb1I2T0E3OGstZWNwYjN2MkcwVVZud284d3dOdmJVRkFueGNrX2x2WjFoek1ldlQta2JHQXlCRF9Za0NkaWRGYzRRQkx2RTB4czJaZzQwNlIxa3hyLTFTSnl6VzZEcmZkRlNIZWFJendwMHh1QUJJZEl4WGszeklrZU0yOE41M2Y4RmFKMk5SNGpGN19qX3ZwRTBHSjFub016c3nSAboBQVVfeXFMTUQ3VUZCWDJob1hjVl9MaFNmb3U0UFluUXhNeEFyMmp0UnRpUlpJbXhCQUUwM2pkekN4RUVuZXYwaVJUWTMwam5aSVNpZDBaMXZSQ1RVTnpQXy1Vb0VTVzI2YUZxblgzdEtYN3VXQldZcEdFdHpXTko1VjI1ZDVYUmRabjN5bVc2WlEtMlh1Ulh5R3hPam95Y2tDcnluSVdfaXE3TXZlTWlXQUpyNVJkY0FmOWppQzNKa1Nn?oc=5",
+          "date": "2026-01-22T08:00:00.000Z",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Guwahati Police Bust Prostitution Racket, 10 Arrested and 13 Victims Rescued",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbE1QbDNMRjVucS1EUTVlRGg5TFh2ZUE3dTRQZTlfRW5jYTFSZVB2UEx6bXB4ZFB5bnNJWDA5Tkx2RUZ1Mkt1dlZrbWJJS0JYcUU3M3ZXcVZ3M2ZVMjdKNFAxYkczMklpdDB4bVhLNWJMaUtsRTZZYjg5STlWRW9BT3F1MHE1c0pxNDY3ZUJXckNYYVJPUjBpdXJZNWxUeUZ6YkE?oc=5",
+          "date": "2026-01-22T08:00:00.000Z",
+          "source": "G Plus News"
+        }
+      ]
+    },
+    "Ward-13": {
+      "cachedAt": "2026-05-17T07:11:46.794Z",
+      "query": "\"-13\" Guwahati (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Pawan Khera To Again Appear Before Crime Branch in Guwahati on May 14",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZXhFZVN4Yk1MQXotLUthWW5tSWk5b1ptb2dBZlUwend3THZLWnRGTGU1OTlpMWtoelhGcnJxM3B1c0pnV2h0NFJOX0YyT2xPZUtqUmo2bmN3UWhnWE1XYTg3endWRVI1dFpqb0ZlLXV2OTJyYTNhd010YmNta1hzT25HV1o5eEdIQzBSLUlydw?oc=5",
+          "date": "2026-05-13T17:55:58.000Z",
+          "source": "G Plus News"
+        },
+        {
+          "title": "'Law will take its own course': Himanta after Pawan Khera appears before Crime Branch",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaWczTVowMEJpcS1MWHJQVDVXMUlNLW1KTkdLVW92cklLbDY3ak52X3poRU1mb19MMGo1ckV3d2k2R0NSdm9NbXU4dkdWenh6SGZlWlNnbkc3ZUtDRWFPRHd6bWJxMkVPejRnWWJKYU1Ra05TdWs0SXZKbC1pZjFvWmpWaThMdzlRV1B0RXBOek9IRW43MkNTQm9qdzYyNHFMVDhhak9WOU5OVEY0YTJFeFNTaTl3VnVGY2J4dHV2bGVMQ1VfNW5qaWtWckNoYWVvTVZ1amY0TGrSAd4BQVVfeXFMT2lsUGFMZ0g4R3NOVTFMY0RtcEVHeW9FSXdnUVVWc1FibWxhNU1NTV9wU29jTVpWMEVWeC1ObUE4LXVaVXE1U2JFdkJ2NjExMUVFSFhNSF9ZbGlKUnlZZzBWUFVWV2loamloRHUyU193UUZsYnVxT0lxZklLSzJueEpoVE15ZTFuSGI1OUZpV21RUW1Ldm00TUQtRXhjT0hNMjRHRTEwY0RreFJmeUZ4YkE3dm8xcWhSdVh5V3BNd3hySjItY2FsLVh2NmZaM2NOMWpYNU9OV1p2WVJfMUdR?oc=5",
+          "date": "2026-05-13T12:31:23.000Z",
+          "source": "India Today NE"
+        },
+        {
+          "title": "Pawan Khera appears before Assam police Crime Branch",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSTJmbWo0X29sYUtMSkVIUnpaRmJtZ0wwRTBmQTNpYk16dEN6T19tYmc0ZVd2bTFhV19fWnZ0ay1lX2VkRjRuWVR6MUtwRHhqTC1fNF9Ca2cxX0pmRTc1elNmQjV3bzZsZGNiVFFCU2JIaGplb0VxMkZmSFp5NTNDX3EwN3Qxc2FybnducTFNYUNhel9Mc1dzd1FUV0V0YnBNZk1IdHIzdmh2OGtrT2RPUlpkMWIwZ1hQ0gG_AUFVX3lxTE50cnoyRndXN25EeU5WTlAtUmw4N3IxTnFGOERud0hsSTEzQkZLLTB6a05ZZ3ZQR2QyaUdrVDM0Y21VZ0dxR0pMQXlGSUg2TlFhVjliWWNaUWwyQ21UbGpzbzhiTU5MR1oySnZFZkZCdnZyaEhGUDF3T2d4Mi1mQXNMQVRQZG5DQTBvVjEwQ1M4UElGRUwzV0liaUNqazNvRnNnTldWbDdnanVCdmpZUURjUXRUZ1lKdUtHY3lFM25z?oc=5",
+          "date": "2026-05-13T12:14:47.000Z",
+          "source": "The Hindu"
+        },
+        {
+          "title": "Former Mizoram tourism min gets pre-arrest bail in graft case",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPS21VTDRjNDB2SDBGNzJVM0VmUnNzZXFlTGdtTThBbGVEalk3YS1jSHdHbWhSRFZjQ0NGazBUbHo3Sk8zYnNhdkpEaGNST0hhaWd4RTlvaGhQNkZrblltZ2VMZ0FfT2JEQ256RXBtZ0g1OXF3eEJnQ0N1Y1VtbnQxTUZnOFdGbVlHdTk2UTBVVk55aEFFeUdwb0p2dngzTlhNeG5IREdjWmFxdzRrUWNnTlJ4LTRqLUtNd1l1Y1VfamNpaXNFVVZZbThVdzlIdjRlc3NZ0gHYAUFVX3lxTE1LRzU1X2hBOEEtRGh3eTN4c2Y4X3k4X3NxeW04bFk5MlNxSFZPWGRaLWpfQThMM0xRSjdDb1MzQzJZR0VGeXRKbmxRd1VLalBzbU1Ka3pITEc0VWh3bDUxRmhNc3E2QXplbVlCc1g0UHNfbGRHMDktNmZDSm9qZFdwRUNMdlplbWlIVlJsVXNXbTJnOTlxYkRtb2NwdHRsRVdnSlVHQTUxckQzZmo5R3BCdE9aQUd6TFZkcWFseXZ3VjQ5bGNRbVNaME9OODVIdEdLcVg1anJESA?oc=5",
+          "date": "2026-05-13T11:43:00.000Z",
+          "source": "The Times of India"
+        }
+      ]
+    },
+    "Ward-21": {
+      "cachedAt": "2026-05-17T07:11:46.794Z",
+      "query": "\"-21\" Guwahati (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Assam: 1,475 bottles of cough syrup seized in Guwahati raid, one arrested",
+          "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQa2otNlMwdWRkeUh1cFdmMW1FOHV5M2l5c2FPMWU3REJ4VXBLRmEzd2xaaEMwVGxZNXZlTnJKQlZicGdxVmRqMlZQSXZHai1RZ010WjhLX19UWmh3aHYtdlBleHJ1cGJScXBYcDBnOVVBb0cyS1FLYVNVSzlEa0xGTTd5Slp2ZjJPQ05ST2RXTDc3X1pHQzFYTkZ3ZFZtMGhhNE1DQnduUWJxaHhFMDV6QXd4eTJGN2R5aHQ3SHE1cGtsOUlJNnNlNUtLbTliVU1OTnRfVFpXR3hZM3Bfc3R2MTFsT05Vb2dEaTJBWEhVcmVocjZFb01OZmxxd2Y3SS0wNHJZVTFWNGt5UjlMZmktS3Q1c21NWkpra21UZV9rNDdsYUR4RmI4M25IcnVwZmpSeTdxc3BlTHNIVWhtdnhkeWY5MzF4M0NpQVZlR3FYUDRRQQ?oc=5",
+          "date": "2026-04-28T06:25:22.000Z",
+          "source": "MSN"
+        },
+        {
+          "title": "Escort racket busted in Guwahati, three arrested after survivor complaint",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOT3AtN1hDQ0JqMzV2RHpXVzlZbjZ3RmVfVDA0MVBNUlQ3Wi01XzU4OWo5T01vRDlCbmoyRTB3dlhtazlDMzlHbG5Na2FfUzgzV0VPcnFnT3ZlckJWSHdfWENZZ2FpYnRMcDI5V2VLWVBWYk50WjBCc25ubEp5ZkxVZXdOWXlxb0lSU1hOem04VFJQUlZGVHBrWnR2djBPMkItTURDTGVHZGk2b1JJWnU5Z0FlN1bSAboBQVVfeXFMT0NoVW9rdDJESXF6TXVnbjRfcTl4cnFMLVREOGpQRV9mdkZ0OVdVMWtnQUtEa2VxbmMyQUNEYnpUbllGTGd0V0RTWTJiNDRsTVY2eWZGM3U2QzlpT3RUZmNxZFRvQTViSFRER0tfZVB1VDFkSGZPMG9odm80ZTZsRkR3YWNwS3ZLNnhQeDFiRHIwZEdsR3NqTzhLajJJMngwZG1xSFlmTExMLTNLQmY4V29MOU1Wd1NkOW5B?oc=5",
+          "date": "2026-04-21T07:00:00.000Z",
+          "source": "The Assam Tribune"
+        },
+        {
+          "title": "Three Arrested for Helmet Theft in Guwahati’s Six Mile",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeG9nVm8yZjRRaGdscF9KQjR6ZWZEdHpnUUNiMmczOERLaXA3SHgxcVVlS3o2TC1UTDlicmhiQzI5WWFRem1wX1pwMU1UZWh2VW0zZTdTMGt1Ym51U0NGaGJxQklzclZfVkhoRk9UcGpoU3lkbXlzTzVqUllIZlZpSVo4ajkzZ25HM3BjNDIySkR1QQ?oc=5",
+          "date": "2026-02-21T08:00:00.000Z",
+          "source": "G Plus News"
+        },
+        {
+          "title": "Mizoram Police seize Rs 31cr worth of crystal meth, arrest Myanmar national",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNYmtLMk94Z1l4c0Rmd1VodWp5QlRwTnFtc0hFZVBxWWtEcVVRTUNmaHJTMzVwemtBSWp5eloxbkRxYXhRSks4cVNGMURUZWNmZTJxX0QxN3FzN2VfbDlzSkxHdkV4LUt0ekJwYkFRdnRiaS1rQlJYUjl3RmFHSHhzSlNKQVlzT2ZWakRlbWRXNWh5dnJaS3U5WDBSQVJmcUpQcGNCbTRSeUYyS2VwY0ZDOEJwX1J4M2VSOHFmMVBGR2Ftcm5JUzJTNjRhSHdHeTlqMTlVZzdMOUxYQ1NHN2Nab1R2ZWLSAeoBQVVfeXFMT3hpbno1UVBBOGk4aFFkRGZqTmlEdHRCSUlyN2MtUWxQWGkwckJPblJsOXp4bEdOZmgySnl6bGtYMTNXT2YzUDRiS1RuMXdTWnhnUVdBQmNsLWJLTDB5QTlZQUN6WldKS2lGLUNNcUwzTmFUUTdRWGl0U09MdXJCTC01OEdiNTJFcElMbVJMQ1I0SGRCenI1SUF1SmxaZDRrS3BGS2VyLWR1dWJYWkU0Skt4ZXRRdWNmbVIteUw0Z3BCeTNtSmxJbFFHZjF4M2cyZmxLR0tqZ1dpczJWeUhEbXVNNHBsRlFrb1FR?oc=5",
+          "date": "2026-02-21T08:00:00.000Z",
+          "source": "The Times of India"
+        }
+      ]
+    },
+    "Ward-23": {
+      "cachedAt": "2026-05-17T07:11:46.794Z",
+      "query": "\"-23\" Guwahati (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Guwahati Police Arrest Drug Peddler, Seize 40g Heroin in Khanapara Raid - The Sentinel",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVFlzQnRWVzRldzhsbzZ3azZvVi1Xa1ZZTVRIQXFLVVF3eVgxblJwaFh1SmRiN213aENVeWJQdmRBeDRHWWlla1NuOUhtYmJYRFQ4emxCZldSMDc3Z3RnLVlMWHJhM0pwWlllQ0VHbkhzVldLakpUYmhid1RWNFk1TFFUSzAxM2QzSEtwU0lOaW91MVRORmtMdUdnTFBILTlHWGZIMWRqeVJNdGphTUZuM2JFaGJwa09HMnJrMUJR0gHLAUFVX3lxTE1tekpVOGhjQllDWmFiU3ZKelFBVDk5LWZ5OWRuckJWZFQzX05RdTkxWTBhbnc1Yno3LUhBNi05ZFF2WHNxS0Z4UkRGYnpaQU8tckdlQjJicWh3cFJqVFFsODhSS1lBTUhHR1JOc2wxN1RoZVNudDB5UHkwUjZTVU1tTHlWdXJCUzdVUlpnaFVZWks3T3RMbHo1TF9OVVUtSmdmcHJnTExrSzFWejRZN18zMC1yNE9tVjJGWVlwenhadExic2VHSk45eFNn?oc=5",
+          "date": "2026-04-20T07:00:00.000Z",
+          "source": "The Sentinel - of this Land, for its People"
+        },
+        {
+          "title": "78% rape accused walk free in Tripura due to weak prosecution, poor evidence: Data",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWk1tVjVESFJpTHo3eDV2WW1TaGl2eUFGc0h1UmNmWjFSSl92VVBTY2trczQ5OVBWc09rel81dEl1dVJ3MVlaenNGNTlzbkxSRl93ME5UMW9oc1hTS20tSDNDNGFGUzU3MTZIVFdYNFZQc0hiRERjRWlVLW5aYkFPN0drU3BQcVBwbjFmLTM5YTM5Zld4cG5CWGZFZXBDaFRNamRNWUduWEJOOC00cjBEUDlNdmI4T0pqb3BuWWw4MWJBcjFRd043aW00VjAtV3pOeVNOSTgteDNKXzZQMFFTOF81NmZXeHhHWVNV0gHwAUFVX3lxTE9tR0xjbG1pRmlsd1pEVVV4MlpDa0taelpTeG9ZOHpBZHBjWUJxWmFScVZxR29OS2c1TGhvUm13M3FUSlhSSkpTYXhraW01RXVFWlc5YlBiMmdpdXFlN09ZalotTGhxSzk5RmN4UkNrRk1vbGJrbWwtYjZROGF1bjRSUUhWdk5ZX3NDc2dTcFAyUnR2OVZmSHM1eFdjUWowTk1CRURHRkRkbW9JVjBzem9WekFNbXBmOWRCX2ZrNElBNjhMbkVzYldFV0ctRlZSYVdNSXpCaVNDc1d0SUFRNDY5VENJano3bnpzWHROMVJISg?oc=5",
+          "date": "2026-03-22T07:00:00.000Z",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Fake Tantrik Arrested After Duping Woman of Gold in Guwahati",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ1Bab0o0aHcxeXRHYlhFUWJFd1V2Q251ZGIwN3Y3ei12dWlVZzhOUm5vaTdWSFAyTWVPd2pGb3c1SlUtUjg1YTZfQWtlMFhlZWRLdGpsZlZFaDVxQ2d4WVBxYl9mRDNCY1BoQ0pSU0V3enVmY2ZyZ1VjazU1cGxHcW1uSzZJNlktS1EyOGlMYk5RemZkeEtraVVR?oc=5",
+          "date": "2026-02-24T08:00:00.000Z",
+          "source": "G Plus News"
+        },
+        {
+          "title": "Guwahati Police Arrest Four in Two Separate Theft Cases, Recover Stolen Wires and Scooter",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSWJkY2N2di1FX1Vvcnp2a3hVbExuYmJuLVl6d0Z3cEE1UzRXZ283Snd0TTYxbGpsV3QxTlpvMzkzbFdhNVl4S3FoWUpidHIzMHY3WXhnTWRwQ2JFa0swcWhxWEtCSENUVUZ0cEh1LWI0dDJTcU52SS1nRTgweWFaOGZFVlp3eHlLWnNraVhrc3M1M2pDMm91WGhiZzZOdTBkMkthR0Vua2ZDckhORnVfUGUtNndCN2VZMTFsQ3VmSkg?oc=5",
+          "date": "2026-02-21T08:00:00.000Z",
+          "source": "G Plus News"
+        }
+      ]
+    },
+    "Ward-19": {
+      "cachedAt": "2026-05-17T07:11:46.794Z",
+      "query": "\"-19\" Guwahati (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Guwahati: Pawan Khera appears before Crime Branch in case linked to Assam CM’s wife",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNDlpNTlsRm1faWYwWFZDQ0I4dUJPeHpRY2R2czIyQkc2QXJ4ZU1uaGVES2Faai1ZV0FxS3MyVDJJYVloY1pVVVpoYkJUbDNZM2UyblUwVTFBUUo2QkNnejMxcmM5UXowLWJXYXQ4dlhXU21UcjM5ZGxkamdGVTNNWG15aURheEZWbERKRDdmNDZtTTV3bzRydEc3alNsekFKQTNLM29wQ3NHUDE4Q1lha2hVdHNEWjV0Yk9FQW9SRHhkSWg4V1d0aUhfX0I5bHU3dGdabVlvRVlyM3VC0gHiAUFVX3lxTFBjaW9iYXF0dGNCX1ZCOV9kN0x4TGNqbV9FTHM1VzZvcnU1bVBBa24wN092UlVRTzYtdlpqRlQyQVFfZWExcmlnbkU5R3JNSzZXeU9EVU1qa1cxcC0xc0dtelhCZndtUjF0bXhrQ3VBYXJFUlpJbEFxNEVuSzNVQUh3Ni11cks2Q1R3bFJDVEhuRGl0NTVlanoxNklrcFBHRTdodHlSS3hoek5vY0ZueWgwVGp6empYOG9OMlBqejY1djRkYlFxTDZEaW9RaWN3Z2VKY0FsWjF3ZExBNjN5ZUE0VWc?oc=5",
+          "date": "2026-05-15T03:49:55.000Z",
+          "source": "The Economic Times"
+        },
+        {
+          "title": "Escort racket busted in Guwahati, three arrested after survivor complaint",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOT3AtN1hDQ0JqMzV2RHpXVzlZbjZ3RmVfVDA0MVBNUlQ3Wi01XzU4OWo5T01vRDlCbmoyRTB3dlhtazlDMzlHbG5Na2FfUzgzV0VPcnFnT3ZlckJWSHdfWENZZ2FpYnRMcDI5V2VLWVBWYk50WjBCc25ubEp5ZkxVZXdOWXlxb0lSU1hOem04VFJQUlZGVHBrWnR2djBPMkItTURDTGVHZGk2b1JJWnU5Z0FlN1bSAboBQVVfeXFMT0NoVW9rdDJESXF6TXVnbjRfcTl4cnFMLVREOGpQRV9mdkZ0OVdVMWtnQUtEa2VxbmMyQUNEYnpUbllGTGd0V0RTWTJiNDRsTVY2eWZGM3U2QzlpT3RUZmNxZFRvQTViSFRER0tfZVB1VDFkSGZPMG9odm80ZTZsRkR3YWNwS3ZLNnhQeDFiRHIwZEdsR3NqTzhLajJJMngwZG1xSFlmTExMLTNLQmY4V29MOU1Wd1NkOW5B?oc=5",
+          "date": "2026-04-21T07:00:00.000Z",
+          "source": "The Assam Tribune"
+        },
+        {
+          "title": "CBI Arrests Cybercrime Conspirator in Guwahati Under Operation Chakra-V - The Sentinel",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQV2NUVnl0X3ZRQ1huRW92RGJJMTQ1TzhEckpRQ2x4QmlaRTc1b0xFN0FHSVR5aG4yV01BSUI0NDc2bV9hdXJzU1dxOXBTdm5YcnM2cXJBR2l1SVJWNld1SHc0ZzRodWZ5djg5bXBDQTc2NHgyYllUTTVKMF83aGVGSUFmVWhIVkx5UjdoOXJ0bUlWZ1RaQm4tTEJYdmFuMUd5cFBhS0NUOWZHVzBVWkF2TTZ6ZlTSAcIBQVVfeXFMTVhYR3hnaTBwMmVPdzhyMkRnNEZ6RkprYkF5TEdJNUZsRTZFbFlDR3NodGszZFVQV0E1MEtXZ3c4MUdibkhnYllJQlF4eW43OU1BcEpPME1pSWM3NnduTHFkTXMwMy1sR3BFdzJlbkhncllVMzAxWnZrVDRkLUd0dWF6M1RBTEdOQ1dGdkVQM3FxRDVYdUNpUFpETjI0d3p5bkhWeThBRGE4M3hqRlFsTU9Rc1RPRHRtMDJzdWdLZ041dEE?oc=5",
+          "date": "2026-04-21T07:00:00.000Z",
+          "source": "The Sentinel - of this Land, for its People"
+        },
+        {
+          "title": "SIM Card Scam Busted: CBI Arrests Cyber-Fraud Accused in Guwahati",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOGpFVEVVdzVPVFBWNTg2dVlHdmhRRlhnVHJaUHdXWHl6NWZ3akFpNVFJcXU5Zll4TVJEOTNyMFltcU9USXFCRV9pMnl3STNKUVFyeF81UF9NbndtVjVYQW1QcnNWU1o5TlYtVERFcXZKVEd3TkJmUjczQVV2WUpLWlVsOW9JTWxKR2VlRmZCVkhUczlSS09lcHFwREIwSEk?oc=5",
+          "date": "2026-04-20T07:00:00.000Z",
+          "source": "G Plus News"
+        }
+      ]
+    },
+    "Ward-20": {
+      "cachedAt": "2026-05-17T07:11:46.794Z",
+      "query": "\"-20\" Guwahati (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Supreme Court Calls for Law Reform on Abortions Beyond 20 Weeks in Rape Cases",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNR2M2WDY4dDYtSjluUkROX3FkMXl1WmJjUXRFc1A0b2xDWk84Ti0xWjZDRjBLZnoyOE0yWTVZZmJXSFdlX3k0NnV1M2x2WWswZEZSei04SkpJYkU0b0x1c0tyWFJLclJDczF5RkxWZUlKRW1OOHptY1RuR3VWalUzcTJ1LXpSTVFPSTRpcjJzUVBub1Q1aF9zb3JDZjRrVUZGeXRoblE2YWNTRk0y?oc=5",
+          "date": "2026-04-30T07:00:00.000Z",
+          "source": "G Plus News"
+        },
+        {
+          "title": "Assam: 1,475 bottles of cough syrup seized in Guwahati raid, one arrested",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdmZmeno3VE1aVzUyeUFuQmRST3p2MW9kTlBRYnduZzNjTTh5Qk1NUEtZX3M3LUFHd3VqTVJkeDlQTkNwMnFzc2VUZTRtR2ZBYzJVX1JjTWI1ckJWTlFjVHdGLUtLZXZUQW9MVUVYTVk1NzV2RTlNdF83Q0xYX3Zkb0ZyN1VIZTZuVmhib3lZSnBGdzZtWDVDVE1Uak9zb3BqS3V3Uk5aaElmODVGQ3hlWkp6dU5RNURZVVpn?oc=5",
+          "date": "2026-04-28T05:56:52.000Z",
+          "source": "MSN"
+        },
+        {
+          "title": "Guwahati court rejects Assam Police plea for NBW against Pawan Khera",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUHZZVWxTVHdPVmlObHpiX1paZk9GbFlUWFQzYVhTbk4tT3QtdXJFUjJ0N29fOG9XbTB6NFJ3VjJHNzB4VmlzSXlCOGhld25vTXdoaUJFaWlPd3hYMm5YaGh0aFNoWXN3ZEFTU1VmX09ZM0JlVW1xYk1ud05jZC1jWXBoajB3Ty1wYTVpVzRQMXBkWFF5M0E?oc=5",
+          "date": "2026-04-20T02:42:47.000Z",
+          "source": "Hub News"
+        },
+        {
+          "title": "Guwahati court rejects Assam Police's plea for non-bailable warrant against Khera",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd1pIUWFfY1hKX05WMWo0czdVU0h3cjA0bjlNRkwxRXBsWGpHY0N6all1aUwySkFpREdBYnBUbkItcFp1NGZMa05jNnZPMml3WVQwaDVLRXFhRXk5SWNQcVJLeWE4ME5Ebk1SdkpuN3ozM0szQ2xzeUJGMGM3ZXFtbms0QnpuOUNWWDRvbHNNd1kzSXdiSF9QeVNuUWVXX1NjSUI2bTQ0RF_SAa4BQVVfeXFMTzk4Ylh5dzFCUDBVcUNVLUhWd291VzFqeDk0TTNMVElIVlQ4YklrUHFYeDNic0I3d3hybUo0MWVOMDdaRU1WNnF5dDNLbVpkWXB6bjY3Nm9KUVNfTXhEY0J6ekQwVUNNQ2EwN1hlT3ZyZVlabmhyMFpNY3UzZmpEcXlFRGhEWEszaUZoV1pmZjk0empfdXNDY29YdGwtZjhWTzczWmJhRlNpU2xBUjB3?oc=5",
+          "date": "2026-04-19T07:00:00.000Z",
+          "source": "The Assam Tribune"
+        }
+      ]
+    },
+    "Ward-12": {
+      "cachedAt": "2026-05-17T07:11:46.794Z",
+      "query": "\"-12\" Guwahati (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "\"I am cooperating\": Pawan Khera appears before Guwahati Crime Branch in passport row linked to Assam CM's wife",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOczAtNWJtZHR5LU94bDNWVEhzY2tOQzBjbkRkZnc2VE9SRGZTVUR5cUpFdXpNRVZCc3U5aTZfeE1LU2ItY0Z4VEl2bTludk50SWFaWXdwWU5acFplV0xvOGtfTEV4ZkZLS3lKUWJiVGFLTTE3QXpFck9ONFlhY2tSV1h0ZE9xTHc1MnAxN2hXYkp0eUplS2tnaDNSTWJvZm0zeU80WDk5QmtSc2ltdWdZVmFPZHEtSTB5WnktMm9rbUlWYlJ6d19tMXRjVUY0UWcyd2N4TlhzYXlqS1N4bC1PcG13?oc=5",
+          "date": "2026-05-14T02:02:00.000Z",
+          "source": "malaysiasun.com"
+        },
+        {
+          "title": "Guwahati Woman Arrested After 5.2 kg Cannabis Seized in Sawkuchi Raid - The Sentinel",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYTNhNm82NXR2dExYdTkzR1k1Znl6ekIyLWRNc19tQTZwX1ZFTTB3TFBrRnYtM3dXalA3YWJRN0NZR1RmaEU4VkNESzdULUs2OWZsSkE2UVU2X0JOYzk4Nlk0ekgxdlRGeUN6MktZczF4a0lPWmpFZFZIUkJUcHZQN1FvZl90cXpYSEpHMUJKbF9TQThobk43MzhuSU0yU2NLZjRkcnVvUGo0X0lVby1RLXY0N1k0OUdxQ2JZ0gHIAUFVX3lxTE1FZlBMdk85M1I5MkRMcEJqWWhEVXRXUjVlVXhmTHZwdmJmWTRtMUVHLUdvdkJUQVVTYXRfcTY5LVhQRnIwRzB4UzVjWjlWX2E2VFhUanpDVXQ5d0EwVGM1eUV3Z1pXNzU4RmR4NkFtdHJnaUFscmxNZ05SNDA2YlVpZUxia2JTV2JzVWhKd2ZMOHBVaGhtVFd1ZGcxN1ZUeFdRWXhHZ2hpVnRlY0tvSWpZWEtZLWQ4bHBDTlVNYjAyZl90dFN6dkZp?oc=5",
+          "date": "2026-04-27T07:00:00.000Z",
+          "source": "The Sentinel - of this Land, for its People"
+        },
+        {
+          "title": "Assam Police arrest two snatchers in Guwahati, recover stolen phones - The Sentinel",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQb0toNkFTQV9hWFpYTm1xdmJLcE9CRmFhWjkxeE10UzJXVWU3SDNnWGp2ZHVKSDVCUnlMdm5rQ3RZbXFDcVRDc0ZqRTA3YnJwb0FhUmRhekszVW1qNjZQazVRc1AyVm9YNW80YktVVGtHVnpDMHJTR3NyTXpQNmRFckRfX19CQTRfa0loRklSVFVCdUNMc2ctcDBCakplTGc1ZUFhcTlGUDYwYnlLM0JZXzl5SGdTQzJNWWfSAccBQVVfeXFMTjh2TkdrVVlYZ3dzaXh5Zkdkak9RZ3AyMXhBMEdEVGhOaXktdmlKdU03N29XYllETENnY095MGJOZ0hDRWUyMGtFc1NqNG5SWDFCYjZONnV4Q3FDMzdUQ2g1Z2s1LXBVbWkyQkZ6Skhvc1Jid05ON3A3dEJ6d3ljUXRWMVM0V2ZKdm5fUEhadjh2X1lsdXlJOFY2clhfS2pSRXhMVml2cWQ5X2w0ZUwtWnhTWE9VOHZkZ01LNG9TVU9rZktfSllFRQ?oc=5",
+          "date": "2026-04-26T07:00:00.000Z",
+          "source": "The Sentinel - of this Land, for its People"
+        },
+        {
+          "title": "Guwahati High Court Denies Pre-Arrest Bail To Pawan Khera In Defamation Case",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTHZ6SUZnc2kycVpyNWVCLU9DUnA0b0hMSFNQLXFoM0NrUnUzb2w5RnBORjRlWTU3U0JOU3MxQ0NLa2RNekxmVXRxR29zR3YtSnFEUTBTUFJSaU5fVGVQUnppdFc4TlRiMXZ0eTdVd2FkSFF6X0h5S1hWbHFYc0FSMTExM0VaclpXRm5JeEZIck5EN0JLQ3pVYVpjenNxQjdqOWFmbUFaeU5DZHpnWEI4YXZ4SC04R1VUSTdYSTBPb1N1Tmt5UHfSAcsBQVVfeXFMUHRjSEdULXV4QU5sbm1USk5HUl9oWGwxT1QzTGw0TThkOHFnRkJ0SGJuLWZabGxrVlBoLXhqcUkxbWl3VkpOZ2ZXVG9fTmRpQ0hlOWc5NjJTeFQtdkk5SmgyUTl0SDhrcFg4cFFrYVJ5aHp2bUlBX1JEOUlGMmk3V0R1UndpSUZBOU1IbWlma1hyT29IczJmMVZUNWZmMDhQT1lsVmFvbjdZdDZESV9lUUJ4bW1zN3RaVE1MRjExOWZCOG1xVmUwbC1DTWc?oc=5",
+          "date": "2026-04-24T07:00:00.000Z",
+          "source": "The Hans India"
+        }
+      ]
+    },
+    "Ward-15": {
+      "cachedAt": "2026-05-17T07:11:46.794Z",
+      "query": "\"-15\" Guwahati (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Three Arrested in Guwahati Theft Case, Stolen Aluminium Frames Recovered",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNEJUT1l4cHo5NURWUF84RVJXMWJwUHhzNzl3bl9may1LSWhPTGx4V08zMW1pSkRieEpmZnllWGN4Q1ZRamJEY0gxUzRBMGZZSkkzdjl5WVJ4aks4UDhyOTFOQkJORFkzVkVRNWJ1ZnhjMDhqRHhyelZ6UzVOamI2M0hiSXBzRUQxdDBCanpZbnR4U19yTEhmZ2N1dUJnX3hvNmc?oc=5",
+          "date": "2026-05-15T14:30:54.000Z",
+          "source": "G Plus News"
+        },
+        {
+          "title": "Assam Crime Branch summons Pawan Khera on May 25 over allegations against CM’s wife",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMk5PWXJuenR1c3ZLZG5ySmdxbFZBaUNuei1sMUhESU9jS3VtbDVzQ1BycENXSlpuVFlnQmY4OWZHR2F4MVE0a1V3dkJuc181Y3J2WGdUS2dzcEpXUVluZXdSdW9FU1hQb3BXQnoxMUI5blNDV3NnR0dRY2N0Y2xMQUdkeU5zSmVqbVdiZDlPN3IycTVvVU9kR09fendST0l4Vk5kTWlYTXUwTzh5RXZrVU9xLVdIREZ1aENFc0VzVUV5bnhjMFHSAcsBQVVfeXFMUEpkRnBaVm1YTHhRNHYzdEpGMVNBUndDa0h3ajg2WURFaGlUVXpiN3U0RFBBaHRmVHFDY3laazVyVVdsbnNIcDVDV1YxdGlzc2FJaW9EODEzRFlDMVRrX05Kdzl0WGtRSHVNa2dLTG5xX1ZaemQzQm90U05hUlJmZ2dFajJGWmt1eTFUREpCeXoyTFFJSVdJTkRZTkF3ak11YmZ1cXBJLUtZWHZJaDZkbHlPTVY2UlpvRldrMmZKLTlxQ1ViZ2x1TUE2ajQ?oc=5",
+          "date": "2026-05-15T06:52:15.000Z",
+          "source": "The Assam Tribune"
+        },
+        {
+          "title": "Guwahati: Pawan Khera appears before Crime Branch in case linked to Assam CM’s wife",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMmtQYVlyODNJVHBqMjdXWFp3QzdFbHhZTEtuS0dyLWctSjdwOVh5cWtnMGxRc2NFYTNjVG14MmZpRDc2UGtQU2xUWDhTSE1acVFfNTJ6a1NCSzJWVjI3TFJDUHZwWjV5cDJiU2k2SDl3Y0lqb01nalpXSGxBVnk5SEJHRWN6VkJycnAtQ0JSSGRRdmdtWWQyNmo0ZDV5dy1tZm50aG9YdTlUMjFuVm1veEF2Zm5VR1BOd21WbVEtYUZveEFHOGVwdE40R3FxYVBpdjUzbHZUa2JFckd50gHiAUFVX3lxTFBUaFh3cDBOTklOQml1U3c4ckxnWmN1YzkxZ0p6TlFBM1doSVBIWk9FMnR2al9jUFF6LUh0bU9ILTh0YktqaFVZZS12b3l6TlVyOHpCTkF1WjJLWTZoeE5PNWZZbHk2RWgxdk9JSDQ5MHc0ZHB4bmdOUWFkZmVLNXpHUkhrcTFPdGNPMXB2TXpjVWhndjZIWVk5TUFGdUx0ZEltNEo1WVk1dkRNa1lyTDRqeG9lMlQwMV9wZnpvREdwQ2lRR0x3RTNubm54LXlucWEzRUU0dnFrSnpqMTZXWDJBUnc?oc=5",
+          "date": "2026-05-15T04:27:25.000Z",
+          "source": "The Economic Times"
+        },
+        {
+          "title": "CM Sarma swipes as Khera faces Crime Branch",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOY2hRcXAtRmJPdkJlM2g5aGR5Q3ZqZ2dHMFM3NDRnVUxrRW00WTRKQ0U4WFFlOGdpZlBTbksxelJHZ3E4eFhUU0UwdmFCS2YtYi1WOWFqMzFweVlYaEhhWWR3WDdxMWNOUHNSM0daSklTTFBFdldkVk9jWkE4QUtFc29zNFRqX1dmUzlRVVVrbUgtcUNiY29rTW5XVTZQcEpaWEMzalNoaw?oc=5",
+          "date": "2026-05-15T03:30:13.000Z",
+          "source": "Magzter"
+        }
+      ]
+    },
+    "Ward-18": {
+      "cachedAt": "2026-05-17T07:11:46.794Z",
+      "query": "\"-18\" Guwahati (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Guwahati: Pawan Khera appears before Crime Branch in case linked to Assam CM’s wife",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTkhSUXFWbTM1dHdFdFU4X0laOVJINHpkOGY3TktTOUZ2dXp6aWY1SmNucUU5S0NNdDRySnRWUEUxLUFjNUxjbHBOQ3RmcHg3Nk1QUWJCeGpOempyY09tR2ZjaDdoWXk2TmNfd0Y3MUppZ2F6WnlUa0VweTFwSTZsa25PNFJLRlNGRDl6cUM4NG1EbjRKQUdvOEVGNnVXVnhELVlCenBveGN2Nzl0MU9WZkJoYjZteDRtc0VXR2RUNWRVTFJTV0c0blk2cEpUN2xNazhtVkNRN2JzMHFMWEIw0gHfAUFVX3lxTE9OSFJRcVZtMzV0d0V0VThfSVo5Ukg0emQ4ZjdOS1M5RnZ1enppZjVKY25xRTlLQ010NHJKdFZQRTEtQWM1TGNscE5DdGZweDc2TVBRYkJ4ak56anJjT21HZmNoN2hZeTZOY193RjcxSmlnYXpaeVRrRXB5MXBJNmxrbk80UktGU0ZEOXpxQzg0bURuNEpBR284RUY2dVdWeEQtWUJ6cG94Y3Y3OXQxT1ZmQmhiNm14NG1zRVdHZFQ1ZFVMUlNXRzRuWTZwSlQ3bE1rOG1WQ1E3YnMwcUxYQjA?oc=5",
+          "date": "2026-05-15T03:49:00.000Z",
+          "source": "The Economic Times"
+        },
+        {
+          "title": "Assam tops Northeast trafficking cases despite low regional numbers: NCRB",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPX21kdzQyR0o2ZFJDSDVqTXJTd1NuRWdqV1NyX1JZWlM3QjB1QU1wenplQldBdDBfUTNYeXlUSldfY3R3aDRPV005blplaFEtNnlTMFRQTXM2aFkteHRhTXJqT1Nid1kyOHJ0UE04bUhHQm9GYk85Wjg4OGR2SlRZSmhUQ1BPUUduUnE4UnpEQ0NaSFRna2J6Y1JIcUE5QjZzdFFBUmhBUDlnYmRiWk03R1p3?oc=5",
+          "date": "2026-05-11T08:30:20.000Z",
+          "source": "EastMojo"
+        },
+        {
+          "title": "Will Pawan Khera Face Arrest In Assam CM Wife’s Case? What Gauhati HC Said",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaGY1MWUxa0swSEJOdlp6cFpsSXZfM0U0dHJvM0ctNG5KUVVPQUhVSHQyM0paRmFCWHYzVVdyaVJoM2NnVUdWZFBaQ2RmVXNOaHZoTjFGOWNzUXVpUkJCN2FadF9kLU9TSmtLbTNhZ0Joc2t1Z0UtVFZVd1M5bGpQbHVKYmJ5dURxU3NvLUxpRlUybHRiNVc2UXdnZVM1ZGkwTVpMMVhtYjRlc1Jpa0doX0NFenRvUnRSWXVuWNIBwgFBVV95cUxNU2pjQ0c4UlgxLUpIdEI3dWh3Nk56WDBFdEUyVE1SY3locS1HYzVJanpQWUlibHdsN3ViRlkta1RkTF91dTBxQjVKOGtUSkg1clAtNURBNjRSRG1BXzY4MWppdFVuYnJQeDBEQkRRcnR6Z216SUFoXzEzT2NsbTVqZjN1VUlzM3V0NWJwdkJ0eEVQTHRlVWVBVFVkSndndW9JeTZLZzFwSlYyRE5KUWxaWWdZV2Q2clpuRDFVdjMwcVBVQQ?oc=5",
+          "date": "2026-04-24T07:00:00.000Z",
+          "source": "News18"
+        },
+        {
+          "title": "CBI Arrests Cybercrime Conspirator in Guwahati Under Operation Chakra-V - The Sentinel",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQV2NUVnl0X3ZRQ1huRW92RGJJMTQ1TzhEckpRQ2x4QmlaRTc1b0xFN0FHSVR5aG4yV01BSUI0NDc2bV9hdXJzU1dxOXBTdm5YcnM2cXJBR2l1SVJWNld1SHc0ZzRodWZ5djg5bXBDQTc2NHgyYllUTTVKMF83aGVGSUFmVWhIVkx5UjdoOXJ0bUlWZ1RaQm4tTEJYdmFuMUd5cFBhS0NUOWZHVzBVWkF2TTZ6ZlTSAcIBQVVfeXFMTVhYR3hnaTBwMmVPdzhyMkRnNEZ6RkprYkF5TEdJNUZsRTZFbFlDR3NodGszZFVQV0E1MEtXZ3c4MUdibkhnYllJQlF4eW43OU1BcEpPME1pSWM3NnduTHFkTXMwMy1sR3BFdzJlbkhncllVMzAxWnZrVDRkLUd0dWF6M1RBTEdOQ1dGdkVQM3FxRDVYdUNpUFpETjI0d3p5bkhWeThBRGE4M3hqRlFsTU9Rc1RPRHRtMDJzdWdLZ041dEE?oc=5",
+          "date": "2026-04-21T07:00:00.000Z",
+          "source": "The Sentinel - of this Land, for its People"
+        }
+      ]
+    },
+    "Ward-30": {
+      "cachedAt": "2026-05-17T07:11:46.794Z",
+      "query": "\"-30\" Guwahati (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Pawan Khera Joins Guwahati Crime Branch Investigation In Passport Case After Court Orders",
+          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxObVJxcDYwUktnMXlSMzAyLW5aSnB6SHRZak9zQV9sLWY0bGpsbDQxeHF3c3NHa0R1Z0lqTnN5WXA2M3NDMDhpTk9QOEN0OVpIZ21BYWdUVW01ZS1XeE90dWR5TWpoUnVTZmRPYXhJUFZWUk1LbDZEeDNmUFNqRDBmb0VvVG5HRFBHZEFyLXVVdnNHSlMzaTRJbm1KYW5BNzBhQ3pNLVVyQ0RGZFFjNzN2UHNSTUV6TEY0eWtiRGJreUVoSm5aYktzOXRvZkZXYUttQzBGZnVpSVA2OUJMc1h0V0ZSVzBPaHdjTlhoeG03X1hIelhXOGJVYmdrSUVVNXZ6VmREUzhSZDFWa3Jm?oc=5",
+          "date": "2026-05-14T03:41:03.000Z",
+          "source": "Dailyhunt"
+        },
+        {
+          "title": "Guwahati: Cong Leader Pawan Khera Being Grilled at Crime Branch Office in Case Related To Assam CM's Wife",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObkZ1dnNvZGpld3Z1MUR3ai1hN1FJbmlyVmtoMnpZYjBjMnVoN0k0aUFoTlVydjREczFEQkIwN3NQa3pwUk5QakR2U3pCQ1VOdk92a2h3dkpnbGFNaGFuWkhieFJHRG9EVy13VXpuSlBob0JmcTEwUmJiUzY3RS14OUlXeGplbWJNTEJmTDFxY1JibzFjMHNtNzZTN3pDZjJDd1ZvWms5ZXE5MERtWi1rNTNfVE9YZ3d3dF9Lbi15d2dvNzBCdzdNVGJQWEFXMnFWV1g1UTNmTQ?oc=5",
+          "date": "2026-05-13T09:02:05.000Z",
+          "source": "Northeast Live"
+        },
+        {
+          "title": "Supreme Court Calls for Law Reform on Abortions Beyond 20 Weeks in Rape Cases",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNR2M2WDY4dDYtSjluUkROX3FkMXl1WmJjUXRFc1A0b2xDWk84Ti0xWjZDRjBLZnoyOE0yWTVZZmJXSFdlX3k0NnV1M2x2WWswZEZSei04SkpJYkU0b0x1c0tyWFJLclJDczF5RkxWZUlKRW1OOHptY1RuR3VWalUzcTJ1LXpSTVFPSTRpcjJzUVBub1Q1aF9zb3JDZjRrVUZGeXRoblE2YWNTRk0y?oc=5",
+          "date": "2026-04-30T07:00:00.000Z",
+          "source": "G Plus News"
+        },
+        {
+          "title": "Kanpur Man Allegedly Kills Twin Daughters, Calls Police After Crime",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNd0NIZmJpekd0T0xuNDRvb0MyUmR2RWFLdWtqSGtXSXFIVjZ0cnlCTG11NUVMSjRoS2E4bUtzQXdrQmZKU3VhZS1BdlByanZfT2xhdW12YVZVWUVIMjhpaHVRVlA0NzBmcUpacG4ySzRJU2ltcllXaDRWUzR4TFgxY1JMeFVYbjBpX1hFeGpieVhTZ3gzRzBwbGtoTQ?oc=5",
+          "date": "2026-04-19T07:00:00.000Z",
+          "source": "G Plus News"
+        }
+      ]
+    },
+    "Ward-29": {
+      "cachedAt": "2026-05-17T07:11:46.794Z",
+      "query": "\"-29\" Guwahati (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Drug Racket Busted in Guwahati; Two Arrested with Heroin and Cash",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRHMwd1ZLLXBBc203dFpzbDVzNmptMHRYaTlaRVk1NkpRWDk4d1B3eG5pMTI3NTJ3WWdWVUh5TFF4NktjUGUtWXZOVTBsSGplQ0NHY01FQ3ZVQWIxaFBod2ZoSkVGa3ZpR0lYQUxyVzhJOWY1S0lDUGNLUllPSjdRblJJT05VM2h6NUVIUWJBYlNwUURtZnhmUWFWaXVlbGMyWHR1UA?oc=5",
+          "date": "2026-03-29T07:00:00.000Z",
+          "source": "G Plus News"
+        },
+        {
+          "title": "8.5 kg Ganja Recovered in Guwahati’s Natun Bazar, Drug Peddler Arrested",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSkc5aDVUV0RzQUNaLXI3bmRYY3pNOXFYZ05TXzkxMmhiak1TZmQ2UVppaFBaZU04SkRHenliZmhUanJLNmFmeWd0NUxKblFLU1BfS0pCR2xrMlZrellaTVcxcWwzR2xPSFNPN044dy0tZUM5cC1DTm82cGtxQzBPRVhpaXRaMENuRG53bWNyUGNfWEdJVVFEWjJvNnhWVk1KeEhOU21ocU9SUQ?oc=5",
+          "date": "2026-01-29T08:00:00.000Z",
+          "source": "G Plus News"
+        },
+        {
+          "title": "Amit Shah Inaugurates Guwahati Police Commissionerate Building, Surveillance System",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQzJPZkFyV1RnVDBMOWFhMENiQU5IdFpRUVcxTzU5dThCLWlibmM4UVBqSEdmUU5UZFktcHpHd1lpcWJIQmRKcWczbHliNk9CcU0xckN0UGdkVEdWMXpabmZMNzRXZlgtTlhvX0w1T3pnTzdyRTdxT0ViQWNOc05UT1U0aTZON1lxakw4bllOZGhaZU90QUdqeGdPLTZzZHF1Yk9iS1hnNm5LcVRlcGtSMENZQmFOMm15N1VQbw?oc=5",
+          "date": "2025-12-29T08:00:00.000Z",
+          "source": "G Plus News"
+        },
+        {
+          "title": "Amit Shah to inaugurate Guwahati Police Commissionerate, Command Centre on Dec 29 - The Sentinel",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNEtOUEtzU0pOemN5Z0pndHFlNU1LVXNpXzEtR245NnBEZWtoN093MTJaUmpEN244ak9oc0lRRUtPMjM4TFhSZTg4TVhJbjFSQy1XLUtMMDEzengyYjMyZXdGSWdlRlpPY3MwS0F4d0RGX3Q0RU5sbnFRNlZCcE43RzF5WlhfZTdxeDlSUEZlRWhLQmUzMTRqMjJmYWhBN1lWcnNXZU03cjJ1U0RqaG1RTDlTcWhvTFVPdUh0dV9BU2PSAc4BQVVfeXFMUG5pcnJudlpsUldncXAzZ3dWMzY5Zm5EZV9PRlpsN2VER3pVMGhGaVEtVkJxNVNxMFM5dGlkSUxvQ0dXNURpRjgzblFSdmtmXzhMcHJ1TDZpcUpmcFp5ZXFDSktQWFJqMzl2elpoaGZJQXowZldNLTB5X2F5alV2WnFfX0MwMW1CNHpFb21xZ0UyeEx0R3F1QXBSeEJEOHZ0NUplOWlMaVRxOVhBc2JCQjBnSXVZeG1YNS1GdDNYYUQ2dm9CWWFHTzNZcGFXUFE?oc=5",
+          "date": "2025-12-27T08:00:00.000Z",
+          "source": "The Sentinel - of this Land, for its People"
+        }
+      ]
+    },
+    "Ward-22": {
+      "cachedAt": "2026-05-17T07:11:46.794Z",
+      "query": "\"-22\" Guwahati (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "78% rape accused walk free in Tripura due to weak prosecution, poor evidence: Data",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWk1tVjVESFJpTHo3eDV2WW1TaGl2eUFGc0h1UmNmWjFSSl92VVBTY2trczQ5OVBWc09rel81dEl1dVJ3MVlaenNGNTlzbkxSRl93ME5UMW9oc1hTS20tSDNDNGFGUzU3MTZIVFdYNFZQc0hiRERjRWlVLW5aYkFPN0drU3BQcVBwbjFmLTM5YTM5Zld4cG5CWGZFZXBDaFRNamRNWUduWEJOOC00cjBEUDlNdmI4T0pqb3BuWWw4MWJBcjFRd043aW00VjAtV3pOeVNOSTgteDNKXzZQMFFTOF81NmZXeHhHWVNV0gHwAUFVX3lxTE9tR0xjbG1pRmlsd1pEVVV4MlpDa0taelpTeG9ZOHpBZHBjWUJxWmFScVZxR29OS2c1TGhvUm13M3FUSlhSSkpTYXhraW01RXVFWlc5YlBiMmdpdXFlN09ZalotTGhxSzk5RmN4UkNrRk1vbGJrbWwtYjZROGF1bjRSUUhWdk5ZX3NDc2dTcFAyUnR2OVZmSHM1eFdjUWowTk1CRURHRkRkbW9JVjBzem9WekFNbXBmOWRCX2ZrNElBNjhMbkVzYldFV0ctRlZSYVdNSXpCaVNDc1d0SUFRNDY5VENJano3bnpzWHROMVJISg?oc=5",
+          "date": "2026-03-22T07:00:00.000Z",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Why West Guwahati Still Feels Unsafe Even as Crime Figures Drop",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdXNKeGQ5dGNVSGNZdnNZU3Z6Y3ZZYmZJMXFZaVp2QWNGVTVLZER3Z0hLN3I3VUI4UkJVck5OZ2w2bWo1RnkxTXNHQS1MUGNzU2hkclNQd2Z2RXc4bnZyYWQ5Rkt1ckZuT1J2QTdvQWpwR2NZY1BoMTdaUTI3cENNbVNOZE9BVm1peHdtaDMzamV5VnlVTndEaTMtSE1xMWc1bzhpaQ?oc=5",
+          "date": "2026-02-28T08:00:00.000Z",
+          "source": "G Plus News"
+        },
+        {
+          "title": "22g heroin seized near Shillong bypass, 1 arrested",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPT2V2b1FaMEU1RHl0Q3VnNS1oeHh1NWZnbkRmYnhSMVl6WWdqS0IwaC1TSGRja0VPaUdraXNQRGNiRGozd1pyV1EySnFYeEFLOUkxMWttbnVfNWduSmFpMmhOQWxYaE4xR3htWXZPbWJZWWN0ckU5VW50TXhkYTlUUXRBVWF4Tl9yUmgxWEUtMkpJZWI3TUdyMndyd0ZlNm1TSXNpcDB3aGxkcGg2aGtXcW9VWC1GSXJicG1GU0ZFQjhQcVHSAcgBQVVfeXFMUG1kR2hkUGFmYnREbHdrS2xRMGRySjY2aGNBRUI3Vk9JYkY4UlRVRGJpOXJqTE1UcGh6LTdrenVnQVZLbkZPNUhBWE10NHBnb25mT3BnNGJ4T0dQRUFiOHJidEF0cWRMVWJiVVRfNDhqTWV2Z3FFemgxQmR5U29MdHNDWkFVOVRkQ1hTTGZwRTMzUUw3U3h5MG0yMG44S2NidVpJenlnU0FVVFI0YTdVdElNRmdVWXVHeE91NHpXSDFZZXBvTk13NmU?oc=5",
+          "date": "2026-02-22T08:00:00.000Z",
+          "source": "The Times of India"
+        },
+        {
+          "title": "UKNA militant arrested in Churachandpur",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYlhLTVJKV1RodTdRTDBobjZmd1BvcFY5NkwtdnVjYVVLc3paaGc0SVlDSlpuYkJkYmlURUZySHJHVTMySEhwVUUtMkJlcGRPVkFXRi1reDR4aUoybXFVRlVDOW16c1lxRTY5R1h0cWpVenpnSEN5WjkyMU0xXzR6MHJhYWZQVUNJMmc2eGNrQ1JKMDFjcnRpbkxOM01YaEtfTWNXX3lRZ3BKLXg1S0dpa3NfMDUxZ9IBuwFBVV95cUxOYkRsQUVjZWNzTzk1VmNoaks0YVYtaEhEc2xlQnF6S0x1UVVEWl9taFVELVJTSEhSZUFTN28wV3h2aUdlRDlXUkJDODNjRGRwN0pVQVBFN3ZmcF8yZ09pbzVFa1l1MHVJbGxaMlFKWXZGdjJSaHExTndjaGc5cXpHNl96SXNid0Z6UmcyV3F5M1NCdWZGbDdwNkhqbkwxV0dLNnYxekZwdDV4NkNFazhpdkdXU0o0RGhYUkx3?oc=5",
+          "date": "2026-02-22T08:00:00.000Z",
+          "source": "The Times of India"
+        }
+      ]
+    },
+    "Ward-28": {
+      "cachedAt": "2026-05-17T07:11:46.794Z",
+      "query": "\"-28\" Guwahati (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Congress Leader Pawan Khera Questioned for 8 Hours by Guwahati Crime Branch, Summoned Again on May 25, 2026 - The Sentinel",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcHRLREFLOGZiUG8zMFVXMVY5UEFvTl9IelpVb05tYWVvUVJYdFFWMEk4U0YtNFdZLXBYdi02ZksxV1lTRjE2OERpeXpmZElLUWtObl9CTV96NlJWbnJJQ1NXTGxHdWhILXdEVG5iT196YnY3X2pCRXZwYjJFVGpyUU93dFpBOGp2dUJTZFhnbExYZzhDWW1vTU53eWpwakNBVlpJaXhXWG5jY2VCa3MwejNDN1Z4ckI1WV8wbi14c3YzQVExR010QU9hRjdQYzRZV2ZNWl85RG0zNTUxRGVQY2tn0gHvAUFVX3lxTE0xel9yMW4xUFZnTGZTM0lJTVAtQWRCUUZ5YjhkNzJxbFlvOUx1T0pIQUd6VW5HYXNtMUtVZmV4M1FLd19jSGl4SEs3WnNGcXZZVmdyU1hlZjJwYThCVy1mbzBRcUQ2VjNMZTBzVm0yYmVXUExGM2NIa3lIczdtNU9vYXg4bFZWN3Jkcy1LUkRVeUpTanF4eUVaNlgtOWVpTE5Jem01OE1lWW5UdFVyLW93UTN6TmxiUVlTSTlKeWpqeXJhUkgyVUlnc3FWdVprUW1GMDU5aTRVQ0hjTFZuemNJNmd6Z2lrUDlJUk1udEhN?oc=5",
+          "date": "2026-05-15T02:51:00.000Z",
+          "source": "The Sentinel - of this Land, for its People"
+        },
+        {
+          "title": "Why West Guwahati Still Feels Unsafe Even as Crime Figures Drop",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdXNKeGQ5dGNVSGNZdnNZU3Z6Y3ZZYmZJMXFZaVp2QWNGVTVLZER3Z0hLN3I3VUI4UkJVck5OZ2w2bWo1RnkxTXNHQS1MUGNzU2hkclNQd2Z2RXc4bnZyYWQ5Rkt1ckZuT1J2QTdvQWpwR2NZY1BoMTdaUTI3cENNbVNOZE9BVm1peHdtaDMzamV5VnlVTndEaTMtSE1xMWc1bzhpaQ?oc=5",
+          "date": "2026-02-28T08:00:00.000Z",
+          "source": "G Plus News"
+        },
+        {
+          "title": "Seven in police custody after violent Ganeshguri brawl; accused allegedly used pistol",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObVFsUXNrWmI4S2Q1TkQyT213THFQbTk0VjRrT0Q4cE9EVmJ6MUVyZXpoUFJyUmllTVl5RkpOb3BEdVFta25nUFhabGppQ2Nva0QzUThzOExicU9UemI4YzlXWFJ5OUxrOHBJeTVRazZnVUZZYXpxSG1ZUmItdjNLX1RNc3ZrcUFPTF9NcGljY3o4Q2Z3N1pVZDVkenlRdnhwOW9NdldxUnRFS3dGam5oaVlxQTBHX1dyRE1GbFBZUXdsZU5o0gHKAUFVX3lxTFA2czZPUjRFclB6U1ItSjFQN1JhaVA2RklyakNPcDFvVjY1TURjdUF5NF9xT1RNdXhjdjJVb3hyUUExeEphRjF1N2p0ZmJpTGRFeGFwcjdIYWZnQmdqRlJRdlliSnVOM0hjYlBici1FcUZyNFZlNXRvMDZTXzBqXzEzMGJFZEllWE5POXMzRXA2SjBMaTN1cU9CVXZwaVlpV2dCbVIzcXBxSTAzOVpSZ3ZuajBSMTVyYjh6Q0Y0WkF6dnJfbGwzcGthYWc?oc=5",
+          "date": "2026-02-28T08:00:00.000Z",
+          "source": "The Assam Tribune"
+        },
+        {
+          "title": "Two Arrested in Guwahati’s Lokhra with Over 1.5 kg of Cannabis",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONU9JTFlNZlNhZWc2cWdxNjRFUURwdkNhMzU4TUV0MlI5RkxINU9qdkRUWFprYzlqWXlVaERFVHVFT0p3VXNJcU5NaHZJOUgxN00wcUczb0lqLWFVRlBvYXp1MEdqUUpaZVFPZ2Q1YXZlcEZsYTEzaFBrM3I5M3E1emg5d1YwMHBzQ1NOYjhMUktwcEh0NF9SUXRn?oc=5",
+          "date": "2026-02-27T08:00:00.000Z",
+          "source": "G Plus News"
+        }
+      ]
+    },
+    "Ward-27": {
+      "cachedAt": "2026-05-17T07:11:46.794Z",
+      "query": "\"-27\" Guwahati (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Pawan Khera Appears Before Guwahati Crime Branch In Passport Controversy Case",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbS0taHVPb24ySVlmby1oTDRDQzZWcW5hSkhQMVFPY1JZdDJfR3ZoWUFnQkV2ZTIyYWN3bmpSUm55Zjc3MERUZUdFdjkwZndySkFIWEdjVnI5dFdwZjl1YVRxMnNuY0daZmpIblBrck1tTVRza2lMRWpHWGhTc2pZVnM2akZXQ0pJeTlnMXE0Z25SOTVMWTVhZWtDanJUSExyUjM5eWRrUDVLUVRnbVhhZTR5Q3FXUHd2NEHSAcIBQVVfeXFMUGhTRENmZ3poZ2MzVjZsU3ZrU2NHVmhyOEoyT2ZYQzduX3BLVTVBUUJZeUlGT0c1OUtmTzZ6OVY5dU1fMDVfSWs2S2pNUTZsRVVaOHA4Skd3SzVkd09lVVhHTWJZSnFqYTl5OXJkRzVIZE5FX05jbjk0M1dYa1A4eldJZDdDdGRZbFFNOGtXaWZ0Y3JEWGZwVW1hWk1tajZQT0dJaThRb0tuSDc1SHpWYUFwRVJxZjhDaTdhcDlLU0M5b1E?oc=5",
+          "date": "2026-05-13T08:57:09.000Z",
+          "source": "NDTV"
+        },
+        {
+          "title": "Pawan Khera Moves Supreme Court Against Gauhati High Court Order Denying Anticipatory Bail in FIR by Assam",
+          "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOQW1uUGo3VnNJaUdDOWoyaXNDUTdXRnBJVzFBMVhVcG9ZeHZPOFVGZUMtVHNtNldKSmhMYzF2UWUxaG9BYWREdXdpZVlWOXVaSjFJVV9yT2VURHFlVTJiZWZBWDJINjBFWGhYYjdGZkVyM1hsZFE3bWswMU85QVpPRGRoakRyeFF5d3VjZ2VISllQSDlpUUF5NE1GNC1YS1p4WnJya2x0RkNVNkRVRnVLSkZvaHR1RWQ4VXZ3MjZoUzBoRnVHUE94ek5LTzd3bFlIcG1zT0Z6d25zYWdGNEpFOVlWaHBWY0Y0c0dGOXFvUTd0dGZUV01UUGV4aDIza09WZ08xVkhpZUlIV2pVeHdaR0Rn0gGXAkFVX3lxTE1iejZBbkZPU2FGRFgzOElmd2ZCMWtUNTE5bGMwVThzSnNZSlB5YUdvd0J4QVd6NEVLYXJfOFhvQ2hJQlpRV1pYdVlFT3piVzJYOEpVMjZySTlMeGNEbW9PdmZSLUJMY1JxTFhHbzVmeXVZUVhaRW1YcVVGMXRtNEJ5bHUtRXF5eTR5SVJJWWZWZFRhWEtqUFJIXzl0a1lvdXRYUGRrWGFJVlQtaFB1WEpWSldvZ2tLcjFmODlCRHl3OG5SNkc2bjhBbUhBQncxQ1Q2TWlpaU8yaEUyeXE2WFFka3NwbEk1WVFGbURrRWhRcjF3MDlaTDJWLVdxSjY5WUdScTg1THFkLWVWYUFsdzRJY05GcndVZw?oc=5",
+          "date": "2026-04-27T07:00:00.000Z",
+          "source": "LatestLY"
+        },
+        {
+          "title": "Assam: Police arrest main suspect in TISS Guwahati hostel hidden camera case",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeVU5Z3VYMGZRQ3ZLYms0RDRlSDQ1SXFtV1R4LWNxa2ZMNExMWmtwZ1BEU3VhU3BJREl6ZzZYYjc5aDhCbVFKdHVNbnVnU01IZWFHQUxxR0c4R1E4YnlkeGhUbjlhM005SDBuMG1yYWdUc3hwUHZ1aHN6LXVQam41cnNHTFM0eDdRalZfZ3lwY1VwUG9OTF9RUG16Y182ZWhKS2FRdi1NMmJheHRUem4ydW1SRk9LQWtLS21B0gG7AUFVX3lxTFBWdWxNS0sxWFpxWkM0SjloU0owcnlJWld6X2FQX2xwNHFMTzA3bzdubWpQaC1XQjVUWkVYLTVkbDZVMkhnSkl6bzRmZUNiNHRKdlk2MnVrSVkxM09pbVJLazEtWlVLM1VxQmp3Sk1hbzg4Wm5yVmZmSUhmQllVdWtRMVJTM2FLODM2bjE4dVdyNWw1OVhxTjJBRnE1UWVleVZVRV92Vi1GU1Y5dnN6cl81R254bEtZZXEyVVk?oc=5",
+          "date": "2026-03-04T08:00:00.000Z",
+          "source": "NENow.in"
+        },
+        {
+          "title": "Two Arrested in Guwahati’s Lokhra with Over 1.5 kg of Cannabis",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONU9JTFlNZlNhZWc2cWdxNjRFUURwdkNhMzU4TUV0MlI5RkxINU9qdkRUWFprYzlqWXlVaERFVHVFT0p3VXNJcU5NaHZJOUgxN00wcUczb0lqLWFVRlBvYXp1MEdqUUpaZVFPZ2Q1YXZlcEZsYTEzaFBrM3I5M3E1emg5d1YwMHBzQ1NOYjhMUktwcEh0NF9SUXRn?oc=5",
+          "date": "2026-02-27T08:00:00.000Z",
+          "source": "G Plus News"
+        }
+      ]
+    },
+    "Ward-40": {
+      "cachedAt": "2026-05-17T07:11:46.794Z",
+      "query": "\"-40\" Guwahati (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "'Assam's Peda tastes good': CM Sarma takes swipe as Pawan Khera appears before Guwahati Crime Branch in...",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNRzhmSVh0UmttS0JwYi1NYkxHazZ3T2EtYzFlRlp0ZTFaQUQxX1RZcnBPdEp6ekZ1WW1lMTMtcmhpRkxlbUVuWmRQM2FNdDVfWDhZa2ZjQ1NGRGpnN0FDb2RtQWNHUTRVZUtBbXlzV3lWWHlCRGVhVWJnT2xRZ3lFZjgtUEVHbVpNeVdENDhMd3R3UUMxNjlzTnJFMFFaUmNHMEF5SGpKS0hIUGFfRGt3T2xUZlNOd3ZrLWJva1V5Ym9qdk1qY0xfd0k2Rm1GZXBkU0M2UzRBU3F0ejNhUUxBZkR0TC1Od9IB6wFBVV95cUxOLVVCMnVXbWRwcDVuUzJPTV9JWGdxQUdFWVFHV0ZIcUE3TTJ6LUh0ZTUxZFYzRVJqMDZGcVQ2dUpfNUg2SEI2dnNnRUx1enZfTmJVNE5pdlV2N3luU3kyNEM4Z0FlMXg4Ti1GbFhmeUNlTlRqUGhsZGhXeElkUmMwVXJGbDJGRHFvOTlEOVRiU3R5Y0k4N3VBb1hoYkg4QnlIUkVNczZIREJUcHN3SkpUcWN3WFFVdmpCc3p4TjFzLS1XWmRRRmlLNFVuY2F6MTZnVU5QNUFTWnNoeFBVQ0M3bnhOWTlNYmYwWFFZ?oc=5",
+          "date": "2026-05-14T07:56:10.000Z",
+          "source": "lokmattimes.com"
+        },
+        {
+          "title": "Guwahati Police Arrest Drug Peddler, Seize 40g Heroin in Khanapara Raid - The Sentinel",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVFlzQnRWVzRldzhsbzZ3azZvVi1Xa1ZZTVRIQXFLVVF3eVgxblJwaFh1SmRiN213aENVeWJQdmRBeDRHWWlla1NuOUhtYmJYRFQ4emxCZldSMDc3Z3RnLVlMWHJhM0pwWlllQ0VHbkhzVldLakpUYmhid1RWNFk1TFFUSzAxM2QzSEtwU0lOaW91MVRORmtMdUdnTFBILTlHWGZIMWRqeVJNdGphTUZuM2JFaGJwa09HMnJrMUJR0gHLAUFVX3lxTE1tekpVOGhjQllDWmFiU3ZKelFBVDk5LWZ5OWRuckJWZFQzX05RdTkxWTBhbnc1Yno3LUhBNi05ZFF2WHNxS0Z4UkRGYnpaQU8tckdlQjJicWh3cFJqVFFsODhSS1lBTUhHR1JOc2wxN1RoZVNudDB5UHkwUjZTVU1tTHlWdXJCUzdVUlpnaFVZWks3T3RMbHo1TF9OVVUtSmdmcHJnTExrSzFWejRZN18zMC1yNE9tVjJGWVlwenhadExic2VHSk45eFNn?oc=5",
+          "date": "2026-04-20T07:00:00.000Z",
+          "source": "The Sentinel - of this Land, for its People"
+        },
+        {
+          "title": "Drug Peddler Arrested in Guwahati’s Basistha, Heroin Seized",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSWpESzU2TTFmbE0wSFpwVUo0ZElHaTF6RFdpdTloWWZQUjU3X1NwcXlLQ0xxZkNtVWlKTm53WXFjSDhEa3Bsd0lhdzIxMnN1anZ1T0Q5REw2WFE4bEdyU2pyd3NEMU9PeUNoWTVEdzk3UHpxcUhrZzF4alhUbUZacHVLUHVCZWQyZ0tjUUEtRVlpT0JOVWFUcXlhYw?oc=5",
+          "date": "2026-04-03T07:00:00.000Z",
+          "source": "G Plus News"
+        },
+        {
+          "title": "Mizoram Police seize Rs 31cr worth of crystal meth, arrest Myanmar national",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNYmtLMk94Z1l4c0Rmd1VodWp5QlRwTnFtc0hFZVBxWWtEcVVRTUNmaHJTMzVwemtBSWp5eloxbkRxYXhRSks4cVNGMURUZWNmZTJxX0QxN3FzN2VfbDlzSkxHdkV4LUt0ekJwYkFRdnRiaS1rQlJYUjl3RmFHSHhzSlNKQVlzT2ZWakRlbWRXNWh5dnJaS3U5WDBSQVJmcUpQcGNCbTRSeUYyS2VwY0ZDOEJwX1J4M2VSOHFmMVBGR2Ftcm5JUzJTNjRhSHdHeTlqMTlVZzdMOUxYQ1NHN2Nab1R2ZWLSAeoBQVVfeXFMT3hpbno1UVBBOGk4aFFkRGZqTmlEdHRCSUlyN2MtUWxQWGkwckJPblJsOXp4bEdOZmgySnl6bGtYMTNXT2YzUDRiS1RuMXdTWnhnUVdBQmNsLWJLTDB5QTlZQUN6WldKS2lGLUNNcUwzTmFUUTdRWGl0U09MdXJCTC01OEdiNTJFcElMbVJMQ1I0SGRCenI1SUF1SmxaZDRrS3BGS2VyLWR1dWJYWkU0Skt4ZXRRdWNmbVIteUw0Z3BCeTNtSmxJbFFHZjF4M2cyZmxLR0tqZ1dpczJWeUhEbXVNNHBsRlFrb1FR?oc=5",
+          "date": "2026-02-21T08:00:00.000Z",
+          "source": "The Times of India"
+        }
+      ]
+    },
+    "Ward-26": {
+      "cachedAt": "2026-05-17T07:11:46.794Z",
+      "query": "\"-26\" Guwahati (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Guwahati: Cops arrest 2 notorious thieves involved in jewellery store heist; recover stolen silver ornaments, housebreaking tools",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZ0dfWndTVU0wMGNGbmRyRHJZakxLYkJYN0xDNEV4ZS1sS0ZrLThHNXBrakcwcVpEcXQ1NVVHck9zakNFLXVlTnFRcmFxWGFTd1F1YUp0TzNIZDg0RTJmOEVEajFqRHNibGJPTTBodUxvTmVhN0h0Nmp5QWM1UHJRUlozbFFPZWRYMS1NbjJCN29ReVVCY1JlUWZPR05ReWc?oc=5",
+          "date": "2026-05-03T07:46:19.000Z",
+          "source": "newslivetv.com"
+        },
+        {
+          "title": "Two Abducted from Guwahati Rescued in Sonatoli; Kidnappers Arrested",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeEhUMVNzTHdweDZGbkFlRXJTaF9VdmdYT2JKVVRsdjE3eXZyVmpkaDFackZ4R1doaGFfcGZ1VzFycWw4WDBvR2hXa1hyNElGWG82UFQyS2RPQ1hRUTJDYXYxSjE2ekR6b3I2R3ZKa1hSNFUxUDVfdWREUWUybmpOWjhoX3dibGdKU1E2ZWZvMVBSWlNfTXJiOGhmSQ?oc=5",
+          "date": "2026-04-26T07:00:00.000Z",
+          "source": "G Plus News"
+        },
+        {
+          "title": "Pawan Khera vs Assam CM's wife in Supreme Court after HC denies pre-arrest bail",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPY0Mwd1YtMWptc2RPeWNxRTBsVkVwNFVweWZ1UG4tazE1ZG5oTWc2MW0zNURXdW1mYzV0bWl5VEwwQmZBdDNsSGdwQTF6LXg0T0g3dWF6MTRvaUNmclRMWnhnVG5MMS0zcDVhSzZlLUtjNDB1OTZHSGo2QTRibVVTVEthQXh4NERkS25lTHYtMU9nUzFUNWM5bW5hVlJ0aVVDUG1idm1OYy1GZGxOUy1Gbk8xX0lqT0kxbTRLY0poREV6bHZoQXBYdkpqbmZyRk5ib3U1VWNPbGJRY0ZkTXNBNzkxRkhkNzYwQ19RdWNINDNsNUZ0WmfSAfsBQVVfeXFMT29qTnQxRy0zUWpoLWdUXzlpbW5JNTVUV0dOMHZYNHB4ZEwxUzFfcnRkQmMxdl9malFoVmZlQ3FNV2ZhU2ljbVFSbTROdGtaUjZPZ2dpT3NhSEhhYjVtRlJPRmFadWZCbC01b0RGQ185RTBsbGpJWHlEOHhOMF9ralRJTTFZUTBWMFJyTmYtOXRBRkRYRGhQeTBqcUlPTmt6OWtldVVFT0JvZ0tiOTJkZnllTEdieUwwMmVCeGxaZnNiRk40QmFvQkh5a1BNOXhzRDNZcmppRUp4VmxrQVhzUWQ0MDdFd0ZHNG1ZSWNWam1oSzJFbkNRbndfM2c?oc=5",
+          "date": "2026-04-26T07:00:00.000Z",
+          "source": "India Today"
+        },
+        {
+          "title": "Pawan Khera moves SC against Gauhati HC order rejecting anticipatory bail in FIR filed by Assam CM’s wife",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOTDI5S0NPaG90b0RscjhJT1RISjVxLWpGT0Z2LTlXOFZKLUZUd1Q0aHpCX2lodVB4cDk0SnFyMW9hTmctd0hjeHdib3ZoYm14ZVJoM0hGSWk0eVN6V3JmY2dwaHFwSTBHYjVDLVVvRkl1NmFJRTdxTi1nMmNmZVZNYlhkUU1YSVg4eS1RaE96Z3RBampaQk4wSXlmaXRpM1pKR01xV2NsOXYtbWVXck12eExWSlgtNEtNdUpyTlN2bWNtTHNqLWk3bnRocUNKdnMyNWNQNXJyUVc0OE9vNHItUFBlN01FQVFNYnlJUNIB-gFBVV95cUxOeENHdC00eGFOdm52M3NIWlk2WFIxNWZCdkpGRllORlI0b2dzOHFQOUtpODJnQ3hIMEV4c2ZqSWcwOUZLcE5tTE5fVXNpNGlFbGkzNW5jcHNSTlpPNVhjbEhPMUYzVU5ZVlFzN0NSUjlGTDEwem5jM1ZCNGxBU2tmc0NUX2lCM19LSkc4UnBfYjV6ZzlUcHhhMGVETFgyQkpJel9helpwMnR5d09FZWp0OWJJUC01dllhS3ZpTlUtVFhoZHlPbDBpWkhudjcyTHZRblZjVG5OaW05bmd0V2dHbWRTbGdCamhVRnhBWktYYTdQRGFNLXhGWjJB?oc=5",
+          "date": "2026-04-26T07:00:00.000Z",
+          "source": "The New Indian Express"
+        }
+      ]
+    },
+    "Ward-25": {
+      "cachedAt": "2026-05-17T07:11:46.794Z",
+      "query": "\"-25\" Guwahati (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Assam Crime Branch summons Pawan Khera on May 25 over allegations against CM’s wife",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMk5PWXJuenR1c3ZLZG5ySmdxbFZBaUNuei1sMUhESU9jS3VtbDVzQ1BycENXSlpuVFlnQmY4OWZHR2F4MVE0a1V3dkJuc181Y3J2WGdUS2dzcEpXUVluZXdSdW9FU1hQb3BXQnoxMUI5blNDV3NnR0dRY2N0Y2xMQUdkeU5zSmVqbVdiZDlPN3IycTVvVU9kR09fendST0l4Vk5kTWlYTXUwTzh5RXZrVU9xLVdIREZ1aENFc0VzVUV5bnhjMFHSAcsBQVVfeXFMUEpkRnBaVm1YTHhRNHYzdEpGMVNBUndDa0h3ajg2WURFaGlUVXpiN3U0RFBBaHRmVHFDY3laazVyVVdsbnNIcDVDV1YxdGlzc2FJaW9EODEzRFlDMVRrX05Kdzl0WGtRSHVNa2dLTG5xX1ZaemQzQm90U05hUlJmZ2dFajJGWmt1eTFUREpCeXoyTFFJSVdJTkRZTkF3ak11YmZ1cXBJLUtZWHZJaDZkbHlPTVY2UlpvRldrMmZKLTlxQ1ViZ2x1TUE2ajQ?oc=5",
+          "date": "2026-05-15T06:52:15.000Z",
+          "source": "The Assam Tribune"
+        },
+        {
+          "title": "Narcotics Worth Rs 21.36 Crore Seized in Guwahati Bus Raid, 5 Suspects from Manipur Arrested - The Sentinel",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcmpVVHV4bURRQjdjOVJJZXRpX1NKVFBVQTBZR0pSZVdueWxGdWRUa1pvT211VVc2RGlmNlUzV3I0VjkyNDExSUFvNV81dXFURFdKazliRWUzZE0wd2F6ZGVVLTU3YnVmdmlCX2dET0hNSVFJSlFRRGl0QS1UM0ZtQjhEZGxCOUlhbjBwaW1tZFJ5YldZTUgwNUJQZ0VyTld3OGJuQ2d4dHlDRFBVS3ZKRGRxRlFKamV0STViNkJBT3p3dGl5V3ZieWFyb09GWVZPNWktZHEycDDSAeYBQVVfeXFMUF9VcE5xVDR3aEhFdUc1ZWcyeXdvTC0xcENBUGkzVEprWXRQdkt3ZHRzZGlaaFhBVEZYbnluXzRIY2MxTWUwaEtJbTNCMV9SUWtkcnZmMGpYUEZYQWNJNmV4OGxsUU42ZHYtbW5rYXBvT2UxblRFMUltRDZ6czlzVnNreG5SNHBqb3lFdlBNbDRubVI0QzNVdVptTHZaVUY3WXZ2aGRVai0zVHZMb18xNm41U19kMUIyaHRHNU1BVnJKUDlRNmNtc3dzWTFyTmhlVnZwdEtldEVyU0VpX0hOdmFKWVdsSFE?oc=5",
+          "date": "2026-05-15T04:38:03.000Z",
+          "source": "The Sentinel - of this Land, for its People"
+        },
+        {
+          "title": "Guwahati: Pawan Khera appears before Crime Branch in case linked to Assam CM’s wife",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMmtQYVlyODNJVHBqMjdXWFp3QzdFbHhZTEtuS0dyLWctSjdwOVh5cWtnMGxRc2NFYTNjVG14MmZpRDc2UGtQU2xUWDhTSE1acVFfNTJ6a1NCSzJWVjI3TFJDUHZwWjV5cDJiU2k2SDl3Y0lqb01nalpXSGxBVnk5SEJHRWN6VkJycnAtQ0JSSGRRdmdtWWQyNmo0ZDV5dy1tZm50aG9YdTlUMjFuVm1veEF2Zm5VR1BOd21WbVEtYUZveEFHOGVwdE40R3FxYVBpdjUzbHZUa2JFckd50gHiAUFVX3lxTFBUaFh3cDBOTklOQml1U3c4ckxnWmN1YzkxZ0p6TlFBM1doSVBIWk9FMnR2al9jUFF6LUh0bU9ILTh0YktqaFVZZS12b3l6TlVyOHpCTkF1WjJLWTZoeE5PNWZZbHk2RWgxdk9JSDQ5MHc0ZHB4bmdOUWFkZmVLNXpHUkhrcTFPdGNPMXB2TXpjVWhndjZIWVk5TUFGdUx0ZEltNEo1WVk1dkRNa1lyTDRqeG9lMlQwMV9wZnpvREdwQ2lRR0x3RTNubm54LXlucWEzRUU0dnFrSnpqMTZXWDJBUnc?oc=5",
+          "date": "2026-05-15T04:27:25.000Z",
+          "source": "The Economic Times"
+        },
+        {
+          "title": "Congress Leader Pawan Khera Questioned for 8 Hours by Guwahati Crime Branch, Summoned Again on May 25, 2026 - The Sentinel",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcHRLREFLOGZiUG8zMFVXMVY5UEFvTl9IelpVb05tYWVvUVJYdFFWMEk4U0YtNFdZLXBYdi02ZksxV1lTRjE2OERpeXpmZElLUWtObl9CTV96NlJWbnJJQ1NXTGxHdWhILXdEVG5iT196YnY3X2pCRXZwYjJFVGpyUU93dFpBOGp2dUJTZFhnbExYZzhDWW1vTU53eWpwakNBVlpJaXhXWG5jY2VCa3MwejNDN1Z4ckI1WV8wbi14c3YzQVExR010QU9hRjdQYzRZV2ZNWl85RG0zNTUxRGVQY2tn0gHvAUFVX3lxTE0xel9yMW4xUFZnTGZTM0lJTVAtQWRCUUZ5YjhkNzJxbFlvOUx1T0pIQUd6VW5HYXNtMUtVZmV4M1FLd19jSGl4SEs3WnNGcXZZVmdyU1hlZjJwYThCVy1mbzBRcUQ2VjNMZTBzVm0yYmVXUExGM2NIa3lIczdtNU9vYXg4bFZWN3Jkcy1LUkRVeUpTanF4eUVaNlgtOWVpTE5Jem01OE1lWW5UdFVyLW93UTN6TmxiUVlTSTlKeWpqeXJhUkgyVUlnc3FWdVprUW1GMDU5aTRVQ0hjTFZuemNJNmd6Z2lrUDlJUk1udEhN?oc=5",
+          "date": "2026-05-15T02:51:00.000Z",
+          "source": "The Sentinel - of this Land, for its People"
+        }
+      ]
+    },
+    "Ward-24": {
+      "cachedAt": "2026-05-17T07:11:46.794Z",
+      "query": "\"-24\" Guwahati (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Pawan Khera Joins Guwahati Crime Branch Investigation In Passport Case After Court Orders",
+          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxObVJxcDYwUktnMXlSMzAyLW5aSnB6SHRZak9zQV9sLWY0bGpsbDQxeHF3c3NHa0R1Z0lqTnN5WXA2M3NDMDhpTk9QOEN0OVpIZ21BYWdUVW01ZS1XeE90dWR5TWpoUnVTZmRPYXhJUFZWUk1LbDZEeDNmUFNqRDBmb0VvVG5HRFBHZEFyLXVVdnNHSlMzaTRJbm1KYW5BNzBhQ3pNLVVyQ0RGZFFjNzN2UHNSTUV6TEY0eWtiRGJreUVoSm5aYktzOXRvZkZXYUttQzBGZnVpSVA2OUJMc1h0V0ZSVzBPaHdjTlhoeG03X1hIelhXOGJVYmdrSUVVNXZ6VmREUzhSZDFWa3Jm?oc=5",
+          "date": "2026-05-14T03:41:03.000Z",
+          "source": "Dailyhunt"
+        },
+        {
+          "title": "Pawan Khera appears before Assam police Crime Branch",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdHJ6MkZ3VzduRHlOVk5QLVJsODdyMU5xRjhEbndIbEkxM0JGSy0wemtOWWd2UEdkMmlHa1QzNGNtVWdHcUdKTEF5RklINk5RYVY5YlljWlFsMkNtVGxqc284Yk1OTEdaMkp2RWZGQnZ2cmhIRlAxd09neDItZkFzTEFUUGRuQ0Ewb1YxMENTOFBJRkVMM1dJYmlDamszb0ZzZ05XVmw3Z2p1QnZqWVFEY1F0VGdZSnVLR2N5RTNuc9IBvwFBVV95cUxOdHJ6MkZ3VzduRHlOVk5QLVJsODdyMU5xRjhEbndIbEkxM0JGSy0wemtOWWd2UEdkMmlHa1QzNGNtVWdHcUdKTEF5RklINk5RYVY5YlljWlFsMkNtVGxqc284Yk1OTEdaMkp2RWZGQnZ2cmhIRlAxd09neDItZkFzTEFUUGRuQ0Ewb1YxMENTOFBJRkVMM1dJYmlDamszb0ZzZ05XVmw3Z2p1QnZqWVFEY1F0VGdZSnVLR2N5RTNucw?oc=5",
+          "date": "2026-05-13T12:14:47.000Z",
+          "source": "The Hindu"
+        },
+        {
+          "title": "Assam Crime Rate Drops 24% in 2024; NCRB Data Flags Persistent Crimes Against Women",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWHJxSENYMjVDVmZyOUNuUXQ3Tm1zZEYyTllwemh2NlBuSnY2OXNaTXNGM3FzTGRsaURROG5qX3ZnQ0w1eUF4MjgyTmwtWm5JaU1TNUZlR3lmSnhRMThyRVlVVkhiNUlFSEhaYWhOU0V4UlhUY1N4NTlEM0R4YU1JNG9MMjFIVjBLR1hscHVwUHdFOGlpaktRaGJ0UGF3d3ZJcDVKX0RfWkhhX2dBTjNvQ0NiQk9rbmc?oc=5",
+          "date": "2026-05-09T08:29:51.000Z",
+          "source": "G Plus News"
+        },
+        {
+          "title": "Guwahati High Court Denies Pre-Arrest Bail To Pawan Khera In Defamation Case",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTHZ6SUZnc2kycVpyNWVCLU9DUnA0b0hMSFNQLXFoM0NrUnUzb2w5RnBORjRlWTU3U0JOU3MxQ0NLa2RNekxmVXRxR29zR3YtSnFEUTBTUFJSaU5fVGVQUnppdFc4TlRiMXZ0eTdVd2FkSFF6X0h5S1hWbHFYc0FSMTExM0VaclpXRm5JeEZIck5EN0JLQ3pVYVpjenNxQjdqOWFmbUFaeU5DZHpnWEI4YXZ4SC04R1VUSTdYSTBPb1N1Tmt5UHfSAcsBQVVfeXFMUHRjSEdULXV4QU5sbm1USk5HUl9oWGwxT1QzTGw0TThkOHFnRkJ0SGJuLWZabGxrVlBoLXhqcUkxbWl3VkpOZ2ZXVG9fTmRpQ0hlOWc5NjJTeFQtdkk5SmgyUTl0SDhrcFg4cFFrYVJ5aHp2bUlBX1JEOUlGMmk3V0R1UndpSUZBOU1IbWlma1hyT29IczJmMVZUNWZmMDhQT1lsVmFvbjdZdDZESV9lUUJ4bW1zN3RaVE1MRjExOWZCOG1xVmUwbC1DTWc?oc=5",
+          "date": "2026-04-24T07:00:00.000Z",
+          "source": "The Hans India"
+        }
+      ]
+    },
+    "Ward-42": {
+      "cachedAt": "2026-05-17T07:11:46.794Z",
+      "query": "\"-42\" Guwahati (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Assam: 1,475 bottles of cough syrup seized in Guwahati raid, one arrested",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaElGV1dXMnJpMmlIaEd4SzFaSWNId01sUXdKMzhfY3R1X19lbXI0ckFGakI1Qmw1TUpHeDJBWFlPQjhvemxDdEdDcUFXN3Q0cUhEXzJoeF9hT3BQQzJVNzRMVHBVbmhSUnBXTUcxV0psaVZ1c2luaENxMlU1M21ONUU0dUVKdVQ4bWw0R0xWNFh5X2s3b3dyVzNFelBmY3FDYVlueVV0aGN2MFBGTVlmaUVCMk94b0VUUXozVTZyQWRUMWpaNHRXUtIBzgFBVV95cUxPWW8zQ3JYRFJCdjBBZjJnSEQ4SG5VajlvLTFWYWc2TXBMNkZVaHhjMllJOUxjVGhmUGtNaFBvSTMzNUFiUnZmeTZaNGpDZ1BlWUZtai1MM0w3TEUzNlBlQWlLOEZPUUpwblk2dHFFd1FycjdYZ1lvcXZSeHNnMGQ3dXRSaTRfZTlacWc0RTc0RG1WUW9DU2kzZlNJVUNvTHNYZHVMVU9TUG51NWhzUHd4WXpDTHBoaVlBTmJYQmlCdS1yNkJSRG5FbkMxQkJ0dw?oc=5",
+          "date": "2026-04-25T07:00:00.000Z",
+          "source": "India Today NE"
+        },
+        {
+          "title": "Himanta Sarma vs Pawan Khera: Police raid at 'missing' Congress leader's house and a 'pataal' warning - T",
+          "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQWjJYckIteXo2ZXlfZzlwUXdlY2lERGlaMmZzNEJrQ3NSV0dtNzdBU0NINDlQb2g3Qko5VGxqOHJMaDFZcUxQSTlzNnRWWFh0bG45bWNCWmR6QXRVQUgtUHBVbVl0clBEZ2l5aEJsVnlld2ZJWi03X19RWmlSV0lsbEpWTXFuMlltS0ppeVcya1pqb0p3VnR4akdxaW5PaVpWNEFqTExpc0R4UWdLdlZnRFJMbWVpNkJwcmp6dnF3RnZkb3c5MTIxQkFaT1dxQUJuWUZORjAtXzRTT1dIUE84ZmwzVjE5cTJ0UjRZc3R5TEFDMXh0a2xVaXpJbE9yeDNoRkNNN2JOUFdBY05GY25sNVFxY2UzVWR5UVEtbEEwOXFfb0tmcExhRFFScWJGNHPSAbQCQVVfeXFMT3JhZWVsdEM4b195R1pES2FkM2pjTGRZTU9iaEFsdl96bVNyeXpwSlpCbDNDUkY5RUZqeUU1VGNFQjJDRzVOM0NnUnBFUTBIcEliX0RrN1hUdFRxXzhZYjhNT09nRTZfcldJMXlmZ18xWUZGQk5wdDZkbkM1TU1UWl9hVUdNeC1OdnozbV8wNWNyVG1UU1NUYTRKbVdrang2MGFzZHY1cE9kWGRfNDAtNHQzb1RwbmhNVWZFaE9CdFVoSTZ5MThGRWdCY0RpLUFxeVQ3ZmVTMXVrTGEwdE0tcDBSRDRCOEFIYmxfY0JxWC1kaElrYnpDR3R4MVZhTHFaSUVDXzdsRGdTQ1V1V3doN3RZUDBIdkF6LVozU05xbnVHci1hRWVaaUZDeWxfYkhsWkV1ajM?oc=5",
+          "date": "2026-04-08T07:00:00.000Z",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Dibrugarh cops induct mobile forensic van to boost crime probe",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOblRlT2FZMDBJWXhnUTRIanZsdEE5QV96ckYwNmp6cEdfMGY3TUxkVGcteGJiV3Nmb2EyOHRxYW00U195cFNDLTNFNWhjMWxBcDlwMHNTMWQ0Tjg1NXRKUUxuUzcyNTVyUlRsXzc4b0ROMU9JcHRxblZ0V2NMdzJKTnB2NE5Od25HWWpqZFZobUJMcDR0TU5GNmtlVzlJMnNFQzFzNUxxYXg1Sm5oeVltZzk2N1lNQ3AyaDdXcDMyN2lBS1F4dE9YNjhZWnl5aXVESkl3TdIB2gFBVV95cUxQQ1FmdVVNN0JHTVl6VG0tTWhXNG1hU1g0eEpjNUVheUFPS0xhWFlWWG5MZnZjU1Jvc0d2d1ZpU3NqdGZDOFNFQmNndWE3XzVLamNZTTdYQncxbFFXdW03TkcxdDktSmpJaTZqdnEtelVXREdyVGZyazdjT0paS1N5YWhVaXNxOUdNRE1HVnh1QWxYUER1WXUyU3R2RkFCRHJuTGo4Ql9OQ1JPcU15OWluVFJhX25DckJ5eDdMMFZMdmZYQnZwUTFWVDVpc0ltOTRwMlRDSTlQTG96QQ?oc=5",
+          "date": "2026-02-01T08:00:00.000Z",
+          "source": "The Times of India"
+        },
+        {
+          "title": "‘The Family Man’ & ‘Delhi Crime 3’ Boost Travel To Northeast India; Dimapur Flights Rise By 77%, Agartala 48%",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPN25RTE9qc1BmWGRHRm1HaVFNai1YdHFkNmlubFYxemktSHpWVE1pVjdRdktxdWZBSENJckctSHNHcTFLamVrVEVrdl83U01HMWdGTDdUMG9TVDdWSTJaS0pkX1VERFppTGtwWTJyY0xlUXoyVmRtQVBfWWtKU0lxU3g2bnFzbXRTRGQ5UzB2SdIBlAFBVV95cUxNc19qeENCaFhDMUpkcWt5a1BDZGNVOUhqZjNWWFJzN3BTM1JyS0ZEV2hqZ3UxeEdUU0ZtYjJWS3d3THc5ZTdCVWZNQmtSNUlpZmUwWjI5OXNQaW5Lc0FzcTNaNUtzV3JoNWszTHhqR0x0MjFyMC1WY2pyT3d6bDBBQWFFUjhXaVJnWW9PRHVIUWFfQ2dl?oc=5",
+          "date": "2025-12-26T08:00:00.000Z",
+          "source": "curlytales.com"
+        }
+      ]
+    },
+    "Ward-41": {
+      "cachedAt": "2026-05-17T07:11:46.794Z",
+      "query": "\"-41\" Guwahati (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Pawan Khera appears before Guwahati Crime Branch in passport controversy case",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRHZvLUdSTVR3MjEtM3lfb21SYjdDTnNzN2RCM2xva3plYkVEdmhpYTVNbW9GNFVSQU5ka2E0bXlSc0Y0VUExV0ItdDFlai13U0U1VFdoSWtJaEFCTzRNTlFsWDVJNXExa0M3MTBMSHNOTFhLTk8yc2ZzWjFoM3B1MXA4TFFxQmo4Rm9KeFlwUHd4RkZ0V3pmNkpTb1ZJUUVsTGpjTzN1OU1wT1dCQnlicEs3c09UWno3Wk5URmliMEJGdDNT?oc=5",
+          "date": "2026-05-16T20:05:34.000Z",
+          "source": "MSN"
+        },
+        {
+          "title": "Permits under scrutiny: Two foreign nationals arrested for entering Mizoram without proper permits; Tight",
+          "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxObS1oS3p3QndqOXk4ZW5uTmFySFAzWEFsa0gtM3JIbXJ2VFVldDlHeTVqTzdvM0xSN2RXWmtlcHd3VEpyMklRdzhPeVRlTHVmRURSWmZ3Z2VTSWdxQVRBMVhZa0xVQlJwYVFyWWRBTzZTYW5uajJ3OTZHYnQ2eUxMek5NQWtJMmF2ZGgzSkpvUVFuNk5GSjBSQzRYNzBXeF80N1hjNzV0c1BaVDFoT09LRmtHUHBYWW5Sc2IySW1uYm1keVVHcXlXSXFmandoZVBqVVNJc0VOQnQ5ZmFkallQVGxiSkdhWXp3Ujd1cl9YTURwZTRxSHl4VEJDVEJ3UWRYTUxQY0JiTGVEVGZjZjNIenRHSmF1Z0pyTXk1N1k3c2doOVBlcGVWMTROT0hTclkxMjVueVYzekMxY3BpWEV2ZkxOc3E3amJDTlc4Z0tYVTFZaG5D0gHaAkFVX3lxTE13RkFXQjZlNElFNU41blNYREZDR1YwaUI4ZTFuV2ZrZDVnZXhnUkEyemRXbkJ4NVpMdlVRUGRQRkYwV2lHeklEWVRHRjlyNXdJRkN2dnIxbFhLSW02VGRFbndxNk5OQl84bVNtakNaNV9HQ0J6aFB1a24xX1hjU0NEelJ3U3FjMXBJRllsODZ1dGZ6VFg1XzI3aFVxTlNZNS11R2djcU9pWWhpQ1M1RnZIcVpLXzBhSGlwYW9qaV9DOUtMTzZTMGZKRHVFT2ZoZUZJUWwteDlzZXB0QjhGOTE1NWlnaVVETHRKa2x5ODFudktIU0RQWjlWTXFNRjk0SlNiQUZLSUhDSTRJZjJ3dHZXNlB4elNvdnRURTBpS0QyeW56dlpKNV9xdy1aTlQyQUFlUU5UelNVU1pyc3VTNnlNOC1UTmR5WFIyVUtYNDR3c1F0M1Uya3hZOFE?oc=5",
+          "date": "2026-03-26T07:00:00.000Z",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Crime rate in Tripura at 20-year low: DGP",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLU5NQm54Z0xORVF1VXA1a3ZYd2JCYlpxcDk4VGduXzhERS1TR1dPQ2ZCcVNYWFZPT1VqSUlPV2ZBNGxGU08wY19jVGdBamtKVGJDcm9vUnJBZzRRTHdsTzJITkExdE5PODlMTnVXTVlTclVYQWxVZjkxWTA0M3VUaWlyRmtLd3NzQVZiblFOaTBUODJLQ01oYVhqSTVXcDJOLTBsc2JCX3JneW5nUnJrMHpYZGRoNG_SAbwBQVVfeXFMTUNJQmlFdEtwXzdvcFE1UFZZaU5VbmdtTXJ1aVpVWk9pWHlXN2ZEU3pBQ2FxQmN0ODZxb3VSckpRaUJTcEtUdmwxalZlNi1MQ0lZYmVyaFF0U2lrblJ6ZkczcDhKcnpsSVhqZlhCMmtaM0dQZWFUWUV4R05QbkdZLWVHTG9PckRXZjFYWVB5OFhQa1lPclItSVRMUm11RG80cHZMUnJRMDE2ZkQtbjFCR3ZBNUVEWmpjc0JJZXE?oc=5",
+          "date": "2026-01-08T08:00:00.000Z",
+          "source": "The Times of India"
+        }
+      ]
+    },
+    "Ward-47": {
+      "cachedAt": "2026-05-17T07:11:46.794Z",
+      "query": "\"-47\" Guwahati (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Meghalaya Police arrest Haryana man in Rs 9.5L ATM heist at Wapang village",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNYm5XRHExcnZkYWpvc2xFR045ckJYWTNhZE9YNnRHZ2dLamtKZDc5V1J1U19Ra21XakFvZXpLNDJPWXVlV19CMExFcGRsSVJXTmk5eGpxZzRlbmVienhPVUE5cjNfTDVJd0Z6MEJVaEx0NGEtdmhDV2RqczZlRUNVY3BPb0szTjFYQWFockVZS21WSmtpYTNIclRsMUN0T0kwTi1mRlIzNUJ5QnpMS056ekgzeVBYYzA0WXFJUmpybVJqYUJ4VDMxQVYwVDZDZkVuRXptc1FpSExNcGVVMDJscDNLRmLSAeoBQVVfeXFMTV9rbUh0U2VnbHVwTE53cDBYS2w3OTBXSFdXamtDRURPQjlCUl9wWkdKLThRSEU2VFlYbXBVUVVFdi1tZnZ0OVJWM2xLVllHU1hRTHpqU3Z6dThYWnNXZldCVG9kVDREWmJ2RU1HZHJpWjlzXzFjWnl3cDdkZjJDeFU0ejVHbGh1MWtTeS1hQTROUFA1LTBuTU1vT1JSNzRIVnFtd3F6LXZxenppV0x1aTBIX2hlWDZCeDczTDE4S3VsQmtmVnVxZ21YLXVjNWhDVjg2UXQtU3M3ZDFFMnVfV0JqWWs0ZW5WWkxR?oc=5",
+          "date": "2026-04-30T07:00:00.000Z",
+          "source": "The Times of India"
+        },
+        {
+          "title": "UKNA militant arrested in Churachandpur",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYlhLTVJKV1RodTdRTDBobjZmd1BvcFY5NkwtdnVjYVVLc3paaGc0SVlDSlpuYkJkYmlURUZySHJHVTMySEhwVUUtMkJlcGRPVkFXRi1reDR4aUoybXFVRlVDOW16c1lxRTY5R1h0cWpVenpnSEN5WjkyMU0xXzR6MHJhYWZQVUNJMmc2eGNrQ1JKMDFjcnRpbkxOM01YaEtfTWNXX3lRZ3BKLXg1S0dpa3NfMDUxZ9IBuwFBVV95cUxOYkRsQUVjZWNzTzk1VmNoaks0YVYtaEhEc2xlQnF6S0x1UVVEWl9taFVELVJTSEhSZUFTN28wV3h2aUdlRDlXUkJDODNjRGRwN0pVQVBFN3ZmcF8yZ09pbzVFa1l1MHVJbGxaMlFKWXZGdjJSaHExTndjaGc5cXpHNl96SXNid0Z6UmcyV3F5M1NCdWZGbDdwNkhqbkwxV0dLNnYxekZwdDV4NkNFazhpdkdXU0o0RGhYUkx3?oc=5",
+          "date": "2026-02-22T08:00:00.000Z",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Heroin Recovered From Woman on Aronai Express, GRP Makes Arrest",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPM1A2QnlnZkdzSG1xQk1yWmtaMWlJMzJuYTJwb3hGZC1tdXhLbnlGbWhSZ2gxdldCTjIwd1U4Yl9CcmNtMHM2WGdlVDZWVkZYWlE1ZzhUYVZySVVpX0cyUXpuQi1NZTF1a0xySmlURTFhbGRoX2V5YTVwamdDNkE4Nm9naUdrcDdzS2FoMHdsZ3phbUxwbEdqYkI2V2Njdw?oc=5",
+          "date": "2026-01-23T08:00:00.000Z",
+          "source": "G Plus News"
+        },
+        {
+          "title": "Meth tablets worth 16.65 crore seized, 1 arrested in Champhai",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaG1IR3NIZkJxVjRXRndFX19paEVsLU1oSXhtbkZ4NkI1Rk5qOHF6bWQ5N0dRYzc3SFZ4eG1idTdrX3hmVEFqMEZiSkdIVG1TVDduZW80ejhSVWx3amQ5a1lWMDNuXzhZQTU2YTViTXBKUjhmczZvWVlwcDY5RVd2WWE0c0RwSUU4UVpGMVB1QjVyZmtEdlE2Sm9DZ3Z4Rmw4clhQNlVXMjB3VGEybWtqWkNvVmI4aWgySnVzdGxrTFJSemdaM3dsaDN2c0RXNHljc2fSAdcBQVVfeXFMTnZkSzk3QXQzQXk4QzR3Qng5T0hPN2lQMnh5c09TVi1GbDlrT3JhMHN1WThBU0Z1S3I1ZnlEMGlOS0IzbjFnQzhfNFZCVUh3VW1iNlNzMGNPY2x5aTl0cTEyRE5mbF82emppWUI5Z1VRaDFNQ0RZbkdJNmUtTlEzMnl6VnQ2UFY5OFd6eTRTWjNRNlRKNjVRSTJjaFVUSU5wdzZ0Z0FWQ2RyMU5zdFcxX2NXaElIeWlQT1JVRzlhTlBzbDhXNFlscHhZQS12SWdqaHdFRmZieDA?oc=5",
+          "date": "2025-12-03T08:00:00.000Z",
+          "source": "The Times of India"
+        }
+      ]
+    },
+    "Ward-48": {
+      "cachedAt": "2026-05-17T07:11:46.794Z",
+      "query": "\"-48\" Guwahati (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Drug Peddler Arrested in Guwahati; Heroin and ₹2.03 Lakh Cash Seized",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcHFIWi1rMGxBUUZrM05UdW1JQVNtQXdkZzdHREY1Wk42OHQzVWFOTW80RE9SWnkxN1pjbHRLb3ZkUnhjNjIxWnNaakhOSUJxMnhCV1M3M2xPQjVoOTd3SFNYa0l3aVJWOHZTUVpySUIzaGxGanJTRGotY18tbUt0WElzaDF1V3A0V0xSa3dud2cyR2tLd21QXzdaRHY?oc=5",
+          "date": "2026-04-22T07:00:00.000Z",
+          "source": "G Plus News"
+        },
+        {
+          "title": "Drug peddler arrested, heroin and cash seized in Guwahati city - The Sentinel",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLUJmZHhUc1dub1A4bEVuQmtYeUx5eS1ZM1lydy1iT2c1WkRzUlFnWi0wRGNSTG9hb25uLXhKVkJvQzZWMFpSX2xMcGRpM2wyRmNQVHNBeFVTT05obDZjd2l6X1QzZHQ3OUd0amVuMWhaM2I0M2VyXy00a3NVWEFkdTR1bEVOUkROYzdGRGM1VENBMVBpUjZteDhhODhaTWxQdGItN3BXbV84ZUxzRmM4STFn0gG_AUFVX3lxTE9PeXZwWU1POEZxcjQzVmFZWUpQb0tZNE9SRVBPdXhRaUlGTXQ3NmNld0hzRFhHdklYbHZYbGFCYmRZbVdkTzdIOU1rRmp5dm5CQUR5N3BldE5DSWlzM1JHM2xXT2dhT0dpU3JqZ0V6Z3JNWTI4djJZenpYdVg5dnNOOHRUZjBfSjh3OVRfR2t5ZG9KRnZpdTFQNDFVcGZTV0F5WTl3SWdHb0Z0dTlVbVRTQmN5NTh5UC0xOUpNVUFr?oc=5",
+          "date": "2026-04-22T07:00:00.000Z",
+          "source": "The Sentinel - of this Land, for its People"
+        },
+        {
+          "title": "Guwahati court denies non-bailable arrest warrant against Khera",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRUpJNGY1SHAxYVZhTXczSk1oVDM3cGV1ZTFuRFRkbzBMYk5BVU9nTzIzX0FVeDd2VTFYR3BCOTdnWXdfc3ROLUwwcnpvQVk5ZjF5YThUNnZ0bk9hM1dZbUtqM1pfZVVOWThmSnplcGU5ZTFsVWxFUDlkUXNYYTgyU2NTR3pRZlZndFhNN0J2c0hCSHpUNU8wTk8xcUF5RUHSAaQBQVVfeXFMUEJlY1M3NHBXVXJqY0E1dTBQRzlxZnUyYzNxcE1jWGg1cmlNMk1Bc1MyNDM3eExwTU9NTGJzWW1EQkx1alUtVWdSajJkaElzMWQ0Tjc5X09TcmJnYXlWYTZrN1FTS3FBdmVtM3J3TVI1YnZVNzdYazM3bFFZeG91Y2d6SEhfOHFGQWZ6aHpyZ0FaRmNFMkdDcDVSLWRocW1TbEJGNDI?oc=5",
+          "date": "2026-04-19T07:00:00.000Z",
+          "source": "ThePrint"
+        },
+        {
+          "title": "Kanpur Man Allegedly Kills Twin Daughters, Calls Police After Crime",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNd0NIZmJpekd0T0xuNDRvb0MyUmR2RWFLdWtqSGtXSXFIVjZ0cnlCTG11NUVMSjRoS2E4bUtzQXdrQmZKU3VhZS1BdlByanZfT2xhdW12YVZVWUVIMjhpaHVRVlA0NzBmcUpacG4ySzRJU2ltcllXaDRWUzR4TFgxY1JMeFVYbjBpX1hFeGpieVhTZ3gzRzBwbGtoTQ?oc=5",
+          "date": "2026-04-19T07:00:00.000Z",
+          "source": "G Plus News"
+        }
+      ]
+    },
+    "Ward-43": {
+      "cachedAt": "2026-05-17T07:11:46.794Z",
+      "query": "\"-43\" Guwahati (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "43 Police officers transferred, major reshuffle in Assam",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbVdrR0thdFlscFZvZVdRVG53VVdmMjM1d21VNHp3SVI0U3RIa2x3bDRYVUo5TTg0eVRGX2Z5ZGJzRE5rLXl4UVUtTy14YV9DOG50SGJxMlZnZkZpdWVYYlFnRHZTYnJqZnpnQXo2SWpNbVoxYlYzSmJ3azkzMkk1NmMxRF94VWt1bmpmQjZ4Mkdldw?oc=5",
+          "date": "2026-05-14T09:02:33.000Z",
+          "source": "The News Mill"
+        },
+        {
+          "title": "‘He fled’, says Assam CM after police arrive at Pawan Khera’s Delhi residence",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa3RBNDdRb2ItNm1QZWQ5aHNidll2U3NCdHJrc0dsMHc5dzltcWk4eWRtS0dFbExxRWNtcjZ4N2FsWERDMFY4djA0VGU1dHItcFJMN0tTTGI5NnJvQTVlZ1p3ZzhhWHVMMmtwMHdpcVNHTmxBRG1WT0dBdDFYdzRVRHRVemhkQl96SlZJU1cxVzZGVjl1eFRWSDF2YzgtbjDSAaQBQVVfeXFMTU5MSXJ5WlQ0NU9LYUxFNWt4azk4SzQ5c2I0MWg3ZWV1dWo0ODlLRmJJRkVxdkE1M2hlUER6RnBYYktZVTBCU2wwbmJJS1doOTRvWUxvTGNFXzhqU05teFF0bUVNaWpjanAwV043MEtZNFBad010MnAxZ3BGV05rRXRDUWx4UkN5ckhTM09GbXBDQWhlZmFLVjRPTGZwWURqdV9yU0Q?oc=5",
+          "date": "2026-04-07T07:00:00.000Z",
+          "source": "The Assam Tribune"
+        },
+        {
+          "title": "Indian Idol 3 winner Prashant Tamang dies of cardiac arrest at 43",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY21FaUozbTNaMlJkd3V6SGdIYVMzRW42X3F1aHo2U3pDMzhvQTV0Tkx3b3UzZXNTSjVsd2VnM21RV0NqLVhKd0VBQk4yMnZLSVctSzBtNTVfQlRiS3ExZWdMVl9Td3BkMlFicmlVXzgwMjVZNzdYanNBcVc3cjZKY3kzSlhrRUtzUmJ4SU9GeFgxTWU3Wmx6M25WbUYtUU9DMDdLc0puMmxxSE3SAbABQVVfeXFMUFdFY0dSWFhsLWZEUlpfVkZVR1I3WjZpeEZkT0xncmVvMER3SEhIcXZaMmMweTh1al9Md2Z3Q0FZcThqSzVCRjV1SG1jNFZHaF9SM2NYNHgwNTdpY0x3OFBuRWwtOWcwQzZ6Q0UybDRlN0NSckhWSzBHSXlqa0RfdHVlQ3N1eE5ySXRXcFJVODFKYjBQa0U5b3JhX0hPVzJpVnFmMHVqWlZyMHZMS1llZ2I?oc=5",
+          "date": "2026-01-11T08:00:00.000Z",
+          "source": "The Assam Tribune"
+        },
+        {
+          "title": "Assam: Guwahati Police report 2025 shows 86.84% conviction rate, drop in crimes",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcmNHZnlVZnd6b0RybFhRdW5LZkQtTlEtRDVDZ25ET3pWZXZBbC1sNmllbERvZzYxeFc4VTAxVUhmNTAwMlNhdW5jOFdNVDVyS0hSU1N0WDVMRVNCUGl5LTNSQVdrYUlnOGhhdnRoVlJnNC1HOGh6eWh0RHRDbEtRc2hfdHdtdHNtVkZYZ1cyX3VHZWFaMXFHSnA2MnhNN0pIR2phZmp4MmZaUk3SAcABQVVfeXFMTU5zbUNpVnF6TmhQNENxaHRqdXNLWjI1Y2FkempJcU5wWERLcTBkbkV6T0tEcUVudjRnTXc2UjFpSUF1UF9lelgtOGg0RGhQdEl6cl9uMVRLczg4S2FQeDVEVE41TEg4TF9zNEhCN1A2RUx2RHJ4dlBZdWdfOF9DaHR5dHduNkJpUFNzUUtkNTBOY05hMUZCVklnbDZaOHR2V185SFQwZDl1UjdtMlhFNjFCSmhpa0xBd2VIaFdROFRy?oc=5",
+          "date": "2026-01-02T08:00:00.000Z",
+          "source": "NENow.in"
+        }
+      ]
+    },
+    "Ward-46": {
+      "cachedAt": "2026-05-17T07:11:46.794Z",
+      "query": "\"-46\" Guwahati (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Pawan Khera appears before Guwahati Crime Branch in passport controversy case",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRHZvLUdSTVR3MjEtM3lfb21SYjdDTnNzN2RCM2xva3plYkVEdmhpYTVNbW9GNFVSQU5ka2E0bXlSc0Y0VUExV0ItdDFlai13U0U1VFdoSWtJaEFCTzRNTlFsWDVJNXExa0M3MTBMSHNOTFhLTk8yc2ZzWjFoM3B1MXA4TFFxQmo4Rm9KeFlwUHd4RkZ0V3pmNkpTb1ZJUUVsTGpjTzN1OU1wT1dCQnlicEs3c09UWno3Wk5URmliMEJGdDNT?oc=5",
+          "date": "2026-05-16T20:05:34.000Z",
+          "source": "MSN"
+        },
+        {
+          "title": "\"I am cooperating\": Pawan Khera appears before Guwahati Crime Branch in passport row linked to Assam CM's wife",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOczAtNWJtZHR5LU94bDNWVEhzY2tOQzBjbkRkZnc2VE9SRGZTVUR5cUpFdXpNRVZCc3U5aTZfeE1LU2ItY0Z4VEl2bTludk50SWFaWXdwWU5acFplV0xvOGtfTEV4ZkZLS3lKUWJiVGFLTTE3QXpFck9ONFlhY2tSV1h0ZE9xTHc1MnAxN2hXYkp0eUplS2tnaDNSTWJvZm0zeU80WDk5QmtSc2ltdWdZVmFPZHEtSTB5WnktMm9rbUlWYlJ6d19tMXRjVUY0UWcyd2N4TlhzYXlqS1N4bC1PcG13?oc=5",
+          "date": "2026-05-14T02:02:00.000Z",
+          "source": "malaysiasun.com"
+        },
+        {
+          "title": "Guwahati Woman Arrested After 5.2 kg Cannabis Seized in Sawkuchi Raid - The Sentinel",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYTNhNm82NXR2dExYdTkzR1k1Znl6ekIyLWRNc19tQTZwX1ZFTTB3TFBrRnYtM3dXalA3YWJRN0NZR1RmaEU4VkNESzdULUs2OWZsSkE2UVU2X0JOYzk4Nlk0ekgxdlRGeUN6MktZczF4a0lPWmpFZFZIUkJUcHZQN1FvZl90cXpYSEpHMUJKbF9TQThobk43MzhuSU0yU2NLZjRkcnVvUGo0X0lVby1RLXY0N1k0OUdxQ2JZ0gHIAUFVX3lxTE1FZlBMdk85M1I5MkRMcEJqWWhEVXRXUjVlVXhmTHZwdmJmWTRtMUVHLUdvdkJUQVVTYXRfcTY5LVhQRnIwRzB4UzVjWjlWX2E2VFhUanpDVXQ5d0EwVGM1eUV3Z1pXNzU4RmR4NkFtdHJnaUFscmxNZ05SNDA2YlVpZUxia2JTV2JzVWhKd2ZMOHBVaGhtVFd1ZGcxN1ZUeFdRWXhHZ2hpVnRlY0tvSWpZWEtZLWQ4bHBDTlVNYjAyZl90dFN6dkZp?oc=5",
+          "date": "2026-04-27T07:00:00.000Z",
+          "source": "The Sentinel - of this Land, for its People"
+        },
+        {
+          "title": "Guwahati Police Arrest Drug Peddler, Seize 40g Heroin in Khanapara Raid - The Sentinel",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVFlzQnRWVzRldzhsbzZ3azZvVi1Xa1ZZTVRIQXFLVVF3eVgxblJwaFh1SmRiN213aENVeWJQdmRBeDRHWWlla1NuOUhtYmJYRFQ4emxCZldSMDc3Z3RnLVlMWHJhM0pwWlllQ0VHbkhzVldLakpUYmhid1RWNFk1TFFUSzAxM2QzSEtwU0lOaW91MVRORmtMdUdnTFBILTlHWGZIMWRqeVJNdGphTUZuM2JFaGJwa09HMnJrMUJR0gHLAUFVX3lxTE1tekpVOGhjQllDWmFiU3ZKelFBVDk5LWZ5OWRuckJWZFQzX05RdTkxWTBhbnc1Yno3LUhBNi05ZFF2WHNxS0Z4UkRGYnpaQU8tckdlQjJicWh3cFJqVFFsODhSS1lBTUhHR1JOc2wxN1RoZVNudDB5UHkwUjZTVU1tTHlWdXJCUzdVUlpnaFVZWks3T3RMbHo1TF9OVVUtSmdmcHJnTExrSzFWejRZN18zMC1yNE9tVjJGWVlwenhadExic2VHSk45eFNn?oc=5",
+          "date": "2026-04-20T07:00:00.000Z",
+          "source": "The Sentinel - of this Land, for its People"
+        }
+      ]
+    },
+    "Ward-31": {
+      "cachedAt": "2026-05-17T07:11:46.794Z",
+      "query": "\"-31\" Guwahati (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Assam Crime Branch summons Pawan Khera on May 25 over allegations against CM’s wife",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMk5PWXJuenR1c3ZLZG5ySmdxbFZBaUNuei1sMUhESU9jS3VtbDVzQ1BycENXSlpuVFlnQmY4OWZHR2F4MVE0a1V3dkJuc181Y3J2WGdUS2dzcEpXUVluZXdSdW9FU1hQb3BXQnoxMUI5blNDV3NnR0dRY2N0Y2xMQUdkeU5zSmVqbVdiZDlPN3IycTVvVU9kR09fendST0l4Vk5kTWlYTXUwTzh5RXZrVU9xLVdIREZ1aENFc0VzVUV5bnhjMFHSAcsBQVVfeXFMUEpkRnBaVm1YTHhRNHYzdEpGMVNBUndDa0h3ajg2WURFaGlUVXpiN3U0RFBBaHRmVHFDY3laazVyVVdsbnNIcDVDV1YxdGlzc2FJaW9EODEzRFlDMVRrX05Kdzl0WGtRSHVNa2dLTG5xX1ZaemQzQm90U05hUlJmZ2dFajJGWmt1eTFUREpCeXoyTFFJSVdJTkRZTkF3ak11YmZ1cXBJLUtZWHZJaDZkbHlPTVY2UlpvRldrMmZKLTlxQ1ViZ2x1TUE2ajQ?oc=5",
+          "date": "2026-05-15T06:52:15.000Z",
+          "source": "The Assam Tribune"
+        },
+        {
+          "title": "'Assam's Peda tastes good': CM Sarma takes swipe as Pawan Khera appears before Guwahati Crime Branch in passport case",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPbHVubklkYmtYRHhlbVFmRGdheklUMU9SdzdVazNXRWhpM013dnd5TlgyWXhRU1pLN3FPdlloUFJxaUtDTHNENkdVQnlIU2lGNzM5Z1psQ3JtU2lURW91ZmJVclFMTWJmcUtDRU1CcEhqdmdYMy02ZEUwVlBuRHBUNEhsR3N6R0g2ellleFpHc3l3Vy1HWGJxejkxT0NMaFlkN2tSQ2dJM2gxMHBFUjBZN0U3QkNiUkptRDFKSnZBRmtVUmNjN3JMTURabDlDU1hoTlRLODNqMmNqSHFubHFTbWRYcXhNZFFmZWc?oc=5",
+          "date": "2026-05-14T14:31:00.000Z",
+          "source": "India's News.Net"
+        },
+        {
+          "title": "'Assam's Peda tastes good': CM Sarma takes swipe as Pawan Khera appears before Guwahati Crime Branch in passport case",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPVjQtNG1tdHkyclZsS1ptcGdCUkNyXzhkRnlhSGhmZFhEVkxwSmd1bEhQQlRRdGNaV1gzRk1ic1NQMHpFS0MwaFBUTFU0UmRKbk4yY2RqNnFNS0VZUGJ0Rmc5YXBhTW1QTDRraFp1Y1diNDV3U0p4dXN1Z2NzbkZLLVpQbHVnVWZLaG5iZjY0MzkyVmFReUZXclhvU2libW5lOV9YYllOZHZGNnhkdE0xNk1jOGZpVWNqUGJSZ2h1SkJMTVcyM3RiYW5VcDg5VmtITDRvVmZfWHRmWVkybE9iY1dyYzVydjdsZWRF?oc=5",
+          "date": "2026-05-14T04:31:00.000Z",
+          "source": "malaysiasun.com"
+        },
+        {
+          "title": "Cong manifesto pledge on Zubeen unpardonable crime: Sarma",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNT2RkYzh0dWRZZjlRZnZ2SDdDQnEwMDJTMXlhYVhOTFV0amRWYzdicE9KZkxIaVRlM2RpMkY5ZFJhQkdQcVZOU1hwbGZTTVBzeXJ5cVpnUWJBQWUyT3J0dXU1QkgtWXhaQnNkb3ZPck5ZaDhSQ1VmV3dHWldvWEpxeDhTTkRqLUZQOHUycDNiZ29zSUdrajltWjdzT1dTTlBfc0YyZW9iRTBqVFJxcjZfZmdQRTZaMV9jZVpaMUkyS21MS0FBa2tmQ2xHbUvSAdIBQVVfeXFMTkxFSHF5SGFTMkdsVW9CQTU3TmNPb21PaHZIZ1lmbXk4YURGc3lXanNIRVowZlpoQ0FCYlZOMTBXS3ZUUUlBOEt1NmNNZ1FyVnlYa0xlVDdNdVpsMVFRQnYyRWJOU1ZQRVhfcXd4emlhU0pTM3g2UVdseFpQeEcxNnZkLXFiamRNU283NDBwTGpBS21TWHlJSjJuWlRQQUdMZ25iRk5aN1JPMjJxUUlfUTZyVXVTSEJUQ25qRjlWb3RUblNMSFVGWTA5bG5fdjI1Rzhn?oc=5",
+          "date": "2026-03-31T07:00:00.000Z",
+          "source": "The Times of India"
+        }
+      ]
+    },
+    "Ward-32": {
+      "cachedAt": "2026-05-17T07:11:46.794Z",
+      "query": "\"-32\" Guwahati (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Dacoits arrested in Guwahati: Guwahati police foil dacoity attempt; Gang linked to multiple thefts across",
+          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNQTRlWHptQ3BLQ0p5UlNzLTRJcnJsRXhVQTkzLTlqVUdJRnFKQS1BZnFvaGNzYjRleThBS2RKMkJtekc1bTl4UE5NYzdfU2JJdmxRQ245TEc5T1pZRUFuRUdDY2k4TzJXbWhPUE1iS2ZXWDBUckM5U202aWRaV285TkhnS3dSbHhBU09SNjdqYlZtREZzTVlWamo2SEJpY2c1WGxtaVRwQVNDMExwaV9hQnZwRENGQUprSkZWTks2c3lncGpQRm1FQ004bnBMYXNIUlVHUHdoNDc4Rl9NVEloTXN4U0lhWXl2aTBob0RwQTdSYXczSy1wdzQzR0ZybkHSAYQCQVVfeXFMTkVLR0FGMnJLNWVDa2YwQzJueHVldzhmOVB0aWJFT0Q0SWtPYlVIcHlrRFZuRkRUbDMwWUZqeVV3dGtJOFloR2JtYmhwZnFpd1R0cklZLVEtWFlfQ0ZlbXI5R0FDQWpmRGVyY0ZSbEJzQWVOeGFHeEhhdnZqSXJ6SV9XOGFBVjFZTTA4V1JNOGJwQ016SWdrM2tEcUdWWWNzTXpIOVlBY3d6T2Y4cl9jY01yY2tiR3JqNS1fQXFMWWNuWGhwaFpmTUlDYmtta3lHcEppQTJ2QVplbEpTNGFCNmlQajVkZlhacEIyQ2tXOFZBYlVSWTlPWXBJR3NuQjBOdFNzbEQ?oc=5",
+          "date": "2026-05-08T18:02:00.000Z",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Guwahati Police Apprehend Four Bangladeshi Nationals, Arrest Broker Who Facilitated Illegal Entry",
+          "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQVGtWdEtPbGdCU01BLU1FQjl2TWFDUmhaMVJESld2NnpGckhvcl9rLUtHMnpodmxhWENUNGExTmFEZXlPb0hsTEY4Zlh6eWFaeTlkbVoyTE55eDlRR19scjQ1YmFXdjJpSmFtckt2MllNUDdxQVJ0UC1nQ1hQS3JaU3RBcGUyalIwRTVES05HbEVJSUswa0wzSGRGcE9sSUZvX3RZR0JDc0p6V1RuNzJjRVFJb1lMUUY1bVlmcFJSUEVNV2lyTFVhWmtEMXJjTWJDOFZFbmt5bUEzajc1QTVtX2pDTzhSalEzNTFvWlR5M2VEc25rckFjNHo0WnJiaXZVWHdUVGdObExhMUZ0ZTdFODZR?oc=5",
+          "date": "2026-04-10T07:00:00.000Z",
+          "source": "Dailyhunt"
+        },
+        {
+          "title": "Drug Racket Busted in Guwahati; Two Arrested with Heroin and Cash",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRHMwd1ZLLXBBc203dFpzbDVzNmptMHRYaTlaRVk1NkpRWDk4d1B3eG5pMTI3NTJ3WWdWVUh5TFF4NktjUGUtWXZOVTBsSGplQ0NHY01FQ3ZVQWIxaFBod2ZoSkVGa3ZpR0lYQUxyVzhJOWY1S0lDUGNLUllPSjdRblJJT05VM2h6NUVIUWJBYlNwUURtZnhmUWFWaXVlbGMyWHR1UA?oc=5",
+          "date": "2026-03-29T07:00:00.000Z",
+          "source": "G Plus News"
+        },
+        {
+          "title": "Heroin Recovered From Woman on Aronai Express, GRP Makes Arrest",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPM1A2QnlnZkdzSG1xQk1yWmtaMWlJMzJuYTJwb3hGZC1tdXhLbnlGbWhSZ2gxdldCTjIwd1U4Yl9CcmNtMHM2WGdlVDZWVkZYWlE1ZzhUYVZySVVpX0cyUXpuQi1NZTF1a0xySmlURTFhbGRoX2V5YTVwamdDNkE4Nm9naUdrcDdzS2FoMHdsZ3phbUxwbEdqYkI2V2Njdw?oc=5",
+          "date": "2026-01-23T08:00:00.000Z",
+          "source": "G Plus News"
+        }
+      ]
+    },
+    "Ward-45": {
+      "cachedAt": "2026-05-17T07:11:46.794Z",
+      "query": "\"-45\" Guwahati (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "CBI Arrests Cybercrime Conspirator in Guwahati Under Operation Chakra-V - The Sentinel",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQV2NUVnl0X3ZRQ1huRW92RGJJMTQ1TzhEckpRQ2x4QmlaRTc1b0xFN0FHSVR5aG4yV01BSUI0NDc2bV9hdXJzU1dxOXBTdm5YcnM2cXJBR2l1SVJWNld1SHc0ZzRodWZ5djg5bXBDQTc2NHgyYllUTTVKMF83aGVGSUFmVWhIVkx5UjdoOXJ0bUlWZ1RaQm4tTEJYdmFuMUd5cFBhS0NUOWZHVzBVWkF2TTZ6ZlTSAcIBQVVfeXFMTVhYR3hnaTBwMmVPdzhyMkRnNEZ6RkprYkF5TEdJNUZsRTZFbFlDR3NodGszZFVQV0E1MEtXZ3c4MUdibkhnYllJQlF4eW43OU1BcEpPME1pSWM3NnduTHFkTXMwMy1sR3BFdzJlbkhncllVMzAxWnZrVDRkLUd0dWF6M1RBTEdOQ1dGdkVQM3FxRDVYdUNpUFpETjI0d3p5bkhWeThBRGE4M3hqRlFsTU9Rc1RPRHRtMDJzdWdLZ041dEE?oc=5",
+          "date": "2026-04-21T07:00:00.000Z",
+          "source": "The Sentinel - of this Land, for its People"
+        },
+        {
+          "title": "arrest was made as part of the CBI’s ongoing Operation",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQS1lYlIxRmFKMl9WQ25iS0RtVWlaSTdZb3dDMFJVTlRhbjVmS0poblRobE0zNmcxcGdpQzZZU1hITFRRbXZsRG5IRUJTR29tOVhLZ21COGF3ZXpkdFVaYmVfUDJ1eU9qeTU4TVlsckl1bVVnRnhjZ3hmaUdIa3h4RTJjNUVBV3VwNWdvMmFETzdTMTVlU3RjT2JR?oc=5",
+          "date": "2026-04-20T07:00:00.000Z",
+          "source": "Prag News"
+        },
+        {
+          "title": "SIM Card Scam Busted: CBI Arrests Cyber-Fraud Accused in Guwahati",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOGpFVEVVdzVPVFBWNTg2dVlHdmhRRlhnVHJaUHdXWHl6NWZ3akFpNVFJcXU5Zll4TVJEOTNyMFltcU9USXFCRV9pMnl3STNKUVFyeF81UF9NbndtVjVYQW1QcnNWU1o5TlYtVERFcXZKVEd3TkJmUjczQVV2WUpLWlVsOW9JTWxKR2VlRmZCVkhUczlSS09lcHFwREIwSEk?oc=5",
+          "date": "2026-04-20T07:00:00.000Z",
+          "source": "G Plus News"
+        },
+        {
+          "title": "Guwahati Police Apprehend Four Bangladeshi Nationals, Arrest Broker Who Facilitated Illegal Entry - The Sentinel",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRFg5bU0xY3hvak9MME56cnBjSVBGYlJyZWNVWFVvTVFLU2ZkSzVHakNiMWJuTXJiQ3MzYy0zSGZjVTk0dl9yN082eUh2cGlYanZPT1hYQ2xNR1R4WS1IWnAtdEk3N3RNczlfT0FvQTZUUS1EUVhNQzhZTFZUVS1FejFTYW5TTEJQcjJCZTVJazFMcWVxM09Ba25jVVhJd1JhUjdqLVhzN0piVDdmNjdqSVNaT2c0X3IzV05YenM1X3RzZ09nTXByMUdCVUZBUVc5dV93dmxnUVNhWFhQQ0UtTNIB7gFBVV95cUxNYWRxWldOY3hWSmVNcEh2VlNYV1RMc21pbUo1MnRoZGlSSW9PRlBRRUJScjFCd3NxY3lHZmxSRXhqcjBGSFR1SUNEZFJYWi15andhZEZjTmFVRVk5UzV5X216bmJRcGdvTGYzLXRzaGxjOGhCUkRWY0pQWTZBRVo0X3l5VENRcFpkLTZ4NEMzUWdhMEhBQ2c2Q2xEVTJoNjNmOEhQdGxXY0lNaFlraFE1VENkcE1XWDdKMkhXblBKZEk0OHNiQ3J2Y2FNTmpiZFJiZ2F4QjBEX2pOU1ZOSHhXZXRUbVV1elEwM1lUR0N3?oc=5",
+          "date": "2026-04-14T07:00:00.000Z",
+          "source": "The Sentinel - of this Land, for its People"
+        }
+      ]
+    },
+    "Ward-38": {
+      "cachedAt": "2026-05-17T07:11:46.794Z",
+      "query": "\"-38\" Guwahati (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Narcotics Worth Rs 21.36 Crore Seized in Guwahati Bus Raid, 5 Suspects from Manipur Arrested - The Sentinel",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQX1VwTnFUNHdoSEV1RzVlZzJ5d29MLTFwQ0FQaTNUSmtZdFB2S3dkdHNkaVpoWEFURlhueW5fNEhjYzFNZTBoS0ltM0IxX1JRa2RydmYwalhQRlhBY0k2ZXg4bGxRTjZkdi1tbmthcG9PZTFuVEUxSW1ENnpzOXNWc2t4blI0cGpveUV2UE1sNG5tUjRDM1V1Wm1MdlpVRjdZdnZoZFVqLTNUdkxvXzE2bjVTX2QxQjJodEc1TUFWckpQOVE2Y21zd3NZMXJOaGVWdnB0S2V0RXJTRWlfSE52YUpZV2xIUdIB5gFBVV95cUxQX1VwTnFUNHdoSEV1RzVlZzJ5d29MLTFwQ0FQaTNUSmtZdFB2S3dkdHNkaVpoWEFURlhueW5fNEhjYzFNZTBoS0ltM0IxX1JRa2RydmYwalhQRlhBY0k2ZXg4bGxRTjZkdi1tbmthcG9PZTFuVEUxSW1ENnpzOXNWc2t4blI0cGpveUV2UE1sNG5tUjRDM1V1Wm1MdlpVRjdZdnZoZFVqLTNUdkxvXzE2bjVTX2QxQjJodEc1TUFWckpQOVE2Y21zd3NZMXJOaGVWdnB0S2V0RXJTRWlfSE52YUpZV2xIUQ?oc=5",
+          "date": "2026-05-15T04:40:42.000Z",
+          "source": "The Sentinel - of this Land, for its People"
+        },
+        {
+          "title": "43 Police officers transferred, major reshuffle in Assam",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbVdrR0thdFlscFZvZVdRVG53VVdmMjM1d21VNHp3SVI0U3RIa2x3bDRYVUo5TTg0eVRGX2Z5ZGJzRE5rLXl4UVUtTy14YV9DOG50SGJxMlZnZkZpdWVYYlFnRHZTYnJqZnpnQXo2SWpNbVoxYlYzSmJ3azkzMkk1NmMxRF94VWt1bmpmQjZ4Mkdldw?oc=5",
+          "date": "2026-05-14T09:02:33.000Z",
+          "source": "The News Mill"
+        },
+        {
+          "title": "Congress leader Pawan Khera appears before Assam Police Crime Branch for second consecutive day",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQc3BKVTZReEdRWGlzMXFTam5pRDlMMjNuVWRoQ0doVmM3UU1CRjdtSmZscGhST3FESmJ2V2x6WExCbGZCOGFxTEZZUkpTWlNodFZqWFdMV2lRTUVROFFtbGp2bjVQT1VkTndoRFh5ejg5V0dlX011THpKWXV2OE5vQkRmZmR6SEZFcDlva2NQamFkMURZcTRJazNURWw1ZXBKcjFjQ3FqSVhFWkhzZGNIZXVxTWMwMGJvYmdBa1BhZGJoeEdLRjQ2S0hXaWhLbFJyekxIMmRLUzVWY1JCX3NIak530gHiAUFVX3lxTFBzcEpVNlF4R1FYaXMxcVNqbmlEOUwyM25VZGhDR2hWYzdRTUJGN21KZmxwaFJPcURKYnZXbHpYTEJsZkI4YXFMRllSSlNaU2h0VmpYV0xXaVFNRVE4UW1sanZuNVBPVWROd2hEWHl6ODlXR2VfTXVMekpZdXY4Tm9CRGZmZHpIRkVwOW9rY1BqYWQxRFlxNElrM1RFbDVlcEpyMWNDcWpJWEVaSHNkY0hldXFNYzAwYm9iZ0FrUGFkYmh4R0tGNDZLSFdpaEtsUnJ6TEgyZEtTNVZjUkJfc0hqTnc?oc=5",
+          "date": "2026-05-14T07:00:11.000Z",
+          "source": "MillenniumPost"
+        },
+        {
+          "title": "\"I am cooperating\": Pawan Khera appears before Guwahati Crime Branch in passport row linked to Assam CM's wife",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSllLcnB3TzFXbC1BdEFWdXBRa2dNcW94MENuMHVUT29pT0hvN0J1ZDBLa2VJRkktMUE1YmYwQWs2dnFaMjlpSDlDejZuUjcta2Y1ZGdGa0RvVVcxc1AxMzh1VVdNWlZqU19ZMG85WjM4alhxc0gzQWxxRFNQNUJmaXk3c0pPUEFXelVmcFBUeUlIeFBlcmVVSTVIdGEyclFKUVlkT3ZXcWJENlZTYXdVMDNRVmVFcHI4YUxWWVVpVGNBZ2lKOVd2QkI2WjJEX1g4TElSdkxHT3FoWjE30gHiAUFVX3lxTFBwQWtqWTNtWG9GQkZYMVFudlAyVEhqMzh3SGxpS3BfZzc3LWRNVVhvU2JNRkRkTThsTG8xOWVCR0EwckptRVdtX2FhUVFkanpPSFhPcXJWeVlsX0tZMHpoeFNFVk9kQkdPdkxTSjlDbTNuajh5QUdUOGxxVDc2aUhjUG9OZVNic29GY3h1RjZFNExyTmZTLVk1Rk5NQ3AwNHdTd1lOVGl0Nm1pbWFYOUVZbEx6dzRoQjE0S052WTMzR19NVzhuZXhBbWg3SUhTY28ySi1pNVYxR0lBWDNmSnpXbkE?oc=5",
+          "date": "2026-05-14T05:51:08.000Z",
+          "source": "lokmattimes.com"
+        }
+      ]
+    },
+    "Ward-50": {
+      "cachedAt": "2026-05-17T07:11:46.794Z",
+      "query": "\"-50\" Guwahati (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Assam Crime Rate Drops 24% in 2024; NCRB Data Flags Persistent Crimes Against Women",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWHJxSENYMjVDVmZyOUNuUXQ3Tm1zZEYyTllwemh2NlBuSnY2OXNaTXNGM3FzTGRsaURROG5qX3ZnQ0w1eUF4MjgyTmwtWm5JaU1TNUZlR3lmSnhRMThyRVlVVkhiNUlFSEhaYWhOU0V4UlhUY1N4NTlEM0R4YU1JNG9MMjFIVjBLR1hscHVwUHdFOGlpaktRaGJ0UGF3d3ZJcDVKX0RfWkhhX2dBTjNvQ0NiQk9rbmc?oc=5",
+          "date": "2026-05-09T08:29:51.000Z",
+          "source": "G Plus News"
+        },
+        {
+          "title": "Guwahati court denies non-bailable arrest warrant against Khera",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRUpJNGY1SHAxYVZhTXczSk1oVDM3cGV1ZTFuRFRkbzBMYk5BVU9nTzIzX0FVeDd2VTFYR3BCOTdnWXdfc3ROLUwwcnpvQVk5ZjF5YThUNnZ0bk9hM1dZbUtqM1pfZVVOWThmSnplcGU5ZTFsVWxFUDlkUXNYYTgyU2NTR3pRZlZndFhNN0J2c0hCSHpUNU8wTk8xcUF5RUHSAaQBQVVfeXFMUEJlY1M3NHBXVXJqY0E1dTBQRzlxZnUyYzNxcE1jWGg1cmlNMk1Bc1MyNDM3eExwTU9NTGJzWW1EQkx1alUtVWdSajJkaElzMWQ0Tjc5X09TcmJnYXlWYTZrN1FTS3FBdmVtM3J3TVI1YnZVNzdYazM3bFFZeG91Y2d6SEhfOHFGQWZ6aHpyZ0FaRmNFMkdDcDVSLWRocW1TbEJGNDI?oc=5",
+          "date": "2026-04-19T07:00:00.000Z",
+          "source": "ThePrint"
+        },
+        {
+          "title": "Basistha police bust theft gang that used women’s attire as cover, arrest 3",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQa2REam9RbHpIampZX3AySmk3SF8yT2s0LVhBZi1qTlpKVzh5Nm5mbEEzSkxhSE9ucFV0NWZNX2JVQ1NOVjRXVDRKTFc3ZTZlbmNvSHFOVWZ5cVR5NXBJUFpSNldXWUhlblpydmJoQjh3YkdJc1N3djJvcmtiY2FreXpKTnk5cVFEYmdsSjBaVHNHMzl2bnVvQm5CVDZhVnNWckdLa2YtTndkQ3dvVVhadzRSMXlycVdpWi1XdWVUUW0xZ3ZFc1JjMXV3dzloRTBzUFZ3ZlVTMkFMU3V1d2p5RU5xZ9IB6AFBVV95cUxOR0xDWlN6R2hSSi1mYmNsamI5NkdYZjdNajVzVmtnRWhSaTE1MFdYQTVWcGc5eWh5X1Z6VWttZnRMcWR1UmlxbU1Id0lwZkxLMVFtLU5yR0QzT3pXajBYZUVTUnVTc1NIdjFkNGdIdUhIZXBWZDNLQWpOVDk1NjhvTHpJdVJEck0yX2RfQUNHcE9IbEI0a1JIS3NsTmdUS3lkbm9VZUFxNHhGUVZhNnV2WE02UXFvcG41WDhHVEZ2cElVc1RPU0xLUmIydTN2NmowcUNaUHNIR2E2Q2hmVDB1OU9OaVFBQVBK?oc=5",
+          "date": "2026-04-19T07:00:00.000Z",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Woman Robbed at Gunpoint Outside Uzan Bazar Temple in Guwahati - The Sentinel",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNa3ZDVHdnS1pzU0VIdi02OFVFSXJsQWNGZVlMSW1FRE5NNFdDc19uYmVfdmNiZ2trOVk5UXlaNTBtMHVGYWNEelhLY3VId19PXzlTbWU4Rm8yTVlyN3J6Vm1ybWs1QjNnb0ZDWnpvUG54dW9nWmdTMThuTlBGamwxQ2hEZVYzM3ZqcDN5VmZaU3Q3SmRJUEFVMTRuT2Myd0ZPS1NiX0hsb3p2ZXNYdHlzbG1TQdIBwAFBVV95cUxOSi1lbFJTeldQWTJnTXAzWG5BNFJaY1RVTDk3X0NnMDhkUnFZMEk3MEhpQTJ6RWRmbEdqVF9OTGlIcW16ZmRZNWJqQXlFQ1VKR05mdWpRVUVuYWhpbDRUcGllX0Z6X0xvV2V6STI3NzlxUW1BQnI4b0VZUklHQWJlSG9IUmh1VlJ6WUJWbllOWWE3VE03TUlZRFpGSDN0UjVJVWc3RWlFbkVHVjctdEtPVllEWUNuZWt2Yl9tNDJxUXA?oc=5",
+          "date": "2026-03-22T07:00:00.000Z",
+          "source": "The Sentinel - of this Land, for its People"
+        }
+      ]
+    },
+    "Ward-39": {
+      "cachedAt": "2026-05-17T07:11:46.794Z",
+      "query": "\"-39\" Guwahati (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Amit Shah inaugurates new Guwahati Police HQ and surveillance centre",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ0FfdndfNlFKYUlBd0Zaa1dES2FTZ2t4VEhGbzZrY0hEMWVWeHA5UWVWVENJZm1XSkE0b3dxR2lIbm9kXzNPMkdPSG5Va3FLUFpXdWZMbzBRT1ZHWmJXbVJ2Q2hJTGY5REdQaHNOS2Fzb2I3Mk5ndmVaQkI1YWl1S1BDRmp5Z2xka1FTcFVVS1V3UWVKS3pBVEJ4WGtpYjZQZ2Jr?oc=5",
+          "date": "2026-05-16T07:12:23.000Z",
+          "source": "The News Mill"
+        },
+        {
+          "title": "Pawan Khera Appears Before Guwahati Crime Branch Over Case Filed by Riniki Bhuyan Sharma - The Sentinel",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSzNRWnVfc3RxSEw4RFdqVUVVODVNSVlJR2ROQTJLS2dSakI4YmFQelNwUzZuMzA0UzhibWdlTnFFSUN4VFFGWTZvYWlyb0sxWXFYVXVvb0s4NTF1RTFrU2RkQTEzaFhCaHY2OXE5S01VdVc4SzVVeWZ4VWVEQjUxc3lRMlhmWWlwazh6Wk5NRnNHSUYwMzVGT0dtWnBtQUpzOTFXVXAzUktXN1FEWUgtZkd4dVhjNGQ1OVg5UG55OFhnLXdvcjl1TXdwdkc1OTZ5cEhBRXBkMDjSAdgBQVVfeXFMT0szUVp1X3N0cUhMOERXalVFVTg1TUlZSUdkTkEyS0tnUmpCOGJhUHpTcFM2bjMwNFM4Ym1nZU5xRUlDeFRRRlk2b2Fpcm9LMVlxWFV1b29LODUxdUUxa1NkZEExM2hYQmh2NjlxOUtNVXVXOEs1VXlmeFVlREI1MXN5UTJYZllpcGs4elpOTUZzR0lGMDM1Rk9HbVpwbUFKczkxV1VwM1JLVzdRRFlILWZHeHVYYzRkNTlYOVBueThYZy13b3I5dU13cHZHNTk2eXBIQUVwZDA4?oc=5",
+          "date": "2026-05-14T02:11:44.000Z",
+          "source": "The Sentinel - of this Land, for its People"
+        },
+        {
+          "title": "Guwahati Youth Arrested With 39 Grams of Heroin in Khanapara - The Sentinel",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZkdxSmZfTEZoR21GczlxeWQ4dEI0NTE5RTRxMWY2Skdma21qQXlIRE10WmhJMVJZS0hqQ3NIN0E1WnR3RExkUmEwOXFaVDl3WnJsYk1DYVRXeGJaQ190OW5FZ0otMmg4bW5QdUk2bEkzZ2JHQjh5S005NnRmUDh2RldHNXZSOFRXT2NqVlVYMjIxVG9JaUtvRWk0T1Fzc2JiYjE1Zm9xSmdoSUlldklsU9IBvgFBVV95cUxQdktqLWtNQTVtanVkN2h4dVZySnRNQi1XTzBhYWlTb1NmT3RmYVJjSTBhSmlreDczWjh5bVhQdV9RVWpHaFY3MTY0dVJtWEl2R21PTDQwUXc1TEhMODhZVThpYWpTcnV3VlMyUWZtQUh1Q2phS29wcXRVOWxVanJlWUo5My1vLUZzUEtDYzAzTE1YbTdKaHMzNUQ1S3dJVDUyNGZxbkgxbllOSW9LNFZPM3VJYS1MeHZob1p5R1hB?oc=5",
+          "date": "2026-03-24T07:00:00.000Z",
+          "source": "The Sentinel - of this Land, for its People"
+        },
+        {
+          "title": "Guwahati: Union Home Minister Amit Shah inaugurates new Commissioner of Police office - The Sentinel",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObjZuQTBRazdpX2ZHUHBDZHcxMnAtdjBJZVVCWWQtdHhHendLV1dIajltUVlsaGphdWJlanQwSERqeXlJVDdDQmVMRW40akRjSERJV1F1RG9GakR1RElydm92TWk5aXh2NEtSRWpMZkxSZTVHNVFVVFJobjMtN09sYmdNX1NXZFh1WndhMEwzZkUxN0NFLWx2cUx0czVDUFBJSmdTZ1pNMVhyRTI3cXpDSlhpMGlrTGQzejk4Sm9TbmpvZFpRVVHSAdMBQVVfeXFMTng2LXZaMG9VQjNDZkxyMGQ2SVlvc0FGNW1JM0J5a0p1QkJIa0J2TEpoNUFOdk5YTzhMcE1QUFFhbFFBZlo4Wmg3alB2X190czlYVGY0clU3ZHVSZVJYMXdGd3Z2Y19rYllqNkdLOVJFVWo2R2FUNGROS0R3N0lTMXVZUTVGOGZKOEE5TjRDVC00dk9Gb0pqVkwzZnRvX0Mtb2UweHAwUEFGRFRJNjNXREFIWmdCRWwzVk5OZnl2aUxzdFEzaFRISlJRQUVVRUtLTjVybw?oc=5",
+          "date": "2025-12-30T08:00:00.000Z",
+          "source": "The Sentinel - of this Land, for its People"
+        }
+      ]
+    },
+    "Ward-37": {
+      "cachedAt": "2026-05-17T07:11:46.794Z",
+      "query": "\"-37\" Guwahati (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Narcotics Worth Rs 21.36 Crore Seized in Guwahati Bus Raid, 5 Suspects from Manipur Arrested - The Sentinel",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQX1VwTnFUNHdoSEV1RzVlZzJ5d29MLTFwQ0FQaTNUSmtZdFB2S3dkdHNkaVpoWEFURlhueW5fNEhjYzFNZTBoS0ltM0IxX1JRa2RydmYwalhQRlhBY0k2ZXg4bGxRTjZkdi1tbmthcG9PZTFuVEUxSW1ENnpzOXNWc2t4blI0cGpveUV2UE1sNG5tUjRDM1V1Wm1MdlpVRjdZdnZoZFVqLTNUdkxvXzE2bjVTX2QxQjJodEc1TUFWckpQOVE2Y21zd3NZMXJOaGVWdnB0S2V0RXJTRWlfSE52YUpZV2xIUdIB5gFBVV95cUxQX1VwTnFUNHdoSEV1RzVlZzJ5d29MLTFwQ0FQaTNUSmtZdFB2S3dkdHNkaVpoWEFURlhueW5fNEhjYzFNZTBoS0ltM0IxX1JRa2RydmYwalhQRlhBY0k2ZXg4bGxRTjZkdi1tbmthcG9PZTFuVEUxSW1ENnpzOXNWc2t4blI0cGpveUV2UE1sNG5tUjRDM1V1Wm1MdlpVRjdZdnZoZFVqLTNUdkxvXzE2bjVTX2QxQjJodEc1TUFWckpQOVE2Y21zd3NZMXJOaGVWdnB0S2V0RXJTRWlfSE52YUpZV2xIUQ?oc=5",
+          "date": "2026-05-15T04:40:42.000Z",
+          "source": "The Sentinel - of this Land, for its People"
+        },
+        {
+          "title": "Cops raid lottery counter, detain owner to probe fake ticket racket",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPck9NWnNNMU40a1ItUU5IdGt1dGMwR0RONFpEVWM4am13a2hiQ2VVMDIxMk5JOExtWDAyVEttTjNrQm9aMVV3ekxFZGVHemxVMFZwc1NwdFlteU1TWS1FUUxEZ3JMdllySUtUbThaMUZ1SGloS1l0dE54QkU5RWFCZENPWFlzdW1pS1ZkcFBjNEVOMkpWeC1JeDBKQThTRGltTHBzUF8wQ19UWDFNRTBVTi05VHVqaFZ3WlBSaU9aYjY0eERWc1lsVkIyR2F3dzNyWENYTS1rUEFYQdIB3wFBVV95cUxOVUFiWFlZWnIzZ1BDS3VCNXRpbkEteF94TXl0NUhZZ0F5RHhmMzZIaldKc1JLQi1JU295V3hKWUh5V28yZkdURVRJU3BZNndyZ2dRUlJSQkNWc0hvU2swdk9sQnFNZzhOUkxBbHoxNGxwWjd3T2pQVUFtT1pKaDVxa2NpbGhJRk1aM2wtZzhsQmp1TEpldjFlaVQ1S3NUWTR0aV9xYXMxRTlGZTY4TmRBNFh1dTJ6ZjhIdV9XczRvUUlPMUZzQjVVbVFrZ3IxYkVyc0JmWV8xVXVjcXN1UlZR?oc=5",
+          "date": "2026-05-10T18:07:00.000Z",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Guwahati: Sex racket busted in Hatigaon, three arrested after midnight raid - The Sentinel",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMld0Y2NhRnY3alVDeV9hVy1oNnlwbXFJV3BTbUhsU1RJZld2dlkweFN0aUdtSi1rZ0plTHg5RVRycEZ1TXB6dUFMRGc0Y0Nkd3JfZlFOLXA0RWpDVjNodmRwS2ZzNFJHei1iWHd2b2hBQnJiaHE5aFJfUllVWVBHN2JTbDBZcmZ4YVJIQXhFQmxyMVVjdkNnTUhZMi1idnJIa0p5Q0tNZnhxRzlWQVpURWxOVEVqSksyYXBCR1JVaFlGd9IBzwFBVV95cUxQbVZfWDB3MzVRemVYNnQ4YnVvaUJrUmtWOFlUeUFMMUcxVEUwdk5yWWVNQmFfQkJOVzF2ZGZidUNCdnpZZFRnR3dYcHRUalk2eC02QTRjSDVyZVc0dEtqMDBOV25iRWpmVk5hYWpvejY2Q3k2ZGJKYmdHY3BaQllEWWZpblNyTTJtejhGNVRlcG1pT2ZXaDk0dS1CdEdhWldqaUpabHNIRXhra0NSX1I3M0N6VUdPNjdjbXdvN0NxV3JNMVQ2X1FLNktTcnpnRlk?oc=5",
+          "date": "2026-05-02T03:07:15.000Z",
+          "source": "The Sentinel - of this Land, for its People"
+        },
+        {
+          "title": "5 arrested in Silchar for illegal IPL betting",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSThzVndhX2NKRU9IQzZwYmh5WWVXdmZrd196MDZidlJNN3FFQ0pPaDltT2VqTk43Qk1XUmlwTUJWMXBHOWFUeGt6ZGpTVE1zVnhJU2V6Ukh1dVVkVkc2MDhya2lUXzUyaWRMQTlBX2pobkhvTW80NU80M0VUb29MbmQta2cteU1EYlI2S2tzX0MxWnB4RXp1dFZtNk05emZDVU9PTWVlQ3BpdzVoNEVsUWpjOU1zdFR4UUVVZGtn0gHDAUFVX3lxTE1iSndERUU0NW5CeThhdVY2Um1vYmJfdjJ0dW40TXlrQTNjb0N5OTNiQjVLb1lRN1lYODhFNGx5alotaUFYZl9qcFRjdmx5TmFvanJPWl9tazVuUGRUN0paYWEyRGV0TGJGZFNPcmdtN29vTi14UVFFSFpVM2dPOFlzUE5PMDliOFY5WS1qTmVKeU5DN3NMdS1EYVZHNXJ0aEhLTXQ3WDVGOHBZajZfNkZaVGt1aGRJcG5WQ1BqOWN2QjhGVQ?oc=5",
+          "date": "2026-04-27T07:00:00.000Z",
+          "source": "The Times of India"
+        }
+      ]
+    },
+    "Ward-49": {
+      "cachedAt": "2026-05-17T07:11:46.794Z",
+      "query": "\"-49\" Guwahati (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "‘Have faith in judiciary’: Khera joins Assam Police probe in CM wife’s case",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVm5fQ2RjeFRxZkY3OGJfZ0drTDNJN3hVVW1HVTVLaDFDaVk2dWlQZHlJenlIVGthV0lnMGJmMDVkMl9mQVhyMk9jNEpaTFhZbVFnUXYxZ3ltSUNxMzQzcFVPTmo1VWFYLWtUelBhQm1YRDFHQ0ViaEZVeVp1RnNxdkZEOFZxVUhwMlpNTm1TTUhrcmd5VUFOQzZlQzVrNXM5ODJlcUpPN3l0V1BUV29QRmdwa9IBuAFBVV95cUxOU3RpclVOYmx1SkF4V2pHaDlqZXpEaFdHb3NxdzZ1V3RFY2g4OFd4bGt6YWZkZUlqMTN4NlktbTZ6ZUlsSnF6TmdQV1VDaVlhUnZITXFaSHpxSkphSDgydnRIQ2gwWGRNNlg0ZFNRSU1Za2hLbUZHYk1lbU1sNGZCc3VKOVRDdjB2RlJSR0R4c1ZtTXRkZXBBLTVMUE9leEZVdGZpWGJ6SGFXOVZkNlFNOWpMa3VycE9I?oc=5",
+          "date": "2026-05-13T07:49:11.000Z",
+          "source": "The Assam Tribune"
+        },
+        {
+          "title": "Escort racket busted in Guwahati, three arrested after survivor complaint",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOT3AtN1hDQ0JqMzV2RHpXVzlZbjZ3RmVfVDA0MVBNUlQ3Wi01XzU4OWo5T01vRDlCbmoyRTB3dlhtazlDMzlHbG5Na2FfUzgzV0VPcnFnT3ZlckJWSHdfWENZZ2FpYnRMcDI5V2VLWVBWYk50WjBCc25ubEp5ZkxVZXdOWXlxb0lSU1hOem04VFJQUlZGVHBrWnR2djBPMkItTURDTGVHZGk2b1JJWnU5Z0FlN1bSAboBQVVfeXFMT0NoVW9rdDJESXF6TXVnbjRfcTl4cnFMLVREOGpQRV9mdkZ0OVdVMWtnQUtEa2VxbmMyQUNEYnpUbllGTGd0V0RTWTJiNDRsTVY2eWZGM3U2QzlpT3RUZmNxZFRvQTViSFRER0tfZVB1VDFkSGZPMG9odm80ZTZsRkR3YWNwS3ZLNnhQeDFiRHIwZEdsR3NqTzhLajJJMngwZG1xSFlmTExMLTNLQmY4V29MOU1Wd1NkOW5B?oc=5",
+          "date": "2026-04-21T07:00:00.000Z",
+          "source": "The Assam Tribune"
+        },
+        {
+          "title": "Passport row: Khera approaches court for pre-arrest bail in FIR by Assam CM's wife",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZ0FMT3BsTllQeUwtQmN4bEE1RHUzUXhVandvdEVIOW1xRk5tbHRIbWl5Qk1QY1RJajZ2dEtVdUl6TG1CWFVZQkZnM3djaFNmQlJHTEZQVE9IQjFyTzNQVUJBUEl3XzJDTk1iRm90Q2Z2Ykt5VUQ5aThBSjFHY2ZBUjNpcC1lSG5CWmN6aXN1NmRwTnMwbER2eHZLN1hfelVaaXVPUlRMc19RcmhpTThvbzRIQjcxY1JubFhlOGpabmhJTnhocHNtc2pLbXp2SjjSAdQBQVVfeXFMUFI2V053RGJZanhCTldkQ21sdFZ0NWVTMmItNk5PMFFjTHdHWVJKejBTYlloemg1YmlOcEVZWE1qd0ZuTkg4cThDenFpQ0ZrNXdCVURwOTNPYzNoSFBLT1lISnFmQ3k4a0wyWlF3alhwYVBFSTBWemkzOFpRLWE5aGt1QnBFUkQ4MTVXbmVXcGthSWVlbVBKNTAzZEZxc0Z5dDBSS2NxYnJQUUpySnFPSk12RkpYd2swbWlmdGZNQ3ZNUDRJdkhlX2s2N1JvNEhQbGF3RmY?oc=5",
+          "date": "2026-04-08T07:00:00.000Z",
+          "source": "India Today"
+        },
+        {
+          "title": "Cops raid Moran labourer’s house, recover Rs 14.5L cash",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOalI1UUt2SFFnNkFwVGZybk1BZTU0THNrUmhZMFpzOEZiVmRMeHVNazQ0TlRxWFBieERscXdZNGR0bjhvZ3R0b25FM094UFRFMEdKeTNIcFVfWTRsNFAwRUlGQVFNc3A1cHU3eXRCNjRSdS0xamNlU1NlX0VFUm84M1BVRjU4anZnZTdyQ2pjOV9zSmgtRTF1ZWhSNWFkZnZwS1JzQU5KbVNIbDU2U3FDUzZNU0pDUlRyTjVCNTRUcmtjNGZXTTJ1YtIBzgFBVV95cUxPMG9TQ3g0VzNodzg0cmhuanh3YmY2b1FfYnlfdktONGFfR3JpQ2ZRTXRkSUwxNHZxRHpraWZKSmpxaGM0S0pfb2Ntd3lNUHZJUWVNTUlIYlRpdlhUVU1ySzNCVWZVWHRsazVVMG1RUDRiVWVNSGwteVlucTRCVGZVZWZTXzR4VWxEejBRYzB3X2lYVEpoLVE0VUVyVVRETmNiMjdWcG9WWEVEOHBZc3FRNGR4dEdSaEd0S0oxaUU2UVRZem1nOF90Z0ZEUWMydw?oc=5",
+          "date": "2026-01-07T08:00:00.000Z",
+          "source": "The Times of India"
+        }
+      ]
+    },
+    "Ward-51": {
+      "cachedAt": "2026-05-17T07:11:46.794Z",
+      "query": "\"-51\" Guwahati (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Congress Leader Pawan Khera Questioned for 8 Hours by Guwahati Crime Branch, Summoned Again on May 25, 2026 - The Sentinel",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcHRLREFLOGZiUG8zMFVXMVY5UEFvTl9IelpVb05tYWVvUVJYdFFWMEk4U0YtNFdZLXBYdi02ZksxV1lTRjE2OERpeXpmZElLUWtObl9CTV96NlJWbnJJQ1NXTGxHdWhILXdEVG5iT196YnY3X2pCRXZwYjJFVGpyUU93dFpBOGp2dUJTZFhnbExYZzhDWW1vTU53eWpwakNBVlpJaXhXWG5jY2VCa3MwejNDN1Z4ckI1WV8wbi14c3YzQVExR010QU9hRjdQYzRZV2ZNWl85RG0zNTUxRGVQY2tn0gHvAUFVX3lxTE0xel9yMW4xUFZnTGZTM0lJTVAtQWRCUUZ5YjhkNzJxbFlvOUx1T0pIQUd6VW5HYXNtMUtVZmV4M1FLd19jSGl4SEs3WnNGcXZZVmdyU1hlZjJwYThCVy1mbzBRcUQ2VjNMZTBzVm0yYmVXUExGM2NIa3lIczdtNU9vYXg4bFZWN3Jkcy1LUkRVeUpTanF4eUVaNlgtOWVpTE5Jem01OE1lWW5UdFVyLW93UTN6TmxiUVlTSTlKeWpqeXJhUkgyVUlnc3FWdVprUW1GMDU5aTRVQ0hjTFZuemNJNmd6Z2lrUDlJUk1udEhN?oc=5",
+          "date": "2026-05-15T02:51:00.000Z",
+          "source": "The Sentinel - of this Land, for its People"
+        },
+        {
+          "title": "'Assam's Peda tastes good': CM Sarma takes swipe as Pawan Khera appears before Guwahati Crime Branch in...",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNRzhmSVh0UmttS0JwYi1NYkxHazZ3T2EtYzFlRlp0ZTFaQUQxX1RZcnBPdEp6ekZ1WW1lMTMtcmhpRkxlbUVuWmRQM2FNdDVfWDhZa2ZjQ1NGRGpnN0FDb2RtQWNHUTRVZUtBbXlzV3lWWHlCRGVhVWJnT2xRZ3lFZjgtUEVHbVpNeVdENDhMd3R3UUMxNjlzTnJFMFFaUmNHMEF5SGpKS0hIUGFfRGt3T2xUZlNOd3ZrLWJva1V5Ym9qdk1qY0xfd0k2Rm1GZXBkU0M2UzRBU3F0ejNhUUxBZkR0TC1Od9IB6wFBVV95cUxOLVVCMnVXbWRwcDVuUzJPTV9JWGdxQUdFWVFHV0ZIcUE3TTJ6LUh0ZTUxZFYzRVJqMDZGcVQ2dUpfNUg2SEI2dnNnRUx1enZfTmJVNE5pdlV2N3luU3kyNEM4Z0FlMXg4Ti1GbFhmeUNlTlRqUGhsZGhXeElkUmMwVXJGbDJGRHFvOTlEOVRiU3R5Y0k4N3VBb1hoYkg4QnlIUkVNczZIREJUcHN3SkpUcWN3WFFVdmpCc3p4TjFzLS1XWmRRRmlLNFVuY2F6MTZnVU5QNUFTWnNoeFBVQ0M3bnhOWTlNYmYwWFFZ?oc=5",
+          "date": "2026-05-14T07:56:10.000Z",
+          "source": "lokmattimes.com"
+        },
+        {
+          "title": "Meghalaya Hideout Ends Fugitive’s Run: Guwahati Police Arrest POCSO Accused",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVGI5UU1uYzFVYjNkdlJSUTh2ZmxLS0RQZHVLMmxRUUhFY3cxWER1ZVlsRUE1cklxSDRQcU1vV0U2RDJ4bUJ6NllWbEpkVmtXbktwcndLY0RlT2VnLW1UN005bW1SdTFVSTdkd0RRQXJveUx3cDV3VWozLWhyX1NNSjduSlVXM0pDeWhPT0twV0NLdDlSUVh4ajQ5MFdzUmVacXVkbEhMbUQwbnV2VXE4?oc=5",
+          "date": "2026-05-07T13:27:05.000Z",
+          "source": "dy365live.com"
+        },
+        {
+          "title": "Guwahati court rejects Assam Police's plea for non-bailable warrant against Khera",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd1pIUWFfY1hKX05WMWo0czdVU0h3cjA0bjlNRkwxRXBsWGpHY0N6all1aUwySkFpREdBYnBUbkItcFp1NGZMa05jNnZPMml3WVQwaDVLRXFhRXk5SWNQcVJLeWE4ME5Ebk1SdkpuN3ozM0szQ2xzeUJGMGM3ZXFtbms0QnpuOUNWWDRvbHNNd1kzSXdiSF9QeVNuUWVXX1NjSUI2bTQ0RF_SAa4BQVVfeXFMTzk4Ylh5dzFCUDBVcUNVLUhWd291VzFqeDk0TTNMVElIVlQ4YklrUHFYeDNic0I3d3hybUo0MWVOMDdaRU1WNnF5dDNLbVpkWXB6bjY3Nm9KUVNfTXhEY0J6ekQwVUNNQ2EwN1hlT3ZyZVlabmhyMFpNY3UzZmpEcXlFRGhEWEszaUZoV1pmZjk0empfdXNDY29YdGwtZjhWTzczWmJhRlNpU2xBUjB3?oc=5",
+          "date": "2026-04-19T07:00:00.000Z",
+          "source": "The Assam Tribune"
+        }
+      ]
+    },
+    "Ward-52": {
+      "cachedAt": "2026-05-17T07:11:46.794Z",
+      "query": "\"-52\" Guwahati (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Assam Crime Branch summons Pawan Khera on May 25 over allegations against CM’s wife",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMk5PWXJuenR1c3ZLZG5ySmdxbFZBaUNuei1sMUhESU9jS3VtbDVzQ1BycENXSlpuVFlnQmY4OWZHR2F4MVE0a1V3dkJuc181Y3J2WGdUS2dzcEpXUVluZXdSdW9FU1hQb3BXQnoxMUI5blNDV3NnR0dRY2N0Y2xMQUdkeU5zSmVqbVdiZDlPN3IycTVvVU9kR09fendST0l4Vk5kTWlYTXUwTzh5RXZrVU9xLVdIREZ1aENFc0VzVUV5bnhjMFHSAcsBQVVfeXFMUEpkRnBaVm1YTHhRNHYzdEpGMVNBUndDa0h3ajg2WURFaGlUVXpiN3U0RFBBaHRmVHFDY3laazVyVVdsbnNIcDVDV1YxdGlzc2FJaW9EODEzRFlDMVRrX05Kdzl0WGtRSHVNa2dLTG5xX1ZaemQzQm90U05hUlJmZ2dFajJGWmt1eTFUREpCeXoyTFFJSVdJTkRZTkF3ak11YmZ1cXBJLUtZWHZJaDZkbHlPTVY2UlpvRldrMmZKLTlxQ1ViZ2x1TUE2ajQ?oc=5",
+          "date": "2026-05-15T06:52:15.000Z",
+          "source": "The Assam Tribune"
+        },
+        {
+          "title": "Assam: Pawan Khera appears before Guwahati Crime Branch in passport-related case",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNTFrR2VuNWNZMVFwOTk1RkpsWVJ4RmU3V0ZUSjFSRjdyRFplZzkwbUtGejR5UjI4WWpVZERObFdQMTk2YnJfQkpfR2YwamdtQV9RQlBDMUtLTUxtRUZfV3dxWTY4Nndsd2lfY3lYX0FUbkFsVDdXSEdOaFhxZmtZY1M4VHM5c2JnMlR1R1RyQVRCbU1OQVgwUGF6YjR1enRmaWlqd0xiRmhxRHhnNGxZbjFzX2VlcTVlTkRSbmlMT0TSAcABQVVfeXFMTzUxa0dlbjVjWTFRcDk5NUZKbFlSeEZlN1dGVEoxUkY3ckRaZWc5MG1LRno0eVIyOFlqVWRETmxXUDE5NmJyX0JKX0dmMGpnbUFfUUJQQzFLS01MbUVGX1d3cVk2ODZ3bHdpX2N5WF9BVG5BbFQ3V0hHTmhYcWZrWWNTOFRzOXNiZzJUdUdUckFUQm1NTkFYMFBhemI0dXp0ZmlpandMYkZocUR4ZzRsWW4xc19lZXE1ZU5EUm5pTE9E?oc=5",
+          "date": "2026-05-13T09:22:23.000Z",
+          "source": "NENow.in"
+        },
+        {
+          "title": "Congress Leader Pawan Khera Appears Before Guwahati Crime Branch In Defamation Case Over Passport, Asset",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdWFsSUhtY2hVcE1ZT1VMUXNjX1hpbVpsaXo4dXJpUGJfTVFKNDNQV2ZLQnhCazFGanBFVG1FUmdDUGM5VHRXbGVLZjNMRkpvNGxTMjJaV2EtZXJ2RW55TzhqREZicHlnc0owN0ZMUWxWYTNHcnAxWlVBZFN5SFNsRHU1WjF2c25EQlo0S3lJZmRNMEFfSDctaFl2QWtxYmVGX0xBTWZ5dFZSZldtS2hLcm1pN2pTX19oUmhlSFhVbnNpV3RDWS1IckVqNmY3RGloTThwQ0d5ZVk5aXIwby1rVDdKd1B5d2tCZ3fSAe8BQVVfeXFMTV9RbWY3R3Vnb1VMRXBOVUlmMmQzM1pKTlpScEtHMUh3LTg2c3ZoV1RmUVhzZnB5TzZrNDh6M0VNS2hUeUJRY3pPOUVBNElKMUZWZ0NqMUFHUTlZaWRfc29FcnJGS253SUdNemtWU2NaZVVYNVNhcWl3OUJPcTZyYV9mM296VzlWNUdtS2tIOFV2aDJrOElGcXZialFpdFVrOHIwVF9YZ3MyVUk5V0pMSGtvRHRkaTdHazhFX1IyaUl0TlNIOXBRdW96VVZCZ3BHYlNON0haajhpcXMxWHVGUVc1M2pUX0F2OERsN0dRUUk?oc=5",
+          "date": "2026-05-13T07:40:43.000Z",
+          "source": "Free Press Journal"
+        },
+        {
+          "title": "Guwahati Woman Arrested After 5.2 kg Cannabis Seized in Sawkuchi Raid - The Sentinel",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYTNhNm82NXR2dExYdTkzR1k1Znl6ekIyLWRNc19tQTZwX1ZFTTB3TFBrRnYtM3dXalA3YWJRN0NZR1RmaEU4VkNESzdULUs2OWZsSkE2UVU2X0JOYzk4Nlk0ekgxdlRGeUN6MktZczF4a0lPWmpFZFZIUkJUcHZQN1FvZl90cXpYSEpHMUJKbF9TQThobk43MzhuSU0yU2NLZjRkcnVvUGo0X0lVby1RLXY0N1k0OUdxQ2JZ0gHIAUFVX3lxTE1FZlBMdk85M1I5MkRMcEJqWWhEVXRXUjVlVXhmTHZwdmJmWTRtMUVHLUdvdkJUQVVTYXRfcTY5LVhQRnIwRzB4UzVjWjlWX2E2VFhUanpDVXQ5d0EwVGM1eUV3Z1pXNzU4RmR4NkFtdHJnaUFscmxNZ05SNDA2YlVpZUxia2JTV2JzVWhKd2ZMOHBVaGhtVFd1ZGcxN1ZUeFdRWXhHZ2hpVnRlY0tvSWpZWEtZLWQ4bHBDTlVNYjAyZl90dFN6dkZp?oc=5",
+          "date": "2026-04-27T07:00:00.000Z",
+          "source": "The Sentinel - of this Land, for its People"
+        }
+      ]
+    },
+    "Ward-53": {
+      "cachedAt": "2026-05-17T07:11:46.794Z",
+      "query": "\"-53\" Guwahati (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Assam Police Moves SC Challenging Anticipatory Bail To Pawan Khera By Telangana HC",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNlFVTlFscUxGcFI3VHdHQlJxbWF3cDAxNldzeEdiSjFNeXNoUGxpaXdNakJGb2xjWEFqbS1LUm5VTDc1UWFnY3JOaWJrdV9pQUxOVEhqUk5yekF5WEo3M0F4aEFUMW4xcXVoX29BQzhQeEpGSkxIbjBTU0NjLVdrQlgyOEhYcnREZDZGWUJGSTk2QW5sV3phRUl4cy1Wd1k5amh3cGlCQkk1cEtSbWdNdGc1YVJ4TDJJbGFMak91Wmx5RTFtS0tPTm80cW56UHNZUXfSAdcBQVVfeXFMT08xYkhzVGIzdWZOSFhDRE9oc1VPYjgxX2lHOS1vQzNOUnZaWjJ2RnhKUFExbTRRMDVZNmZJN0lMMDZIQ09PMVBha20tQkJYdlA4ZGg1REJLbFZvNHN2aHVBeXBmSTFlRmw1VV9kNVpHbVVQeXFweFVVS2hfVG9pZ1JvWm04ZE45eDNWeHBVSF9Qbkh6c0JQLV9JMXNaQlhwQzk0bWZ0QTB6UlVPNGhtYjRwWVJzR2dxOUlPMkJJMUlGdWtld0JlZ3ZSbkNzZzA1aldRQi0wQmc?oc=5",
+          "date": "2026-04-13T07:00:00.000Z",
+          "source": "Deccan Chronicle"
+        },
+        {
+          "title": "Marital Rape Not Criminalised, But Forced Sex In Love Relationship Is Criminal: Gauhati High Court...",
+          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQS00tU0M4NkoxYy1xNU1UZVVsV3BBbFZzeXVRV0ZxYldZQjJsQjRXdi1zYkVHNzNreFkxeTgwVVJXU1QxM3FISFJGWTRNRmUtWHBxRmlVd29ZSF96NXlSZ2dyd1k1Tk5pNmt1UmpLOVN6QlNiQWRkR01iVVJnZ0VvVTRWQ1FndjhvUFNLUDFoQUV2UmR6Z1RDcXlDWVhfQlI4QXhxbVNxb2t3SE4ydmluYmJyWkc4SW43WnMzLUdYWjNrWU9MdDl2MnZES0hCbGNlWUZBb2FOdUo5RVJQZ0NtS0dtS0hQSm5ETGNLdFpHX0dyYTZQUVExQUFXOXMweUlTV0xDSmNSSDdBRlHSAZACQVVfeXFMUFdWcDVURXA2VlllOEszamZON1FaYXJNNjZ4Y0JIekZ5bHBtaFNjS1ZlZU9GNGw5Q1hfRGVzbUJQNFNtUDZRblpMZ2o3dWY4aXpKaUZ4eFI3N1JLX0JmXzNVcmdCMHA3YXFhTllJZlQyZEVHc3NPN0FUejRRZ2VWcWlJUzFPM2N3c0Q0UWxnWHN1dDlkZmlXMkVyMzluRGtMaGw1SXF5Z1ZENld2REhIWWFvbUJlbXRhMjBnOThKa3VtZC1qNTUtYklheURBUGZKRWhPeDEyYUdQZ1k3aFpNY1hCeGg2VENnOFVBTkZiTjc5X2JfaXZQSWlSUkxLX050OWxROE0yZUg5YnlDSENnS0g?oc=5",
+          "date": "2026-04-01T07:00:00.000Z",
+          "source": "Live Law"
+        },
+        {
+          "title": "Permits under scrutiny: Two foreign nationals arrested for entering Mizoram without proper permits; Tight",
+          "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxObS1oS3p3QndqOXk4ZW5uTmFySFAzWEFsa0gtM3JIbXJ2VFVldDlHeTVqTzdvM0xSN2RXWmtlcHd3VEpyMklRdzhPeVRlTHVmRURSWmZ3Z2VTSWdxQVRBMVhZa0xVQlJwYVFyWWRBTzZTYW5uajJ3OTZHYnQ2eUxMek5NQWtJMmF2ZGgzSkpvUVFuNk5GSjBSQzRYNzBXeF80N1hjNzV0c1BaVDFoT09LRmtHUHBYWW5Sc2IySW1uYm1keVVHcXlXSXFmandoZVBqVVNJc0VOQnQ5ZmFkallQVGxiSkdhWXp3Ujd1cl9YTURwZTRxSHl4VEJDVEJ3UWRYTUxQY0JiTGVEVGZjZjNIenRHSmF1Z0pyTXk1N1k3c2doOVBlcGVWMTROT0hTclkxMjVueVYzekMxY3BpWEV2ZkxOc3E3amJDTlc4Z0tYVTFZaG5D0gHaAkFVX3lxTE13RkFXQjZlNElFNU41blNYREZDR1YwaUI4ZTFuV2ZrZDVnZXhnUkEyemRXbkJ4NVpMdlVRUGRQRkYwV2lHeklEWVRHRjlyNXdJRkN2dnIxbFhLSW02VGRFbndxNk5OQl84bVNtakNaNV9HQ0J6aFB1a24xX1hjU0NEelJ3U3FjMXBJRllsODZ1dGZ6VFg1XzI3aFVxTlNZNS11R2djcU9pWWhpQ1M1RnZIcVpLXzBhSGlwYW9qaV9DOUtMTzZTMGZKRHVFT2ZoZUZJUWwteDlzZXB0QjhGOTE1NWlnaVVETHRKa2x5ODFudktIU0RQWjlWTXFNRjk0SlNiQUZLSUhDSTRJZjJ3dHZXNlB4elNvdnRURTBpS0QyeW56dlpKNV9xdy1aTlQyQUFlUU5UelNVU1pyc3VTNnlNOC1UTmR5WFIyVUtYNDR3c1F0M1Uya3hZOFE?oc=5",
+          "date": "2026-03-26T07:00:00.000Z",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Gauhati HC clears Gujarat MLA Jignesh Mevani in case linked to Assam woman police officer",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdmhCM1hwZ0Y1Q0Q3OE9VSXdwTVBUanZoWkhyN2FiTldpWk5mMEE4NnJBYmliaGRzUFdlMkl3QVZDanFPal9NcjgwbnJIcVZHMkkzMHFfTlBpRTk3NDhweERRVmh3aG5TMHhiZ1lfeGc0RDJiVWlZaUZZbmo0N3ByN25Hd2xMSjVtRS1ocUJGaFB6RFE0cUVjcFZkcV9tZ0VMUXJLc2FuVF9EcmwxajBRa2N4NmxhbXFOY3Fob3pudTR5bGZ3S2ZZREcwbEV6a3RZZUxxdlZTbWPSAeYBQVVfeXFMTmZ5MXBZbGJMbHB6NFd3SEtlZVpvUXVMXzU3OHYtQmQ5a2lRRXdoY1Q4UUlIdUJCc0c1cHFZNmRGN2J6R09ZcTEyNXN1UHg5WmdzUVVFZThpbm84VUVkTUVES1dhQ0R0Z0c1dGZXaUM1cTBoQl9IX1ZqejlEWlNwM0hLUDFrN3gwNmZjZ2FsM0hYMkQyS3NPSEwtTFN3cms3Qjd3ZnVIcTQ2NUdwcVNIQ0RZZFZwOVU1eVd6SkZ3a0YwVDdJUHRqVUxSYW5YZVRub2ZVdmZZWmtUWWFXXzNmZHRoalpKUlE?oc=5",
+          "date": "2025-12-02T08:00:00.000Z",
+          "source": "The New Indian Express"
+        }
+      ]
+    },
+    "Ward-56": {
+      "cachedAt": "2026-05-17T07:11:46.794Z",
+      "query": "\"-56\" Guwahati (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Guwahati Police Seize 60 Grams of Heroin in Balughat Raid, Detain Suspected Drug Peddler - The Sentinel",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbTFvZTJhS04tbDBFeFpDR05oQnhnbE1UWi1tcWhMN25INFF4VmNCa0RCbHFoeDh6X01naERPaXdNeHZ1MHBzRFpTVGdWckQ5WlFaOU5oSGpzYzF3ekY4T2FmaFpIUllVYkY3ZmNVWjI4djZUTk9EVWZqcm82R0dOSW4yRWMtTXdhR3dNM0w5RTZTa053Mm5qbEtoNkc2d0xaTUxFSklTWThydmJmNllkMGxpWlhSMC1VWHFpX1ZBNml5amkwcGpwYjFEZlF0MXdtTl84RNIB4gFBVV95cUxQa1lPaUdmTDlnaG53dWpoUjdmdkpKLVFvR1RKZ2lDVnYzRVN1eDZvcEZ2TWZORWJYcnRkNWtvRnJCMkJRUkVYQzZla2NvblVCY0VWMUU5Vm9zbF9SVVYzRmlLalcwclFoSzF1TDVRZ0NyeEVubEF2UjdwbzkzRXpBeENrNUhydnZQVUs3eE5Rek9XRGVTbzJtWGQyeVRaT1AtUjEzRHZNV3V6RFFVUlpIR2t2SHp3TTE5b002dHNXOEhJMkVVWG90cDdwa3NRZ3pYT0w3UUs4eXh6UUhJUWt5dzdn?oc=5",
+          "date": "2026-05-15T04:52:50.000Z",
+          "source": "The Sentinel - of this Land, for its People"
+        },
+        {
+          "title": "Drug Peddler Arrested With Heroin in Guwahati Police Anti-Drug Operation",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLVVDRDN4VHRXdWRnMGRXenBjXzM5Y0s2TDR0NFNSR2xuUGRCQ05yREZVZkREVG5IaDhrcnpvN18zVGhueTl1UzV0bDNPNWdla1lOSkM0aVlPR2tSVmppMWg4ZkdVY3lBUVVHcmtuYzRUbG5xbDc3US1IS1R5cTJ2MnhsMHR4X0wyVndRVXd6MjNvc09ubUhNT3ZRbWczV1QzbEpF?oc=5",
+          "date": "2026-05-14T12:00:00.000Z",
+          "source": "G Plus News"
+        },
+        {
+          "title": "SIM Card Scam Busted: CBI Arrests Cyber-Fraud Accused in Guwahati",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOGpFVEVVdzVPVFBWNTg2dVlHdmhRRlhnVHJaUHdXWHl6NWZ3akFpNVFJcXU5Zll4TVJEOTNyMFltcU9USXFCRV9pMnl3STNKUVFyeF81UF9NbndtVjVYQW1QcnNWU1o5TlYtVERFcXZKVEd3TkJmUjczQVV2WUpLWlVsOW9JTWxKR2VlRmZCVkhUczlSS09lcHFwREIwSEk?oc=5",
+          "date": "2026-04-20T07:00:00.000Z",
+          "source": "G Plus News"
+        },
+        {
+          "title": "Guwahati Court Rejects Police’s NBW Plea Against Pawan Khera in Passport Allegation Case",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQLTZuRDN6YzJhSU01N0NFMnJTdFN5NjluaEh6WjFrY25HdGFqcVB3TXBuMGNqWWs2d1FPaV9yRjd2OEV1aGpLOHVfcFZJRDBzNGhjSDJYdm8wbnEwdTlpbXVGdzRoUlp3TlZnMGpZT3RZRGEwcmM2S2JlOE5rZF9BZWhGRENVemhfWUJfMDBlOUlHb0FVaDIxaTZoQU15U25TQlM0UVhuWGgtSDlGNWQzR1RaTnNIaFJ2bHpnUTl3?oc=5",
+          "date": "2026-04-20T07:00:00.000Z",
+          "source": "G Plus News"
+        }
+      ]
+    },
+    "Ward-33": {
+      "cachedAt": "2026-05-17T07:11:46.794Z",
+      "query": "\"-33\" Guwahati (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Narcotics Worth Rs 21.36 Crore Seized in Guwahati Bus Raid, 5 Suspects from Manipur Arrested - The Sentinel",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQX1VwTnFUNHdoSEV1RzVlZzJ5d29MLTFwQ0FQaTNUSmtZdFB2S3dkdHNkaVpoWEFURlhueW5fNEhjYzFNZTBoS0ltM0IxX1JRa2RydmYwalhQRlhBY0k2ZXg4bGxRTjZkdi1tbmthcG9PZTFuVEUxSW1ENnpzOXNWc2t4blI0cGpveUV2UE1sNG5tUjRDM1V1Wm1MdlpVRjdZdnZoZFVqLTNUdkxvXzE2bjVTX2QxQjJodEc1TUFWckpQOVE2Y21zd3NZMXJOaGVWdnB0S2V0RXJTRWlfSE52YUpZV2xIUdIB5gFBVV95cUxQX1VwTnFUNHdoSEV1RzVlZzJ5d29MLTFwQ0FQaTNUSmtZdFB2S3dkdHNkaVpoWEFURlhueW5fNEhjYzFNZTBoS0ltM0IxX1JRa2RydmYwalhQRlhBY0k2ZXg4bGxRTjZkdi1tbmthcG9PZTFuVEUxSW1ENnpzOXNWc2t4blI0cGpveUV2UE1sNG5tUjRDM1V1Wm1MdlpVRjdZdnZoZFVqLTNUdkxvXzE2bjVTX2QxQjJodEc1TUFWckpQOVE2Y21zd3NZMXJOaGVWdnB0S2V0RXJTRWlfSE52YUpZV2xIUQ?oc=5",
+          "date": "2026-05-15T04:40:42.000Z",
+          "source": "The Sentinel - of this Land, for its People"
+        },
+        {
+          "title": "Pawan Khera faces marathon questioning by Assam Police",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYzZ1a3dMTUcya1BaQU52aGhnZERLa2ZTdVZhdWxfUmpKdHcwQjM1WGk5NnIwZC1vWW1TWGRXdkM5UWNuTlE2MUFGZnBKZmZ2WTlXQndaTVk4Q0tnQ1h6Z3hPandMV3NWVWtoNjBSWkdKb1ZZWm84OWpRUFpJQllYOTJJN0RONkdBREhFQmQ0SV9lTTFMWHRyazRzOTNxV0HSAZ8BQVVfeXFMTmM2dWt3TE1HMmtQWkFOdmhoZ2RES2tmU3VWYXVsX1JqSnR3MEIzNVhpOTZyMGQtb1ltU1hkV3ZDOVFjbk5RNjFBRmZwSmZmdlk5V0J3Wk1ZOENLZ0NYemd4T2p3TFdzVlVraDYwUlpHSm9WWVpvODlqUVBaSUJZWDkySTdETjZHQURIRUJkNElfZU0xTFh0cms0czkzcVdB?oc=5",
+          "date": "2026-05-13T17:03:21.000Z",
+          "source": "english.punjabkesari.com"
+        },
+        {
+          "title": "Assam: Woman injured in Nagaon armed robbery dies; police arrest six",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNazE3U3B6d3VnNGJKcUpGelFsQ28zY3BGdUt0Wk1xUEc3eXNNbzF2cUxQTlBEMzhwUXpjb09XVnVlVWUzYURTSllwSHVGX2Vjd1p2MENXLVdzQ1F2OE5sbkttV1dXcHNNRmZNcUduRzU0ZUZHYXdVLXYtTlJqOThxSWFtVkdYbi1qelNCUWVlR0x6djAyQjhIcEZDWXN4LUR2aTNYNVo0X09IYUU4ZVZn0gGvAUFVX3lxTE1NbHZfYVJhdm1nU2ZiLXBUWmJvaVRzMXBuQ2lYVjN0OVl4cGNTc2hWSHBhVWp4VDhVT3BCaWRzdmtVX0puSjIyR2RiZndhSTdpRnM0Q1NnZEpDcXhhUW5icTlrRzJ1TV9Vb3BVQzR2X09TTjBkN3hOUDYycWtMOC1SRmhEMTJDckVMb2NYMl83dmZ0cDJOVTNQUHZ5WGZ5V2tqbVZ0LUZaN0dRaWJfV1U?oc=5",
+          "date": "2026-05-10T16:03:16.000Z",
+          "source": "NENow.in"
+        },
+        {
+          "title": "Guwahati court denies non-bailable arrest warrant against Congress leader Pawan Khera",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNaENEdnlIR3VNSG1kZVdyaDlhZG13a1hFb2xGREdxc2NuLXBhUElhN2dsZFpEZGdWRlZvVlcwa09iY0tjeFdsVHYwWm8wamtUekp4RUYzTGR1VlhoNmNHZm5UZzFFaEJ5V2pMT180MUVyTjhTc2t5bDJPdmJ3TmRkUHhvQ291VWlpT0xZenFjVHNwdXRUc2w4SXA4d2lhVjFEMjVmdGNXOWIxN3AyRjA1R3NQVEJzM3VmckJVb0lfdUVNX2NrZThKOGotdmluclVIV3ZUYkxnSzh0a054V3pWTWo5WXZZbklfVjRLX3owZnlxa2pnU05r0gH8AUFVX3lxTFB4RnF1NjVWMzJndHctN2xSU1VNbVJoS2lYdDB4aEw4b2tGekx4WnZ0d202RWVtb3Z3VkxBcHZyNGhiN2pWQ0VZMlJpVGJudXpaeVRwbTBpQXN2azhWSmQ2RDR3SGxEM090QWRTbF9iaHpxNVhBWUNyRE0zQWR4RXlpazJleGN5UENLOU1hQzJtd2xqTEFOWUZlX3lGVkpIY0F1T1pacGdMRXNUX25nNXc1a1lYV2xnazVlT3k1ZDFORXVXRkdiaU9sUncxTFh1d1NoT0dReFJEOGlGaUNxRWNNY2xDRUJqQnViblBwdEU1dUdja0NqRXJPdGh2Qg?oc=5",
+          "date": "2026-04-19T07:00:00.000Z",
+          "source": "The Economic Times"
+        }
+      ]
+    },
+    "Ward-34": {
+      "cachedAt": "2026-05-17T07:11:46.794Z",
+      "query": "\"-34\" Guwahati (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Guwahati court denies non-bailable arrest warrant against Congress leader Pawan Khera",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNaENEdnlIR3VNSG1kZVdyaDlhZG13a1hFb2xGREdxc2NuLXBhUElhN2dsZFpEZGdWRlZvVlcwa09iY0tjeFdsVHYwWm8wamtUekp4RUYzTGR1VlhoNmNHZm5UZzFFaEJ5V2pMT180MUVyTjhTc2t5bDJPdmJ3TmRkUHhvQ291VWlpT0xZenFjVHNwdXRUc2w4SXA4d2lhVjFEMjVmdGNXOWIxN3AyRjA1R3NQVEJzM3VmckJVb0lfdUVNX2NrZThKOGotdmluclVIV3ZUYkxnSzh0a054V3pWTWo5WXZZbklfVjRLX3owZnlxa2pnU05r0gH8AUFVX3lxTFB4RnF1NjVWMzJndHctN2xSU1VNbVJoS2lYdDB4aEw4b2tGekx4WnZ0d202RWVtb3Z3VkxBcHZyNGhiN2pWQ0VZMlJpVGJudXpaeVRwbTBpQXN2azhWSmQ2RDR3SGxEM090QWRTbF9iaHpxNVhBWUNyRE0zQWR4RXlpazJleGN5UENLOU1hQzJtd2xqTEFOWUZlX3lGVkpIY0F1T1pacGdMRXNUX25nNXc1a1lYV2xnazVlT3k1ZDFORXVXRkdiaU9sUncxTFh1d1NoT0dReFJEOGlGaUNxRWNNY2xDRUJqQnViblBwdEU1dUdja0NqRXJPdGh2Qg?oc=5",
+          "date": "2026-04-19T07:00:00.000Z",
+          "source": "The Economic Times"
+        },
+        {
+          "title": "Seven women rescued from alleged sex trafficking racket in Arunachal; two from Assam held - The Sentinel",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPcjZmZXJDcmZzSHVBNTM4ZWdWQVJ1QUY1d0stODhZSjBJdlFJZEVSM1BYdGRlOFZyalVTUTYtaFRnUzJQaWszN0dUU285X1NMYng0a1JZbmVaczFtWGJVeGRsQ1FlRktrcVQ5TXNXWTc4U2Y5ODJMd2RPZ2xLWEdsN2RLUnpZOUR6VzI0QXZaS2dBSVpMZ1pySGVQY2NRaU1fZWdJMmlreWFaUDF1VFpXc1FDMHBQVVQ1WmEtTlc3ZmR3YjZWc0lPTDVvZ0tPcmpULVVNNFpNT2xjbGRLY3l2WGRObUktMGhlcThJ0gH4AUFVX3lxTE5CYVY3ZkNxbUZDQzlOVE5sbXpUd2dheUt1M3lLTmw3MjJIcl9taDdfemNhUXVFU1d1bjMyT3JtYXNJa2x5djJwV1M5Q2VqcV81REg2aG9IMFV5YjZ2R2pMZjNUdS1iVEpIajVhSWZYeEdxYktLZ0lPcm8wY2VCQW52dzVDWXcwQlRQWXN0TVpldzA5TkZLVk1kSk1EY0kwOGltdHc2OE5iblpfdG04UnYtWWdPQ1hfSl80UGxCTkJydlFCUFlTY2daaldScHc2aFJMMDhtTUlVamJaaWFaXzdEalJSQmVfcGMxTG13NlJvbkltak1WNWdP?oc=5",
+          "date": "2026-03-29T07:00:00.000Z",
+          "source": "The Sentinel - of this Land, for its People"
+        },
+        {
+          "title": "Centre clears India's first Rs 18,662-cr rail-road tunnel under Brahmaputra",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWkd6TlpKRWdZa1pNbFp4MExpdUFzVjhJZkptRG83dFNnOURSSDVwakxaU1ozVlVRR1ZWdmx4WUl3dUFNaVMzd2cyNUVmWHRhSXlBQ0RRYXRXcjY0dXJSbUMwMUZVTVhPekU4cDhySVFrOEhFQlhFMmtRVHMtR3hlWFFxWFFjVzRlYTU4R3JrWmxvVU00RlhKY0hTRTdJNmJZSTVsNjVKOE85YzN4LVdONHlB0gG3AUFVX3lxTE9NcWUwb3UzNWlQY0dKME45cHRib3MxMUR6VEgtVmVKcEJWZnBBWXBfUXJWb2VXYjRJUHdRN1EzV1NfaWRqQ3NwNER2UnNaLXdwbTBScDFidDVQWExxXzYzSmdkWW4teUZsNzlmUmI4U2pDY3lvRzJvaXl1djA0Qy1RQWliNmZDVDVfUUN0NG9wYVFPajdpbU5LWk5BX1dEVDFyX0tyY2pPR0lVZmpuMC1Qdm1fSjg1TQ?oc=5",
+          "date": "2026-02-14T08:00:00.000Z",
+          "source": "The Assam Tribune"
+        },
+        {
+          "title": "8 Arrested in Assam for Producing, Circulating Child Pornography: CID",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTVJrbWprMDliNU1wMGZuUUNlWjNGemh4M2hmS29GNmU2VXZiRG9UTk56WlBSc0RUSS1FOTVkNThsMzduS1JabnY3WExpbVNFdk5lbDg3aEdONGRNZFlmblBlOGlhQTFYd1N1Z0ZhTk9JQ3NsVGp4Mk9UME0xSjZJZHpYQVU3SzJOV0ZUOGJNTlU3OXRHZ1U0MzBKbmFCWE1xOUg2SE0tM0FXeUtMekU4YXVubVpidC1USUNLYlJrRXlWajR4MUFQa3Zkbi1JTHlm0gHQAUFVX3lxTE9NUmttamswOWI1TXAwZm5RQ2VaM0Z6aHgzaGZLb0Y2ZTZVdmJEb1ROTnpaUFJzRFRJLUU5NWQ1OGwzN25LUlpudjdYTGltU0V2TmVsODdoR040ZE1kWWZuUGU4aWFBMVh3U3VnRmFOT0lDc2xUangyT1QwTTFKNklkelhBVTdLMk5XRlQ4Yk1OVTc5dEdnVTQzMEpuYUJYTXE5SDZITS0zQVd5S0x6RThhdW5tWmJ0LVRJQ0tiUmtFeVZqNHgxQVBrdmRuLUlMeWY?oc=5",
+          "date": "2026-01-30T08:00:00.000Z",
+          "source": "Pratidin Time"
+        }
+      ]
+    },
+    "Ward-35": {
+      "cachedAt": "2026-05-17T07:11:46.794Z",
+      "query": "\"-35\" Guwahati (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "One Held in Guwahati Theft Case; Three Stolen Two-Wheelers, Two LPG Cylinders Recovered",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSDNxQ2pCc0tVVmlGSG14M3lBZ1NFcC0zV1Z6Z0JZTVRLaXlqY00zM011LURCZ3k4b3VkZGJxcjQ5Z25hSjJHQTM1T2Vsd1NGV3ZJYjZZdnF1aFl0TDZaRERRQlFsT0Y4ZXdrQTZqMGZsU1BGSko4QUZEN0JjLU05WjlDVmRNTEdoa2p5TkN3dTR6bXFYQXFncF9XcS04WWRZbGdIVEtJeXh5cFFvRThEdVFZaXI?oc=5",
+          "date": "2026-05-16T11:31:35.000Z",
+          "source": "G Plus News"
+        },
+        {
+          "title": "Lottery scam busted: Jagiroad police arrest three in fake lottery racket; Victims duped with promises of",
+          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQNTczczAtUXI4aVVyRlhuM3J2VWQ1ZjJZWmowWE1fTzFyYThTVG5ETU1WdWJvc0hfeGlKSk1PaDFqQWZhM0J6SkN4azZWRy1kZjRrcWRVSVpHOHVoNVQ4ZHBPTUtIVjF5eHl2cFhXM1BvT2ozakhyVDJWcmwtb1dQVzVMNm96dDZfdHRyTEJ1RThKTmhGZUEzZEdJcWV0TjVrV3VCX2V4cTFYNkU2dW9YcVNzekRaTlItT1FnbHZlWW9BLUc0ZkZUOHRBSUpWMFozakV1anlyMk5lT1Y1UkZJQ2dSaUhsRXZydUJOdDVRWTVDYUVCODltVEdoa05iQk5FaHFtOU1GMDFTMXZEUWfSAZMCQVVfeXFMTkhtOVNub1VlVl9UNnVhcTRIaWtueHhCMEhudkE5OVl6VHFDTWpxdmJPT3VpU1RtNzkzTlpCeXRWcUlHZ0JDS1Q1R2VIZE5SNWRTaDNIZ0RIWjRpX0VuTXZ3OXY3U2Z6VUI3OWxMd3VRMDBLRmM5ZHczR2I2OWdrNEpNVnJsLUgyU1h3WVc0Uk5WWkZsUS1nMlVTZHotR2RKQkhmdGZyN1FmeHVvekZNOVVkNzAySlVONF9CNTM2cElPSlZQVTFNNk1FMXBrb3J3a2ZhZFQxQ3h4Y01ud3RHa2szdHh4Tkk5TmFmcVJEWGVySUh2UG9GMk9vbTU1dF9acDZMTHpjbU8wX3BHMEZsVVFvckU?oc=5",
+          "date": "2026-05-08T18:05:00.000Z",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Big Relief for Congress Leader Pawan Khera: Guwahati Court Rejects Assam Police Plea for Arrest Warrant",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxS3ctSkJvVUNrcHB4UkpPelI4T0ozRHJUcVBHdzJISEUtX2Y3cjBCbzdsZF9sQ3dEWUhLcnhRbFo0MXYzVldUTklRYXNOT19IM1gtVFJ6dWZjX2tocUdSYWtLUmdZNWtCNmE1Z3FGSy1McFdHQnpnTndyZVZDRWs?oc=5",
+          "date": "2026-04-19T07:00:00.000Z",
+          "source": "LawChakra"
+        },
+        {
+          "title": "Police Summon Opposition Candidate From Guwahati Central Kunki Chowdhury in MCC Violation Case, Non-Compliance May Lead to Arrest",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxON0ZWNkxjRDFtN05HN001ZDlXeHVEc3g3WktPM3o0NU5FU19tOHZzQ25DYUtQYmx5Ry03N0xqUzM2TzZPRDJYdnlfVDlEb0swMXJkR0NtaHUyYXVvMEhKX19tLVgtTEMxb0FpTEZ1RktGdWduWWczLWFGSFBIalM0RFNoWjlEYXB4U1lHbUpyclR3dUhFY000OU1KdDc1X3lQZ3BLQ3UtT1NvdUUwQlA0VzZENzMwMmp6eVhtbks3M3RHazZLOW5oOE9sd2dFLTRndklDVU1nNG9SeEU1YlA3Wmdzb25DLUI2?oc=5",
+          "date": "2026-04-11T07:00:00.000Z",
+          "source": "G Plus News"
+        }
+      ]
+    },
+    "Ward-55": {
+      "cachedAt": "2026-05-17T07:11:46.794Z",
+      "query": "\"-55\" Guwahati (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Pawan Khera appears before Assam Crime Branch again",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNN2ZsYzNsY2o4cjNXMUZYMzZYTHZ3ZXE5UFFsZndPbHdwb1FkZGM2b1lnQTN5Tk5jQ05OcGJPY2s1QWJoMlBvcTg0TGZ6b0xSSERiZ20yT0lvSVFRY2Z1UXJHQ2lacDJLSTc3UjBDNWRXcmxKLUF6bFllS0xXSmNHc0Z5QllGUmhndHYtbHU0d1M3aWtlVnc?oc=5",
+          "date": "2026-05-14T09:59:40.000Z",
+          "source": "News Arena India"
+        },
+        {
+          "title": "Pawan Khera appears before Guwahati Crime Branch in case linked to Assam CM’s wife",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSEpFRGlEXzF1d0xxTzhNQjZZN3djN2d5VkhiTUU0MVZBRDBMMElIcGtvYWlhRlhMdFU3VVpQYTd2WlRwcUV0Sm53X3hDMnZfdHdfdTBsZjNsQmdJazNSVDZiU0VmZ0doZ09mOHo1NlhQX1BWUm5Lb0tlbWNEYWtXcVFQLWY3dDA5OEVTTklUdTNKVzBOZ2lXUUUyazlONTdCMmVJOGJVcUZNRzhESUNrYTVGVDd2RkdLbDNKcTVTN3TSAcABQVVfeXFMTzUxa0dlbjVjWTFRcDk5NUZKbFlSeEZlN1dGVEoxUkY3ckRaZWc5MG1LRno0eVIyOFlqVWRETmxXUDE5NmJyX0JKX0dmMGpnbUFfUUJQQzFLS01MbUVGX1d3cVk2ODZ3bHdpX2N5WF9BVG5BbFQ3V0hHTmhYcWZrWWNTOFRzOXNiZzJUdUdUckFUQm1NTkFYMFBhemI0dXp0ZmlpandMYkZocUR4ZzRsWW4xc19lZXE1ZU5EUm5pTE9E?oc=5",
+          "date": "2026-05-13T09:22:23.000Z",
+          "source": "NENow.in"
+        },
+        {
+          "title": "Driver Arrested in Hit-and-Run Case That Killed 55-Year-Old Woman in Guwahati's Ulubari",
+          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNdDZGNF95OUkzU1V6YS1jVWlYMjhFOEZ6dndsYTcxOHVSYkMzd3drRVF3OWRUVDJiU3lKWFE1UE9LZTNWSGxpRlJLZVpFTHpoaEVIUWY5RFNJV1JPY2pMUV92WEhFTU1JNmxoOU5jUFUwN0FWanFMOWlURUZqTU9kUHMyTmNTMWpzRXhpNFdPdGNxSnZqSjIyQ2VJSzN4TGV4Zkg0QnhNdmc3ZmtiLXYtaDhGcndrME5xSS1yRHNRbjRfTVVJX3k4S2Juekt0aGVzOWthZmJmM09kVmw2aVJPcWVwOFBGTEc4c0ZYQ3pCazBrdDRxYzFtVVdCLU0?oc=5",
+          "date": "2026-04-29T07:00:00.000Z",
+          "source": "Dailyhunt"
+        },
+        {
+          "title": "NFR Railway Protection Force Seizes Rs 55 Crore Worth of Narcotics, Rescues 89 Trafficking Victims in 2025–26 - The Sentinel",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPS2Q1eUxjRnVGYnc1UHlIdVhLTTludkFvSldzc3JPcjFfS0U3T0hjazYyOGFBOXNqY1ZaZEpiSU9EbWxWbkxlaEZIQWxCdXRlU3YzUi1fWEJLUFg3czVnZHo2QlYyejF1eHpKLTVpQzI1NGpUT3VZY2twbHFZRlM4VTFhOWdUd25NVlRjOXFhTUMyZDZ3ZlFsVmZFWTVOaGdwTjh1Q2loSlR2RW5jTjB2VURxLXIyQ1hjZHVKWjV6QWVxdmR4QkhleFNYRmQ0YlBTR0dfLWo1N2E4TDBkOVZMOC1kZ0stZXlHcFloclhjY9IB_AFBVV95cUxOdnk1aWhSdlUxSVpfcDlDc0kybHByQ25sUWVUNGxmcHJkTW16VWNXQmR0OVNkbjlwM0VSMTZybjVZSWFJTmxsM2k4OGZfazNnVXNnaUxEQU41VEg3R3V3dWF4M2JqNkhYTUlLdUFsU2h2UTBRc3N4bFFWZnMzRnlVbFdIbkhxVS1OZTVBTjB4MTZFcGd5ZWlqMU9idW1xSGpVVGlfc0N1M0t4dGV0RzcyS2JMdkRQMy1RSnBpbVlKSTZpWGk5el8xVnkxT0M0cmdrOGNvbUtld0l5WTBpMmZDNERyaTI3bVFWRW14Vi1HeHpFUG9SWDBmUTI2NGs?oc=5",
+          "date": "2026-04-04T07:00:00.000Z",
+          "source": "The Sentinel - of this Land, for its People"
+        }
+      ]
+    },
+    "Ward-54": {
+      "cachedAt": "2026-05-17T07:11:46.794Z",
+      "query": "\"-54\" Guwahati (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "\"I am cooperating\": Pawan Khera appears before Guwahati Crime Branch in passport row linked to Assam CM's wife",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPaXhXazRlblFzbGNqYXoza2ZLSzJMM0FTZDhfdHRURmRCZkkxZVpuYkswTUZqZ0doYldrVjUtLWttNHpOQzBlZ1ZLd1JwNkV5WTNnWGt1NmxVcDVXQ0hKSEJYR05WQjdDN0w3SVlwNWZOMlVhNWZ6WDdFUy1aTGFUYWw1T0JScUJBaTMydWtFYUhTWGNtZ1FrWEhrejdSSi10aFQ4ekNjVmtfWFd6cDFJd3ZTeGtzTHNmQl8zMF92SjVIZ2xsTzdYZnpiX2dIZjZqMXoteDdYVC14bVFIZkVkag?oc=5",
+          "date": "2026-05-14T12:02:00.000Z",
+          "source": "India's News.Net"
+        },
+        {
+          "title": "Pawan Khera appears before Guwahati Crime Branch in passport case linked to Assam CM's wife",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbXRGeWRNLUpmb21BLTZxeURNX0RHdmFKUTdZOXFpaFNpQjh6ZU9DZ3lGbTZvd2JUbG1TTWFGWTFLMDJUYU9hUUgtekRPek1HNUZVZm9VaXFOaWQ0SlZaNDhjYkVEcHBVZ09nMlFPMHNJaHpPVjRHLTlDWmpSOGpkSUlpRUN1Y1VlcXJ1YkcyeDdXS21yOVpCOGJDbjJqQTdLdWRnZDZLalE5ejJUdE9pWWJrQW40MlR2YXB5Vl9JYUstNkstUTI2Q3RvTkdCLUNiT0ktYTAtUQ?oc=5",
+          "date": "2026-05-13T11:55:25.000Z",
+          "source": "MSN"
+        },
+        {
+          "title": "CID busts cyber fraud, illegal SIM racket; five arrested in Guwahati raids",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNHU3TzNHOGFiT3dNd0ZJamNXUVZLdFAxelV6dDg1WWI1Qmx1amp3S1RkZkdtd3ZJaEt5cW8tdll0RzdGamVYcE1zcFdkMUNoSVpqOEtVOWFiVkxqczQ0MW9zWlVGU2Y4UzRCdkppRnd6ZjQ4cmlfNmc0aklGaWpTOG81YXJnSTVmMVYzMVlqNkhMdXo1LU9kbVRSblhVdy01VkpZcmFkdTk4dHVSN29FLVBlNEthTTVCMnl4M0RPWDRFOU9sUGZDeUVfRdIB0AFBVV95cUxQcHc0UWk3X2ZJNTVheDFDOXZhV2xZZ3l6dDNCNGhmQk9yODAyNUhnb3l5dzNteWlwZ2NNSzc4ZUwweXZMUExyS2pGUWxxVU5Ga3ZmX2NQVXZtNkVuZF9wNjE1ZHFHaXhWTXF1VndBS0xqZl9YOWwwU2lsMC1UMW9sTFNLdTk1WHg1WTBlQjAtYWZYNTFLbF9TSVY1TjlIdHh6QW9EMkltMjdDeEs4MTZsNWJqUUlRQUJwWFZ0U1NJQi1TZ2hxVEREMHRadHRaZEJP?oc=5",
+          "date": "2026-03-09T07:00:00.000Z",
+          "source": "India Today NE"
+        },
+        {
+          "title": "CID busts cyber fraud ring in Kamrup; five arrested, 1,000 SIM cards seized",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZmlTaUVZdXlkWFdDZ1g2ZVRJSEtaaWpqTU1ac2k3dHN4V3RKY2t5MkFRbWlaSGRoaWV2dEJTNHVkbzdKamZYSE43TWhFeDJIWDM5RFNGcW90RVgzZjQzalNVeFBYZ09NQ2sxVkNPNGdieEgzd2tJalRFTkxxbzN5Y3ZxU2RHUHp1eGtDbm1HRFlUc1NPa04wRS1fdzVkY3dHcjg1X2JpZzFyYnN1V3ptZdIBtgFBVV95cUxNUVBadnlkN3dzSzBFbmpmTk9pZ19yX2RQQW9NaXppVy1QWXVmSzROV3laYndiTG5iR19SZUl6anR4WXpaWHViaVdvTlVPWmJWVTFaZ05ReU9yWTRyZzlnZlVsRkZKQUNnT3hyeGhKNFVYRGZydVQyYVZrQWVDTzJ2NTVJVFNZSEZRSVlseHU1TndqMDNrWTgzTVJjVnlseWdDX2lOYnFaWDFmUVV0eGl6TWItRTJvZw?oc=5",
+          "date": "2026-03-09T07:00:00.000Z",
+          "source": "The Assam Tribune"
+        }
+      ]
+    },
+    "Ward-44": {
+      "cachedAt": "2026-05-17T07:11:46.794Z",
+      "query": "\"-44\" Guwahati (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Pawan Khera appears before Assam police Crime Branch",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdHJ6MkZ3VzduRHlOVk5QLVJsODdyMU5xRjhEbndIbEkxM0JGSy0wemtOWWd2UEdkMmlHa1QzNGNtVWdHcUdKTEF5RklINk5RYVY5YlljWlFsMkNtVGxqc284Yk1OTEdaMkp2RWZGQnZ2cmhIRlAxd09neDItZkFzTEFUUGRuQ0Ewb1YxMENTOFBJRkVMM1dJYmlDamszb0ZzZ05XVmw3Z2p1QnZqWVFEY1F0VGdZSnVLR2N5RTNuc9IBvwFBVV95cUxOdHJ6MkZ3VzduRHlOVk5QLVJsODdyMU5xRjhEbndIbEkxM0JGSy0wemtOWWd2UEdkMmlHa1QzNGNtVWdHcUdKTEF5RklINk5RYVY5YlljWlFsMkNtVGxqc284Yk1OTEdaMkp2RWZGQnZ2cmhIRlAxd09neDItZkFzTEFUUGRuQ0Ewb1YxMENTOFBJRkVMM1dJYmlDamszb0ZzZ05XVmw3Z2p1QnZqWVFEY1F0VGdZSnVLR2N5RTNucw?oc=5",
+          "date": "2026-05-13T12:14:47.000Z",
+          "source": "The Hindu"
+        },
+        {
+          "title": "Digboi Police arrests two absconding accused in Powai murder case",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPc2lheW9qM05nZDBZZlNJZ0RlZ0lGZF9FbGtseUVuNTRZUEQ1ZXZnaWhhSkFNdWNIVUFvZXRhX3RxaWEtQnMzRHhvM1pxZVhDSTduY0syZ3hjR1MyZWtZM2xtZlM3bVQwMFVFYkNpQ3dJMFZzM0FGaU52MDAzd05DZUgtRS1ianlaeHFKbk9MaXZIWGlSRVpOUXlUaFNKY21RMklRRWswUdIBrAFBVV95cUxQLTllZjNKNWM0OWlwQkNiRC04YTM2T0xMRm9LYXR3d0dveW9fVERCQWtiUVdjY3d3Y1ptamROY1Fibjl4V28xYl95TlRscHdKZ194WFJyY1c0VFJpb1JKOTBvVWJEZnduX3A1VXpUQjFMN2JpM0tVaHlRbkRFcHFIdFNPdnpqb3h1N0txVGlrYUZzSWtfNHJmRnFMeEFvNncwUDdHNGF3OUlzWHFN?oc=5",
+          "date": "2026-04-27T07:00:00.000Z",
+          "source": "The Assam Tribune"
+        },
+        {
+          "title": "Ukraine protests arrest of six nationals in India terror probe, US reacts cautiously",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOQWg1UV9sbzVSNG1PNWRCdy1qMVNiWjk0NFlQZlFwdFN0ZGFZNEFzV09pcnotdFRSWW5aa0NmR0dfWUZWdE90c1NWQ0FyVDhuRGdiWkJmQ2NHb1VFaHRHMklTWjl0WFdDb1I0eUJmcnlQSzZ4NkhSWWVyTF9HNkRnaF9udURQc0g4emJXSDBKU2poUlZNMi0yczNFTXBhVmc2d2c1X2tFRVB0azRGSDhRbVZmX0lUcnB1bFBaNzNGeUQ2NHlGSnczZ0NSVWtwV1FiN3lPWHExeVNNb09WeHZud0ZVcU1MQdIB3AFBVV95cUxQNWwwNloxNEZGeUpKc2w3TXh0d0l3N19EQzJWZE85eDB3RHBsR1dUT2FUUkpYYW92aVB2WnBLTVI0WC1aaWNyaUFDZkZEelVfcl81dVRWMWRkTWV0QWxILTBWa1QyaGNjWndzbmJxaXlpOUZfVWhyUG5saURDbHhSdHNLVHc2ZzdUendsMlg5TXpCbHlxaWRzUGF1ZmxBTDBKeDFLbXhueV9KWjBKMlpwdUtndEFSUy1YNXVzc3VHMjlNbXhVdzl6NGh1Vnp0VDNqTFpOMkhSa0NraVBn?oc=5",
+          "date": "2026-03-17T07:00:00.000Z",
+          "source": "The New Indian Express"
+        },
+        {
+          "title": "Guwahati Police records sharp drop in crime in 2025: JCP Ankur Jain",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQT0RtcW53U2c1ZnlCOFVjZG9PYUdfNHVoUHlaekRUa1hnNVM2Y2UwWTU2eEFFZGlCdjdJaFE4TXBnU0ZIaC04WHF3T3RXalRnbzRnczh2cFlUR0loTXdCLVdkZ25XLXFidjFFbUltX1Rwa3liOWNCbE5XSkttWmM5WXNrR09tRVk0Tjgyb2tpZWVfOC0tTEFldDhQOGRuY25kb3U4QWdKZFdETjAxNzZjU1ZHUEFteEI4eE1IUFc4bmFmOGJqM2hRbTh3?oc=5",
+          "date": "2026-01-02T08:00:00.000Z",
+          "source": "ANI News"
+        }
+      ]
+    },
+    "Ward-59": {
+      "cachedAt": "2026-05-17T07:11:46.794Z",
+      "query": "\"-59\" Guwahati (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Assam Cop Shot In Anti-Drug Raid Near Manipur Border, Airlifted To Guwahati",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQT2ZnUWNZdmJpVzZ6UFVkQzNnbmwybE9nZ2FzVEF1TjhBZThCeG1vdzdsMi0xeS1hTmkzVkdSOVlGS0d0dk1QNUxsREdoSEpkX1hYZ01fTS1Rb09MN1VIUzRLSHVCcnhQYzZzcmZncmpMNG01dUVCQy1mWGpvd1RJNFFmT21wOE9XM3ozRXM5MmZRbVVMN01PeVRfeXJqelAyRUFla1FheFUxaEZyWmVQQTF0ZHdnQdIBvgFBVV95cUxPZDVqUHpzVGt2ZnR1SDBpYmlCVWFBakN0b1JyeUI5eUlpa2JGZ1I3WXhXeUR1NldIUkFyQ1h4bktIbEF4bDBSb0lCRXp5X3IySEZyOHh0X0dPVXRQYjBPUFhGTU1xN1BJc2ktUS1nYjA2TWttZXZOSWtMX21SMkpXZUpXOEREZDF0YzJIaUF5cFdwZmhpaUR2cWM5VDZ0MHhVeXdBVUhtaV9IUDd4T2JzMTZVcWdLOHYwVjNpTl93?oc=5",
+          "date": "2026-05-06T07:00:00.000Z",
+          "source": "NDTV"
+        },
+        {
+          "title": "Gauhati High Court rejects Pawan Khera’s anticipatory bail plea in FIR linked to Assam CM's wife",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQY0VMaGh4WURYdFZEZkVyRGstLThOUEVNclVjVEw0aXpvV3hjemJTWWtsMEhKYU54QU5mNUtfNy00ZXBPTTNjeXVTSXVLU1llYWhXM0U2c2pfN0EwYVhqckprQVhadzNodWktOHhxVVVqWVBMZXBNSG4zZGxzZXFVbl9jbUpKSjNnNmJWRE44TVJyTkpJYmNMb3diTncwSmRqbGZXQnhLbXh4X29XMUFzSDh4OGJnOEs4OC1XeUptZ3BlV0xyOTg2dENmU0xsUnBjRVBnOURNWFZsSlNmVnJqcWhXUUk5U0RP0gHuAUFVX3lxTE03bnctLVhRVkNqSHlkWk4wc1VRdnlWamdhTWpUdlNaVEZRUjNWamNHcUwyazl2NHpGck9JbkxheVBMMUhMVGxhdG56N1ZoZndubXFkM0Ntb1Nqd3pKMXhaN3NhbldOc3NSaVY0MjhFM3Juc1pmTHgzVTNOS0pmUzFzbi1rUHBDUWFlcExKVmpSRVFaUl8wNGRtUU5sYjNqdmVxQm9FdGg5Y3pZR0RrS0I5ci1WakxUNU9BQzNoX29jSHAwczV0WjA5S0VkME9oU0pqOUdwNFFmMmszeVZwVkYzbnFYWTlxUURPNk1ZOHc?oc=5",
+          "date": "2026-04-24T07:00:00.000Z",
+          "source": "India Today NE"
+        },
+        {
+          "title": "5 spa salons raided, 10 held & 13 rescued",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQ2UzZGlrdUk0RGx5eFhBVjFCb1I2T0E3OGstZWNwYjN2MkcwVVZud284d3dOdmJVRkFueGNrX2x2WjFoek1ldlQta2JHQXlCRF9Za0NkaWRGYzRRQkx2RTB4czJaZzQwNlIxa3hyLTFTSnl6VzZEcmZkRlNIZWFJendwMHh1QUJJZEl4WGszeklrZU0yOE41M2Y4RmFKMk5SNGpGN19qX3ZwRTBHSjFub016c3nSAboBQVVfeXFMTUQ3VUZCWDJob1hjVl9MaFNmb3U0UFluUXhNeEFyMmp0UnRpUlpJbXhCQUUwM2pkekN4RUVuZXYwaVJUWTMwam5aSVNpZDBaMXZSQ1RVTnpQXy1Vb0VTVzI2YUZxblgzdEtYN3VXQldZcEdFdHpXTko1VjI1ZDVYUmRabjN5bVc2WlEtMlh1Ulh5R3hPam95Y2tDcnluSVdfaXE3TXZlTWlXQUpyNVJkY0FmOWppQzNKa1Nn?oc=5",
+          "date": "2026-01-22T08:00:00.000Z",
+          "source": "The Times of India"
+        },
+        {
+          "title": "BNSS Procedures Mandatory For GST Arrests Despite Revenue Nature Of Investigation: Gauhati High Court",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNM0ZPdkM0c2h2RFRkVkNuVkRGLS1rRExkS2lKdTRuTWZCZmZScUNyX09BZEdrRnBDLUZ1Z1NNM3hwNjVhUVR6c0dsRVJUM2pkX1dna2ZnS3BRN24yN25OenIyQmlrMk9zbXB0Wk43U1pQc2dSOWY0WllGNTFRWW4wMENZTG0xTWpFbjlpQktuUnRQdlZkaVR5V0tRZHN6aUZzV2FJWE9WLWJqTWpwcXhkclk1TGhZeUc3SVdXSFB3ZTZOSkhOSzR0eVp5NXYwLXptWHpzelYzLW5Yb3VNTmhPbWRBTjVnYnpBMkRUSTZvV2IwZ9IB9wFBVV95cUxOQmVud1VZU21BSERwNVJwNkVVWlgtUU00Si05SzhKcWhqNEdDeFN3YjhoZkgzcHU4bEJRUHI3Y2FmaVZRNlZvN3JWOGZmbGlDbWNyTmtpR3A4YURnbGo5S0RQWHlZN2wxTV9KVzFZUTdUWkM3NnVFaFZsWlZYYU1zMHJYS2ZNMjlEN2ZNTDY4Nk1MVEU4cEM1TXZHZkhVYVU4ZXI2NG84QzF5VzFJQmlvVmNIS0JtcktvZFljdUU4WUg3U0FKejNBdlE0QWpoTWkzeVpOdl8zV2pLaUx6YVFWcU1UdDdjSDV1QUpIMy1zX2czWUJaSm93?oc=5",
+          "date": "2025-12-29T08:00:00.000Z",
+          "source": "Live Law"
+        }
+      ]
+    },
+    "Ward-57": {
+      "cachedAt": "2026-05-17T07:11:46.794Z",
+      "query": "\"-57\" Guwahati (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Guwahati: Pawan Khera appears before Crime Branch in case linked to Assam CM’s wife",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMmtQYVlyODNJVHBqMjdXWFp3QzdFbHhZTEtuS0dyLWctSjdwOVh5cWtnMGxRc2NFYTNjVG14MmZpRDc2UGtQU2xUWDhTSE1acVFfNTJ6a1NCSzJWVjI3TFJDUHZwWjV5cDJiU2k2SDl3Y0lqb01nalpXSGxBVnk5SEJHRWN6VkJycnAtQ0JSSGRRdmdtWWQyNmo0ZDV5dy1tZm50aG9YdTlUMjFuVm1veEF2Zm5VR1BOd21WbVEtYUZveEFHOGVwdE40R3FxYVBpdjUzbHZUa2JFckd50gHiAUFVX3lxTFBUaFh3cDBOTklOQml1U3c4ckxnWmN1YzkxZ0p6TlFBM1doSVBIWk9FMnR2al9jUFF6LUh0bU9ILTh0YktqaFVZZS12b3l6TlVyOHpCTkF1WjJLWTZoeE5PNWZZbHk2RWgxdk9JSDQ5MHc0ZHB4bmdOUWFkZmVLNXpHUkhrcTFPdGNPMXB2TXpjVWhndjZIWVk5TUFGdUx0ZEltNEo1WVk1dkRNa1lyTDRqeG9lMlQwMV9wZnpvREdwQ2lRR0x3RTNubm54LXlucWEzRUU0dnFrSnpqMTZXWDJBUnc?oc=5",
+          "date": "2026-05-15T04:27:25.000Z",
+          "source": "The Economic Times"
+        },
+        {
+          "title": "Guwahati court rejects Assam Police's plea for non-bailable warrant against Khera",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd1pIUWFfY1hKX05WMWo0czdVU0h3cjA0bjlNRkwxRXBsWGpHY0N6all1aUwySkFpREdBYnBUbkItcFp1NGZMa05jNnZPMml3WVQwaDVLRXFhRXk5SWNQcVJLeWE4ME5Ebk1SdkpuN3ozM0szQ2xzeUJGMGM3ZXFtbms0QnpuOUNWWDRvbHNNd1kzSXdiSF9QeVNuUWVXX1NjSUI2bTQ0RF_SAa4BQVVfeXFMTzk4Ylh5dzFCUDBVcUNVLUhWd291VzFqeDk0TTNMVElIVlQ4YklrUHFYeDNic0I3d3hybUo0MWVOMDdaRU1WNnF5dDNLbVpkWXB6bjY3Nm9KUVNfTXhEY0J6ekQwVUNNQ2EwN1hlT3ZyZVlabmhyMFpNY3UzZmpEcXlFRGhEWEszaUZoV1pmZjk0empfdXNDY29YdGwtZjhWTzczWmJhRlNpU2xBUjB3?oc=5",
+          "date": "2026-04-19T07:00:00.000Z",
+          "source": "The Assam Tribune"
+        },
+        {
+          "title": "Three Held in Guwahati for Thefts Carried Out Disguised as Women; Crime Vehicles, Valuables Recovered",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNldUWU9HakFQNml3STV2RmhyQnhLdmNfTFhJbmY5VEE0RTlyOFFYRnZidmhkU25BX1ZNVXVrMmdfM2s3QmlqNVhzQlFCMjlxaW5LRXROUjNEVzBCYkNwNDR0VzZ2ZGMtUzZSbzYxbUxHV1BtcGszZGRPaXpod2ZHWkF1TXJ5cUtPRTNqdVJqRjVCaHBidEUyTkV4MHJMNERzbFJqVE9uQlgwdV9iZ1ktU2F1ei15U0h2N1B0cUQtTEpMYVBjRFpIcnhiMFlpdw?oc=5",
+          "date": "2026-04-18T07:00:00.000Z",
+          "source": "G Plus News"
+        },
+        {
+          "title": "Heroin Recovered From Woman on Aronai Express, GRP Makes Arrest",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPM2Z5MVRIaVA2TDJJQXJEa2JLRFFLSkJoM2JmY001SldkTUJGcktTamp3ZVo0bC02MXE1bVYwM0ZqUlU3ZTFOODNQd3VlQlViYjIyWUN5MXk0VHd6aldoNTY1ZmhaNV90ek9lZGl3ZnZwVmIyM2wxeDhfdXNVZVRPVktGUktGbnhKclRYaXhyTGNWZnBwcWlsSGRkUElwYXlfcWc?oc=5",
+          "date": "2026-01-23T08:00:00.000Z",
+          "source": "G Plus News"
+        }
+      ]
+    },
+    "Ward-58": {
+      "cachedAt": "2026-05-17T07:11:46.794Z",
+      "query": "\"-58\" Guwahati (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Main Accused Set Free in 2017 Hojai Rape-Murder of 58-Year-Old Headmistress",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOX3lnVVprRjQxa05KM0JwaFcybUp5WGpfSk5lNlVITHVpQWpQZWxlNUhybDVMc0RUX3NKdmF5UVFGc0NqS0VMeC1Kd0hHOUR0ckZtbm5wanVRNDN6R1lMX283OHNrcW45UG9pdGFlbTk5WmNmMExXazg4U1pTQTJmdEg1MFUtZ0FIWGNGbWlKY2kxUkx0aVc1WjJlUHRaRzFm0gGgAUFVX3lxTE5feWdVWmtGNDFrTkozQnBoVzJtSnlYal9KTmU2VUhMdWlBalBlbGU1SHJsNUxzRFRfc0p2YXlRUUZzQ2pLRUx4LUp3SEc5RHRyRm1ubnBqdVE0M3pHWUxfbzc4c2txbjlQb2l0YWVtOTlaY2YwTFdrODhTWlNBMmZ0SDUwVS1nQUhYY0ZtaUpjaTFSTHRpVzVaMmVQdFpHMWY?oc=5",
+          "date": "2026-04-21T13:47:51.000Z",
+          "source": "Pratidin Time"
+        },
+        {
+          "title": "Supreme Court Acquits Assam Man in 2017 Headmistress Rape-Murder Case, Cites Lack of Evidence",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOel9HU1liZnEwQ05sazFteUdzbXNCSU83MkQ2bTlvWm5ISl9sWFdJNW80SVFEZHN4RlJ2cGlUNkFDWXItdGlIbGtYb1JERGJNczdvMHJpVnpLZVljZE4weDNRaUI0ZzJpaXZzOHNRNi0yYVhuQzlhT1lrYnBLQTZlZU1laEstdkxsSnlHTmJWdHBKb3dGWFFQS1Z5bjFzXzR0ZE5iQURvSkREQWc1MmF1QVd0RGg2TDdpVHN1ZXpB?oc=5",
+          "date": "2026-04-21T07:00:00.000Z",
+          "source": "G Plus News"
+        },
+        {
+          "title": "Pawan Khera seeks pre-arrest bail in case filed by Himanta Sarma's wife",
+          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPNFR0bmZ6UVlmS2RJQzVKcjEyVi1DNkdJXzR0Vi1IWU9HVWwwZVQ0Uzhrb2V4ZzVwdHhUOUdWVEo3VllkVHVsUkFaakxoM1RUUVlwUUpNUWVfRmNjdEdvaGRlaUd4NG85NkQ1aHE2Q2xqektXZ2JwOFh3QkhlSTA3a3NndnN4RVJiakJqb0JMTkQzbmJoMHNYeWN4alk0NHdsM2FYNmRQcHpNLVkwbU5IUFpaNkFtRXB0d3hJWkQzVTlfZndHNDRTdmxrTFBBUUNjQ2JhNi1fUWFTUjRRZW05ZXhxRkh4S2ZlSklNTkU1LVBzRnJKODJjcGg2TFRQd9IBgwJBVV95cUxPdWFjQk1UWWVCajN3WGMyblFDNEdaeGllcVo5bnZqUWxkVG1ScGdZalZtOGZ3MEVmTjFXRVZiWjFLTE1UVUFoLUFjakI0WU4wUU9HdHRLeENFVkNxZm93N1VpWDJ3cVBraGNWVDlDdTlIX1l0TWN2Q0dBVU9ZaTdHdmxjb2RlVGYtZ0RJdlRFeGZxRzRqeFQ3NnFEMWoxNG9CU0s3TDBYdFpFUnNoV0xCemtlQW1wYVZEcVdoSFg0OUZzcGp0am9nNF9zU1pyMk9LdFVCR3QxS01VQmZ3YmNhWVh1RFhwWkFNMks0T1BSMFBhZjJEMk1VQjFRUG5yeW9OYVFB?oc=5",
+          "date": "2026-04-20T07:00:00.000Z",
+          "source": "India Today"
+        },
+        {
+          "title": "Guwahati Police Crack Down on Burglary Racket, Arrest Key Suspects",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOLTJFekhnaXBVdHdRX3JvZWRJR1ZNTlR4czBzNTh2ckdBaEg5MlZYakVqRGNBT1RuV3RzSkJVVzJESmZvOVItd2Fzd0RyU2JNcnFWVkZvZzc1aFU3VExiY0NpX2dFMzJ6aVY0WmNaX3pESE8yaHFPUVprQ2pLZmdwRWV2ZE1BMl9PS0F2cTNsU3ZVR2ZmUjJudVh2QjFBYnZZQjlOVXdZNDV4Ylpja0tGYVRoNnoySVBCS2J0a1VkZUtMZGpQMFpUbjdHbW1xdlFUU0tQQ21tQW5qNEd0dGlSYjUwZDUtOUNR?oc=5",
+          "date": "2026-04-09T23:23:09.000Z",
+          "source": "Dailyhunt"
+        }
+      ]
+    },
+    "Ward-60": {
+      "cachedAt": "2026-05-17T07:11:46.794Z",
+      "query": "\"-60\" Guwahati (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": [
+        {
+          "title": "Assam Crime Branch summons Pawan Khera on May 25 over allegations against CM’s wife",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMk5PWXJuenR1c3ZLZG5ySmdxbFZBaUNuei1sMUhESU9jS3VtbDVzQ1BycENXSlpuVFlnQmY4OWZHR2F4MVE0a1V3dkJuc181Y3J2WGdUS2dzcEpXUVluZXdSdW9FU1hQb3BXQnoxMUI5blNDV3NnR0dRY2N0Y2xMQUdkeU5zSmVqbVdiZDlPN3IycTVvVU9kR09fendST0l4Vk5kTWlYTXUwTzh5RXZrVU9xLVdIREZ1aENFc0VzVUV5bnhjMFHSAcsBQVVfeXFMUEpkRnBaVm1YTHhRNHYzdEpGMVNBUndDa0h3ajg2WURFaGlUVXpiN3U0RFBBaHRmVHFDY3laazVyVVdsbnNIcDVDV1YxdGlzc2FJaW9EODEzRFlDMVRrX05Kdzl0WGtRSHVNa2dLTG5xX1ZaemQzQm90U05hUlJmZ2dFajJGWmt1eTFUREpCeXoyTFFJSVdJTkRZTkF3ak11YmZ1cXBJLUtZWHZJaDZkbHlPTVY2UlpvRldrMmZKLTlxQ1ViZ2x1TUE2ajQ?oc=5",
+          "date": "2026-05-15T06:52:15.000Z",
+          "source": "The Assam Tribune"
+        },
+        {
+          "title": "Guwahati Police Seize 60 Grams of Heroin in Balughat Raid, Detain Suspected Drug Peddler - The Sentinel",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbTFvZTJhS04tbDBFeFpDR05oQnhnbE1UWi1tcWhMN25INFF4VmNCa0RCbHFoeDh6X01naERPaXdNeHZ1MHBzRFpTVGdWckQ5WlFaOU5oSGpzYzF3ekY4T2FmaFpIUllVYkY3ZmNVWjI4djZUTk9EVWZqcm82R0dOSW4yRWMtTXdhR3dNM0w5RTZTa053Mm5qbEtoNkc2d0xaTUxFSklTWThydmJmNllkMGxpWlhSMC1VWHFpX1ZBNml5amkwcGpwYjFEZlF0MXdtTl84RNIB4gFBVV95cUxQa1lPaUdmTDlnaG53dWpoUjdmdkpKLVFvR1RKZ2lDVnYzRVN1eDZvcEZ2TWZORWJYcnRkNWtvRnJCMkJRUkVYQzZla2NvblVCY0VWMUU5Vm9zbF9SVVYzRmlLalcwclFoSzF1TDVRZ0NyeEVubEF2UjdwbzkzRXpBeENrNUhydnZQVUs3eE5Rek9XRGVTbzJtWGQyeVRaT1AtUjEzRHZNV3V6RFFVUlpIR2t2SHp3TTE5b002dHNXOEhJMkVVWG90cDdwa3NRZ3pYT0w3UUs4eXh6UUhJUWt5dzdn?oc=5",
+          "date": "2026-05-15T04:52:50.000Z",
+          "source": "The Sentinel - of this Land, for its People"
+        },
+        {
+          "title": "\"I am cooperating\": Pawan Khera appears before Guwahati Crime Branch in passport row linked to Assam CM's wife",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPaXhXazRlblFzbGNqYXoza2ZLSzJMM0FTZDhfdHRURmRCZkkxZVpuYkswTUZqZ0doYldrVjUtLWttNHpOQzBlZ1ZLd1JwNkV5WTNnWGt1NmxVcDVXQ0hKSEJYR05WQjdDN0w3SVlwNWZOMlVhNWZ6WDdFUy1aTGFUYWw1T0JScUJBaTMydWtFYUhTWGNtZ1FrWEhrejdSSi10aFQ4ekNjVmtfWFd6cDFJd3ZTeGtzTHNmQl8zMF92SjVIZ2xsTzdYZnpiX2dIZjZqMXoteDdYVC14bVFIZkVkag?oc=5",
+          "date": "2026-05-14T12:02:00.000Z",
+          "source": "India's News.Net"
+        },
+        {
+          "title": "Drug Peddler Arrested With Heroin in Guwahati Police Anti-Drug Operation",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLVVDRDN4VHRXdWRnMGRXenBjXzM5Y0s2TDR0NFNSR2xuUGRCQ05yREZVZkREVG5IaDhrcnpvN18zVGhueTl1UzV0bDNPNWdla1lOSkM0aVlPR2tSVmppMWg4ZkdVY3lBUVVHcmtuYzRUbG5xbDc3US1IS1R5cTJ2MnhsMHR4X0wyVndRVXd6MjNvc09ubUhNT3ZRbWczV1QzbEpF?oc=5",
+          "date": "2026-05-14T12:00:00.000Z",
+          "source": "G Plus News"
+        }
+      ]
+    }
+  },
+  "notes": "Per-ward crime-related news from Google News RSS. Queried per the ward's distinctive neighbourhood name + Guwahati + crime keywords. Items are filtered to last 18 months and to titles containing at least one crime/police/arrest term. Up to 4 per ward."
 }
