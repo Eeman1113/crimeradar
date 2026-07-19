@@ -1,120 +1,99 @@
 {
   "source": "https://news.google.com/rss/search",
-  "scrapedAt": "2026-05-17T06:56:06.120Z",
+  "scrapedAt": "2026-07-19T06:54:37.647Z",
   "wards": {
     "1": {
-      "cachedAt": "2026-05-17T06:55:29.710Z",
+      "cachedAt": "2026-07-19T06:54:01.940Z",
       "query": "\"Prabhag 1\" Nagpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2": {
-      "cachedAt": "2026-05-17T06:55:29.710Z",
+      "cachedAt": "2026-07-19T06:54:01.940Z",
       "query": "\"Prabhag 2\" Nagpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "3": {
-      "cachedAt": "2026-05-17T06:55:29.710Z",
+      "cachedAt": "2026-07-19T06:54:01.940Z",
       "query": "\"Prabhag 3\" Nagpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4": {
-      "cachedAt": "2026-05-17T06:55:29.710Z",
+      "cachedAt": "2026-07-19T06:54:01.940Z",
       "query": "\"Prabhag 4\" Nagpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "5": {
-      "cachedAt": "2026-05-17T06:55:29.710Z",
+      "cachedAt": "2026-07-19T06:54:01.940Z",
       "query": "\"Prabhag 5\" Nagpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
-      "items": [
-        {
-          "title": "In Prabhag 5, first-timer strives to take forward the family legacy",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVzBIYVFBVTZfclJxNmdmN1p1U0tYSjQwalFyazIwTGlYZ2EzUlFOZzNWM3AyeGRVR0xTOG5fX3FFSE1LS0I1SldLMVFiWUFzc3J4bGZ1bnNwVHoxNUJuWGoyS0p0M0loY2Job3BBSjdRODJBQktzc2NNSFdzdkljMkVDU2lncnpqb0J6NDF1Y25XSmh5WEdDME5TWWczNHFCOGctSlU5QUxiOW1tV0dhd2x0NEhyTGxvZ25rNmxwNjllX0JOVTVMVkpGZnhORVZYLVdrSHY1a9IB3AFBVV95cUxObWNTSGRFNGlZNGdRR2VWZzFCMnNQdG9CckN6aGM3S29ENXJWc3VMVHlJaXhQRmxvTUl5WHV1TUdDb0RjR0tPaVNKTFVTVWtEWHdfeGt3eVo5emJyZUlYRzBfWEF1Mk1tUFd5Xzl1cFlDaUU5enJLZ25ySWdOWExJbHdWSDZBcTNyUmJKSTV6NWZ0SWd6VGhKRG9ldEh6UVQ0a0tEU09VcmJvNTB2U3liV1NrTWRFM19RRGpJYkZ5MVRfSUVzWEpZa3lOZzVlUWlXTXU0VHlSWGludzdi?oc=5",
-          "date": "2026-01-09T08:00:00.000Z",
-          "source": "The Times of India"
-        }
-      ]
+      "items": []
     },
     "6": {
-      "cachedAt": "2026-05-17T06:55:29.710Z",
+      "cachedAt": "2026-07-19T06:54:01.940Z",
       "query": "\"Prabhag 6\" Nagpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "7": {
-      "cachedAt": "2026-05-17T06:55:29.710Z",
+      "cachedAt": "2026-07-19T06:54:01.940Z",
       "query": "\"Prabhag 7\" Nagpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "8": {
-      "cachedAt": "2026-05-17T06:55:29.710Z",
+      "cachedAt": "2026-07-19T06:54:01.940Z",
       "query": "\"Prabhag 8\" Nagpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "9": {
-      "cachedAt": "2026-05-17T06:55:29.710Z",
+      "cachedAt": "2026-07-19T06:54:01.940Z",
       "query": "\"Prabhag 9\" Nagpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "10": {
-      "cachedAt": "2026-05-17T06:55:29.710Z",
+      "cachedAt": "2026-07-19T06:54:01.940Z",
       "query": "\"Prabhag 10\" Nagpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "11": {
-      "cachedAt": "2026-05-17T06:55:29.710Z",
+      "cachedAt": "2026-07-19T06:54:01.940Z",
       "query": "\"Prabhag 11\" Nagpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
-      "items": [
-        {
-          "title": "Maharashtra civic polls turn violent: BJP’s Bhushan Shingne attacked; attempt to murder filed against Con",
-          "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOOHpScEFKT2FyaEdGLWhmQ3pHSzNReE9kNlMyaUFxRjZUNldVakRkNDZGU2xVS2tHWGpQWlRQdVQ0WDRWU2FacHBxY0pqQUc4LUFrSGFlTzAzQ3J0MjZ1YUJVYWhZLTJsWmVIUXNnaUhlNm8zYnRLWHRFakRkbF9sVkMxeW5DWXlHSHYycWVNVlpXNjBtLVU4NkhKc3dUcnJPeW01NGp6Tjk1SWRucTJpWkVHaUMwcEVHdFZxemVSQy1YTkhVU3YzTUxxbk5HY0JfZEJaVGFYNXh0Y3NjUlJHSWNrSU1VU1NXRlozYUY3X3RwcWNZWWNnQVlpSjNTc19DLURPdEZWUzBXajVmSnhaT3NzTHMzUFp5TWlj0gGgAkFVX3lxTE5FWTNucXBWMFNhcDI0NmdmT3RxMWc5ZXpaN3JwQnEteGwtNFpxZWZ1X3FMUU9DSWZLRnF2SC02MnNEZ2VhODB2Z09YbHExQWoxeGNmcnV1QmJ4aGY1bFM4UlVMVC0ydWIyMmR3TUFzeVlaLTRUdHl5TjVTTmkzdGY4R1A1UlJOaVZFcENySW1TYVZQNnpCdUZhVnpnU3hyRXdvUEVVaUtUVnd4NmFEN2Fzb2g3c3VYMU1tWTdyNmZNZW1tYWhYdDVuTndaMWVzZUNGVjFpLWxZanJCM252VllaS3RYaEtPTFNxYVR5MDIzaUY0dTREWXg0TGZ4LTZ6WERSUGxGblk4TXhLQlU3eTRSZnBZQThmdWpZS01xV1h4VQ?oc=5",
-          "date": "2026-01-16T08:00:00.000Z",
-          "source": "The Times of India"
-        }
-      ]
+      "items": []
     },
     "12": {
-      "cachedAt": "2026-05-17T06:55:29.710Z",
+      "cachedAt": "2026-07-19T06:54:01.940Z",
       "query": "\"Prabhag 12\" Nagpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "13": {
-      "cachedAt": "2026-05-17T06:55:29.710Z",
+      "cachedAt": "2026-07-19T06:54:01.940Z",
       "query": "\"Prabhag 13\" Nagpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "14": {
-      "cachedAt": "2026-05-17T06:55:29.710Z",
+      "cachedAt": "2026-07-19T06:54:01.940Z",
       "query": "\"Prabhag 14\" Nagpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "15": {
-      "cachedAt": "2026-05-17T06:55:29.710Z",
+      "cachedAt": "2026-07-19T06:54:01.940Z",
       "query": "\"Prabhag 15\" Nagpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
-      "items": [
-        {
-          "title": "Maharashtra civic body polls: Devendra Fadnavis votes in Prabhag 15, attacks opposition for ‘violence and",
-          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOQ2ZJUGwxd01tWWh6TWpGVWFOTG5OZFZ0akowZGxjQ0NRXzhHenBLZG5CUFJIY3pQdVc4dGFhZUQyS3dkRDNTajE4N3pyRGdraGxpNi1yeWJoR2F1aVpOLUc1MWlKQkxTNVdOOXJtTWhCT3E4ZWRVT2xOcUJBWFZsQlFsOUlPWlFSRTR5UFlJN0VwRERIRnJ2Y0xDdl9DY0Nla2xjZzQyY0xMZ1dGQWxPcTBZcVhIbTRKLVNHZS04ci0zcmh4enFMSnFvUElaWWtsZjlhYU45RzNVdEE3MjZmSE0wQl9aT0hrZnhSMnJNbndVcXkxa3gxMUo0bFZoYXNWR0IyMFJQZy1acTNLRTVQQUtqUm5QSFJCc3JsSl9zaWRjamJVcHZDMHFSMzRGM0RELThuS3A5c09Qc3hhTkFDQ0wwV3ZGM3fSAcwCQVVfeXFMUEIxUWJwRWVpVnFhTzdBNWRkcEJXaURzcGUxZVdWLTRLcE5aa1FmLXlpdWV5LXBFejlFS3Vjby1iczVVN3hLYS0tSFkyaC1SY0pYbEhkM0JWaDVZek9tNUhReEFUU1FfNWxhNWhfaGgxYkF6RUZkUUh4OEFzY2VYQm1vR2ZHOEdFbmdOSXJUYjhsRzdPRnFNd2xSYnk1U3lOOVIxeFllS280Mkp4UEtXbFcySFB6YzV5dUd3Z0paRGNqak9TTWl3cHVuajB0NkRBTlkxbXAzRXEtd3h2TXlBcC1QWTFGY2x4VU8wTk5FcEgzeWtxNEFkM1l4cDllM2VtLWZxbG8zNkM3YjJ0TUZxMGJTS2k1cDVVb1REal9BQV91OFpFTWg1R3hyN1lNYWw0dTF1OV92ZEZfZU5CVVg1TXRDd3M1c05qalc3WnY?oc=5",
-          "date": "2026-01-16T08:00:00.000Z",
-          "source": "The Times of India"
-        }
-      ]
+      "items": []
     },
     "16": {
-      "cachedAt": "2026-05-17T06:55:29.710Z",
+      "cachedAt": "2026-07-19T06:54:01.940Z",
       "query": "\"Prabhag 16\" Nagpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "17": {
-      "cachedAt": "2026-05-17T06:55:29.710Z",
+      "cachedAt": "2026-07-19T06:54:01.940Z",
       "query": "\"Prabhag 17\" Nagpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "18": {
-      "cachedAt": "2026-05-17T06:55:29.710Z",
+      "cachedAt": "2026-07-19T06:54:01.940Z",
       "query": "\"Prabhag 18\" Nagpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "19": {
-      "cachedAt": "2026-05-17T06:55:29.710Z",
+      "cachedAt": "2026-07-19T06:54:01.940Z",
       "query": "\"Prabhag 19\" Nagpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -126,47 +105,47 @@
       ]
     },
     "20": {
-      "cachedAt": "2026-05-17T06:55:29.710Z",
+      "cachedAt": "2026-07-19T06:54:01.940Z",
       "query": "\"Prabhag 20\" Nagpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "21": {
-      "cachedAt": "2026-05-17T06:55:29.710Z",
+      "cachedAt": "2026-07-19T06:54:01.940Z",
       "query": "\"Prabhag 21\" Nagpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "22": {
-      "cachedAt": "2026-05-17T06:55:29.710Z",
+      "cachedAt": "2026-07-19T06:54:01.940Z",
       "query": "\"Prabhag 22\" Nagpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "23": {
-      "cachedAt": "2026-05-17T06:55:29.710Z",
+      "cachedAt": "2026-07-19T06:54:01.940Z",
       "query": "\"Prabhag 23\" Nagpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "24": {
-      "cachedAt": "2026-05-17T06:55:29.710Z",
+      "cachedAt": "2026-07-19T06:54:01.940Z",
       "query": "\"Prabhag 24\" Nagpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "25": {
-      "cachedAt": "2026-05-17T06:55:29.710Z",
+      "cachedAt": "2026-07-19T06:54:01.940Z",
       "query": "\"Prabhag 25\" Nagpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "26": {
-      "cachedAt": "2026-05-17T06:55:29.710Z",
+      "cachedAt": "2026-07-19T06:54:01.940Z",
       "query": "\"Prabhag 26\" Nagpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "27": {
-      "cachedAt": "2026-05-17T06:55:29.710Z",
+      "cachedAt": "2026-07-19T06:54:01.940Z",
       "query": "\"Prabhag 27\" Nagpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "28": {
-      "cachedAt": "2026-05-17T06:55:29.710Z",
+      "cachedAt": "2026-07-19T06:54:01.940Z",
       "query": "\"Prabhag 28\" Nagpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -178,42 +157,42 @@
       ]
     },
     "29": {
-      "cachedAt": "2026-05-17T06:55:29.710Z",
+      "cachedAt": "2026-07-19T06:54:01.940Z",
       "query": "\"Prabhag 29\" Nagpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "30": {
-      "cachedAt": "2026-05-17T06:55:29.710Z",
+      "cachedAt": "2026-07-19T06:54:01.940Z",
       "query": "\"Prabhag 30\" Nagpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "31": {
-      "cachedAt": "2026-05-17T06:55:29.710Z",
+      "cachedAt": "2026-07-19T06:54:01.940Z",
       "query": "\"Prabhag 31\" Nagpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "32": {
-      "cachedAt": "2026-05-17T06:55:29.710Z",
+      "cachedAt": "2026-07-19T06:54:01.940Z",
       "query": "\"Prabhag 32\" Nagpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "33": {
-      "cachedAt": "2026-05-17T06:55:29.710Z",
+      "cachedAt": "2026-07-19T06:54:01.940Z",
       "query": "\"Prabhag 33\" Nagpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "34": {
-      "cachedAt": "2026-05-17T06:55:29.710Z",
+      "cachedAt": "2026-07-19T06:54:01.940Z",
       "query": "\"Prabhag 34\" Nagpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "35": {
-      "cachedAt": "2026-05-17T06:55:29.710Z",
+      "cachedAt": "2026-07-19T06:54:01.940Z",
       "query": "\"Prabhag 35\" Nagpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "36": {
-      "cachedAt": "2026-05-17T06:55:29.710Z",
+      "cachedAt": "2026-07-19T06:54:01.940Z",
       "query": "\"Prabhag 36\" Nagpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -225,12 +204,12 @@
       ]
     },
     "37": {
-      "cachedAt": "2026-05-17T06:55:29.710Z",
+      "cachedAt": "2026-07-19T06:54:01.940Z",
       "query": "\"Prabhag 37\" Nagpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "38": {
-      "cachedAt": "2026-05-17T06:55:29.710Z",
+      "cachedAt": "2026-07-19T06:54:01.940Z",
       "query": "\"Prabhag 38\" Nagpur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     }

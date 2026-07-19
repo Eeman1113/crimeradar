@@ -1,182 +1,183 @@
 {
   "source": "https://news.google.com/rss/search",
-  "scrapedAt": "2026-05-17T07:11:46.604Z",
+  "scrapedAt": "2026-07-19T07:10:54.652Z",
   "wards": {
     "4613": {
-      "cachedAt": "2026-05-17T07:11:14.624Z",
+      "cachedAt": "2026-07-19T07:10:23.210Z",
       "query": "\"Muthialpet East\" Puducherry (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4614": {
-      "cachedAt": "2026-05-17T07:11:14.624Z",
+      "cachedAt": "2026-07-19T07:10:23.210Z",
       "query": "\"Muthialpet West\" Puducherry (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4615": {
-      "cachedAt": "2026-05-17T07:11:14.624Z",
+      "cachedAt": "2026-07-19T07:10:23.210Z",
       "query": "\"Solai Nagar\" Puducherry (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4616": {
-      "cachedAt": "2026-05-17T07:11:14.624Z",
+      "cachedAt": "2026-07-19T07:10:23.210Z",
       "query": "\"Vaithikuppam\" Puducherry (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4617": {
-      "cachedAt": "2026-05-17T07:11:14.624Z",
+      "cachedAt": "2026-07-19T07:10:23.210Z",
       "query": "\"VOC Nagar\" Puducherry (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4618": {
-      "cachedAt": "2026-05-17T07:11:14.624Z",
+      "cachedAt": "2026-07-19T07:10:23.210Z",
       "query": "\"Thiruvalluvar Nagar\" Puducherry (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4619": {
-      "cachedAt": "2026-05-17T07:11:14.624Z",
+      "cachedAt": "2026-07-19T07:10:23.210Z",
       "query": "\"Perumalkoil\" Puducherry (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4620": {
-      "cachedAt": "2026-05-17T07:11:14.624Z",
+      "cachedAt": "2026-07-19T07:10:23.210Z",
       "query": "\"Kurusukuppam\" Puducherry (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4621": {
-      "cachedAt": "2026-05-17T07:11:14.624Z",
+      "cachedAt": "2026-07-19T07:10:23.210Z",
       "query": "\"Raj Bhavan\" Puducherry (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
           "title": "AAP protests outside Raj Bhavan over 3-year-old girl's rape at private school in Delhi's Janakpuri | Latest News Delhi",
           "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNc1JlTXd6T2V4eFBtWkhSMnpNa0lsYVB6MkVvb0ZYQkxrS3FzeWhUU0tjVzVuOUNSMzlpVngtSDltQmt4ZGFQeGhHbnlYdUh2Qm1WbjhBYUlmZXplRXVMbHlIM09sZUdIUkk2dVdWNWNXRUtDYkYtMFpRV3hkd2FmZ1c4OXc2Y05zc29BellDSDNyMk5iZmc0Zmx2UF9fa2J6WDNFalVoZFhyQ1JDeU9oV2ltUlNJWXVnUzF6WGFwazNwLVB4M1VJY3ZwRDFIc2RJTlVsQlRjelZSbEZ5ODVwdWpac2ZWWTRFbWNid09jcXc3Nlk5MU1yNWxRUzDSAYICQVVfeXFMUGxVUHRpMmhQeTR3RUliLWQzakprU0UtaEdQaXdKNXR2OTZXZ0tyV0xna0ExdzVnNVFoRUoyeXVYY0JVcTgzOFY5ZjNPYzdSWkpZN1dWNVVhVGtabFVDMm5oRUNoVDBhWkwyNk0waXM3ZHdvdWd2dmNhTll0SHp5U1YwcG9KbU9HSHNROHpCZ1VZLU9sQ0RSWi0wckdONzFySTlfVVZnRUZfczhwc3g0Y0UwSEEzM0RjZml4dlMtQnkxUEltcEhYcjBCNl9aT2lkdlZRQ1prTWlwUl9nOUFiMDV3YmlQcFFOWFc2TVFxU01qaFV0ZnJxcmMxLWMxel9YYVRR?oc=5",
-          "date": "2026-05-13T16:42:04.000Z",
-          "source": "Hindustan Times"
-        },
-        {
-          "title": "PU professor’s arrest for wife’s 2021 murder: ‘Accused evasive’: Cops want custody extended | Hindustan Times",
-          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQS3dQd3hKcnFRTjk4cGh5SDBiRWFZNXVsQXFYNlRUUkZ1LW5Od2VHWVM3bFVKbExxcnN6Vi0weWxVcUd3OXJqcnZpaFRTUndqSnFGUjZoQXJQY2E0QU5jYTlRYXd5LTl2Y0lTYWFrM1lxVHRDSllHMFFYb1ZIUFdNdGxqT3ZmYnpVcy1HU3k1RndIRkZFaDhVOUgyS0MtNEhiWHkxMXVydjYzNkxObm9RQjZNWk9pcUJHUWc3RWhITDhXbVBneS1kR3BfSF9CWGFqeklQM0xJQmtBTlBvV1pSNEpJcHlHNGh6Sy1rdG5BSkhGOEZC0gH6AUFVX3lxTE9rR3FtYUlOcTZQVElhUWhoTkd6dk5HWUVnQ3lzNWpJVlVOOXN4LUVEeVFaTEdoUHYwMEpfUjhDdkZETEUzRkFoS2lrZEs4MHpEakF6V1ZqR1BSVmhPYVduamh4Q25uRHlEWmpsQjN4US1rR0dBZzk3bWJkNGRKU0lTVVdfeWQwY2paY3R2QTN5S3V6VHdIWU9jMFkwQWp2U3piWTFmci13UjZBQmpOWmt3eGxlRnZrT1dSYnkwWnJrNS1hQkdHOUl1TjBqN2JCN3NYdDhObUNIaVp4M2hzY1h2SVVLSGZWSkp4ZjVWeEV4aG9QOU5BUlFxSEE?oc=5",
-          "date": "2025-12-11T08:00:00.000Z",
+          "date": "2026-05-13T07:00:00.000Z",
           "source": "Hindustan Times"
         }
       ]
     },
     "4622": {
-      "cachedAt": "2026-05-17T07:11:14.624Z",
+      "cachedAt": "2026-07-19T07:10:23.210Z",
       "query": "\"Cathedral\" Puducherry (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4623": {
-      "cachedAt": "2026-05-17T07:11:14.624Z",
+      "cachedAt": "2026-07-19T07:10:23.210Z",
       "query": "\"Goubert Nagar\" Puducherry (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4624": {
-      "cachedAt": "2026-05-17T07:11:14.624Z",
+      "cachedAt": "2026-07-19T07:10:23.210Z",
       "query": "\"Elango Nagar\" Puducherry (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4625": {
-      "cachedAt": "2026-05-17T07:11:14.624Z",
+      "cachedAt": "2026-07-19T07:10:23.210Z",
       "query": "\"Pudupalayam\" Puducherry (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4626": {
-      "cachedAt": "2026-05-17T07:11:14.624Z",
+      "cachedAt": "2026-07-19T07:10:23.210Z",
       "query": "\"Pillaithottam\" Puducherry (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4627": {
-      "cachedAt": "2026-05-17T07:11:14.624Z",
+      "cachedAt": "2026-07-19T07:10:23.210Z",
       "query": "\"Sakthi Nagar\" Puducherry (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4628": {
-      "cachedAt": "2026-05-17T07:11:14.624Z",
+      "cachedAt": "2026-07-19T07:10:23.210Z",
       "query": "\"Anna Nagar\" Puducherry (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4629": {
-      "cachedAt": "2026-05-17T07:11:14.624Z",
+      "cachedAt": "2026-07-19T07:10:23.210Z",
       "query": "\"Nellithope\" Puducherry (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4630": {
-      "cachedAt": "2026-05-17T07:11:14.624Z",
+      "cachedAt": "2026-07-19T07:10:23.210Z",
       "query": "\"Orleanpet\" Puducherry (crime OR arrest OR snatch OR rape OR molest OR raid)",
-      "items": []
+      "items": [
+        {
+          "title": "Bengaluru triple murder case: Second accused Kenneth held in Puducherry",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNazU3eXRWeVQ4NjVDVmhGTU94T2ZYZ1diOEd3dmlrVE9WSTZqVy1Hc3NlUW5ZblhCUk00TEFNempEUlJ4d3o1MFM4WXVVLUxZOGZWN0RzVEgxUTZYQ2lTalY3YzFJN2NpbkpHOEU3RlN6cUdGeUFCcmw2c1hibW1SWjFVejZBaFlDcjg0aFNJeUw5d2dWdkVEVVZVRFFDalRjbEdMbWFyYnFPLVJDaWstS3hJN3ZidWJLT3VsLVJEeUV2NkFraGNKcnBLSWTSAdoBQVVfeXFMTlVWeGNWcHVqZU5yQkN5azBsLTlGZW1yZmNfUHZCWjgxTm85X3UxcGhOMzZQQ2RmS0hWdFBMYWxZZWxmd3NaVGtELUdiSHF1MjNQMk85QmxaWlJLbHgyTS1jX1p2Tmw2cFc4bFY4Wm1ObTVLUVJqWGRRU2tMbTR6MC03QWxYMjNzUXpuaEJ1cVBQVWhOc2JDNnhJektyY0lpVG44aFdfb2FxbWhpRFBVbVNaV0pWaW5NV25qRDhsRWVWUWlpY2h2Q3kwQmw2ZnlZX2VZU2Fvb0oyeVE?oc=5",
+          "date": "2026-06-27T07:00:00.000Z",
+          "source": "The New Indian Express"
+        }
+      ]
     },
     "4631": {
-      "cachedAt": "2026-05-17T07:11:14.624Z",
+      "cachedAt": "2026-07-19T07:10:23.210Z",
       "query": "\"Mudaliarpet\" Puducherry (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4632": {
-      "cachedAt": "2026-05-17T07:11:14.624Z",
+      "cachedAt": "2026-07-19T07:10:23.210Z",
       "query": "\"Vanarapet\" Puducherry (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4633": {
-      "cachedAt": "2026-05-17T07:11:14.624Z",
+      "cachedAt": "2026-07-19T07:10:23.210Z",
       "query": "\"Periapalli\" Puducherry (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4634": {
-      "cachedAt": "2026-05-17T07:11:14.624Z",
+      "cachedAt": "2026-07-19T07:10:23.210Z",
       "query": "\"Vambakeerapalayam\" Puducherry (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4635": {
-      "cachedAt": "2026-05-17T07:11:14.624Z",
+      "cachedAt": "2026-07-19T07:10:23.210Z",
       "query": "\"Colas Nagar\" Puducherry (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4636": {
-      "cachedAt": "2026-05-17T07:11:14.624Z",
+      "cachedAt": "2026-07-19T07:10:23.210Z",
       "query": "\"Nethaji Nagar\" Puducherry (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4637": {
-      "cachedAt": "2026-05-17T07:11:14.624Z",
+      "cachedAt": "2026-07-19T07:10:23.210Z",
       "query": "\"Viduthalai Nagar\" Puducherry (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4638": {
-      "cachedAt": "2026-05-17T07:11:14.624Z",
+      "cachedAt": "2026-07-19T07:10:23.210Z",
       "query": "\"Bharathidasan Nagar\" Puducherry (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4639": {
-      "cachedAt": "2026-05-17T07:11:14.624Z",
+      "cachedAt": "2026-07-19T07:10:23.210Z",
       "query": "\"Ozhandai Keerapalayam West\" Puducherry (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4640": {
-      "cachedAt": "2026-05-17T07:11:14.624Z",
+      "cachedAt": "2026-07-19T07:10:23.210Z",
       "query": "\"Ozhandai Keerapalayam East\" Puducherry (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4641": {
-      "cachedAt": "2026-05-17T07:11:14.624Z",
+      "cachedAt": "2026-07-19T07:10:23.210Z",
       "query": "\"Nainarmandapam\" Puducherry (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4642": {
-      "cachedAt": "2026-05-17T07:11:14.624Z",
+      "cachedAt": "2026-07-19T07:10:23.210Z",
       "query": "\"Thengaithittu\" Puducherry (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4643": {
-      "cachedAt": "2026-05-17T07:11:14.624Z",
+      "cachedAt": "2026-07-19T07:10:23.210Z",
       "query": "\"Murungapakkam East\" Puducherry (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4644": {
-      "cachedAt": "2026-05-17T07:11:14.624Z",
+      "cachedAt": "2026-07-19T07:10:23.210Z",
       "query": "\"Murungapakkam West\" Puducherry (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4645": {
-      "cachedAt": "2026-05-17T07:11:14.624Z",
+      "cachedAt": "2026-07-19T07:10:23.210Z",
       "query": "\"Kombakkam\" Puducherry (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     }
