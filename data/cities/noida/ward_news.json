@@ -1,39 +1,39 @@
 {
   "source": "https://news.google.com/rss/search",
-  "scrapedAt": "2026-07-19T06:47:31.907Z",
+  "scrapedAt": "2026-07-26T06:53:56.426Z",
   "wards": {
     "Sector 20": {
-      "cachedAt": "2026-07-19T06:47:22.350Z",
+      "cachedAt": "2026-07-26T06:53:47.076Z",
       "query": "\"Sectors 1-19\" Noida (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Sector 24": {
-      "cachedAt": "2026-07-19T06:47:22.350Z",
+      "cachedAt": "2026-07-26T06:53:47.076Z",
       "query": "\"Sectors 22\" Noida (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Sector 39": {
-      "cachedAt": "2026-07-19T06:47:22.350Z",
+      "cachedAt": "2026-07-26T06:53:47.076Z",
       "query": "\"Sectors 30-31\" Noida (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Sector 49": {
-      "cachedAt": "2026-07-19T06:47:22.350Z",
+      "cachedAt": "2026-07-26T06:53:47.076Z",
       "query": "\"Sectors 44-55\" Noida (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Sector 58": {
-      "cachedAt": "2026-07-19T06:47:22.350Z",
+      "cachedAt": "2026-07-26T06:53:47.076Z",
       "query": "\"Sectors 56-65\" Noida (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Phase 2": {
-      "cachedAt": "2026-07-19T06:47:22.350Z",
+      "cachedAt": "2026-07-26T06:53:47.076Z",
       "query": "\"Noida Phase 2 industrial area\" Noida (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
           "title": "Noida Protest Mastermind Aditya Anand Arrested by UP STF in Tamil Nadu",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9YNlJVRUFHbTkweWFWMkRmZy1pbHhuOXVOVXRKN242N1JFQzZSTF9oSHFldEZHOHJIclFxTDQ0eEkzMzkzMDdfZkFUODg3UUpkNjMtXzduVDFYOWlleUI2ZzJlV0x3ZGVyTFJBMmpFazY?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNFpnblMwaU9hcXA5TlBDWGxHemRmR1JpMVF1eFQ0RElfR2NyX0ZkMnViVy04cW41cXRBZndlbEZUbzVWRzlJeDNteWI3QmxrN0dyM1ZXWEJsMnlMNDVwc2VnMVpMNnp3NkpOamptUkp6SmtIVTNZc0Q0c0VXNnhHVHFjaEFFMXpFT1hv?oc=5",
           "date": "2026-04-19T07:00:00.000Z",
           "source": "Daily Pioneer"
         },
@@ -46,22 +46,22 @@
       ]
     },
     "Phase 3": {
-      "cachedAt": "2026-07-19T06:47:22.350Z",
+      "cachedAt": "2026-07-26T06:53:47.076Z",
       "query": "\"Sectors 66-75\" Noida (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Sector 113": {
-      "cachedAt": "2026-07-19T06:47:22.350Z",
+      "cachedAt": "2026-07-26T06:53:47.076Z",
       "query": "\"Sectors 110-120\" Noida (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Sector 126": {
-      "cachedAt": "2026-07-19T06:47:22.350Z",
+      "cachedAt": "2026-07-26T06:53:47.076Z",
       "query": "\"Sectors 121-130\" Noida (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Expressway": {
-      "cachedAt": "2026-07-19T06:47:22.350Z",
+      "cachedAt": "2026-07-26T06:53:47.076Z",
       "query": "\"Sectors 131-137 and 143-168\" Noida (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     }

@@ -1,11 +1,17 @@
 {
   "source": "https://news.google.com/rss/search",
-  "scrapedAt": "2026-07-19T06:58:44.492Z",
+  "scrapedAt": "2026-07-26T07:05:07.546Z",
   "wards": {
     "Ward 35": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Ward\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Patna Court Grants Interim Relief To Khan Sir In Firing Case, Stays Arrest Till Next Hearing",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUEFIQi1adktQZEE0cW9xM3hNNmxVRHFrR0JWQ3VlNUgtd2NjaUlkZGtvNVJpWlRyY2VGZERORFhiV1NoYVpZOEdHaXlRWkNzYVp1clB5SE9md19NVEw0UDBIUjJFdzB2N3ZPRkstZDFTU0NrakZ2eVByXzJ4RzJoVUNMWDlNaGVrTnNRZzZPTjVkQld1SWdtWnVGU0dTSGVmRWdkeWVxVUZ3VWZsc3R0YkRLUnQ0MzJnRHp2bXdiMk52OEg4bXdnQ3lGMGp3UdIB0wFBVV95cUxOcXd0c3F3T3M0dlBkeE1veWpZeVR2RHNnRlR4cS02Q1k0NVZSYUs2cWhVcUJVaXc3U2tGdlhqNHo4VEI5UU1kZ2ZnbzctWTRVbWVVeEZIOGN4WXYtOWVReUFQdGdZZFh4dE5kR0tGdDlPbUxpYXY2SE83OXo2ZThtT0ZLMnA2S1hJNnpGSGYtb2p1azN6VUNFaU9kMF9sR3ZNUG1MVFRBMS03SGRxOGotQUJSLWJtYk9rcE1ycS1pamhHWHVmd3B1M3RxV29ya0xvdllV?oc=5",
+          "date": "2026-06-20T07:00:00.000Z",
+          "source": "Free Press Journal"
+        },
         {
           "title": "Cyberfraud gang busted, three arrested in Patna raids",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkgyZkg2WXYwREJVeERLOVY1Q2tHb2dJb1cxRVJ1QUh2S3JpUXUyS1AwVTFkTFR2TWlGQXliRjk1VW9mNzNfY0h2dHFVYXIwUFdMS1o2Qnp0bGwtUnpVdnNzX1JXdDdzNHlCZ1Q3YjNxT0djOGppbTEwaXpCNDhDTmtweDdtU1lPQVN5QW9ld0lhVlFSY0k2NFNEQXFtQnJhY1JJcmxLUjgtTUsweEI4NzRLeXR6UnFPZ21WcEU2bzQ1Z03SAcgBQVVfeXFMTTZRTF9sc0RNbEo2djBaTzlxNXNWU24tSlRwODZKZV8yaVBsclJHUUM0ZHFta2hCYkVqdURUOTU2UlJnbXp6YU5aZ3Zld1lzQmtNd0ZmbVV2MHUxaHJHSXFZMlRscWNCdVpxUXBrUC1QRHl4eHRrNTMyclBDMlgwbkxQNTB1NDMyOWFkeGFWY1lNUzdqanBSMVkzeUJtcXo0Nk1MMjFnLWItVFNRQU83VTJuWnhyYWhvMmtDWkt6ZEJ2NUw5blB5Q3M?oc=5",
@@ -21,9 +27,15 @@
       ]
     },
     "Ward 1": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Ward\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Patna Court Grants Interim Relief To Khan Sir In Firing Case, Stays Arrest Till Next Hearing",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUEFIQi1adktQZEE0cW9xM3hNNmxVRHFrR0JWQ3VlNUgtd2NjaUlkZGtvNVJpWlRyY2VGZERORFhiV1NoYVpZOEdHaXlRWkNzYVp1clB5SE9md19NVEw0UDBIUjJFdzB2N3ZPRkstZDFTU0NrakZ2eVByXzJ4RzJoVUNMWDlNaGVrTnNRZzZPTjVkQld1SWdtWnVGU0dTSGVmRWdkeWVxVUZ3VWZsc3R0YkRLUnQ0MzJnRHp2bXdiMk52OEg4bXdnQ3lGMGp3UdIB0wFBVV95cUxOcXd0c3F3T3M0dlBkeE1veWpZeVR2RHNnRlR4cS02Q1k0NVZSYUs2cWhVcUJVaXc3U2tGdlhqNHo4VEI5UU1kZ2ZnbzctWTRVbWVVeEZIOGN4WXYtOWVReUFQdGdZZFh4dE5kR0tGdDlPbUxpYXY2SE83OXo2ZThtT0ZLMnA2S1hJNnpGSGYtb2p1azN6VUNFaU9kMF9sR3ZNUG1MVFRBMS03SGRxOGotQUJSLWJtYk9rcE1ycS1pamhHWHVmd3B1M3RxV29ya0xvdllV?oc=5",
+          "date": "2026-06-20T07:00:00.000Z",
+          "source": "Free Press Journal"
+        },
         {
           "title": "Cyberfraud gang busted, three arrested in Patna raids",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkgyZkg2WXYwREJVeERLOVY1Q2tHb2dJb1cxRVJ1QUh2S3JpUXUyS1AwVTFkTFR2TWlGQXliRjk1VW9mNzNfY0h2dHFVYXIwUFdMS1o2Qnp0bGwtUnpVdnNzX1JXdDdzNHlCZ1Q3YjNxT0djOGppbTEwaXpCNDhDTmtweDdtU1lPQVN5QW9ld0lhVlFSY0k2NFNEQXFtQnJhY1JJcmxLUjgtTUsweEI4NzRLeXR6UnFPZ21WcEU2bzQ1Z03SAcgBQVVfeXFMTTZRTF9sc0RNbEo2djBaTzlxNXNWU24tSlRwODZKZV8yaVBsclJHUUM0ZHFta2hCYkVqdURUOTU2UlJnbXp6YU5aZ3Zld1lzQmtNd0ZmbVV2MHUxaHJHSXFZMlRscWNCdVpxUXBrUC1QRHl4eHRrNTMyclBDMlgwbkxQNTB1NDMyOWFkeGFWY1lNUzdqanBSMVkzeUJtcXo0Nk1MMjFnLWItVFNRQU83VTJuWnhyYWhvMmtDWkt6ZEJ2NUw5blB5Q3M?oc=5",
@@ -39,9 +51,15 @@
       ]
     },
     "Ward 51": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Ward\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Patna Court Grants Interim Relief To Khan Sir In Firing Case, Stays Arrest Till Next Hearing",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUEFIQi1adktQZEE0cW9xM3hNNmxVRHFrR0JWQ3VlNUgtd2NjaUlkZGtvNVJpWlRyY2VGZERORFhiV1NoYVpZOEdHaXlRWkNzYVp1clB5SE9md19NVEw0UDBIUjJFdzB2N3ZPRkstZDFTU0NrakZ2eVByXzJ4RzJoVUNMWDlNaGVrTnNRZzZPTjVkQld1SWdtWnVGU0dTSGVmRWdkeWVxVUZ3VWZsc3R0YkRLUnQ0MzJnRHp2bXdiMk52OEg4bXdnQ3lGMGp3UdIB0wFBVV95cUxOcXd0c3F3T3M0dlBkeE1veWpZeVR2RHNnRlR4cS02Q1k0NVZSYUs2cWhVcUJVaXc3U2tGdlhqNHo4VEI5UU1kZ2ZnbzctWTRVbWVVeEZIOGN4WXYtOWVReUFQdGdZZFh4dE5kR0tGdDlPbUxpYXY2SE83OXo2ZThtT0ZLMnA2S1hJNnpGSGYtb2p1azN6VUNFaU9kMF9sR3ZNUG1MVFRBMS03SGRxOGotQUJSLWJtYk9rcE1ycS1pamhHWHVmd3B1M3RxV29ya0xvdllV?oc=5",
+          "date": "2026-06-20T07:00:00.000Z",
+          "source": "Free Press Journal"
+        },
         {
           "title": "Cyberfraud gang busted, three arrested in Patna raids",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkgyZkg2WXYwREJVeERLOVY1Q2tHb2dJb1cxRVJ1QUh2S3JpUXUyS1AwVTFkTFR2TWlGQXliRjk1VW9mNzNfY0h2dHFVYXIwUFdMS1o2Qnp0bGwtUnpVdnNzX1JXdDdzNHlCZ1Q3YjNxT0djOGppbTEwaXpCNDhDTmtweDdtU1lPQVN5QW9ld0lhVlFSY0k2NFNEQXFtQnJhY1JJcmxLUjgtTUsweEI4NzRLeXR6UnFPZ21WcEU2bzQ1Z03SAcgBQVVfeXFMTTZRTF9sc0RNbEo2djBaTzlxNXNWU24tSlRwODZKZV8yaVBsclJHUUM0ZHFta2hCYkVqdURUOTU2UlJnbXp6YU5aZ3Zld1lzQmtNd0ZmbVV2MHUxaHJHSXFZMlRscWNCdVpxUXBrUC1QRHl4eHRrNTMyclBDMlgwbkxQNTB1NDMyOWFkeGFWY1lNUzdqanBSMVkzeUJtcXo0Nk1MMjFnLWItVFNRQU83VTJuWnhyYWhvMmtDWkt6ZEJ2NUw5blB5Q3M?oc=5",
@@ -57,9 +75,15 @@
       ]
     },
     "Ward 39": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Ward\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Patna Court Grants Interim Relief To Khan Sir In Firing Case, Stays Arrest Till Next Hearing",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUEFIQi1adktQZEE0cW9xM3hNNmxVRHFrR0JWQ3VlNUgtd2NjaUlkZGtvNVJpWlRyY2VGZERORFhiV1NoYVpZOEdHaXlRWkNzYVp1clB5SE9md19NVEw0UDBIUjJFdzB2N3ZPRkstZDFTU0NrakZ2eVByXzJ4RzJoVUNMWDlNaGVrTnNRZzZPTjVkQld1SWdtWnVGU0dTSGVmRWdkeWVxVUZ3VWZsc3R0YkRLUnQ0MzJnRHp2bXdiMk52OEg4bXdnQ3lGMGp3UdIB0wFBVV95cUxOcXd0c3F3T3M0dlBkeE1veWpZeVR2RHNnRlR4cS02Q1k0NVZSYUs2cWhVcUJVaXc3U2tGdlhqNHo4VEI5UU1kZ2ZnbzctWTRVbWVVeEZIOGN4WXYtOWVReUFQdGdZZFh4dE5kR0tGdDlPbUxpYXY2SE83OXo2ZThtT0ZLMnA2S1hJNnpGSGYtb2p1azN6VUNFaU9kMF9sR3ZNUG1MVFRBMS03SGRxOGotQUJSLWJtYk9rcE1ycS1pamhHWHVmd3B1M3RxV29ya0xvdllV?oc=5",
+          "date": "2026-06-20T07:00:00.000Z",
+          "source": "Free Press Journal"
+        },
         {
           "title": "Cyberfraud gang busted, three arrested in Patna raids",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkgyZkg2WXYwREJVeERLOVY1Q2tHb2dJb1cxRVJ1QUh2S3JpUXUyS1AwVTFkTFR2TWlGQXliRjk1VW9mNzNfY0h2dHFVYXIwUFdMS1o2Qnp0bGwtUnpVdnNzX1JXdDdzNHlCZ1Q3YjNxT0djOGppbTEwaXpCNDhDTmtweDdtU1lPQVN5QW9ld0lhVlFSY0k2NFNEQXFtQnJhY1JJcmxLUjgtTUsweEI4NzRLeXR6UnFPZ21WcEU2bzQ1Z03SAcgBQVVfeXFMTTZRTF9sc0RNbEo2djBaTzlxNXNWU24tSlRwODZKZV8yaVBsclJHUUM0ZHFta2hCYkVqdURUOTU2UlJnbXp6YU5aZ3Zld1lzQmtNd0ZmbVV2MHUxaHJHSXFZMlRscWNCdVpxUXBrUC1QRHl4eHRrNTMyclBDMlgwbkxQNTB1NDMyOWFkeGFWY1lNUzdqanBSMVkzeUJtcXo0Nk1MMjFnLWItVFNRQU83VTJuWnhyYWhvMmtDWkt6ZEJ2NUw5blB5Q3M?oc=5",
@@ -75,9 +99,15 @@
       ]
     },
     "Ward 42": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Ward\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Patna Court Grants Interim Relief To Khan Sir In Firing Case, Stays Arrest Till Next Hearing",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUEFIQi1adktQZEE0cW9xM3hNNmxVRHFrR0JWQ3VlNUgtd2NjaUlkZGtvNVJpWlRyY2VGZERORFhiV1NoYVpZOEdHaXlRWkNzYVp1clB5SE9md19NVEw0UDBIUjJFdzB2N3ZPRkstZDFTU0NrakZ2eVByXzJ4RzJoVUNMWDlNaGVrTnNRZzZPTjVkQld1SWdtWnVGU0dTSGVmRWdkeWVxVUZ3VWZsc3R0YkRLUnQ0MzJnRHp2bXdiMk52OEg4bXdnQ3lGMGp3UdIB0wFBVV95cUxOcXd0c3F3T3M0dlBkeE1veWpZeVR2RHNnRlR4cS02Q1k0NVZSYUs2cWhVcUJVaXc3U2tGdlhqNHo4VEI5UU1kZ2ZnbzctWTRVbWVVeEZIOGN4WXYtOWVReUFQdGdZZFh4dE5kR0tGdDlPbUxpYXY2SE83OXo2ZThtT0ZLMnA2S1hJNnpGSGYtb2p1azN6VUNFaU9kMF9sR3ZNUG1MVFRBMS03SGRxOGotQUJSLWJtYk9rcE1ycS1pamhHWHVmd3B1M3RxV29ya0xvdllV?oc=5",
+          "date": "2026-06-20T07:00:00.000Z",
+          "source": "Free Press Journal"
+        },
         {
           "title": "Cyberfraud gang busted, three arrested in Patna raids",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkgyZkg2WXYwREJVeERLOVY1Q2tHb2dJb1cxRVJ1QUh2S3JpUXUyS1AwVTFkTFR2TWlGQXliRjk1VW9mNzNfY0h2dHFVYXIwUFdMS1o2Qnp0bGwtUnpVdnNzX1JXdDdzNHlCZ1Q3YjNxT0djOGppbTEwaXpCNDhDTmtweDdtU1lPQVN5QW9ld0lhVlFSY0k2NFNEQXFtQnJhY1JJcmxLUjgtTUsweEI4NzRLeXR6UnFPZ21WcEU2bzQ1Z03SAcgBQVVfeXFMTTZRTF9sc0RNbEo2djBaTzlxNXNWU24tSlRwODZKZV8yaVBsclJHUUM0ZHFta2hCYkVqdURUOTU2UlJnbXp6YU5aZ3Zld1lzQmtNd0ZmbVV2MHUxaHJHSXFZMlRscWNCdVpxUXBrUC1QRHl4eHRrNTMyclBDMlgwbkxQNTB1NDMyOWFkeGFWY1lNUzdqanBSMVkzeUJtcXo0Nk1MMjFnLWItVFNRQU83VTJuWnhyYWhvMmtDWkt6ZEJ2NUw5blB5Q3M?oc=5",
@@ -93,9 +123,15 @@
       ]
     },
     "Ward 31": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Ward\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Patna Court Grants Interim Relief To Khan Sir In Firing Case, Stays Arrest Till Next Hearing",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUEFIQi1adktQZEE0cW9xM3hNNmxVRHFrR0JWQ3VlNUgtd2NjaUlkZGtvNVJpWlRyY2VGZERORFhiV1NoYVpZOEdHaXlRWkNzYVp1clB5SE9md19NVEw0UDBIUjJFdzB2N3ZPRkstZDFTU0NrakZ2eVByXzJ4RzJoVUNMWDlNaGVrTnNRZzZPTjVkQld1SWdtWnVGU0dTSGVmRWdkeWVxVUZ3VWZsc3R0YkRLUnQ0MzJnRHp2bXdiMk52OEg4bXdnQ3lGMGp3UdIB0wFBVV95cUxOcXd0c3F3T3M0dlBkeE1veWpZeVR2RHNnRlR4cS02Q1k0NVZSYUs2cWhVcUJVaXc3U2tGdlhqNHo4VEI5UU1kZ2ZnbzctWTRVbWVVeEZIOGN4WXYtOWVReUFQdGdZZFh4dE5kR0tGdDlPbUxpYXY2SE83OXo2ZThtT0ZLMnA2S1hJNnpGSGYtb2p1azN6VUNFaU9kMF9sR3ZNUG1MVFRBMS03SGRxOGotQUJSLWJtYk9rcE1ycS1pamhHWHVmd3B1M3RxV29ya0xvdllV?oc=5",
+          "date": "2026-06-20T07:00:00.000Z",
+          "source": "Free Press Journal"
+        },
         {
           "title": "Cyberfraud gang busted, three arrested in Patna raids",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkgyZkg2WXYwREJVeERLOVY1Q2tHb2dJb1cxRVJ1QUh2S3JpUXUyS1AwVTFkTFR2TWlGQXliRjk1VW9mNzNfY0h2dHFVYXIwUFdMS1o2Qnp0bGwtUnpVdnNzX1JXdDdzNHlCZ1Q3YjNxT0djOGppbTEwaXpCNDhDTmtweDdtU1lPQVN5QW9ld0lhVlFSY0k2NFNEQXFtQnJhY1JJcmxLUjgtTUsweEI4NzRLeXR6UnFPZ21WcEU2bzQ1Z03SAcgBQVVfeXFMTTZRTF9sc0RNbEo2djBaTzlxNXNWU24tSlRwODZKZV8yaVBsclJHUUM0ZHFta2hCYkVqdURUOTU2UlJnbXp6YU5aZ3Zld1lzQmtNd0ZmbVV2MHUxaHJHSXFZMlRscWNCdVpxUXBrUC1QRHl4eHRrNTMyclBDMlgwbkxQNTB1NDMyOWFkeGFWY1lNUzdqanBSMVkzeUJtcXo0Nk1MMjFnLWItVFNRQU83VTJuWnhyYWhvMmtDWkt6ZEJ2NUw5blB5Q3M?oc=5",
@@ -111,9 +147,15 @@
       ]
     },
     "Ward 61": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Ward\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Patna Court Grants Interim Relief To Khan Sir In Firing Case, Stays Arrest Till Next Hearing",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUEFIQi1adktQZEE0cW9xM3hNNmxVRHFrR0JWQ3VlNUgtd2NjaUlkZGtvNVJpWlRyY2VGZERORFhiV1NoYVpZOEdHaXlRWkNzYVp1clB5SE9md19NVEw0UDBIUjJFdzB2N3ZPRkstZDFTU0NrakZ2eVByXzJ4RzJoVUNMWDlNaGVrTnNRZzZPTjVkQld1SWdtWnVGU0dTSGVmRWdkeWVxVUZ3VWZsc3R0YkRLUnQ0MzJnRHp2bXdiMk52OEg4bXdnQ3lGMGp3UdIB0wFBVV95cUxOcXd0c3F3T3M0dlBkeE1veWpZeVR2RHNnRlR4cS02Q1k0NVZSYUs2cWhVcUJVaXc3U2tGdlhqNHo4VEI5UU1kZ2ZnbzctWTRVbWVVeEZIOGN4WXYtOWVReUFQdGdZZFh4dE5kR0tGdDlPbUxpYXY2SE83OXo2ZThtT0ZLMnA2S1hJNnpGSGYtb2p1azN6VUNFaU9kMF9sR3ZNUG1MVFRBMS03SGRxOGotQUJSLWJtYk9rcE1ycS1pamhHWHVmd3B1M3RxV29ya0xvdllV?oc=5",
+          "date": "2026-06-20T07:00:00.000Z",
+          "source": "Free Press Journal"
+        },
         {
           "title": "Cyberfraud gang busted, three arrested in Patna raids",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkgyZkg2WXYwREJVeERLOVY1Q2tHb2dJb1cxRVJ1QUh2S3JpUXUyS1AwVTFkTFR2TWlGQXliRjk1VW9mNzNfY0h2dHFVYXIwUFdMS1o2Qnp0bGwtUnpVdnNzX1JXdDdzNHlCZ1Q3YjNxT0djOGppbTEwaXpCNDhDTmtweDdtU1lPQVN5QW9ld0lhVlFSY0k2NFNEQXFtQnJhY1JJcmxLUjgtTUsweEI4NzRLeXR6UnFPZ21WcEU2bzQ1Z03SAcgBQVVfeXFMTTZRTF9sc0RNbEo2djBaTzlxNXNWU24tSlRwODZKZV8yaVBsclJHUUM0ZHFta2hCYkVqdURUOTU2UlJnbXp6YU5aZ3Zld1lzQmtNd0ZmbVV2MHUxaHJHSXFZMlRscWNCdVpxUXBrUC1QRHl4eHRrNTMyclBDMlgwbkxQNTB1NDMyOWFkeGFWY1lNUzdqanBSMVkzeUJtcXo0Nk1MMjFnLWItVFNRQU83VTJuWnhyYWhvMmtDWkt6ZEJ2NUw5blB5Q3M?oc=5",
@@ -129,9 +171,15 @@
       ]
     },
     "Ward 66": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Ward\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Patna Court Grants Interim Relief To Khan Sir In Firing Case, Stays Arrest Till Next Hearing",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUEFIQi1adktQZEE0cW9xM3hNNmxVRHFrR0JWQ3VlNUgtd2NjaUlkZGtvNVJpWlRyY2VGZERORFhiV1NoYVpZOEdHaXlRWkNzYVp1clB5SE9md19NVEw0UDBIUjJFdzB2N3ZPRkstZDFTU0NrakZ2eVByXzJ4RzJoVUNMWDlNaGVrTnNRZzZPTjVkQld1SWdtWnVGU0dTSGVmRWdkeWVxVUZ3VWZsc3R0YkRLUnQ0MzJnRHp2bXdiMk52OEg4bXdnQ3lGMGp3UdIB0wFBVV95cUxOcXd0c3F3T3M0dlBkeE1veWpZeVR2RHNnRlR4cS02Q1k0NVZSYUs2cWhVcUJVaXc3U2tGdlhqNHo4VEI5UU1kZ2ZnbzctWTRVbWVVeEZIOGN4WXYtOWVReUFQdGdZZFh4dE5kR0tGdDlPbUxpYXY2SE83OXo2ZThtT0ZLMnA2S1hJNnpGSGYtb2p1azN6VUNFaU9kMF9sR3ZNUG1MVFRBMS03SGRxOGotQUJSLWJtYk9rcE1ycS1pamhHWHVmd3B1M3RxV29ya0xvdllV?oc=5",
+          "date": "2026-06-20T07:00:00.000Z",
+          "source": "Free Press Journal"
+        },
         {
           "title": "Cyberfraud gang busted, three arrested in Patna raids",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkgyZkg2WXYwREJVeERLOVY1Q2tHb2dJb1cxRVJ1QUh2S3JpUXUyS1AwVTFkTFR2TWlGQXliRjk1VW9mNzNfY0h2dHFVYXIwUFdMS1o2Qnp0bGwtUnpVdnNzX1JXdDdzNHlCZ1Q3YjNxT0djOGppbTEwaXpCNDhDTmtweDdtU1lPQVN5QW9ld0lhVlFSY0k2NFNEQXFtQnJhY1JJcmxLUjgtTUsweEI4NzRLeXR6UnFPZ21WcEU2bzQ1Z03SAcgBQVVfeXFMTTZRTF9sc0RNbEo2djBaTzlxNXNWU24tSlRwODZKZV8yaVBsclJHUUM0ZHFta2hCYkVqdURUOTU2UlJnbXp6YU5aZ3Zld1lzQmtNd0ZmbVV2MHUxaHJHSXFZMlRscWNCdVpxUXBrUC1QRHl4eHRrNTMyclBDMlgwbkxQNTB1NDMyOWFkeGFWY1lNUzdqanBSMVkzeUJtcXo0Nk1MMjFnLWItVFNRQU83VTJuWnhyYWhvMmtDWkt6ZEJ2NUw5blB5Q3M?oc=5",
@@ -147,9 +195,15 @@
       ]
     },
     "Ward 47": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Ward\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Patna Court Grants Interim Relief To Khan Sir In Firing Case, Stays Arrest Till Next Hearing",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUEFIQi1adktQZEE0cW9xM3hNNmxVRHFrR0JWQ3VlNUgtd2NjaUlkZGtvNVJpWlRyY2VGZERORFhiV1NoYVpZOEdHaXlRWkNzYVp1clB5SE9md19NVEw0UDBIUjJFdzB2N3ZPRkstZDFTU0NrakZ2eVByXzJ4RzJoVUNMWDlNaGVrTnNRZzZPTjVkQld1SWdtWnVGU0dTSGVmRWdkeWVxVUZ3VWZsc3R0YkRLUnQ0MzJnRHp2bXdiMk52OEg4bXdnQ3lGMGp3UdIB0wFBVV95cUxOcXd0c3F3T3M0dlBkeE1veWpZeVR2RHNnRlR4cS02Q1k0NVZSYUs2cWhVcUJVaXc3U2tGdlhqNHo4VEI5UU1kZ2ZnbzctWTRVbWVVeEZIOGN4WXYtOWVReUFQdGdZZFh4dE5kR0tGdDlPbUxpYXY2SE83OXo2ZThtT0ZLMnA2S1hJNnpGSGYtb2p1azN6VUNFaU9kMF9sR3ZNUG1MVFRBMS03SGRxOGotQUJSLWJtYk9rcE1ycS1pamhHWHVmd3B1M3RxV29ya0xvdllV?oc=5",
+          "date": "2026-06-20T07:00:00.000Z",
+          "source": "Free Press Journal"
+        },
         {
           "title": "Cyberfraud gang busted, three arrested in Patna raids",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkgyZkg2WXYwREJVeERLOVY1Q2tHb2dJb1cxRVJ1QUh2S3JpUXUyS1AwVTFkTFR2TWlGQXliRjk1VW9mNzNfY0h2dHFVYXIwUFdMS1o2Qnp0bGwtUnpVdnNzX1JXdDdzNHlCZ1Q3YjNxT0djOGppbTEwaXpCNDhDTmtweDdtU1lPQVN5QW9ld0lhVlFSY0k2NFNEQXFtQnJhY1JJcmxLUjgtTUsweEI4NzRLeXR6UnFPZ21WcEU2bzQ1Z03SAcgBQVVfeXFMTTZRTF9sc0RNbEo2djBaTzlxNXNWU24tSlRwODZKZV8yaVBsclJHUUM0ZHFta2hCYkVqdURUOTU2UlJnbXp6YU5aZ3Zld1lzQmtNd0ZmbVV2MHUxaHJHSXFZMlRscWNCdVpxUXBrUC1QRHl4eHRrNTMyclBDMlgwbkxQNTB1NDMyOWFkeGFWY1lNUzdqanBSMVkzeUJtcXo0Nk1MMjFnLWItVFNRQU83VTJuWnhyYWhvMmtDWkt6ZEJ2NUw5blB5Q3M?oc=5",
@@ -165,9 +219,15 @@
       ]
     },
     "Ward 12": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Ward\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Patna Court Grants Interim Relief To Khan Sir In Firing Case, Stays Arrest Till Next Hearing",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUEFIQi1adktQZEE0cW9xM3hNNmxVRHFrR0JWQ3VlNUgtd2NjaUlkZGtvNVJpWlRyY2VGZERORFhiV1NoYVpZOEdHaXlRWkNzYVp1clB5SE9md19NVEw0UDBIUjJFdzB2N3ZPRkstZDFTU0NrakZ2eVByXzJ4RzJoVUNMWDlNaGVrTnNRZzZPTjVkQld1SWdtWnVGU0dTSGVmRWdkeWVxVUZ3VWZsc3R0YkRLUnQ0MzJnRHp2bXdiMk52OEg4bXdnQ3lGMGp3UdIB0wFBVV95cUxOcXd0c3F3T3M0dlBkeE1veWpZeVR2RHNnRlR4cS02Q1k0NVZSYUs2cWhVcUJVaXc3U2tGdlhqNHo4VEI5UU1kZ2ZnbzctWTRVbWVVeEZIOGN4WXYtOWVReUFQdGdZZFh4dE5kR0tGdDlPbUxpYXY2SE83OXo2ZThtT0ZLMnA2S1hJNnpGSGYtb2p1azN6VUNFaU9kMF9sR3ZNUG1MVFRBMS03SGRxOGotQUJSLWJtYk9rcE1ycS1pamhHWHVmd3B1M3RxV29ya0xvdllV?oc=5",
+          "date": "2026-06-20T07:00:00.000Z",
+          "source": "Free Press Journal"
+        },
         {
           "title": "Cyberfraud gang busted, three arrested in Patna raids",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkgyZkg2WXYwREJVeERLOVY1Q2tHb2dJb1cxRVJ1QUh2S3JpUXUyS1AwVTFkTFR2TWlGQXliRjk1VW9mNzNfY0h2dHFVYXIwUFdMS1o2Qnp0bGwtUnpVdnNzX1JXdDdzNHlCZ1Q3YjNxT0djOGppbTEwaXpCNDhDTmtweDdtU1lPQVN5QW9ld0lhVlFSY0k2NFNEQXFtQnJhY1JJcmxLUjgtTUsweEI4NzRLeXR6UnFPZ21WcEU2bzQ1Z03SAcgBQVVfeXFMTTZRTF9sc0RNbEo2djBaTzlxNXNWU24tSlRwODZKZV8yaVBsclJHUUM0ZHFta2hCYkVqdURUOTU2UlJnbXp6YU5aZ3Zld1lzQmtNd0ZmbVV2MHUxaHJHSXFZMlRscWNCdVpxUXBrUC1QRHl4eHRrNTMyclBDMlgwbkxQNTB1NDMyOWFkeGFWY1lNUzdqanBSMVkzeUJtcXo0Nk1MMjFnLWItVFNRQU83VTJuWnhyYWhvMmtDWkt6ZEJ2NUw5blB5Q3M?oc=5",
@@ -183,9 +243,15 @@
       ]
     },
     "Ward 24": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Ward\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Patna Court Grants Interim Relief To Khan Sir In Firing Case, Stays Arrest Till Next Hearing",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUEFIQi1adktQZEE0cW9xM3hNNmxVRHFrR0JWQ3VlNUgtd2NjaUlkZGtvNVJpWlRyY2VGZERORFhiV1NoYVpZOEdHaXlRWkNzYVp1clB5SE9md19NVEw0UDBIUjJFdzB2N3ZPRkstZDFTU0NrakZ2eVByXzJ4RzJoVUNMWDlNaGVrTnNRZzZPTjVkQld1SWdtWnVGU0dTSGVmRWdkeWVxVUZ3VWZsc3R0YkRLUnQ0MzJnRHp2bXdiMk52OEg4bXdnQ3lGMGp3UdIB0wFBVV95cUxOcXd0c3F3T3M0dlBkeE1veWpZeVR2RHNnRlR4cS02Q1k0NVZSYUs2cWhVcUJVaXc3U2tGdlhqNHo4VEI5UU1kZ2ZnbzctWTRVbWVVeEZIOGN4WXYtOWVReUFQdGdZZFh4dE5kR0tGdDlPbUxpYXY2SE83OXo2ZThtT0ZLMnA2S1hJNnpGSGYtb2p1azN6VUNFaU9kMF9sR3ZNUG1MVFRBMS03SGRxOGotQUJSLWJtYk9rcE1ycS1pamhHWHVmd3B1M3RxV29ya0xvdllV?oc=5",
+          "date": "2026-06-20T07:00:00.000Z",
+          "source": "Free Press Journal"
+        },
         {
           "title": "Cyberfraud gang busted, three arrested in Patna raids",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkgyZkg2WXYwREJVeERLOVY1Q2tHb2dJb1cxRVJ1QUh2S3JpUXUyS1AwVTFkTFR2TWlGQXliRjk1VW9mNzNfY0h2dHFVYXIwUFdMS1o2Qnp0bGwtUnpVdnNzX1JXdDdzNHlCZ1Q3YjNxT0djOGppbTEwaXpCNDhDTmtweDdtU1lPQVN5QW9ld0lhVlFSY0k2NFNEQXFtQnJhY1JJcmxLUjgtTUsweEI4NzRLeXR6UnFPZ21WcEU2bzQ1Z03SAcgBQVVfeXFMTTZRTF9sc0RNbEo2djBaTzlxNXNWU24tSlRwODZKZV8yaVBsclJHUUM0ZHFta2hCYkVqdURUOTU2UlJnbXp6YU5aZ3Zld1lzQmtNd0ZmbVV2MHUxaHJHSXFZMlRscWNCdVpxUXBrUC1QRHl4eHRrNTMyclBDMlgwbkxQNTB1NDMyOWFkeGFWY1lNUzdqanBSMVkzeUJtcXo0Nk1MMjFnLWItVFNRQU83VTJuWnhyYWhvMmtDWkt6ZEJ2NUw5blB5Q3M?oc=5",
@@ -201,9 +267,15 @@
       ]
     },
     "Ward 55": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Ward\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Patna Court Grants Interim Relief To Khan Sir In Firing Case, Stays Arrest Till Next Hearing",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUEFIQi1adktQZEE0cW9xM3hNNmxVRHFrR0JWQ3VlNUgtd2NjaUlkZGtvNVJpWlRyY2VGZERORFhiV1NoYVpZOEdHaXlRWkNzYVp1clB5SE9md19NVEw0UDBIUjJFdzB2N3ZPRkstZDFTU0NrakZ2eVByXzJ4RzJoVUNMWDlNaGVrTnNRZzZPTjVkQld1SWdtWnVGU0dTSGVmRWdkeWVxVUZ3VWZsc3R0YkRLUnQ0MzJnRHp2bXdiMk52OEg4bXdnQ3lGMGp3UdIB0wFBVV95cUxOcXd0c3F3T3M0dlBkeE1veWpZeVR2RHNnRlR4cS02Q1k0NVZSYUs2cWhVcUJVaXc3U2tGdlhqNHo4VEI5UU1kZ2ZnbzctWTRVbWVVeEZIOGN4WXYtOWVReUFQdGdZZFh4dE5kR0tGdDlPbUxpYXY2SE83OXo2ZThtT0ZLMnA2S1hJNnpGSGYtb2p1azN6VUNFaU9kMF9sR3ZNUG1MVFRBMS03SGRxOGotQUJSLWJtYk9rcE1ycS1pamhHWHVmd3B1M3RxV29ya0xvdllV?oc=5",
+          "date": "2026-06-20T07:00:00.000Z",
+          "source": "Free Press Journal"
+        },
         {
           "title": "Cyberfraud gang busted, three arrested in Patna raids",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkgyZkg2WXYwREJVeERLOVY1Q2tHb2dJb1cxRVJ1QUh2S3JpUXUyS1AwVTFkTFR2TWlGQXliRjk1VW9mNzNfY0h2dHFVYXIwUFdMS1o2Qnp0bGwtUnpVdnNzX1JXdDdzNHlCZ1Q3YjNxT0djOGppbTEwaXpCNDhDTmtweDdtU1lPQVN5QW9ld0lhVlFSY0k2NFNEQXFtQnJhY1JJcmxLUjgtTUsweEI4NzRLeXR6UnFPZ21WcEU2bzQ1Z03SAcgBQVVfeXFMTTZRTF9sc0RNbEo2djBaTzlxNXNWU24tSlRwODZKZV8yaVBsclJHUUM0ZHFta2hCYkVqdURUOTU2UlJnbXp6YU5aZ3Zld1lzQmtNd0ZmbVV2MHUxaHJHSXFZMlRscWNCdVpxUXBrUC1QRHl4eHRrNTMyclBDMlgwbkxQNTB1NDMyOWFkeGFWY1lNUzdqanBSMVkzeUJtcXo0Nk1MMjFnLWItVFNRQU83VTJuWnhyYWhvMmtDWkt6ZEJ2NUw5blB5Q3M?oc=5",
@@ -219,9 +291,15 @@
       ]
     },
     "Ward 36": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Ward\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Patna Court Grants Interim Relief To Khan Sir In Firing Case, Stays Arrest Till Next Hearing",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUEFIQi1adktQZEE0cW9xM3hNNmxVRHFrR0JWQ3VlNUgtd2NjaUlkZGtvNVJpWlRyY2VGZERORFhiV1NoYVpZOEdHaXlRWkNzYVp1clB5SE9md19NVEw0UDBIUjJFdzB2N3ZPRkstZDFTU0NrakZ2eVByXzJ4RzJoVUNMWDlNaGVrTnNRZzZPTjVkQld1SWdtWnVGU0dTSGVmRWdkeWVxVUZ3VWZsc3R0YkRLUnQ0MzJnRHp2bXdiMk52OEg4bXdnQ3lGMGp3UdIB0wFBVV95cUxOcXd0c3F3T3M0dlBkeE1veWpZeVR2RHNnRlR4cS02Q1k0NVZSYUs2cWhVcUJVaXc3U2tGdlhqNHo4VEI5UU1kZ2ZnbzctWTRVbWVVeEZIOGN4WXYtOWVReUFQdGdZZFh4dE5kR0tGdDlPbUxpYXY2SE83OXo2ZThtT0ZLMnA2S1hJNnpGSGYtb2p1azN6VUNFaU9kMF9sR3ZNUG1MVFRBMS03SGRxOGotQUJSLWJtYk9rcE1ycS1pamhHWHVmd3B1M3RxV29ya0xvdllV?oc=5",
+          "date": "2026-06-20T07:00:00.000Z",
+          "source": "Free Press Journal"
+        },
         {
           "title": "Cyberfraud gang busted, three arrested in Patna raids",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkgyZkg2WXYwREJVeERLOVY1Q2tHb2dJb1cxRVJ1QUh2S3JpUXUyS1AwVTFkTFR2TWlGQXliRjk1VW9mNzNfY0h2dHFVYXIwUFdMS1o2Qnp0bGwtUnpVdnNzX1JXdDdzNHlCZ1Q3YjNxT0djOGppbTEwaXpCNDhDTmtweDdtU1lPQVN5QW9ld0lhVlFSY0k2NFNEQXFtQnJhY1JJcmxLUjgtTUsweEI4NzRLeXR6UnFPZ21WcEU2bzQ1Z03SAcgBQVVfeXFMTTZRTF9sc0RNbEo2djBaTzlxNXNWU24tSlRwODZKZV8yaVBsclJHUUM0ZHFta2hCYkVqdURUOTU2UlJnbXp6YU5aZ3Zld1lzQmtNd0ZmbVV2MHUxaHJHSXFZMlRscWNCdVpxUXBrUC1QRHl4eHRrNTMyclBDMlgwbkxQNTB1NDMyOWFkeGFWY1lNUzdqanBSMVkzeUJtcXo0Nk1MMjFnLWItVFNRQU83VTJuWnhyYWhvMmtDWkt6ZEJ2NUw5blB5Q3M?oc=5",
@@ -237,9 +315,15 @@
       ]
     },
     "Ward 72": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Ward\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Patna Court Grants Interim Relief To Khan Sir In Firing Case, Stays Arrest Till Next Hearing",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUEFIQi1adktQZEE0cW9xM3hNNmxVRHFrR0JWQ3VlNUgtd2NjaUlkZGtvNVJpWlRyY2VGZERORFhiV1NoYVpZOEdHaXlRWkNzYVp1clB5SE9md19NVEw0UDBIUjJFdzB2N3ZPRkstZDFTU0NrakZ2eVByXzJ4RzJoVUNMWDlNaGVrTnNRZzZPTjVkQld1SWdtWnVGU0dTSGVmRWdkeWVxVUZ3VWZsc3R0YkRLUnQ0MzJnRHp2bXdiMk52OEg4bXdnQ3lGMGp3UdIB0wFBVV95cUxOcXd0c3F3T3M0dlBkeE1veWpZeVR2RHNnRlR4cS02Q1k0NVZSYUs2cWhVcUJVaXc3U2tGdlhqNHo4VEI5UU1kZ2ZnbzctWTRVbWVVeEZIOGN4WXYtOWVReUFQdGdZZFh4dE5kR0tGdDlPbUxpYXY2SE83OXo2ZThtT0ZLMnA2S1hJNnpGSGYtb2p1azN6VUNFaU9kMF9sR3ZNUG1MVFRBMS03SGRxOGotQUJSLWJtYk9rcE1ycS1pamhHWHVmd3B1M3RxV29ya0xvdllV?oc=5",
+          "date": "2026-06-20T07:00:00.000Z",
+          "source": "Free Press Journal"
+        },
         {
           "title": "Cyberfraud gang busted, three arrested in Patna raids",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkgyZkg2WXYwREJVeERLOVY1Q2tHb2dJb1cxRVJ1QUh2S3JpUXUyS1AwVTFkTFR2TWlGQXliRjk1VW9mNzNfY0h2dHFVYXIwUFdMS1o2Qnp0bGwtUnpVdnNzX1JXdDdzNHlCZ1Q3YjNxT0djOGppbTEwaXpCNDhDTmtweDdtU1lPQVN5QW9ld0lhVlFSY0k2NFNEQXFtQnJhY1JJcmxLUjgtTUsweEI4NzRLeXR6UnFPZ21WcEU2bzQ1Z03SAcgBQVVfeXFMTTZRTF9sc0RNbEo2djBaTzlxNXNWU24tSlRwODZKZV8yaVBsclJHUUM0ZHFta2hCYkVqdURUOTU2UlJnbXp6YU5aZ3Zld1lzQmtNd0ZmbVV2MHUxaHJHSXFZMlRscWNCdVpxUXBrUC1QRHl4eHRrNTMyclBDMlgwbkxQNTB1NDMyOWFkeGFWY1lNUzdqanBSMVkzeUJtcXo0Nk1MMjFnLWItVFNRQU83VTJuWnhyYWhvMmtDWkt6ZEJ2NUw5blB5Q3M?oc=5",
@@ -255,9 +339,15 @@
       ]
     },
     "Ward 59": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Ward\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Patna Court Grants Interim Relief To Khan Sir In Firing Case, Stays Arrest Till Next Hearing",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUEFIQi1adktQZEE0cW9xM3hNNmxVRHFrR0JWQ3VlNUgtd2NjaUlkZGtvNVJpWlRyY2VGZERORFhiV1NoYVpZOEdHaXlRWkNzYVp1clB5SE9md19NVEw0UDBIUjJFdzB2N3ZPRkstZDFTU0NrakZ2eVByXzJ4RzJoVUNMWDlNaGVrTnNRZzZPTjVkQld1SWdtWnVGU0dTSGVmRWdkeWVxVUZ3VWZsc3R0YkRLUnQ0MzJnRHp2bXdiMk52OEg4bXdnQ3lGMGp3UdIB0wFBVV95cUxOcXd0c3F3T3M0dlBkeE1veWpZeVR2RHNnRlR4cS02Q1k0NVZSYUs2cWhVcUJVaXc3U2tGdlhqNHo4VEI5UU1kZ2ZnbzctWTRVbWVVeEZIOGN4WXYtOWVReUFQdGdZZFh4dE5kR0tGdDlPbUxpYXY2SE83OXo2ZThtT0ZLMnA2S1hJNnpGSGYtb2p1azN6VUNFaU9kMF9sR3ZNUG1MVFRBMS03SGRxOGotQUJSLWJtYk9rcE1ycS1pamhHWHVmd3B1M3RxV29ya0xvdllV?oc=5",
+          "date": "2026-06-20T07:00:00.000Z",
+          "source": "Free Press Journal"
+        },
         {
           "title": "Cyberfraud gang busted, three arrested in Patna raids",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkgyZkg2WXYwREJVeERLOVY1Q2tHb2dJb1cxRVJ1QUh2S3JpUXUyS1AwVTFkTFR2TWlGQXliRjk1VW9mNzNfY0h2dHFVYXIwUFdMS1o2Qnp0bGwtUnpVdnNzX1JXdDdzNHlCZ1Q3YjNxT0djOGppbTEwaXpCNDhDTmtweDdtU1lPQVN5QW9ld0lhVlFSY0k2NFNEQXFtQnJhY1JJcmxLUjgtTUsweEI4NzRLeXR6UnFPZ21WcEU2bzQ1Z03SAcgBQVVfeXFMTTZRTF9sc0RNbEo2djBaTzlxNXNWU24tSlRwODZKZV8yaVBsclJHUUM0ZHFta2hCYkVqdURUOTU2UlJnbXp6YU5aZ3Zld1lzQmtNd0ZmbVV2MHUxaHJHSXFZMlRscWNCdVpxUXBrUC1QRHl4eHRrNTMyclBDMlgwbkxQNTB1NDMyOWFkeGFWY1lNUzdqanBSMVkzeUJtcXo0Nk1MMjFnLWItVFNRQU83VTJuWnhyYWhvMmtDWkt6ZEJ2NUw5blB5Q3M?oc=5",
@@ -273,9 +363,15 @@
       ]
     },
     "Ward 40": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Ward\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Patna Court Grants Interim Relief To Khan Sir In Firing Case, Stays Arrest Till Next Hearing",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUEFIQi1adktQZEE0cW9xM3hNNmxVRHFrR0JWQ3VlNUgtd2NjaUlkZGtvNVJpWlRyY2VGZERORFhiV1NoYVpZOEdHaXlRWkNzYVp1clB5SE9md19NVEw0UDBIUjJFdzB2N3ZPRkstZDFTU0NrakZ2eVByXzJ4RzJoVUNMWDlNaGVrTnNRZzZPTjVkQld1SWdtWnVGU0dTSGVmRWdkeWVxVUZ3VWZsc3R0YkRLUnQ0MzJnRHp2bXdiMk52OEg4bXdnQ3lGMGp3UdIB0wFBVV95cUxOcXd0c3F3T3M0dlBkeE1veWpZeVR2RHNnRlR4cS02Q1k0NVZSYUs2cWhVcUJVaXc3U2tGdlhqNHo4VEI5UU1kZ2ZnbzctWTRVbWVVeEZIOGN4WXYtOWVReUFQdGdZZFh4dE5kR0tGdDlPbUxpYXY2SE83OXo2ZThtT0ZLMnA2S1hJNnpGSGYtb2p1azN6VUNFaU9kMF9sR3ZNUG1MVFRBMS03SGRxOGotQUJSLWJtYk9rcE1ycS1pamhHWHVmd3B1M3RxV29ya0xvdllV?oc=5",
+          "date": "2026-06-20T07:00:00.000Z",
+          "source": "Free Press Journal"
+        },
         {
           "title": "Cyberfraud gang busted, three arrested in Patna raids",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkgyZkg2WXYwREJVeERLOVY1Q2tHb2dJb1cxRVJ1QUh2S3JpUXUyS1AwVTFkTFR2TWlGQXliRjk1VW9mNzNfY0h2dHFVYXIwUFdMS1o2Qnp0bGwtUnpVdnNzX1JXdDdzNHlCZ1Q3YjNxT0djOGppbTEwaXpCNDhDTmtweDdtU1lPQVN5QW9ld0lhVlFSY0k2NFNEQXFtQnJhY1JJcmxLUjgtTUsweEI4NzRLeXR6UnFPZ21WcEU2bzQ1Z03SAcgBQVVfeXFMTTZRTF9sc0RNbEo2djBaTzlxNXNWU24tSlRwODZKZV8yaVBsclJHUUM0ZHFta2hCYkVqdURUOTU2UlJnbXp6YU5aZ3Zld1lzQmtNd0ZmbVV2MHUxaHJHSXFZMlRscWNCdVpxUXBrUC1QRHl4eHRrNTMyclBDMlgwbkxQNTB1NDMyOWFkeGFWY1lNUzdqanBSMVkzeUJtcXo0Nk1MMjFnLWItVFNRQU83VTJuWnhyYWhvMmtDWkt6ZEJ2NUw5blB5Q3M?oc=5",
@@ -291,9 +387,15 @@
       ]
     },
     "Ward 3": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Ward\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Patna Court Grants Interim Relief To Khan Sir In Firing Case, Stays Arrest Till Next Hearing",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUEFIQi1adktQZEE0cW9xM3hNNmxVRHFrR0JWQ3VlNUgtd2NjaUlkZGtvNVJpWlRyY2VGZERORFhiV1NoYVpZOEdHaXlRWkNzYVp1clB5SE9md19NVEw0UDBIUjJFdzB2N3ZPRkstZDFTU0NrakZ2eVByXzJ4RzJoVUNMWDlNaGVrTnNRZzZPTjVkQld1SWdtWnVGU0dTSGVmRWdkeWVxVUZ3VWZsc3R0YkRLUnQ0MzJnRHp2bXdiMk52OEg4bXdnQ3lGMGp3UdIB0wFBVV95cUxOcXd0c3F3T3M0dlBkeE1veWpZeVR2RHNnRlR4cS02Q1k0NVZSYUs2cWhVcUJVaXc3U2tGdlhqNHo4VEI5UU1kZ2ZnbzctWTRVbWVVeEZIOGN4WXYtOWVReUFQdGdZZFh4dE5kR0tGdDlPbUxpYXY2SE83OXo2ZThtT0ZLMnA2S1hJNnpGSGYtb2p1azN6VUNFaU9kMF9sR3ZNUG1MVFRBMS03SGRxOGotQUJSLWJtYk9rcE1ycS1pamhHWHVmd3B1M3RxV29ya0xvdllV?oc=5",
+          "date": "2026-06-20T07:00:00.000Z",
+          "source": "Free Press Journal"
+        },
         {
           "title": "Cyberfraud gang busted, three arrested in Patna raids",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkgyZkg2WXYwREJVeERLOVY1Q2tHb2dJb1cxRVJ1QUh2S3JpUXUyS1AwVTFkTFR2TWlGQXliRjk1VW9mNzNfY0h2dHFVYXIwUFdMS1o2Qnp0bGwtUnpVdnNzX1JXdDdzNHlCZ1Q3YjNxT0djOGppbTEwaXpCNDhDTmtweDdtU1lPQVN5QW9ld0lhVlFSY0k2NFNEQXFtQnJhY1JJcmxLUjgtTUsweEI4NzRLeXR6UnFPZ21WcEU2bzQ1Z03SAcgBQVVfeXFMTTZRTF9sc0RNbEo2djBaTzlxNXNWU24tSlRwODZKZV8yaVBsclJHUUM0ZHFta2hCYkVqdURUOTU2UlJnbXp6YU5aZ3Zld1lzQmtNd0ZmbVV2MHUxaHJHSXFZMlRscWNCdVpxUXBrUC1QRHl4eHRrNTMyclBDMlgwbkxQNTB1NDMyOWFkeGFWY1lNUzdqanBSMVkzeUJtcXo0Nk1MMjFnLWItVFNRQU83VTJuWnhyYWhvMmtDWkt6ZEJ2NUw5blB5Q3M?oc=5",
@@ -309,9 +411,15 @@
       ]
     },
     "Ward 4": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Ward\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Patna Court Grants Interim Relief To Khan Sir In Firing Case, Stays Arrest Till Next Hearing",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUEFIQi1adktQZEE0cW9xM3hNNmxVRHFrR0JWQ3VlNUgtd2NjaUlkZGtvNVJpWlRyY2VGZERORFhiV1NoYVpZOEdHaXlRWkNzYVp1clB5SE9md19NVEw0UDBIUjJFdzB2N3ZPRkstZDFTU0NrakZ2eVByXzJ4RzJoVUNMWDlNaGVrTnNRZzZPTjVkQld1SWdtWnVGU0dTSGVmRWdkeWVxVUZ3VWZsc3R0YkRLUnQ0MzJnRHp2bXdiMk52OEg4bXdnQ3lGMGp3UdIB0wFBVV95cUxOcXd0c3F3T3M0dlBkeE1veWpZeVR2RHNnRlR4cS02Q1k0NVZSYUs2cWhVcUJVaXc3U2tGdlhqNHo4VEI5UU1kZ2ZnbzctWTRVbWVVeEZIOGN4WXYtOWVReUFQdGdZZFh4dE5kR0tGdDlPbUxpYXY2SE83OXo2ZThtT0ZLMnA2S1hJNnpGSGYtb2p1azN6VUNFaU9kMF9sR3ZNUG1MVFRBMS03SGRxOGotQUJSLWJtYk9rcE1ycS1pamhHWHVmd3B1M3RxV29ya0xvdllV?oc=5",
+          "date": "2026-06-20T07:00:00.000Z",
+          "source": "Free Press Journal"
+        },
         {
           "title": "Cyberfraud gang busted, three arrested in Patna raids",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkgyZkg2WXYwREJVeERLOVY1Q2tHb2dJb1cxRVJ1QUh2S3JpUXUyS1AwVTFkTFR2TWlGQXliRjk1VW9mNzNfY0h2dHFVYXIwUFdMS1o2Qnp0bGwtUnpVdnNzX1JXdDdzNHlCZ1Q3YjNxT0djOGppbTEwaXpCNDhDTmtweDdtU1lPQVN5QW9ld0lhVlFSY0k2NFNEQXFtQnJhY1JJcmxLUjgtTUsweEI4NzRLeXR6UnFPZ21WcEU2bzQ1Z03SAcgBQVVfeXFMTTZRTF9sc0RNbEo2djBaTzlxNXNWU24tSlRwODZKZV8yaVBsclJHUUM0ZHFta2hCYkVqdURUOTU2UlJnbXp6YU5aZ3Zld1lzQmtNd0ZmbVV2MHUxaHJHSXFZMlRscWNCdVpxUXBrUC1QRHl4eHRrNTMyclBDMlgwbkxQNTB1NDMyOWFkeGFWY1lNUzdqanBSMVkzeUJtcXo0Nk1MMjFnLWItVFNRQU83VTJuWnhyYWhvMmtDWkt6ZEJ2NUw5blB5Q3M?oc=5",
@@ -327,9 +435,15 @@
       ]
     },
     "Ward 8": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Ward\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Patna Court Grants Interim Relief To Khan Sir In Firing Case, Stays Arrest Till Next Hearing",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUEFIQi1adktQZEE0cW9xM3hNNmxVRHFrR0JWQ3VlNUgtd2NjaUlkZGtvNVJpWlRyY2VGZERORFhiV1NoYVpZOEdHaXlRWkNzYVp1clB5SE9md19NVEw0UDBIUjJFdzB2N3ZPRkstZDFTU0NrakZ2eVByXzJ4RzJoVUNMWDlNaGVrTnNRZzZPTjVkQld1SWdtWnVGU0dTSGVmRWdkeWVxVUZ3VWZsc3R0YkRLUnQ0MzJnRHp2bXdiMk52OEg4bXdnQ3lGMGp3UdIB0wFBVV95cUxOcXd0c3F3T3M0dlBkeE1veWpZeVR2RHNnRlR4cS02Q1k0NVZSYUs2cWhVcUJVaXc3U2tGdlhqNHo4VEI5UU1kZ2ZnbzctWTRVbWVVeEZIOGN4WXYtOWVReUFQdGdZZFh4dE5kR0tGdDlPbUxpYXY2SE83OXo2ZThtT0ZLMnA2S1hJNnpGSGYtb2p1azN6VUNFaU9kMF9sR3ZNUG1MVFRBMS03SGRxOGotQUJSLWJtYk9rcE1ycS1pamhHWHVmd3B1M3RxV29ya0xvdllV?oc=5",
+          "date": "2026-06-20T07:00:00.000Z",
+          "source": "Free Press Journal"
+        },
         {
           "title": "Cyberfraud gang busted, three arrested in Patna raids",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkgyZkg2WXYwREJVeERLOVY1Q2tHb2dJb1cxRVJ1QUh2S3JpUXUyS1AwVTFkTFR2TWlGQXliRjk1VW9mNzNfY0h2dHFVYXIwUFdMS1o2Qnp0bGwtUnpVdnNzX1JXdDdzNHlCZ1Q3YjNxT0djOGppbTEwaXpCNDhDTmtweDdtU1lPQVN5QW9ld0lhVlFSY0k2NFNEQXFtQnJhY1JJcmxLUjgtTUsweEI4NzRLeXR6UnFPZ21WcEU2bzQ1Z03SAcgBQVVfeXFMTTZRTF9sc0RNbEo2djBaTzlxNXNWU24tSlRwODZKZV8yaVBsclJHUUM0ZHFta2hCYkVqdURUOTU2UlJnbXp6YU5aZ3Zld1lzQmtNd0ZmbVV2MHUxaHJHSXFZMlRscWNCdVpxUXBrUC1QRHl4eHRrNTMyclBDMlgwbkxQNTB1NDMyOWFkeGFWY1lNUzdqanBSMVkzeUJtcXo0Nk1MMjFnLWItVFNRQU83VTJuWnhyYWhvMmtDWkt6ZEJ2NUw5blB5Q3M?oc=5",
@@ -345,9 +459,15 @@
       ]
     },
     "Ward 9": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Ward\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Patna Court Grants Interim Relief To Khan Sir In Firing Case, Stays Arrest Till Next Hearing",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUEFIQi1adktQZEE0cW9xM3hNNmxVRHFrR0JWQ3VlNUgtd2NjaUlkZGtvNVJpWlRyY2VGZERORFhiV1NoYVpZOEdHaXlRWkNzYVp1clB5SE9md19NVEw0UDBIUjJFdzB2N3ZPRkstZDFTU0NrakZ2eVByXzJ4RzJoVUNMWDlNaGVrTnNRZzZPTjVkQld1SWdtWnVGU0dTSGVmRWdkeWVxVUZ3VWZsc3R0YkRLUnQ0MzJnRHp2bXdiMk52OEg4bXdnQ3lGMGp3UdIB0wFBVV95cUxOcXd0c3F3T3M0dlBkeE1veWpZeVR2RHNnRlR4cS02Q1k0NVZSYUs2cWhVcUJVaXc3U2tGdlhqNHo4VEI5UU1kZ2ZnbzctWTRVbWVVeEZIOGN4WXYtOWVReUFQdGdZZFh4dE5kR0tGdDlPbUxpYXY2SE83OXo2ZThtT0ZLMnA2S1hJNnpGSGYtb2p1azN6VUNFaU9kMF9sR3ZNUG1MVFRBMS03SGRxOGotQUJSLWJtYk9rcE1ycS1pamhHWHVmd3B1M3RxV29ya0xvdllV?oc=5",
+          "date": "2026-06-20T07:00:00.000Z",
+          "source": "Free Press Journal"
+        },
         {
           "title": "Cyberfraud gang busted, three arrested in Patna raids",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkgyZkg2WXYwREJVeERLOVY1Q2tHb2dJb1cxRVJ1QUh2S3JpUXUyS1AwVTFkTFR2TWlGQXliRjk1VW9mNzNfY0h2dHFVYXIwUFdMS1o2Qnp0bGwtUnpVdnNzX1JXdDdzNHlCZ1Q3YjNxT0djOGppbTEwaXpCNDhDTmtweDdtU1lPQVN5QW9ld0lhVlFSY0k2NFNEQXFtQnJhY1JJcmxLUjgtTUsweEI4NzRLeXR6UnFPZ21WcEU2bzQ1Z03SAcgBQVVfeXFMTTZRTF9sc0RNbEo2djBaTzlxNXNWU24tSlRwODZKZV8yaVBsclJHUUM0ZHFta2hCYkVqdURUOTU2UlJnbXp6YU5aZ3Zld1lzQmtNd0ZmbVV2MHUxaHJHSXFZMlRscWNCdVpxUXBrUC1QRHl4eHRrNTMyclBDMlgwbkxQNTB1NDMyOWFkeGFWY1lNUzdqanBSMVkzeUJtcXo0Nk1MMjFnLWItVFNRQU83VTJuWnhyYWhvMmtDWkt6ZEJ2NUw5blB5Q3M?oc=5",
@@ -363,9 +483,15 @@
       ]
     },
     "Ward 30": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Ward\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Patna Court Grants Interim Relief To Khan Sir In Firing Case, Stays Arrest Till Next Hearing",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUEFIQi1adktQZEE0cW9xM3hNNmxVRHFrR0JWQ3VlNUgtd2NjaUlkZGtvNVJpWlRyY2VGZERORFhiV1NoYVpZOEdHaXlRWkNzYVp1clB5SE9md19NVEw0UDBIUjJFdzB2N3ZPRkstZDFTU0NrakZ2eVByXzJ4RzJoVUNMWDlNaGVrTnNRZzZPTjVkQld1SWdtWnVGU0dTSGVmRWdkeWVxVUZ3VWZsc3R0YkRLUnQ0MzJnRHp2bXdiMk52OEg4bXdnQ3lGMGp3UdIB0wFBVV95cUxOcXd0c3F3T3M0dlBkeE1veWpZeVR2RHNnRlR4cS02Q1k0NVZSYUs2cWhVcUJVaXc3U2tGdlhqNHo4VEI5UU1kZ2ZnbzctWTRVbWVVeEZIOGN4WXYtOWVReUFQdGdZZFh4dE5kR0tGdDlPbUxpYXY2SE83OXo2ZThtT0ZLMnA2S1hJNnpGSGYtb2p1azN6VUNFaU9kMF9sR3ZNUG1MVFRBMS03SGRxOGotQUJSLWJtYk9rcE1ycS1pamhHWHVmd3B1M3RxV29ya0xvdllV?oc=5",
+          "date": "2026-06-20T07:00:00.000Z",
+          "source": "Free Press Journal"
+        },
         {
           "title": "Cyberfraud gang busted, three arrested in Patna raids",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkgyZkg2WXYwREJVeERLOVY1Q2tHb2dJb1cxRVJ1QUh2S3JpUXUyS1AwVTFkTFR2TWlGQXliRjk1VW9mNzNfY0h2dHFVYXIwUFdMS1o2Qnp0bGwtUnpVdnNzX1JXdDdzNHlCZ1Q3YjNxT0djOGppbTEwaXpCNDhDTmtweDdtU1lPQVN5QW9ld0lhVlFSY0k2NFNEQXFtQnJhY1JJcmxLUjgtTUsweEI4NzRLeXR6UnFPZ21WcEU2bzQ1Z03SAcgBQVVfeXFMTTZRTF9sc0RNbEo2djBaTzlxNXNWU24tSlRwODZKZV8yaVBsclJHUUM0ZHFta2hCYkVqdURUOTU2UlJnbXp6YU5aZ3Zld1lzQmtNd0ZmbVV2MHUxaHJHSXFZMlRscWNCdVpxUXBrUC1QRHl4eHRrNTMyclBDMlgwbkxQNTB1NDMyOWFkeGFWY1lNUzdqanBSMVkzeUJtcXo0Nk1MMjFnLWItVFNRQU83VTJuWnhyYWhvMmtDWkt6ZEJ2NUw5blB5Q3M?oc=5",
@@ -381,9 +507,15 @@
       ]
     },
     "Ward 20": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Ward\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Patna Court Grants Interim Relief To Khan Sir In Firing Case, Stays Arrest Till Next Hearing",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUEFIQi1adktQZEE0cW9xM3hNNmxVRHFrR0JWQ3VlNUgtd2NjaUlkZGtvNVJpWlRyY2VGZERORFhiV1NoYVpZOEdHaXlRWkNzYVp1clB5SE9md19NVEw0UDBIUjJFdzB2N3ZPRkstZDFTU0NrakZ2eVByXzJ4RzJoVUNMWDlNaGVrTnNRZzZPTjVkQld1SWdtWnVGU0dTSGVmRWdkeWVxVUZ3VWZsc3R0YkRLUnQ0MzJnRHp2bXdiMk52OEg4bXdnQ3lGMGp3UdIB0wFBVV95cUxOcXd0c3F3T3M0dlBkeE1veWpZeVR2RHNnRlR4cS02Q1k0NVZSYUs2cWhVcUJVaXc3U2tGdlhqNHo4VEI5UU1kZ2ZnbzctWTRVbWVVeEZIOGN4WXYtOWVReUFQdGdZZFh4dE5kR0tGdDlPbUxpYXY2SE83OXo2ZThtT0ZLMnA2S1hJNnpGSGYtb2p1azN6VUNFaU9kMF9sR3ZNUG1MVFRBMS03SGRxOGotQUJSLWJtYk9rcE1ycS1pamhHWHVmd3B1M3RxV29ya0xvdllV?oc=5",
+          "date": "2026-06-20T07:00:00.000Z",
+          "source": "Free Press Journal"
+        },
         {
           "title": "Cyberfraud gang busted, three arrested in Patna raids",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkgyZkg2WXYwREJVeERLOVY1Q2tHb2dJb1cxRVJ1QUh2S3JpUXUyS1AwVTFkTFR2TWlGQXliRjk1VW9mNzNfY0h2dHFVYXIwUFdMS1o2Qnp0bGwtUnpVdnNzX1JXdDdzNHlCZ1Q3YjNxT0djOGppbTEwaXpCNDhDTmtweDdtU1lPQVN5QW9ld0lhVlFSY0k2NFNEQXFtQnJhY1JJcmxLUjgtTUsweEI4NzRLeXR6UnFPZ21WcEU2bzQ1Z03SAcgBQVVfeXFMTTZRTF9sc0RNbEo2djBaTzlxNXNWU24tSlRwODZKZV8yaVBsclJHUUM0ZHFta2hCYkVqdURUOTU2UlJnbXp6YU5aZ3Zld1lzQmtNd0ZmbVV2MHUxaHJHSXFZMlRscWNCdVpxUXBrUC1QRHl4eHRrNTMyclBDMlgwbkxQNTB1NDMyOWFkeGFWY1lNUzdqanBSMVkzeUJtcXo0Nk1MMjFnLWItVFNRQU83VTJuWnhyYWhvMmtDWkt6ZEJ2NUw5blB5Q3M?oc=5",
@@ -399,9 +531,15 @@
       ]
     },
     "Ward 16": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Ward\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Patna Court Grants Interim Relief To Khan Sir In Firing Case, Stays Arrest Till Next Hearing",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUEFIQi1adktQZEE0cW9xM3hNNmxVRHFrR0JWQ3VlNUgtd2NjaUlkZGtvNVJpWlRyY2VGZERORFhiV1NoYVpZOEdHaXlRWkNzYVp1clB5SE9md19NVEw0UDBIUjJFdzB2N3ZPRkstZDFTU0NrakZ2eVByXzJ4RzJoVUNMWDlNaGVrTnNRZzZPTjVkQld1SWdtWnVGU0dTSGVmRWdkeWVxVUZ3VWZsc3R0YkRLUnQ0MzJnRHp2bXdiMk52OEg4bXdnQ3lGMGp3UdIB0wFBVV95cUxOcXd0c3F3T3M0dlBkeE1veWpZeVR2RHNnRlR4cS02Q1k0NVZSYUs2cWhVcUJVaXc3U2tGdlhqNHo4VEI5UU1kZ2ZnbzctWTRVbWVVeEZIOGN4WXYtOWVReUFQdGdZZFh4dE5kR0tGdDlPbUxpYXY2SE83OXo2ZThtT0ZLMnA2S1hJNnpGSGYtb2p1azN6VUNFaU9kMF9sR3ZNUG1MVFRBMS03SGRxOGotQUJSLWJtYk9rcE1ycS1pamhHWHVmd3B1M3RxV29ya0xvdllV?oc=5",
+          "date": "2026-06-20T07:00:00.000Z",
+          "source": "Free Press Journal"
+        },
         {
           "title": "Cyberfraud gang busted, three arrested in Patna raids",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkgyZkg2WXYwREJVeERLOVY1Q2tHb2dJb1cxRVJ1QUh2S3JpUXUyS1AwVTFkTFR2TWlGQXliRjk1VW9mNzNfY0h2dHFVYXIwUFdMS1o2Qnp0bGwtUnpVdnNzX1JXdDdzNHlCZ1Q3YjNxT0djOGppbTEwaXpCNDhDTmtweDdtU1lPQVN5QW9ld0lhVlFSY0k2NFNEQXFtQnJhY1JJcmxLUjgtTUsweEI4NzRLeXR6UnFPZ21WcEU2bzQ1Z03SAcgBQVVfeXFMTTZRTF9sc0RNbEo2djBaTzlxNXNWU24tSlRwODZKZV8yaVBsclJHUUM0ZHFta2hCYkVqdURUOTU2UlJnbXp6YU5aZ3Zld1lzQmtNd0ZmbVV2MHUxaHJHSXFZMlRscWNCdVpxUXBrUC1QRHl4eHRrNTMyclBDMlgwbkxQNTB1NDMyOWFkeGFWY1lNUzdqanBSMVkzeUJtcXo0Nk1MMjFnLWItVFNRQU83VTJuWnhyYWhvMmtDWkt6ZEJ2NUw5blB5Q3M?oc=5",
@@ -417,9 +555,15 @@
       ]
     },
     "Ward 67": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Ward\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Patna Court Grants Interim Relief To Khan Sir In Firing Case, Stays Arrest Till Next Hearing",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUEFIQi1adktQZEE0cW9xM3hNNmxVRHFrR0JWQ3VlNUgtd2NjaUlkZGtvNVJpWlRyY2VGZERORFhiV1NoYVpZOEdHaXlRWkNzYVp1clB5SE9md19NVEw0UDBIUjJFdzB2N3ZPRkstZDFTU0NrakZ2eVByXzJ4RzJoVUNMWDlNaGVrTnNRZzZPTjVkQld1SWdtWnVGU0dTSGVmRWdkeWVxVUZ3VWZsc3R0YkRLUnQ0MzJnRHp2bXdiMk52OEg4bXdnQ3lGMGp3UdIB0wFBVV95cUxOcXd0c3F3T3M0dlBkeE1veWpZeVR2RHNnRlR4cS02Q1k0NVZSYUs2cWhVcUJVaXc3U2tGdlhqNHo4VEI5UU1kZ2ZnbzctWTRVbWVVeEZIOGN4WXYtOWVReUFQdGdZZFh4dE5kR0tGdDlPbUxpYXY2SE83OXo2ZThtT0ZLMnA2S1hJNnpGSGYtb2p1azN6VUNFaU9kMF9sR3ZNUG1MVFRBMS03SGRxOGotQUJSLWJtYk9rcE1ycS1pamhHWHVmd3B1M3RxV29ya0xvdllV?oc=5",
+          "date": "2026-06-20T07:00:00.000Z",
+          "source": "Free Press Journal"
+        },
         {
           "title": "Cyberfraud gang busted, three arrested in Patna raids",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkgyZkg2WXYwREJVeERLOVY1Q2tHb2dJb1cxRVJ1QUh2S3JpUXUyS1AwVTFkTFR2TWlGQXliRjk1VW9mNzNfY0h2dHFVYXIwUFdMS1o2Qnp0bGwtUnpVdnNzX1JXdDdzNHlCZ1Q3YjNxT0djOGppbTEwaXpCNDhDTmtweDdtU1lPQVN5QW9ld0lhVlFSY0k2NFNEQXFtQnJhY1JJcmxLUjgtTUsweEI4NzRLeXR6UnFPZ21WcEU2bzQ1Z03SAcgBQVVfeXFMTTZRTF9sc0RNbEo2djBaTzlxNXNWU24tSlRwODZKZV8yaVBsclJHUUM0ZHFta2hCYkVqdURUOTU2UlJnbXp6YU5aZ3Zld1lzQmtNd0ZmbVV2MHUxaHJHSXFZMlRscWNCdVpxUXBrUC1QRHl4eHRrNTMyclBDMlgwbkxQNTB1NDMyOWFkeGFWY1lNUzdqanBSMVkzeUJtcXo0Nk1MMjFnLWItVFNRQU83VTJuWnhyYWhvMmtDWkt6ZEJ2NUw5blB5Q3M?oc=5",
@@ -435,9 +579,15 @@
       ]
     },
     "Ward 5": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Ward\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Patna Court Grants Interim Relief To Khan Sir In Firing Case, Stays Arrest Till Next Hearing",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUEFIQi1adktQZEE0cW9xM3hNNmxVRHFrR0JWQ3VlNUgtd2NjaUlkZGtvNVJpWlRyY2VGZERORFhiV1NoYVpZOEdHaXlRWkNzYVp1clB5SE9md19NVEw0UDBIUjJFdzB2N3ZPRkstZDFTU0NrakZ2eVByXzJ4RzJoVUNMWDlNaGVrTnNRZzZPTjVkQld1SWdtWnVGU0dTSGVmRWdkeWVxVUZ3VWZsc3R0YkRLUnQ0MzJnRHp2bXdiMk52OEg4bXdnQ3lGMGp3UdIB0wFBVV95cUxOcXd0c3F3T3M0dlBkeE1veWpZeVR2RHNnRlR4cS02Q1k0NVZSYUs2cWhVcUJVaXc3U2tGdlhqNHo4VEI5UU1kZ2ZnbzctWTRVbWVVeEZIOGN4WXYtOWVReUFQdGdZZFh4dE5kR0tGdDlPbUxpYXY2SE83OXo2ZThtT0ZLMnA2S1hJNnpGSGYtb2p1azN6VUNFaU9kMF9sR3ZNUG1MVFRBMS03SGRxOGotQUJSLWJtYk9rcE1ycS1pamhHWHVmd3B1M3RxV29ya0xvdllV?oc=5",
+          "date": "2026-06-20T07:00:00.000Z",
+          "source": "Free Press Journal"
+        },
         {
           "title": "Cyberfraud gang busted, three arrested in Patna raids",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkgyZkg2WXYwREJVeERLOVY1Q2tHb2dJb1cxRVJ1QUh2S3JpUXUyS1AwVTFkTFR2TWlGQXliRjk1VW9mNzNfY0h2dHFVYXIwUFdMS1o2Qnp0bGwtUnpVdnNzX1JXdDdzNHlCZ1Q3YjNxT0djOGppbTEwaXpCNDhDTmtweDdtU1lPQVN5QW9ld0lhVlFSY0k2NFNEQXFtQnJhY1JJcmxLUjgtTUsweEI4NzRLeXR6UnFPZ21WcEU2bzQ1Z03SAcgBQVVfeXFMTTZRTF9sc0RNbEo2djBaTzlxNXNWU24tSlRwODZKZV8yaVBsclJHUUM0ZHFta2hCYkVqdURUOTU2UlJnbXp6YU5aZ3Zld1lzQmtNd0ZmbVV2MHUxaHJHSXFZMlRscWNCdVpxUXBrUC1QRHl4eHRrNTMyclBDMlgwbkxQNTB1NDMyOWFkeGFWY1lNUzdqanBSMVkzeUJtcXo0Nk1MMjFnLWItVFNRQU83VTJuWnhyYWhvMmtDWkt6ZEJ2NUw5blB5Q3M?oc=5",
@@ -453,9 +603,15 @@
       ]
     },
     "Ward 6": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Ward\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Patna Court Grants Interim Relief To Khan Sir In Firing Case, Stays Arrest Till Next Hearing",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUEFIQi1adktQZEE0cW9xM3hNNmxVRHFrR0JWQ3VlNUgtd2NjaUlkZGtvNVJpWlRyY2VGZERORFhiV1NoYVpZOEdHaXlRWkNzYVp1clB5SE9md19NVEw0UDBIUjJFdzB2N3ZPRkstZDFTU0NrakZ2eVByXzJ4RzJoVUNMWDlNaGVrTnNRZzZPTjVkQld1SWdtWnVGU0dTSGVmRWdkeWVxVUZ3VWZsc3R0YkRLUnQ0MzJnRHp2bXdiMk52OEg4bXdnQ3lGMGp3UdIB0wFBVV95cUxOcXd0c3F3T3M0dlBkeE1veWpZeVR2RHNnRlR4cS02Q1k0NVZSYUs2cWhVcUJVaXc3U2tGdlhqNHo4VEI5UU1kZ2ZnbzctWTRVbWVVeEZIOGN4WXYtOWVReUFQdGdZZFh4dE5kR0tGdDlPbUxpYXY2SE83OXo2ZThtT0ZLMnA2S1hJNnpGSGYtb2p1azN6VUNFaU9kMF9sR3ZNUG1MVFRBMS03SGRxOGotQUJSLWJtYk9rcE1ycS1pamhHWHVmd3B1M3RxV29ya0xvdllV?oc=5",
+          "date": "2026-06-20T07:00:00.000Z",
+          "source": "Free Press Journal"
+        },
         {
           "title": "Cyberfraud gang busted, three arrested in Patna raids",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkgyZkg2WXYwREJVeERLOVY1Q2tHb2dJb1cxRVJ1QUh2S3JpUXUyS1AwVTFkTFR2TWlGQXliRjk1VW9mNzNfY0h2dHFVYXIwUFdMS1o2Qnp0bGwtUnpVdnNzX1JXdDdzNHlCZ1Q3YjNxT0djOGppbTEwaXpCNDhDTmtweDdtU1lPQVN5QW9ld0lhVlFSY0k2NFNEQXFtQnJhY1JJcmxLUjgtTUsweEI4NzRLeXR6UnFPZ21WcEU2bzQ1Z03SAcgBQVVfeXFMTTZRTF9sc0RNbEo2djBaTzlxNXNWU24tSlRwODZKZV8yaVBsclJHUUM0ZHFta2hCYkVqdURUOTU2UlJnbXp6YU5aZ3Zld1lzQmtNd0ZmbVV2MHUxaHJHSXFZMlRscWNCdVpxUXBrUC1QRHl4eHRrNTMyclBDMlgwbkxQNTB1NDMyOWFkeGFWY1lNUzdqanBSMVkzeUJtcXo0Nk1MMjFnLWItVFNRQU83VTJuWnhyYWhvMmtDWkt6ZEJ2NUw5blB5Q3M?oc=5",
@@ -471,9 +627,15 @@
       ]
     },
     "Ward 29": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Ward\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Patna Court Grants Interim Relief To Khan Sir In Firing Case, Stays Arrest Till Next Hearing",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUEFIQi1adktQZEE0cW9xM3hNNmxVRHFrR0JWQ3VlNUgtd2NjaUlkZGtvNVJpWlRyY2VGZERORFhiV1NoYVpZOEdHaXlRWkNzYVp1clB5SE9md19NVEw0UDBIUjJFdzB2N3ZPRkstZDFTU0NrakZ2eVByXzJ4RzJoVUNMWDlNaGVrTnNRZzZPTjVkQld1SWdtWnVGU0dTSGVmRWdkeWVxVUZ3VWZsc3R0YkRLUnQ0MzJnRHp2bXdiMk52OEg4bXdnQ3lGMGp3UdIB0wFBVV95cUxOcXd0c3F3T3M0dlBkeE1veWpZeVR2RHNnRlR4cS02Q1k0NVZSYUs2cWhVcUJVaXc3U2tGdlhqNHo4VEI5UU1kZ2ZnbzctWTRVbWVVeEZIOGN4WXYtOWVReUFQdGdZZFh4dE5kR0tGdDlPbUxpYXY2SE83OXo2ZThtT0ZLMnA2S1hJNnpGSGYtb2p1azN6VUNFaU9kMF9sR3ZNUG1MVFRBMS03SGRxOGotQUJSLWJtYk9rcE1ycS1pamhHWHVmd3B1M3RxV29ya0xvdllV?oc=5",
+          "date": "2026-06-20T07:00:00.000Z",
+          "source": "Free Press Journal"
+        },
         {
           "title": "Cyberfraud gang busted, three arrested in Patna raids",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkgyZkg2WXYwREJVeERLOVY1Q2tHb2dJb1cxRVJ1QUh2S3JpUXUyS1AwVTFkTFR2TWlGQXliRjk1VW9mNzNfY0h2dHFVYXIwUFdMS1o2Qnp0bGwtUnpVdnNzX1JXdDdzNHlCZ1Q3YjNxT0djOGppbTEwaXpCNDhDTmtweDdtU1lPQVN5QW9ld0lhVlFSY0k2NFNEQXFtQnJhY1JJcmxLUjgtTUsweEI4NzRLeXR6UnFPZ21WcEU2bzQ1Z03SAcgBQVVfeXFMTTZRTF9sc0RNbEo2djBaTzlxNXNWU24tSlRwODZKZV8yaVBsclJHUUM0ZHFta2hCYkVqdURUOTU2UlJnbXp6YU5aZ3Zld1lzQmtNd0ZmbVV2MHUxaHJHSXFZMlRscWNCdVpxUXBrUC1QRHl4eHRrNTMyclBDMlgwbkxQNTB1NDMyOWFkeGFWY1lNUzdqanBSMVkzeUJtcXo0Nk1MMjFnLWItVFNRQU83VTJuWnhyYWhvMmtDWkt6ZEJ2NUw5blB5Q3M?oc=5",
@@ -489,9 +651,15 @@
       ]
     },
     "Ward 58": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Ward\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Patna Court Grants Interim Relief To Khan Sir In Firing Case, Stays Arrest Till Next Hearing",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUEFIQi1adktQZEE0cW9xM3hNNmxVRHFrR0JWQ3VlNUgtd2NjaUlkZGtvNVJpWlRyY2VGZERORFhiV1NoYVpZOEdHaXlRWkNzYVp1clB5SE9md19NVEw0UDBIUjJFdzB2N3ZPRkstZDFTU0NrakZ2eVByXzJ4RzJoVUNMWDlNaGVrTnNRZzZPTjVkQld1SWdtWnVGU0dTSGVmRWdkeWVxVUZ3VWZsc3R0YkRLUnQ0MzJnRHp2bXdiMk52OEg4bXdnQ3lGMGp3UdIB0wFBVV95cUxOcXd0c3F3T3M0dlBkeE1veWpZeVR2RHNnRlR4cS02Q1k0NVZSYUs2cWhVcUJVaXc3U2tGdlhqNHo4VEI5UU1kZ2ZnbzctWTRVbWVVeEZIOGN4WXYtOWVReUFQdGdZZFh4dE5kR0tGdDlPbUxpYXY2SE83OXo2ZThtT0ZLMnA2S1hJNnpGSGYtb2p1azN6VUNFaU9kMF9sR3ZNUG1MVFRBMS03SGRxOGotQUJSLWJtYk9rcE1ycS1pamhHWHVmd3B1M3RxV29ya0xvdllV?oc=5",
+          "date": "2026-06-20T07:00:00.000Z",
+          "source": "Free Press Journal"
+        },
         {
           "title": "Cyberfraud gang busted, three arrested in Patna raids",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkgyZkg2WXYwREJVeERLOVY1Q2tHb2dJb1cxRVJ1QUh2S3JpUXUyS1AwVTFkTFR2TWlGQXliRjk1VW9mNzNfY0h2dHFVYXIwUFdMS1o2Qnp0bGwtUnpVdnNzX1JXdDdzNHlCZ1Q3YjNxT0djOGppbTEwaXpCNDhDTmtweDdtU1lPQVN5QW9ld0lhVlFSY0k2NFNEQXFtQnJhY1JJcmxLUjgtTUsweEI4NzRLeXR6UnFPZ21WcEU2bzQ1Z03SAcgBQVVfeXFMTTZRTF9sc0RNbEo2djBaTzlxNXNWU24tSlRwODZKZV8yaVBsclJHUUM0ZHFta2hCYkVqdURUOTU2UlJnbXp6YU5aZ3Zld1lzQmtNd0ZmbVV2MHUxaHJHSXFZMlRscWNCdVpxUXBrUC1QRHl4eHRrNTMyclBDMlgwbkxQNTB1NDMyOWFkeGFWY1lNUzdqanBSMVkzeUJtcXo0Nk1MMjFnLWItVFNRQU83VTJuWnhyYWhvMmtDWkt6ZEJ2NUw5blB5Q3M?oc=5",
@@ -507,9 +675,15 @@
       ]
     },
     "Ward 68": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Ward\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Patna Court Grants Interim Relief To Khan Sir In Firing Case, Stays Arrest Till Next Hearing",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUEFIQi1adktQZEE0cW9xM3hNNmxVRHFrR0JWQ3VlNUgtd2NjaUlkZGtvNVJpWlRyY2VGZERORFhiV1NoYVpZOEdHaXlRWkNzYVp1clB5SE9md19NVEw0UDBIUjJFdzB2N3ZPRkstZDFTU0NrakZ2eVByXzJ4RzJoVUNMWDlNaGVrTnNRZzZPTjVkQld1SWdtWnVGU0dTSGVmRWdkeWVxVUZ3VWZsc3R0YkRLUnQ0MzJnRHp2bXdiMk52OEg4bXdnQ3lGMGp3UdIB0wFBVV95cUxOcXd0c3F3T3M0dlBkeE1veWpZeVR2RHNnRlR4cS02Q1k0NVZSYUs2cWhVcUJVaXc3U2tGdlhqNHo4VEI5UU1kZ2ZnbzctWTRVbWVVeEZIOGN4WXYtOWVReUFQdGdZZFh4dE5kR0tGdDlPbUxpYXY2SE83OXo2ZThtT0ZLMnA2S1hJNnpGSGYtb2p1azN6VUNFaU9kMF9sR3ZNUG1MVFRBMS03SGRxOGotQUJSLWJtYk9rcE1ycS1pamhHWHVmd3B1M3RxV29ya0xvdllV?oc=5",
+          "date": "2026-06-20T07:00:00.000Z",
+          "source": "Free Press Journal"
+        },
         {
           "title": "Cyberfraud gang busted, three arrested in Patna raids",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkgyZkg2WXYwREJVeERLOVY1Q2tHb2dJb1cxRVJ1QUh2S3JpUXUyS1AwVTFkTFR2TWlGQXliRjk1VW9mNzNfY0h2dHFVYXIwUFdMS1o2Qnp0bGwtUnpVdnNzX1JXdDdzNHlCZ1Q3YjNxT0djOGppbTEwaXpCNDhDTmtweDdtU1lPQVN5QW9ld0lhVlFSY0k2NFNEQXFtQnJhY1JJcmxLUjgtTUsweEI4NzRLeXR6UnFPZ21WcEU2bzQ1Z03SAcgBQVVfeXFMTTZRTF9sc0RNbEo2djBaTzlxNXNWU24tSlRwODZKZV8yaVBsclJHUUM0ZHFta2hCYkVqdURUOTU2UlJnbXp6YU5aZ3Zld1lzQmtNd0ZmbVV2MHUxaHJHSXFZMlRscWNCdVpxUXBrUC1QRHl4eHRrNTMyclBDMlgwbkxQNTB1NDMyOWFkeGFWY1lNUzdqanBSMVkzeUJtcXo0Nk1MMjFnLWItVFNRQU83VTJuWnhyYWhvMmtDWkt6ZEJ2NUw5blB5Q3M?oc=5",
@@ -525,9 +699,15 @@
       ]
     },
     "Ward 69": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Ward\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Patna Court Grants Interim Relief To Khan Sir In Firing Case, Stays Arrest Till Next Hearing",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUEFIQi1adktQZEE0cW9xM3hNNmxVRHFrR0JWQ3VlNUgtd2NjaUlkZGtvNVJpWlRyY2VGZERORFhiV1NoYVpZOEdHaXlRWkNzYVp1clB5SE9md19NVEw0UDBIUjJFdzB2N3ZPRkstZDFTU0NrakZ2eVByXzJ4RzJoVUNMWDlNaGVrTnNRZzZPTjVkQld1SWdtWnVGU0dTSGVmRWdkeWVxVUZ3VWZsc3R0YkRLUnQ0MzJnRHp2bXdiMk52OEg4bXdnQ3lGMGp3UdIB0wFBVV95cUxOcXd0c3F3T3M0dlBkeE1veWpZeVR2RHNnRlR4cS02Q1k0NVZSYUs2cWhVcUJVaXc3U2tGdlhqNHo4VEI5UU1kZ2ZnbzctWTRVbWVVeEZIOGN4WXYtOWVReUFQdGdZZFh4dE5kR0tGdDlPbUxpYXY2SE83OXo2ZThtT0ZLMnA2S1hJNnpGSGYtb2p1azN6VUNFaU9kMF9sR3ZNUG1MVFRBMS03SGRxOGotQUJSLWJtYk9rcE1ycS1pamhHWHVmd3B1M3RxV29ya0xvdllV?oc=5",
+          "date": "2026-06-20T07:00:00.000Z",
+          "source": "Free Press Journal"
+        },
         {
           "title": "Cyberfraud gang busted, three arrested in Patna raids",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkgyZkg2WXYwREJVeERLOVY1Q2tHb2dJb1cxRVJ1QUh2S3JpUXUyS1AwVTFkTFR2TWlGQXliRjk1VW9mNzNfY0h2dHFVYXIwUFdMS1o2Qnp0bGwtUnpVdnNzX1JXdDdzNHlCZ1Q3YjNxT0djOGppbTEwaXpCNDhDTmtweDdtU1lPQVN5QW9ld0lhVlFSY0k2NFNEQXFtQnJhY1JJcmxLUjgtTUsweEI4NzRLeXR6UnFPZ21WcEU2bzQ1Z03SAcgBQVVfeXFMTTZRTF9sc0RNbEo2djBaTzlxNXNWU24tSlRwODZKZV8yaVBsclJHUUM0ZHFta2hCYkVqdURUOTU2UlJnbXp6YU5aZ3Zld1lzQmtNd0ZmbVV2MHUxaHJHSXFZMlRscWNCdVpxUXBrUC1QRHl4eHRrNTMyclBDMlgwbkxQNTB1NDMyOWFkeGFWY1lNUzdqanBSMVkzeUJtcXo0Nk1MMjFnLWItVFNRQU83VTJuWnhyYWhvMmtDWkt6ZEJ2NUw5blB5Q3M?oc=5",
@@ -543,14 +723,20 @@
       ]
     },
     "Ward 22A": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Ward A\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Ward 50": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Ward\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Patna Court Grants Interim Relief To Khan Sir In Firing Case, Stays Arrest Till Next Hearing",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUEFIQi1adktQZEE0cW9xM3hNNmxVRHFrR0JWQ3VlNUgtd2NjaUlkZGtvNVJpWlRyY2VGZERORFhiV1NoYVpZOEdHaXlRWkNzYVp1clB5SE9md19NVEw0UDBIUjJFdzB2N3ZPRkstZDFTU0NrakZ2eVByXzJ4RzJoVUNMWDlNaGVrTnNRZzZPTjVkQld1SWdtWnVGU0dTSGVmRWdkeWVxVUZ3VWZsc3R0YkRLUnQ0MzJnRHp2bXdiMk52OEg4bXdnQ3lGMGp3UdIB0wFBVV95cUxOcXd0c3F3T3M0dlBkeE1veWpZeVR2RHNnRlR4cS02Q1k0NVZSYUs2cWhVcUJVaXc3U2tGdlhqNHo4VEI5UU1kZ2ZnbzctWTRVbWVVeEZIOGN4WXYtOWVReUFQdGdZZFh4dE5kR0tGdDlPbUxpYXY2SE83OXo2ZThtT0ZLMnA2S1hJNnpGSGYtb2p1azN6VUNFaU9kMF9sR3ZNUG1MVFRBMS03SGRxOGotQUJSLWJtYk9rcE1ycS1pamhHWHVmd3B1M3RxV29ya0xvdllV?oc=5",
+          "date": "2026-06-20T07:00:00.000Z",
+          "source": "Free Press Journal"
+        },
         {
           "title": "Cyberfraud gang busted, three arrested in Patna raids",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkgyZkg2WXYwREJVeERLOVY1Q2tHb2dJb1cxRVJ1QUh2S3JpUXUyS1AwVTFkTFR2TWlGQXliRjk1VW9mNzNfY0h2dHFVYXIwUFdMS1o2Qnp0bGwtUnpVdnNzX1JXdDdzNHlCZ1Q3YjNxT0djOGppbTEwaXpCNDhDTmtweDdtU1lPQVN5QW9ld0lhVlFSY0k2NFNEQXFtQnJhY1JJcmxLUjgtTUsweEI4NzRLeXR6UnFPZ21WcEU2bzQ1Z03SAcgBQVVfeXFMTTZRTF9sc0RNbEo2djBaTzlxNXNWU24tSlRwODZKZV8yaVBsclJHUUM0ZHFta2hCYkVqdURUOTU2UlJnbXp6YU5aZ3Zld1lzQmtNd0ZmbVV2MHUxaHJHSXFZMlRscWNCdVpxUXBrUC1QRHl4eHRrNTMyclBDMlgwbkxQNTB1NDMyOWFkeGFWY1lNUzdqanBSMVkzeUJtcXo0Nk1MMjFnLWItVFNRQU83VTJuWnhyYWhvMmtDWkt6ZEJ2NUw5blB5Q3M?oc=5",
@@ -566,9 +752,15 @@
       ]
     },
     "Ward 48": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Ward\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Patna Court Grants Interim Relief To Khan Sir In Firing Case, Stays Arrest Till Next Hearing",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUEFIQi1adktQZEE0cW9xM3hNNmxVRHFrR0JWQ3VlNUgtd2NjaUlkZGtvNVJpWlRyY2VGZERORFhiV1NoYVpZOEdHaXlRWkNzYVp1clB5SE9md19NVEw0UDBIUjJFdzB2N3ZPRkstZDFTU0NrakZ2eVByXzJ4RzJoVUNMWDlNaGVrTnNRZzZPTjVkQld1SWdtWnVGU0dTSGVmRWdkeWVxVUZ3VWZsc3R0YkRLUnQ0MzJnRHp2bXdiMk52OEg4bXdnQ3lGMGp3UdIB0wFBVV95cUxOcXd0c3F3T3M0dlBkeE1veWpZeVR2RHNnRlR4cS02Q1k0NVZSYUs2cWhVcUJVaXc3U2tGdlhqNHo4VEI5UU1kZ2ZnbzctWTRVbWVVeEZIOGN4WXYtOWVReUFQdGdZZFh4dE5kR0tGdDlPbUxpYXY2SE83OXo2ZThtT0ZLMnA2S1hJNnpGSGYtb2p1azN6VUNFaU9kMF9sR3ZNUG1MVFRBMS03SGRxOGotQUJSLWJtYk9rcE1ycS1pamhHWHVmd3B1M3RxV29ya0xvdllV?oc=5",
+          "date": "2026-06-20T07:00:00.000Z",
+          "source": "Free Press Journal"
+        },
         {
           "title": "Cyberfraud gang busted, three arrested in Patna raids",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkgyZkg2WXYwREJVeERLOVY1Q2tHb2dJb1cxRVJ1QUh2S3JpUXUyS1AwVTFkTFR2TWlGQXliRjk1VW9mNzNfY0h2dHFVYXIwUFdMS1o2Qnp0bGwtUnpVdnNzX1JXdDdzNHlCZ1Q3YjNxT0djOGppbTEwaXpCNDhDTmtweDdtU1lPQVN5QW9ld0lhVlFSY0k2NFNEQXFtQnJhY1JJcmxLUjgtTUsweEI4NzRLeXR6UnFPZ21WcEU2bzQ1Z03SAcgBQVVfeXFMTTZRTF9sc0RNbEo2djBaTzlxNXNWU24tSlRwODZKZV8yaVBsclJHUUM0ZHFta2hCYkVqdURUOTU2UlJnbXp6YU5aZ3Zld1lzQmtNd0ZmbVV2MHUxaHJHSXFZMlRscWNCdVpxUXBrUC1QRHl4eHRrNTMyclBDMlgwbkxQNTB1NDMyOWFkeGFWY1lNUzdqanBSMVkzeUJtcXo0Nk1MMjFnLWItVFNRQU83VTJuWnhyYWhvMmtDWkt6ZEJ2NUw5blB5Q3M?oc=5",
@@ -584,9 +776,15 @@
       ]
     },
     "Ward 37": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Ward\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Patna Court Grants Interim Relief To Khan Sir In Firing Case, Stays Arrest Till Next Hearing",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUEFIQi1adktQZEE0cW9xM3hNNmxVRHFrR0JWQ3VlNUgtd2NjaUlkZGtvNVJpWlRyY2VGZERORFhiV1NoYVpZOEdHaXlRWkNzYVp1clB5SE9md19NVEw0UDBIUjJFdzB2N3ZPRkstZDFTU0NrakZ2eVByXzJ4RzJoVUNMWDlNaGVrTnNRZzZPTjVkQld1SWdtWnVGU0dTSGVmRWdkeWVxVUZ3VWZsc3R0YkRLUnQ0MzJnRHp2bXdiMk52OEg4bXdnQ3lGMGp3UdIB0wFBVV95cUxOcXd0c3F3T3M0dlBkeE1veWpZeVR2RHNnRlR4cS02Q1k0NVZSYUs2cWhVcUJVaXc3U2tGdlhqNHo4VEI5UU1kZ2ZnbzctWTRVbWVVeEZIOGN4WXYtOWVReUFQdGdZZFh4dE5kR0tGdDlPbUxpYXY2SE83OXo2ZThtT0ZLMnA2S1hJNnpGSGYtb2p1azN6VUNFaU9kMF9sR3ZNUG1MVFRBMS03SGRxOGotQUJSLWJtYk9rcE1ycS1pamhHWHVmd3B1M3RxV29ya0xvdllV?oc=5",
+          "date": "2026-06-20T07:00:00.000Z",
+          "source": "Free Press Journal"
+        },
         {
           "title": "Cyberfraud gang busted, three arrested in Patna raids",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkgyZkg2WXYwREJVeERLOVY1Q2tHb2dJb1cxRVJ1QUh2S3JpUXUyS1AwVTFkTFR2TWlGQXliRjk1VW9mNzNfY0h2dHFVYXIwUFdMS1o2Qnp0bGwtUnpVdnNzX1JXdDdzNHlCZ1Q3YjNxT0djOGppbTEwaXpCNDhDTmtweDdtU1lPQVN5QW9ld0lhVlFSY0k2NFNEQXFtQnJhY1JJcmxLUjgtTUsweEI4NzRLeXR6UnFPZ21WcEU2bzQ1Z03SAcgBQVVfeXFMTTZRTF9sc0RNbEo2djBaTzlxNXNWU24tSlRwODZKZV8yaVBsclJHUUM0ZHFta2hCYkVqdURUOTU2UlJnbXp6YU5aZ3Zld1lzQmtNd0ZmbVV2MHUxaHJHSXFZMlRscWNCdVpxUXBrUC1QRHl4eHRrNTMyclBDMlgwbkxQNTB1NDMyOWFkeGFWY1lNUzdqanBSMVkzeUJtcXo0Nk1MMjFnLWItVFNRQU83VTJuWnhyYWhvMmtDWkt6ZEJ2NUw5blB5Q3M?oc=5",
@@ -602,9 +800,15 @@
       ]
     },
     "Ward 23": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Ward\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Patna Court Grants Interim Relief To Khan Sir In Firing Case, Stays Arrest Till Next Hearing",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUEFIQi1adktQZEE0cW9xM3hNNmxVRHFrR0JWQ3VlNUgtd2NjaUlkZGtvNVJpWlRyY2VGZERORFhiV1NoYVpZOEdHaXlRWkNzYVp1clB5SE9md19NVEw0UDBIUjJFdzB2N3ZPRkstZDFTU0NrakZ2eVByXzJ4RzJoVUNMWDlNaGVrTnNRZzZPTjVkQld1SWdtWnVGU0dTSGVmRWdkeWVxVUZ3VWZsc3R0YkRLUnQ0MzJnRHp2bXdiMk52OEg4bXdnQ3lGMGp3UdIB0wFBVV95cUxOcXd0c3F3T3M0dlBkeE1veWpZeVR2RHNnRlR4cS02Q1k0NVZSYUs2cWhVcUJVaXc3U2tGdlhqNHo4VEI5UU1kZ2ZnbzctWTRVbWVVeEZIOGN4WXYtOWVReUFQdGdZZFh4dE5kR0tGdDlPbUxpYXY2SE83OXo2ZThtT0ZLMnA2S1hJNnpGSGYtb2p1azN6VUNFaU9kMF9sR3ZNUG1MVFRBMS03SGRxOGotQUJSLWJtYk9rcE1ycS1pamhHWHVmd3B1M3RxV29ya0xvdllV?oc=5",
+          "date": "2026-06-20T07:00:00.000Z",
+          "source": "Free Press Journal"
+        },
         {
           "title": "Cyberfraud gang busted, three arrested in Patna raids",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkgyZkg2WXYwREJVeERLOVY1Q2tHb2dJb1cxRVJ1QUh2S3JpUXUyS1AwVTFkTFR2TWlGQXliRjk1VW9mNzNfY0h2dHFVYXIwUFdMS1o2Qnp0bGwtUnpVdnNzX1JXdDdzNHlCZ1Q3YjNxT0djOGppbTEwaXpCNDhDTmtweDdtU1lPQVN5QW9ld0lhVlFSY0k2NFNEQXFtQnJhY1JJcmxLUjgtTUsweEI4NzRLeXR6UnFPZ21WcEU2bzQ1Z03SAcgBQVVfeXFMTTZRTF9sc0RNbEo2djBaTzlxNXNWU24tSlRwODZKZV8yaVBsclJHUUM0ZHFta2hCYkVqdURUOTU2UlJnbXp6YU5aZ3Zld1lzQmtNd0ZmbVV2MHUxaHJHSXFZMlRscWNCdVpxUXBrUC1QRHl4eHRrNTMyclBDMlgwbkxQNTB1NDMyOWFkeGFWY1lNUzdqanBSMVkzeUJtcXo0Nk1MMjFnLWItVFNRQU83VTJuWnhyYWhvMmtDWkt6ZEJ2NUw5blB5Q3M?oc=5",
@@ -620,9 +824,15 @@
       ]
     },
     "Ward 32": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Ward\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Patna Court Grants Interim Relief To Khan Sir In Firing Case, Stays Arrest Till Next Hearing",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUEFIQi1adktQZEE0cW9xM3hNNmxVRHFrR0JWQ3VlNUgtd2NjaUlkZGtvNVJpWlRyY2VGZERORFhiV1NoYVpZOEdHaXlRWkNzYVp1clB5SE9md19NVEw0UDBIUjJFdzB2N3ZPRkstZDFTU0NrakZ2eVByXzJ4RzJoVUNMWDlNaGVrTnNRZzZPTjVkQld1SWdtWnVGU0dTSGVmRWdkeWVxVUZ3VWZsc3R0YkRLUnQ0MzJnRHp2bXdiMk52OEg4bXdnQ3lGMGp3UdIB0wFBVV95cUxOcXd0c3F3T3M0dlBkeE1veWpZeVR2RHNnRlR4cS02Q1k0NVZSYUs2cWhVcUJVaXc3U2tGdlhqNHo4VEI5UU1kZ2ZnbzctWTRVbWVVeEZIOGN4WXYtOWVReUFQdGdZZFh4dE5kR0tGdDlPbUxpYXY2SE83OXo2ZThtT0ZLMnA2S1hJNnpGSGYtb2p1azN6VUNFaU9kMF9sR3ZNUG1MVFRBMS03SGRxOGotQUJSLWJtYk9rcE1ycS1pamhHWHVmd3B1M3RxV29ya0xvdllV?oc=5",
+          "date": "2026-06-20T07:00:00.000Z",
+          "source": "Free Press Journal"
+        },
         {
           "title": "Cyberfraud gang busted, three arrested in Patna raids",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkgyZkg2WXYwREJVeERLOVY1Q2tHb2dJb1cxRVJ1QUh2S3JpUXUyS1AwVTFkTFR2TWlGQXliRjk1VW9mNzNfY0h2dHFVYXIwUFdMS1o2Qnp0bGwtUnpVdnNzX1JXdDdzNHlCZ1Q3YjNxT0djOGppbTEwaXpCNDhDTmtweDdtU1lPQVN5QW9ld0lhVlFSY0k2NFNEQXFtQnJhY1JJcmxLUjgtTUsweEI4NzRLeXR6UnFPZ21WcEU2bzQ1Z03SAcgBQVVfeXFMTTZRTF9sc0RNbEo2djBaTzlxNXNWU24tSlRwODZKZV8yaVBsclJHUUM0ZHFta2hCYkVqdURUOTU2UlJnbXp6YU5aZ3Zld1lzQmtNd0ZmbVV2MHUxaHJHSXFZMlRscWNCdVpxUXBrUC1QRHl4eHRrNTMyclBDMlgwbkxQNTB1NDMyOWFkeGFWY1lNUzdqanBSMVkzeUJtcXo0Nk1MMjFnLWItVFNRQU83VTJuWnhyYWhvMmtDWkt6ZEJ2NUw5blB5Q3M?oc=5",
@@ -638,9 +848,15 @@
       ]
     },
     "Ward 44": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Ward\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Patna Court Grants Interim Relief To Khan Sir In Firing Case, Stays Arrest Till Next Hearing",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUEFIQi1adktQZEE0cW9xM3hNNmxVRHFrR0JWQ3VlNUgtd2NjaUlkZGtvNVJpWlRyY2VGZERORFhiV1NoYVpZOEdHaXlRWkNzYVp1clB5SE9md19NVEw0UDBIUjJFdzB2N3ZPRkstZDFTU0NrakZ2eVByXzJ4RzJoVUNMWDlNaGVrTnNRZzZPTjVkQld1SWdtWnVGU0dTSGVmRWdkeWVxVUZ3VWZsc3R0YkRLUnQ0MzJnRHp2bXdiMk52OEg4bXdnQ3lGMGp3UdIB0wFBVV95cUxOcXd0c3F3T3M0dlBkeE1veWpZeVR2RHNnRlR4cS02Q1k0NVZSYUs2cWhVcUJVaXc3U2tGdlhqNHo4VEI5UU1kZ2ZnbzctWTRVbWVVeEZIOGN4WXYtOWVReUFQdGdZZFh4dE5kR0tGdDlPbUxpYXY2SE83OXo2ZThtT0ZLMnA2S1hJNnpGSGYtb2p1azN6VUNFaU9kMF9sR3ZNUG1MVFRBMS03SGRxOGotQUJSLWJtYk9rcE1ycS1pamhHWHVmd3B1M3RxV29ya0xvdllV?oc=5",
+          "date": "2026-06-20T07:00:00.000Z",
+          "source": "Free Press Journal"
+        },
         {
           "title": "Cyberfraud gang busted, three arrested in Patna raids",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkgyZkg2WXYwREJVeERLOVY1Q2tHb2dJb1cxRVJ1QUh2S3JpUXUyS1AwVTFkTFR2TWlGQXliRjk1VW9mNzNfY0h2dHFVYXIwUFdMS1o2Qnp0bGwtUnpVdnNzX1JXdDdzNHlCZ1Q3YjNxT0djOGppbTEwaXpCNDhDTmtweDdtU1lPQVN5QW9ld0lhVlFSY0k2NFNEQXFtQnJhY1JJcmxLUjgtTUsweEI4NzRLeXR6UnFPZ21WcEU2bzQ1Z03SAcgBQVVfeXFMTTZRTF9sc0RNbEo2djBaTzlxNXNWU24tSlRwODZKZV8yaVBsclJHUUM0ZHFta2hCYkVqdURUOTU2UlJnbXp6YU5aZ3Zld1lzQmtNd0ZmbVV2MHUxaHJHSXFZMlRscWNCdVpxUXBrUC1QRHl4eHRrNTMyclBDMlgwbkxQNTB1NDMyOWFkeGFWY1lNUzdqanBSMVkzeUJtcXo0Nk1MMjFnLWItVFNRQU83VTJuWnhyYWhvMmtDWkt6ZEJ2NUw5blB5Q3M?oc=5",
@@ -656,9 +872,15 @@
       ]
     },
     "Ward 53": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Ward\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Patna Court Grants Interim Relief To Khan Sir In Firing Case, Stays Arrest Till Next Hearing",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUEFIQi1adktQZEE0cW9xM3hNNmxVRHFrR0JWQ3VlNUgtd2NjaUlkZGtvNVJpWlRyY2VGZERORFhiV1NoYVpZOEdHaXlRWkNzYVp1clB5SE9md19NVEw0UDBIUjJFdzB2N3ZPRkstZDFTU0NrakZ2eVByXzJ4RzJoVUNMWDlNaGVrTnNRZzZPTjVkQld1SWdtWnVGU0dTSGVmRWdkeWVxVUZ3VWZsc3R0YkRLUnQ0MzJnRHp2bXdiMk52OEg4bXdnQ3lGMGp3UdIB0wFBVV95cUxOcXd0c3F3T3M0dlBkeE1veWpZeVR2RHNnRlR4cS02Q1k0NVZSYUs2cWhVcUJVaXc3U2tGdlhqNHo4VEI5UU1kZ2ZnbzctWTRVbWVVeEZIOGN4WXYtOWVReUFQdGdZZFh4dE5kR0tGdDlPbUxpYXY2SE83OXo2ZThtT0ZLMnA2S1hJNnpGSGYtb2p1azN6VUNFaU9kMF9sR3ZNUG1MVFRBMS03SGRxOGotQUJSLWJtYk9rcE1ycS1pamhHWHVmd3B1M3RxV29ya0xvdllV?oc=5",
+          "date": "2026-06-20T07:00:00.000Z",
+          "source": "Free Press Journal"
+        },
         {
           "title": "Cyberfraud gang busted, three arrested in Patna raids",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkgyZkg2WXYwREJVeERLOVY1Q2tHb2dJb1cxRVJ1QUh2S3JpUXUyS1AwVTFkTFR2TWlGQXliRjk1VW9mNzNfY0h2dHFVYXIwUFdMS1o2Qnp0bGwtUnpVdnNzX1JXdDdzNHlCZ1Q3YjNxT0djOGppbTEwaXpCNDhDTmtweDdtU1lPQVN5QW9ld0lhVlFSY0k2NFNEQXFtQnJhY1JJcmxLUjgtTUsweEI4NzRLeXR6UnFPZ21WcEU2bzQ1Z03SAcgBQVVfeXFMTTZRTF9sc0RNbEo2djBaTzlxNXNWU24tSlRwODZKZV8yaVBsclJHUUM0ZHFta2hCYkVqdURUOTU2UlJnbXp6YU5aZ3Zld1lzQmtNd0ZmbVV2MHUxaHJHSXFZMlRscWNCdVpxUXBrUC1QRHl4eHRrNTMyclBDMlgwbkxQNTB1NDMyOWFkeGFWY1lNUzdqanBSMVkzeUJtcXo0Nk1MMjFnLWItVFNRQU83VTJuWnhyYWhvMmtDWkt6ZEJ2NUw5blB5Q3M?oc=5",
@@ -674,9 +896,15 @@
       ]
     },
     "Ward 2": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Ward\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Patna Court Grants Interim Relief To Khan Sir In Firing Case, Stays Arrest Till Next Hearing",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUEFIQi1adktQZEE0cW9xM3hNNmxVRHFrR0JWQ3VlNUgtd2NjaUlkZGtvNVJpWlRyY2VGZERORFhiV1NoYVpZOEdHaXlRWkNzYVp1clB5SE9md19NVEw0UDBIUjJFdzB2N3ZPRkstZDFTU0NrakZ2eVByXzJ4RzJoVUNMWDlNaGVrTnNRZzZPTjVkQld1SWdtWnVGU0dTSGVmRWdkeWVxVUZ3VWZsc3R0YkRLUnQ0MzJnRHp2bXdiMk52OEg4bXdnQ3lGMGp3UdIB0wFBVV95cUxOcXd0c3F3T3M0dlBkeE1veWpZeVR2RHNnRlR4cS02Q1k0NVZSYUs2cWhVcUJVaXc3U2tGdlhqNHo4VEI5UU1kZ2ZnbzctWTRVbWVVeEZIOGN4WXYtOWVReUFQdGdZZFh4dE5kR0tGdDlPbUxpYXY2SE83OXo2ZThtT0ZLMnA2S1hJNnpGSGYtb2p1azN6VUNFaU9kMF9sR3ZNUG1MVFRBMS03SGRxOGotQUJSLWJtYk9rcE1ycS1pamhHWHVmd3B1M3RxV29ya0xvdllV?oc=5",
+          "date": "2026-06-20T07:00:00.000Z",
+          "source": "Free Press Journal"
+        },
         {
           "title": "Cyberfraud gang busted, three arrested in Patna raids",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkgyZkg2WXYwREJVeERLOVY1Q2tHb2dJb1cxRVJ1QUh2S3JpUXUyS1AwVTFkTFR2TWlGQXliRjk1VW9mNzNfY0h2dHFVYXIwUFdMS1o2Qnp0bGwtUnpVdnNzX1JXdDdzNHlCZ1Q3YjNxT0djOGppbTEwaXpCNDhDTmtweDdtU1lPQVN5QW9ld0lhVlFSY0k2NFNEQXFtQnJhY1JJcmxLUjgtTUsweEI4NzRLeXR6UnFPZ21WcEU2bzQ1Z03SAcgBQVVfeXFMTTZRTF9sc0RNbEo2djBaTzlxNXNWU24tSlRwODZKZV8yaVBsclJHUUM0ZHFta2hCYkVqdURUOTU2UlJnbXp6YU5aZ3Zld1lzQmtNd0ZmbVV2MHUxaHJHSXFZMlRscWNCdVpxUXBrUC1QRHl4eHRrNTMyclBDMlgwbkxQNTB1NDMyOWFkeGFWY1lNUzdqanBSMVkzeUJtcXo0Nk1MMjFnLWItVFNRQU83VTJuWnhyYWhvMmtDWkt6ZEJ2NUw5blB5Q3M?oc=5",
@@ -692,9 +920,15 @@
       ]
     },
     "Ward 45": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Ward\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Patna Court Grants Interim Relief To Khan Sir In Firing Case, Stays Arrest Till Next Hearing",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUEFIQi1adktQZEE0cW9xM3hNNmxVRHFrR0JWQ3VlNUgtd2NjaUlkZGtvNVJpWlRyY2VGZERORFhiV1NoYVpZOEdHaXlRWkNzYVp1clB5SE9md19NVEw0UDBIUjJFdzB2N3ZPRkstZDFTU0NrakZ2eVByXzJ4RzJoVUNMWDlNaGVrTnNRZzZPTjVkQld1SWdtWnVGU0dTSGVmRWdkeWVxVUZ3VWZsc3R0YkRLUnQ0MzJnRHp2bXdiMk52OEg4bXdnQ3lGMGp3UdIB0wFBVV95cUxOcXd0c3F3T3M0dlBkeE1veWpZeVR2RHNnRlR4cS02Q1k0NVZSYUs2cWhVcUJVaXc3U2tGdlhqNHo4VEI5UU1kZ2ZnbzctWTRVbWVVeEZIOGN4WXYtOWVReUFQdGdZZFh4dE5kR0tGdDlPbUxpYXY2SE83OXo2ZThtT0ZLMnA2S1hJNnpGSGYtb2p1azN6VUNFaU9kMF9sR3ZNUG1MVFRBMS03SGRxOGotQUJSLWJtYk9rcE1ycS1pamhHWHVmd3B1M3RxV29ya0xvdllV?oc=5",
+          "date": "2026-06-20T07:00:00.000Z",
+          "source": "Free Press Journal"
+        },
         {
           "title": "Cyberfraud gang busted, three arrested in Patna raids",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkgyZkg2WXYwREJVeERLOVY1Q2tHb2dJb1cxRVJ1QUh2S3JpUXUyS1AwVTFkTFR2TWlGQXliRjk1VW9mNzNfY0h2dHFVYXIwUFdMS1o2Qnp0bGwtUnpVdnNzX1JXdDdzNHlCZ1Q3YjNxT0djOGppbTEwaXpCNDhDTmtweDdtU1lPQVN5QW9ld0lhVlFSY0k2NFNEQXFtQnJhY1JJcmxLUjgtTUsweEI4NzRLeXR6UnFPZ21WcEU2bzQ1Z03SAcgBQVVfeXFMTTZRTF9sc0RNbEo2djBaTzlxNXNWU24tSlRwODZKZV8yaVBsclJHUUM0ZHFta2hCYkVqdURUOTU2UlJnbXp6YU5aZ3Zld1lzQmtNd0ZmbVV2MHUxaHJHSXFZMlRscWNCdVpxUXBrUC1QRHl4eHRrNTMyclBDMlgwbkxQNTB1NDMyOWFkeGFWY1lNUzdqanBSMVkzeUJtcXo0Nk1MMjFnLWItVFNRQU83VTJuWnhyYWhvMmtDWkt6ZEJ2NUw5blB5Q3M?oc=5",
@@ -710,9 +944,15 @@
       ]
     },
     "Ward 71": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Ward\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Patna Court Grants Interim Relief To Khan Sir In Firing Case, Stays Arrest Till Next Hearing",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUEFIQi1adktQZEE0cW9xM3hNNmxVRHFrR0JWQ3VlNUgtd2NjaUlkZGtvNVJpWlRyY2VGZERORFhiV1NoYVpZOEdHaXlRWkNzYVp1clB5SE9md19NVEw0UDBIUjJFdzB2N3ZPRkstZDFTU0NrakZ2eVByXzJ4RzJoVUNMWDlNaGVrTnNRZzZPTjVkQld1SWdtWnVGU0dTSGVmRWdkeWVxVUZ3VWZsc3R0YkRLUnQ0MzJnRHp2bXdiMk52OEg4bXdnQ3lGMGp3UdIB0wFBVV95cUxOcXd0c3F3T3M0dlBkeE1veWpZeVR2RHNnRlR4cS02Q1k0NVZSYUs2cWhVcUJVaXc3U2tGdlhqNHo4VEI5UU1kZ2ZnbzctWTRVbWVVeEZIOGN4WXYtOWVReUFQdGdZZFh4dE5kR0tGdDlPbUxpYXY2SE83OXo2ZThtT0ZLMnA2S1hJNnpGSGYtb2p1azN6VUNFaU9kMF9sR3ZNUG1MVFRBMS03SGRxOGotQUJSLWJtYk9rcE1ycS1pamhHWHVmd3B1M3RxV29ya0xvdllV?oc=5",
+          "date": "2026-06-20T07:00:00.000Z",
+          "source": "Free Press Journal"
+        },
         {
           "title": "Cyberfraud gang busted, three arrested in Patna raids",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkgyZkg2WXYwREJVeERLOVY1Q2tHb2dJb1cxRVJ1QUh2S3JpUXUyS1AwVTFkTFR2TWlGQXliRjk1VW9mNzNfY0h2dHFVYXIwUFdMS1o2Qnp0bGwtUnpVdnNzX1JXdDdzNHlCZ1Q3YjNxT0djOGppbTEwaXpCNDhDTmtweDdtU1lPQVN5QW9ld0lhVlFSY0k2NFNEQXFtQnJhY1JJcmxLUjgtTUsweEI4NzRLeXR6UnFPZ21WcEU2bzQ1Z03SAcgBQVVfeXFMTTZRTF9sc0RNbEo2djBaTzlxNXNWU24tSlRwODZKZV8yaVBsclJHUUM0ZHFta2hCYkVqdURUOTU2UlJnbXp6YU5aZ3Zld1lzQmtNd0ZmbVV2MHUxaHJHSXFZMlRscWNCdVpxUXBrUC1QRHl4eHRrNTMyclBDMlgwbkxQNTB1NDMyOWFkeGFWY1lNUzdqanBSMVkzeUJtcXo0Nk1MMjFnLWItVFNRQU83VTJuWnhyYWhvMmtDWkt6ZEJ2NUw5blB5Q3M?oc=5",
@@ -728,9 +968,15 @@
       ]
     },
     "Ward 49": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Ward\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Patna Court Grants Interim Relief To Khan Sir In Firing Case, Stays Arrest Till Next Hearing",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUEFIQi1adktQZEE0cW9xM3hNNmxVRHFrR0JWQ3VlNUgtd2NjaUlkZGtvNVJpWlRyY2VGZERORFhiV1NoYVpZOEdHaXlRWkNzYVp1clB5SE9md19NVEw0UDBIUjJFdzB2N3ZPRkstZDFTU0NrakZ2eVByXzJ4RzJoVUNMWDlNaGVrTnNRZzZPTjVkQld1SWdtWnVGU0dTSGVmRWdkeWVxVUZ3VWZsc3R0YkRLUnQ0MzJnRHp2bXdiMk52OEg4bXdnQ3lGMGp3UdIB0wFBVV95cUxOcXd0c3F3T3M0dlBkeE1veWpZeVR2RHNnRlR4cS02Q1k0NVZSYUs2cWhVcUJVaXc3U2tGdlhqNHo4VEI5UU1kZ2ZnbzctWTRVbWVVeEZIOGN4WXYtOWVReUFQdGdZZFh4dE5kR0tGdDlPbUxpYXY2SE83OXo2ZThtT0ZLMnA2S1hJNnpGSGYtb2p1azN6VUNFaU9kMF9sR3ZNUG1MVFRBMS03SGRxOGotQUJSLWJtYk9rcE1ycS1pamhHWHVmd3B1M3RxV29ya0xvdllV?oc=5",
+          "date": "2026-06-20T07:00:00.000Z",
+          "source": "Free Press Journal"
+        },
         {
           "title": "Cyberfraud gang busted, three arrested in Patna raids",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkgyZkg2WXYwREJVeERLOVY1Q2tHb2dJb1cxRVJ1QUh2S3JpUXUyS1AwVTFkTFR2TWlGQXliRjk1VW9mNzNfY0h2dHFVYXIwUFdMS1o2Qnp0bGwtUnpVdnNzX1JXdDdzNHlCZ1Q3YjNxT0djOGppbTEwaXpCNDhDTmtweDdtU1lPQVN5QW9ld0lhVlFSY0k2NFNEQXFtQnJhY1JJcmxLUjgtTUsweEI4NzRLeXR6UnFPZ21WcEU2bzQ1Z03SAcgBQVVfeXFMTTZRTF9sc0RNbEo2djBaTzlxNXNWU24tSlRwODZKZV8yaVBsclJHUUM0ZHFta2hCYkVqdURUOTU2UlJnbXp6YU5aZ3Zld1lzQmtNd0ZmbVV2MHUxaHJHSXFZMlRscWNCdVpxUXBrUC1QRHl4eHRrNTMyclBDMlgwbkxQNTB1NDMyOWFkeGFWY1lNUzdqanBSMVkzeUJtcXo0Nk1MMjFnLWItVFNRQU83VTJuWnhyYWhvMmtDWkt6ZEJ2NUw5blB5Q3M?oc=5",
@@ -746,9 +992,15 @@
       ]
     },
     "Ward 13": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Ward\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Patna Court Grants Interim Relief To Khan Sir In Firing Case, Stays Arrest Till Next Hearing",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUEFIQi1adktQZEE0cW9xM3hNNmxVRHFrR0JWQ3VlNUgtd2NjaUlkZGtvNVJpWlRyY2VGZERORFhiV1NoYVpZOEdHaXlRWkNzYVp1clB5SE9md19NVEw0UDBIUjJFdzB2N3ZPRkstZDFTU0NrakZ2eVByXzJ4RzJoVUNMWDlNaGVrTnNRZzZPTjVkQld1SWdtWnVGU0dTSGVmRWdkeWVxVUZ3VWZsc3R0YkRLUnQ0MzJnRHp2bXdiMk52OEg4bXdnQ3lGMGp3UdIB0wFBVV95cUxOcXd0c3F3T3M0dlBkeE1veWpZeVR2RHNnRlR4cS02Q1k0NVZSYUs2cWhVcUJVaXc3U2tGdlhqNHo4VEI5UU1kZ2ZnbzctWTRVbWVVeEZIOGN4WXYtOWVReUFQdGdZZFh4dE5kR0tGdDlPbUxpYXY2SE83OXo2ZThtT0ZLMnA2S1hJNnpGSGYtb2p1azN6VUNFaU9kMF9sR3ZNUG1MVFRBMS03SGRxOGotQUJSLWJtYk9rcE1ycS1pamhHWHVmd3B1M3RxV29ya0xvdllV?oc=5",
+          "date": "2026-06-20T07:00:00.000Z",
+          "source": "Free Press Journal"
+        },
         {
           "title": "Cyberfraud gang busted, three arrested in Patna raids",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkgyZkg2WXYwREJVeERLOVY1Q2tHb2dJb1cxRVJ1QUh2S3JpUXUyS1AwVTFkTFR2TWlGQXliRjk1VW9mNzNfY0h2dHFVYXIwUFdMS1o2Qnp0bGwtUnpVdnNzX1JXdDdzNHlCZ1Q3YjNxT0djOGppbTEwaXpCNDhDTmtweDdtU1lPQVN5QW9ld0lhVlFSY0k2NFNEQXFtQnJhY1JJcmxLUjgtTUsweEI4NzRLeXR6UnFPZ21WcEU2bzQ1Z03SAcgBQVVfeXFMTTZRTF9sc0RNbEo2djBaTzlxNXNWU24tSlRwODZKZV8yaVBsclJHUUM0ZHFta2hCYkVqdURUOTU2UlJnbXp6YU5aZ3Zld1lzQmtNd0ZmbVV2MHUxaHJHSXFZMlRscWNCdVpxUXBrUC1QRHl4eHRrNTMyclBDMlgwbkxQNTB1NDMyOWFkeGFWY1lNUzdqanBSMVkzeUJtcXo0Nk1MMjFnLWItVFNRQU83VTJuWnhyYWhvMmtDWkt6ZEJ2NUw5blB5Q3M?oc=5",
@@ -764,9 +1016,15 @@
       ]
     },
     "Ward 14": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Ward\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Patna Court Grants Interim Relief To Khan Sir In Firing Case, Stays Arrest Till Next Hearing",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUEFIQi1adktQZEE0cW9xM3hNNmxVRHFrR0JWQ3VlNUgtd2NjaUlkZGtvNVJpWlRyY2VGZERORFhiV1NoYVpZOEdHaXlRWkNzYVp1clB5SE9md19NVEw0UDBIUjJFdzB2N3ZPRkstZDFTU0NrakZ2eVByXzJ4RzJoVUNMWDlNaGVrTnNRZzZPTjVkQld1SWdtWnVGU0dTSGVmRWdkeWVxVUZ3VWZsc3R0YkRLUnQ0MzJnRHp2bXdiMk52OEg4bXdnQ3lGMGp3UdIB0wFBVV95cUxOcXd0c3F3T3M0dlBkeE1veWpZeVR2RHNnRlR4cS02Q1k0NVZSYUs2cWhVcUJVaXc3U2tGdlhqNHo4VEI5UU1kZ2ZnbzctWTRVbWVVeEZIOGN4WXYtOWVReUFQdGdZZFh4dE5kR0tGdDlPbUxpYXY2SE83OXo2ZThtT0ZLMnA2S1hJNnpGSGYtb2p1azN6VUNFaU9kMF9sR3ZNUG1MVFRBMS03SGRxOGotQUJSLWJtYk9rcE1ycS1pamhHWHVmd3B1M3RxV29ya0xvdllV?oc=5",
+          "date": "2026-06-20T07:00:00.000Z",
+          "source": "Free Press Journal"
+        },
         {
           "title": "Cyberfraud gang busted, three arrested in Patna raids",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkgyZkg2WXYwREJVeERLOVY1Q2tHb2dJb1cxRVJ1QUh2S3JpUXUyS1AwVTFkTFR2TWlGQXliRjk1VW9mNzNfY0h2dHFVYXIwUFdMS1o2Qnp0bGwtUnpVdnNzX1JXdDdzNHlCZ1Q3YjNxT0djOGppbTEwaXpCNDhDTmtweDdtU1lPQVN5QW9ld0lhVlFSY0k2NFNEQXFtQnJhY1JJcmxLUjgtTUsweEI4NzRLeXR6UnFPZ21WcEU2bzQ1Z03SAcgBQVVfeXFMTTZRTF9sc0RNbEo2djBaTzlxNXNWU24tSlRwODZKZV8yaVBsclJHUUM0ZHFta2hCYkVqdURUOTU2UlJnbXp6YU5aZ3Zld1lzQmtNd0ZmbVV2MHUxaHJHSXFZMlRscWNCdVpxUXBrUC1QRHl4eHRrNTMyclBDMlgwbkxQNTB1NDMyOWFkeGFWY1lNUzdqanBSMVkzeUJtcXo0Nk1MMjFnLWItVFNRQU83VTJuWnhyYWhvMmtDWkt6ZEJ2NUw5blB5Q3M?oc=5",
@@ -782,9 +1040,15 @@
       ]
     },
     "Ward 19": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Ward\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Patna Court Grants Interim Relief To Khan Sir In Firing Case, Stays Arrest Till Next Hearing",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUEFIQi1adktQZEE0cW9xM3hNNmxVRHFrR0JWQ3VlNUgtd2NjaUlkZGtvNVJpWlRyY2VGZERORFhiV1NoYVpZOEdHaXlRWkNzYVp1clB5SE9md19NVEw0UDBIUjJFdzB2N3ZPRkstZDFTU0NrakZ2eVByXzJ4RzJoVUNMWDlNaGVrTnNRZzZPTjVkQld1SWdtWnVGU0dTSGVmRWdkeWVxVUZ3VWZsc3R0YkRLUnQ0MzJnRHp2bXdiMk52OEg4bXdnQ3lGMGp3UdIB0wFBVV95cUxOcXd0c3F3T3M0dlBkeE1veWpZeVR2RHNnRlR4cS02Q1k0NVZSYUs2cWhVcUJVaXc3U2tGdlhqNHo4VEI5UU1kZ2ZnbzctWTRVbWVVeEZIOGN4WXYtOWVReUFQdGdZZFh4dE5kR0tGdDlPbUxpYXY2SE83OXo2ZThtT0ZLMnA2S1hJNnpGSGYtb2p1azN6VUNFaU9kMF9sR3ZNUG1MVFRBMS03SGRxOGotQUJSLWJtYk9rcE1ycS1pamhHWHVmd3B1M3RxV29ya0xvdllV?oc=5",
+          "date": "2026-06-20T07:00:00.000Z",
+          "source": "Free Press Journal"
+        },
         {
           "title": "Cyberfraud gang busted, three arrested in Patna raids",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkgyZkg2WXYwREJVeERLOVY1Q2tHb2dJb1cxRVJ1QUh2S3JpUXUyS1AwVTFkTFR2TWlGQXliRjk1VW9mNzNfY0h2dHFVYXIwUFdMS1o2Qnp0bGwtUnpVdnNzX1JXdDdzNHlCZ1Q3YjNxT0djOGppbTEwaXpCNDhDTmtweDdtU1lPQVN5QW9ld0lhVlFSY0k2NFNEQXFtQnJhY1JJcmxLUjgtTUsweEI4NzRLeXR6UnFPZ21WcEU2bzQ1Z03SAcgBQVVfeXFMTTZRTF9sc0RNbEo2djBaTzlxNXNWU24tSlRwODZKZV8yaVBsclJHUUM0ZHFta2hCYkVqdURUOTU2UlJnbXp6YU5aZ3Zld1lzQmtNd0ZmbVV2MHUxaHJHSXFZMlRscWNCdVpxUXBrUC1QRHl4eHRrNTMyclBDMlgwbkxQNTB1NDMyOWFkeGFWY1lNUzdqanBSMVkzeUJtcXo0Nk1MMjFnLWItVFNRQU83VTJuWnhyYWhvMmtDWkt6ZEJ2NUw5blB5Q3M?oc=5",
@@ -800,9 +1064,15 @@
       ]
     },
     "Ward 25": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Ward\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Patna Court Grants Interim Relief To Khan Sir In Firing Case, Stays Arrest Till Next Hearing",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUEFIQi1adktQZEE0cW9xM3hNNmxVRHFrR0JWQ3VlNUgtd2NjaUlkZGtvNVJpWlRyY2VGZERORFhiV1NoYVpZOEdHaXlRWkNzYVp1clB5SE9md19NVEw0UDBIUjJFdzB2N3ZPRkstZDFTU0NrakZ2eVByXzJ4RzJoVUNMWDlNaGVrTnNRZzZPTjVkQld1SWdtWnVGU0dTSGVmRWdkeWVxVUZ3VWZsc3R0YkRLUnQ0MzJnRHp2bXdiMk52OEg4bXdnQ3lGMGp3UdIB0wFBVV95cUxOcXd0c3F3T3M0dlBkeE1veWpZeVR2RHNnRlR4cS02Q1k0NVZSYUs2cWhVcUJVaXc3U2tGdlhqNHo4VEI5UU1kZ2ZnbzctWTRVbWVVeEZIOGN4WXYtOWVReUFQdGdZZFh4dE5kR0tGdDlPbUxpYXY2SE83OXo2ZThtT0ZLMnA2S1hJNnpGSGYtb2p1azN6VUNFaU9kMF9sR3ZNUG1MVFRBMS03SGRxOGotQUJSLWJtYk9rcE1ycS1pamhHWHVmd3B1M3RxV29ya0xvdllV?oc=5",
+          "date": "2026-06-20T07:00:00.000Z",
+          "source": "Free Press Journal"
+        },
         {
           "title": "Cyberfraud gang busted, three arrested in Patna raids",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkgyZkg2WXYwREJVeERLOVY1Q2tHb2dJb1cxRVJ1QUh2S3JpUXUyS1AwVTFkTFR2TWlGQXliRjk1VW9mNzNfY0h2dHFVYXIwUFdMS1o2Qnp0bGwtUnpVdnNzX1JXdDdzNHlCZ1Q3YjNxT0djOGppbTEwaXpCNDhDTmtweDdtU1lPQVN5QW9ld0lhVlFSY0k2NFNEQXFtQnJhY1JJcmxLUjgtTUsweEI4NzRLeXR6UnFPZ21WcEU2bzQ1Z03SAcgBQVVfeXFMTTZRTF9sc0RNbEo2djBaTzlxNXNWU24tSlRwODZKZV8yaVBsclJHUUM0ZHFta2hCYkVqdURUOTU2UlJnbXp6YU5aZ3Zld1lzQmtNd0ZmbVV2MHUxaHJHSXFZMlRscWNCdVpxUXBrUC1QRHl4eHRrNTMyclBDMlgwbkxQNTB1NDMyOWFkeGFWY1lNUzdqanBSMVkzeUJtcXo0Nk1MMjFnLWItVFNRQU83VTJuWnhyYWhvMmtDWkt6ZEJ2NUw5blB5Q3M?oc=5",
@@ -818,9 +1088,15 @@
       ]
     },
     "Ward 28": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Ward\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Patna Court Grants Interim Relief To Khan Sir In Firing Case, Stays Arrest Till Next Hearing",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUEFIQi1adktQZEE0cW9xM3hNNmxVRHFrR0JWQ3VlNUgtd2NjaUlkZGtvNVJpWlRyY2VGZERORFhiV1NoYVpZOEdHaXlRWkNzYVp1clB5SE9md19NVEw0UDBIUjJFdzB2N3ZPRkstZDFTU0NrakZ2eVByXzJ4RzJoVUNMWDlNaGVrTnNRZzZPTjVkQld1SWdtWnVGU0dTSGVmRWdkeWVxVUZ3VWZsc3R0YkRLUnQ0MzJnRHp2bXdiMk52OEg4bXdnQ3lGMGp3UdIB0wFBVV95cUxOcXd0c3F3T3M0dlBkeE1veWpZeVR2RHNnRlR4cS02Q1k0NVZSYUs2cWhVcUJVaXc3U2tGdlhqNHo4VEI5UU1kZ2ZnbzctWTRVbWVVeEZIOGN4WXYtOWVReUFQdGdZZFh4dE5kR0tGdDlPbUxpYXY2SE83OXo2ZThtT0ZLMnA2S1hJNnpGSGYtb2p1azN6VUNFaU9kMF9sR3ZNUG1MVFRBMS03SGRxOGotQUJSLWJtYk9rcE1ycS1pamhHWHVmd3B1M3RxV29ya0xvdllV?oc=5",
+          "date": "2026-06-20T07:00:00.000Z",
+          "source": "Free Press Journal"
+        },
         {
           "title": "Cyberfraud gang busted, three arrested in Patna raids",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkgyZkg2WXYwREJVeERLOVY1Q2tHb2dJb1cxRVJ1QUh2S3JpUXUyS1AwVTFkTFR2TWlGQXliRjk1VW9mNzNfY0h2dHFVYXIwUFdMS1o2Qnp0bGwtUnpVdnNzX1JXdDdzNHlCZ1Q3YjNxT0djOGppbTEwaXpCNDhDTmtweDdtU1lPQVN5QW9ld0lhVlFSY0k2NFNEQXFtQnJhY1JJcmxLUjgtTUsweEI4NzRLeXR6UnFPZ21WcEU2bzQ1Z03SAcgBQVVfeXFMTTZRTF9sc0RNbEo2djBaTzlxNXNWU24tSlRwODZKZV8yaVBsclJHUUM0ZHFta2hCYkVqdURUOTU2UlJnbXp6YU5aZ3Zld1lzQmtNd0ZmbVV2MHUxaHJHSXFZMlRscWNCdVpxUXBrUC1QRHl4eHRrNTMyclBDMlgwbkxQNTB1NDMyOWFkeGFWY1lNUzdqanBSMVkzeUJtcXo0Nk1MMjFnLWItVFNRQU83VTJuWnhyYWhvMmtDWkt6ZEJ2NUw5blB5Q3M?oc=5",
@@ -836,9 +1112,15 @@
       ]
     },
     "Ward 64": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Ward\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Patna Court Grants Interim Relief To Khan Sir In Firing Case, Stays Arrest Till Next Hearing",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUEFIQi1adktQZEE0cW9xM3hNNmxVRHFrR0JWQ3VlNUgtd2NjaUlkZGtvNVJpWlRyY2VGZERORFhiV1NoYVpZOEdHaXlRWkNzYVp1clB5SE9md19NVEw0UDBIUjJFdzB2N3ZPRkstZDFTU0NrakZ2eVByXzJ4RzJoVUNMWDlNaGVrTnNRZzZPTjVkQld1SWdtWnVGU0dTSGVmRWdkeWVxVUZ3VWZsc3R0YkRLUnQ0MzJnRHp2bXdiMk52OEg4bXdnQ3lGMGp3UdIB0wFBVV95cUxOcXd0c3F3T3M0dlBkeE1veWpZeVR2RHNnRlR4cS02Q1k0NVZSYUs2cWhVcUJVaXc3U2tGdlhqNHo4VEI5UU1kZ2ZnbzctWTRVbWVVeEZIOGN4WXYtOWVReUFQdGdZZFh4dE5kR0tGdDlPbUxpYXY2SE83OXo2ZThtT0ZLMnA2S1hJNnpGSGYtb2p1azN6VUNFaU9kMF9sR3ZNUG1MVFRBMS03SGRxOGotQUJSLWJtYk9rcE1ycS1pamhHWHVmd3B1M3RxV29ya0xvdllV?oc=5",
+          "date": "2026-06-20T07:00:00.000Z",
+          "source": "Free Press Journal"
+        },
         {
           "title": "Cyberfraud gang busted, three arrested in Patna raids",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkgyZkg2WXYwREJVeERLOVY1Q2tHb2dJb1cxRVJ1QUh2S3JpUXUyS1AwVTFkTFR2TWlGQXliRjk1VW9mNzNfY0h2dHFVYXIwUFdMS1o2Qnp0bGwtUnpVdnNzX1JXdDdzNHlCZ1Q3YjNxT0djOGppbTEwaXpCNDhDTmtweDdtU1lPQVN5QW9ld0lhVlFSY0k2NFNEQXFtQnJhY1JJcmxLUjgtTUsweEI4NzRLeXR6UnFPZ21WcEU2bzQ1Z03SAcgBQVVfeXFMTTZRTF9sc0RNbEo2djBaTzlxNXNWU24tSlRwODZKZV8yaVBsclJHUUM0ZHFta2hCYkVqdURUOTU2UlJnbXp6YU5aZ3Zld1lzQmtNd0ZmbVV2MHUxaHJHSXFZMlRscWNCdVpxUXBrUC1QRHl4eHRrNTMyclBDMlgwbkxQNTB1NDMyOWFkeGFWY1lNUzdqanBSMVkzeUJtcXo0Nk1MMjFnLWItVFNRQU83VTJuWnhyYWhvMmtDWkt6ZEJ2NUw5blB5Q3M?oc=5",
@@ -854,9 +1136,15 @@
       ]
     },
     "Ward 43": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Ward\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Patna Court Grants Interim Relief To Khan Sir In Firing Case, Stays Arrest Till Next Hearing",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUEFIQi1adktQZEE0cW9xM3hNNmxVRHFrR0JWQ3VlNUgtd2NjaUlkZGtvNVJpWlRyY2VGZERORFhiV1NoYVpZOEdHaXlRWkNzYVp1clB5SE9md19NVEw0UDBIUjJFdzB2N3ZPRkstZDFTU0NrakZ2eVByXzJ4RzJoVUNMWDlNaGVrTnNRZzZPTjVkQld1SWdtWnVGU0dTSGVmRWdkeWVxVUZ3VWZsc3R0YkRLUnQ0MzJnRHp2bXdiMk52OEg4bXdnQ3lGMGp3UdIB0wFBVV95cUxOcXd0c3F3T3M0dlBkeE1veWpZeVR2RHNnRlR4cS02Q1k0NVZSYUs2cWhVcUJVaXc3U2tGdlhqNHo4VEI5UU1kZ2ZnbzctWTRVbWVVeEZIOGN4WXYtOWVReUFQdGdZZFh4dE5kR0tGdDlPbUxpYXY2SE83OXo2ZThtT0ZLMnA2S1hJNnpGSGYtb2p1azN6VUNFaU9kMF9sR3ZNUG1MVFRBMS03SGRxOGotQUJSLWJtYk9rcE1ycS1pamhHWHVmd3B1M3RxV29ya0xvdllV?oc=5",
+          "date": "2026-06-20T07:00:00.000Z",
+          "source": "Free Press Journal"
+        },
         {
           "title": "Cyberfraud gang busted, three arrested in Patna raids",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkgyZkg2WXYwREJVeERLOVY1Q2tHb2dJb1cxRVJ1QUh2S3JpUXUyS1AwVTFkTFR2TWlGQXliRjk1VW9mNzNfY0h2dHFVYXIwUFdMS1o2Qnp0bGwtUnpVdnNzX1JXdDdzNHlCZ1Q3YjNxT0djOGppbTEwaXpCNDhDTmtweDdtU1lPQVN5QW9ld0lhVlFSY0k2NFNEQXFtQnJhY1JJcmxLUjgtTUsweEI4NzRLeXR6UnFPZ21WcEU2bzQ1Z03SAcgBQVVfeXFMTTZRTF9sc0RNbEo2djBaTzlxNXNWU24tSlRwODZKZV8yaVBsclJHUUM0ZHFta2hCYkVqdURUOTU2UlJnbXp6YU5aZ3Zld1lzQmtNd0ZmbVV2MHUxaHJHSXFZMlRscWNCdVpxUXBrUC1QRHl4eHRrNTMyclBDMlgwbkxQNTB1NDMyOWFkeGFWY1lNUzdqanBSMVkzeUJtcXo0Nk1MMjFnLWItVFNRQU83VTJuWnhyYWhvMmtDWkt6ZEJ2NUw5blB5Q3M?oc=5",
@@ -872,14 +1160,20 @@
       ]
     },
     "Ward14": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Ward14\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Ward 33": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Ward\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Patna Court Grants Interim Relief To Khan Sir In Firing Case, Stays Arrest Till Next Hearing",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUEFIQi1adktQZEE0cW9xM3hNNmxVRHFrR0JWQ3VlNUgtd2NjaUlkZGtvNVJpWlRyY2VGZERORFhiV1NoYVpZOEdHaXlRWkNzYVp1clB5SE9md19NVEw0UDBIUjJFdzB2N3ZPRkstZDFTU0NrakZ2eVByXzJ4RzJoVUNMWDlNaGVrTnNRZzZPTjVkQld1SWdtWnVGU0dTSGVmRWdkeWVxVUZ3VWZsc3R0YkRLUnQ0MzJnRHp2bXdiMk52OEg4bXdnQ3lGMGp3UdIB0wFBVV95cUxOcXd0c3F3T3M0dlBkeE1veWpZeVR2RHNnRlR4cS02Q1k0NVZSYUs2cWhVcUJVaXc3U2tGdlhqNHo4VEI5UU1kZ2ZnbzctWTRVbWVVeEZIOGN4WXYtOWVReUFQdGdZZFh4dE5kR0tGdDlPbUxpYXY2SE83OXo2ZThtT0ZLMnA2S1hJNnpGSGYtb2p1azN6VUNFaU9kMF9sR3ZNUG1MVFRBMS03SGRxOGotQUJSLWJtYk9rcE1ycS1pamhHWHVmd3B1M3RxV29ya0xvdllV?oc=5",
+          "date": "2026-06-20T07:00:00.000Z",
+          "source": "Free Press Journal"
+        },
         {
           "title": "Cyberfraud gang busted, three arrested in Patna raids",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkgyZkg2WXYwREJVeERLOVY1Q2tHb2dJb1cxRVJ1QUh2S3JpUXUyS1AwVTFkTFR2TWlGQXliRjk1VW9mNzNfY0h2dHFVYXIwUFdMS1o2Qnp0bGwtUnpVdnNzX1JXdDdzNHlCZ1Q3YjNxT0djOGppbTEwaXpCNDhDTmtweDdtU1lPQVN5QW9ld0lhVlFSY0k2NFNEQXFtQnJhY1JJcmxLUjgtTUsweEI4NzRLeXR6UnFPZ21WcEU2bzQ1Z03SAcgBQVVfeXFMTTZRTF9sc0RNbEo2djBaTzlxNXNWU24tSlRwODZKZV8yaVBsclJHUUM0ZHFta2hCYkVqdURUOTU2UlJnbXp6YU5aZ3Zld1lzQmtNd0ZmbVV2MHUxaHJHSXFZMlRscWNCdVpxUXBrUC1QRHl4eHRrNTMyclBDMlgwbkxQNTB1NDMyOWFkeGFWY1lNUzdqanBSMVkzeUJtcXo0Nk1MMjFnLWItVFNRQU83VTJuWnhyYWhvMmtDWkt6ZEJ2NUw5blB5Q3M?oc=5",
@@ -895,9 +1189,15 @@
       ]
     },
     "Ward 57": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Ward\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Patna Court Grants Interim Relief To Khan Sir In Firing Case, Stays Arrest Till Next Hearing",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUEFIQi1adktQZEE0cW9xM3hNNmxVRHFrR0JWQ3VlNUgtd2NjaUlkZGtvNVJpWlRyY2VGZERORFhiV1NoYVpZOEdHaXlRWkNzYVp1clB5SE9md19NVEw0UDBIUjJFdzB2N3ZPRkstZDFTU0NrakZ2eVByXzJ4RzJoVUNMWDlNaGVrTnNRZzZPTjVkQld1SWdtWnVGU0dTSGVmRWdkeWVxVUZ3VWZsc3R0YkRLUnQ0MzJnRHp2bXdiMk52OEg4bXdnQ3lGMGp3UdIB0wFBVV95cUxOcXd0c3F3T3M0dlBkeE1veWpZeVR2RHNnRlR4cS02Q1k0NVZSYUs2cWhVcUJVaXc3U2tGdlhqNHo4VEI5UU1kZ2ZnbzctWTRVbWVVeEZIOGN4WXYtOWVReUFQdGdZZFh4dE5kR0tGdDlPbUxpYXY2SE83OXo2ZThtT0ZLMnA2S1hJNnpGSGYtb2p1azN6VUNFaU9kMF9sR3ZNUG1MVFRBMS03SGRxOGotQUJSLWJtYk9rcE1ycS1pamhHWHVmd3B1M3RxV29ya0xvdllV?oc=5",
+          "date": "2026-06-20T07:00:00.000Z",
+          "source": "Free Press Journal"
+        },
         {
           "title": "Cyberfraud gang busted, three arrested in Patna raids",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkgyZkg2WXYwREJVeERLOVY1Q2tHb2dJb1cxRVJ1QUh2S3JpUXUyS1AwVTFkTFR2TWlGQXliRjk1VW9mNzNfY0h2dHFVYXIwUFdMS1o2Qnp0bGwtUnpVdnNzX1JXdDdzNHlCZ1Q3YjNxT0djOGppbTEwaXpCNDhDTmtweDdtU1lPQVN5QW9ld0lhVlFSY0k2NFNEQXFtQnJhY1JJcmxLUjgtTUsweEI4NzRLeXR6UnFPZ21WcEU2bzQ1Z03SAcgBQVVfeXFMTTZRTF9sc0RNbEo2djBaTzlxNXNWU24tSlRwODZKZV8yaVBsclJHUUM0ZHFta2hCYkVqdURUOTU2UlJnbXp6YU5aZ3Zld1lzQmtNd0ZmbVV2MHUxaHJHSXFZMlRscWNCdVpxUXBrUC1QRHl4eHRrNTMyclBDMlgwbkxQNTB1NDMyOWFkeGFWY1lNUzdqanBSMVkzeUJtcXo0Nk1MMjFnLWItVFNRQU83VTJuWnhyYWhvMmtDWkt6ZEJ2NUw5blB5Q3M?oc=5",
@@ -913,9 +1213,15 @@
       ]
     },
     "Ward 63": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Ward\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Patna Court Grants Interim Relief To Khan Sir In Firing Case, Stays Arrest Till Next Hearing",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUEFIQi1adktQZEE0cW9xM3hNNmxVRHFrR0JWQ3VlNUgtd2NjaUlkZGtvNVJpWlRyY2VGZERORFhiV1NoYVpZOEdHaXlRWkNzYVp1clB5SE9md19NVEw0UDBIUjJFdzB2N3ZPRkstZDFTU0NrakZ2eVByXzJ4RzJoVUNMWDlNaGVrTnNRZzZPTjVkQld1SWdtWnVGU0dTSGVmRWdkeWVxVUZ3VWZsc3R0YkRLUnQ0MzJnRHp2bXdiMk52OEg4bXdnQ3lGMGp3UdIB0wFBVV95cUxOcXd0c3F3T3M0dlBkeE1veWpZeVR2RHNnRlR4cS02Q1k0NVZSYUs2cWhVcUJVaXc3U2tGdlhqNHo4VEI5UU1kZ2ZnbzctWTRVbWVVeEZIOGN4WXYtOWVReUFQdGdZZFh4dE5kR0tGdDlPbUxpYXY2SE83OXo2ZThtT0ZLMnA2S1hJNnpGSGYtb2p1azN6VUNFaU9kMF9sR3ZNUG1MVFRBMS03SGRxOGotQUJSLWJtYk9rcE1ycS1pamhHWHVmd3B1M3RxV29ya0xvdllV?oc=5",
+          "date": "2026-06-20T07:00:00.000Z",
+          "source": "Free Press Journal"
+        },
         {
           "title": "Cyberfraud gang busted, three arrested in Patna raids",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkgyZkg2WXYwREJVeERLOVY1Q2tHb2dJb1cxRVJ1QUh2S3JpUXUyS1AwVTFkTFR2TWlGQXliRjk1VW9mNzNfY0h2dHFVYXIwUFdMS1o2Qnp0bGwtUnpVdnNzX1JXdDdzNHlCZ1Q3YjNxT0djOGppbTEwaXpCNDhDTmtweDdtU1lPQVN5QW9ld0lhVlFSY0k2NFNEQXFtQnJhY1JJcmxLUjgtTUsweEI4NzRLeXR6UnFPZ21WcEU2bzQ1Z03SAcgBQVVfeXFMTTZRTF9sc0RNbEo2djBaTzlxNXNWU24tSlRwODZKZV8yaVBsclJHUUM0ZHFta2hCYkVqdURUOTU2UlJnbXp6YU5aZ3Zld1lzQmtNd0ZmbVV2MHUxaHJHSXFZMlRscWNCdVpxUXBrUC1QRHl4eHRrNTMyclBDMlgwbkxQNTB1NDMyOWFkeGFWY1lNUzdqanBSMVkzeUJtcXo0Nk1MMjFnLWItVFNRQU83VTJuWnhyYWhvMmtDWkt6ZEJ2NUw5blB5Q3M?oc=5",
@@ -931,9 +1237,15 @@
       ]
     },
     "Ward 46": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Ward\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Patna Court Grants Interim Relief To Khan Sir In Firing Case, Stays Arrest Till Next Hearing",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUEFIQi1adktQZEE0cW9xM3hNNmxVRHFrR0JWQ3VlNUgtd2NjaUlkZGtvNVJpWlRyY2VGZERORFhiV1NoYVpZOEdHaXlRWkNzYVp1clB5SE9md19NVEw0UDBIUjJFdzB2N3ZPRkstZDFTU0NrakZ2eVByXzJ4RzJoVUNMWDlNaGVrTnNRZzZPTjVkQld1SWdtWnVGU0dTSGVmRWdkeWVxVUZ3VWZsc3R0YkRLUnQ0MzJnRHp2bXdiMk52OEg4bXdnQ3lGMGp3UdIB0wFBVV95cUxOcXd0c3F3T3M0dlBkeE1veWpZeVR2RHNnRlR4cS02Q1k0NVZSYUs2cWhVcUJVaXc3U2tGdlhqNHo4VEI5UU1kZ2ZnbzctWTRVbWVVeEZIOGN4WXYtOWVReUFQdGdZZFh4dE5kR0tGdDlPbUxpYXY2SE83OXo2ZThtT0ZLMnA2S1hJNnpGSGYtb2p1azN6VUNFaU9kMF9sR3ZNUG1MVFRBMS03SGRxOGotQUJSLWJtYk9rcE1ycS1pamhHWHVmd3B1M3RxV29ya0xvdllV?oc=5",
+          "date": "2026-06-20T07:00:00.000Z",
+          "source": "Free Press Journal"
+        },
         {
           "title": "Cyberfraud gang busted, three arrested in Patna raids",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkgyZkg2WXYwREJVeERLOVY1Q2tHb2dJb1cxRVJ1QUh2S3JpUXUyS1AwVTFkTFR2TWlGQXliRjk1VW9mNzNfY0h2dHFVYXIwUFdMS1o2Qnp0bGwtUnpVdnNzX1JXdDdzNHlCZ1Q3YjNxT0djOGppbTEwaXpCNDhDTmtweDdtU1lPQVN5QW9ld0lhVlFSY0k2NFNEQXFtQnJhY1JJcmxLUjgtTUsweEI4NzRLeXR6UnFPZ21WcEU2bzQ1Z03SAcgBQVVfeXFMTTZRTF9sc0RNbEo2djBaTzlxNXNWU24tSlRwODZKZV8yaVBsclJHUUM0ZHFta2hCYkVqdURUOTU2UlJnbXp6YU5aZ3Zld1lzQmtNd0ZmbVV2MHUxaHJHSXFZMlRscWNCdVpxUXBrUC1QRHl4eHRrNTMyclBDMlgwbkxQNTB1NDMyOWFkeGFWY1lNUzdqanBSMVkzeUJtcXo0Nk1MMjFnLWItVFNRQU83VTJuWnhyYWhvMmtDWkt6ZEJ2NUw5blB5Q3M?oc=5",
@@ -949,14 +1261,20 @@
       ]
     },
     "Ward 22B": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Ward B\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Ward 62": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Ward\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Patna Court Grants Interim Relief To Khan Sir In Firing Case, Stays Arrest Till Next Hearing",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUEFIQi1adktQZEE0cW9xM3hNNmxVRHFrR0JWQ3VlNUgtd2NjaUlkZGtvNVJpWlRyY2VGZERORFhiV1NoYVpZOEdHaXlRWkNzYVp1clB5SE9md19NVEw0UDBIUjJFdzB2N3ZPRkstZDFTU0NrakZ2eVByXzJ4RzJoVUNMWDlNaGVrTnNRZzZPTjVkQld1SWdtWnVGU0dTSGVmRWdkeWVxVUZ3VWZsc3R0YkRLUnQ0MzJnRHp2bXdiMk52OEg4bXdnQ3lGMGp3UdIB0wFBVV95cUxOcXd0c3F3T3M0dlBkeE1veWpZeVR2RHNnRlR4cS02Q1k0NVZSYUs2cWhVcUJVaXc3U2tGdlhqNHo4VEI5UU1kZ2ZnbzctWTRVbWVVeEZIOGN4WXYtOWVReUFQdGdZZFh4dE5kR0tGdDlPbUxpYXY2SE83OXo2ZThtT0ZLMnA2S1hJNnpGSGYtb2p1azN6VUNFaU9kMF9sR3ZNUG1MVFRBMS03SGRxOGotQUJSLWJtYk9rcE1ycS1pamhHWHVmd3B1M3RxV29ya0xvdllV?oc=5",
+          "date": "2026-06-20T07:00:00.000Z",
+          "source": "Free Press Journal"
+        },
         {
           "title": "Cyberfraud gang busted, three arrested in Patna raids",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkgyZkg2WXYwREJVeERLOVY1Q2tHb2dJb1cxRVJ1QUh2S3JpUXUyS1AwVTFkTFR2TWlGQXliRjk1VW9mNzNfY0h2dHFVYXIwUFdMS1o2Qnp0bGwtUnpVdnNzX1JXdDdzNHlCZ1Q3YjNxT0djOGppbTEwaXpCNDhDTmtweDdtU1lPQVN5QW9ld0lhVlFSY0k2NFNEQXFtQnJhY1JJcmxLUjgtTUsweEI4NzRLeXR6UnFPZ21WcEU2bzQ1Z03SAcgBQVVfeXFMTTZRTF9sc0RNbEo2djBaTzlxNXNWU24tSlRwODZKZV8yaVBsclJHUUM0ZHFta2hCYkVqdURUOTU2UlJnbXp6YU5aZ3Zld1lzQmtNd0ZmbVV2MHUxaHJHSXFZMlRscWNCdVpxUXBrUC1QRHl4eHRrNTMyclBDMlgwbkxQNTB1NDMyOWFkeGFWY1lNUzdqanBSMVkzeUJtcXo0Nk1MMjFnLWItVFNRQU83VTJuWnhyYWhvMmtDWkt6ZEJ2NUw5blB5Q3M?oc=5",
@@ -972,9 +1290,15 @@
       ]
     },
     "Ward 60": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Ward\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Patna Court Grants Interim Relief To Khan Sir In Firing Case, Stays Arrest Till Next Hearing",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUEFIQi1adktQZEE0cW9xM3hNNmxVRHFrR0JWQ3VlNUgtd2NjaUlkZGtvNVJpWlRyY2VGZERORFhiV1NoYVpZOEdHaXlRWkNzYVp1clB5SE9md19NVEw0UDBIUjJFdzB2N3ZPRkstZDFTU0NrakZ2eVByXzJ4RzJoVUNMWDlNaGVrTnNRZzZPTjVkQld1SWdtWnVGU0dTSGVmRWdkeWVxVUZ3VWZsc3R0YkRLUnQ0MzJnRHp2bXdiMk52OEg4bXdnQ3lGMGp3UdIB0wFBVV95cUxOcXd0c3F3T3M0dlBkeE1veWpZeVR2RHNnRlR4cS02Q1k0NVZSYUs2cWhVcUJVaXc3U2tGdlhqNHo4VEI5UU1kZ2ZnbzctWTRVbWVVeEZIOGN4WXYtOWVReUFQdGdZZFh4dE5kR0tGdDlPbUxpYXY2SE83OXo2ZThtT0ZLMnA2S1hJNnpGSGYtb2p1azN6VUNFaU9kMF9sR3ZNUG1MVFRBMS03SGRxOGotQUJSLWJtYk9rcE1ycS1pamhHWHVmd3B1M3RxV29ya0xvdllV?oc=5",
+          "date": "2026-06-20T07:00:00.000Z",
+          "source": "Free Press Journal"
+        },
         {
           "title": "Cyberfraud gang busted, three arrested in Patna raids",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkgyZkg2WXYwREJVeERLOVY1Q2tHb2dJb1cxRVJ1QUh2S3JpUXUyS1AwVTFkTFR2TWlGQXliRjk1VW9mNzNfY0h2dHFVYXIwUFdMS1o2Qnp0bGwtUnpVdnNzX1JXdDdzNHlCZ1Q3YjNxT0djOGppbTEwaXpCNDhDTmtweDdtU1lPQVN5QW9ld0lhVlFSY0k2NFNEQXFtQnJhY1JJcmxLUjgtTUsweEI4NzRLeXR6UnFPZ21WcEU2bzQ1Z03SAcgBQVVfeXFMTTZRTF9sc0RNbEo2djBaTzlxNXNWU24tSlRwODZKZV8yaVBsclJHUUM0ZHFta2hCYkVqdURUOTU2UlJnbXp6YU5aZ3Zld1lzQmtNd0ZmbVV2MHUxaHJHSXFZMlRscWNCdVpxUXBrUC1QRHl4eHRrNTMyclBDMlgwbkxQNTB1NDMyOWFkeGFWY1lNUzdqanBSMVkzeUJtcXo0Nk1MMjFnLWItVFNRQU83VTJuWnhyYWhvMmtDWkt6ZEJ2NUw5blB5Q3M?oc=5",
@@ -990,9 +1314,15 @@
       ]
     },
     "Ward 70": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Ward\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Patna Court Grants Interim Relief To Khan Sir In Firing Case, Stays Arrest Till Next Hearing",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUEFIQi1adktQZEE0cW9xM3hNNmxVRHFrR0JWQ3VlNUgtd2NjaUlkZGtvNVJpWlRyY2VGZERORFhiV1NoYVpZOEdHaXlRWkNzYVp1clB5SE9md19NVEw0UDBIUjJFdzB2N3ZPRkstZDFTU0NrakZ2eVByXzJ4RzJoVUNMWDlNaGVrTnNRZzZPTjVkQld1SWdtWnVGU0dTSGVmRWdkeWVxVUZ3VWZsc3R0YkRLUnQ0MzJnRHp2bXdiMk52OEg4bXdnQ3lGMGp3UdIB0wFBVV95cUxOcXd0c3F3T3M0dlBkeE1veWpZeVR2RHNnRlR4cS02Q1k0NVZSYUs2cWhVcUJVaXc3U2tGdlhqNHo4VEI5UU1kZ2ZnbzctWTRVbWVVeEZIOGN4WXYtOWVReUFQdGdZZFh4dE5kR0tGdDlPbUxpYXY2SE83OXo2ZThtT0ZLMnA2S1hJNnpGSGYtb2p1azN6VUNFaU9kMF9sR3ZNUG1MVFRBMS03SGRxOGotQUJSLWJtYk9rcE1ycS1pamhHWHVmd3B1M3RxV29ya0xvdllV?oc=5",
+          "date": "2026-06-20T07:00:00.000Z",
+          "source": "Free Press Journal"
+        },
         {
           "title": "Cyberfraud gang busted, three arrested in Patna raids",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkgyZkg2WXYwREJVeERLOVY1Q2tHb2dJb1cxRVJ1QUh2S3JpUXUyS1AwVTFkTFR2TWlGQXliRjk1VW9mNzNfY0h2dHFVYXIwUFdMS1o2Qnp0bGwtUnpVdnNzX1JXdDdzNHlCZ1Q3YjNxT0djOGppbTEwaXpCNDhDTmtweDdtU1lPQVN5QW9ld0lhVlFSY0k2NFNEQXFtQnJhY1JJcmxLUjgtTUsweEI4NzRLeXR6UnFPZ21WcEU2bzQ1Z03SAcgBQVVfeXFMTTZRTF9sc0RNbEo2djBaTzlxNXNWU24tSlRwODZKZV8yaVBsclJHUUM0ZHFta2hCYkVqdURUOTU2UlJnbXp6YU5aZ3Zld1lzQmtNd0ZmbVV2MHUxaHJHSXFZMlRscWNCdVpxUXBrUC1QRHl4eHRrNTMyclBDMlgwbkxQNTB1NDMyOWFkeGFWY1lNUzdqanBSMVkzeUJtcXo0Nk1MMjFnLWItVFNRQU83VTJuWnhyYWhvMmtDWkt6ZEJ2NUw5blB5Q3M?oc=5",
@@ -1008,9 +1338,15 @@
       ]
     },
     "Ward 7": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Ward\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Patna Court Grants Interim Relief To Khan Sir In Firing Case, Stays Arrest Till Next Hearing",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUEFIQi1adktQZEE0cW9xM3hNNmxVRHFrR0JWQ3VlNUgtd2NjaUlkZGtvNVJpWlRyY2VGZERORFhiV1NoYVpZOEdHaXlRWkNzYVp1clB5SE9md19NVEw0UDBIUjJFdzB2N3ZPRkstZDFTU0NrakZ2eVByXzJ4RzJoVUNMWDlNaGVrTnNRZzZPTjVkQld1SWdtWnVGU0dTSGVmRWdkeWVxVUZ3VWZsc3R0YkRLUnQ0MzJnRHp2bXdiMk52OEg4bXdnQ3lGMGp3UdIB0wFBVV95cUxOcXd0c3F3T3M0dlBkeE1veWpZeVR2RHNnRlR4cS02Q1k0NVZSYUs2cWhVcUJVaXc3U2tGdlhqNHo4VEI5UU1kZ2ZnbzctWTRVbWVVeEZIOGN4WXYtOWVReUFQdGdZZFh4dE5kR0tGdDlPbUxpYXY2SE83OXo2ZThtT0ZLMnA2S1hJNnpGSGYtb2p1azN6VUNFaU9kMF9sR3ZNUG1MVFRBMS03SGRxOGotQUJSLWJtYk9rcE1ycS1pamhHWHVmd3B1M3RxV29ya0xvdllV?oc=5",
+          "date": "2026-06-20T07:00:00.000Z",
+          "source": "Free Press Journal"
+        },
         {
           "title": "Cyberfraud gang busted, three arrested in Patna raids",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkgyZkg2WXYwREJVeERLOVY1Q2tHb2dJb1cxRVJ1QUh2S3JpUXUyS1AwVTFkTFR2TWlGQXliRjk1VW9mNzNfY0h2dHFVYXIwUFdMS1o2Qnp0bGwtUnpVdnNzX1JXdDdzNHlCZ1Q3YjNxT0djOGppbTEwaXpCNDhDTmtweDdtU1lPQVN5QW9ld0lhVlFSY0k2NFNEQXFtQnJhY1JJcmxLUjgtTUsweEI4NzRLeXR6UnFPZ21WcEU2bzQ1Z03SAcgBQVVfeXFMTTZRTF9sc0RNbEo2djBaTzlxNXNWU24tSlRwODZKZV8yaVBsclJHUUM0ZHFta2hCYkVqdURUOTU2UlJnbXp6YU5aZ3Zld1lzQmtNd0ZmbVV2MHUxaHJHSXFZMlRscWNCdVpxUXBrUC1QRHl4eHRrNTMyclBDMlgwbkxQNTB1NDMyOWFkeGFWY1lNUzdqanBSMVkzeUJtcXo0Nk1MMjFnLWItVFNRQU83VTJuWnhyYWhvMmtDWkt6ZEJ2NUw5blB5Q3M?oc=5",
@@ -1026,9 +1362,15 @@
       ]
     },
     "Ward 26": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Ward\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Patna Court Grants Interim Relief To Khan Sir In Firing Case, Stays Arrest Till Next Hearing",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUEFIQi1adktQZEE0cW9xM3hNNmxVRHFrR0JWQ3VlNUgtd2NjaUlkZGtvNVJpWlRyY2VGZERORFhiV1NoYVpZOEdHaXlRWkNzYVp1clB5SE9md19NVEw0UDBIUjJFdzB2N3ZPRkstZDFTU0NrakZ2eVByXzJ4RzJoVUNMWDlNaGVrTnNRZzZPTjVkQld1SWdtWnVGU0dTSGVmRWdkeWVxVUZ3VWZsc3R0YkRLUnQ0MzJnRHp2bXdiMk52OEg4bXdnQ3lGMGp3UdIB0wFBVV95cUxOcXd0c3F3T3M0dlBkeE1veWpZeVR2RHNnRlR4cS02Q1k0NVZSYUs2cWhVcUJVaXc3U2tGdlhqNHo4VEI5UU1kZ2ZnbzctWTRVbWVVeEZIOGN4WXYtOWVReUFQdGdZZFh4dE5kR0tGdDlPbUxpYXY2SE83OXo2ZThtT0ZLMnA2S1hJNnpGSGYtb2p1azN6VUNFaU9kMF9sR3ZNUG1MVFRBMS03SGRxOGotQUJSLWJtYk9rcE1ycS1pamhHWHVmd3B1M3RxV29ya0xvdllV?oc=5",
+          "date": "2026-06-20T07:00:00.000Z",
+          "source": "Free Press Journal"
+        },
         {
           "title": "Cyberfraud gang busted, three arrested in Patna raids",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkgyZkg2WXYwREJVeERLOVY1Q2tHb2dJb1cxRVJ1QUh2S3JpUXUyS1AwVTFkTFR2TWlGQXliRjk1VW9mNzNfY0h2dHFVYXIwUFdMS1o2Qnp0bGwtUnpVdnNzX1JXdDdzNHlCZ1Q3YjNxT0djOGppbTEwaXpCNDhDTmtweDdtU1lPQVN5QW9ld0lhVlFSY0k2NFNEQXFtQnJhY1JJcmxLUjgtTUsweEI4NzRLeXR6UnFPZ21WcEU2bzQ1Z03SAcgBQVVfeXFMTTZRTF9sc0RNbEo2djBaTzlxNXNWU24tSlRwODZKZV8yaVBsclJHUUM0ZHFta2hCYkVqdURUOTU2UlJnbXp6YU5aZ3Zld1lzQmtNd0ZmbVV2MHUxaHJHSXFZMlRscWNCdVpxUXBrUC1QRHl4eHRrNTMyclBDMlgwbkxQNTB1NDMyOWFkeGFWY1lNUzdqanBSMVkzeUJtcXo0Nk1MMjFnLWItVFNRQU83VTJuWnhyYWhvMmtDWkt6ZEJ2NUw5blB5Q3M?oc=5",
@@ -1044,9 +1386,15 @@
       ]
     },
     "Ward 54": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Ward\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Patna Court Grants Interim Relief To Khan Sir In Firing Case, Stays Arrest Till Next Hearing",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUEFIQi1adktQZEE0cW9xM3hNNmxVRHFrR0JWQ3VlNUgtd2NjaUlkZGtvNVJpWlRyY2VGZERORFhiV1NoYVpZOEdHaXlRWkNzYVp1clB5SE9md19NVEw0UDBIUjJFdzB2N3ZPRkstZDFTU0NrakZ2eVByXzJ4RzJoVUNMWDlNaGVrTnNRZzZPTjVkQld1SWdtWnVGU0dTSGVmRWdkeWVxVUZ3VWZsc3R0YkRLUnQ0MzJnRHp2bXdiMk52OEg4bXdnQ3lGMGp3UdIB0wFBVV95cUxOcXd0c3F3T3M0dlBkeE1veWpZeVR2RHNnRlR4cS02Q1k0NVZSYUs2cWhVcUJVaXc3U2tGdlhqNHo4VEI5UU1kZ2ZnbzctWTRVbWVVeEZIOGN4WXYtOWVReUFQdGdZZFh4dE5kR0tGdDlPbUxpYXY2SE83OXo2ZThtT0ZLMnA2S1hJNnpGSGYtb2p1azN6VUNFaU9kMF9sR3ZNUG1MVFRBMS03SGRxOGotQUJSLWJtYk9rcE1ycS1pamhHWHVmd3B1M3RxV29ya0xvdllV?oc=5",
+          "date": "2026-06-20T07:00:00.000Z",
+          "source": "Free Press Journal"
+        },
         {
           "title": "Cyberfraud gang busted, three arrested in Patna raids",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkgyZkg2WXYwREJVeERLOVY1Q2tHb2dJb1cxRVJ1QUh2S3JpUXUyS1AwVTFkTFR2TWlGQXliRjk1VW9mNzNfY0h2dHFVYXIwUFdMS1o2Qnp0bGwtUnpVdnNzX1JXdDdzNHlCZ1Q3YjNxT0djOGppbTEwaXpCNDhDTmtweDdtU1lPQVN5QW9ld0lhVlFSY0k2NFNEQXFtQnJhY1JJcmxLUjgtTUsweEI4NzRLeXR6UnFPZ21WcEU2bzQ1Z03SAcgBQVVfeXFMTTZRTF9sc0RNbEo2djBaTzlxNXNWU24tSlRwODZKZV8yaVBsclJHUUM0ZHFta2hCYkVqdURUOTU2UlJnbXp6YU5aZ3Zld1lzQmtNd0ZmbVV2MHUxaHJHSXFZMlRscWNCdVpxUXBrUC1QRHl4eHRrNTMyclBDMlgwbkxQNTB1NDMyOWFkeGFWY1lNUzdqanBSMVkzeUJtcXo0Nk1MMjFnLWItVFNRQU83VTJuWnhyYWhvMmtDWkt6ZEJ2NUw5blB5Q3M?oc=5",
@@ -1062,14 +1410,20 @@
       ]
     },
     "Ward 22C": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Ward C\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Ward 10": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Ward\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Patna Court Grants Interim Relief To Khan Sir In Firing Case, Stays Arrest Till Next Hearing",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUEFIQi1adktQZEE0cW9xM3hNNmxVRHFrR0JWQ3VlNUgtd2NjaUlkZGtvNVJpWlRyY2VGZERORFhiV1NoYVpZOEdHaXlRWkNzYVp1clB5SE9md19NVEw0UDBIUjJFdzB2N3ZPRkstZDFTU0NrakZ2eVByXzJ4RzJoVUNMWDlNaGVrTnNRZzZPTjVkQld1SWdtWnVGU0dTSGVmRWdkeWVxVUZ3VWZsc3R0YkRLUnQ0MzJnRHp2bXdiMk52OEg4bXdnQ3lGMGp3UdIB0wFBVV95cUxOcXd0c3F3T3M0dlBkeE1veWpZeVR2RHNnRlR4cS02Q1k0NVZSYUs2cWhVcUJVaXc3U2tGdlhqNHo4VEI5UU1kZ2ZnbzctWTRVbWVVeEZIOGN4WXYtOWVReUFQdGdZZFh4dE5kR0tGdDlPbUxpYXY2SE83OXo2ZThtT0ZLMnA2S1hJNnpGSGYtb2p1azN6VUNFaU9kMF9sR3ZNUG1MVFRBMS03SGRxOGotQUJSLWJtYk9rcE1ycS1pamhHWHVmd3B1M3RxV29ya0xvdllV?oc=5",
+          "date": "2026-06-20T07:00:00.000Z",
+          "source": "Free Press Journal"
+        },
         {
           "title": "Cyberfraud gang busted, three arrested in Patna raids",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkgyZkg2WXYwREJVeERLOVY1Q2tHb2dJb1cxRVJ1QUh2S3JpUXUyS1AwVTFkTFR2TWlGQXliRjk1VW9mNzNfY0h2dHFVYXIwUFdMS1o2Qnp0bGwtUnpVdnNzX1JXdDdzNHlCZ1Q3YjNxT0djOGppbTEwaXpCNDhDTmtweDdtU1lPQVN5QW9ld0lhVlFSY0k2NFNEQXFtQnJhY1JJcmxLUjgtTUsweEI4NzRLeXR6UnFPZ21WcEU2bzQ1Z03SAcgBQVVfeXFMTTZRTF9sc0RNbEo2djBaTzlxNXNWU24tSlRwODZKZV8yaVBsclJHUUM0ZHFta2hCYkVqdURUOTU2UlJnbXp6YU5aZ3Zld1lzQmtNd0ZmbVV2MHUxaHJHSXFZMlRscWNCdVpxUXBrUC1QRHl4eHRrNTMyclBDMlgwbkxQNTB1NDMyOWFkeGFWY1lNUzdqanBSMVkzeUJtcXo0Nk1MMjFnLWItVFNRQU83VTJuWnhyYWhvMmtDWkt6ZEJ2NUw5blB5Q3M?oc=5",
@@ -1085,9 +1439,15 @@
       ]
     },
     "Ward 15": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Ward\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Patna Court Grants Interim Relief To Khan Sir In Firing Case, Stays Arrest Till Next Hearing",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUEFIQi1adktQZEE0cW9xM3hNNmxVRHFrR0JWQ3VlNUgtd2NjaUlkZGtvNVJpWlRyY2VGZERORFhiV1NoYVpZOEdHaXlRWkNzYVp1clB5SE9md19NVEw0UDBIUjJFdzB2N3ZPRkstZDFTU0NrakZ2eVByXzJ4RzJoVUNMWDlNaGVrTnNRZzZPTjVkQld1SWdtWnVGU0dTSGVmRWdkeWVxVUZ3VWZsc3R0YkRLUnQ0MzJnRHp2bXdiMk52OEg4bXdnQ3lGMGp3UdIB0wFBVV95cUxOcXd0c3F3T3M0dlBkeE1veWpZeVR2RHNnRlR4cS02Q1k0NVZSYUs2cWhVcUJVaXc3U2tGdlhqNHo4VEI5UU1kZ2ZnbzctWTRVbWVVeEZIOGN4WXYtOWVReUFQdGdZZFh4dE5kR0tGdDlPbUxpYXY2SE83OXo2ZThtT0ZLMnA2S1hJNnpGSGYtb2p1azN6VUNFaU9kMF9sR3ZNUG1MVFRBMS03SGRxOGotQUJSLWJtYk9rcE1ycS1pamhHWHVmd3B1M3RxV29ya0xvdllV?oc=5",
+          "date": "2026-06-20T07:00:00.000Z",
+          "source": "Free Press Journal"
+        },
         {
           "title": "Cyberfraud gang busted, three arrested in Patna raids",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkgyZkg2WXYwREJVeERLOVY1Q2tHb2dJb1cxRVJ1QUh2S3JpUXUyS1AwVTFkTFR2TWlGQXliRjk1VW9mNzNfY0h2dHFVYXIwUFdMS1o2Qnp0bGwtUnpVdnNzX1JXdDdzNHlCZ1Q3YjNxT0djOGppbTEwaXpCNDhDTmtweDdtU1lPQVN5QW9ld0lhVlFSY0k2NFNEQXFtQnJhY1JJcmxLUjgtTUsweEI4NzRLeXR6UnFPZ21WcEU2bzQ1Z03SAcgBQVVfeXFMTTZRTF9sc0RNbEo2djBaTzlxNXNWU24tSlRwODZKZV8yaVBsclJHUUM0ZHFta2hCYkVqdURUOTU2UlJnbXp6YU5aZ3Zld1lzQmtNd0ZmbVV2MHUxaHJHSXFZMlRscWNCdVpxUXBrUC1QRHl4eHRrNTMyclBDMlgwbkxQNTB1NDMyOWFkeGFWY1lNUzdqanBSMVkzeUJtcXo0Nk1MMjFnLWItVFNRQU83VTJuWnhyYWhvMmtDWkt6ZEJ2NUw5blB5Q3M?oc=5",
@@ -1103,9 +1463,15 @@
       ]
     },
     "Ward 18": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Ward\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Patna Court Grants Interim Relief To Khan Sir In Firing Case, Stays Arrest Till Next Hearing",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUEFIQi1adktQZEE0cW9xM3hNNmxVRHFrR0JWQ3VlNUgtd2NjaUlkZGtvNVJpWlRyY2VGZERORFhiV1NoYVpZOEdHaXlRWkNzYVp1clB5SE9md19NVEw0UDBIUjJFdzB2N3ZPRkstZDFTU0NrakZ2eVByXzJ4RzJoVUNMWDlNaGVrTnNRZzZPTjVkQld1SWdtWnVGU0dTSGVmRWdkeWVxVUZ3VWZsc3R0YkRLUnQ0MzJnRHp2bXdiMk52OEg4bXdnQ3lGMGp3UdIB0wFBVV95cUxOcXd0c3F3T3M0dlBkeE1veWpZeVR2RHNnRlR4cS02Q1k0NVZSYUs2cWhVcUJVaXc3U2tGdlhqNHo4VEI5UU1kZ2ZnbzctWTRVbWVVeEZIOGN4WXYtOWVReUFQdGdZZFh4dE5kR0tGdDlPbUxpYXY2SE83OXo2ZThtT0ZLMnA2S1hJNnpGSGYtb2p1azN6VUNFaU9kMF9sR3ZNUG1MVFRBMS03SGRxOGotQUJSLWJtYk9rcE1ycS1pamhHWHVmd3B1M3RxV29ya0xvdllV?oc=5",
+          "date": "2026-06-20T07:00:00.000Z",
+          "source": "Free Press Journal"
+        },
         {
           "title": "Cyberfraud gang busted, three arrested in Patna raids",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkgyZkg2WXYwREJVeERLOVY1Q2tHb2dJb1cxRVJ1QUh2S3JpUXUyS1AwVTFkTFR2TWlGQXliRjk1VW9mNzNfY0h2dHFVYXIwUFdMS1o2Qnp0bGwtUnpVdnNzX1JXdDdzNHlCZ1Q3YjNxT0djOGppbTEwaXpCNDhDTmtweDdtU1lPQVN5QW9ld0lhVlFSY0k2NFNEQXFtQnJhY1JJcmxLUjgtTUsweEI4NzRLeXR6UnFPZ21WcEU2bzQ1Z03SAcgBQVVfeXFMTTZRTF9sc0RNbEo2djBaTzlxNXNWU24tSlRwODZKZV8yaVBsclJHUUM0ZHFta2hCYkVqdURUOTU2UlJnbXp6YU5aZ3Zld1lzQmtNd0ZmbVV2MHUxaHJHSXFZMlRscWNCdVpxUXBrUC1QRHl4eHRrNTMyclBDMlgwbkxQNTB1NDMyOWFkeGFWY1lNUzdqanBSMVkzeUJtcXo0Nk1MMjFnLWItVFNRQU83VTJuWnhyYWhvMmtDWkt6ZEJ2NUw5blB5Q3M?oc=5",
@@ -1121,9 +1487,15 @@
       ]
     },
     "Ward 34": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Ward\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Patna Court Grants Interim Relief To Khan Sir In Firing Case, Stays Arrest Till Next Hearing",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUEFIQi1adktQZEE0cW9xM3hNNmxVRHFrR0JWQ3VlNUgtd2NjaUlkZGtvNVJpWlRyY2VGZERORFhiV1NoYVpZOEdHaXlRWkNzYVp1clB5SE9md19NVEw0UDBIUjJFdzB2N3ZPRkstZDFTU0NrakZ2eVByXzJ4RzJoVUNMWDlNaGVrTnNRZzZPTjVkQld1SWdtWnVGU0dTSGVmRWdkeWVxVUZ3VWZsc3R0YkRLUnQ0MzJnRHp2bXdiMk52OEg4bXdnQ3lGMGp3UdIB0wFBVV95cUxOcXd0c3F3T3M0dlBkeE1veWpZeVR2RHNnRlR4cS02Q1k0NVZSYUs2cWhVcUJVaXc3U2tGdlhqNHo4VEI5UU1kZ2ZnbzctWTRVbWVVeEZIOGN4WXYtOWVReUFQdGdZZFh4dE5kR0tGdDlPbUxpYXY2SE83OXo2ZThtT0ZLMnA2S1hJNnpGSGYtb2p1azN6VUNFaU9kMF9sR3ZNUG1MVFRBMS03SGRxOGotQUJSLWJtYk9rcE1ycS1pamhHWHVmd3B1M3RxV29ya0xvdllV?oc=5",
+          "date": "2026-06-20T07:00:00.000Z",
+          "source": "Free Press Journal"
+        },
         {
           "title": "Cyberfraud gang busted, three arrested in Patna raids",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkgyZkg2WXYwREJVeERLOVY1Q2tHb2dJb1cxRVJ1QUh2S3JpUXUyS1AwVTFkTFR2TWlGQXliRjk1VW9mNzNfY0h2dHFVYXIwUFdMS1o2Qnp0bGwtUnpVdnNzX1JXdDdzNHlCZ1Q3YjNxT0djOGppbTEwaXpCNDhDTmtweDdtU1lPQVN5QW9ld0lhVlFSY0k2NFNEQXFtQnJhY1JJcmxLUjgtTUsweEI4NzRLeXR6UnFPZ21WcEU2bzQ1Z03SAcgBQVVfeXFMTTZRTF9sc0RNbEo2djBaTzlxNXNWU24tSlRwODZKZV8yaVBsclJHUUM0ZHFta2hCYkVqdURUOTU2UlJnbXp6YU5aZ3Zld1lzQmtNd0ZmbVV2MHUxaHJHSXFZMlRscWNCdVpxUXBrUC1QRHl4eHRrNTMyclBDMlgwbkxQNTB1NDMyOWFkeGFWY1lNUzdqanBSMVkzeUJtcXo0Nk1MMjFnLWItVFNRQU83VTJuWnhyYWhvMmtDWkt6ZEJ2NUw5blB5Q3M?oc=5",
@@ -1139,9 +1511,15 @@
       ]
     },
     "Ward 41": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Ward\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Patna Court Grants Interim Relief To Khan Sir In Firing Case, Stays Arrest Till Next Hearing",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUEFIQi1adktQZEE0cW9xM3hNNmxVRHFrR0JWQ3VlNUgtd2NjaUlkZGtvNVJpWlRyY2VGZERORFhiV1NoYVpZOEdHaXlRWkNzYVp1clB5SE9md19NVEw0UDBIUjJFdzB2N3ZPRkstZDFTU0NrakZ2eVByXzJ4RzJoVUNMWDlNaGVrTnNRZzZPTjVkQld1SWdtWnVGU0dTSGVmRWdkeWVxVUZ3VWZsc3R0YkRLUnQ0MzJnRHp2bXdiMk52OEg4bXdnQ3lGMGp3UdIB0wFBVV95cUxOcXd0c3F3T3M0dlBkeE1veWpZeVR2RHNnRlR4cS02Q1k0NVZSYUs2cWhVcUJVaXc3U2tGdlhqNHo4VEI5UU1kZ2ZnbzctWTRVbWVVeEZIOGN4WXYtOWVReUFQdGdZZFh4dE5kR0tGdDlPbUxpYXY2SE83OXo2ZThtT0ZLMnA2S1hJNnpGSGYtb2p1azN6VUNFaU9kMF9sR3ZNUG1MVFRBMS03SGRxOGotQUJSLWJtYk9rcE1ycS1pamhHWHVmd3B1M3RxV29ya0xvdllV?oc=5",
+          "date": "2026-06-20T07:00:00.000Z",
+          "source": "Free Press Journal"
+        },
         {
           "title": "Cyberfraud gang busted, three arrested in Patna raids",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkgyZkg2WXYwREJVeERLOVY1Q2tHb2dJb1cxRVJ1QUh2S3JpUXUyS1AwVTFkTFR2TWlGQXliRjk1VW9mNzNfY0h2dHFVYXIwUFdMS1o2Qnp0bGwtUnpVdnNzX1JXdDdzNHlCZ1Q3YjNxT0djOGppbTEwaXpCNDhDTmtweDdtU1lPQVN5QW9ld0lhVlFSY0k2NFNEQXFtQnJhY1JJcmxLUjgtTUsweEI4NzRLeXR6UnFPZ21WcEU2bzQ1Z03SAcgBQVVfeXFMTTZRTF9sc0RNbEo2djBaTzlxNXNWU24tSlRwODZKZV8yaVBsclJHUUM0ZHFta2hCYkVqdURUOTU2UlJnbXp6YU5aZ3Zld1lzQmtNd0ZmbVV2MHUxaHJHSXFZMlRscWNCdVpxUXBrUC1QRHl4eHRrNTMyclBDMlgwbkxQNTB1NDMyOWFkeGFWY1lNUzdqanBSMVkzeUJtcXo0Nk1MMjFnLWItVFNRQU83VTJuWnhyYWhvMmtDWkt6ZEJ2NUw5blB5Q3M?oc=5",
@@ -1157,9 +1535,15 @@
       ]
     },
     "Ward 52": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Ward\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Patna Court Grants Interim Relief To Khan Sir In Firing Case, Stays Arrest Till Next Hearing",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUEFIQi1adktQZEE0cW9xM3hNNmxVRHFrR0JWQ3VlNUgtd2NjaUlkZGtvNVJpWlRyY2VGZERORFhiV1NoYVpZOEdHaXlRWkNzYVp1clB5SE9md19NVEw0UDBIUjJFdzB2N3ZPRkstZDFTU0NrakZ2eVByXzJ4RzJoVUNMWDlNaGVrTnNRZzZPTjVkQld1SWdtWnVGU0dTSGVmRWdkeWVxVUZ3VWZsc3R0YkRLUnQ0MzJnRHp2bXdiMk52OEg4bXdnQ3lGMGp3UdIB0wFBVV95cUxOcXd0c3F3T3M0dlBkeE1veWpZeVR2RHNnRlR4cS02Q1k0NVZSYUs2cWhVcUJVaXc3U2tGdlhqNHo4VEI5UU1kZ2ZnbzctWTRVbWVVeEZIOGN4WXYtOWVReUFQdGdZZFh4dE5kR0tGdDlPbUxpYXY2SE83OXo2ZThtT0ZLMnA2S1hJNnpGSGYtb2p1azN6VUNFaU9kMF9sR3ZNUG1MVFRBMS03SGRxOGotQUJSLWJtYk9rcE1ycS1pamhHWHVmd3B1M3RxV29ya0xvdllV?oc=5",
+          "date": "2026-06-20T07:00:00.000Z",
+          "source": "Free Press Journal"
+        },
         {
           "title": "Cyberfraud gang busted, three arrested in Patna raids",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkgyZkg2WXYwREJVeERLOVY1Q2tHb2dJb1cxRVJ1QUh2S3JpUXUyS1AwVTFkTFR2TWlGQXliRjk1VW9mNzNfY0h2dHFVYXIwUFdMS1o2Qnp0bGwtUnpVdnNzX1JXdDdzNHlCZ1Q3YjNxT0djOGppbTEwaXpCNDhDTmtweDdtU1lPQVN5QW9ld0lhVlFSY0k2NFNEQXFtQnJhY1JJcmxLUjgtTUsweEI4NzRLeXR6UnFPZ21WcEU2bzQ1Z03SAcgBQVVfeXFMTTZRTF9sc0RNbEo2djBaTzlxNXNWU24tSlRwODZKZV8yaVBsclJHUUM0ZHFta2hCYkVqdURUOTU2UlJnbXp6YU5aZ3Zld1lzQmtNd0ZmbVV2MHUxaHJHSXFZMlRscWNCdVpxUXBrUC1QRHl4eHRrNTMyclBDMlgwbkxQNTB1NDMyOWFkeGFWY1lNUzdqanBSMVkzeUJtcXo0Nk1MMjFnLWItVFNRQU83VTJuWnhyYWhvMmtDWkt6ZEJ2NUw5blB5Q3M?oc=5",
@@ -1175,9 +1559,15 @@
       ]
     },
     "Ward 22": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Ward\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Patna Court Grants Interim Relief To Khan Sir In Firing Case, Stays Arrest Till Next Hearing",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUEFIQi1adktQZEE0cW9xM3hNNmxVRHFrR0JWQ3VlNUgtd2NjaUlkZGtvNVJpWlRyY2VGZERORFhiV1NoYVpZOEdHaXlRWkNzYVp1clB5SE9md19NVEw0UDBIUjJFdzB2N3ZPRkstZDFTU0NrakZ2eVByXzJ4RzJoVUNMWDlNaGVrTnNRZzZPTjVkQld1SWdtWnVGU0dTSGVmRWdkeWVxVUZ3VWZsc3R0YkRLUnQ0MzJnRHp2bXdiMk52OEg4bXdnQ3lGMGp3UdIB0wFBVV95cUxOcXd0c3F3T3M0dlBkeE1veWpZeVR2RHNnRlR4cS02Q1k0NVZSYUs2cWhVcUJVaXc3U2tGdlhqNHo4VEI5UU1kZ2ZnbzctWTRVbWVVeEZIOGN4WXYtOWVReUFQdGdZZFh4dE5kR0tGdDlPbUxpYXY2SE83OXo2ZThtT0ZLMnA2S1hJNnpGSGYtb2p1azN6VUNFaU9kMF9sR3ZNUG1MVFRBMS03SGRxOGotQUJSLWJtYk9rcE1ycS1pamhHWHVmd3B1M3RxV29ya0xvdllV?oc=5",
+          "date": "2026-06-20T07:00:00.000Z",
+          "source": "Free Press Journal"
+        },
         {
           "title": "Cyberfraud gang busted, three arrested in Patna raids",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkgyZkg2WXYwREJVeERLOVY1Q2tHb2dJb1cxRVJ1QUh2S3JpUXUyS1AwVTFkTFR2TWlGQXliRjk1VW9mNzNfY0h2dHFVYXIwUFdMS1o2Qnp0bGwtUnpVdnNzX1JXdDdzNHlCZ1Q3YjNxT0djOGppbTEwaXpCNDhDTmtweDdtU1lPQVN5QW9ld0lhVlFSY0k2NFNEQXFtQnJhY1JJcmxLUjgtTUsweEI4NzRLeXR6UnFPZ21WcEU2bzQ1Z03SAcgBQVVfeXFMTTZRTF9sc0RNbEo2djBaTzlxNXNWU24tSlRwODZKZV8yaVBsclJHUUM0ZHFta2hCYkVqdURUOTU2UlJnbXp6YU5aZ3Zld1lzQmtNd0ZmbVV2MHUxaHJHSXFZMlRscWNCdVpxUXBrUC1QRHl4eHRrNTMyclBDMlgwbkxQNTB1NDMyOWFkeGFWY1lNUzdqanBSMVkzeUJtcXo0Nk1MMjFnLWItVFNRQU83VTJuWnhyYWhvMmtDWkt6ZEJ2NUw5blB5Q3M?oc=5",
@@ -1193,9 +1583,15 @@
       ]
     },
     "Ward 21": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Ward\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Patna Court Grants Interim Relief To Khan Sir In Firing Case, Stays Arrest Till Next Hearing",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUEFIQi1adktQZEE0cW9xM3hNNmxVRHFrR0JWQ3VlNUgtd2NjaUlkZGtvNVJpWlRyY2VGZERORFhiV1NoYVpZOEdHaXlRWkNzYVp1clB5SE9md19NVEw0UDBIUjJFdzB2N3ZPRkstZDFTU0NrakZ2eVByXzJ4RzJoVUNMWDlNaGVrTnNRZzZPTjVkQld1SWdtWnVGU0dTSGVmRWdkeWVxVUZ3VWZsc3R0YkRLUnQ0MzJnRHp2bXdiMk52OEg4bXdnQ3lGMGp3UdIB0wFBVV95cUxOcXd0c3F3T3M0dlBkeE1veWpZeVR2RHNnRlR4cS02Q1k0NVZSYUs2cWhVcUJVaXc3U2tGdlhqNHo4VEI5UU1kZ2ZnbzctWTRVbWVVeEZIOGN4WXYtOWVReUFQdGdZZFh4dE5kR0tGdDlPbUxpYXY2SE83OXo2ZThtT0ZLMnA2S1hJNnpGSGYtb2p1azN6VUNFaU9kMF9sR3ZNUG1MVFRBMS03SGRxOGotQUJSLWJtYk9rcE1ycS1pamhHWHVmd3B1M3RxV29ya0xvdllV?oc=5",
+          "date": "2026-06-20T07:00:00.000Z",
+          "source": "Free Press Journal"
+        },
         {
           "title": "Cyberfraud gang busted, three arrested in Patna raids",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkgyZkg2WXYwREJVeERLOVY1Q2tHb2dJb1cxRVJ1QUh2S3JpUXUyS1AwVTFkTFR2TWlGQXliRjk1VW9mNzNfY0h2dHFVYXIwUFdMS1o2Qnp0bGwtUnpVdnNzX1JXdDdzNHlCZ1Q3YjNxT0djOGppbTEwaXpCNDhDTmtweDdtU1lPQVN5QW9ld0lhVlFSY0k2NFNEQXFtQnJhY1JJcmxLUjgtTUsweEI4NzRLeXR6UnFPZ21WcEU2bzQ1Z03SAcgBQVVfeXFMTTZRTF9sc0RNbEo2djBaTzlxNXNWU24tSlRwODZKZV8yaVBsclJHUUM0ZHFta2hCYkVqdURUOTU2UlJnbXp6YU5aZ3Zld1lzQmtNd0ZmbVV2MHUxaHJHSXFZMlRscWNCdVpxUXBrUC1QRHl4eHRrNTMyclBDMlgwbkxQNTB1NDMyOWFkeGFWY1lNUzdqanBSMVkzeUJtcXo0Nk1MMjFnLWItVFNRQU83VTJuWnhyYWhvMmtDWkt6ZEJ2NUw5blB5Q3M?oc=5",
@@ -1211,9 +1607,15 @@
       ]
     },
     "Ward 27": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Ward\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Patna Court Grants Interim Relief To Khan Sir In Firing Case, Stays Arrest Till Next Hearing",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUEFIQi1adktQZEE0cW9xM3hNNmxVRHFrR0JWQ3VlNUgtd2NjaUlkZGtvNVJpWlRyY2VGZERORFhiV1NoYVpZOEdHaXlRWkNzYVp1clB5SE9md19NVEw0UDBIUjJFdzB2N3ZPRkstZDFTU0NrakZ2eVByXzJ4RzJoVUNMWDlNaGVrTnNRZzZPTjVkQld1SWdtWnVGU0dTSGVmRWdkeWVxVUZ3VWZsc3R0YkRLUnQ0MzJnRHp2bXdiMk52OEg4bXdnQ3lGMGp3UdIB0wFBVV95cUxOcXd0c3F3T3M0dlBkeE1veWpZeVR2RHNnRlR4cS02Q1k0NVZSYUs2cWhVcUJVaXc3U2tGdlhqNHo4VEI5UU1kZ2ZnbzctWTRVbWVVeEZIOGN4WXYtOWVReUFQdGdZZFh4dE5kR0tGdDlPbUxpYXY2SE83OXo2ZThtT0ZLMnA2S1hJNnpGSGYtb2p1azN6VUNFaU9kMF9sR3ZNUG1MVFRBMS03SGRxOGotQUJSLWJtYk9rcE1ycS1pamhHWHVmd3B1M3RxV29ya0xvdllV?oc=5",
+          "date": "2026-06-20T07:00:00.000Z",
+          "source": "Free Press Journal"
+        },
         {
           "title": "Cyberfraud gang busted, three arrested in Patna raids",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkgyZkg2WXYwREJVeERLOVY1Q2tHb2dJb1cxRVJ1QUh2S3JpUXUyS1AwVTFkTFR2TWlGQXliRjk1VW9mNzNfY0h2dHFVYXIwUFdMS1o2Qnp0bGwtUnpVdnNzX1JXdDdzNHlCZ1Q3YjNxT0djOGppbTEwaXpCNDhDTmtweDdtU1lPQVN5QW9ld0lhVlFSY0k2NFNEQXFtQnJhY1JJcmxLUjgtTUsweEI4NzRLeXR6UnFPZ21WcEU2bzQ1Z03SAcgBQVVfeXFMTTZRTF9sc0RNbEo2djBaTzlxNXNWU24tSlRwODZKZV8yaVBsclJHUUM0ZHFta2hCYkVqdURUOTU2UlJnbXp6YU5aZ3Zld1lzQmtNd0ZmbVV2MHUxaHJHSXFZMlRscWNCdVpxUXBrUC1QRHl4eHRrNTMyclBDMlgwbkxQNTB1NDMyOWFkeGFWY1lNUzdqanBSMVkzeUJtcXo0Nk1MMjFnLWItVFNRQU83VTJuWnhyYWhvMmtDWkt6ZEJ2NUw5blB5Q3M?oc=5",
@@ -1229,9 +1631,15 @@
       ]
     },
     "Ward 17": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Ward\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Patna Court Grants Interim Relief To Khan Sir In Firing Case, Stays Arrest Till Next Hearing",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUEFIQi1adktQZEE0cW9xM3hNNmxVRHFrR0JWQ3VlNUgtd2NjaUlkZGtvNVJpWlRyY2VGZERORFhiV1NoYVpZOEdHaXlRWkNzYVp1clB5SE9md19NVEw0UDBIUjJFdzB2N3ZPRkstZDFTU0NrakZ2eVByXzJ4RzJoVUNMWDlNaGVrTnNRZzZPTjVkQld1SWdtWnVGU0dTSGVmRWdkeWVxVUZ3VWZsc3R0YkRLUnQ0MzJnRHp2bXdiMk52OEg4bXdnQ3lGMGp3UdIB0wFBVV95cUxOcXd0c3F3T3M0dlBkeE1veWpZeVR2RHNnRlR4cS02Q1k0NVZSYUs2cWhVcUJVaXc3U2tGdlhqNHo4VEI5UU1kZ2ZnbzctWTRVbWVVeEZIOGN4WXYtOWVReUFQdGdZZFh4dE5kR0tGdDlPbUxpYXY2SE83OXo2ZThtT0ZLMnA2S1hJNnpGSGYtb2p1azN6VUNFaU9kMF9sR3ZNUG1MVFRBMS03SGRxOGotQUJSLWJtYk9rcE1ycS1pamhHWHVmd3B1M3RxV29ya0xvdllV?oc=5",
+          "date": "2026-06-20T07:00:00.000Z",
+          "source": "Free Press Journal"
+        },
         {
           "title": "Cyberfraud gang busted, three arrested in Patna raids",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkgyZkg2WXYwREJVeERLOVY1Q2tHb2dJb1cxRVJ1QUh2S3JpUXUyS1AwVTFkTFR2TWlGQXliRjk1VW9mNzNfY0h2dHFVYXIwUFdMS1o2Qnp0bGwtUnpVdnNzX1JXdDdzNHlCZ1Q3YjNxT0djOGppbTEwaXpCNDhDTmtweDdtU1lPQVN5QW9ld0lhVlFSY0k2NFNEQXFtQnJhY1JJcmxLUjgtTUsweEI4NzRLeXR6UnFPZ21WcEU2bzQ1Z03SAcgBQVVfeXFMTTZRTF9sc0RNbEo2djBaTzlxNXNWU24tSlRwODZKZV8yaVBsclJHUUM0ZHFta2hCYkVqdURUOTU2UlJnbXp6YU5aZ3Zld1lzQmtNd0ZmbVV2MHUxaHJHSXFZMlRscWNCdVpxUXBrUC1QRHl4eHRrNTMyclBDMlgwbkxQNTB1NDMyOWFkeGFWY1lNUzdqanBSMVkzeUJtcXo0Nk1MMjFnLWItVFNRQU83VTJuWnhyYWhvMmtDWkt6ZEJ2NUw5blB5Q3M?oc=5",
@@ -1247,9 +1655,15 @@
       ]
     },
     "Ward 38": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Ward\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Patna Court Grants Interim Relief To Khan Sir In Firing Case, Stays Arrest Till Next Hearing",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUEFIQi1adktQZEE0cW9xM3hNNmxVRHFrR0JWQ3VlNUgtd2NjaUlkZGtvNVJpWlRyY2VGZERORFhiV1NoYVpZOEdHaXlRWkNzYVp1clB5SE9md19NVEw0UDBIUjJFdzB2N3ZPRkstZDFTU0NrakZ2eVByXzJ4RzJoVUNMWDlNaGVrTnNRZzZPTjVkQld1SWdtWnVGU0dTSGVmRWdkeWVxVUZ3VWZsc3R0YkRLUnQ0MzJnRHp2bXdiMk52OEg4bXdnQ3lGMGp3UdIB0wFBVV95cUxOcXd0c3F3T3M0dlBkeE1veWpZeVR2RHNnRlR4cS02Q1k0NVZSYUs2cWhVcUJVaXc3U2tGdlhqNHo4VEI5UU1kZ2ZnbzctWTRVbWVVeEZIOGN4WXYtOWVReUFQdGdZZFh4dE5kR0tGdDlPbUxpYXY2SE83OXo2ZThtT0ZLMnA2S1hJNnpGSGYtb2p1azN6VUNFaU9kMF9sR3ZNUG1MVFRBMS03SGRxOGotQUJSLWJtYk9rcE1ycS1pamhHWHVmd3B1M3RxV29ya0xvdllV?oc=5",
+          "date": "2026-06-20T07:00:00.000Z",
+          "source": "Free Press Journal"
+        },
         {
           "title": "Cyberfraud gang busted, three arrested in Patna raids",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkgyZkg2WXYwREJVeERLOVY1Q2tHb2dJb1cxRVJ1QUh2S3JpUXUyS1AwVTFkTFR2TWlGQXliRjk1VW9mNzNfY0h2dHFVYXIwUFdMS1o2Qnp0bGwtUnpVdnNzX1JXdDdzNHlCZ1Q3YjNxT0djOGppbTEwaXpCNDhDTmtweDdtU1lPQVN5QW9ld0lhVlFSY0k2NFNEQXFtQnJhY1JJcmxLUjgtTUsweEI4NzRLeXR6UnFPZ21WcEU2bzQ1Z03SAcgBQVVfeXFMTTZRTF9sc0RNbEo2djBaTzlxNXNWU24tSlRwODZKZV8yaVBsclJHUUM0ZHFta2hCYkVqdURUOTU2UlJnbXp6YU5aZ3Zld1lzQmtNd0ZmbVV2MHUxaHJHSXFZMlRscWNCdVpxUXBrUC1QRHl4eHRrNTMyclBDMlgwbkxQNTB1NDMyOWFkeGFWY1lNUzdqanBSMVkzeUJtcXo0Nk1MMjFnLWItVFNRQU83VTJuWnhyYWhvMmtDWkt6ZEJ2NUw5blB5Q3M?oc=5",
@@ -1265,9 +1679,15 @@
       ]
     },
     "Ward 11": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Ward\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Patna Court Grants Interim Relief To Khan Sir In Firing Case, Stays Arrest Till Next Hearing",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUEFIQi1adktQZEE0cW9xM3hNNmxVRHFrR0JWQ3VlNUgtd2NjaUlkZGtvNVJpWlRyY2VGZERORFhiV1NoYVpZOEdHaXlRWkNzYVp1clB5SE9md19NVEw0UDBIUjJFdzB2N3ZPRkstZDFTU0NrakZ2eVByXzJ4RzJoVUNMWDlNaGVrTnNRZzZPTjVkQld1SWdtWnVGU0dTSGVmRWdkeWVxVUZ3VWZsc3R0YkRLUnQ0MzJnRHp2bXdiMk52OEg4bXdnQ3lGMGp3UdIB0wFBVV95cUxOcXd0c3F3T3M0dlBkeE1veWpZeVR2RHNnRlR4cS02Q1k0NVZSYUs2cWhVcUJVaXc3U2tGdlhqNHo4VEI5UU1kZ2ZnbzctWTRVbWVVeEZIOGN4WXYtOWVReUFQdGdZZFh4dE5kR0tGdDlPbUxpYXY2SE83OXo2ZThtT0ZLMnA2S1hJNnpGSGYtb2p1azN6VUNFaU9kMF9sR3ZNUG1MVFRBMS03SGRxOGotQUJSLWJtYk9rcE1ycS1pamhHWHVmd3B1M3RxV29ya0xvdllV?oc=5",
+          "date": "2026-06-20T07:00:00.000Z",
+          "source": "Free Press Journal"
+        },
         {
           "title": "Cyberfraud gang busted, three arrested in Patna raids",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkgyZkg2WXYwREJVeERLOVY1Q2tHb2dJb1cxRVJ1QUh2S3JpUXUyS1AwVTFkTFR2TWlGQXliRjk1VW9mNzNfY0h2dHFVYXIwUFdMS1o2Qnp0bGwtUnpVdnNzX1JXdDdzNHlCZ1Q3YjNxT0djOGppbTEwaXpCNDhDTmtweDdtU1lPQVN5QW9ld0lhVlFSY0k2NFNEQXFtQnJhY1JJcmxLUjgtTUsweEI4NzRLeXR6UnFPZ21WcEU2bzQ1Z03SAcgBQVVfeXFMTTZRTF9sc0RNbEo2djBaTzlxNXNWU24tSlRwODZKZV8yaVBsclJHUUM0ZHFta2hCYkVqdURUOTU2UlJnbXp6YU5aZ3Zld1lzQmtNd0ZmbVV2MHUxaHJHSXFZMlRscWNCdVpxUXBrUC1QRHl4eHRrNTMyclBDMlgwbkxQNTB1NDMyOWFkeGFWY1lNUzdqanBSMVkzeUJtcXo0Nk1MMjFnLWItVFNRQU83VTJuWnhyYWhvMmtDWkt6ZEJ2NUw5blB5Q3M?oc=5",
@@ -1283,9 +1703,15 @@
       ]
     },
     "Ward 65": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Ward\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Patna Court Grants Interim Relief To Khan Sir In Firing Case, Stays Arrest Till Next Hearing",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUEFIQi1adktQZEE0cW9xM3hNNmxVRHFrR0JWQ3VlNUgtd2NjaUlkZGtvNVJpWlRyY2VGZERORFhiV1NoYVpZOEdHaXlRWkNzYVp1clB5SE9md19NVEw0UDBIUjJFdzB2N3ZPRkstZDFTU0NrakZ2eVByXzJ4RzJoVUNMWDlNaGVrTnNRZzZPTjVkQld1SWdtWnVGU0dTSGVmRWdkeWVxVUZ3VWZsc3R0YkRLUnQ0MzJnRHp2bXdiMk52OEg4bXdnQ3lGMGp3UdIB0wFBVV95cUxOcXd0c3F3T3M0dlBkeE1veWpZeVR2RHNnRlR4cS02Q1k0NVZSYUs2cWhVcUJVaXc3U2tGdlhqNHo4VEI5UU1kZ2ZnbzctWTRVbWVVeEZIOGN4WXYtOWVReUFQdGdZZFh4dE5kR0tGdDlPbUxpYXY2SE83OXo2ZThtT0ZLMnA2S1hJNnpGSGYtb2p1azN6VUNFaU9kMF9sR3ZNUG1MVFRBMS03SGRxOGotQUJSLWJtYk9rcE1ycS1pamhHWHVmd3B1M3RxV29ya0xvdllV?oc=5",
+          "date": "2026-06-20T07:00:00.000Z",
+          "source": "Free Press Journal"
+        },
         {
           "title": "Cyberfraud gang busted, three arrested in Patna raids",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkgyZkg2WXYwREJVeERLOVY1Q2tHb2dJb1cxRVJ1QUh2S3JpUXUyS1AwVTFkTFR2TWlGQXliRjk1VW9mNzNfY0h2dHFVYXIwUFdMS1o2Qnp0bGwtUnpVdnNzX1JXdDdzNHlCZ1Q3YjNxT0djOGppbTEwaXpCNDhDTmtweDdtU1lPQVN5QW9ld0lhVlFSY0k2NFNEQXFtQnJhY1JJcmxLUjgtTUsweEI4NzRLeXR6UnFPZ21WcEU2bzQ1Z03SAcgBQVVfeXFMTTZRTF9sc0RNbEo2djBaTzlxNXNWU24tSlRwODZKZV8yaVBsclJHUUM0ZHFta2hCYkVqdURUOTU2UlJnbXp6YU5aZ3Zld1lzQmtNd0ZmbVV2MHUxaHJHSXFZMlRscWNCdVpxUXBrUC1QRHl4eHRrNTMyclBDMlgwbkxQNTB1NDMyOWFkeGFWY1lNUzdqanBSMVkzeUJtcXo0Nk1MMjFnLWItVFNRQU83VTJuWnhyYWhvMmtDWkt6ZEJ2NUw5blB5Q3M?oc=5",
@@ -1301,9 +1727,15 @@
       ]
     },
     "Ward 56": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Ward\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Patna Court Grants Interim Relief To Khan Sir In Firing Case, Stays Arrest Till Next Hearing",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUEFIQi1adktQZEE0cW9xM3hNNmxVRHFrR0JWQ3VlNUgtd2NjaUlkZGtvNVJpWlRyY2VGZERORFhiV1NoYVpZOEdHaXlRWkNzYVp1clB5SE9md19NVEw0UDBIUjJFdzB2N3ZPRkstZDFTU0NrakZ2eVByXzJ4RzJoVUNMWDlNaGVrTnNRZzZPTjVkQld1SWdtWnVGU0dTSGVmRWdkeWVxVUZ3VWZsc3R0YkRLUnQ0MzJnRHp2bXdiMk52OEg4bXdnQ3lGMGp3UdIB0wFBVV95cUxOcXd0c3F3T3M0dlBkeE1veWpZeVR2RHNnRlR4cS02Q1k0NVZSYUs2cWhVcUJVaXc3U2tGdlhqNHo4VEI5UU1kZ2ZnbzctWTRVbWVVeEZIOGN4WXYtOWVReUFQdGdZZFh4dE5kR0tGdDlPbUxpYXY2SE83OXo2ZThtT0ZLMnA2S1hJNnpGSGYtb2p1azN6VUNFaU9kMF9sR3ZNUG1MVFRBMS03SGRxOGotQUJSLWJtYk9rcE1ycS1pamhHWHVmd3B1M3RxV29ya0xvdllV?oc=5",
+          "date": "2026-06-20T07:00:00.000Z",
+          "source": "Free Press Journal"
+        },
         {
           "title": "Cyberfraud gang busted, three arrested in Patna raids",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkgyZkg2WXYwREJVeERLOVY1Q2tHb2dJb1cxRVJ1QUh2S3JpUXUyS1AwVTFkTFR2TWlGQXliRjk1VW9mNzNfY0h2dHFVYXIwUFdMS1o2Qnp0bGwtUnpVdnNzX1JXdDdzNHlCZ1Q3YjNxT0djOGppbTEwaXpCNDhDTmtweDdtU1lPQVN5QW9ld0lhVlFSY0k2NFNEQXFtQnJhY1JJcmxLUjgtTUsweEI4NzRLeXR6UnFPZ21WcEU2bzQ1Z03SAcgBQVVfeXFMTTZRTF9sc0RNbEo2djBaTzlxNXNWU24tSlRwODZKZV8yaVBsclJHUUM0ZHFta2hCYkVqdURUOTU2UlJnbXp6YU5aZ3Zld1lzQmtNd0ZmbVV2MHUxaHJHSXFZMlRscWNCdVpxUXBrUC1QRHl4eHRrNTMyclBDMlgwbkxQNTB1NDMyOWFkeGFWY1lNUzdqanBSMVkzeUJtcXo0Nk1MMjFnLWItVFNRQU83VTJuWnhyYWhvMmtDWkt6ZEJ2NUw5blB5Q3M?oc=5",
@@ -1319,7 +1751,7 @@
       ]
     },
     "Eight": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Eight\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -1349,89 +1781,82 @@
       ]
     },
     "Two": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Two\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
-          "title": "Khan Sir Gets Major Relief As Patna Court Grants Pre-Arrest Bail In Coaching Centre Firing Case",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWmVkS0Rha0RHOFhVVGV1MU00V0x3OWZUc3Y5REZzZ3Yzemc1VEVXOTVqVXh2bjI4a05UWmFFQjdnSjFFWE5vaUNSQ2FWUFJ5Qm5YUnR1R2dBQ09XbWVNUWpnNUhqN1ZqVnk5Qlg3c3l6RC1uSHVPYjc4TWM1ZVM2cE5SY01kUndQMWtna091ZEk2OWdCTkJLODl3eGdZRmY0Snp3dWVIUmZ5Um5oQzRoMDU3WVBseGlXSHU5VGFmZUZrVzluZ3l4NlFVcHUyLXdkbWFRQ2ZGd9IB3AFBVV95cUxNOXg3c2t6M2ZlX2VOa1FMUUUzZHdnSm51eFExalR0WDNZc0hIcGJyQi1yYTZFQklYYm5iSzJ6eHlpT3A1SW5jakJDNERrSUstUzVKYTVmT3pkSFotcUp5ZUpHU1BlbzJoMVFCZjd4TnFrTnlSS184bVF4cmpyRXpxdUhYUVE0dlRiMkoyaF9Iam1qazNScEZPVWZPaUlaWWhYcnJaYUsyRDJqZDBKRWQybmZ4SFNKUDlxNXJ6cVRkRnRxaVB1QkcxZHJqQS1yWjlfcy1RNWJ6ei03alh1?oc=5",
-          "date": "2026-07-13T07:57:34.000Z",
-          "source": "The Sunday Guardian"
+          "title": "Cops arrest two in double murder case",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQb2dKcTZZbE1VRUN3bGpfamJMQWVlVkNURFNEaVRjS1NTOHJJaUN1ZjloUlkzSlBySVhlMnJhdUUtZ2NIajFTQ2Z1cW1zV2M3N3YxLW04M2RONi0zUHdZRlUtTm9OZXRxb3Jmb3F2cm1SaGhKVlp4MkNKS3Y1WlFham9pVTV1ZVRzaFRFRkcyRU8yNjMzTjBXdHRzZVJXSEF4NzVGLUdwYzQ0TUpoTGNz0gG0AUFVX3lxTE1vemlmQkMwaW14M01mS2FLdFVSWlBuRkM3MFhwbWFMTE96NVR6TTE2d2lHWm5ESWY5d1djY011Vzcxb2xWS0xTOG1jazk1ejhsT2J4eDhVb1I5QzF1V1loTHU0SmF6eno4R2xacHhFRUhTQXpXY2RCcWxJTmdjR2VjeHRGTEVtVV92anJucHpaRFZLS0tGd2ktb1VnaG42ME5jZmZFeUlSTzVEcFlpYVBUSlFJaQ?oc=5",
+          "date": "2026-07-25T16:51:00.000Z",
+          "source": "The Times of India"
         },
         {
-          "title": "115 snatching cases in two months keep Patna cops on toes",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNa3JBT25SY0ZDMnFBbW5HNDFnaG1KZHBULWFhdTV5VDZSekhMX21FVEstQzdwSFBfSVFNM21Oc0JaMEJYREhrSnpqbkR4MTk4Yl9NNnQwbEQzVS1WTndfOVNYMldBYVpNSjlVc2kwcGlzaUtHN1o0eTRLcXRLNUVaaEhiRURVelczQ1ZzX3IycG5RQVpGazRvZ1lrRlNQR2JOTGZ0eV80eWlqNVlDeUtpNU05N29FanAyWEJXY0RoZ0xSTUpIWlhTVU9B0gHPAUFVX3lxTE01TWwxZFhiemZ4eHNIRkNfanV0OUdJMWxXV3Vzck9vTDJRa3Fzc0taQlNWRm1xT3p2TzBRSC1GSTFIeExGd2tqb2tqMWJwNGM5dEwxNDBwTi1lS0I0S0l0MHNCamxxUmd5V3VoY0kxNFBhbV9sZ2poSkNqR1RucmV0aGVxcFdwcWNxU2lJTms1Qld2TWZLU1htT0xWRUFOaWxIQm5UajUzVDJjbEp0UHZWeWNLZXMxVWM0X1FjZnlRSGw0djF5S2xFamVJXzczNA?oc=5",
-          "date": "2026-07-05T07:00:00.000Z",
+          "title": "Bhojpur police foil miscreants’ crime plans, two held with illegal arms",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTmZzUmRBYlpYb3RfMzdJNjFveWpGVzNlTUh0MnBRT1VaZ1ZQR1dSUEZ3djZLSjVsMmtUNHdYZG9xbFIwX09PYXA5a29aVDBZVTE0c3pEazVPNmtfVUxDWW9kR0pBVEoyRnRfNTRzSUEzWW9aOVVqYWlaVk1VNUVMUk11ODV6bTFTdFhwQU1VSF9vSzRraVBMdFZyWHBlNE5BVGxEczhLSWZkcXNxYlczT2UzenRYSG9md0Q1MUtNQVc2M3Vta2FwZnFMSE1ZMTh4QlhEX01kQ2syUdIB3wFBVV95cUxPWGFLanBPWTZ2VVY1NkpWdWh5RmdjRHkzQlBNeWVqYkstVlItNnNRaF94bDZ0V3VIdlBxYnZKTnNVQ0xXNkV3cEw0WGFHT3RPRzBOVm5hVkRlN21XYVlwbmQ5VWo0VXZ0V00zLVJsVHVfbFhzcUhLaUdaN3g5YWVheEFQMnk2b2Rfd2lXb2gtY0hsVU8zV1RJMjg1TS1Ub2s2eGh1N291ZGpGMExYSUl2WGVQRk5lSFdGNXAzTmZoelRXLWxDNEFDeWFta1hUajdaV3YzblYwUVJhWGo0UUww?oc=5",
+          "date": "2026-07-22T16:51:00.000Z",
           "source": "The Times of India"
+        },
+        {
+          "title": "Khan Sir Gets Major Relief As Patna Court Grants Pre-Arrest Bail In Coaching Centre Firing Case",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWmVkS0Rha0RHOFhVVGV1MU00V0x3OWZUc3Y5REZzZ3Yzemc1VEVXOTVqVXh2bjI4a05UWmFFQjdnSjFFWE5vaUNSQ2FWUFJ5Qm5YUnR1R2dBQ09XbWVNUWpnNUhqN1ZqVnk5Qlg3c3l6RC1uSHVPYjc4TWM1ZVM2cE5SY01kUndQMWtna091ZEk2OWdCTkJLODl3eGdZRmY0Snp3dWVIUmZ5Um5oQzRoMDU3WVBseGlXSHU5VGFmZUZrVzluZ3l4NlFVcHUyLXdkbWFRQ2ZGd9IB3AFBVV95cUxNOXg3c2t6M2ZlX2VOa1FMUUUzZHdnSm51eFExalR0WDNZc0hIcGJyQi1yYTZFQklYYm5iSzJ6eHlpT3A1SW5jakJDNERrSUstUzVKYTVmT3pkSFotcUp5ZUpHU1BlbzJoMVFCZjd4TnFrTnlSS184bVF4cmpyRXpxdUhYUVE0dlRiMkoyaF9Iam1qazNScEZPVWZPaUlaWWhYcnJaYUsyRDJqZDBKRWQybmZ4SFNKUDlxNXJ6cVRkRnRxaVB1QkcxZHJqQS1yWjlfcy1RNWJ6ei03alh1?oc=5",
+          "date": "2026-07-13T07:00:00.000Z",
+          "source": "The Sunday Guardian"
         },
         {
           "title": "Two more arrested in Begusarai gangrape case",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMzRVSzNVMTE2d29Wb1lZcHIwc0t6VnZiMHdQNmkwbFh6MFI2WlNiQ1BXLXYwcTRIZzNFRlBVemY4ejh3alA1WS1XdFczZUpabmd1YlI3eEx1SHZvUUVmSFh5S2xDZS14MmY3d1pvM2tXc1dZSmQ3eFVWM1h5b0tlNmxLbWZ3M3JuaFpNRlQ4X2JBeXVrd1RFSXczTlBCNTMwNk5qanJ6ckZfb25RNkFIVUlPcHdjNXlB0gG-AUFVX3lxTE40ZjRsaENQZ0JkeU1RWTllWlRKdWtoTkNyTTB1TjdtekxuUTd6UHRIOHBrZnJsc2UyMF9GSDN2bWxhTVlHNmxEdi1FZkMzYmx1Nk9YWEt2NXQ1cmdlQ0lPMzlvMlJzYlZ0SmRJbGRHVE5FVVNSLWxDWUhBLWt2RGZhTWFPSmhKOGgwaEN5X1B1MzRjUGhuejlqVGg4eG5TN21TWWFGcE9GUi1MSmEwSTRhVFhMQXk2d0MwV3lEclE?oc=5",
           "date": "2026-06-25T07:00:00.000Z",
           "source": "The Times of India"
-        },
-        {
-          "title": "Two arrested in Begusarai gangrape case",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZ01XclhiMWFhVERuM0s0bXFNbElxdkVXNEJLZUI5RUYzWk1fdDRwQTBOOHNWSEZHT0JBUFpLRTJJWjUtVGdkN1hjZW5ZVEFmSXNVeHFWLVc4eWF4U2RvOEhiLVpJdlIyc09OZDFuTFY4bkl6VjRveGJKdFpCMnlGY1djVFpUZmsyOGRRTnNqVnc4YVNWSlN3aTdJYms4bEdGNG5GV0tEY0o0eUVDZWlqc0h30gG3AUFVX3lxTE02UVA1MHdDZjRPa3pMLUVhOG9jTzg0SmZvenlsSkgwZll2RWNzVno5X29EdVRaSW5qS01rU1JrYnlJY1FrdlVvWnEyVk04Z0hhYlFLRUdaZE9LaHB4ektTSm9HcVB3UVdVYkhaTWx3WlNSeUoxOGh1VENEY1dyeW1mbmN2djd6czExdVdtaUozZ3J0NVpUSDN2Vm5tMmpYZFc3WEdEY3JmejhEYUI3Nm5ZcG9ucUZ5aw?oc=5",
-          "date": "2026-06-21T07:00:00.000Z",
-          "source": "The Times of India"
         }
       ]
     },
     "Thirty Five": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Thirty Five\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Twenty One": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Twenty One\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
-      "items": [
-        {
-          "title": "21 arrested in Bihar for hoarding LPG cylinders",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNd1FlTXpvWHZwNUUwd193cW8wU0o0d01WR1VFTDNYczBQOENlZEtGZ1VyYl9SQUF4NEFYWm9wdXplS051NWRwdmk3cnRkUVBfelo0WEl0dVdTQmtrVlFTV1BVNkRPQktwbDhabkVJNDlUSGZKM1FWcmNMVUNkZXpTUllsb2g0aWl4bFZKLWpOSnAzS2hoTVZwbmI1cjdFRmZXaHdaXzVQeTA1VnIxcGRHVVBB0gG4AUFVX3lxTE52UTFNaWx0NHJ3ZDVXdFdjMWFvRWlxbGtwdzJDanVqZDZoT1NPVENYakZzYTBUYTk0MXJXV2VXR3V5MzNZMjBZTjlUUExCMHlkN05LeDVvbHdUNTNFREFTZ3VJb19WQU4tRVRzS2dxVy1ZeHZHWXhIZ1FVazBZZ2t3QkZiM3piaXhkRlRRZS11THUwdW0wS2lxakY5OFR3QjRzVkVlLWFuT3lEcmNqc1lhVDJDSFZlOGQ?oc=5",
-          "date": "2026-03-19T07:00:00.000Z",
-          "source": "The Hindu"
-        }
-      ]
+      "items": []
     },
     "Fifty Eight": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Fifty Eight\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Twenty Nine": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Twenty Nine\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Twenty Four": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Twenty Four\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Seventy Two": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Seventy Two\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Fifty Three": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Fifty Three\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Fifty Four": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Fifty Four\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Thirty Eight": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Thirty Eight\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Five": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Five\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -1443,25 +1868,25 @@
         {
           "title": "Patna Police bust sex racket at hotel, 17 arrested including five women",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVlBhbHA3YWhNNm8zdWtGZEN1MG9NblFzX3ZBY3pQZTZpRW55MUpyU0N0cS1pSVBLek9kSEZHZkhsbVVJNFhiYmYtYzBvd0FReDBNMkZyd0tMS3BrVTJZZENkSzNmNE1SRmZHOWVLVXdrWWVyX0VKRDhJeDVDX2drbG1tSFdONEdvbzA4VHJlSnhNUUhyb29jMUtnb0NlTTB6Z21TU1pxUW02aEk2T2tfejRCcVBZTmpnQklkS2hLM0fSAcYBQVVfeXFMTlZ0eGF4VksxWVZJSktHNjBNU19zdUE1TkJELUVPZVZTRVJzZnQta1dfNC1GNUJzWWNWMUNjTUtWVjU5d1gyazRQSlZ5OUhHbDVtMnROanRCZWE5MXpZV2lBd3RFTGF2OTZ6RlgwaVFYT2RBUUhIUEVqOGNzUV9nYVlITXVMTXFYWU51V1ZCZXBPS2JiUW5SRXhYdDVDQzlENUNGVHNGRVMxVmRUUWplc0tkQ1dzaTdwMWk5akNHbHFxMk92bVNn?oc=5",
-          "date": "2026-07-14T17:07:54.000Z",
+          "date": "2026-07-14T07:00:00.000Z",
           "source": "India Today"
+        },
+        {
+          "title": "Fake Banking Exam ‘Setup’ Racket Busted in Patna, Five Arrested",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0tbUk0RlhTU24zT1JTaDhkOHlYLUVrR04zVWxXNDBPZXRvUGxkM0dtb2xYWDlLb0N4bVRva3JOQWFqSkR0WnMxel93ZkZSc0FUNGlfQXpRUHYxTkl1SS12Znd3U0lFclpuWjZ0eHlic00yRmdXeUNxcWQ2dkZhQQ?oc=5",
+          "date": "2026-06-23T07:00:00.000Z",
+          "source": "The420.in"
         },
         {
           "title": "5 men gang-rape woman in Bihar's Begusarai; doctors remove bullet, stone and wood from private part",
           "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOZ01Nd25OVnItWW1BejM0NVRlTVFWbFVfazVsQXBxUUVqcXNmWk5OSG94V3c0Z0RzUnM2bnNlcTQ4dHVKNGFRWjBpbWhfSlQ4ZzdpNGRIczloci1CRmpPZjRlNlBSN05IdGZwN2hiYlNWX2xPY1dibEZZY2FKbTYyM3c2T2tXYjBidmtVaTdxTk11bGVZT1l4Y3R0c3BOOXVrYlVCU1RCOVZ1S3E5VGhmTTg0MjI3MmI3a0VYYU5Velc3ejgwS25NM292X0JMMFprQkJrakdWUFlMeUtqcWdHRjRpdHRRQ296MmcyYy15Q1FWQmNvcmRHRzdSR1FDUdIBgwJBVV95cUxQVWhrem9uM3BJekVOSFZ0YmJxdC1JdG4tcDJkUllwb1RZRTEyb0ctZVQ3YlJJak9JMmJXUWlBdjVackRoY2s1d0dFXzRFZk04WGpPZTkyN2JzN0lacjdoS05UdHBXQ0hsYl81WENsVWdVQUlBNXU3NUVSZ3VNRXRnZnJtNkE3bXdSejRtRlNJN18tTGtfbGYzSWhPOUl2SVVGZDRRUEhzQjBqa1J5NTlnV3BMRVhuRXoyX0JiZDBvdUNkbzloRmVaeENpbEh4QUFkTEJZVEthZk1iZUZRZHFCcnp6Rkg2cy0tVV9PcGx3R0xWNllxb1RlRDd0dllqWDJTMGUw?oc=5",
           "date": "2026-06-18T07:00:00.000Z",
           "source": "The Times of India"
-        },
-        {
-          "title": "Five youths gang-rape woman in Bihar’s Begusarai",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeEFNV0dYbGtRa3hFNDExemFVaTlYamh6RWxaMFJMMWp6b2dnVGZDSE9YSjFVT0x2em95ZFpuWW52SjhJRk9UM2g0MlRKMFlqendUcE5DamhvcTV6SlJ5UlR1YmhoS0xZRGZyUnV0Vy1OZk9sRlRHeEVyLUVoVUJlS19QYUNNY094UVNSZzl1bTdiVG4yUmU2ME9VM2RQM2VWTHQxeFBFTzfSAbYBQVVfeXFMTUNhTk13YXpjXzJyUEVUMlR1WnlmdkxLUjlOaVJ2VXJOam5tZnlRVEZoZ1doMFVzbTE4bmFPcXlnME1xTXJ4d1YtOHBxRkpqdnZkcXVMMDdZQWUxVDc2aFpJNEQxbGxYWmlkN1V4aGNEZFE5ZVZ3S2VLR1N0MHNLaUYyNFhmTGVoNXZaZVJnLXJ3eGd6U1pnM1FWakc3RG4xOV9DMDhSTDVKWHp0Z1FEblVxcEV3WlE?oc=5",
-          "date": "2026-06-18T07:00:00.000Z",
-          "source": "The New Indian Express"
         }
       ]
     },
     "Thirteen": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Thirteen\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -1473,7 +1898,7 @@
       ]
     },
     "Twenty Two": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Twenty Two\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -1485,29 +1910,35 @@
       ]
     },
     "Sixty Four": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Sixty Four\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Fifty Six": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Fifty Six\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Sixteen": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Sixteen\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Fifty Five": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Fifty Five\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Three": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Three\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "3 arrested for gang-rape of Nepalese woman in Aurangabad",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRmFvQ0d2N29tOFBZbG5aYzQ4X1VJcm54dzRnNXBXTXhiYXRQTFNsT05iVzJ4a2l2bkd4OGVFRW9tdkduUmItb0hKa1BRaFcyS2J6TFhXdldpRHNpdFhWTi1wR3Z5VGNILU9uYnlDMThvQ3RMVjdPSTEwTG05dGlpY1Q1RjFrTk12QmNDQlFMaFBpemc2XzNTbHRHZTZVNEp2X0h0VUF5NlVFalpLXy1vZHBtSjhQRFFhVlRwSzFpVF9NZFRHbk02b9IBzgFBVV95cUxQRkhnU0h0RHMxMGRpZjJ2WExJRHZEWVpaUF9abHhPa1g1OXBRZnhkMHp0amdoRnQtU3drMHk5ZjM2dFo5bTNJdGNESU1wWXhyaFZQYnhmckhIbzNPUjk2OTlXbWZSbnRsNVN6cWJzNjhLdVBNLVZuY1FyUGRvUEduanN5QkN3WWhXS250eUsxNlB3d24xZFdlc2piZmg5OTVTNFBFTGVpZjAxOVByeTQyTFcxOE1PYWEyWGtjRnVoZEtHRDdFTWtybVhPaEppUQ?oc=5",
+          "date": "2026-07-22T17:40:00.000Z",
+          "source": "The Times of India"
+        },
         {
           "title": "Patna Police Bust Alleged Sex Racket at Khagaul Hotel, Rescue Three Minor Girls",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTUkxdUxKaW1mODFydHFoZTdrOGEyVUdWRzZRYmFjZWY3YWFTY0hhX2RrN2x6c3Y2OHNtS3FLb1UyZ3JabWw4VzZMVGJBTkdKOXVPdUZCMDAxVWxmQ095aDhQaHFPZUVYaERDUVJEcVZGUkptNlIzVmF2LXN1VE5PbGNEUjNPbDFtWFZ5aDBMbHdnY0R3Q3QxY29CTk93TDhQTXEyNg?oc=5",
@@ -1517,49 +1948,43 @@
         {
           "title": "Khan Sir Gets Major Relief As Patna Court Grants Pre-Arrest Bail In Coaching Centre Firing Case",
           "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWmVkS0Rha0RHOFhVVGV1MU00V0x3OWZUc3Y5REZzZ3Yzemc1VEVXOTVqVXh2bjI4a05UWmFFQjdnSjFFWE5vaUNSQ2FWUFJ5Qm5YUnR1R2dBQ09XbWVNUWpnNUhqN1ZqVnk5Qlg3c3l6RC1uSHVPYjc4TWM1ZVM2cE5SY01kUndQMWtna091ZEk2OWdCTkJLODl3eGdZRmY0Snp3dWVIUmZ5Um5oQzRoMDU3WVBseGlXSHU5VGFmZUZrVzluZ3l4NlFVcHUyLXdkbWFRQ2ZGd9IB3AFBVV95cUxNOXg3c2t6M2ZlX2VOa1FMUUUzZHdnSm51eFExalR0WDNZc0hIcGJyQi1yYTZFQklYYm5iSzJ6eHlpT3A1SW5jakJDNERrSUstUzVKYTVmT3pkSFotcUp5ZUpHU1BlbzJoMVFCZjd4TnFrTnlSS184bVF4cmpyRXpxdUhYUVE0dlRiMkoyaF9Iam1qazNScEZPVWZPaUlaWWhYcnJaYUsyRDJqZDBKRWQybmZ4SFNKUDlxNXJ6cVRkRnRxaVB1QkcxZHJqQS1yWjlfcy1RNWJ6ei03alh1?oc=5",
-          "date": "2026-07-13T07:57:34.000Z",
+          "date": "2026-07-13T07:00:00.000Z",
           "source": "The Sunday Guardian"
         },
         {
-          "title": "Patna Court Grants Anticipatory Bail to Khan Sir and Three Coaching Institute Staffers in Firing Case",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQb0dQaE5NV0hmX1FPWjZTbFlVTkdVaHpUS1AxOFVwQmdqVmNkY2xCMzc1ZElnSlYxeDV6MEJSRmpzMEE3LW9YZE55aEJGTVVLQ25rbGlsSkRKVzRkU0ZGS0lwXzNuUmtqSEJDT25fbkNYY0o1M1Utd3l4aHBMTVpjREpfZWxJYUYzeER1d2N3WVdOSXlyYnRlVUlHLTlBVkZvT0x0Z2F1QmhtSlI5a3NmMHdMdldUaHBwb2FOZGNqMHFEODJhZlRaetIBzgFBVV95cUxOZjdBQ0o1RE1LMFZWaldTc2JvRHZLamFNWDdlc3VNd1JXeU9ScE1KNld3Ul9rZUtIdTk1S2p6azBkRG1nMGgyeXVLZmhkbHVkeV9nRWY3Z2c1X0RvWUxTNEt4NWYyS2FGNk5YeGFBZ0ZrTTMwSmlGWHdXcFJabmtYNlc2X2ZFeE9jYkJ6UW1iQXktQ01hMU0ya0lzWk96TjV6eHlfSFViV1QyUS1IUkctaEFtYzB4Rk9SYVRpX3k0T1k2RFREQWlEWi05Z2dfdw?oc=5",
-          "date": "2026-07-13T06:54:59.000Z",
-          "source": "boldnewsonline.com"
-        },
-        {
-          "title": "PM Mudra Loan Cyber Fraud Racket Busted: Three Arrested in Patna",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLakJRaTdEU3NHa04xZ1E5bXJFSnZLbGpfR2R2Q0RZM2w5ODhmcTh6S19zUDlZamRJaU13eGxvTFkzX1Zqb0thYlRYemhPbXpxaERuN0ZTQS05SzhBWUhxUGRzOEI0Nnp0WlBv?oc=5",
-          "date": "2026-07-03T07:00:00.000Z",
-          "source": "The420.in"
+          "title": "Patna court grants Khan Sir pre-arrest bail in coaching centre firing case",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcGVPdkRYNWZYS1hYdEUtX1FtSk5teWtDOWNGYWJBcEJpWGdBYjNscUVQUDk3OGQ5RHctZmtwd2haTWt4ODBmdkN1RVBrMElxR2tpRTdLRVlPMEVrMk1xLXMwZFh1cGRiVktIcW5sOUx6bm85cWN5bnpLWTVUZ05aU0lCQWFCWGVHb0pGeDhPN3hQR195SUh1MXVTNUZIUVo1X3BHcjhUTU9tMFZsWXc?oc=5",
+          "date": "2026-07-13T07:00:00.000Z",
+          "source": "Business Upturn"
         }
       ]
     },
     "Forty Seven": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Forty Seven\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Six": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Six\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
           "title": "Removing woman’s salwar, pressing chest doesn’t amount to rape attempt: Patna High Court",
           "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRF9ZNC1FTDZSdnc4b2VQbWlacXJBMjdkVk1nVEpWRTFzWU1GcFgySk8taWRsYlFfblRFUmVwSG5IVlhicFBQUVV6Wl9XTzBPSkU1eGRhRlZ0Z1ItM29BZTd4MUdGbjk0a2NHQzAyQmotS2I4V3ZOMHI1cHp2RndqSXNMWTgtMTExaXdLQWdKMEFqd3Zac0pRdXY4SklPNWxfS2EzNHFBMjEwSVlONkpLeVVIMTRXenhubl82aURYUUo5dEhjMzNNZWFMM3hLbFB3dHkzWnZHVHDSAd8BQVVfeXFMTjdraXZfeERiaTUtTjh3Q2hLUXVzbDVDdHA2SFJDbjZfc0IybHp6bzZtZjNSdmJyclpqc0p5dEFscVZ4N1hxOVdkVG1jNzROUThDNENrMEZFVm1CLW80eERCTWFGYzN3ZDQ5LVNZVkxVYTdjSUlhYW9LMURqWjVRRGJlZUhLZENqVElQNzJSQjN4Mm9abk5YR1VhcjFvWjg4SzJMRUpmZVg5d1BYQzRmdTl0c3o0bXR4TFRGMi1MdTFGTUMtOFBLZE5EOVI3Y0RGRDR0eDFVT1VNTENMRmRZaw?oc=5",
-          "date": "2026-07-15T23:49:15.000Z",
+          "date": "2026-07-16T07:00:00.000Z",
           "source": "The Indian Express"
-        },
-        {
-          "title": "Bihar to conduct large-scale air raid and blackout mock drill on May 14",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTjFHeUJ3OHBuUFFQX3FXRnVXck9ENjdVMHNXNXgxRl9XOGIzRG5vZDhSZkNfTGYtTWF2VmtUeUR2bW9wX01nZlJjQzFVck1nSWRuRjUwOHBMNzJXRmdiblhNY3lIZjZLTnQyOU1LUnhxNVhFVDdzRGs0QlpQOFJuMkFrd0tYRUhZZzBkR1Q2OUNQekFUa0xNdmJHZERSWDRwa1ZLR1NScFJmUlE?oc=5",
-          "date": "2026-07-03T07:00:00.000Z",
-          "source": "Cityairnews"
         },
         {
           "title": "Bihar cops raid govt engineer's 6 sites over disproportionate assets",
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQODVBdk9GcGRDQzZOVFVWNy1waWl3dUduSEJJMVNmSkJxN09wV2tpOFhTOWItNTRUdEVDSjJ4ZzUtNk5FSUtOQmdqQnNiWlhaNUh4SXI3X2tjNnp0NTBCeWtTU0VZMU5YZmVBbkdmSjJySW9NQUNqUG9raDQ2dDQ1aFM4OGR6Y3I5ZTBNc0FOUVdlMm9KZ3hkUTJFalBWNExmaWxlNFVQQ3N1OFRRRDZTUFFybS1XbU5SX3hMaWRuaVVINE5hdS1XdTEta2lGQdIB0wFBVV95cUxObTZxYzAwOW8wRWVzcld5ZjVDM04tZUw0STlDUS0wdkVTckVkZ2pVZkpNdHV6VUdYMnp1VVJhbE44cEFRRmMyWkhPWFVrVS1HYW5KZVdjN2RrRXBmbUUxMVgySmhBdUJtSkhrR1RDcHF6dlpBbllTSWNhWjlzRkJMcjYzUWJkRWNHYXdHN2VSbzAwZzlhd2dHRjE5aE9qdF9rN2x4YUowVGdONUZBaHVvMjRDYzdINnJGNVI1TEpxWFlqeFlPMEpPVUpBVzFjVWxxSjNB?oc=5",
           "date": "2026-06-24T07:00:00.000Z",
           "source": "India Today"
+        },
+        {
+          "title": "EOU conducts raids at six locations linked to Bihar engineer in disproportionate assets case",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQam9VNmxLUnZCUGJrT3hBX2NlbnpfZmdtdlhzOUdZMWZXcVc4bUZuaV9sbE16VjV3VjBBOE0tMWdJdndQU1MzVXJIejFibnFDUTZvZU9vNGY0N0dXTllzVE1Ram9YQTJOLWl5U3JrS21fRkpGdUdqM2Z2OXI1YjlvcWJ6a1VNdDJoUTlqd0I5WXNGdjlpUUNuWFFBOVZLYkVMaHZ1Y3BlNk11bzBveXZiTy1xN3JDVkNDUi1veHo2N1hqVVV5X21MNDNfSdIBywFBVV95cUxQam9VNmxLUnZCUGJrT3hBX2NlbnpfZmdtdlhzOUdZMWZXcVc4bUZuaV9sbE16VjV3VjBBOE0tMWdJdndQU1MzVXJIejFibnFDUTZvZU9vNGY0N0dXTllzVE1Ram9YQTJOLWl5U3JrS21fRkpGdUdqM2Z2OXI1YjlvcWJ6a1VNdDJoUTlqd0I5WXNGdjlpUUNuWFFBOVZLYkVMaHZ1Y3BlNk11bzBveXZiTy1xN3JDVkNDUi1veHo2N1hqVVV5X21MNDNfSQ?oc=5",
+          "date": "2026-06-24T07:00:00.000Z",
+          "source": "Social News XYZ"
         },
         {
           "title": "Six arrested for Patliputra station violence; more suspects being tracked",
@@ -1570,22 +1995,22 @@
       ]
     },
     "Thirty Three": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Thirty Three\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Sixty Five": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Sixty Five\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Thirty Four": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Thirty Four\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Thirty Six": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Thirty Six\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -1597,124 +2022,117 @@
       ]
     },
     "Sixty One": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Sixty One\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Forty One": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Forty One\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Twelve": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Twelve\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Sixty Nine": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Sixty Nine\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Twenty Six": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Twenty Six\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
+          "title": "Arrested over Patna NEET protest, Tej Pratap sent to 14-day judicial custody",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPck1USTRneWZ5Q3VMeGJLN0IxcWNSc2I1bTlmRnliNF9WT09zb1ViY2M0YVR4QW1KX0FfS0F0VDI1ZkVpclFObVZ2bXF3WVZfSTNBSk8tNU1TeHNncHJCeXNTUkdJd0Y4VjJ2c0NORGlTZ3RmSjM2eDJmNDJDSXVaQXVoZlROUGpQa1ZRMk9VS2ZwNWt2a1ZMMGhqdTcxM3hUY2JfQ0d2enhMVVI4eHd2LVM3Q2FfR0XSAb4BQVVfeXFMTTdvUUtMNXc0NXQwcWItUmN3dVVIdzhEdFNaUGF2Wk10RzlDaWFxM0o4a2tGZ0hRd0x6cHVRYnpnYi1YMUJfQWpSbm1NbGV2aEdSdHJSWVhVLWpyWkZxOVB2ejFxUXV4SnlSSndmVzlsVExCNDlaTVdGQ3lZLVNFMTk3dXBmQ2Y1czBnenEzdXdPX0tPbXM3dzMtWmNnWUlid0pCYlo2YWNRdGpYX2FQUm5JN0QyZk1DSm5SSlV6Zw?oc=5",
+          "date": "2026-07-26T06:58:41.000Z",
+          "source": "The Indian Express"
+        },
+        {
+          "title": "NEET 2024 leak: CBI says no evidence linking key accused Sanjeev Mukhiya to paper’s theft or distribution",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNanJpa2ttOFh1S09aQnNkWnh6NzR2cUI2NEdINFR0MjFxRV85SHg1S2x5TTNMUjAzMENEWFNTLUt5VzN5QkozVjVIdnNrUDE3NzQ5R1hJUE5WYTJ5cURBZjZkUGtzdllTOG5fNVdwcThZT3l3cFE2QW5hU2xlbW9mUVFOTkxsVV92dVdCX3RTSDFKT0dmYUlsWWE5NTc4d05LVG5B0gGqAUFVX3lxTE5TZlFBVFFYemVObnVwZWRnR1JXV3BfNGJxLU10Ni1pNHRGXzRyWVVUdWRUVG5wckd6TE1DMzB2VFZKeklQSjZlVTJQMU1lT0lIVmQ5aGRETUVRcjYyZDU2OHdvR2RDcU5CTE9OXzNxbk5lNFdvQVZSZFVIdDV1MW9kT3lMWDRDYXUySTFPYW4ydWN0NnVqV2pQSkF0YUxqaU92Y28zSWQ5bUp3?oc=5",
+          "date": "2026-07-24T00:04:00.000Z",
+          "source": "The Indian Express"
+        },
+        {
           "title": "Supreme Court Takes Dim View of HC Order Saying Removing Womans Salwar, Pressing Chest Not Attempt to Rape",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSVR1SUJlRjNTTFhhR21IRzljLTZQdnZ0cHZTNHZ4SlZuQ0l3WnJhbFRCb0pfUmlCUndSM3RFMGdkVlI4bWRaSE00dWM0RHVlLU85QjVrSmR6NjZEVEh4X2xXYXlfRlJuZUJoWDRveFlxMlVaT1FDTjZFNGg2QkpWNGc1MjM1TENwclU3WFIxc045YWswVmRqVlBLUlQ5NkZJb0xXWlpUVzZoLUxqTHFfeVNiRUJnd2lLTWVZLWU5ODBKVE5VM0hCd2REbWFKcnJ4eEHSAdoBQVVfeXFMUEI0dGFOQjh2OUJjcC01RmUzQkl2dEtkRzljSExKZGdwV2F1Qm45RUppWURwSTZkcDVTUnhoaEJsX3JoMEROc0JJcHR3WFlwLUpRb0hpWHgtRk1XZ0NUcmFCRVplVWtPdHh4aTZIX1V6WF9sYlVhQXBQazAtV09wVkNDUkJFUE8yS2dHSUVuX080dS00ZnBpYzd4MzBIQ1htc1JidnRlNElzYUlJQWVsQ3pybGpFc0VnV1NfeEhmTDVMTFR1Q1ZLRHJfV08wdFVNbklqbkJaQ2NmYkE?oc=5",
-          "date": "2026-07-16T08:30:47.000Z",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOd2UtdE9SS01DVlpUSE9tU0dWRUNGYVV2WDVybU5CWllMam5RNGQ5bUd0U3VaS0dIdEY4NkpPd0RGaXNveWpSS0d2d0VJNGRvcFpSYXlMR2F3TUl2OVBwb0NhVU5WaFU0Y1hDN19xMkpyclF1bktOSlJpR1RLdjlBaHlDMmpVTVhndE8zV0hMbk9ZMVBfRTIwYlVXOHNuOTFiaDNsWHFNZXNudWN5bXhINzd5cWtHQ2g5T3FKSGw5bGVhTDZjcVRPM1IwQ1A2Q3JobkE2cdIB2gFBVV95cUxQQjR0YU5COHY5QmNwLTVGZTNCSXZ0S2RHOWNITEpkZ3BXYXVCbjlFSmlZRHBJNmRwNVNSeGhoQmxfcmgwRE5zQklwdHdYWXAtSlFvSGlYeC1GTVdnQ1RyYUJFWmVVa090eHhpNkhfVXpYX2xiVWFBcFBrMC1XT3BWQ0NSQkVQTzJLZ0dJRW5fTzR1LTRmcGljN3gzMEhDWG1zUmJ2dGU0SXNhSUlBZWxDenJsakVzRWdXU194SGZMNUxMVHVDVktEcl9XTzB0VU1uSWpuQlpDY2ZiQQ?oc=5",
+          "date": "2026-07-16T07:00:00.000Z",
           "source": "TheWire.in"
         },
         {
           "title": "Removing woman’s salwar, pressing chest doesn’t amount to rape attempt: Patna High Court",
           "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRF9ZNC1FTDZSdnc4b2VQbWlacXJBMjdkVk1nVEpWRTFzWU1GcFgySk8taWRsYlFfblRFUmVwSG5IVlhicFBQUVV6Wl9XTzBPSkU1eGRhRlZ0Z1ItM29BZTd4MUdGbjk0a2NHQzAyQmotS2I4V3ZOMHI1cHp2RndqSXNMWTgtMTExaXdLQWdKMEFqd3Zac0pRdXY4SklPNWxfS2EzNHFBMjEwSVlONkpLeVVIMTRXenhubl82aURYUUo5dEhjMzNNZWFMM3hLbFB3dHkzWnZHVHDSAd8BQVVfeXFMTjdraXZfeERiaTUtTjh3Q2hLUXVzbDVDdHA2SFJDbjZfc0IybHp6bzZtZjNSdmJyclpqc0p5dEFscVZ4N1hxOVdkVG1jNzROUThDNENrMEZFVm1CLW80eERCTWFGYzN3ZDQ5LVNZVkxVYTdjSUlhYW9LMURqWjVRRGJlZUhLZENqVElQNzJSQjN4Mm9abk5YR1VhcjFvWjg4SzJMRUpmZVg5d1BYQzRmdTl0c3o0bXR4TFRGMi1MdTFGTUMtOFBLZE5EOVI3Y0RGRDR0eDFVT1VNTENMRmRZaw?oc=5",
-          "date": "2026-07-15T23:49:15.000Z",
-          "source": "The Indian Express"
-        },
-        {
-          "title": "Police in Bihar claim to crack Bunty Yadav murder, which stirred political row",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSzdxMGxoeWNSTU1ad0lYQ2NHM2ludG0tYjc3VTgtYnFkUzl4YUdhcXNpLVFfWkpfbERtUFBZRVowWUhHS0IzeXlTZlV4cmpoZ2UxcnludVVxcnAtZkc3b2dfVWVhV2MxX1JnLWlRS05sNmZKd0xubWoxaEZkWGtyTDl5M3Vwd9IBjAFBVV95cUxOSURxZ3lWdk5lNVNMLV8wTlIyWEVpZUgwU2JyX1NwT3huLTFsNU9hajVpbVVGeDNTVC05bGQydmpWVm9nbkx4TzFfZVlZUk9IaS1tWVF2RHNNenRqdF80d1RKM1FpUUwycFBIcVp6M24za2VoMHM3Q2EyaVl2elZsU09tb2w0UHJUQWhmWg?oc=5",
-          "date": "2026-07-15T00:20:40.000Z",
-          "source": "The Indian Express"
-        },
-        {
-          "title": "Court says punishing children ‘self destructive’ gives juvenile bail in rape case",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOekZ6QzJTQkRDZ1RrVFJqVTFDdFc2ajF3c0xUTmkwQjF4THFSdk00c2VjSDY2dGhRTG1UT1NhcWxIdThyaFh5TC02Z2N1dzdjZGwwOTN5MjFrUmFnZEd6X2tYTEhZNVhxcHpQNTR4RnNYeWRPenRYa3RMb3pTNXloVVRvbmVMX3ZFNFloWU1vOHZMdnh5VFZlUHBRdXZSMndoSGxsa2syd3QwN1dUTk1jRnVjY3pqS0liNjB0bNIBwwFBVV95cUxNZXhxQXNfYUtUaWNWVS1SWGxVM2FnSWdFT2F2VTFlZUVoNmxZamJhM1hjRVloQWVvWTVpY3FEUi1KMmZaLS1DSXJEelJCQjJRYU1YeTI2RGREckgzZ01NXzZ0NzlzWkl3OXIzY0xKOXBnbExnZmFYM0JkQnhNdEkwNkcxejlKVTFvRUp5LU93UVVHZHRNQVZtNFBkX01nbHJiX1QtTWZiNzhQZlBiY3NSeFhmYTdXREJaMFhZN1MxZ1cwZHc?oc=5",
-          "date": "2026-07-09T12:53:37.000Z",
+          "date": "2026-07-16T07:00:00.000Z",
           "source": "The Indian Express"
         }
       ]
     },
     "Sixty Six": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Sixty Six\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Sixty Seven": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Sixty Seven\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Thirty Two": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Thirty Two\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Fifty": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Fifty\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
-      "items": [
-        {
-          "title": "High Court warns against ‘post office’ approach, quashes rape case",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRXJjM3llelRwaHVNMWtSNTBPODBTdF9jMDU4YjdJaUF5THV3STJsWTBQaV9aVS00d04zN1NCcmRrUVE3SnBjUXBfODlLeV84VF80RXFjWEdycC1mQjNfRXAtMjhqbFAzSHJDX2tTVHY4VzRHZl9SMjZoYnMwRll0bXQxdzk3b2hLbTFkNHdSdmU1Q2tOYzVIN3FlUzJ4dVliU0t0MjdxS2EtRXN5aFp3WjRlVDVGc3VzV096ZDZVNVBhLXVUai1rbmVMV3E4WGpUT3fSAdcBQVVfeXFMTTFjd1g3dk5GRW0wREN6X2NqVjFNbllEcklwSlhpeXVTcFY1Vm1fSlBoUHh5YXhYaFM2Z1l2bENqclVKeFpTQjJlLUhJNjdWNUhiZFVTOHVWSElvYUtzLXNBZEZGSW83dE1IRHR4WUp5ODVLV05QMUVWaC1ndTVBSUNQdGVBMXdxV0xOTjI4TDUySlFNYXZRQ3RmUDYyWlNjdG4wQ3dpdXI1NTV5RDlIcG1OOHJKNzJjdXFYbEh3MHExWEdhRWtiMG01VVNLbTZHTjJ4U1ZIRjg?oc=5",
-          "date": "2026-01-21T08:00:00.000Z",
-          "source": "The Times of India"
-        }
-      ]
+      "items": []
     },
     "Forty Three": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Forty Three\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Fifty One": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Fifty One\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Twenty": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Twenty\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
-          "title": "Removing woman’s salwar, pressing chest doesn’t amount to rape attempt: Patna High Court",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRF9ZNC1FTDZSdnc4b2VQbWlacXJBMjdkVk1nVEpWRTFzWU1GcFgySk8taWRsYlFfblRFUmVwSG5IVlhicFBQUVV6Wl9XTzBPSkU1eGRhRlZ0Z1ItM29BZTd4MUdGbjk0a2NHQzAyQmotS2I4V3ZOMHI1cHp2RndqSXNMWTgtMTExaXdLQWdKMEFqd3Zac0pRdXY4SklPNWxfS2EzNHFBMjEwSVlONkpLeVVIMTRXenhubl82aURYUUo5dEhjMzNNZWFMM3hLbFB3dHkzWnZHVHDSAd8BQVVfeXFMTjdraXZfeERiaTUtTjh3Q2hLUXVzbDVDdHA2SFJDbjZfc0IybHp6bzZtZjNSdmJyclpqc0p5dEFscVZ4N1hxOVdkVG1jNzROUThDNENrMEZFVm1CLW80eERCTWFGYzN3ZDQ5LVNZVkxVYTdjSUlhYW9LMURqWjVRRGJlZUhLZENqVElQNzJSQjN4Mm9abk5YR1VhcjFvWjg4SzJMRUpmZVg5d1BYQzRmdTl0c3o0bXR4TFRGMi1MdTFGTUMtOFBLZE5EOVI3Y0RGRDR0eDFVT1VNTENMRmRZaw?oc=5",
-          "date": "2026-07-15T23:49:15.000Z",
+          "title": "Arrested over Patna NEET protest, Tej Pratap sent to 14-day judicial custody",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPck1USTRneWZ5Q3VMeGJLN0IxcWNSc2I1bTlmRnliNF9WT09zb1ViY2M0YVR4QW1KX0FfS0F0VDI1ZkVpclFObVZ2bXF3WVZfSTNBSk8tNU1TeHNncHJCeXNTUkdJd0Y4VjJ2c0NORGlTZ3RmSjM2eDJmNDJDSXVaQXVoZlROUGpQa1ZRMk9VS2ZwNWt2a1ZMMGhqdTcxM3hUY2JfQ0d2enhMVVI4eHd2LVM3Q2FfR0XSAb4BQVVfeXFMTTdvUUtMNXc0NXQwcWItUmN3dVVIdzhEdFNaUGF2Wk10RzlDaWFxM0o4a2tGZ0hRd0x6cHVRYnpnYi1YMUJfQWpSbm1NbGV2aEdSdHJSWVhVLWpyWkZxOVB2ejFxUXV4SnlSSndmVzlsVExCNDlaTVdGQ3lZLVNFMTk3dXBmQ2Y1czBnenEzdXdPX0tPbXM3dzMtWmNnWUlid0pCYlo2YWNRdGpYX2FQUm5JN0QyZk1DSm5SSlV6Zw?oc=5",
+          "date": "2026-07-26T06:58:41.000Z",
           "source": "The Indian Express"
         },
         {
-          "title": "Cash, valuables worth Rs 5 lakh looted in Nalanda",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaGNPR2V2Und4cnlJQ1BYZkhvX1ViSWYzVlFqMlFILWpTWGh6OTFybjQzdDMxYUNQWmJYaUtxY0JIanFfVllkSzYyZ3ptZ2lSckoxNEFIeDhIX2FvajJ2WXo0TGFFbV9VV25Hd2dBQWdUaE4wX3ctNFptRk13X0dMTWRrSkxUZGpod3lmZnZnYlZaU0tfWmMzRWR5bFMyZEcxZDNISFg2cHVNbXlSZHRGTTJqemltOUk4MXJpRkRB0gHDAUFVX3lxTE1fbnB2VGMtaWVlU3BlRnJYbzNpUE01SzVVUVNKUWktaHVOUzFEMGoxOEpfQjJyYWdLMnlGdlBRaEJ4R0ZfRGJNZnRpUDZiOGo3QnE4TEdUekdwUW1IY0RlOHIzQ2xlQW1KTFg0ZG5oYk8wMHdvTmY3RjR0MEJ6M3FKOEEwdUF5RFJYN2VBekx4QXhPM043dUxwMHdhRFRvMlIxZjI2eW5sNWp6TVVpQkNoZ05PWG4yME1EdWQ4QXJzbzRxNA?oc=5",
-          "date": "2026-04-30T07:00:00.000Z",
-          "source": "The Times of India"
+          "title": "NEET 2024 leak: CBI says no evidence linking key accused Sanjeev Mukhiya to paper’s theft or distribution",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNanJpa2ttOFh1S09aQnNkWnh6NzR2cUI2NEdINFR0MjFxRV85SHg1S2x5TTNMUjAzMENEWFNTLUt5VzN5QkozVjVIdnNrUDE3NzQ5R1hJUE5WYTJ5cURBZjZkUGtzdllTOG5fNVdwcThZT3l3cFE2QW5hU2xlbW9mUVFOTkxsVV92dVdCX3RTSDFKT0dmYUlsWWE5NTc4d05LVG5B0gGqAUFVX3lxTE5TZlFBVFFYemVObnVwZWRnR1JXV3BfNGJxLU10Ni1pNHRGXzRyWVVUdWRUVG5wckd6TE1DMzB2VFZKeklQSjZlVTJQMU1lT0lIVmQ5aGRETUVRcjYyZDU2OHdvR2RDcU5CTE9OXzNxbk5lNFdvQVZSZFVIdDV1MW9kT3lMWDRDYXUySTFPYW4ydWN0NnVqV2pQSkF0YUxqaU92Y28zSWQ5bUp3?oc=5",
+          "date": "2026-07-24T00:04:00.000Z",
+          "source": "The Indian Express"
         },
         {
-          "title": "Pre-arrest bail granted in SC/ST and IPC case — Patna High Court, 2019",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSy1mam5HZUZic0k5eXJPTmhnUkF2TDNjUGVjQUdycUtIbWI5aVhQWFJlWnlGcXhBVmtPSXVxTjJUYUhLMEZ1VGU3TUxYVDZqaUh0ZjFHREtrX3lIRTJ2dWRCcUFWdkJJM0ZTTXRrdkJ6b1FjcXVNUHB0eDZ6UWw4c2JwdGpNX2lrOHZhd1Q0WWZFelhnSzBhczNlWW1GU2M?oc=5",
-          "date": "2026-03-23T07:00:00.000Z",
-          "source": "Samvida Law Associates"
+          "title": "Supreme Court Takes Dim View of HC Order Saying Removing Womans Salwar, Pressing Chest Not Attempt to Rape",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOd2UtdE9SS01DVlpUSE9tU0dWRUNGYVV2WDVybU5CWllMam5RNGQ5bUd0U3VaS0dIdEY4NkpPd0RGaXNveWpSS0d2d0VJNGRvcFpSYXlMR2F3TUl2OVBwb0NhVU5WaFU0Y1hDN19xMkpyclF1bktOSlJpR1RLdjlBaHlDMmpVTVhndE8zV0hMbk9ZMVBfRTIwYlVXOHNuOTFiaDNsWHFNZXNudWN5bXhINzd5cWtHQ2g5T3FKSGw5bGVhTDZjcVRPM1IwQ1A2Q3JobkE2cdIB2gFBVV95cUxQQjR0YU5COHY5QmNwLTVGZTNCSXZ0S2RHOWNITEpkZ3BXYXVCbjlFSmlZRHBJNmRwNVNSeGhoQmxfcmgwRE5zQklwdHdYWXAtSlFvSGlYeC1GTVdnQ1RyYUJFWmVVa090eHhpNkhfVXpYX2xiVWFBcFBrMC1XT3BWQ0NSQkVQTzJLZ0dJRW5fTzR1LTRmcGljN3gzMEhDWG1zUmJ2dGU0SXNhSUlBZWxDenJsakVzRWdXU194SGZMNUxMVHVDVktEcl9XTzB0VU1uSWpuQlpDY2ZiQQ?oc=5",
+          "date": "2026-07-16T07:00:00.000Z",
+          "source": "TheWire.in"
         },
         {
-          "title": "15 women among 22 arrested in Patna for operating cyber fraud call centres",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVnJQZHh2eHZTd2FwZ1lvYTEzRW9LNjdrc3Z0dTBSUnl3eDctWDVUY2JPZkUyVW5IUmlKUVIwTE9ramNCZ0k0QUpKRHBibTY3WU5TeG4wTl93Y3dKemZMbXhlRW9qQUIxUjJ5Y3dKNUxZVE1mcUZTWk9TRUtOaDhxSUZ6aGI5bGxJck1TbllwNUxENWtrTnJjakg0eHhTaXAwR25Xb00tRmxZWDJBSVExbVNiTEZfUUIyOVBKVlgxVW1fSUd0UWdSMjAyZ0owU21RX3JjU3lB0gHbAUFVX3lxTFBNaUtFdTV1X28yNWlCWHpwazZHWUp0VGVkVkpZd0xyZmxfbHVlQmFDR3lnVkg5THlIR0hxbmstcUV6Q3dXZG1zTXN2dWM5NHJpcW5RejNHYlRCTUhVUm1kd0htSlc1MGhkeFJWbmtDWjdmb09LN2N0VHVmRUdzR2g3cnh2aGMtRzdpNVkwT2dWTi1LRHBXaU9RSkNMWGlhbHFLX1dicmt1Y0F6dEFtREtzS2JDcUczdnk0aXRvNC1hVnhOVngzZmo3S0lvWHJCdFpSUzdHQTJJdm5jSQ?oc=5",
-          "date": "2026-02-04T08:00:00.000Z",
-          "source": "Business Standard"
+          "title": "Removing woman’s salwar, pressing chest doesn’t amount to rape attempt: Patna High Court",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRF9ZNC1FTDZSdnc4b2VQbWlacXJBMjdkVk1nVEpWRTFzWU1GcFgySk8taWRsYlFfblRFUmVwSG5IVlhicFBQUVV6Wl9XTzBPSkU1eGRhRlZ0Z1ItM29BZTd4MUdGbjk0a2NHQzAyQmotS2I4V3ZOMHI1cHp2RndqSXNMWTgtMTExaXdLQWdKMEFqd3Zac0pRdXY4SklPNWxfS2EzNHFBMjEwSVlONkpLeVVIMTRXenhubl82aURYUUo5dEhjMzNNZWFMM3hLbFB3dHkzWnZHVHDSAd8BQVVfeXFMTjdraXZfeERiaTUtTjh3Q2hLUXVzbDVDdHA2SFJDbjZfc0IybHp6bzZtZjNSdmJyclpqc0p5dEFscVZ4N1hxOVdkVG1jNzROUThDNENrMEZFVm1CLW80eERCTWFGYzN3ZDQ5LVNZVkxVYTdjSUlhYW9LMURqWjVRRGJlZUhLZENqVElQNzJSQjN4Mm9abk5YR1VhcjFvWjg4SzJMRUpmZVg5d1BYQzRmdTl0c3o0bXR4TFRGMi1MdTFGTUMtOFBLZE5EOVI3Y0RGRDR0eDFVT1VNTENMRmRZaw?oc=5",
+          "date": "2026-07-16T07:00:00.000Z",
+          "source": "The Indian Express"
         }
       ]
     },
     "Twenty Five": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Twenty Five\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -1726,27 +2144,27 @@
       ]
     },
     "Seventeen": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Seventeen\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Twenty Two A": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Twenty Two A\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Fifty Two": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Fifty Two\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Sixty Eight": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Sixty Eight\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "One": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"One\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -1776,7 +2194,7 @@
       ]
     },
     "Forty": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Forty\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -1788,13 +2206,13 @@
       ]
     },
     "Nineteen": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Nineteen\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
           "title": "Removing woman’s salwar, pressing chest doesn’t amount to rape attempt: Patna High Court",
           "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRF9ZNC1FTDZSdnc4b2VQbWlacXJBMjdkVk1nVEpWRTFzWU1GcFgySk8taWRsYlFfblRFUmVwSG5IVlhicFBQUVV6Wl9XTzBPSkU1eGRhRlZ0Z1ItM29BZTd4MUdGbjk0a2NHQzAyQmotS2I4V3ZOMHI1cHp2RndqSXNMWTgtMTExaXdLQWdKMEFqd3Zac0pRdXY4SklPNWxfS2EzNHFBMjEwSVlONkpLeVVIMTRXenhubl82aURYUUo5dEhjMzNNZWFMM3hLbFB3dHkzWnZHVHDSAd8BQVVfeXFMTjdraXZfeERiaTUtTjh3Q2hLUXVzbDVDdHA2SFJDbjZfc0IybHp6bzZtZjNSdmJyclpqc0p5dEFscVZ4N1hxOVdkVG1jNzROUThDNENrMEZFVm1CLW80eERCTWFGYzN3ZDQ5LVNZVkxVYTdjSUlhYW9LMURqWjVRRGJlZUhLZENqVElQNzJSQjN4Mm9abk5YR1VhcjFvWjg4SzJMRUpmZVg5d1BYQzRmdTl0c3o0bXR4TFRGMi1MdTFGTUMtOFBLZE5EOVI3Y0RGRDR0eDFVT1VNTENMRmRZaw?oc=5",
-          "date": "2026-07-15T23:49:15.000Z",
+          "date": "2026-07-16T07:00:00.000Z",
           "source": "The Indian Express"
         },
         {
@@ -1806,37 +2224,37 @@
       ]
     },
     "Seventy": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Seventy\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Seventy One": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Seventy One\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Sixty Two": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Sixty Two\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Thirty One": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Thirty One\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Fourty Six": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Fourty Six\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Thirty Nine": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Thirty Nine\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Forty Eight": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Forty Eight\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -1854,20 +2272,14 @@
       ]
     },
     "Four": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Four\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
-          "title": "Shareholder of Co. issues 857 Fake GST Invoices: Patna HC refuses Pre-arrest Bail [Read Order]",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdlJKbjcxQU1sMjVtTWxBZVdlVGllNW1VcVI3TkNRd25jRzFmNkhzMmV5Z21FdUdXSFg4dXFwUkx1MDQwYkVXNTgtbzJfMWp0V2QxNmtNMG1kUTJnQzltR1RocjFZV2J3NFVBSzM1SlZnOWlEbDRiMDBGaDR6Wk5kTUJnSkF3aUlSdkV2SndoZVAzZkp6Y3N5SjJNMDFpQnczbmhTc2g0QlhBZVBQYWtHX3kxLTNiamxNZzRsNm1xTER1blBtMVNsSlRKWXJKZw?oc=5",
-          "date": "2026-07-04T07:00:00.000Z",
-          "source": "Taxscan"
-        },
-        {
-          "title": "Bihar: Anand Kumar's murder case solved, four arrested",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdXFQTE9jNVhER2s5ZEdKR1FKVnJwQXBMMktzTkRDU3JlZnNmS1BkdXZnZmVLQUNzUHI3cWZEZE15V3psczRJaU93UTY0SlFoQnlCc3VlNUJPLWpwX1hXNHdCQlFYaVZuYkg4bG4wdlZMZ280bk9KUmtOWTllOHJGSXhBT2psSWpyaF8tS1Fn?oc=5",
-          "date": "2026-07-03T20:03:27.000Z",
-          "source": "thehawk.in"
+          "title": "Daya Dubey Gang Busted in Bihta; Kingpin Among Four Arrested, Weapons Recovered",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcUViaGtleTZhSklMMDlleTczSjg4b1ltMUdIN2tZTWFBaDR0S05obVg1Qy1jUTBQdlkwazRnU2pQM3lQVW1tOWZNSWNCTTlJV09Hc3dCUHJGWFpQdUJISkQ4cTZnN29VWUxycmUtdWRLbnBzNUFBakxUeHMtbklteGZPdlV3NmU0OHA5cVIxQUk?oc=5",
+          "date": "2026-06-02T07:00:00.000Z",
+          "source": "Patna Press"
         },
         {
           "title": "Quadruple murder case: Two brothers among four arrested in Rohtas",
@@ -1880,11 +2292,17 @@
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1TZlJDTEs1NUNfOXktWl83V2RWT01LRmNTeEh2QUg0ajN4VDdhSTdpMklIMTlObXpzTlR1V1hnNEhBWHo4RE91ZVFSSmVWQUc1OUxzVEFwakJLN0N0dV9CdmpKVk5vckRkdEdaWHEtNEdhV05XU1gtX3NWYw?oc=5",
           "date": "2026-05-16T07:00:00.000Z",
           "source": "The420.in"
+        },
+        {
+          "title": "Bihar EOU uncovers cash during raid on engineer’s premises",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeHNGS3ptTWc2U25nYUxfRFFvVnRjUlhRRXZ2dWtOeVdkREdEQWVxQXpUQVI5NmJBVWFoY2lYVTlXQnFiYVdpaGdmZmkxMGd4TFd3TUNqanhvUzA5Q3BJTjVGTTdxbkJ1UVFBYldMcE1oLWZlTkFCb1ZocjRYcURobFRadWR1aDhSeUtfVXFBQXhQWHRRSnJJUWtNaHoxTlJf0gGmAUFVX3lxTFBTRXgwcnlkTThSZ2l5N19jZ1VnNzMxM0wxck1kZ2RwZEJoTWU5dTJxcFZfVU5lN0JrU3ZlWGhBdWJkMVBIa1JTdWxYZlNNS1NRRGxxOUFuSzhiVjZ5X19lOWxBRXhhQ19MX0NKSjNfZUZVNEV3UHBSZk16YXVXRjdUZXJpTTdRZmpaYlk5M3JKN1lSbTd2dkRGd2NMZ3hjajA3aTQ0NVE?oc=5",
+          "date": "2026-05-15T07:00:00.000Z",
+          "source": "The Assam Tribune"
         }
       ]
     },
     "Seven": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Seven\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -1894,16 +2312,16 @@
           "source": "The Assam Tribune"
         },
         {
+          "title": "From Seven Katthas to Rs 11.5 Crore Assets: EOU Raids Expose Alleged Land-Grab Network Linked to ‘Santosh Don’",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBoTGNKZ01Iak1Nd1FVbk1iRXdxUjktYXRwQndhVFRVRm01VlFiMDJsLWpkRWkyc3pScy1xalFEeUdaNmlLQzNqY0xNMFlsMm4xRFpZeXdEaWljRVFVMTZxRWQ2S1JKRG5FMzlfSlRmV1Vzdw?oc=5",
+          "date": "2026-06-13T07:00:00.000Z",
+          "source": "Patna Press"
+        },
+        {
           "title": "Bihar: Patna Police bust Daya Dubey gang, arrest kingpin and seven aides",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZmV6Q1g1REJQWm0tRmljRVN0Z1RFOS1yeUtOYVJid0IzX0Z6SXdqYngwMnF1dDg0M2JJaVpveldoYUdvOFZ0ei1pMFFpS1FmcHlVWDhMeUhVS1JPcTJGYTRqMjRFeFNYWWQtcFhpaHNpQU9hTkhBV1MzOGZmQVZ4OEg5RVB5aEwyY2l5Ymd5OGhKeE9DRTJJUlNUSnppaXZvd2Z6RGhVYw?oc=5",
           "date": "2026-06-02T07:00:00.000Z",
           "source": "thehawk.in"
-        },
-        {
-          "title": "Bihar: Patna Police bust Daya Dubey gang, arrest kingpin and seven aides",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORTZiWHhQTlNUdkFsNElIcHNKUVB0MkExYUxNRjdDNDJNcjhyTFc1VVRHNl9ZYlAxLWdZN0haWTlIcG16dUd3cG1FTXMyRnZZWmFWNDlWZExtQlZNY0RqNmRGd2JDUTVVREdscjY3alYtTjJBdl9FSGRNVW0zTWN6VjE5NldkSzhHd1lBRmN3ZXA0dy1oR1p6MW1MNEloLTlfRTVtWkpFWWhPczdNTFY0X2pia1ZYRVpuRVRmcG9n0gHDAUFVX3lxTFBCbTVYY0p4eDd0ZTRqeWhhS1p2WUhtMEtKYmp0dGZBRkdSZmszX3UxYmN4QlA2Q05hLU92dnFLYUhQRUlxV1dmRFRrM0psdUlKRFVtN09nNjRqVlBwanpwRlp6QTIyXzJFYk9VYm84YkRIcExsSHZzeS00c1d0QVI5WVc3NHFjbUQ0c0gtQlEzb0dqS3dfN1BCWVhkbDZZNm5RRFV3WExXNEstSy11c1pfUVZzOEpFWk5uYVBhSlhmWGs2QQ?oc=5",
-          "date": "2026-06-02T07:00:00.000Z",
-          "source": "The Hans India"
         },
         {
           "title": "From Patna jail, watched by NIA and multiple state police forces, Bihar criminal chases his fascination for gold",
@@ -1914,7 +2332,7 @@
       ]
     },
     "Thirty Seven": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Thirty Seven\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -1926,14 +2344,20 @@
       ]
     },
     "Twenty Seven": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Twenty Seven\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Twenty Eight": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Twenty Eight\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Arrested over Patna NEET protest, Tej Pratap sent to 14-day judicial custody",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPck1USTRneWZ5Q3VMeGJLN0IxcWNSc2I1bTlmRnliNF9WT09zb1ViY2M0YVR4QW1KX0FfS0F0VDI1ZkVpclFObVZ2bXF3WVZfSTNBSk8tNU1TeHNncHJCeXNTUkdJd0Y4VjJ2c0NORGlTZ3RmSjM2eDJmNDJDSXVaQXVoZlROUGpQa1ZRMk9VS2ZwNWt2a1ZMMGhqdTcxM3hUY2JfQ0d2enhMVVI4eHd2LVM3Q2FfR0XSAb4BQVVfeXFMTTdvUUtMNXc0NXQwcWItUmN3dVVIdzhEdFNaUGF2Wk10RzlDaWFxM0o4a2tGZ0hRd0x6cHVRYnpnYi1YMUJfQWpSbm1NbGV2aEdSdHJSWVhVLWpyWkZxOVB2ejFxUXV4SnlSSndmVzlsVExCNDlaTVdGQ3lZLVNFMTk3dXBmQ2Y1czBnenEzdXdPX0tPbXM3dzMtWmNnWUlid0pCYlo2YWNRdGpYX2FQUm5JN0QyZk1DSm5SSlV6Zw?oc=5",
+          "date": "2026-07-26T06:58:41.000Z",
+          "source": "The Indian Express"
+        },
         {
           "title": "'Mentally Unsound' Youth Shot Dead By Police After Surrender In Bihar; Five Cops Suspended",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOR3Z0cWNWdWg4OGd0dUxEaXBOd3QyVnhPTVF4SzJrc01KZkVNaGh4ajdIWXZpT2xiSXNHY0dDV0IyYUV2ck5LTGRLTU5xb09oUHRtOXhqZk00eE5jSGV6ZVJfRElBTWRBeFpzMFpQWERrVy1Vc1I4VG1NMUVwUHI3NDYtckNIaWI4S19INnJ4dlNjdHVoUUctbmN0b29CQXdtdy1r0gGoAUFVX3lxTE5NeEl2TW9GTnN4c0RqWjF6bzRTcl9KYmlOd2RBbHM3aHoyQ3F1YWFFanZxNDJRemdIWVdNV3p5V3JCM2U3anJFaEs1TVgxdVAtUmJEQ3RtR3ZWS0RseXV6ZS1zZXJQS01qSFRRSXVoN1d3c3lBN1dPbDBFT0YyXzR2VzNseE9yRnNXN0lXSG5iLTdaSy1fX1J3LU9zN2p1RVF1bG9aelQyZA?oc=5",
@@ -1943,12 +2367,12 @@
       ]
     },
     "Eighteen": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Eighteen\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Thirty": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Thirty\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -1960,56 +2384,49 @@
       ]
     },
     "Fifty Seven": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Fifty Seven\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Sixty": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Sixty\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Sixty Three": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Sixty Three\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Forty Five": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Forty Five\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Forty Nine": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Forty Nine\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Fotrty Two": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Fotrty Two\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Eleven": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Eleven\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
-      "items": [
-        {
-          "title": "Patna NEET Aspirant’s Death Puts Bihar Police Under Scanner After Post-Mortem Flags Sexual Violence",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVUo3Q01vcVRxaVZHVVBIYVNRQXI0RjVMdXNudTJJN043UHpmRUZnUHFDS0JnQ05HaGRkTnpKOXlFUGdndUJKNW1MSmp6RUR4SFNDdmstTnNhTWt1VkhtbERKcVRwei1NbFlWRk9telFUWG16M2VyU2ZCUUFnUkpRTHZiS1pieE9oSU5JMHNkS0dxQlEtU3lPbnh4OWpxZENPZlA1VmpsMUhLY2NoZW1yajgtNUtNM09EMm1KWGRlbVVIOXVkaE5NMzg1elNyTnRDbHfSAd8BQVVfeXFMTjBfTFN2UEtFdmZNa1FKM3BXaDZIY2NiSFM5eC1LbHFUdC1ncjVwNmhLdWdCQXZ1a0Jwem1HbnhPb2xNUUw3ZU1zd3ljYWVOWEZKTUxDTUdjWFVLMDJwT0VZMkxzWXRmTFAzYW1VMy1IVEhjTWFzQlM3Uk5hZXVQZ20zOTN1MW9ENWFuNy1CbWduZFgtWWI5UDFJMVp2cmwwR3ZwVzNNYVBPaW9wRFo4RG1WUmZLS29XRVBlckxBNXJJVzhaUkFSQ2F3eHI4TkpLdkJ3ZVQ3eDhfSUkyUHAzVQ?oc=5",
-          "date": "2026-01-20T08:00:00.000Z",
-          "source": "Outlook India"
-        }
-      ]
+      "items": []
     },
     "Nine": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Nine\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
-          "title": "Bihar Police crack down on illegal weapon display on social media, arrest 130 people",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOS1BJbDZENk9SZWtzVzNpZTRNeFowX2JQLVl6YzhsdGgzOVBUWDlMcWMtUE1sRFBWR2s5Y2VaaXNRTW00a1hjQTRRcmllbGE5WGM1dWZ4VXFHUFBJa3k3dXVvZHJ6YkhuNGRSNVZ3MkRVNWdiajNacEhRNUZ2SkNlUHZXOGtmVnVmM0pHQW5TbmtBeW9EVGtYVE5YR0tSVmxCU0pVUUV6bHlQcWVvTlBNRm1MRUJZWmY2QjFEUFVlVdIBvwFBVV95cUxOS1BJbDZENk9SZWtzVzNpZTRNeFowX2JQLVl6YzhsdGgzOVBUWDlMcWMtUE1sRFBWR2s5Y2VaaXNRTW00a1hjQTRRcmllbGE5WGM1dWZ4VXFHUFBJa3k3dXVvZHJ6YkhuNGRSNVZ3MkRVNWdiajNacEhRNUZ2SkNlUHZXOGtmVnVmM0pHQW5TbmtBeW9EVGtYVE5YR0tSVmxCU0pVUUV6bHlQcWVvTlBNRm1MRUJZWmY2QjFEUFVlVQ?oc=5",
-          "date": "2026-07-17T16:03:20.000Z",
-          "source": "Social News XYZ"
+          "title": "Bihar: 158 arrested in district-wise crackdown; liquor, drugs, weapons seized",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNenZhdlJuMG51R19YUFlSV2dEX0F1cDJjQ2IwbkF6WXQ5UGtqbWFhRWFEeUp3clQzby1Vdy1aX3cxeTJST1dfdV81RnZCLUFfdFoyMDY2S2RTQ1Y3Q2tmNFltRGVHak5yN0gtTkZmRU1oYWtwX3k4NXA1VExPQTlXcDF4SllIUlRnQ3Z1REhyLWlTYUJnTlpNNHZtNE5GNUpqbDVFT2JIQW1XazlEb1RyZFlsR2pwbkRJTXBqZnJMTm05d9IBxwFBVV95cUxPak5WUV81cl83eXhHa3VnMkp3NExBbUZnaWRtbFFrSGNYZV9qYzlpdjhpQkJGUTM0ZldpR01PRTR3SHlzWWY5alA4ZnZqNWVNUkhRRTRPQnkwREVVOE5aRXBzRzZ3OTUtSTdzaWlIZzRoV0Z2LXNvZ2wxZHQ4YTByRS1XZFZrcHBzbkhNV05FUTF3SldIUnE5VWVvWi1NSU9UZzRJOWg3RTFheXllQWVuZXA0NDJMYzlQUUR6M0lha1REcVRxc2hv?oc=5",
+          "date": "2026-07-17T16:15:59.000Z",
+          "source": "The Hans India"
         },
         {
           "title": "EOU raids 6 premises of Patna engineer, unearths assets worth Rs 3.89 crore",
@@ -2025,21 +2442,21 @@
         },
         {
           "title": "NEET UG Re-exam: Bihar Police Arrest 31 Impersonators, Including AIIMS Raebareli And PMCH Medical Students",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTDVDTlJ0VHpnVkJHcHdpRkxmNVotcUNZYW5FWklNd01vUkVnXzRtazlvclRQVkg1d2NqRWp3WlZlYTNNWUNqNzd0ektFZXNHaU9UcmxyMUphaTN5V0lmdjNMTzFYUjIwWjdkdUlPVlVDNHJGdHdtVG9fUHVGU3BEWjJjNk5hNEhyMVhPMVFiUUNPVTA3QXZqMW10MjNHeUtOWkc1dE1RVGZzeVlDeVVkWnRrMHRXdw?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTDVDTlJ0VHpnVkJHcHdpRkxmNVotcUNZYW5FWklNd01vUkVnXzRtazlvclRQVkg1d2NqRWp3WlZlYTNNWUNqNzd0ektFZXNHaU9UcmxyMUphaTN5V0lmdjNMTzFYUjIwWjdkdUlPVlVDNHJGdHdtVG9fUHVGU3BEWjJjNk5hNEhyMVhPMVFiUUNPVTA3QXZqMW10MjNHeUtOWkc1dE1RVGZzeVlDeVVkWnRrMHRXd9IBuwFBVV95cUxPZnhHWVdMN1dMYXEyc3FYREROckViTjdqcDRRUENuX215eG5UVHRsU1VLZDMtaTIwRmRjcGd2MDRBcFoyRU5IWjNtb29EblpfODhEbldVX29UdG1NZGt2NzhUbEFlbTY1TEZSbUs5RERMS0tQbFd3WUtaUHNNQjAwUjEySGtVbDFJM19NanRiUzM2MlZXZ2pNMEZicGo2dlNBRkNabnA0ODNFRzV5dW8ySlowalZXRW9teDhv?oc=5",
           "date": "2026-06-22T07:00:00.000Z",
           "source": "ETV Bharat"
         }
       ]
     },
     "Ten": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Ten\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
-          "title": "Bankipur bypoll: JJD candidate Veena Manvi arrested on old warrant, granted bail",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTmdLVDhROUJnMGdOaTVqMVUzR0hxOWR2ZWNTN01NMFpCWWlRWVlEbFo5ZXBDdnBoeFIwUnZqREVNT2oxMEtNNlI4V1NHSVhfWVBycEZuQUtFcnlLaWNxb05pdk84VXUwMlZiS3A3eHdDbldqRWp5SENaLUs5UEdTWkNvRmplR2JlWmZDdkRMdng0aUNVT2N4OVJRSmVvaGc?oc=5",
-          "date": "2026-07-13T14:48:22.000Z",
-          "source": "tennews.in"
+          "title": "Notorious criminal held with firearms in Khusrupur",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWWQzR3RiM3lHc0dzWVhQb0dUQ18wOWs1czljeXRNaFBuU2RMUkt4SlU1SFVmdFhzX3NnTWp2SkEwUTc5SW9Zdm5nU1kwVmF3SElJNm0ycU1NOUNkSGFnd19kZkUzN1Z5a040MW4xYTV4aUdjUUVFNWlnemE3cWoyNEZyd0M4ZUt1cWZkbm40RUVzaU1LX1luQUhmNGVPYnRxRVBYTDZFWGsySGwtV0UyNmJHMi1zdnNMcVd3LVRXRXfSAcYBQVVfeXFMTWVWQ0hDU1VmVXo1MVFPaEpxR1NsVGgxdzJIQ3hrOUVIMEtkNWhMVDROeTBVZzYwd2NJYXlsT21sOFhpM1dlZm0tdy1FWWFZOVhSdjVhZTNGeVhUMlJXdERoZ0lyNGJNZnkyOTBhNGFXcHJKejVTWnlfcVpVM2ZvUENTZ1NFbW5YWkdoZ3RwMTdES1JBRlZoM0kyTzhidTU4TXRieHoyaXM1a0VqNXM3OTRrcnF3WFR2LXQ4VjVpTTJKUFBpOFF3?oc=5",
+          "date": "2026-07-19T16:13:00.000Z",
+          "source": "The Times of India"
         },
         {
           "title": "3 women jailed for helping cattle smuggling suspect escape police raid in West Champaran",
@@ -2062,31 +2479,17 @@
       ]
     },
     "Fifteen": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Fifteen\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
-      "items": [
-        {
-          "title": "Attempt to rape conviction upheld, appeal dismissed — Patna High Court, 2026",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSEh3cHFObDZlM2RqX3NUQW9BaVcyWTdnQzRrSmJZNUUwTEc0emhiazFrd1JUVnFKcFBOTlBFY1FJam94b2E1dHpmb2dtaDZpbXppZ3d4dWFUMWNVb19DVjdldzVwd1JCdllBWU45dVV6V1FHTlNzMU9TQ3lwc3R3ZVNRVnlSOGUwMVpLbWhyTlFxWGZTTmROMjFYSEVuSWV4WThHWlNB?oc=5",
-          "date": "2026-05-12T07:00:00.000Z",
-          "source": "Samvida Law Associates"
-        }
-      ]
+      "items": []
     },
     "Fifty Nine": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Fifty Nine\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
-      "items": [
-        {
-          "title": "CID Arrests Accused in Over 100-Acre Bokaro Forest Land Scam",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zVWdSUVdDZHpLTmJfU1ExeDBqS0c5S2d5Q0hIYUJsRXhfLXE1ZWpLS1lTRnYwdlVaX1l1QWZVd1kzT0dsY3JwbXBMTHc3bWx1SmRZem9MRnRlTWFwM1k4MmQ5d3lmUWtRb3BFbHFnclY?oc=5",
-          "date": "2026-07-08T19:23:47.000Z",
-          "source": "The420.in"
-        }
-      ]
+      "items": []
     },
     "Fourteen": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Fourteen\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -2104,29 +2507,22 @@
       ]
     },
     "Twenty Three": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Twenty Three\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
-      "items": [
-        {
-          "title": "Court says punishing children ‘self destructive’ gives juvenile bail in rape case",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOekZ6QzJTQkRDZ1RrVFJqVTFDdFc2ajF3c0xUTmkwQjF4THFSdk00c2VjSDY2dGhRTG1UT1NhcWxIdThyaFh5TC02Z2N1dzdjZGwwOTN5MjFrUmFnZEd6X2tYTEhZNVhxcHpQNTR4RnNYeWRPenRYa3RMb3pTNXloVVRvbmVMX3ZFNFloWU1vOHZMdnh5VFZlUHBRdXZSMndoSGxsa2syd3QwN1dUTk1jRnVjY3pqS0liNjB0bNIBwwFBVV95cUxNZXhxQXNfYUtUaWNWVS1SWGxVM2FnSWdFT2F2VTFlZUVoNmxZamJhM1hjRVloQWVvWTVpY3FEUi1KMmZaLS1DSXJEelJCQjJRYU1YeTI2RGREckgzZ01NXzZ0NzlzWkl3OXIzY0xKOXBnbExnZmFYM0JkQnhNdEkwNkcxejlKVTFvRUp5LU93UVVHZHRNQVZtNFBkX01nbHJiX1QtTWZiNzhQZlBiY3NSeFhmYTdXREJaMFhZN1MxZ1cwZHc?oc=5",
-          "date": "2026-07-09T12:53:37.000Z",
-          "source": "The Indian Express"
-        }
-      ]
+      "items": []
     },
     "Forty Four": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Forty Four\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Twenty Two C": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Twenty Two C\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Twenty Two B": {
-      "cachedAt": "2026-07-19T06:56:34.210Z",
+      "cachedAt": "2026-07-26T07:02:56.279Z",
       "query": "\"Twenty Two B\" Patna (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     }

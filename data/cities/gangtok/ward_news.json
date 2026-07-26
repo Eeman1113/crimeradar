@@ -1,34 +1,34 @@
 {
   "source": "https://news.google.com/rss/search",
-  "scrapedAt": "2026-07-19T07:12:35.021Z",
+  "scrapedAt": "2026-07-26T07:18:50.187Z",
   "wards": {
     "9120836": {
-      "cachedAt": "2026-07-19T07:12:21.001Z",
+      "cachedAt": "2026-07-26T07:18:36.279Z",
       "query": "\"Tibet Road\" Gangtok (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "9120837": {
-      "cachedAt": "2026-07-19T07:12:21.001Z",
+      "cachedAt": "2026-07-26T07:18:36.279Z",
       "query": "\"Chandmari\" Gangtok (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "9120838": {
-      "cachedAt": "2026-07-19T07:12:21.001Z",
+      "cachedAt": "2026-07-26T07:18:36.279Z",
       "query": "\"Development Area\" Gangtok (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "9120839": {
-      "cachedAt": "2026-07-19T07:12:21.001Z",
+      "cachedAt": "2026-07-26T07:18:36.279Z",
       "query": "\"DPH\" Gangtok (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "9120840": {
-      "cachedAt": "2026-07-19T07:12:21.001Z",
+      "cachedAt": "2026-07-26T07:18:36.279Z",
       "query": "\"Upper M G Marg\" Gangtok (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "9120841": {
-      "cachedAt": "2026-07-19T07:12:21.001Z",
+      "cachedAt": "2026-07-26T07:18:36.279Z",
       "query": "\"Lower M G Marg\" Gangtok (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -58,12 +58,12 @@
       ]
     },
     "9120842": {
-      "cachedAt": "2026-07-19T07:12:21.001Z",
+      "cachedAt": "2026-07-26T07:18:36.279Z",
       "query": "\"Syari-Tathangchen\" Gangtok (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "9120843": {
-      "cachedAt": "2026-07-19T07:12:21.001Z",
+      "cachedAt": "2026-07-26T07:18:36.279Z",
       "query": "\"Burtuk\" Gangtok (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -75,17 +75,17 @@
       ]
     },
     "9120844": {
-      "cachedAt": "2026-07-19T07:12:21.001Z",
+      "cachedAt": "2026-07-26T07:18:36.279Z",
       "query": "\"Lower Sichey\" Gangtok (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "9120845": {
-      "cachedAt": "2026-07-19T07:12:21.001Z",
+      "cachedAt": "2026-07-26T07:18:36.279Z",
       "query": "\"Upper Sichey\" Gangtok (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "9120846": {
-      "cachedAt": "2026-07-19T07:12:21.001Z",
+      "cachedAt": "2026-07-26T07:18:36.279Z",
       "query": "\"Arithang\" Gangtok (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -97,7 +97,7 @@
       ]
     },
     "9120847": {
-      "cachedAt": "2026-07-19T07:12:21.001Z",
+      "cachedAt": "2026-07-26T07:18:36.279Z",
       "query": "\"Tadong\" Gangtok (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -127,7 +127,7 @@
       ]
     },
     "9120848": {
-      "cachedAt": "2026-07-19T07:12:21.001Z",
+      "cachedAt": "2026-07-26T07:18:36.279Z",
       "query": "\"Daragaon\" Gangtok (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -138,32 +138,25 @@
         },
         {
           "title": "Police arrest youth for murder of deaf & dumb man in Gangtok",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ2VWVExfNUhicDVBcktTbnVzbEJFQm1Td2dfX1d1cHNtSzdqYVg1WXVSbHBQOXNpWk9oM0xkT0g0aGFNM3R5NklMSHF3QmNQd0NNSEE0WFI3b3prblVDeHhKSVBoWGNfaFBfTVJEcEhSQ3dWWDVkZU5ZdVJpQUpKYnNlZUNQVmVYVUlnMjllc1Z1YkVCeVhJbtIBngFBVV95cUxOLTJQMGlhMjVXUWlBTVBnQVZnc1d3M04wcldZbHVsZ0xZSGc1OXYya0R0SXZYUF9yM0xSb1A3ZlFNdVVuUGZKU21UN09SYl83SC1GSEJnTUdjeGtqbXdOaFZ6dE0yTkdpT0NTazBIY29fMnFJUURlSDRmd1dsanB3QndobmxfT0o0ZzZ1SEktWHAwMF9yYTlQYnk3S1pmQQ?oc=5",
-          "date": "2026-03-30T07:00:00.000Z",
-          "source": "ThePrint"
-        },
-        {
-          "title": "Police arrest youth for murder of deaf & dumb man in Gangtok",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOV1JyNDlOeURycHVHRDFFUGRNczhUX2tiZFJObXN2ZlRVS2l0NzB2anVVLUtfQVFjZVhqVVdUSDlzQk94ZWNpVGU4clZkSmgzbTlxVnFSTkx4bExMd1YxYTI4YUhRX0ltYUdFOHBrYjZUQTdXSDltb3FqTE1HNXRDMTNMZ1VBS0IydGZwUGJBNTFjSFB0X3hoUUswSjNYMXhyeERxd2dIU1NZUlNoVmpkajdWakgzQ2h1MlHSAb8BQVVfeXFMUDNZc3kzUm9MclQyMENZM2NGR2VmeEtTQ2NENzZ4dmoxQ2piMElCS2RuM3dYNXFsMG96TEpyVmQyWHZKRjBGZ2Q2dzBDQlJodU5DTTZDM3FCTWttUGd6OS1DT0Q0WEFjbGsxTzcxUUpHWnhKc2VoSDladmNnbnJEMDR6ZWNxazluQy1NUlA5RGVoVHBYOHBCNzJ2UU9TeVRUaGFWSTUwY2wyT1BKeDR4ZEZDVDYtbzU5YkZRZVJWODQ?oc=5",
           "date": "2026-03-30T07:00:00.000Z",
           "source": "India Today NE"
+        },
+        {
+          "title": "Police arrest youth for murder of deaf & dumb man in Gangtok",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ2VWVExfNUhicDVBcktTbnVzbEJFQm1Td2dfX1d1cHNtSzdqYVg1WXVSbHBQOXNpWk9oM0xkT0g0aGFNM3R5NklMSHF3QmNQd0NNSEE0WFI3b3prblVDeHhKSVBoWGNfaFBfTVJEcEhSQ3dWWDVkZU5ZdVJpQUpKYnNlZUNQVmVYVUlnMjllc1Z1YkVCeVhJbtIBngFBVV95cUxOLTJQMGlhMjVXUWlBTVBnQVZnc1d3M04wcldZbHVsZ0xZSGc1OXYya0R0SXZYUF9yM0xSb1A3ZlFNdVVuUGZKU21UN09SYl83SC1GSEJnTUdjeGtqbXdOaFZ6dE0yTkdpT0NTazBIY29fMnFJUURlSDRmd1dsanB3QndobmxfT0o0ZzZ1SEktWHAwMF9yYTlQYnk3S1pmQQ?oc=5",
+          "date": "2026-03-30T07:00:00.000Z",
+          "source": "ThePrint"
         }
       ]
     },
     "9120849": {
-      "cachedAt": "2026-07-19T07:12:21.001Z",
+      "cachedAt": "2026-07-26T07:18:36.279Z",
       "query": "\"Deorali\" Gangtok (crime OR arrest OR snatch OR rape OR molest OR raid)",
-      "items": [
-        {
-          "title": "Sikkim State Dear May Day Bumper Lottery 2026: Check ₹3 Crore First Prize, Draw Date, Ticket Price & Full",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNUdVVmVnSlM5bVk4NWlxUnNmTmtOZWpvWFdWRzI4REF6QnM5d01mUmJ2d2l5eS1OVXlLNWlER2MwR18tV0lobmhoRTV5TWlhRFlmLUQybVJETnpUdnhRb2pSRjk3S1A1cFNGc0wxUFVNYktWeXFkVk1oVXFjbkgwRHNoSmF3cHBnX2R0LWlQcDYzSXJKQ012Q0drc1RuZlJIaVZycW5vQ3ZGRnhYbUc1OENiaE53YXVwakFxOTdSelJQR3ExdElTcTB3UWY1THVFeFhqSUljMm1TNXVicGx1dHZObmJDdknSAewBQVVfeXFMTXpEdWEwTjE5Rm4wV21XWEd3NGxnaWY2SFlXZVBIQ3p5M0w5ZzNaWVl1ck1EZWpwNlRxWVdyTlhYV1BUN1IyWWg4LTVqYVhDYlhwUko5aXhXSXhmYlJhU1FOd3g1S1A0S0ozd25BeXZrcmlCRUFOQkd0bnJGQmpwa05LMnlnWjhDRnJzM1paOWJlVXNhLUk1NEFzcnRzbUVKTlFlV0YxRW9TU2tMODBRdFBrT2xjN2JxdXhkWGI4R1MyTndnVWdnQ2tYNFRSSU5uMXd4VWo3VWl3VjlIcHJSR2pDekdSSE1SYlU0UzQ?oc=5",
-          "date": "2026-05-09T07:00:00.000Z",
-          "source": "Free Press Journal"
-        }
-      ]
+      "items": []
     },
     "9120850": {
-      "cachedAt": "2026-07-19T07:12:21.001Z",
+      "cachedAt": "2026-07-26T07:18:36.279Z",
       "query": "\"Ranipool\" Gangtok (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {

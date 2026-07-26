@@ -1,6 +1,6 @@
 {
   "source": "https://news.google.com/rss/search",
-  "scrapedAt": "2026-07-19T07:11:17.740Z",
+  "scrapedAt": "2026-07-26T07:17:34.261Z",
   "wards": {},
   "notes": "Per-ward crime-related news from Google News RSS. Queried per the ward's distinctive neighbourhood name + Vijayawada + crime keywords. Items are filtered to last 18 months and to titles containing at least one crime/police/arrest term. Up to 4 per ward."
 }
