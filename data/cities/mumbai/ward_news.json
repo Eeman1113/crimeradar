@@ -1,11 +1,17 @@
 {
   "source": "https://news.google.com/rss/search",
-  "scrapedAt": "2026-07-26T06:39:22.702Z",
+  "scrapedAt": "2026-08-23T04:40:21.762Z",
   "wards": {
     "A": {
-      "cachedAt": "2026-07-26T06:38:56.256Z",
+      "cachedAt": "2026-08-23T04:39:54.635Z",
       "query": "\"Colaba\" Mumbai (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Mumbai Crime: Colaba Police Arrest Woman Absconding For 13 Years In 2013 House Burglary Case",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSG5oWGhLN3lfNDN4ZVQ1bjVXWVgxY2hFbUdTZm5lS3V5dG5oWW9XQ21RWkJYTWo5U1VBdi16cFRpb0dhekZSbXF6dmVDaTBZNmVnWHA3bVVGQklDeklDZ2NDRDZoaVMyTExONDI0QUV2MlpncXJNMXNqRUJQaTA0aTFrendiUVVDcG9xTkJkUmRFYzgwZFNpdFVQZ2hEUWpZZUZWZmJVMmloVEU4R2stMG9ncHhVU3lyQTN2aDJoSldvNVRJaV9KLVVR0gHPAUFVX3lxTFA2Y0owaUJTc1pRS0xGb1BBUWhjRFFtRzV3SlBJX1EwOUhIbV9vdEI0TUtQYnc3dDJoODV3eWR4T2J4TnhiUzNyT016cFV5dkc0c2Fma21FSW1INnhTYUU0YnRCbDBjTmxSWVBVb29OMHZRWmtXQmZOSEZTMUtPX2hyRkRWQWRUNUlTckItajgxVzRManpnQ2d0Y0F4aHoxQ1A4cGpwdXdYQm1YdGxMWXpXZHhTa2RONEdQVnVYVHNtaWp3aVNNb2RlVFllbXhmWQ?oc=5",
+          "date": "2026-08-04T07:00:00.000Z",
+          "source": "Free Press Journal"
+        },
         {
           "title": "Mumbai Police arrest wanted accused after 20 years in 2006 cheating case",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObXRKSVNIT1l2dW5sdG04RnhITkxsWnBZNDlPdG1vUzhtVzBULVd4S3hfaHlYYTlNcVBJZUdFQnFrVTF5TW1rVW84UGg0OXdsdEpfeWNiSkE3eVJiNkMxeUhNTlhKd2NVZWUzYjUxemJYTEh5WWhtczNJNGsxaUpqZl9YeVhPMjF4OTI1VUhqZ1NfeDc1NDh1a2R4STFIOHhNSlJKWm5zRjkyQm1CZFNaT0JSUThvMktyRWpqaHhZX0M3U0pVSGFUTXdIWGsteHdaWHc?oc=5",
@@ -13,57 +19,51 @@
           "source": "ANI News"
         },
         {
-          "title": "Mumbai police arrest two people for stealing Rs 20 lakh from Colaba firm - Mid",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVjRHbWMwQ2hidmhTS0Vrc0w4bldZUEcxazc4N2RjOUZPWnJyMXRqcjk5STV4c1pPeGV6cDBfajdaV3V3Z1FOQUs1eG5JOW9walNOY1YwejBDR1pEdVZWWUxodHp4c2lrUF9GNld4aFJYc3VoRHRSTzJybm9ZTzVrOGZlaXVrZnpIVXdBYUNtVTMzQUJzR19NUDFDbk53V3Fycm9rdFB6SjVIQjBrdGtuNElUVGppWHpGdllSay1rWV9LUGRlZ2VoY0dZSEHSAdIBQVVfeXFMTnFWSDF3VldrZDFINmhNaC0weFNLM3JKSDZXc1VhajE5RF9ab2h3dFhRNFFMYlNjQndOY0xiUnNXdHJFSDBLelpsQXl3eXFSWHRmangxRnlWdmVRME1Cc0JyWHllNUhoTGZuMC1PT3pnMTNaSm1PYUtIQlZfUGQydDhQem11X0FpckhrQms0d0loTjQzaEJJUmNuUkREc2tGaUdGSm1xTzJtVXdDUURWME5NLVFsN2JlcUhIWkpzRTlDZlJId2NqeGhRaUJicnptMmRn?oc=5",
-          "date": "2026-04-23T14:01:16.000Z",
-          "source": "Mid-Day"
+          "title": "Mumbai police arrest fugitive after 20 years in cheating and forgery case",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5lVnNCZ2tMMlpTSy03dEZSazlwR3N6OXM1UnNVLW4zeGZqSkx0TExIYThsVzBSV243VTJNOEl4Skw5NjgzS2VqR0dwdUpRSEVQUEZDcGpFYWV5eHJGblhPOGJHSlZqQU03bUE?oc=5",
+          "date": "2026-06-24T07:00:00.000Z",
+          "source": "Daijiworld"
         },
         {
-          "title": "J&K woman cricketer, brother arrested by Mumbai Police for running sextortion racket",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTlRvN3ZhYU53YW1Kc0dYb3pQLUJIMXhIN25uSUpiVlFjUk5jSkd2LWNwVkMxdEVxd1Vzd3FPZVVXMmFDb0VGU1N5eUE1MXNySDNwdnluRVJSMUNCelh2SjFseXFvaF9uTW1WYUEwR2FzeFJGNk5ZOWtYZmtnUThYaWQ3S1d3d2xpOFpIRnBTRkNXVFFobWpCX2VzeFBEeFZYeW1TWjdqZnkwcThvWWc?oc=5",
-          "date": "2026-04-23T07:00:00.000Z",
-          "source": "Telangana Today"
-        },
-        {
-          "title": "Sextortion Racket Busted in Mumbai: Woman Cricketer, Brother and Associate Arrested For Duping Colaba Businessman of Over Rs 63 Lakh",
-          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNZWdGd3pLeFhaR3dhSjJLRkZ4MU9YSGlEQ0JwNGlFcjhnWTRaUmVmMGtKVHRScVBUYnZ4QkhXcFNFakp6dUFpUmVnZmFJSTNWSHlSSU5RcWQ2WlN3MG90TlB4VXR4RVVzNmc2dThpTWpFcm5vQm44RENXblZnUTJvLVFObmt5MFEwR3gwNmllTE5HNFpucTItTlZOLXRuVV9TSHRXX1lmUlFBWmw2UmtkR0RLa3Z2SllJQ2hHRDMyN2RDSkt2eUptUG5oTDZoYTQ5cHVHYnhuNWNLRk9aY0dhY29SYW5kMldRbDhjeUlxSDZzOW1UakZfZmlleTNFMTl0?oc=5",
-          "date": "2026-04-23T07:00:00.000Z",
-          "source": "lokmattimes.com"
+          "title": "Colaba Police Book 2 For Impersonation In IBPS Recruitment To Secure New India Assurance Administrative",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPNHlpWHJrb0VTYXNPRW1NZzR1RVB3NUpHSVBVT2hfWFdHT2pkdVZaa3RvQjZ1anFXMzlJbGRCTHZyVG9kbjh4WjBONmJZamRlUkQyblpBcGFwQnRqRzNISExQU29sQzQ4TTZpQkNYaEp1NTFBUUo2dGh1WkEyNHYtNFdvY3Z0ZUU3SGlCQ0djOExPQXNYdkhtVkRJR3RKdWswSnJLczUxRmJvYWpVbFA0RlBYYkJLVy1rUTlGNjNDRUtjcXBPc3RJeGZZWEFUQXRsb0NqczR6RnhhS0NQOVpUcUxGZVo3MzFkX0HSAe8BQVVfeXFMT2FjUXBnbUd6ZEdfS0VIdy0xVFdXNTBOY0M2TUYtbjg3NzV6XzFFZUhOeWZkRC1Cb0hXMlQ1anF4ejIxX3hqNkpjeFdLRGJxclpsV0VFV3hONmNBbU9KbkRaTWVSMG9udm1HY0lTc1pERkR1ZFNJVWJZd01aN2NBNFZOVDQ1U0xUQUxfY0R2S2puNDQ5c2RaQmdRWXkyV0c3WmNiTDRhdVJQNE54ZTdURzBHclVqcFdKV3dralZoU3hZQy1lNktOYUhRWl9rZTd2bHB6UFVqSkp6TlBsZUZmd1diUEVlMk9ubGZKOUdFb2c?oc=5",
+          "date": "2026-05-06T07:00:00.000Z",
+          "source": "Free Press Journal"
         }
       ]
     },
     "B": {
-      "cachedAt": "2026-07-26T06:38:56.256Z",
+      "cachedAt": "2026-08-23T04:39:54.635Z",
       "query": "\"Dongri\" Mumbai (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
-          "title": "Mumbai influencer alleges Rs 15 lakh extortion bid over private video; five booked - Mid",
-          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxON0c3ajlQVXJuY0w4U2lZU05DT3JvMHlmLXNWdjVkSlNmNHZXQkU2VkE5N2x5a3Jid0JwcXBWbjRrRi1yVFRDLUdEMVJnUDA5S2RwUVBua2psYmdhVXRXVzVzVXpNTEJLZFBORmI4LURxcjBtOGhKSFpXSkhkWk9qc0JUbE9DMjRuajRvODZyVDNJUVI4ZHZ2LUZxa3VBQ01ienFuZEkwZDZxUUZlN3MyVlZ1cU5uanlYOXFHNnl4WFhnd0s3U09MQXJNQmI3b0QyZGI1QlJPNnZLcWRsM1FnSnhxUVE0RTRmUi16UnFYTmNxbkhuN2s5Z1kxQjXSAYICQVVfeXFMTTJkLTMwUGNoaE5sdGkyNEFOTDI4YzBreFo2YW5SNEZmNHBCUXRXaVJWaTFyd0xSNi12Q0hlRllHYXhWdmFDOVBHS2JJSXh1WHVWSUZXMHlrXzBhTGFGb29zVmtRMjJrcl9qb09zTHl3YWppWlRMTTBVMVFZcmN5TUlKdWp2MVY5N0w5dWlGRW1NTG9XanRLOFNfZ2pqc1A0YmlDUTFnVlUwN29tN2VwOFdEMDlDNEZSU2M0cGJCZWppREJ2ZVFJMnNiVkZiWVR6YTlqVVZaM3NOTGF1S3FQUUc5RGhJMFFQcE5DN2RQSlI4RFptRTJWZ0NOSENVOGFvN3ZR?oc=5",
-          "date": "2026-06-22T07:00:00.000Z",
-          "source": "Mid-Day"
-        },
-        {
-          "title": "Dongri Police Arrest Five Within 24 Hours For Kidnapping, Assaulting Man Over ₹2 Lakh Mobile Phone Dispute",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMmhhdTlaR0M0ZGNfZ1J4Y1NsMk1YN3F5U0FUVjM5WFNyZkd4eW1hYXR2WjY3V1lsWkd2S2FjcDF3UWZnQ2h2c1ZyeTBtb3NFVnpnWHhaREszeWpMTGVUbHRRU1NnUHBGYThHLVN2MUVqeGR6M3MwNlA1OHVRV29MaXdWNTNZSlNIUWxvNlFXTkpVRjFnMEdXX2YzU1Q4UVdJa1ZzODRldHRJdEhsV1hNUFdkUFhFQk8tVHBrUm9qNHhTSnFkdzRiN1NidjNiaE5pYUhJdk5jdkdiXzjSAeABQVVfeXFMUEExOEVmM1U1QzBIb1FhV0lJWHBRWlI2RTA2dnRUYi1yMS1jeGpTZ194LVF1ZDZrcmdGYy1Kb3VCeHRpUnl2SElFbktKT0Y5M3ZKaHFBS2hjcmN3RHZlZVNyMUVESUhvZkpEQ1Zxa3FiUl9idmFoMmhIUFh2cXBTOUFlMlgtWE5yUlk1OXlrR2xwdWhWYUZTV3YwQW5aQlZOY0JQa09mTlhHUHlMQVROekRkOHJSTmNDc2dSZ3lQUnp1Y0JSMnZMS1huZnV6NFhpSjFXajQ1TzR5Tk9PMkdRT0g?oc=5",
-          "date": "2026-06-13T07:00:00.000Z",
+          "title": "Mumbai Crime: Dongri Police Bust Inter-State Mule Account Racket Linked To 38 Cybercrime Cases",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYkd6bnFCMFYwdXBjMUw5cGlYd0hFaFluVEhsWmVPYzFOYm1ZODBpcklBSklJY0hmU1QwNUdZajRpX3ptVUdWVFVFSnJXcWZSYTlOT3dieFRaRXpVRzdwQmltODZGYmpXRnZqRkxJaEdFWWJnLUpsLWxrNlhQY1luTWdGa0Nfb1R2X0Y5SFp6bXVHNllXaDdzSTlQRTZyekt6V2tyZEtnNWdScXR4OXdPVHB0MDJWN2ZKRWF5U1J5U2szTkFTQXlGMDlrS2fSAdIBQVVfeXFMT2lFMHNKSU5HSnpoNm9vVTBoQmk2Q2NENjZTUFAwU2J6RXBqcmVrV09UNnhfc0ZKQnVHakd1YlE4ellwNFR2bThBNkdBY19saW1aNmgyWExaeWJGUDFQcDgxUTFROTdLNk5qVVNPcGRjYmVSSFhjRi1XQlZTemhDU09BMk94RGdWOXJVMUxFMHpsWkF4dlB0bTBEY2VvVl8weVVDdnpfbWdUQXlLR1VuNzg2WXFNSWJUVVc2R1dZbHVOVVhLZmxDcER1bUtJUkpBNFZn?oc=5",
+          "date": "2026-08-20T17:50:24.000Z",
           "source": "Free Press Journal"
         },
         {
-          "title": "Five held for confining and assaulting 33-year-old man over Rs 2 lakh debt in Mumbai's Dongri - Mid",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNd2FCdUlIZzRVZlU3VlNYZE44cVU2UGhRZzNzRVhKUS1EOXR0S3FLZnRMeUUzQmVrMG5NZWRJekl5Y252TFhycklPMEFNaG9RWlJFV2lUby1vWnFNNUNNdTNIeldCakpiektCUUxhdjB2dDk1d2tZVkRXcC05UWJvd1gwUnVFcWhTNzlJSENrLVh4QXV5SmNOeGRKWGZCaTVPTmdlMmFhNklDS2M1ZXZBMm1XMi1OMWlLaHBlbnQ5S2plUExuWWFjS016dGx4NTNnRUdlRnB4R2VZOW84WlFBX0lVWUcwTjYwaUVqcFhB0gHzAUFVX3lxTFAxUDkyOFdyOHFURW1GSS1zcDlwT0QteHJtT0Z6aG11RDRUR21fc1FiNEZacnVNaDY2Rm5qZHpOT0xXVllJTFJjZXhJTTNSc2Qza25rR0pfRndrekVNX19mUUpGT2xBa01ZT1pUcnk5NUNMSjRFcTQ4WGpaV3pFS1BZdWM0ekFrN1NNSFA4MTA1WjR2SHVQVWZaT0lGUDdiYTNNQVdIX0U1bVpqcDZsUUpOcjh1Sk5xUGhXOXVDSE9vbXk2cXoxRzI4WnpTU1dPWHVaald3YkpMNlgtWmN4MS1mMGZuTVdlOWl0Zy0tNzlhOWMyNA?oc=5",
-          "date": "2026-06-12T07:00:00.000Z",
+          "title": "IN PHOTOS: Mumbai's Dongri Police bust mule bank accounts racket - Mid",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVmpJTW9KemQ0SzdjOWUxbWVVWTROSW9zTlJIZFc1SlNsMjJPUGNuVWNIRGk3R0dYd2F5WGhfOXNIcjlqaDZvN1liWXJCSFVsSDhwNlBYRGhTU3l6dHFYa0RMRW9Oa0E3UFI0M1lMaGREekI0U2dLMHU5U3RaazNmRUl1cnJIVFpPay1pbTBZbkl3djF4ejA1S09RZkUzU2ZlSVlGS1JGbWtTT095X2QycG5RanNTOVVqYTV5Z3ROUXkyVkFB?oc=5",
+          "date": "2026-08-20T17:16:00.000Z",
           "source": "Mid-Day"
         },
         {
-          "title": "Dongri Labourer Stabbed by Younger Brother Over Spat",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQkZVa2VKc3J4VWVMdjBSanBrLVlLU0JiWGJsUDZKXzN3bnN3dW5GajZHQmxQb2h0V0ZvbVVxWUtwMlN5OUZNajBEM2htYzhFVFZEQnI5WGVUMVVBNmVVYXZHMnV3a0lWQkR1cVl2dFBfSURhMlA2Z2VFbHJ6a212M3VDUlRiSEtsRFpFWFhBcVRVQ3hUR3VqZXFkY29QTXlpZ2tJN3dSbmZNQ3BPX1RjTVFpWlBBQlEyQi1abXM1Uk1DZHpo0gHKAUFVX3lxTE0tSExDUXoyU2VQMG9nY0FES0U1eUJfMlJCU0oyZ0EzQmdMclB5WGhCWjAzaHBtc25ad2xjSHJMTS03cDF6M1JPN2pHZzUzUVJWZTUxVUhoVEZWcno0ZDZkb01TMzJUcUZnUEczOWRsSEs3dXJkQkhkWWF6d1BwNFdjWWpGWWZrZEpoWnJCMndWbU5UVzFvSHlkUHo0RnNJMFUxUU1SbTV2cW01X3NqT2NMelNWcllYVEI4MVowY0J0OTV4MGF1dGJZT2c?oc=5",
-          "date": "2026-06-02T07:00:00.000Z",
-          "source": "The Times of India"
+          "title": "Mule account racket busted in Mumbai, Dongri police seize 40 debit cards; three held, 5 on the run - Mid",
+          "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQb0lGN1MxUlNlV3dXRVFCTW9yTGVFb1l0Z3lLeW50bWRSWkh0VHQ0WWM0MDZCWE5pSldYWC0tcmluSzhQQUh1eklTMWl4UktvQ1RTNllqS3V5U0psRHU0bTlUS3FNekxlSEh4TmFQa295dmd5ZzFhY05rVHZncWNCSGh5WEMzN05QQlRacjhiYi1fSzVRVXRGNHp0RVpFblhzNjA2YWVkekRoMG0xcUpRNnVPRF95ODlwVHhYY2wyTzljeER4UmU0dE96WUZjQ194T19mTEdSNGlhWUdXSlEwTGxJSjdBM1BCVVdVamNCQzg1RWxTTFJmN3NUZmY5N0t1WkZlejZYU2s0R0FDdlZEa3l30gGSAkFVX3lxTFBvSUY3UzFSU2VXd1dFUUJNb3JMZUVvWXRneUt5bnRtZFJaSHRUdDRZYzQwNkJYTmlKV1hYLS1yaW5LOFBBSHV6SVMxaXhSS29DVFM2WWpLdXlTSmxEdTRtOVRLcU16TGVISHhOYVBrb3l2Z3lnMWFjTmtUdmdxY0JIaHlYQzM3TlBCVFpyOGJiLV9LNVFVdEY0enRFWkVuWHM2MDZhZWR6RGgwbTFxSlE2dU9EX3k4OXBUeFhjbDJPOWN4RHhSZTR0T3pZRmNDX3hPX2ZMR1I0aWFZR1dKUTBMbElKN0EzUEJVV1VqY0JDODVFbFNMUmY3c1RmZjk3S3VaRmV6NlhTazRHQUN2VkRreXc?oc=5",
+          "date": "2026-08-20T12:47:00.000Z",
+          "source": "Mid-Day"
+        },
+        {
+          "title": "Mumbai: Dongri Police arrest 40-year-old in scooter theft case, recover two stolen two-wheelers - Mid",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNRVIxWUQ3OVVmU2hyZWhyS205ckl3bGpPZi1OQVg4M1pvc3UybWpRT3lKd3FzSHNVZ0tpNzFOQ1h5dDZuVVMxMzE4TVFBSWJhY1AycmFpQjJuNExvZ3ZOOEdENGNad1A2a3JoTF80dnpsYkdwcEc5RWpkNUU2Z2prNkFlS3lkV1dXSUt4RGJWV2s2Mkp6QzVCNnBTTkpXYUFnQVNKZjlteXhvVXV0Y1VYWEtJUlN6UU1lekdOb1kwS0xBV01HczFRTkZwdWVKam5nbFlvMFp5TDBtNG02bHBadjhsdWJKVUdhS0ZhaUhrSDROQdIB9wFBVV95cUxPSWxYeUZOMTBYLTlzSmhmSDQ1RndzTzBUVkc0elA4aXJQWG1scjRsbzZqMkZweEVHaWFyNS00ZDZZNHFUV3lGeVA3em00alBYaTVyRVBVNmkyYXMtdXlISC1nWFlmbGszVF9uVTNQY0lKOWwzZGxjRTF3b3BwTm5KR2xQbWxqQXdYTWpGeVlFLWU1SXEzQWc0SVMxM2dVVWlJTnZvUjl2azZqbFlaTWQxcGV4ZEVkMlBEeUJlVHZFTDJiRjAwUmFjZUtoMFpWZmtpSUJ4Q2dnXzdkSmM5YTRjSHh6LWVNNGlVWF95VnhUX1hVdzlFSENV?oc=5",
+          "date": "2026-08-10T07:00:00.000Z",
+          "source": "Mid-Day"
         }
       ]
     },
     "C": {
-      "cachedAt": "2026-07-26T06:38:56.256Z",
+      "cachedAt": "2026-08-23T04:39:54.635Z",
       "query": "\"Marine Lines\" Mumbai (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -79,17 +79,29 @@
           "source": "Free Press Journal"
         },
         {
-          "title": "Mumbai Traffic Police Issue Advisory For India-England T20 Semi-Final At Wankhede; Spectators Urged To Use",
-          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQbXRWcmRLME9ZZ2JXY3pnNVFHbEhCaEc5Q0RpcFEwRDREVktWNzRIbWJzOUZoR3ROUUtuREFWaWR6bVhNZnpKTjdRZDR4aG5nMmxVQ3ZrXzhIeko3eWZTdDVJYlBobHBfLVdiNEVXeEtYTlBLU1F1VGNkOGpTdERubHB2QjZzWjhPbExydDBydll0RHBTRV8xVUQ1T0VpNVA3VVd2U1VoR3YwM2REOXg3blh5R1ppbzByQ202OHZ4eUk0NVRGWGlsZEFXOG5qbkRabGxBX3hLdVZWR3FoUUFoUzMySkt1a19PMzJqcm83OFd1ZjTSAfgBQVVfeXFMTzJPWHJCWDB3bGVTdi1VaW1lc3hKbmZ2dXN2R2FTNlhDVzRMMHhOcXNtalRvRUs5aFNRODQwVWltNVR0dXRrNWZyZ0d1STRzVFJlY0c5N1k4RHBqaDB4akxfeHBPRVhnLTloM0xMWFZtWFBaaldCRnc0TEpOY082Y056Smd0MjNMT0dRS0VBOTl6ZzBtM3FNa0NtVVh3M2JaeUNPSjdvd2U1aXhvajNtbWdVWm1GcFg2UlJrUmV2M3p4M1lhaDBTME4tUVBEdG1RbzM2V1B1YVhxVFVlRnE3T2hMZ291LVRPRXp6MDdGYWVlM2JlR3UzM3E?oc=5",
-          "date": "2026-03-05T08:00:00.000Z",
-          "source": "Free Press Journal"
+          "title": "Mumbai Crime: Chain Snatcher Arrested Within 24 Hours in Masjid Bunder, Stolen Gold Chain Recovered",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVTIwZlNoQWtkS25YWFJaWTJUQmh4Mm1NZ1BwRjBXNEx1MmNNeVZPcmVHWjF6TzFMRkJUckpDQ21GUVBsMXktSWZWOHFTLVdXenZCNXJXbzY3WGhpcFBoUFE3dFp1TnVRS3FSUlhjOWYyZVduOWdybEhvUGNCUmxfS1dxalVMWENXSTMtRUtqbU1sM25VdlBwWWdERGgtZmxOelV1dURvcC1kVzEzZXdUTjhfTTYwRWY0LXJESDVLN2dWZHd2UEdXWmpUTE5vWmw2QUhmMA?oc=5",
+          "date": "2026-03-22T07:00:00.000Z",
+          "source": "lokmattimes.com"
         }
       ]
     },
     "D": {
-      "cachedAt": "2026-07-26T06:38:56.256Z",
+      "cachedAt": "2026-08-23T04:39:54.635Z",
       "query": "\"Malabar Hill\" Mumbai (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Mumbai Police bust interstate fake railway pass racket; five arrested - Mid",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNU5kM3JKWTEySUJzazdvY3FfODlFaUhWeVQteHNlM05LcGNoZGdYV2ZkVTlmdWh5UzBqTlRkTEkyMmgwMWtCR1NVT1lsUEFxNi1WSkd3SlNwVm9UUlkxSW9uM1djNHdjeVI3NkJqeERDTTh2TXVVVWgybTM2V1VmaGxSUUQ0UVdiNUV5SHNtWmlGczd2MDNVUENrb1czamUySWZRS2VVaTFlOEE0VmN1VmNldndYOUloOV9NTXpCNHZhMTBDenVV0gHMAUFVX3lxTE5jTFlIUlVsOXRKdXdxNXh1MmV2MWp3TU85NjVsVWg1ekFPZUdyR2FPUDFmVncyeGVsR1Z2ZUFJUXlCSjFabFZnWUdQaDRqTWRvQWJYZU9CNHRaYUJaNW9BUEhYSkQ2UU12X0Jzd1NPdTdnSWo5Mml5dEpkc0ZMZVp3Y3c0ckwtdkNMbXhzeGM3VU80ejJ2NEdiQTNFb0QyaVBPZFhJY3ZGZkc3MVlEWjljTHZKbWJTeG9TY0JWUGVyNk9oMzlicnNvblJYUQ?oc=5",
+          "date": "2026-07-31T07:00:00.000Z",
+          "source": "Mid-Day"
+        },
+        {
+          "title": "Mumbai Murder Mystery: Malabar Hill Police Crack Nepean Sea Road Killing, Tenant Held For Alleged",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNM3BJOWFDV0U5WXlqVDUzZ3Y4Mm9MR05pVkRrM0V2aUlqU25Za0otVUk4UlVUTUM0WTc5OEd2RjI1S3VXS01LSHFoSFRkSGJmbnI2MVFYZTI2bE5BbWV1WmhOV3UxSWFNX2JVSkRXQ19RYlpvdnRiR2M1ZU80QXNkTWFCV2tPYW5sNlc0a1ZIYmVYaU42Z1JzMmpfQ1FwUVN0cFFiY0pVWV81cklabFVsSFQwOC1DTlZlWWwtMGtOdS1HcEU3clg3dlpUQnFtZWNQbmdmQkVaV1FxRXlZWWthNHBld9IB6AFBVV95cUxNaHZHYXR3NmxTb0k1TWMzZHVlRHBWam55TjZlci1KU2tPSUI0RXRaZUxJc0xGMG04dmZENF9qRmY1ZV9WZ0Jvb0RxMlViTDBXNTUzRkQ4bmNBcXhKVUVtU1RxeS1DUmtpNVVCelZMOFdtVkg0b2g0VWktSEZLLURCTkkybm5kTmQxYmZUaklDczRQSm1aSUFCSzRmejhrQWpHUkY2alBIUkg2Y29pbjB0LTB5dzI2UWoxNy14NlZoQW9WeUIwb0xpX3RSbnNFbUxwS0MyeTk5V0hRUVNUV2ZnZmV3UkxrNVV5?oc=5",
+          "date": "2026-07-10T07:00:00.000Z",
+          "source": "Free Press Journal"
+        },
         {
           "title": "Mumbai Crime Branch Conducts Raids At 13 Locations In Drug Investigation",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRzBpSXRzLUgyU1FvbWVLc0Q2SWdzUFd4bXBfU214XzJCZjQ5SVBSVFJZQUgzUjJSLWJWbTA3bjVIQV9KM1JuYmc1OURwb1BWelRIZ2tTTXRHQ29TREk3cUdNdWpEOFVOLW13RldQSHhvLS02V1lNMlZnLW03dW5zcGctNHpyV1pTaTJNang4bEU2MnlOQkxhR2FlR0JKOFF1dDhBZlhfbE1ueElhV1pzbtIBtgFBVV95cUxOdzhOWHNjTzhCSGhhQWRqb0dEZjVPX2NuNl9tRTl5bldQajl0LV9oeHNzMkZUY1VrTGFSUTl0UkZocjBZRnlmUVZ4bFl2UllJQno3MDJxN1pYWmJaai01V2NBdVZOMjg1bGxFVUtiMHVISGh0QmVMVGZQd3MwOHo0ejl3aWFsMEJfdHBRMWFWRXJ1LWdkOHZpcXBpVDgxSGNYbzZKU0Zlci1hbVk5RVNNNlpNOU5Sdw?oc=5",
@@ -97,59 +109,47 @@
           "source": "Free Press Journal"
         },
         {
-          "title": "Mumbai Crime: Parsi Trust Files FIR Over Alleged Trespass And Filming Inside Tower Of Silence Cemetery On",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPOFE1bzhsU0pxdlVnMkFTb0V2Zm5UTVJHcDFJUklvX3hHTTR1cGkwRFZWRkt5Tjl2aUZ0QmxGZWMtVVBfTFpwMmFxRjVENEUzSXZJeGs5T2NsdjB1MGdPbW5sVzlvZUlKTVlPNDVKU3ExQXVpZE5mYktDQlpVQzlaVXZ1aXBMV1hlU0ZYYzRNVG54YXU3MHMxMTdraS1uUnlLNlBrTllCTEo1TUVucHdrR2o3T2pVcXZCTDdEWHJHdGo4alpYUHhGRmhsS205M0lJTk1pYzFQUlFRQUVqdmNfcWVrLURPMUlRU3EwY9IB8gFBVV95cUxNaVIzQnFER0UzYkJjcFB3cWlJWkFqSU8wQ3lZZGMtYkc5SHM4VXhDYzBmeFMzNmxmNlExbHNkRUpEY0c3ekRLU3k5QkN1ekpzWjZVV1RIX1dWN0NKSWxRUGpTSkVLWk1jdU4yTEVCa1R2ekQwMUJiQ2ZLUzlZUWNRcEI1Y05KMzh1N01lay1HRGtEN19PekpGcFBqNFRYX1hsSzdidHB1cEZZTzZQY3lwUjJlOWlxUllfcDZNX25CUWk5TF8wZE1NZHEzTUV5Q3Rta3FiRDRmRXVxWXNjMGhLaDZ0MFBTSjdtdFd4Wl9IeS1fZw?oc=5",
-          "date": "2026-05-24T07:00:00.000Z",
-          "source": "Free Press Journal"
-        },
-        {
-          "title": "Mumbai Crime: 17 MNS, Shiv Sena-UBT Workers Booked For ₹10 Lakh Extortion In Kandivali; No Arrests Yet",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWVpmT05qMXYyMlA3dnhLZ1dnM0tmOHI4YWVXUHNHWWlkT3N5Uk9OaDZPMGV5WC1RY0Z5WXY0M3NEbjFNTDNJcWNkN3ZCcmpPc1pKZVE2R0dwUlBNTl8wbzl1c254SjV3ZDNTLUw0YjAtOGhhc2hLWkRGejNMbFk5Q0VUUzBGaElXMjRYOXV5czBKbHIzTHVFZmhGWlNaelJSN1Y4MEUyLW0wYVp1YV9XNGdZREJJeEQxVm1OZ0ZnZlpzel9KSVA4T3A0clc5V2ltM0lF0gHYAUFVX3lxTFBnby1ZbjlMWkloeld3V0tRNkNydDVNbGVRdFdrQUIyTVNuVktjYktKclNfRjJwbXpnYnpYTlVjWHZJQ2lLUmVFU2lXRnFFaDZrMkh5dndqZFlZUzFIM2VMZmJhQWtjQS11UGhXemxTRFo1d1FuY3VCc09SQ3hwWmFYMnV1dHZta1paV19ZbE5zRU03TFRGbXdnVDRtRHpFaWJQeVoxVHdXMXBLNEdja3RTU3N1NGlmOEY0SDVBajZldUJGWVNJbzVKU190XzN0WFVsWVFKY1N4ZA?oc=5",
-          "date": "2026-02-17T08:00:00.000Z",
-          "source": "Free Press Journal"
+          "title": "Mumbai Crime: Woman Strangled to Death in Malabar Hill for Her Gold Chain",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOHhoeEpZSS1LQ3Utd1dPYjdHWk5HX3ZMaHB1S1ZKTVpHczBucDloTHdpSXZEVTd3ZnJkb1FIM3dDZEd1UTlpVS03YjRZU0F4Sy12ekVzVWlDM2w5RkM2eXFRWGd1Ry1hQU9pYUdoU3VKekJBckdiODdEMDF2Z3FUQWlaVVdBZlJsUFRrTk9PY1RrVDF1azRiNUNweWRvTGUzeDJLeWdvZmUxUW1IN2l3Z3VQNA?oc=5",
+          "date": "2026-07-06T07:00:00.000Z",
+          "source": "lokmattimes.com"
         }
       ]
     },
     "E": {
-      "cachedAt": "2026-07-26T06:38:56.256Z",
+      "cachedAt": "2026-08-23T04:39:54.635Z",
       "query": "\"Byculla\" Mumbai (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Maharashtra: Palghar Police arrest two from Mumbai's Byculla over armed robbery in Saphale - Mid",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNQ3l2VTI3aVdMbkl1Y3NiRDdtNXd4d3Y5Z242Nktxc1hCWkttdGVGeGdxRThJclBLNUFGZVhneVAyNXY3R2l3cU00MUpvd2ZPQTBlNC1ZRTVOYWowR2toYjllWkE3bEpBZkRmaHhQWktDT1pGbG8zRjcxNjk1NXVDX2VOLVdhZEdaSUFMZEphS0ZXSWJxOUtQYWhzWjJuM0dBbllhNFROVzNqZ0ZkenQtdU9FaVljbkplLThQUnVibWdTYk1tQy1HZURpUF90MndETmg2a3YzRUNSX1Zna3o0WEllQ0Q4OHdka1FHVXlicnczS3Fi0gH0AUFVX3lxTE1DeXZVMjdpV0xuSXVjc2JEN201d3h3djlnbjY2S3FzWEJaS210ZUZ4Z3FFOElyUEs1QUZlWGd5UDI1djdHaXdxTTQxSm93Zk9BMGU0LVlFNU5hajBHa2hiOWVaQTdsSkFmRGZoeFBaS0NPWkZsbzNGNzE2OTU1dUNfZU4tV2FkR1pJQUxkSmFLRldJYnE5S1BhaHNaMm4zR0FuWWE0VE5XM2pnRmR6dC11T0VpWWNuSmUtOFBSdWJtZ1NiTW1DLUdlRGlQX3Qyd0ROaDZrdjNFQ1JfVmdrejRYSWVDRDg4d2RrUUdVeWJydzNLcWI?oc=5",
+          "date": "2026-08-21T15:21:00.000Z",
+          "source": "Mid-Day"
+        },
+        {
+          "title": "Maharashtra: Palghar Police arrest two from Mumbai's Byculla over armed robbery in Saphale - Mid",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxON2Z1MXZnSkRSVUd5NG1FZ2ZaMU8yVDFmWGVNTExVclNzbVdLVGZNQzBrazBIaTNsS3FYT1lPM2tETXMzRnFoSXNMQnlrekhoVWhRVmVUMlpXLXViTGFJNThYM1Q4UmUycHUtMzA2cDZzNm15MUtyVjMzTlY2MTJGX0tpYTVZNzJMYWhpT0dnR0t5NTI1RXNwMUtodjk3Y1Bwc2FZbVdMdmp5aUk3RWo0bWJxUjE2YVBsTkpWOGw0UVdwTXVpWXU1VloxaGlYZWl2SEtwTVhnV1p0TWt6Y1o1eEV2NkRBVV82QkE5SUJva9IB9AFBVV95cUxNQ3l2VTI3aVdMbkl1Y3NiRDdtNXd4d3Y5Z242Nktxc1hCWkttdGVGeGdxRThJclBLNUFGZVhneVAyNXY3R2l3cU00MUpvd2ZPQTBlNC1ZRTVOYWowR2toYjllWkE3bEpBZkRmaHhQWktDT1pGbG8zRjcxNjk1NXVDX2VOLVdhZEdaSUFMZEphS0ZXSWJxOUtQYWhzWjJuM0dBbllhNFROVzNqZ0ZkenQtdU9FaVljbkplLThQUnVibWdTYk1tQy1HZURpUF90MndETmg2a3YzRUNSX1Zna3o0WEllQ0Q4OHdka1FHVXlicnczS3Fi?oc=5",
+          "date": "2026-08-21T15:21:00.000Z",
+          "source": "Mid-Day"
+        },
+        {
+          "title": "Byculla Toxic Capsule Case: Accused Fayaz Premjis Police Custody Extended Till July 7 Over Mass Casualty Plot",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZ0J4ZjIxd2FfeE5OMmwxTFM5T3FySlNBcTg2UDJUeVc1SXVHWHNfa0RsQW9Nb0pWVDBuN0R2aEswWlMtQXNsWFd5MnlrdW5FNnNoVlJjbk5aUjJYeXVPUmotV0ZOOVdGeXNQTXhQWlFBVW1hS2hKMFNva09oLV9OYUNDMVU3QXE0aGxHb0RvVDVJelYxTV9PYS1JX0ZBeEFOVDRWdmFkdllMNGJWb0lsUklXczhDSVZwbHUwYXNPZUpkZkY1N0Y1OS16SFV5aWh2TldSSXprTWZoTUF6aV94d9IB5gFBVV95cUxNOWQtOWJla3RBSHN1M0RWSDZIZ3JoVkN6SXkwNENobEhVLWUyTGZEUkJ3Vk9RQnBUajdIbjVwMGJjSXJzYm85QXIzRUpGNDBRUWhURUNNQUJnWEdvNlhyRlU4Yld1SzV2SDh6aGRzY09xc0ZCQ09lZVF5VVllZEN6NXgxUTZ3Y2FsRjZ6SXBOVUNBT1BXdEJUdG9qb2d2cDVzVkZzT2JBTUxIZU9xWVhNRnZiSTdyZnBKcTFlaUh0NHVmclgtendWRkFNUm9HblFjS0dhMmZpSnJEYW9YYzNnWjFndWpWdw?oc=5",
+          "date": "2026-07-05T07:00:00.000Z",
+          "source": "Free Press Journal"
+        },
         {
           "title": "Muharram 'rat poison' arrest: Police arrest man for distributing 'pills' during procession",
           "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUnM4OWVwazZ6UkNaaFJoaHBtdHpWUzNDUm5vN2NFQWVDMF9GRDZRS2hBLUhwZnoyVUJHNjdKTHBsTkVoOFBHSUJKSkpzZnNhN2kwREJ3WWRBRnliSmtaSGY4elQ1aGhXYTJBZ3F5RjFSa0FmLUhRRzd4eVVKZmlKT0M1Tm1SWU42dDBmcnJJVEx5QkRablBYdlFSWnd2UGs3VWJvckhLRFZJLVhTaFJSbUFkeFJYb1V4bk1EMHdQektDLVhoUklMc2cyQURiUG1yWkVCZWJjWjQtUnl4YUI5bXA2QURNXzjSAe4BQVVfeXFMTktTZDcwQ1M3akdFdVNmemJRcE9qejBFRGJxMl9Rb3BadzV6QXFacXpSQlBvU3czRW1rcmlPYkMyQTZGaEx1Uk0zT2RraDRaS184dTd1UEFSRllmdlFNUkIxR01FSnNNam0wMzJWTDFLVV8wT196azlReDZFTk1Qa0NrS0RDYmpmMzVQc3hWZHQ5X0RCNU5CUGtCNm9KMW1WOVFRNXhkR1BpUXh2LTVsLUlvQ3JQMDJ2VlhRa0lBcmlyV0FZV0QwdFlPM1FTMlB0Skw5UTgtci1iT2I3WE54enZpQ1pOZjNOeGF3eHVCQQ?oc=5",
           "date": "2026-06-29T07:00:00.000Z",
           "source": "The Hindu"
-        },
-        {
-          "title": "Mumbai police arrest Pune man for distributing rat poison-filled capsules in Muharram procession",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOd1BHSmVHR2FBX2xZa2pfR240RWpIRmo1anVlNEx4VVZ4ZzR5akxtZTRFWXlwOUVPbEs5ZEI4bGtPNjJWdEdTWjJUWVI1N2VDNENwUkNjSVZna1dCY1E0dkdVVFk2cXVwcTRwdGZIdTVtdjEwTjR5ZUJDSDU4bzlZenQ1WDVpSW9NQ2lDcEpyMWR1V1FwcUJITm9CWTE5YUU3aUNnbFBEb2tGakRlZXhxMWwxUlZMQU1CSlBVLUxhM1NOb0t0SkhGZS1fNG9xYzFINGJyNkZITGFFbXRiN01PX2FGaGk0QQ?oc=5",
-          "date": "2026-06-27T07:00:00.000Z",
-          "source": "Deccan Herald"
-        },
-        {
-          "title": "Mumbai Crime: 39-Year-Old Man Arrested With Nearly 15,000 Suspected Toxic Capsules During Muharram Procession;",
-          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQMTluX1ZXRUZ6QUowTURXRHlmWWFjM0oySnI5UHM1ZXFGckJ0VzB4azgwQ1NCTWZVeXNNSTZuLVdyS0JVOFZTRzFseFdmUkVIaXYwTHNXZjJRenJad05yVktOck4yOFV3T0gwZlFvTEtSSWdEaGhaQi1fLWlubzdOdmF1UDE5TVd1eG9SZEQzeHBpaE1rSVNzSUpub3FFV0Nfb1g2b2xhLUxWaFRVTEFqVnlhbmVnMlF2LW5qSi1RV1lGZGI1eXNUaVJGa1VnYmF3aHdieWZhTFJ5NlI4YlZuRUd4MDZuVDZBSHJHR0RVbWEtajl5RkxiRDhDOHdBV2RENkJPeC1pZlFUYkM1RlHSAZMCQVVfeXFMTTlPLTZpVGN2a3ZpbFQxY0xkZGNTdFJHRGNmWmtmcUJnOXRFTV8tV1RtM1VNdE5wNVBHM052MXB4Z2U4TWlESWJSVFdCdkhxQ2w3X2I5bHJjRGlidHhIWTgyXzdfeWxseFBqcnJfeHRicW5fdEg4VmQwYUFHWkx0WXY1R2t4bC1iVlc2NGJNMXRuUXpId0lmMmZ6M0JNcHVSaWtiQWEzN0ZPTVZjS0Rfci1KRG1BRjlaa3FNVjZXOUhhd3J0cjN3R3NBOU1mVzd6aEx5WFNfdFNyVTd3aFZpN0xuWWZJaWRtOTFVRkdyQVZXbUxKNV9BdTNpZ05uY1FzemVyWlROeG9nMF8xamY2RFY3TFU?oc=5",
-          "date": "2026-06-27T07:00:00.000Z",
-          "source": "Free Press Journal"
-        },
-        {
-          "title": "Main accused in Byculla firing held from Kolkata after two-week hunt",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZE1lakFzSE1BbUs5MTctbzBna0hBNFo0NW9TM1hJZ2dRYmQxUi1yTm5fZFNQWnNWc2xBVXItOXNZdzRpMk5NeWljdWQ5aUdnZ0x4M1k0VlU1YTljZHNXdEVqVHR0cXVoN3lRcWh1RVhTVHYtU3pqcVlHbUpPdVYzTTZiTzlPNS0wTTRFSC1GdHFZbko0dndDQlNTaGpVYkdoOUR0Y29xMG45cEl4bnFNcjB5dDRndGVyUHFTZC1xaGN0cW9ocE0wMzNGc9IB0gFBVV95cUxPVmdLcUpaTTY1SlNmd0dtNHBpX29hTDJ1N1E3ck40bExTRFo0b1ZjRExYM0FtZlF5NWo1YUV3dTZPdWVfYzl4aThrbE1DZ0xrb3o5VmRkMUg0c3I3YUFiZm5PN3kxazdlN3NLdkQzbGtVbVFwc3EtanB6NE5wcnhQb0xDcVpRQ0ZnbDNfUWpEY2JGZV92QWpkTEIwbnl2bjVGSnViODJMS0R2bFhGUkd2WjBDdjNHQ1JBVi1lck9tUHpoeHM3YlhNTl9TV2tGZFFlckE?oc=5",
-          "date": "2026-05-26T07:00:00.000Z",
-          "source": "The Indian Express"
         }
       ]
     },
     "F/S": {
-      "cachedAt": "2026-07-26T06:38:56.256Z",
+      "cachedAt": "2026-08-23T04:39:54.635Z",
       "query": "\"Parel\" Mumbai (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
-        {
-          "title": "AISF Mumbai Protests NEET-TET Paper Leaks, Police Action, And NEP 2020 At Parels Kirti Mahal Corner",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQem96VnNIMXpfWG9Saks5RU9WV0V0VHlRNnRtT1d4SVNSUkVSRHIwYy0tYWFoenJpS0daNVEwbWQ0RmdHNlNfWWJrV3gycEFTUndzNlhuLVNOREFidVJOZV9hcVpWekFQb0hic0xFTEVrSnljajdaMEYycXRsWnRGV3R3TmtDYUZBd1hJaERiYnFqeWJCQkM5eDI3YlluSXRaLUJYZWIzZGE5aDdmQzdvS3BFYkxmOTloTk1pRUVjallSdFpQRWZOWVkzS0ZWcVZCZEo1bU9B0gHbAUFVX3lxTE5nT2h5NUNRSnJjU0xtNGJNdEZreThCXzl0dzh1aE9OSWVucWRER0hHa2F5SW9tODNhOHQ5d2IxR2U2cFJ3WF82eUZ0RzhYSkZTM0VhMWdtMFZ0TUxhR1JYVmR4SVRPX21xNkVwYWZHT0JNVV84S1BUSkxxYUJVRzVrTExTY2FqeDhBaVhIMllwRi1HSU84bDB6UENjODRIRjZUeVRING1WZTBlUWNiS1ZSZERmT3g3d3BnR1IxanBWWnlzeVNOM3l5MnJIb3l5djNkY09lT2h4eEtpSQ?oc=5",
-          "date": "2026-07-04T07:00:00.000Z",
-          "source": "Free Press Journal"
-        },
         {
           "title": "Mumbai Crime: 48 Hours After Mayank Lohar Murder In Local Train, Another Man Stabbed Outside Mahim Station",
           "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOMVpUaldpRVJYdU5iSE1HZGVxT1N1N2E2b2NKN3BOaUV1d2M0ZEJDakZjaE4za2NIM2JtZlJXblBycGVURVliVThVZ3VTQmN5YmdENzBueHJ4U1ZPWlU3eGpMSkRuWTVJQWtLWjNZYUVaXzVMeFpOOGw5dHVTX1ozaUpfenZwUVVyNFBJSzVpZmMzQVZvMzdXbmZza254N0xfbFRmLVFUbkJNWlN4bDVza3BLRWozNTBuQVlNY2l4Z0Q4Z2RGTEdBRFdxR1U3WWpRMWdmcWlPTERvYk0wVFFoRWxOakRkeEJGVzNMbE4wMnNUczJwWXhJ0gH8AUFVX3lxTE9iMzA5OWFKMEUxYXNhTF9tc0lONTE4Q2Jnb29nN2ZCN0V2WHQ3cTY3SnlfR2ZJWXFrcWpqSGYwM2pwb0Z0bWd3UjZnV2g5ZVcya2wxbHZUS3RwcWdaVkFvMjVPVl9Td0tDQ1FfUFk5RGRRcUlINEdPeVdtaTV6a1hGMVk3MUJUNjJWVkZ5ZlNKZWlQLXRkSXJEMjM4VWVvRXhxdVdka0J3LXVHNjVfVnRJaExnY3VLYkF5U2NsdzNMY3E4Y1R6M2dNRDRUMHh6Q2hWZk9lSjNQcUFuSTl0NUltb3NEei1yMTlPOEV0ME5Fak1tQ0g5QWM2SWIzeg?oc=5",
@@ -163,26 +163,32 @@
           "source": "Mid-Day"
         },
         {
-          "title": "Mumbai Youth Alerts Police, Five Suspected Bangladeshi Nationals Detained At Parel Railway Station",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPV0I4aXMxMVNxd3RGZzllTUR2cUtWUVdReENDZHU2NXFhQjVndGV5MVJGa0czNWwxLW4zTWMzTFpHcGlkZWpndHl4TmY4U3FRSEdGZ1d3UUJIbTFRRnZSR3dTekc1VGI1dm12WG9YbE1wcEx0aXhONWNndGxZY2o4X3R3SGdBdS1SaE5BRm45dmlZYm1FSm5oZms4SEVmTXhNMG55SmhZd0hGUGtvU21LcFc4Znk1Y3VKUUI1NTFiTF9tYTd3R25zOWYya203ZGswSWfSAdcBQVVfeXFMUDR2UXJJY2JOVUFQcXEtQzlESTZlMkszUUU0a2lLUkZoUTJxTExrY2t0aXdYRms5eF9kd3NDcHVuRkdtalpibU14S3RlVTJLOS1MZHdMRGpORmo3VDU0VHo1TzBwNWRfaEg4ZXpSaEtxYU80ZzFLOXM1Q1dTMm1oT1NfN3hrZTE1YVdEaURIYjJBbFBOdUN3OHNRSVNuWUE3T0RKNFJxbFUyTWVqaXVBelFmeTZSNnRRMFJxcEt5cWtOUXlOaVdKaDdVWk9iekUyQUN6RnpMdzg?oc=5",
-          "date": "2026-06-09T07:00:00.000Z",
+          "title": "Mumbai cops’ push for MCOCA in Parel chain snatching case falls flat",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTFE5SVFNUDFRWHhXZlNKU2NiWWRUa2xfSE1QZjVOVHVLQkJ0QVFtelItRmpnSDZEbWFRWjFpSFN6THZBN1lZTnlCYml4Z0ZzSkNtWHV3X3BmTEEyaWstX3ZWY3RuWFE5blJXd185R3lDT2lyT2hUanBlcFBnTF9yS2d2elRYc0ZpZ2wzNVFnNzU2WEkwRnpreDNVX2todXRScWZOU1dkNFFYVF9EX1QzM24xRmJES3BIQ1ByM1FkcllieDd1eFBQdEpvTGZObnYtSFhZU0tMWW3SAd4BQVVfeXFMUGRmR2xuRUdtN1pLTlZxTEZhMi1GS05KVlNyaERJMnlTeGZsME5JdHh3MHdXeXFuS0pObDZXMVFyTHk3RDRtOGl0dzVSSmthS0VhcVJHVHo2aGllMVQ0aTljV2tPSmNlSTZqam5HdFNfNTc3azV2UXhNTlctYjR1eUhncm5fblRFUlJueFJ6U0tYaGdzQmhxSVo5RTlQSUN3NUdWVnlTc0puemFzVjFYVDZwbmJOa0ZaSk5URUZNWGU0bGUzN3ZianJyV1ZIZTktLVFiTHZCVmR3WUJMYTlR?oc=5",
+          "date": "2026-03-29T07:00:00.000Z",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Mumbai News: Antop Hill Police Arrest Insurance Agent For Abetting Suicide Of 24-Year-Old MDS Student",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVmxncHZjNDNVRzgyYy05WWJlNW52bWxrak1RbktNSkkxVEUwanZKbWNjMVFkMWtoVHZmVy1Va0Q1YVRpbTU4ZDgxXzhfVTM5VlFnT3ZseEtEdTZqbktHTThGTHFXenlOSzkxYVNGM295Y1RJeDRlUEtuWC1xR3dSX3FKZGRpM2lIRkFIRjNCYVJld2NDOXNJcXdUZlJCNmVSRnI5TWhCd2Q0dkVsY0h6WTB4MV90YUFfczNVRERDek1JVWhMSjBEOUNsMXRnM1dYYkpOMWxyajBwUdIB3wFBVV95cUxPYlhScXJDcGxWQ0JpUjNDMGRKTmlLTU9zYVJKZkwxTV9vTXlDeGdPcG1ieC03cURJZGoyWlQ5bXNLZ1ozbHBpcmpCRkhNRlNzMllGdkEzNzBHem5SbGZSUlBISFIwWWg5T2l4YWxTV3NXMm9xY2JfckdFYUQ3eDhRbEpwTVFVczhUVm40b2haS3BCOUxBcFBsUzBMdnZnek9FZDdBNHNqang0VDAyOFZDckpseGg4dnRqaUdJOTEzeWpKXzdnVk9nbWp0RU4xZU11eTJYRWxORnVpU05DZ0dz?oc=5",
+          "date": "2026-03-10T07:00:00.000Z",
           "source": "Free Press Journal"
         }
       ]
     },
     "F/N": {
-      "cachedAt": "2026-07-26T06:38:56.256Z",
+      "cachedAt": "2026-08-23T04:39:54.635Z",
       "query": "\"Matunga\" Mumbai (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
-          "title": "49-year-old man with knife barges in car, threatens and attempts to rob woman in Mumbai, arrested",
-          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOZTlfWDhJeERoTElZb1A0VWRoUm5hdE5uc1ZCTnlSU2JpZTVaaHpZOGJfMHdLWkxYd25fcU1tSElHeklNUUFNUXAxWkdGRHNFdEQ1dENYNjdEdlFHR2kzZ3d2c042ZElkZ09zYXIzV2JIU2lxdG1WRnVPUUktUXlZQTA5NFJVOEoxb0lVc0xlMUZMazNyblZFREkwejlwYk5iZzhTZ3htOW54YjVJd3IxQlBVNTllTE4td0NjS195ZUN6QkFyQm9sSWdQZWJ3YklmRUREc24tWHJIVG1kYmh0eXdWWmo1cFZwYU9tNTV3WFp6anFsY2UxWTFZY0I3Z9IBgwJBVV95cUxQaVhYdU9rR215YzdUMDBvSDVTTjlzYUk5ME5ybVVmSjVwNHplem9lSnoyM0dobXBVSG16NWpTbmE2OE9GLXpENUZibkN4eHFwZVhtUDBIVGtHWkJ6bnRTXy1IZXpWTHpUSmNOMTFNUnozdWpFTDRFcXIzMVhYTllsblM1OWgwMTRGYm5OdXg1enBJRlNob0k1bXVkd2dDWTlreFdpWElDRExRb1NialhrclNCQkdVWXNzaVlROG9STWMyQVlrNGd1TGVvMllKNVQtUjhxQlBzaEM3anlCWHNOajhmSmduUU5BOVV0Nk1nc3gzQV8xb1FNeE1YUVJNV3VaYVFv?oc=5",
-          "date": "2026-06-25T07:00:00.000Z",
-          "source": "The Times of India"
+          "title": "Mumbai Crime Branch Arrests Former Vasai Corporator’s Son With Alleged MDMA Worth ₹27.30 Lakh In Matunga",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZWN6MW9tNHcteXVHMU9FQzU5em1BZlFqMU1LNXIxVWU0NnVZcFpUX2hmN2hQLWZ5MGl5Vm53RE9FZ0tTeXpzcXFpTHQxWmN5Y0hIMmlRRTUzMVhJbFF2WXFnQTlVOUEzQmV4UXZGT2R1cFNqNFlqNWZrOWJodVNreFBvbmpmSHBMX0dLYWplUTd5X2JMY2lod1dJaWM3Wk9JOHF3QU1NcXFxa1NiQm5PWXhmQkhMc1p0MlpoelpmQnY5eG90RE5PbWhTN0ZKZFgtR3ZYeF9oWlBnNmdvbXfSAeMBQVVfeXFMUEwtVDlGbm5pWXE1SGQ3bkNYc0ZSakphQ2JvSEFJV2ZVbGJDVW5HRlAzVF9VTnVmelljdWNjeG9qVnpCeGFsRXdqVDJVTXlQX3NwSi1wMEZMaGloaTJCQ2t6Qkx6QlFwS2tBUkY2c001SkxPQldTYmE4bmJ1eEI0enE0RWc0WjB0bGhEdERxX2IyNFdqdlIxSG5NdGZHdUJFTU1fX1NLVkhFNnJKOTQyY2M4WFRyVm5UZnFwNXRIbmJaQ0NNc0VaMFFTZWtmWHQwbDlqWEhHNXBYYzQtamplbHJyMW8?oc=5",
+          "date": "2026-08-10T07:00:00.000Z",
+          "source": "Free Press Journal"
         },
         {
           "title": "'Don’t Touch My Children': Mumbai Mother’s Bravery Foils Robbery Attempt in Matunga",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdzV6dzdTS2k5cWlBWlFBTzE3SGNRMWpjN3N3TG9KOTNJSWxMdDNESUE4UjJ1ZlpDZEJST1drWlV5ZWkweXpUdmlHRS1HWnZaZm5SYTFvR1NSa2laeDBOTWZIWW5HcVczSjJOWFVVOUc1Z051TlBaWGFBZDFrOVd1Si1xXzZiR3ZzN0lqekVvV1FSc0FVUVAyMGdFUDFNeHdmSGJzMUd6RFpSR0tnWHFIN3dpM2htVDF0c3RB?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdzV6dzdTS2k5cWlBWlFBTzE3SGNRMWpjN3N3TG9KOTNJSWxMdDNESUE4UjJ1ZlpDZEJST1drWlV5ZWkweXpUdmlHRS1HWnZaZm5SYTFvR1NSa2laeDBOTWZIWW5HcVczSjJOWFVVOUc1Z051TlBaWGFBZDFrOVd1Si1xXzZiR3ZzN0lqekVvV1FSc0FVUVAyMGdFUDFNeHdmSGJzMUd6RFpSR0tnWHFIN3dpM2htVDF0c3RB0gHAAUFVX3lxTE1CQTF0TjQwd2tidW5vQnZLLWR3dEJKaTF0dlRrNVc4V0dsOGFrUW9CVmd6cVhsTUt3WTk2V01WNkcxQ0d3Y1JqNEZxQkpiNi13c1ZOOXNqMkZ2bXJ6UC1fVE9mUHdEUlJxNjFYbVNCRWJUUlhVaUVOM0ZZbGs4ZnVOcDcydkxybEduWXkyamQ1WEdSXzdEbGItbWtEVVhuYVVuTFVTd3JLN2Q1eVg2aGo4LVdDcjZ3SFRZZ0lwSXBSZg?oc=5",
           "date": "2026-06-25T07:00:00.000Z",
           "source": "lokmattimes.com"
         },
@@ -201,469 +207,463 @@
       ]
     },
     "G/S": {
-      "cachedAt": "2026-07-26T06:38:56.256Z",
+      "cachedAt": "2026-08-23T04:39:54.635Z",
       "query": "\"Worli\" Mumbai (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
-          "title": "Mumbai: ₹2.65 Crore Theft at Sachin Ahir's Worli Home; 24-Year Domestic Help Arrested",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNN1Z3c081ZnpBUFhfTE5xZ2JGYmp0VTB4R0RXUElvQ0xFRUgtcWY4Q1pJOU5rOFJFakVYVGdYQ2w2RGotaHdPZ1FCLXR4bl9mUy0yY291amNXWWt6dDh5YWxYQkJ2bVFMbHhGZXBxWmdPTUM0SVNET2tEY1YzOWFDT3FqWUtlby1ReEU0dS1ZczhVekxBbWg4X1psV2JLdjlYZ2JCaHZGQzZ1RTNKSG12a1E3TS1mV1BKb1lPTmlMdDHSAcYBQVVfeXFMT0JOblQ3SlYxVEctXzdCX3dxLWwwdUUwMlh3ZnYtUzBma095bjVnWFV0TE8wVW5iTDdhSUhWamlMS1NKZkFhNl83QWpQc25MX28tWk1KU1FLekp4Q3haOUp0MFFrc19TOWk2RC1ILXJ4VDNsUzg0VjFvdXI5NnFyOVZMaVR3c2ZvRjF3UUo2b0FlbEtBZF9uenBmNk9NMlpzYzlnTHZMMzJOY0tDcVY0dE9ydUxmcWE4OWxDM0V6SzhCYzNTajJB?oc=5",
-          "date": "2026-07-24T15:50:57.000Z",
+          "title": "Mumbai Crime Branch Arrests 31-Year-Old Auto-Rickshaw Driver With 10 Kg Charas Worth ₹10 Crore Near Bandra",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPa085eUlmTERlNUxVMDQ2bHgtUWJPdkZOMWdabkFCWUptLUxzZDBMSlZUTlpFSV85c2JGVU9KUElOZUxYYjh5b21fWW96WUVwVjJ6YWNUcnQzYnZPTjdiSzJ0cmpLTEpwZkxLSUlkUFNDTzQ1M3ZLcnExWTd4RVJMWUViU2VSRTlfQnUxR1V2Zl9aZ1NKMDRVYjJlamR0MTNJODdhX0tkdVh4WGhoWGNmMW1qZV9HeHBQMHN0UUR0YnBPdnMzVV83eTNVZWxvd2pZRHFfaUE2MjUxUVkyVkNqM01qamlJekHSAewBQVVfeXFMT0Y1Ql84XzV1ZllHdDdUUUtLcFN6RFlzODNJbUllajZ0NFJ2UGhfWjExT01aSXJxblZMMVNpZzl5SFY1UFZSYjZleXN2SEN1aE00YlVKd1JPWDVjY3JtUXVURnJKbXpsLTFPOWlfeUZlRktWTlBselZNOHRRTGtYa1B2b25CTXdhV2p0bXRzekhOR2ZJczd1cXBVYnMzN2NuWE1TSU1lXzMtVzhTOERFQlQtSWZrRVRuY2J0amkyaXE1dGszQlRuNUxSOEhsSDdhWHV5Wmh2aUs2LXFEaEhuZXRUWDhuVjZjRUxTN2o?oc=5",
+          "date": "2026-08-18T16:59:23.000Z",
+          "source": "Free Press Journal"
+        },
+        {
+          "title": "Mumbai: ANC Worli Unit Arrests Man With Charas Worth Rs 10 Crore in Bandra",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeU5DeFB3WXRmdEN3X3pNTm9jUnhyM0p3bk94VzZxaWc5bmZGendzUWI5Wlgyc2VNZm1mM3E5MlRrbEs2VF9hMk1jcjNvaVpYbG8xM0oxaFlTRTlMY0c2NU9KcW1CYWtpUHpwcVd6Z3VIcnYzMjZNbmtuUzFpZnVSLV9SWHVjWXlGWEtkeGpRWXgzbDNfOHNGM0NtWHdtQUxQemVrMUlveGp2LWZEY0RxbVV2aXrSAboBQVVfeXFMT20wUmVzb3RuSGN1Y21jUUpXOTFfVTdQSnhwdDJKLTJrcER0VWFHaEMxd1lWMDVpTlZOWTdIX2xFclowTTVWam1kb1VYTHRCZDNZdHNvdWpZdXllX1N0Q2EyNkpWYjRiX0dseldOYWFsU1BPYk5sSmxVcEZBWlVwT2REUUxuR1VSb2wtaHZRbjFDZjE4UDB5Wnl5bndab0Q5OFdTMDJpVXBzNWhMVmxJeTVSQl9aYTRiU2Nn?oc=5",
+          "date": "2026-08-18T15:02:46.000Z",
           "source": "lokmattimes.com"
         },
         {
-          "title": "Mumbai Police arrest Nigerian drug peddler, seize drugs worth over Rs 35 lakh",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdTdEbnF6OGZ1aEhrTGRDcVQtVE5TRkxPUU02b0g4WFczWWpMMVRnNlp2MWpLNHhQWXRpWnU5a3Z1VFhoaEVzdjd4aGhxWHE4QjJxSG1IYTliYkZJSDFVR01iTC1aUE1OaTJuNEFWU213X2RfbHFXcGRUS3lua3dnZElkenQ5eHlQMVpkME5HNjZDNVd0YTdIWTNzTTF1SF9zNWFyRTRraHJkQ1JSWlE?oc=5",
-          "date": "2026-07-21T23:32:45.000Z",
-          "source": "The News Mill"
+          "title": "Mumbai: ₹2.65 Crore Theft at Sachin Ahir's Worli Home; 24-Year Domestic Help Arrested",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNN1Z3c081ZnpBUFhfTE5xZ2JGYmp0VTB4R0RXUElvQ0xFRUgtcWY4Q1pJOU5rOFJFakVYVGdYQ2w2RGotaHdPZ1FCLXR4bl9mUy0yY291amNXWWt6dDh5YWxYQkJ2bVFMbHhGZXBxWmdPTUM0SVNET2tEY1YzOWFDT3FqWUtlby1ReEU0dS1ZczhVekxBbWg4X1psV2JLdjlYZ2JCaHZGQzZ1RTNKSG12a1E3TS1mV1BKb1lPTmlMdDE?oc=5",
+          "date": "2026-07-24T07:00:00.000Z",
+          "source": "lokmattimes.com"
         },
         {
           "title": "Mumbai Police Register FIR Against Youth For Allegedly Filming Worli’s Palais Royale Project Without",
           "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOY1BZNUZrc0htUWdaMDJpckxwbVJyUVZENUZHVzI4NTNYUFNTa1QxdWlLdDh2Q0ZpUW1CRmt5eGdVTzJqeUxIOG9rUVNCZkJ5dHVNdHVSTllBVUhzRDdMcGx1XzB5QzhIa2tvdnduREJEVmxsMkIyWlFmU2lkeXhOdTdPN25xalVjc3hxaDJTUVR0N01ydlpmcXREV2NnaG02aWRjMFBsbXJNZEpPVnFpRjZjaHZfRnZ3U3dkVGoydUdjNkhTN28yOUtEVE9tWGFyeXlfRThxLWg5T05GNFZnSnFaa9IB6AFBVV95cUxQeHRhRzR3c3k3Rkx1dF9lUW1XYjZfRE12b3R3d0dfUFpEbl8tR1p2MG5ZUkl4N19RYk1CS05OajFRa1UydTl3enZjU0owdFF3eFFhOF8xWTFzdG5qaE9MU0t0WXRCREtYeEswQTRQRjJJZjZHRzh5SGFtSGxkWlA3SWZXX2RGQUlYNzVabzlKSTRGaEw3MWFHTVRYOXM3c1otdUhWQjZ0X01id3ZQaUpnMjhLUFM2UFFjX1RJSkp0cnJiYVYxRUcyTldkSGxYWl9MNERJQ2g2TGQyd0xDalpISDl5UUVFX0VT?oc=5",
           "date": "2026-05-19T07:00:00.000Z",
           "source": "Free Press Journal"
-        },
-        {
-          "title": "Mumbai Police officer held on charge of molesting minor girl - Mid",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRlRoNXR4ODVCRTlrYldwWjUxVGdEQ0Zwa0xDamJxR1oxTGQ0aWRscVg0emp1b3hPSzNadGh3b3IxTTBMcXN0ZTlTZHh3OUxrNUxqNnh0VFJzLVh1N29mV0JqTkhGTzVLazdxXzN5dE5QZldaVzhmUGJxMjFtbEJtTXVFaVQyR3VBTVl4SEs0Z1RzeS1Fdm1UVmJDSXN3Y2ZNWUpmZXJ3UHB3UE1vY1FyUUhGekVBMGJpOHVDLWYxNWs3bjVK0gHKAUFVX3lxTE8zdzZvWkdpYTRQRklraXZ2cER1MDRyQ3FlUGdnZ1FzazdKcC15WmJralZMTV9PaHFKQ3FKSVhKaFlfYlE3TlgwcE9OWVV6ak1nR1I0OTQxWG5OUm1YZlRnV2UxNzlxenJqWmdYTEQ4U1lGc0I4Ni00YWdCVlJaNDVoeDI4ZmxkdjlRWHBodElfaHFjU2xaN0wxNW5LVmJHak13QTRYTTlhRWhTbnE4OExNbkhwNGZYM1V2UHZpM2gzb2RGdkJDOXZuRFE?oc=5",
-          "date": "2026-05-03T07:00:00.000Z",
-          "source": "Mid-Day"
         }
       ]
     },
     "G/N": {
-      "cachedAt": "2026-07-26T06:38:56.256Z",
+      "cachedAt": "2026-08-23T04:39:54.635Z",
       "query": "\"Dadar\" Mumbai (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
-          "title": "Mumbai Police Clarifies Viral Video Of Officer & Woman Protester At Dadar, Says Incident Was Misinterpreted",
-          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPbm90ZHN6Q0hMN3A4OTFWSEtRdnZYdlNvQlUybmh3dC1tbjUtWC1sOHREMUd3RnlhTUhCMEVqckpZTWY0azdiQnZVcmZsdU9YVDUxbFhmOW1WUUxoUkpxUkN4SzZRZ0lIZWktQWxqTGV1VmpKUzFWMWdYdHFPdkYtb04tRVVKaGdLdmhKazc3N3hNcmMyS0FsdUhyQWMzMVdGUFJJQ2VqMVJscXpGeEZUVlRiek9VTlhHeTAxSDVlaVd1WUQ3am9JTER6eTRhSVNTVFJSbXdibTRqeWszV2d2aTF6VmlKcHRTRURwOEdnN0xXOUU5bzlwMi0tb0h6Y0Q2TkdpaXNvMNIBjAJBVV95cUxOVEsyTl9TS19ScVJTXzhkSVpYc2VXekVVMFlmVVNId0tkX0dRTkxuOFg1V3NMOE5rd3EzUFR3aXhYSXlnVUlGb0pwSlNIbFBQZnNBVGljNXB1MDZ4aUZZUWtmbm5oamRSR01CRDRMcHJabFQ0VXJ3MzZjR25xTUg1MzZpejg4ajZxSGF3ZlNsRVVqVmJ2OEtwbTgyWlZ4U3VvdENlVVI0YmNlb0hldzl3Mm9mZVZKemJwSWlhUDF1bFNzQWJvblhlaE9wSnZabm8yMGtYY2duaHU3VmFtY2U3MUFjYy1CeXlxclVQaGZTVEgwVmRfSld0bVZrbmdzWE5HZ205ajF4bm05eHlU?oc=5",
-          "date": "2026-07-24T06:15:59.000Z",
+          "title": "Prostitution Racket Busted at Dadar Mall; Six Women Rescued, Four Arrested",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOS212RVhiMG53cFF5Nk1VeWE5S0loUThzNy1oODNFd0lFZlNMWm9aTTZiRmFTa3czbnpJREsxUWZmeFlQQURaeWVXdDNSSUxmWEdTdGVEX3NnTjNQY3l4TXNmOWh4VndJYXN2Y1JyQUZBcER6UnZsemluRkhPbEtSWkY5NllCeEhVVUUxRnFjZWswWkFKd25XR25LdTZKOWszRnYwRE11QkZLOG9tRjhHMXMtTE_SAboBQVVfeXFMT1NvTnBVVkhQS1FJQ0FWc3VzcVBxU3F4cnJOMUNfTFhpTGZFZ2REa3E4aENwV0JBR1N5VVlNOUZ0OXRVY0VOR29VVzltc3ZYaWt6TXI5OWpVZlpNZktvbExvTWg0dE1fVUNnSHBlc0pTZzhVQXZDQzRRUGlkd2pua1BQcmptQ1UwS1AyUlRUVW93Q0VDOUV6XzVuNVBsU1h4ZmJWckFqQU5GeUtDU1BPa01OX0VOMXR4b0Nn?oc=5",
+          "date": "2026-08-12T11:25:44.000Z",
+          "source": "Mumbai Live"
+        },
+        {
+          "title": "Mumbai Police Bust Alleged Prostitution Racket At Dadar Spa, Four Arrested",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPLTI0SVpnYlRaeERZWVREbTUwbVUwUlRqdUJDWXRLaVI4UjlTUGxaWFNNSHVsZGVjRm53OGNwSmF5U0hPZy1kQXpkYjcyVElZbkplY3RKNzF5M3lxRDk3clNBZDEyNDlwcEJ1Y215Q2xHMFFuejB6R19kdmk4OUVFVGZwV1A0TzJEQVBKbEFvR0VmTGpndVNvLUtaWXpSbkVHbTFvd1dWbTJXTkFGc3IwRkxR0gG3AUFVX3lxTE96UjVEMWV3eEo5cDZEVW93UE4tRFJvdFpQVXpCd2FscFgtQ2FYU2FLZjJidzdyV2JMR3BoYjlvM3dVOFZKRTFuS3hBUTZpMXNBcXE4NkJzOUYwck1aaExzbGo2RlBCRFJMcG5fQmdOQ1J3aC00VXkxaWFmc090eEJ2S3pGVW16UUVMRW1FVFZVTnRCSUZTcFUwZXBTZmd0V3pqRjdRNWUtWGFaVUd2ZzJ2ck9wTDI2TQ?oc=5",
+          "date": "2026-08-12T07:00:00.000Z",
           "source": "Free Press Journal"
         },
         {
-          "title": "Viral video leads to action: Dadar Railway Police book man for assaulting wife in Mumbai train - Mid",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQek1MQnZkRVFPQVJlc2w0ZmlVQ0Q2RHRNdEVrNnVmZ0tXclVvWElyelk0SFd3UFV2YTRXemJIY2RSVjQweGk3aHlTZkpzQW0xYURrN1RzT05rcFZuRGJ3eWg5QU03YzR3VVJPbmc4UXh0TGplOXlEMHA0NmNEZHc1M1JkUnRMbkRqMTRkSUpkc3ltcmJfX3pYMjVDM0lxSnBaVGNyOEdwdklOTWlDTEhxQjdwbjBBMmVNTFlrR24zemd1VjVSSDM4T1hfVUxDYm1iVWhPQ1N2UlF4LXZfYmdDaEwyanBhOVR1NGfSAe8BQVVfeXFMTWRRNHBkYXZnMU9RM0JsRlJyUEtCX2h4eXVLVnd0WGRadHJzRG9JdVFtZU1uQ3JWcTJDazFuSFhPRmxOUHlQcFlqVS1HX0VhRXM5RmpZM1NQSXQ1UUpZelVrOGw5bWF0TVhkMmwzU3NpVXZhdUdXQ0s4dWd1UWNkQ21PY0xFUi1obW9zMEszMzQ5V0lRTGJYMy1DMEd4bU5MT0hrbGZJazNVaDNqMVlhWExFMUdBbzVONGJaeDdrVmNsbkJITEpUemdiSFRJaHZkUFhBMjVkazE3NHQ0dE9Hdi1iMV9VTklRTmJSOGU0c2M?oc=5",
-          "date": "2026-07-11T07:00:00.000Z",
-          "source": "Mid-Day"
+          "title": "Mumbai: Sex Racket Operating Under Guise of 'Thai Spa' Busted in Dadar; 6 Women Rescued, 4 Arrested",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOT1dpYkl5NkdTQ2NDaVJjWGFhVUsyOV9XZUNYRHAxX054TGVidG5QTmFrVUdabjNBdlp4V2dZLUdYOTdZdEZISFNHTDBDLWg0R2VCZDlzQnlramtGX3R4cER1di1qdUxlanJ6TnNScnBaY1JEbWR4Rzk0ZjJEMU13S01RNHZNajZQZkhmd2MySS1Qcl9IQzFUQXZvUDBKWUowWmRpbFRYS29fX3F1WmtFYjZ4NTJKUkttakZXTUFYN3ZUX2xCanJTVGZOVTVOODBG0gHWAUFVX3lxTE0wYmE2YXV3ZkhnNVZSajZwb0FZSUJNcHFWZTNpUjI5dWxYNDVFSHVIR1I2WXF1OC1RMzY0bnNNV0FlUEItYjdFMmZueU1WRlAtNzMwRXpCcDRjOEtWSFc1Z1Z0RlM4elZoZXI0M08xNkJTQTZ6REFOb3Y2TEpzZThEOW1WMGVJZXZQOUdiRHNmZGJjVGFQemtfa09lVF82VnQyTWNZQ1J3TXc0TzdQazNZNEJodUlWQmFObDRWUWR5d3JHZ0UxQ3BLUUlNTDZ1WUxpLWFjVlE?oc=5",
+          "date": "2026-08-12T06:44:44.000Z",
+          "source": "lokmattimes.com"
         },
         {
-          "title": "Delhi Police Special Cell uncovers major conspiracy in Mumbai; reconnaissance details being sent to Pakistan",
-          "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPR2JZb3ZXVEpORnVRdmJVYm1qN0Rab196cFdXUWNrNUN0OVc2aWhBaXBxaS1pS01rMmswTjg4NThURzFhZjQ4N0cxODltVi05ZnF5LWJMZjcwbl82c1FoRzFYNmlSVzFQbjctZTI5R3hYb0phTlBlUTJaeUFGaFphanpLZnZsUTVtekwxalJyajhXMEdvMkJ5YlZwbHA0R0RwS2dxbkZMNTRfMUlDUUZKZjZQQXZKUXdvd3JUNVJaNkl5Sk1GVDNmcUpucE5abzYteUNLc1ZkS0ZvZ2U3S2VuOG9kSlRBdzZyOVFRSnIwWTFvRWR5eFFCMG5kbEJSVXdxM0lkWXQ3d0xsNHh1WW1CLTlxbDhURXJRXy1FWGV5elZFQWtYWmEwdy1va2JQSll6WDNwQ3o3MmxHYUhsVHU3UURzc3F3T0N6eVJ4RDdmOWcyWG_SAdgCQVVfeXFMT2VqZXhxR1F1VDZQTGNKcnFTMUpRVWpkMmluNlFSaVNETUN6enhrcHFmLS15eFh0SFg4TkU5NnpWeUFhenV5czAxYk55ZjNTd0Z2MHNLOXdLVDVtTWVrX3U0TThJNzF3SUZEcGtrVVhpM0d6RG1CVUoyeXdkakZDaTY0TUJuRXN4bUl5MWdudHBnOFN1bUVGXzJKOUl4NWR1ZERpejZac2FTU3RCSkkxR25hZEpQdUxfNWgzemtDa3JHQXY0Z0UxclV6NE52UVRETlNhdGMzWDd4RUhYS2ZWUXpPcmNWZDhQcERsTUZfQ0JJcEJzWGFJekdXRXRjVzdLaW5QVmFndno2UUt6MXktOXpYeXRUSy10MUVLcjk2dUhzOXdiQzgtWFJmdzk1WG52VGJQdExjVU9aY2xQZE5vUmVRWVpFNjVYVkt6ekpqTFRWVnVrTUVZLVo?oc=5",
-          "date": "2026-05-31T07:00:00.000Z",
-          "source": "India.Com"
-        },
-        {
-          "title": "Mumbai: Court flags major lapses in “digital arrest” probe, says suspicion cannot replace proof - Mid",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRGhkSFBUc2tTV0lVRlJfWGp6Y3V3Nkc5VXVnWi10OEJqN04tamxmX2tudUFNWWhlcUFIdnM2STM2WUFxa1hKamZXbHZIRXdRaUZsamEyTUhKOUxjY1RWaFJSQ1UwV0ktZHJxT0FHTHZwR3hwVWt1R3dHQU5tODFOVVVpcWVvNXNWZ0tUdldhTTVDT0Z1cXFTMUJRczB2MC02QTZsNy03YnV1Uk5heDZKdVVsaTg3VzZLbEdBVFJlY3QwOXkyRklma1NoUzhRY29BZEZudzRkbUwtemdLUVpxSVFDQnQtUdIB6wFBVV95cUxNT1Y3dkFJanpsTmtITGMyS3BJbXZYUnpRQlpXWmszZ2hfSkRReUFUR2R3dGlrRTh6TUIzSmZaakRROXctSDQ4bFAxMV9iRHB2YksyTjBPUzZtSjJ5QXZJaDFfTHI3c25DTmR0M3NEYlNES0RjVldyUnZyUHZUbnp1OVRGUVJOMUx6T1RvYlNmS3hEZWxtajNja1AwbTdlaFdOVkFtSGQtZnJxT1U3MmJpOXBkQTBESXhobzBSNXVvdXppanlmNGxDeUx1WFN2UllZTzlaSEZMWU5lam5nVlRWTEdGbXc3X0RsT2hN?oc=5",
-          "date": "2026-04-22T07:00:00.000Z",
+          "title": "Mumbai Police detain 50 protesters at Dadar over support for 'Chalo Sansad' march - Mid",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNd2huSFc4MkZoa0czdkNjeXByelNhWS1tSm5jZlJIZmVhZG1yLXpweVZTSE1MSmtRaWhfYlFkV2V6YzNud0R5Vy02UzlXQnEzeVVHQnNlUEF6S1dUd2x0UmJjTF85Szh1MFkzeUlQaFFoS2NHYlpYc2ZYckVBempPOEFRakxTMHRjei1tNExqb2sxVHdXbzRVekhCQ09feFNQaEFRNl9TN3lkdkttU29YeTlRQ0YxM3AzcDdLemF5c1liTmxHZnRzWjFUXzhQNjFLb2ZIU9IB2gFBVV95cUxONVVpSElaMEFETTQzSWc3LTBQSTFPa2QtVGlmYlNsY05MLVNyU3BBVXYxaVBjLWdKRjBveUlsbEJMZWRKRFNIQlBSUjVjak5BWk5kbDZNN0hqeDA1d1diRHBOd2Zqb2VYRnE4THB0Uy0wd0QyLUN4dWpzY1p4Rkh1Wl81QVZ6NXlwZU5ydHJOOUZLOEROSjBvdmtPWExQZ2dKVndUb1hqTUlkZTlrNDNMTzVPRTM1d29BTzR4UkFqSnF4T2V2ai1QU2JoSVlPZHVNRGhVbk9wVklZZw?oc=5",
+          "date": "2026-07-21T07:00:00.000Z",
           "source": "Mid-Day"
         }
       ]
     },
     "H/E": {
-      "cachedAt": "2026-07-26T06:38:56.256Z",
+      "cachedAt": "2026-08-23T04:39:54.635Z",
       "query": "\"Bandra East\" Mumbai (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
-          "title": "Mumbai: Bandra Police re-arrest proclaimed offender in attempted murder case after intelligence-led operation - Mid",
-          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOOGhpUmF4ZkR3WUg1czNkVVNSekxMeWh2NGV0WXFFVGptYmw1MGFndU5Fd2s5VGZQTzRpQ05qdjFwNGRIQjRoZTEzRkFQNFJNcUloekJldERtQ1FQeVhScUpjX3NyczJKeVM5SC0wZ3BmZXFDbVp3bmxzMkozMXlzUzcyQmkzQ0gwUHBia0pOWlc1UzRVeDRtUHZPcXYxUGxOSzQ2OE1LX2MwZ2xOOVFCVUZJVU9JNkZlVmFnaFA1RFgwZHBnWXRwTzBKbXNvOXJCZU1ydHNzWWlLM1lEODZSSUpsMXVmdmJaZmZqYU5lZElXdmota283S0R0bjTSAYICQVVfeXFMTU9Lalc0c1paSi02VjcxZFhicGtfeXN6bE9SRWZkNFBnVnhKMVFvSnROZ1kwQXdMOFQ4VkppZEtqQ0pubGN0MmE2Z3NZQnRfQk5nSk5HdlhWdWhfTU5Iem1Kd3o1Vk5UeVNXU19icDFURElCam9YQWdLUTh0cXV5WlQ4dkxybHoyazQ2SFBickNueEQ3M3lfb1M5M3B6UHFtaHdYUzhza2JENFZXbVNVY0FIZ0VZNVVMd241V0ZseTQ3b3p4Q21POFVlWlJXbi1DR3hEelZPTVJhNWNrSmVqRzZrbFJUWUpiY2N3dDZGTnFkR0htVlk1MC1hTmRQanRlYUhn?oc=5",
-          "date": "2026-07-10T07:00:00.000Z",
+          "title": "Mumbai Police Arrest Suspected Drug Trafficker, Seize 10 Kg Charas",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYUoydEUyXzdxUEQxUmhLRFNjRldaTG9DWDU0MGY1UGhlcXNfS2w5aldzdkRITW5MTEI5WTdLUlVUb3pMY2Ffa04wdmRMTG52X0c3S1N5WXdIRHc4UTdOYUFPUHpoRHNOZ1lhOTNWc2JfX2xHQTNLTkV6ejl6dUJ4T2diaDF2UzY4VWI1X05rLTlFa0ZPWFpSRjJad3c0OWwxT2I0UUptdFgybDRZRUx2MGNzaFJvTmpNS3FCTWJLMWlDUlRCMmxhMDhnd1lWVFNHOXNoeFpB0gHbAUFVX3lxTE5nc2x1dk1aOUJiY1F3Nm0zVjBJXzdSdlZXaEU1M3RrYnozYW51TTRDZ0FKNW80Q2ZfYWFWTlVkVWZsRDVCamlEeTFpQ1VmeGNKS3BMaGtWVmpTV0pXRmZnZWVsYmlTSEY4R2xndHVRUng5eDhHNVFtcXAzSS1jLU56Mm1OWGM3aHYxNlFpaUlyclJkbWMzOWxXSldjTDk0SmhMVUdhUGI0M08wR0N1Sm9BRUlyNFBJWmlNSGFkVEJRQ0ZNNGRqYlUwRUJXd0xkaUtncURrVnR1aEtiOA?oc=5",
+          "date": "2026-08-18T15:37:00.000Z",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Mumbai Crime Branch Cracks Down On Fake Doctors In Govandi, Bandra",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTlRkY3YtVTdydXBEbk50Y2g1ME9ycmdiT2xZekhzb2pPY2JDRlpnQWY0NnNOeUVxVnFJS3ktSWZKY3FZMkp5dGQ4Q1hXeXhmRFFlU0JmNW9EZXNrcmhzWmtuUWdRUUtIdXl5SHR5MzFneFducEhHaTZ3SEtaU2tGakl1X3FpX3lCcTROT0pPdG92eTdHVExoRXEzbXJHaHFNT0J0R2hnSFVJN1NkMVdmUw?oc=5",
+          "date": "2026-08-16T16:40:00.000Z",
+          "source": "The Daily Jagran"
+        },
+        {
+          "title": "Mumbai Crime Branch raids five clinics in parts of city, nab bogus doctors - Mid",
+          "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNRnpqaXVqYWI0Q2lRVXp1TUNDLTZra2ZzZXQxU0ZUOFRTOUpqb3cyVXIxSTRENlYwSl9pcnRaSlRnbGpWMTFHSnYwTWNKOGVmdkEzNEpqOHk1SDJwQUxlR0kzb1RDT21FckR3WHBTOU8yYlllcm96RXBXSUlHT2xlSEVLM2VOYzhkYlVTTWNVQi1rcHdyNko1UzRldmtQR3ZlQ3FHeVA0YzdCZFB2R2tzaXk1bUdTTlZ1eEUyYVZ5NE45Q3I1X0FWcXJOWFhnMk1ubGUtYUV5QTJxYV9fcHdlbzZpb3B0M2xuMElQM1FtRHY2eFVmMmdRUk9xLXJWZ3lHMmtDOHNiS1Q3M0IwLTR6M0VaQ3rSAZoCQVVfeXFMT24xNVJEcEdfTk1ZVEU0X0FnME1rTGhHRzY5ZWYyYmEyR1JfQ3hZUXdJQ3VqTkRxdzFMQ1A4c0wxaV81QlJDR2I2ODVBVWZDQzVVYjU1eGRsY1lnZ01hbFNKdXJnQm84X0RvNzhYOTE0dkp3SlNORkZKQzlxMk01eUhSV1VwRkRfaHJlb0xiNVRXSmZxT1hoZnpkUUM2d3ZJR1RIbldXdVAtLWRZYmU1OHJ6Z2JCWENncmh1LThCdEdldnhsX2FnM0ozOXEyVVZKVml0Mm1qa1ZhcVFIakVUR2ZOSW1iXzdncXdKbm1IdUpFb1FlNGJVVFhoMWdiZ0FMMks3SXJKLUZ4VE9BbUtKRE5XbVNKNHdIZXd3?oc=5",
+          "date": "2026-08-14T13:24:00.000Z",
           "source": "Mid-Day"
         },
         {
-          "title": "Mumbai Crime: Khar Police Nab Theft Accused on the Run for Nearly 18 Years",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVXRoUm85ejY5N2xXb1J6ZVhYNUtxWk12VE4tMzRibmNLOUNDM195alVBZHRnbVVTVHowQVd2VlhjV2pieThMaElwX3JWXzZWc015N0NhMXhsNVJLcUFpOURpck41LXZwaDRXSHpNOEFBRzBmZllSNklvZ2RSWWhoMkNvRGJmYnZpbWRhby1aMDN3YWlCenczMzNEMlRHM1RJVGEzcVNBRVVNcGRCNVAydE5QUmbSAboBQVVfeXFMTVc3TmZwOHVkOVdycV9FSTZwN1hGMnhNM1diSEQ5NjVtM2c2TlJ6MGFXTDB4RHptT0NCcWJacGtBWENCWWJOVGQ1bkN6cmhQMWdRTTRYNHl6bHc2ZVA0VFBJSUJvc3BWQm5ZcHdaVzhGZHJ1VV9IbmVDc2swSUpKX3ZscTdqOFFkeGtCaVhCVnVUOFNRaVY5dFhsTW4ycUEwVHpnNkM3YUtYbFlsblVIeHYtTXRTY3d3amxn?oc=5",
-          "date": "2026-07-10T07:00:00.000Z",
-          "source": "lokmattimes.com"
-        },
-        {
-          "title": "Mumbai Crime: Car Dealer Faiz Irfan Adenwala Sent to Police Custody For Forging Gun License",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUlRrUThkQ3diaHJiN3NSTGVEc21nYWh4SUNFTjIzTnZsZXJ3UWc4RVdBNEJuSnl3b3FSWmhLRWNSVS1tbGctS1R3ZTIwQkhHTU9ubjFyTVBONlZ4NHNYekNkOFhrOFgxclBCdGFFMGZGYnZxNFd0X1dHdEZCRDBLYklYTWJSRkNxTkJwdmNnc09XV2dXY1JxeU5fVzh1dDlLYU1FbVNINjFEWHpKV0VJczc4dFNBZFdQN3YyX1ljUHkwZG4talh6RjgxdUU?oc=5",
-          "date": "2026-06-02T07:00:00.000Z",
-          "source": "Hello Mumbai News"
-        },
-        {
-          "title": "8 Terror Suspects Held; Plot to Target Mumbai Police After Bandra Demolition Exposed",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYnJRTC1pZjdVbVVYMDNCczJTdnB0ck9vVkxGUEprNU5CUWVadTdhU3g2VUd0Mlh6TlVOTjM1X0ZmMDZkOGg0WkpTVW9CMk01M2JNVDBCSzVNVzNka1RZeVlJMGhWV3Z1WFBNa2k0R3YtcmRURndlS2RSM1dDYWZoN0NKQ0ZvNFFjZWVHSDRRMjBTZWpIalh2ZWNIczB3ZzlMV2NHNElTZk5WRGI0R1BlT2NwQQ?oc=5",
-          "date": "2026-06-01T07:00:00.000Z",
-          "source": "NTT | News The Truth"
+          "title": "Mumbai Fake Doctors Exposed: Crime Branch, BMC Raids 5 Clinics, ₹1.19 Lakh Medical Supplies Seized, 5 Held",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSTVUaVFKVHdCbkw0RDRlSFhYRVpMbTRVbktQTlAtLVhzYVI4cndwM1RDN2p1a3FBLXNmY1ZabUQtZUN6R3VhTldmWUM5eWNhSFRIc25CWmNNTEhXQy01TDFrRWxOSDNZTnpnLVVEUkpGRDhXVFlsZGduN1ZVeGx2UkJ3clBBaVd1SHg0em1obWNhV0RvazJfcERDSzViQ3FJenh2Q3pLSWdIaXdxWHdwVnFVYlVhUVV4R1RycDY5a9IBxAFBVV95cUxQMVA3bnE4N3UwNWdSQkNpblZUb0xiUkhnMEdUa09ZNWxVUjVmT2c1cC1reFhiblJOZGR6NDRuVmQwLTE5cHg5Y1EtYm9QNXp4LTZpbVlVS1MzSDJBc0p5VjZQWnRJckdaVFBOYXphS01uVG1SR3lxUlBlc0pTQ2diTkpaWkZzS1JyWnJYU2NMbzh5QldMczF3ZHY0Ylg4OXc0eGFnRG5LSTlfOU9YOXJjR00xZFFtemVVRUN5a1BtNDFfei1J?oc=5",
+          "date": "2026-08-14T12:35:00.000Z",
+          "source": "Mumbai Live"
         }
       ]
     },
     "H/W": {
-      "cachedAt": "2026-07-26T06:38:56.256Z",
+      "cachedAt": "2026-08-23T04:39:54.635Z",
       "query": "\"Bandra West\" Mumbai (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
-          "title": "Bandra police arrest two for assaulting BMC official over shed inspection",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUXhBaEhCVmx3OUhDX0stVXlKaDMtQkpkRWFiX0ZZRkUzbHdUdFF6Y3NFRU9YNDJDUWlnTXNScEhkUlE1dHBOS3RQeFdZQnVsMjI3QjhOQ05kRXNSVG9PejItYzY3QU5jUHJsMjhkWEZhQVFKMFFQbWlQb1pENnk4MW1xM1E2cy1qRHNObEMyaE01SDVTOWs4cHRldjBOV2V5VHFicHl2cEJaUkIzdk9rQXdNUVAwZmtwb3ZvS1lwSU82blB4ekp6Uk83aWRMS1BqdXhqQXVNUFIwMGtLekN5cdIB5gFBVV95cUxPZFJPd0xMbXhpMVMteks0bC1LaVh2WXZKSkJnRHRFTFhKeXlreGs3SW1yZHRiWFhpbHN6dGc3bVpQUnFfeENCVy14VUY2b1hZOUxzSkt1NnROblRtWWJZc29lQ2ZFRWFKOFJxWXV3TERSdzhRRjJtdTRvVm5FbHJCYWExZzBPaFdrbGx1NGZPbnlLTnkzUzNtLURjNmVpN2tBRjNNdUcyUjNneE1rVkhHTGQ2ZE1EVzZNRUFRNjhMaHdYZmtQM2NYVHBKbkd2QjBVdkVzcEUwbzFoQzVTNmx5RmJBN09uZw?oc=5",
-          "date": "2026-06-14T07:00:00.000Z",
-          "source": "The Times of India"
-        },
-        {
-          "title": "Mumbai Crime: 35-Year-Old Man Held With 9.19 Kg Ganja Worth ₹2.7 Lakh In Bandra; NDPS Case Registered",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbl92cHhnX0VHWlIwdnVhVjhlTGpCRTVoRXlMNVc3bmUyMlhxbnVCWVJxVTRtMkZ0NFYyNUxQWVJVU0JWREtZWlRjNkNYQW8tcFpRWERUZ2V0SERnQnZDV3E3bDlTQ1VjMDJRUTBoSWVSVDdrSnNnUTU0MlFLN1REOFh1Mm92ZHJZaU9pT21kejYyNUJEWm1TQXBqQkVkOUVBSXUyRFpfLWRzSE4ycjIzX3M5OGVZaFZNV0poRDdRaEk5SWEyTkY5cTFBZTVRckN60gHWAUFVX3lxTE12d1FtSVA3aGM1bUtfM2ZBSjl0MWJsTHJIbFZZcmcyLWNUR0tHRmtBYnRPclEzSmJVR0JZZWRUWEdYRHlCM3llaTAtNHpOdXVVakQ1akNqSTRWMXFWQnUwNlhvQ0NCQnBVR1cxNjFtMnZZblJTRGRZSXBmRmRZenRTVEJrSG9TeU41RHdZM0VQaDhkX0NsSlRTYlJaMk1ONWRPdUhLNmhUb1dKd1l1TTZRSXNBU0pnODhFZXFuNzB2dTVBMlZEM1RPMnFxTHVkeDYxMVN6OUE?oc=5",
-          "date": "2026-04-24T07:00:00.000Z",
+          "title": "Mumbai Crime: Bandra Police Register FIR Against Passport Applicant Over Alleged Fake Birth Certificate During",
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNMFVVb215OFZVRFJNRENiY1pLUzJlbUFOckNGcDdNaHFSeXZ4TEZtZ0F3Z1JRSmVkWkwwNnJxUkhDTS1nVHZqcmJidzVHSllBM29xbDNGVWdZUkhyT0FZNU5mNUFfX1RNd1JfUnowYm93ZS1Rbm9aY0dQTjFpU19lLXBMejhOOTB6SENjNlhFeGlOTXktMlVVWWJjMkhoRDJvVGJIcFBzZ3gwcGhybmpvSjVDNUxCUVFlb2hqeG12WWtZc0NQc2huOHl5OWVqajRGVUlfbWRpVjduYnZjOGJtRlN4NkN5cjJycTZCcFUwNDBGZUHSAfgBQVVfeXFMUE5xQjA3VVV1WnNxY1g2RzltZGlaR0Jac29IZlJYejh6OVRiRU13NDVxQXl0WDI3QnFhSWxvYVNvdm5VSHNweVpKclBxendaMk5FcXhVbm12WVBSNFRVbW9zV3hvZnFQSTBWZDIzV3Nhei1nbVZzVHBubi03V1JlcUJhazk4Ul9MR29Kd1FIVXYyRE9qVzhkaDBVTTRaUkFJTDZhTEtSMVI2OGVKdkI2ZDRpWlJEb0loNG9CSDhVQVZrU0IxS3N0T2JpTTd1N2MtUUdrbk9PYU1SLXNpMGpRV0pBWEdvVmswblY1MU1RQl9LYUMxY2tXam0?oc=5",
+          "date": "2026-08-13T07:00:00.000Z",
           "source": "Free Press Journal"
         },
         {
-          "title": "Fake Doctor Running Illegal Clinic In Bandra West Busted In Joint Crime Branch-BMC Operation",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNd1c3U2tTMjA5YURuWVUwajBlU2x5TF9qQXF3aTZJLTk2enBjaVQ5d0VaOU81Nzc1UDd1S3Z6NThMQTlPdzBnamJLN05ZeldJbGxxMmtZcWhYd0xlUWdxcWRfcDE2cWxJT0ZpUVNnUV9uTDl4U056dFRBamJpSkFIU1IxcFdnb2VNWmVrUnFabjRYWWN1aE15dTB6b29CbWM3RmV4anpjM1Q4ZmJtd2lMZGUtWENsd1NTSnlXaFB3QUs4bHlDUEszc2MxRdIB0AFBVV95cUxQSzg3MUREM2d2M1dfYTJKVGtBM1pSczVkSHJtVHVVTERnTW1fdXdVSHRkeDdna3ZKNUgwS2ptaVp0TDJCRDVWbjlIdEtubmtXdWhsN2xvMW5XVW03VUE5Rm9wWm9NbFdNZERJNUFkZWI0UG05aU80MDZubVNGM3ZlREJKRXhVZnhKdjBUUWh0eTZEeDVuSmo3UnVsNGRfT0xfeGdzaTdaNksxODUteERWLXRvanZUV1J0WE5nam1HUjZ0STdFN3p0TmF4WWFkazFj?oc=5",
-          "date": "2026-04-22T07:00:00.000Z",
+          "title": "Mumbai Crime: Bandra Police Detain 3 Men In Road-Rage Assault On Fitness Trainer, Others Still At Large",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNM2R3QVl4SVBXYWVHVlN5d05pclNtY0pZT1d0TzZQU0hMVG9HdkVxV2tramlPTXZxYV9aQ0l1QzJGWGlXZ3NKQXc3RXg5SHlscE9aM0wtMVBoOGdLYzdScEktMV9qLWV0Q3dueUtmQjY0Q1EwWG9pN1ZMcng3bW8xUllKSTdvMUI1QlNncm02SklGSnYtTUtvTG1ST3pHclBpVFZGdEtEbmoweXNCeWlXY3ZtN19KWm1lalp4aFdvTnFkaUpTNWVjNnFJbmtUUDZMYlBtTjlMRdIB3AFBVV95cUxOdEMydWl6Tlc5bXU5MXRTQnJqMkVHUG9rUmFLYmc0elVXVllsNmdtMGR3cFRhMGlNMjZXdXk2MTYzMWs2OUJSLW81MEhRS3d5Qlc5RVJZRldLNkRJUjRRREViNDJZSVRLYUhMeUtLZW04LVJlSkRWLXhzUjBNaENsYkdVNVFMb3EwOWNKNFpWWEVZcDQ4dlU2YmU0cmhUazMtNXY5Q2MySktpT0xIOGN6eUhzZzF0VTJmMFBON0EtRjl2ZG9UdFFMQ3RkNTdBR3doVHpiUGpEWm1IQVhB?oc=5",
+          "date": "2026-08-12T07:00:00.000Z",
           "source": "Free Press Journal"
         },
         {
-          "title": "Mumbai Crime: 16-Year-Old Boy Stabbed To death By Minor In Santacruz Brawl; Accused Sent To Juvenile Custody",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMjBQSW15MVljaV9yT1F5dXJka19iVjMxa2FBVzhGclBJSHpmcnFWZ2oybXVZZW01amY4QXBhTWVqUFNZQTlldTJSNFlWaEh0ckNYeWZfQ0tJTldFU1FKekNMTV9uQTRtYmhyMkhZRkpFb2psTThCVlZLaDZWS2l0NXR3Y3Z6SGRDbzh0a2ZiR3NxajFlU0ZWLUtQTFVOaVpDRE5hWjFpdFFpdk9JVkRaaXlkNGl5Vnp6eXFrc2dHaDFocmU1NFNWbWlxX2NpUTdLZG14UFhYZDlaT2tWX2fSAeMBQVVfeXFMT09LSXRMLURWVVFSM3VDR19kU25XUVQyWHlYVEg1ZV9GN3R3TkxFUUhvSWRBZ3dzT0Z1b2hqckVFT3cxWFpydGhVT3c1c25nZGJFczJCcmF2Y2hUVnJ1TzlLbnpLaW1Ed3h4TndUQ25GSjJXck5ma19ETTA1OUp1akh5cUVsT2JWdVk2d1I0NDk5SHd4YWpMMFQ1RGlOejExY0dCaDR2UnYyNG1wSmY5Y21sNV9uNGliSW5jLXZndDJIRW5HcDd6cVdJQWhiYU9UQXpKQmQ3Y193RDVkWG9IZ3M3djg?oc=5",
-          "date": "2026-03-24T07:00:00.000Z",
+          "title": "Mumbai Crime: Fitness Trainer Allegedly Assaulted In Bandra Road-Rage Incident; Car Windows Smashed",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcjhnMm1ZNnRFSTdIMEFxbFJwN2VfTEF5d2JTa0pBcEExQ0hwX3REXzhhZnR0cE1MclpOdW5pQ3VmSHdvR3RJaDFhX29mY3I0bEJ0aFFuWGJlUUVzV0YwR0hNcUNVbGZzWjQ4Rm5Nbi1mR3FXYWU0QlgzNTJYcFdkangydTNoTDQ0U0FKbzIyNlU1bGVoUlhVenlNMkZjMTk1cThuVXFKUUl0MXJRY2NrTldFU3E2VnhheW4xUTNZMExEX0NtQVJnYmVXa3FqMWNBN3fSAdcBQVVfeXFMTm1ucThxeXF5U3M3S0lmcWVLaGpRTHFkTEVxcldDeWhFdXVuaWdCeFV2dEM1cWM1M01CQ3hNazJRR0dmSl9HWlgwLW43TERxcWZDQmFHc24wMGV4dHBRaURmMVIyVHRtX0ZGS0lkVGJwVlNuRS12NW5PR3BzYlBPVjBNal96X2JobmVVRXJ2c3I5YVlHb1ctSFhiUWJTak1BaHVIbWt4TTRZOWNGenN3MkhlUnh2cEV5bmk0b3RoVGJPdnQ4aFFCVnF5T1ctTEdFZDk4NEo5M0E?oc=5",
+          "date": "2026-08-10T07:00:00.000Z",
           "source": "Free Press Journal"
+        },
+        {
+          "title": "Mumbai Crime Branch Unit 9 Busts ₹25 Lakh Extortion Racket, Gangster Zulfikar Behlim, and 11 Others Arrested",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQekNvQy1WVFcwQjhsNG8yTDhuWHRWNFEydkFxbXhlai1JV3p4aHJDNVhVQ0ZXb1NuclhYU05tdlJlMU1XWmJMenlZU0kwWkk5b2FBdkFRV1U3RDJIUlI0ZlgwR3pnTDZpNm9xQXhxSW40a2hYNHVidzJEVG9EUzBjbEl6RW84WmlKTVFzUVhOVEZlbGpEWlFvNU9pdG9xRGV0eTFHdE5UWHBNN2hobHpuVWszZE92cTNVYm13Mzk3bUZtS08tdkdIdW5RNFFicUZIckVWZXdsTWFiU0NjWk4yY19fUm9UdDh0eGVn?oc=5",
+          "date": "2026-07-28T07:00:00.000Z",
+          "source": "Hello Mumbai News"
         }
       ]
     },
     "K/E": {
-      "cachedAt": "2026-07-26T06:38:56.256Z",
+      "cachedAt": "2026-08-23T04:39:54.635Z",
       "query": "\"Andheri East\" Mumbai (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Mumbai Police arrest man in Goa for 2017 Andheri scrap dealer murder",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNcVlTM3hYS3pDQmNfSmttYW1rWE1XbU9mSE50RGtBNGZFSnUyN2FYZTh3WndUQzhERWN0ekZzVDloUVQ3RTZZVDFpS2NENTJnNGZEeGxrb29ZandERXB5OXlNeWI3VUt3UFNoN2ZZSHpFdDh3VVBuMDJvZndXV0xvLW05RVV4eUZ1RnBRMVFZSXp3YS10U0lGWTVXNklxaFZKRmJzYWFoUktDNUVkVFh4Z090aTJYR3BKclVfMjBCWGU4RjJXNzhvX2dWclRqSTg0Nk9uaF9GcmswQdIB3wFBVV95cUxQZnNTVzNpdFJnNlBSOHhLQWdGazdsRWxoREY2dElMRDZrS3EwQzZjaWVOdTRqUzZGNXZ1WGtYWUZDZmFycHVSSUxoM2pGVW00YURianpuejN1MnllVkNBaVNPSml3OWFRZnhsbGppS3NnaWwtS2xBZU9QbHY3Zm5KZmMtZkF2amdpSHNPeDZCZHFJT0V0ZFZROEFDYmNLbmZDUUVfYW1KM1BCRHRVVnc4QXgtT2NyQ1czd2NqT0oyaEV5Z2hoREhHNmRTSWlYMDV5cFdKb1A5Wm9pdmlTVFM0?oc=5",
+          "date": "2026-08-05T07:00:00.000Z",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Exotic ball python rescued from Andheri flat; wildlife crime case registered - Mid",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVGZ4emNZeGVIRkRUODNPbmFUWDg1bnpuX0xSSEFLMzNhSldpMUhacnZSa29IbVE3Z2pfelBNYXlWSGN0Y1lvelRfZGptemlQWFlwQXk1VzhvTTFuSTFQQW1ORnBLRmRjZXdiNXpWZzR1SXZSSmRMamFPbzNLa2FOOE0yV2pXY3Y1a3pkRkpoX21NQnQ0MUM2YlNBWnFaR25HXy1RYjdKaG01WHpLZlJZX3k5R0hXNFh2dmg3aG1QVEpsSEdaVk84M1NqbU1KdG1S0gHWAUFVX3lxTFBnWDQ2NVc2aFFwbVU2aUxSOHZjVkF2SFBjQlhiMTZUQkRZNUhjaExNR2JIV3BPamVUTkZaNTRFWGdlaUhJRUhDdHBPVkdHZ1NzUHZTVE9NMTEzd25tM0U1T1FnMGdSQ0cyYW1CcnFCVk5TcHZneHVIb0xGbDRzbzROUGN2TENnckczRlo5U2FjTExXUFdtbi1zTmt2aFVqVVp3QzVyWmthaWs4QUVabEtVNkwwQ2hzREVCcDZXTU5KSlZtbXM1WHNuZEhJelFkTE91U0oxWHc?oc=5",
+          "date": "2026-08-05T07:00:00.000Z",
+          "source": "Mid-Day"
+        },
+        {
+          "title": "Mumbai Police arrest two e-scooter thieves, recover 11 stolen vehicles - Mid",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOQ0VjbzNxVXVSbFNsblkzb2F1QzdRMkZaVXd5YmFxVVdUWF9veHVQWXMzRU5aUVc0cm04NUZLb0JhZkE2SjJLZC1sYW5MUmRsNGp6WkVRQ3BDbEszTjdVVTNJV2NzYVBqdTNYTjlDek5CRmRKc0VnbDQ5dXhJaTh2cS1VS1RDazZibHhfczNMR05rclJfbXNwczJZcGpmblZlNFNxMmtpdFd3LWVabU9WenFfaERiWERnVFZKdDhBUzBWYnk0S0NQUHpXVFlWcDg4c1hlWE9XUExGZUtGcDRfRUdMRkRmbHBfSmhKatIB8gFBVV95cUxPaVNsckhWd2FBa1BiZGg0UTh2cjRUc3dtTV9odDBIVFZTRzB4WE5qVGdvTGZ0TEQ4Z0loTndFSHpFTndwcGtxWG5rR3RIWDYyNUZfaUJwaV92RWZVVUFvUzVjQVNWS3hVQXFnMHRGNjdNUEdVdTJ4Y2J3dkNJR2RqLWYwcTJQNDlqbWZwclk0NjRvWEc3akRkM3dZSDNWcnRoX1NmY0JQMF8yMWk0WEJDbUNGVm9mRzJXbDB1WkxDTVNOMDYySEp2RlEzX216b05DUWJTUmlZTVdRZE0zX3Z4YUV4cVNUQnphRU96ZXhwbHNVQQ?oc=5",
+          "date": "2026-07-30T07:00:00.000Z",
+          "source": "Mid-Day"
+        },
         {
           "title": "Mumbai Police Investigate Woman Found Dead in Andheri Hotel Room",
           "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdEJjeWNsVlpwY3RvMk9EZTdiWU1zN3VQY21OaURLaGo3RjNVX2RET3JiOW9jbVF1ejlXZE84Vmp0R28zZHBCU21tb2ZQa2x6WDExVENSNERaTUZsa1Jjbl9NcWNCWGJveXg5anVPcTByQjZRX0FINlM1LXJkN3N2RkFwRHNFd3FoT3Bjd2o4UXYyejQ1YkFsU0UyeEladS1kZExvN2lqOFg3YWk2cXk5LTFMel9pc0Ftd2lvQmp6dFkxRi1wbEgzNGwyWkw3bWNXbFJ5MtIB2gFBVV95cUxOQjI2VTBQOHlqUjRuOU1qWnJvM3VuTVVJcXQ1YXR5UVJLcWpvSk5JVEdpbTgtWHBCT19QVTdzMWQ5MmtlVWloRENHRkJwNkFsQlNzaEN5bWQ0R1ZNU0dhTFVPODVjT29CdkZENWRMRHc5eEVOUTFmWFlEdTR0VnpoMFNZTzlteEJ5Rk9Bd0JTRjd4UUpGcmpJNFM3VWNHNGR1UFhoV2JyV2xGZl9XTU0zNk1VbnBSeVFVN3pyRS10N3I1Mk0xTTVIYWhVT045OVF0QjZZeGN4V3k3dw?oc=5",
           "date": "2026-07-12T07:00:00.000Z",
           "source": "The Times of India"
-        },
-        {
-          "title": "Mumbai Crime: 80-Year-Old Woman Murdered in Andheri East; Brother and Sister-in-Law Arrested",
-          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPenJHSmV3RUZhUzJQbElRLV9MMmk2d2hWV2FYdFJ3bFFXckNwbWtJS2dLMlFBREU1U0YweXhqdkpVRlZkaU5UQzlGZFJtZDA3LW9wcVVrcmdwLU1KQU1kVmc3TWprZi1XM1NxWWt2WWhzM1NtZkp5REItXzlsNHpQQThXalBnQXRROUc0RDlydGhncG9obGh5cVJtZmZrdUpGWWtQM0MtdG9mTjlfaERBLTRVc21rWVNIcDRhbHNTV0lOeEdueThoY3F1U2dvUF9zZE5qT1dQTTVFaFBtNEZ5T2hrb0gxR2tXN0dxV2VwRE9ONUpWQUVV0gH8AUFVX3lxTE5xYmZkVXp3dHJ6UTQzMDJwUXJDZmRIQ3JMTUxma2Y0bVRCcE5FemhiRW9LR2g3bE1VdnpVWVlES3hvR2x1VFpCd3JfRndkTUJFVDIySnhaQVl3dWNFTzNoM2QyRmVuU04zeUVHdjdGZFRMcC0ybjVZYkxqMGptbG90YXF6bThrSHBvNEpxQ1pfVWpkb2tjRjFwUzZJMzVKdjRJWjc5QTVMU0FtXzFPTThfZktQbURQemxlOUh0YzJPYUhzZWlNR094eEhGa2V1TGFJRk52U3djaHlKT3J6T1JxS3ZyMVRjdm9YWmZYYjhkOU9NR2xpcFBRTXliNg?oc=5",
-          "date": "2026-04-28T07:00:00.000Z",
-          "source": "Lokshahi English News"
-        },
-        {
-          "title": "80-year-old’s Mumbai woman’s murder solved; brother and his wife held",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaGVVeHYxM1NZZXg1TEpyYlpud0g1bFQ0NTNXc2xpWHpJOTNVNUhGeExILVZXcUpXcFJJQ0l6SHBRcTRYanpUYlF2UTl5STVjQmN3UkZXWV9FODFPQnlKTnhoVWQ1SWh6M3hkM2JGSklVUDdfZ0lXRExwU2hKMkJtQVh2VnpGQnk1XzgyR09iN3F2UlB3NlFsa08tWXotWndHajdmZk5VNGlCQ1NiRWtUMm03SU5jd3ZteWU2WjZocFhxbkNnazdPTEYwN1QxUUlNeGI1bGxyRdIB3AFBVV95cUxOeXpZWHdxUjQ4T1hScnBOVmNQdkVpUEV3MEVjRWdsZzhZSmRPdmZTQl9zZW1iMzUtRmpZWFFUcmstc3JySFQ1MWlESEZCXzZ6d0J2WTVNR2NzYjI2bi0zRG9lR21mN3l6ZENlQ010dXVlVFpubjdWYV9KLUlTSzdFakJBTXZDRno3c09YYU5qVTRzZTdqMnpMVkU3RmhLczRQTGVNX0hDd253UUw0Yl9ESzFub2huVnBNTTBoSWIwZHMwaGR0RmlMYmh4d3RQREUyMzVHbWMtQzlBekR1?oc=5",
-          "date": "2026-04-28T07:00:00.000Z",
-          "source": "The Times of India"
-        },
-        {
-          "title": "Marriage 'promise': BMC ward officer held for rape",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOb1dJcGNVZ3hWWFVpWFNrdXRjcWloTFo4ZWltZ1RBSlFYLVh2UVRKc0FpQ0dqZ2kxazNjNkRHUmg5RUNZa0x5WldrdFlPb2pmNnVJZGhKV1N1T21pUDdDclJkdVRsRkdMenB2RGFtbVZublo5RnBrTXRka3FTcnBqSld1WEpOZ09RQ3RLZzVwVEQyV1poOXRPVWIxUFVWU0gyeWNtRGFjYVlmZ21VbWRiZVVRc2FRY2pZbjRnQ2NR0gHDAUFVX3lxTE9GVVdoaURBYTN6cU5CUTJBRVI4NHkydmF1MXFMd1hJQ2FHTVAzXzAxeFFJeUZBOGVrbTY4TGJtWE5GckNDUmc5RGZZWUE5dGJITGRCWVRXZ09BSzZiUXA3eWpMYlItWkxTMzJXel93cjFWUzhwOUQ5Rk5TU3hLTVpabU9LOHQ1cVp5bUNOQ3lHdUpNVGN1X2pnUmY3TWx2ZnNlS2laZGZySTNNdVBmRUJSVmtKZTZNUzRzbnZDNWt1bzUtQQ?oc=5",
-          "date": "2026-04-28T07:00:00.000Z",
-          "source": "The Times of India"
         }
       ]
     },
     "K/W": {
-      "cachedAt": "2026-07-26T06:38:56.256Z",
+      "cachedAt": "2026-08-23T04:39:54.635Z",
       "query": "\"Andheri West\" Mumbai (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
+          "title": "Cyber police recovers Rs 1.1 crore out of Rs 7.9 crore that Mumbai businessman lost in digital arrest fra",
+          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQWC1IZ0tIR2NOM25UcXMwS2JSR0wyYjZzcWRWc1FvWTk5c0p4QWtDRWQ0d09tLTFfeGFacmZsd2xyTERSaWpFZWNPNFBEaUhqOFJBdDZtRmhsT0dOOTVPS1VteEhudmVyRFJGeU9nZC1tVUVNcDk0LTFaR1lsc29uNFUzOERDMEF2UGdtaWJnUEtoYkFSVjJxWmJkUDc3cE1TQjNCMXpNdVNBbHV6N3F1U0lNbDhDbGlHTnZUSHdTSTYzNk5IUHBXQkg0VzUxUHBYaUt0c3ZabnlRbjlPaXFSUEliWUVRSThVdEkzdFA5ZFBZbVN1SFNJLUtjVGVsc08xVkZIUXM2Q3dzWkdtR2fSAZMCQVVfeXFMUENrd19tRmIxV3lvbUVwQ1NfNEFSZHRqWUczZnpROTVtaTY5UVQ4dnY0aHNoWjVFVXUtM25oaXUwTFNfankwdGs1cGtaMEtBUzZXTVV1NlcwSnB3RFdWM3JMQUxGU2NRSWc3RDNjeEJ2MEdROWtSRFZxd3lvNWVYbUhFTDdUUVRsbFlKeTJEaVNXNHZ5STlncldHRkNkc3hnUUlIY2VqejVuZlp1NGc5MEx3bHZ0S3VPaUFBUGtIdndUaGxVNm9IU1BjQ0hCOHA0ZjdBQUcwZnNlNkxCaTdweVFaMmt1R2FxNVZ1TXBIYldHSXNjbnlNUDJ2NjNDd2Q5TkJCY2REdngwNTQtOXBlc2xYVk0?oc=5",
+          "date": "2026-07-27T07:00:00.000Z",
+          "source": "The Times of India"
+        },
+        {
           "title": "Mumbai Hit-and-Run Case: Police Arrest Andheri Wrong-Side Scooter Rider In Ajmer For Injuring 8-Year-Old",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZjlsbExRNGpKTHdHME1JLVpadEk4dHEwUGp3RTNVLWF0V1RWWXJzakIyc0g1RTU5MmpmakRnNTVxN05iV0F4ZGdPZ2MtcUhQWjllNFVFeUlaaTJPT3RBUGk2aUZSSjktQVIxUGRINjBlNzh5akRDcWJPM2ZaZW5KLXI1VXpuN2ctTXZpUWFLZ3ZyQU9FcFBnNHBaUnhwc0x3MzNRai0ycVhyRzZxcWd3QWd6bXRBQWVtZFNUcjZ4MFptc0lOUDVUOTZ0bjlFd0ppX3ZnS0cxRUZ3Ujk4NVhLWUltZC12aGxBR3VwRlZn0gHuAUFVX3lxTFBmOWxsTFE0akpMd0cwTUktWlp0STh0cTBQandFM1UtYXRXVFZZcnNqQjJzSDVFNTkyamZqRGc1NXE3TmJXQXhkZ09nYy1xSFBaOWU0VUV5SVppMk9PdEFQaTZpRlJKOS1BUjFQZEg2MGU3OHlqRENxYk8zZlplbkotcjVVem43Zy1NdmlRYUtndnJBT0VwUGc0cFpSeHBzTHczM1FqLTJxWHJHNnFxZ3dBZ3ptdEFBZW1kU1RyNngwWm1zSU5QNVQ5NnRuOUV3SmlfdmdLRzFFRndSOTg1WEtZSW1kLXZobEFHdXBGVmc?oc=5",
-          "date": "2026-07-21T05:32:27.000Z",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOcU40dFFPaFlWMEJhR1hkdnlLeFhOdW90MUV6eGEwd0RLWms2SWVhcjNpcjBtelZPQTFMa3pIYUMxOFRGQzc2U1EtWFFSVnpGUDNSU0tOWkRFSEZ6c0IxUURDWjdSQ1M0aHI5R3l1c0VIU3loMEpyclVRMTVqU1ZLekVBNmdzT3Q4V281MjduMVNrNklsMEMwQkNPTjlZX1JuSU5PZmxNazBveTZzendORmNJOWNWNGcteEVqaXp0UE5iWFZVTHJZeHJTMDV5Sk82VHZBXzBGRW16Uk1LcFhEX2Q5VlNHLVRM0gHuAUFVX3lxTFBmOWxsTFE0akpMd0cwTUktWlp0STh0cTBQandFM1UtYXRXVFZZcnNqQjJzSDVFNTkyamZqRGc1NXE3TmJXQXhkZ09nYy1xSFBaOWU0VUV5SVppMk9PdEFQaTZpRlJKOS1BUjFQZEg2MGU3OHlqRENxYk8zZlplbkotcjVVem43Zy1NdmlRYUtndnJBT0VwUGc0cFpSeHBzTHczM1FqLTJxWHJHNnFxZ3dBZ3ptdEFBZW1kU1RyNngwWm1zSU5QNVQ5NnRuOUV3SmlfdmdLRzFFRndSOTg1WEtZSW1kLXZobEFHdXBGVmc?oc=5",
+          "date": "2026-07-21T07:00:00.000Z",
           "source": "Free Press Journal"
         },
         {
-          "title": "Mumbai police arrest 7 Bangladeshi nationals living illegally for 15 years",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaDlsTGdaRE9CUFZiSWZSWnlnb0lXblBCQ3ZpM2JTR1dPd3VpakJqS05reWlvUjg4RE5BMmxlaHZHc1VLUF8zRXpabjFxdjJ6Q0g1RHcwQnRrNzN6dWxYc0ZiU29YTVFwS2RQUTc1cjN5WmlXakhzQlQ1ZHA5SHFRbTg1VEJmNjZNLWZXVGVlV0NseXJpb05aUVE3NEw2RUJFU2xV?oc=5",
-          "date": "2026-06-06T07:00:00.000Z",
-          "source": "Telangana Today"
-        },
-        {
-          "title": "Mumbai: Fire Breaks Out In Garbage Floating In Nullah Near Laxmi Industrial Estate In Andheri West - WATCH",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQnVrcV8zVFRDdnQ4Q2RKUHJIRFdBWl9rSy1FRnlEV2dNVjJPR1ItaWVKY3AzeEhwNVprWWM3cWtkMXZCSUVNMTFFTFoxX043VlBreE1JSXlWMXhaWGZJMjhscDFOM0hKeVdRMmxnTkZLTjlWaldMcXlTUkdMdG1RNDE1MjlFZTRWbGZxZjdRVlFMRXdKRTFKbmszYThQd1p4S3VRb0U1LVF5bUdpMjB2MEVacm93OEdTdUd0eFdnbWt2TVEwRmdxUnJPcjRDTEM2NGE2WTFtRTVQd9IB3wFBVV95cUxQZ2o1ZUItRXprSTB5OU1CR2daZUJrbU8xdndTd184SFozYnJQa1laZnRyZVFfNk9IMzRDVEVCNDg0T0RObzRKN19TX0ttWTJjckJDeHhCeUF4akdwaGpnYVBnekQxNDNiMDR5QjlhWndwdVE3Szk5Q0tBRVU2SUdOVVNIOWMxWlpWZU9hMm1PTjNYeWJMYV9hSmVpQzVic3hvT1ZHYW1ybFFxQ180S3p5eE5QZmlBM0NtcXI0SmZOOFpDdUM3dWkzU0o2SXpieExSLU5fLTNERjZ0aFA1cWZz?oc=5",
-          "date": "2026-05-31T07:00:00.000Z",
+          "title": "Mumbai Police Arrests Andheri Hit-And-Run Accused From Rajasthan After 4-Day Hunt; Pillion Rider Still",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOYUt5Qi1LeV9PblVjQTFCcHVlUlgzSzAwRVVwWElUTkt4bUxPQ1lFTnJWd256OWRmM3VicEJLSWdNRzIyS2llNndWdC1ycXFFX29GY0lNUFNoZjV1TGYyLXFCR0J1T0YwTEFrZERxTDZMeEN4UndPeklHSE1kc0ZSV3ktRHFqZDc1bjNKT195UXpTM2VOeDg4RUgyQzJZcXd0aDR0ckVZc3ZvbWJaTVdCTmwtd0JFSEJuMVlDYnFCYW05ZnVkaDlLS21jbm1XbUk3aWQwa1YzbWhvUURjZk9WNkVEam7SAeoBQVVfeXFMTjBzcmJkdUh6cVR3Mm1sM2lrMU1tWDlxMUtZaWNVelVwdzR6T1Y5QmJTZHpPSUxpblRhbEZXNXRZTmJCTm94dWRmOXpTZFhLZDNSV0VwcTZMYVR2amotT1RiS3N0a012LWdxaF9JajNkOHBWbkxQLUVzcXZIVHFNeVFtZlFOcVluODNLNDNxNE5jM0RDOUFtSW9lSTlRQ2xaQnJ2dXdndzVOY000RGpBOGVDcVIwVHBzT3lIRjZZLTFMUWlmU2xtZksybFBHM2ZZb2YyTExnV3FwTkhRdll1N0xHVXVvbEhwb2hB?oc=5",
+          "date": "2026-07-20T07:00:00.000Z",
           "source": "Free Press Journal"
         },
         {
-          "title": "Mumbai: Knife attack on a woman; Accused absconds from the scene, police search underway",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPb1JUd05pcXhJWU1TbEx5OGJhdWNKc05NVzlsc3NEWDMzRmFYR0dIOGQtQklOWHg4ak9sdU8xTmZwZm5MeVRwNWdUbVpvanVLT2dTMjM5dkVfU0syZTVFalRCcDVTZHJRdy1rcGJWT1Vubm5tUkdJQWlJWTFybGFmNTFMTjlkU3ZETDlVY3M4STdaWDh6Yk0xTGx1TTZuWE51TWw4aFJIS0xEcGZ3NmctTW5iVHlOMDJSdl9vU1NpRzVpU1hobElOSFQ5YmVDblnSAdQBQVVfeXFMTWhDVktqeHFkbUVnaUpsdmd1MENnMWtyTTdHWTBULTJQNHZhbVVJMVZ3b1MwblI3S3VCS2FULTVkaFhBZVJPNW1TTkJnR2JVX1lPczlUeDl6bXdfcFJHMWVZbm04cHY1c2Vadk9pWTNBNlhGOFFEUGdrVGJUTm0ySkd2Y2VOMFBMZlNXYmFJazRkNF9DQXdHRm16SlpFaGxvT2RPeXFrN3UySlc3VmRPZ19GNk9xaGZVNjZDcWxZZWhKUktoNTB3N3Bmd1FWSlhDMjZJOTE?oc=5",
-          "date": "2026-05-09T07:00:00.000Z",
-          "source": "Lokshahi English News"
+          "title": "Mumbai man arrested for wife's murder after family dispute",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPU1p5RDN6dFZLRmxLVWJpVWFyXzlSdzRDX3dYME10TjVsUTRWTkk3VnZjR2dsUlgxU0VYYzhZbjFfOTRlNkxWTTNWX25aQWlxQ0s4dF9xOHJHUndFM3Y0aXNuT3NHTkhVUUpCRTdzVnZoYUYxMmNZN09zVS16Ni1xUTBOcm9MRGloekxRTkhNWWpmeHpfZktWLTNnT1paTDgx0gGmAUFVX3lxTFA5TjhBOGNDdFZ6bDJpSlo0WXhEcXNvdXZMWjlEZkJETEVvMTR4cHgzRWcwUkktNjVhT2lXOEJJbnBwWm05N0JJM1BHS1czMkQ5UHJKWWJjNTBPS09FcHRMbG5yREttblgtN0U0aXVWVjBheHNOVHl4cEdzQVpjQTZCaDJ1RzNLNFRnb1NsOVdWS3VfMU0tQS1qU3NVR1JDcVZKZ3NJN1E?oc=5",
+          "date": "2026-07-14T07:00:00.000Z",
+          "source": "The Assam Tribune"
         }
       ]
     },
     "L": {
-      "cachedAt": "2026-07-26T06:38:56.256Z",
+      "cachedAt": "2026-08-23T04:39:54.635Z",
       "query": "\"Kurla\" Mumbai (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
-          "title": "Mumbai Crime: Anti-Corruption Bureau Books Kurla Railway Cop For Allegedly Demanding ₹3,000 Bribe From",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOS1dmYklBaE9FaXVGb2ZfZ2oySExRSUhycVFLeEVmZUFWNjJOYllYeVFNOEM0X08wR1EwekNGSUJHX0Q5R21zLUZWZm9NQmJGNjg2SnZQTUpqeFVtU0Q2Smw0WllfakEzT3VtNE1hNDlIM1VvbjQzeGFaUGV5UkY4RjNIY0J6THNTVTkwTFByVERQV24wakktdVg2ZUpNdE5wUFNqdXdobDN2MUUtSGk2ZmVlYzktUW1yMG1lMy1RaWRLdVZfR3FhTXRoWGd0ZzFaY1VsbGRvVE5NOER4Nk9KdkNmWFdkWTFpakHSAe8BQVVfeXFMTnJIaThLTlRNSWRMQTdGdVg5cWxVS1haSC1qOW8tZGFGdThyZnE1R2Myell1d1NHUEtUV1lHalgtV0lMQ2xwbWRUTEJLTXdmU2QwWkU3aGhzNzlDWFFPMC1jZjk5NjdvSVdWTU50OUtyTlV3ZDlCWGl1b3BxYWlrVmswVDc2TW1OcFlURzZyaWgwaktXOWRLMG14MnRGVmNZVUhRQUx6WDZSZEtEX1FDcUpNT0ZIcWo1ZW5RRDRxb3RfZmxNdUhISjA5QmpNVUNfSVhRNXE3YVNpWGtqSlJQdzg0VmVFV2Njd2RDd1p0SGc?oc=5",
-          "date": "2026-07-17T15:40:50.000Z",
+          "title": "Mumbai Crime: Youth Dies After Alleged Push During Kurla Altercation; Man Arrested For Murder",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNHJSU3d1WXlWMk1vOFY2elJKTkJlNFVUX0x6Q092aEJzMlZaUHVwMUlGNVVQbUtmbnUtUmZKZkxYYkt3TnNZTVhjSXJwX2R5SWhJUTJ5dDVUYjBfX19kek1FUm9QRGJoMF9IR00zYmd5dGcyNnR2em9YZkk2Ykw4TXNtUTA2WVlGd1I1OXJTancxWngtZEo0cWNmS2l4VG1yR3hIT1A3TXJ0R01wZ3kyLWxyV3VKZE56eVY0SW1zaWlFaUd0eXR2UHBB0gHPAUFVX3lxTE1ZYnR0MFdnVmlYR1JhYVZSd2hLR1p5TlB0dWFiX1VYS1pRQUgtaGhPQXZtUEN0VU1CNWl4MURhLVNnWGtkbzc5dFpSUTFPMW8yYndlOEc3WlVHWDdOUHdCUThQbmVwNGpkQl9RcVFLVktFamsxQmoyM0MzMUdnU0EyYWVFSlk0NXE5bWFMNzVXVmJLVUtxVkQyczVlUV9ELVpYSkRVdHB2UDBNNVNIbGhSdVJDQTZHNGJ5RjI0M0Q5eDVCLXJaRklKcDBJRTdkcw?oc=5",
+          "date": "2026-08-06T07:00:00.000Z",
           "source": "Free Press Journal"
+        },
+        {
+          "title": "BKC Police Arrest Repeat Offender for Robbing Lawyer in moving auto in Mumbai",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPdlhjenl6dFJjdml6MlpkQjFpN1lsN0ZJaEdlNkNvdkZpMGpJNEFsbDQwNUZkNGEyNmdfZjl1TzQ3Nm9PQjctdjdybjlPSTBCa2Z3X2RVR25MNTJvNWs3R2hvaHQ0NFFZQkxybm1XZkh6M1R3RWdKaktqMlZ5LVljYWk3OU5Ob1pCMTdWTEx2T0E5Z3FzaWE1X1N6MzF6anFwZDFEZzRmaHBfc2ZMQzRXaWFpZkxwaXl1MENUcVZDSmVLcHUtWGt3VVlVVzliQW5qdDdJVjUyVkx5bUtWTHBmb3IxSUZlZ9IB6wFBVV95cUxORVNEb1JSM0h4blUzWU1NUXBBN2Z6NVZUaG5nOHJJeVc0WmoyU2Y2Q01EcGR4SGNiamZpZ3BDRUlodDgzdDZUSEI5a1BlaWxubjdLeUh2cE8xZ3NHZmhPY2pOWVI4TUF4T1ZlU2ZSNW5ia0NaMGVTMmlGbUZ3SWxXaEhSQmxUQjUtNl9aNkFTNVYxSThrZWdpbF94TkR4T2RraFREaHZoT0NHOGhXQzZVOTFhRkJmNkk4MzdEQ0JDWEY2OXhJY1NyeWp5d3V2dkxVUDczY0x6WEpCWE00dk5TNXplekxmenFtMUww?oc=5",
+          "date": "2026-08-05T07:00:00.000Z",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Six-month-old baby kidnapped from Mumbai's Kurla, cops rescue child in 4 hours; suspect held - Mid",
+          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPYzB5Q3BZMXhsNjhYOWZfOGlPODdJT2hJVHVjbUdhRzlvLWI4MXZueUFtRmp0WlNmZG1LbnR4Nm1aX1dieDZXMnhRTFk4cEExU196NHNZZng5T1cya1dCZHhnRl8wNkxuVzNRTTZqelBlWGtGc3p3SXZpM2YxVmFTNk5WUjlCb0pEV1hqWFpPVGducUtZM0RONGNiWTVEbVRyUDZ1ekVTWEF5UUFCOHNZQUJkWkR0V2hoZUJrNmZMWWxIMUxyY29LSlhRaXNTeW1rbTU5c092NnpKVG91VDBtRmpNR0taZVpTeWlpWEREWERRUzI2YkJwYXdlWm45OGPSAYQCQVVfeXFMUFhJeVRkT3dlanFmaWFkZlNQa25OYjd2WEx2NGlwQ3hqUDhBSGhJYm9mRUMteklxTml1THgzbUItblVEYnFwSF82dFd4emFKSVFnOGd4eWJWNTR2Y3g5ejFDeHppNVpxS29FUmlHNm1QX2xsbE1PelJKSkZGTUZ2YkVmZ054UFVPbDB0dHJpQW1haThZZ1YxblpLN2RRNm0xVzkyX0owVW9qMHp0VV95U3ktclFJTWpmLVQwbEczRUM4Y2lURTBpNzRhS1VmZUY0WWNXVXV3VUFRb1g4VHRRN2dSZUNLN3ljeFhpcDYtQlFuZXVuZWdPSkVXMHBqXzJCaDVrZnE?oc=5",
+          "date": "2026-08-02T07:00:00.000Z",
+          "source": "Mid-Day"
         },
         {
           "title": "Mumbai: 19-Year-Old Drowns in Kurla's Sheetal Talav; Police Probe Cause of Death",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZk8xaTdNRFN0bnEwbnhUZXBlVWZpdzhrdGtkcmFjeHB6dzgxRUx0N1YtejdUZnlycGgtSS1fbnFjSmlrb1lOeGd1R1pzdldOTWhYaUdhZDk3SlJSaDVUeC04RUNPSEQ0bTRUaTdOUjQzZHZoU1JCVVNOMXJWbU0zM3dDVnRRRGMzeDM1SzRYTFZidzA4dDBIUjZYWG5TNGpiS19Fak5JaEJQQy1HQ1RXczE4NTQ3SUJpWUJvQdIBwgFBVV95cUxQVDl1SWNkN1FDMW8yaE1fcC03T1c4Ym1ES1FpRGVmenppOTZwbnJQWnZ6bEtXTF9fOWRUWVFkV0ZwbVgybmdCZk5QZkduMFp1MlNjdWZzV0ctRmpvNzZ1RWJESzFMSDVfT0NVdzJxRG1jN1B2cG1xMGszS0dZb0pkbnlHMVJWYTZVYlBIaTYzd1lUNjdsOFo2OVIxcWNqZTdtd3ZyZXZrbjd2RVd6Zjl6OXlFSEF1QUNQclpySEM0bTBxZw?oc=5",
           "date": "2026-07-17T12:52:47.000Z",
           "source": "Mumbai Live"
-        },
-        {
-          "title": "Mumbai local, rain and rage: Passenger stabbed to death in crowded coach, reason is…",
-          "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPMkFjSlNfYjZpUGtFa0dDOW0tVUlFNXdEZjk5NHg5NUlPb0otb1VEN0dBN2RVRm00NDlnRlVOMFJzSk4tMFBvWlZLZUtldTFXOUxQVFUyNlRwb2I3b1dINkZVeWlSX25aZFFCdDdpUkVCX0lmcHllM0ZaSG9CdUswRGwyWlp4Z09rQzAwSF81TkxTejJqU0xNeVFvWkczdTRCbld2ajJaZkk2dnBKWXBUd2xJVDZYQzYteURyRUZtaVFMQVFZZld4andieUtEc2lncEhGTGlPWnREbFZTaFBqdzBKN04xVGlQbzJ3M1JXamtHc2pLckZybWRVbnlFakFXdXo0aDVMOFhfbHA3X1FN0gGUAkFVX3lxTE41SWRpNnpMTm5Tc1A3RGd3NmZvSTQzamxKanAwaVJZNkxITEpEY1hGbUtDNFV1dTNZWTdJOHNtOHNxRHBsSnZ0UDZvakozOWVjOUxGdDdyMUY4cHRNYzR5SGJJZC1ha1ZhdHgxODBGd1JHQ05ZOU5XZ05QX1d4a3h3WFFHX3M3R3psdHY5bngzeUNsNFNqMEVkQlU4c1h6V1I5bDVpUl9jc0tqM2h2SVF6bThNMkdOQkpwM1VkTDFxRUVBT0czYnM0Wk1WZVduT2RKSGlPc2ljSVFOVVAxcmtHdFpLM0NGZGw0VlZ2WjVsQnZjRzBQWXZlRWwzcVMtemlHTnZ0bWxjenlYNWRoWW55cFgtMA?oc=5",
-          "date": "2026-06-24T07:00:00.000Z",
-          "source": "India.Com"
-        },
-        {
-          "title": "Mumbai Local Train Stabbing Case: Accused Roshan Suvarna Arrested From Kurla for Fatally Stabbing...",
-          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPSzQ1WHZaM0VjczBkTURqY0FWTmZfYm5FQ1RKeEFublFZZFVTTmoyTUtRdUYtd3Z3Mmk0aXlGM1FqbUFTYXJyN19NT1BpeUpWR1J1cHZkQ2U5SWVqYUM1UDVaZWtaaG1WYWpwaHFRZHV3aVM5QmcweUFUajNUVzRmUFZlc3pTMWVLa0hfZFByM3ZxVnBXMWtrYzVsU09SQkZKNzVvMmFmZDVoRVJ6NVlfdDVEUnQzeTVJQlNNNWJIbXNHZ3VReENIbmFndzdrRjFBNjExR1M1dUJMTWxTX1I4XzRXMDdRYklScGVSb3dfTGM5RlIwSW1KcVBSTjJQUlhqOWZsZtIBigJBVV95cUxPTkRTLVduSzg0bmZkWDdPRVBieF8tQ1Fnb2JNQ1VXUTV2REVBLUZQVGpZWHVYREdwSUh6LUF0Ry1hYktuY1NydWhvRlhxdTFVZV9BVUpNZ0RyNUVKNVJXazJFWlkwTVN4WDZZYWFiNFNaQVJWM2pHdVlaSC1EY3RfVlBNTEoyR2FKdVk2WXRsYVZvZFFNblBNS1l5V09rc1dHTlJyLWhURlR5eDEwNHVQZ3o5UlBESmZLWVRyMTZIb215SHBRaGNKcUZPTkQ5M1dWNDgwZEFtbWcyNDFkRXJPeXFmY05vSDVqZHdzS0J0ZndwMXp5VmhrLU9SX2tmMGVvWUJfWmN3N0lEQQ?oc=5",
-          "date": "2026-06-24T07:00:00.000Z",
-          "source": "lokmattimes.com"
         }
       ]
     },
     "M/E": {
-      "cachedAt": "2026-07-26T06:38:56.256Z",
+      "cachedAt": "2026-08-23T04:39:54.635Z",
       "query": "\"Govandi\" Mumbai (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
+          "title": "Mumbai Crime Branch Cracks Down On Fake Doctors In Govandi, Bandra",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTlRkY3YtVTdydXBEbk50Y2g1ME9ycmdiT2xZekhzb2pPY2JDRlpnQWY0NnNOeUVxVnFJS3ktSWZKY3FZMkp5dGQ4Q1hXeXhmRFFlU0JmNW9EZXNrcmhzWmtuUWdRUUtIdXl5SHR5MzFneFducEhHaTZ3SEtaU2tGakl1X3FpX3lCcTROT0pPdG92eTdHVExoRXEzbXJHaHFNT0J0R2hnSFVJN1NkMVdmUw?oc=5",
+          "date": "2026-08-16T16:40:00.000Z",
+          "source": "The Daily Jagran"
+        },
+        {
           "title": "Mumbai Police Bust Fake Health Insurance Call Centre in Govandi, 12 Arrested",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSG9fOC16TzBqSVh6Ui1POHBmaWZyaVllUENUSm9MLTB6YTlNWVF1aHZDZ3Z0bG0wSTVZVHd3SU5IOWc3b0ZVemJOUmg2Zno1Z0R6LXIxYWdmUUFyM2ZGWDlWa2J1RmRRbGxVWjRKaFRjYUFXUmhRNFNOYXdqVWp6WmFma09Fb29XR2xjM2F1ZVJCR2lzazI1dVZXOFI4X3hqZlJubnRqcFMza2I2NXJuU1JhSTVTUmfSAbwBQVVfeXFMTkczNU5Vb05uRGVjRUJXdEFKc0xXQTluWVpDSTNEZ0FHWkJQSTNjcEp0MmRqQ243YTBtcE9OQ0hBdnpVYWk3WEJoTFdUMklFY3VDZnl6cmRpY0NoeDhpUFRnTlFsbm1oajJVYVBNd043VnJfS1N3TmlkVGZIRFdxVVRORC1TeVUyNUU1N3ZSRl9nejQ2bDVaM3NIRlhPS2pZdERNcjB5YWNYVzZmdW5sVWFOM1VfUjNISWVtNkU?oc=5",
-          "date": "2026-07-15T07:43:28.000Z",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSG9fOC16TzBqSVh6Ui1POHBmaWZyaVllUENUSm9MLTB6YTlNWVF1aHZDZ3Z0bG0wSTVZVHd3SU5IOWc3b0ZVemJOUmg2Zno1Z0R6LXIxYWdmUUFyM2ZGWDlWa2J1RmRRbGxVWjRKaFRjYUFXUmhRNFNOYXdqVWp6WmFma09Fb29XR2xjM2F1ZVJCR2lzazI1dVZXOFI4X3hqZlJubnRqcFMza2I2NXJuU1JhSTVTUmc?oc=5",
+          "date": "2026-07-15T07:00:00.000Z",
           "source": "lokmattimes.com"
         },
         {
-          "title": "12 Arrests, 3 Call Centres: Mumbai Cops Bust Rs 17 Lakh Insurance Fraud",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZC10clBGN0hZWEtXcWV4VElvWU54d0NOWDB3QlV0X2FRbmlwZHFjenpWTWtqbW1iVHBpclNWczc2Xzl3MW8zS3hRXzZVSE9CX28yYmFERUlWWXZqdEpuVjNLQlB3WWY2WmF2dDgxWVFTdXpEWkJkZGdwX1hMazk2UlVmNGE4ZWdqQ3c1UzVWMll4OE02QzlIc1B2SWNyZ2c3NDFQUU1ULU1mLXRIWXhzb9IBuAFBVV95cUxPR2FocVlOal9GVlN3MlRmWTNYWl9BcjJ0SWEzb09uWF9vOTVwd0I3QjN2TzB5aXhCdDZtZmRQRWwyZzFWbkJsazl2RFozdGRFbVlDOGtvMV9nb0g0eUJEa01UM0lDbHlkMGpTS2M4V3B2akhSMWdFbWExS2lOTW9XeDBpMXI1MG1PSWo4WXVMMzhwNWRhdkpFbUpYMXhrSDJXUGY2WUlHWnhNaXhiSHlYRHpOZ1ZubXZO?oc=5",
+          "title": "Mumbai Police bust three fake call centres, arrest 12 in Rs 17 lakh insurance fraud case",
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNMDBScWV2eGEyTHJOcnVxTEVVRTBiTnkxQjkwNWNSR2RzZENBZ3BjeG5UZTRfVzBGaVRFODU0ajJBNFVzVFRHbndKMEZMa2x6NDZiLTRqaGRFODVNSVBKVWNIbXFia3JScm45Q0xJTnRrdlpCSmh2cGtMdzd6MkdhWEJ2dFpXWkJFVzhjX0dSYWl5TjY2STFXcWdkT3hMSmFWT1pXek9HUUM2RTdEbnQ1RXMtUW54ck5HcXdEbmpfSV9ONFlZWFR4TUtJVWo4R2U2NnJ3TC13Z0txbXFJVWlGcy03NkpaNWNhNkRzTEpLRk1uN0nSAfgBQVVfeXFMUEF5dXBkT083UDZxdmVyeGZBZGt2V0Nzc2Q2UEZEaFBLZ21KS1VDM0ZwRkFudXllaU96QWp0ZTFlc2tMQUdFalBfQXd2eHlpVmEyWEFXbmlEZ1pRd2NaZHNOVlZFSUxYSGFTNDVVRENmOFpQQnB6UTNDbDJBTE1VQjBGQjNqOFA0dHllLXoxNi1rV0VOX2Q4R0RWbnkzbXQ1THdlUXlXMmRHVkFDNTNaOE5qVFR2TzliMU9tQUhHdDFlQ1V4ZFhkMEo4TFFTTHJnNEtVLU1mSVE2cnRZajl3T1FxRDd3ZHh4dllSY2FXVGVhbVhpa2tQMkk?oc=5",
           "date": "2026-07-14T07:00:00.000Z",
-          "source": "NDTV"
+          "source": "The Times of India"
         },
         {
-          "title": "West Bengal firing and blast case: Mumbai Police nabs three from hideout in Deonar - Mid",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOdjU4cEVVRzNWZHZ5Q2sxZklLMmFBakhpT3MwT29OQVNFTlRTZU16LTRSOW44UjNUVXg0clJybXB5eGJFU1Fhdl93UFd4TEFZSWloaldLS3E4czRCY2Y1c2JWR3o0OFJjTTVZY2VISG9zWTNCUFVFTWdYbEx6cTlFdXVvVERCNG1yUGNHSXdsRmVJWGhSc1NkQnYyRWk3VlFQUnpjUzV4dmc1OWJkYUxPQ1pMRU9iQU0ycFBaV0w1NGN1enBxUmJiN0VJckx5RzVLc0tEcW9CbzlIRGtidk5xWTNyOUlJYVBLWUsyY9IB8gFBVV95cUxPR3RlWVNMdHlsZU1WNlQweEU0UWxhSmp0ZXpkSWtlWFlTcVJyT2tXNnp3SVh6RGZxY0RiRWJmN05yVzllTkJLWTJkQW5uUEpYVENpMXJ4Z1hhSFl0MGhkRnN3TkRldEU4aWFQNWxCTHNXclJVYV91UFplSFZoV0RIWTJ0SURIRjQyRnpOYXJ5NTY2SDJlRVJKcGhQbHVSRDlWM3B5NVpKZVBrbEZ6dVRpSlEwVURpYWhJWXNkczNmTFdWTFR1bVFyblVUbzZWVlR0SHltVlZpWDIxTVlkM0k0cFFJcXVpWGRxdEx5TXVxa0xmUQ?oc=5",
-          "date": "2026-05-21T07:00:00.000Z",
-          "source": "Mid-Day"
-        },
-        {
-          "title": "Attempt to break friendship ends in stabbing of 17-year-old in Govandi - Mid",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSUxFTTNNNTFNNXBiVkNmWkVJYUp2d3JFUnJJNE5BRVdaXzhlV0phMHZBaGNONWh2U2RNMkowZ3JyWGk2eXMwR1RrSDBZdVdCd3Z0cDVyY05TM0JoR1IwTEVPVU9tb01fZjZObGtrbUdVWUpncGxmdi0xNlBUalYzdURnRVp0SUpENkJjMzV6QnNuMEZpVnBUTmJMb25kLUh3cGRMT2NBX2Rrd3VFZ1NZUDBmLWNsSW94YzlDV2ZvME5JWGVuV01TSHZTc1RSNWZmbnJvRmZ6NNIB3AFBVV95cUxOd2tiTnYtZVRIeHd5Qll4QTdIX2ZGdllrSVN3NW42bHRud0FXTlBaNFFqN3BYSU9hcDFXMmMwQmVGWFg0RkUzRU5VdWVqdTc4NUdhcUx1Qy1rSkhycmxFNDcxT3VDblJ2a28xTVdUSUdFUzdlWDJfU3NLbVd2OTREM3JGdWxWVFJMcHFZM2lhSWxFcHN0TlVqaU9TNHM4dE5LV1Ewc2t3WlZFYVNYZW1wRUZ3d3NjdUVkX3NRVjV2c2ROdXRXWUI1UE9iWTVIbGZQaHJIM0Jmc0drVnFh?oc=5",
-          "date": "2026-05-08T07:00:00.000Z",
-          "source": "Mid-Day"
+          "title": "Mumbai Railway Police Arrest Man After Viral Train Death Threat Video",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSlpQWnBkZWRwcXNadFNPeVFjU1RaQUkwZEJKMkphUTMtWmt3UnJ1TnpmOGIyOV85X3hwS2pMWlJmYXpad2w3OVFGamlkajJZWFRYd2IwU2J1TnhWZEdfX1JHa3FZQXVJTkNrX2hHczFzdmVWSVJ2NGkwRmpiTTlQb0tmaklmUXV0WldmWmVsbFN4a3l2SVRSdVJpRV8wZWJGMVlsWkJodFM2QVBXUHpwMFhqSHlaTmFicWM4VEZUaGt2a01ON19XMHV6S1lBUTVPYm5hc1M4YTRwRmfSAeABQVVfeXFMTVlTMXhIVFpIeWlLY0plWlBhOW1SN3VQUnB0M0VwQm1MNVlIUkxoTG8xYUltZkZ3cVpxSG5lTFluNjJPU2dYYm9HamR6WlB5dzVyMWVEU25jRUdPQ2ZoZmk1WFNCZFM2MXMzYk1RVDUwQ0UydmQtbzA2V01MWlByTFVpVWhFQkQ3OG9IU1pvNUNVb0tGZTRtV0FHNXB1T3dWSU45VDBtSktmZ19fWmwxSExldjQ4VFAycnRfZ0FLWExzZURlVXFka0h6QnhUYzRLZ2J6cm9fYTZMMDBQS3hGdk8?oc=5",
+          "date": "2026-07-04T07:00:00.000Z",
+          "source": "The Times of India"
         }
       ]
     },
     "M/W": {
-      "cachedAt": "2026-07-26T06:38:56.256Z",
+      "cachedAt": "2026-08-23T04:39:54.635Z",
       "query": "\"Chembur\" Mumbai (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
-          "title": "Mumbai police register case against Chembur shop owner for selling Pakistani cosmetic product",
-          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPbEJkcUQwb1pjNldKMU1pVmJoMml2UmpzUEJDZU1pemcxNWoxTEFRVVdQRDNKNFR3SV9XWEI2UHU0R28tUEJhd0s0M2ZDa2lQMW5YalBvbUtEeHk2M213dEJ3WGVCTkpBZnVzMDRtOHBneTlTdkRXMjJwZTUyVlktb3lsMUhxYlhya1Z4WFdEY242cFRzeGpUZHdMZGxtT1pSQWlkeUcxNnlMd0VtejV2UlN1NmdJeHNzb3JMUXl0YnRIMmNJbkVvOGgydE5hb2pKYnpGUGh1UDQ5eWkyQmdZQXVzRTZVZFJLNGFTeHN2Xzk1ZW5BV2p5NXpINNIBgAJBVV95cUxONDFzUHN3VXFRdXB1Vko1MGRFVWMwcVFlUE1ZbWhZR2Y4MlFsX05WWHEzaTBqTm5zZU03QXd0cncyTWRoMTdWaFcxV3NXVHZ4NzhUMlpuMjVaejJGOGVWeUJYckVQMlJFUkpvanUtRUpCUjQ2V3I3dDZCTUFGQlRIdXQyV09ONEFKNFBUV0ZuS2l6ajA3U2habHhjdjg1VXRLRmkzZHhLZnV4WDRxcDloaTBPQ3lGTjNmN0cxQm9uNUVIa2hFY0Q2Y1NOQnp2TlpBTmwtWWRaYkYzUGZsRVlhMFRPWmZkWWRRcmpGbzNxQTQzcVNPNGFnNjE1N1JISGZM?oc=5",
-          "date": "2026-06-26T07:00:00.000Z",
-          "source": "The Times of India"
+          "title": "Mumbai Police crack Chembur mobile shop burglary within an hour, recover all seven phones - Mid",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbzZ6WVhrcFhUeldyRTRuS3pTMEZXU3NVd1RtQVJDNmszS040ZzFtS1BsSEVZZGhmeGUxZ0JnMDlvSjRQbEtaUVNGUEx2bEljUVJIaTNhd0JPQjdhUmtzVWs2ZUQwaWRJMGxLbi1xMFZtR3BQUVF6eVNLd2txS0J6MEotVTlLV3h2c2pFWEFNRkhPcmJocU1zWVRQMC1WRU5EQnBacGZfNFlfYTF1OU5IcXVRZVdVUlhrellsZUpSVERxaU1yT1RIQlVpd3lIZEo0c3pKNXg1M1NZYmJlWjZF0gHfAUFVX3lxTE9vNnpZWGtwWFR6V3JFNG5LelMwRldTc1V3VG1BUkM2azNLTjRnMW1LUGxIRVlkaGZ4ZTFnQmcwOW9KNFBsS1pRU0ZQTHZsSWNRUkhpM2F3Qk9CN2FSa3NVazZlRDBpZEkwbEtuLXEwVm1HcFBRUXp5U0t3a3FLQnowSi1VOUtXeHZzakVYQU1GSE9yYmhxTXNZVFAwLVZFTkRCcFpwZl80WV9hMXU5TkhxdVFlV1VSWGt6WWxlSlJURHFpTXJPVEhCVWl3eUhkSjRzeko1eDUzU1liYmVaNkU?oc=5",
+          "date": "2026-08-20T10:22:00.000Z",
+          "source": "Mid-Day"
         },
         {
-          "title": "Chembur Police File FIR Against Ex-Office Bearers For Unauthorised Redevelopment Deed Signed During Society",
-          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNeFZlaDVQOGxzWTFTcUJUaUY5MWd6WDE5QzFBMTF6dWtDbWxsdzhubHJrYVZMenNDNndNQ29aNlFTb2J3VV81eEN5NDZTT01YZkJKSm1RMFhuaHY3VS1YSGRVc3ZNSlV3bDV3d2h0S1Q3Zks3NE1iVGp5dl92eEE4SHE3ZHJwc0lmb0JfaUp5OTZVQ19DWXBVM294ZGRhSUhRTm1ScGNYX08tNUJuQTl5MjNORmdFZTNncFNkVUw0aEwyQ2JmSEtabDRLNnhIQkxKRlZocWVLQ3htdjlIaG80TjFVT1c5a0thNHluOEUydjB0aEZsaEJWQTVB0gH_AUFVX3lxTE1rbUpxdTI3WEVOT3JjZE5BVzF6ODFNb3VWOUZJVVQ3MEtRNnU2QmpWQ2Q5Vi1WMUU2RE94YmtKZFVWaWgweWtET1NfRWxOTWJpZTFHUHNqTkNoOEQ1ZzBscWFOcVhTTlN2TUVDVVRiVy1LWHpUb0xqWUVaYkNUVEZmNWxNMXlYN0RGeE8zWGZYR3diaUFUckJhTzJtNl91NkJDQUViT0lNYWRlcDJSaWdGbjFscDF3emFwb001THQ0Y3FkQ3FQTVU4VTBRMGhOSlAzY04za2huTVlHUFJPcmNidjFfdkkzUHhVUVNCdjJlQXYyMWVJYi1HTDNMRl9WQQ?oc=5",
-          "date": "2026-05-20T07:00:00.000Z",
+          "title": "Mumbai Crime: 42-Year-Old Car Dealer Arrested With Gun Magazine, 2 Live Cartridges During Naka-Bandi In",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQV3RzMkN4cVpwd29SczNYYXUzeTM0ZDlJTzFEbDhBVFJPekQwNnpSYnM3YzBoMUxqWDNhTlNZd2FmMFN0T2t3RWFJdzlCeEhGS0lrTjNVRk9DcnZZY2lrMVN6YS0tSXFLVFBrZGFrZVBvVUJ0ODQxdmdFdHNldW1jQkZNZUVTZ0pPeDVSbHJnY3JsV0dBT3MxNnlpOVh0MmM3Q0JJbUg2OHVfMm45WHJpSU5lbnE3aEpVdFVwSWlVRGhhY0h3aW1INjJDMGFEREQ3U2V4RUZoSE45THBDSkJQdmpR0gHnAUFVX3lxTE5rbVdhUk9KSWtPN3RsZ1VncUhlQUhfelpPTVpCWGVlUU9UbWFLODJGa1VEODE0Vy15aVdnVUpsX2M2dGhyOEdIcFhuUEJybU9NMU11NG1DV2F5Nk1hU0FLcmZQOFUwa3lGRkNDend5eTRvV3FEYTVDdnprWEhOakxPZ09aZFZjQkFJMzlwYklSQ2NsYmhMeE1RVDVpTHU4U2JnbUJ5Nk5KcU9xaEZkYS1CZWl3QS1YUU54U294dElsOUE2UjI4bmV2M0ZONENMVHBSRUJhZGtXNF9NaFM3bHdIaFkwTEVwSQ?oc=5",
+          "date": "2026-08-18T17:31:51.000Z",
           "source": "Free Press Journal"
         },
         {
-          "title": "Mumbai Crime: 4 Arrested in Chembur for Attempting to Sell Elephant Tusks Worth Rs 3.5 Crore",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQms0TnY3bHdFLTd0aC1CQ2p5Mm5mZXZlTVNCVVB0U1J4SGdJNEl3aGZiTUc3RkpBQlNieHJBeVkyZnFvRVJhNW1RY1FhU3g4X1VsV0l6Y04tbi1RLUllal9oZXFQVW1GMk5NcDVWZWwwVUJVcWlZNU1SNlc5ai1NclJFX1NlbURaczdza2ZDd3FSQnp5Nlh5cmtfTi1Ld05QdFdPODNHdUlPa1pLeDZfVHllOXRfajM0aWd2OGdRMk9iQ0oxMHZYSlEwRQ?oc=5",
-          "date": "2026-04-25T07:00:00.000Z",
-          "source": "lokmattimes.com"
+          "title": "Mumbai Crime: 44-Year-Old Chembur Man Arrested For Allegedly Ramming Motorcycle Into Friend After Argument,",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQNFVXRjZnVDBWcldueGlDR0JEWmg1Q0hzYW0xb01IazZzTFBqbVR5bFNwUjl1UjF5cmZNWDNvNWVZMDBVcWVwRGZkSm4ta1N1c0YySkdTOW9fcHl5SGdqYUZ1MlIxLVdWMkNDX3ZJendza0xSbEZEZzZxSDY1dFBJVkQwdEcwVWtqbU9tZXRDd1N1dGVuSEJScEVtZmVJTW9CSjlJa2hCWlpITF80aW1rcjliQXNUdDJZbzR6WjBOT2tSUnVhbWZpb3FzcE9hSHQtRmtGczVZaXhTYkliRG1ZYU9lV1RNNDJzdWFCdNIB8gFBVV95cUxQMjlNYzZNNmp1R0pwVXRUSXVuNGUtSmJ3S1RwVlVfWDA5djBEcGpOSVBYZUVaV0pMR0s1TUhaaldLckZfYTBVcWpiVE9OZkRvb3k0SXVQb005MlpQMlNMc1BCVEVjczBzYkdRSHNBRmRpN3AyUF8tc3FpdFJ1cUFqR3NHNnljNkR6OWJnMFZCZ3VGXzN6ejlaYmh0ZGlGeW5NNk45ek9TY2RkakRmVTVzaWQ2N3JyYk8wRndBbHB3X25iQUt6ZEtaeVZUaHkwX1d3MGxsd2VQN284NURnN3RwMDI2c3JzSFgyamtTVS1OYzdvQQ?oc=5",
+          "date": "2026-08-14T07:00:00.000Z",
+          "source": "Free Press Journal"
         },
         {
-          "title": "Chembur Police Arrest Four For Trying To Sell Elephant Tusks Worth ₹3.5 Crore; Forest Department Confirms",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOFc2UGw1dmZWT1ZaQVRQa2Y2QnN4YUtSQTh1a1l4MEdBX0pYaUpOQ0VpaldocnZyOFB5MXc3XzFxMXdOX0w3M2lYaUxhLVpLRk92VEVMUU9ZeDdkOFpDcjgyUXM3WER0ODd2NWRKcTE3dmozR1pjV28wN2M1R25tOU44N1Z6alV4TjJDb3lJYXU4LV84Ty1idFlFZTIzZzEyM28xcFF6THB3NGl6ZC16Vnp1cWlJczlEUmdiRm5DOVJwWlBWRDU3OUZHTUNoU09ETkNIaTNadl9JSjJMcXhyaW5QNNIB6AFBVV95cUxPM1hEVGViQTE5VFQyeDBFMFZ2WG8xV1V0dG5lZ1JSbzhobmJUV1Z4QVdBTmRmSzhiSnd1U21NLU1xbThlNUJPMkhvY0lDYnExWUowNWd1eEU1U3F3WnowdF9ZLTRZb3hxSGJCdzJfYVBfdEx2cUJlQUt0bFNBOU82RHUtVzNsSW1zc0RUUVlubEEwaG8zLUFSM0NiZG5QcXVncHlhUGktYzlUNHM4ZEVDOHdYVnREYzAzdGpNdmRYUXNKODdnM3JxZXhUa1ZLRmc1NUdVTV9OS212OGg3Q2dJZXQ0SmhOUmNm?oc=5",
-          "date": "2026-04-25T07:00:00.000Z",
-          "source": "Free Press Journal"
+          "title": "Expired Frooti, Appy Fizz stock worth Rs 1 lakh seized in FDA raid at Mumbai warehouse",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPdnlFaFBEdnJDcnNyVVdfUDMtRjVrZkIxdHc4bWtyeXhqeDNGX3FrODdmQ3Bnb1hpRS1WSFBmOXNla2FPd2VFVHhzalVsMXZDdmQ1aHRrcEZITHRUTTNGczRhM0dDMWR0dXlZTE9CYnRKX1NpZkZFdEFidDlDMFJUZHFjeE1Cd2l5dzRaVTltcXNBeUd3d2JqWWliUXFna0EtazVYbjdsNGZQUlNSMGNpVlE3MjRmV2hwUk1IcnVicDF3MGRYV092dERLU3RTcFNRMVoxajc5TVJNbDMwUmg5VUsyZ2NEeUt0TEVpOE5CUkJkd9IB9wFBVV95cUxONS03a3paczdISDN1c2VkWWQzOEsyZzNpa1BILTF6YTh6ZXk4Vkc0UTFNdmZYWXNyVHdxS05oY3FqV2dnUVVZLTBHdG1PZHgzVmg1NWprYVlVb3BrakxYNW5hTUF4YXM5SlZ0ZklkbXFpQ1p1UWdLM2d1MWhJYTM1b0VTc0hkYlNldU82dlppMTFDWlk2WDhaSDZOZmdQNFJkMVd4U1Myd1JreFQxdXZueF9pWV9nZzBNa0toeXRWRGNHYTdNYk9XcHlSOEhfYTJHdE5xVW5kTG1VbXhxN3B0TlJvUG41MUJPQUZ5QnZkQjJsRjZZS1Nn?oc=5",
+          "date": "2026-08-14T02:44:35.000Z",
+          "source": "India TV News"
         }
       ]
     },
     "N": {
-      "cachedAt": "2026-07-26T06:38:56.256Z",
+      "cachedAt": "2026-08-23T04:39:54.635Z",
       "query": "\"Ghatkopar\" Mumbai (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Mumbai Woman Pays Help Rs 3 Lakh To Kill Daughter-In-Law Over Violence Case",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQanhyelZSSFhhZ0RBM2ZwQTFNMER5M1ExeWVDU2k0Nm8wVDRlb292bDNwa3YxTHZxV0JFQm1IWV9JanhJcC1rNjFzeXpjWXpSWFVZbTFabWh3NUFfREliNTlkalVodzJMNEdwbGlScEZEMlFXTHgyazNpanFTZ3ZnWTZTbi1IRkR3akF5TW0wVGhKSFJHS1RQS0F1TFRaeG5iaDA4TEp4bXFrcTJYaV96QXUwVlVEQ1lRWVM4dmlvWXFMR2_SAcsBQVVfeXFMT1ZwQmNpekd5aHdDaWNDT0tZVUdRN3hBN3FHdHNTdW83VjVldkNvWXlGRzlCWFgzTjlra0pmbllkMXpXMHlrb1dETmMxSm5qNDFtVTlITnNOMTFONkhIZ3RnTHlJTDBOM09obWNSN0duUC14VzFEZGtMNmpxQzJLVDRuci04aWdFYTRiS2pPRDJpYndmVlNDOV9nSVZKTDRDT294TUgtekc2cGJjeTgxS0VEUjZGeFRQeGpOVFRCb0k0eG12LUtTdm5xcXM?oc=5",
+          "date": "2026-08-20T08:28:49.000Z",
+          "source": "NDTV"
+        },
+        {
+          "title": "Mumbai police arrest woman, four others in daughter-in-law’s murder case",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRWQyLVJ0TzBWbjZJQTUtMVlpcTQxaHlmR1ZfV0hTdFpvNVRYd3lXYjNLV3RleE1TTVYxd2FMR2ZlVkxnVzdSVXluM3B0bFM3WVctenU4eWt0TjlXcVFObGZrRERTMVZhVUpONEFKZkhNbUFQeGxmWWxqcHVtTGtRMTRCWHIxR1BFd2x6RlhDZnlfdUJVUGY4NXdHbXIwTGNSMHZscHJ0Wld3NWotU0gtY3QwdGJOSVVsXzNueEZldTBoaTVPTnl2b0hIVEdhUDk2ZjBiZDV3MHV3aHdB0gHiAUFVX3lxTE1oWTN0bEUteEZ1d1NBOEJqQVFKdUdwVnVqZVp0Q1FhWGZ4R1pueUE0SnoyNkY3VEExUEJUWUdScDVTa2ZZTDV2bVZGRDZFTjNOaC1LS1hDQnRhWWNKUzJQWUdFbDlvbjJNalZScjFmSVJFT2IySXlSalI3ek9kVGNoUjdLVnAteDRBZzZtVk9CTGtveGYxdFM2UWUwWjBXZmw1emxra044M0FTeWZtR0J3R1NlRXNpSy1WcHB6U0d3emtGVkRMaHZaSzVxUlBacUx6TXIwVHdldnRmZUlwX1ZGUHc?oc=5",
+          "date": "2026-08-19T17:27:00.000Z",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Murder FIR filed against Mumbai woman after daughter-in-law dies of head injuries",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOU01zeTB5ajhsRXpVVlRISUMwdlFnQmdfLVpxa0FDcWNNSzdITkc4Z3QzR0VFazRIakJQalZpMUt0NUlDcENRdWVOanZsYWw2VDhzcWlMb1kxMnF3U2JLRHBJdXVoZFVidVRHWUdJZmtwM283SnFjV3BoUE9SNEJKVGZEazI1cWI2d0VKUnhWcDZjUkpPM2c5eVBNOXBpOFlSWmszVzZORzRFNUxqdmZBSDBHdFVGdFBYb1J0QUVRX091a0JlcjBkbExlMElWZkxSQWdlRGt0RGo4Y25CNzA5NTlYYkpkcXkwS3lj0gHwAUFVX3lxTE05NV9fOG11cnU4T0Q1bEVhNlBlTUdCSVJjdFFRd2JmQm9TS2U2VWZ6N3Faenl2aEJWbnprNUNmdnAtVFFGbDMwTW9BMTk0cl9LOHhTejlKc1k2SDdPQ081X3VFOUNDLVJ3b1FWeGowdGhtdXhYTXBOcFpWU3FDeHZnampBRVBzbVJvMkxvZFdselNJWTV0N1hXRjZ0Z1dVT2JHSHNsNUR4ZlJHS3pqemJhdE91cEVoSl9aaEhEY0xyTmJFZF9xNlpmTUp4Y1BPdE15OElvb3Y1RFhpNE55REV6WW5sc3htM1R4QkdCTnV1VQ?oc=5",
+          "date": "2026-08-18T16:08:00.000Z",
+          "source": "The Times of India"
+        },
         {
           "title": "How Mumbai Police Unravelled A Five-Year-Old Murder Mystery",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTWgtNnBHcWZEWUpDWGlRZ0lIdWRicS1fM2liT1JNamtldUNPSi1CTExVQjB3elFQWHRJUzJqaWk2QjRTejc4T2U5ZWJ5ZWJrSWFuX0VBbDhCUVhPQ2U1UGRYQWxaZGVOYXdrQTZyeGtVbHQ5MEdEU1c1eE9EVW9ZblZDTjdJUS13bDFrVFdLTWU4dG5fVkZHSWZmMjlwc0RVMUVj0gGmAUFVX3lxTFBlbHNBbzBLdVpQVzBScTg5UWE1dW5ja3B2dmJENTlPal9vbGx0djNTMEVBUHBYMFNrbGU0Q0J3TWxURmdqNzlYSUlwbDR4SnVJSE4wOVV0cnVSYjk4TDBJYm12emxlbEVHb0x3eXlzYmRwUjFUVmt1R1g0ZG5KY2hhVlNmeFV1TlhWLUtLSFhIb0JKUmJBS2hfelFkQkxaeDlnZXE4RHc?oc=5",
           "date": "2026-06-11T07:00:00.000Z",
           "source": "Rediff"
-        },
-        {
-          "title": "Mumbai Crime Branch forms SIT to probe Ghatkopar billboard collapse incident | Akashvani News",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQkVRaEFEU2JuOTgzSlJDd3BkcmthWWFuUVlXNkVfdEJveUNONDhJT1VfSF9hQU9iVXJ4QThLd2kyZHlkNTUzYkFjdHFocFVlaUhIV0VORFBLTlFHN0Z0RGZ1SUI2X0Q4cG83VGZ2WHNIb0FtUHVIRlRMUDZMOXN5dDVJaDRJYzhyellreVNWSFp6N3BHMFEw?oc=5",
-          "date": "2026-06-08T08:34:09.000Z",
-          "source": "News On AIR"
-        },
-        {
-          "title": "Mumbai police crack down on drug trafficking; woman arrested with 83.478 kg of ganja - Mid",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNaXRmaUNKQnl0Z2c3dlVEQU1fLUVsd3BNNHpMWnUxTE9aQkJQWXhFeWE4YVBPUXV1MVVaTmNrNGVkZkRRV0ZSZF9hQ3lyQkJmcmdnWVJwZjM2aEdSZWxWZTY4QnBmakdlN2JUMlFOWFlXQkVJMWtjVnFzY3BUbVJQN2dYcklUUkh1eFNOeE9UWUpObnpkcjdEazBrWEVwSnhaX1B1dGlfczFGMVdqNkxrVG9ldDdjV0QxVmlialp0YndDdE9MUXl5UGpZeWNtMFkxRWtoakRXNmhnRW5Yd3ZvUy13b9IB6AFBVV95cUxQQTRpaXVPUDA1ODc3aTRGVTJUc0xMWnVfSjFxV2lrWTFSRkdxMFdBLWp2Q0xFaHV0R1BJMkFKNGJkWVV5X2JZMDhfLW5nMXNZV25pWW5qb01DaUhtWEt0MklKcFBoWnZqa1NTQ2lKakdVYmVoSGQxQWtFV1BhVGp4Vzdwb0xRcHE1dnBwUjVFVWJMZi1CU0pDX3pJOWhoWVR1ZTgyT0ZsOVNhX0NUN3BhbU9LU3ZTeDRpMW9kdUlrYUtNUy1ZWF9ZN2k5X3diZzFjZmlaOGQ2LVpubEdOWWpvak9OaFdrZ0J0?oc=5",
-          "date": "2026-06-07T07:00:00.000Z",
-          "source": "Mid-Day"
-        },
-        {
-          "title": "Mumbai Senior Citizen Duped of Lakhs in ‘Digital Arrest’ Cyber Scam Posing as ED Officials",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9UdTBuSHpFQ3pIRE5ZSkg4NERkeFdMQ1o4Qk42TFVJMW9UUGZQVEFhZWZXaHUzMlhJZGtWVVNUcGNjT1VKNS1uWDh0OTQyQU1WSzJ4cFN6b0JUMkxRZ1BBN1pBcHdTWmJsM05yNA?oc=5",
-          "date": "2026-05-21T07:00:00.000Z",
-          "source": "The420.in"
         }
       ]
     },
     "P/N": {
-      "cachedAt": "2026-07-26T06:38:56.256Z",
+      "cachedAt": "2026-08-23T04:39:54.635Z",
       "query": "\"Malad\" Mumbai (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
-          "title": "Homeless woman arrested for stealing Rs 1.10 lakh kept for cataract surgery in Malad - Mid",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNU3pCLUE5cHdReXlCOUVXbU9sSjhjMEJwM3M2UkZfUzAtUVBqc3R6M1RpQmVuXy1VVWxJdzFkZXkycWxBUDlqZDZuMHk2b2N4cGJhNVJQNW1xTmdzek40aUlPNVVMYnBkUWJ5UkN2MXdlS2t2MXZtTTRqanctNnF3MnBGazlCZDJQb1JzX1Z6OW1yalY1VFZ1UXdSeWdYWklLOUpnNlBlQzI5c2R1cVJ1VmhHQU1KLVZTYnlmeEhpeS1wRk1uTWpjaFFnYjdnQkpSWFVxa0FrdE1jWkZ2UmRWRTJjTkvSAeoBQVVfeXFMTnV4R0oyS19xSEduZC1vLUEtcTJHUzA0b2tOTXFuT3NZN0hhUUt2Sm9ZUC1UY21aYlF3V29yNFY4ckVzTzc0c0VxamRCbW9fcV9hejRIcmdEOXVhd0Z0dGl1MHQ2bDEyQlllVW5wOTNUc2hMWEZfWEp2c0hnMmRuLWtpbVBJbllzTE1UWDZQWUlpVFpnd29jdjdYN2VIb0Q4d1Q0NG1XOENudFRDb1JIRDNYeGZqSXFIT2JXcUtFQWtXX3BoWGZtNEtlNjFTXzFVUDZCcHZvblY0RjQ3cTBjOXlQT3RTanFodG53?oc=5",
-          "date": "2026-07-20T03:53:00.000Z",
+          "title": "Rats in kitchen, meat in plastic bags: FDA raids Mumbai eateries, suspends 5 licences",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNTjY4Q2VYOExlYUdUbjRFeXNSX1Q2d1lQT3Jqa3FkSl8xbi1weWFDOW9UMVRJaEVBN3RmYzJUTkw1N0tfajFEZ1dLMjV6cGp1RDBIcnY1Uko1Qk0yNEpvLVNqNFlicGhVanJENmxKSWVlc19uSkN4YnUybkx4SEllOHNRRklxUnNaaFdlRnE5MXpKSnVZSmFOTnFvVV9iM0NhVW5xd25GWFhNbWQtOEwyRTE5N0VnZDdiTEJZTjRmTExkVUtlMnQtd005bXU2TnRrcXZwVVdwRDZuT2tkLU9sWjFBLVNaZlByZ3VXc0Mxb9IB9AFBVV95cUxNeGhreng3Vkc1aDhrWk1GblEyLWpSMnViWXR0ekZEN3lHODZPSVNiUmNmdFJRYUZnOU5NY3JBUU9RQ1BTeGgzOEcxZl9QcDR1cUZwVy04N19RVFhBakZaVUJlWC1KSnI1MHRyZkRjZzRIYUo1b2NsS1dPbjdFQUZlMTBGVG9SS3VRM3l4VTJfWl9PREVTaUFwT0w1RWpCOVc3NERZUlJ5bW1DdEdaWENGRmp2Y2tsZnZ2QmVMMXVMclhaQ2lpYjVTeDVUNVBTQmdwX013aU5qWnlhLURKQUNuOVhlY0Y2Y2VBVDRPZ185LTRxRXpV?oc=5",
+          "date": "2026-08-20T01:47:00.000Z",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Malad police arrest two housemaids in separate theft cases - Mid",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQc1JaYmpxaHZpQWdQRmJLYnVlbEJodDBaLVNzMVQ3MksxZ1hZazNpbDBDMlU1VWJGNzB3dnFPWEhBYXpmbnY1a1ZuWlJCQy1GakY4WTVsTlpEUXZ1NjNFM1NlVE9NN3lBVG81QkY0WVNqbXFKdTlxaXJBV1hGWXdUbk5hRnRQejJvUzl2T0dqejZqcC1fcVRxWU9kTENCNlZSVGZGTGxYalowUURfeWI1VWI5OHFadUFoYmQ2UTRvOFpzcFXSAcgBQVVfeXFMT25fQU5nckVPNVhoX1pUbTVGUHJBS0JGTDVRQUV4ZktiaGRVVWo3NGQwQnRBOEdteUpiWVdaTlZaS3FkSDJZREtHRmVOdE5sc0d3c01GeTFGWEllaDR6R1NzQTZWZXgwUDBWNWRUS21pNTU2YWtQRUNGMFZmdlJMVE5wemQ2ZFJicUcwWjdKelhSSGh0NWd6ZnBtdGJYUk9iN2VHYU5PLVZyTHhta25SOG8wVFRndHFxeVNvdU1qWGU2NC01c2d4cEU?oc=5",
+          "date": "2026-08-12T07:00:00.000Z",
           "source": "Mid-Day"
         },
         {
-          "title": "Mumbai Crime Branch arrests man with Rs 15 lakh ivory statue in Goregaon East - Mid",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOeFNrcnFxUGJLWlpIS2kzV0pLTTk4NzBsY0VfQXpHRHkzT3JfNUcwemY5bEljZ3ZBSzNBX18xN0RQWEJsN185THg2U1RSdXJNOURsWE1lUTZvZkVWQ05jN3g4c3lQUFlBZ2Y5VnVCaEtPS3NBbWpTdG1kbThtTDc1ZmZacmZ4VW1GdWVrUXRZeW4xWDRkcy1KWU01dkJGeGR5MjZnNEJGbEdvcU1lTWhZclZtUzZ3M0FvQXIyOUNVSGlfdXJuNjBIcEpad0xPX0hFY3dIVHdQWnA1eWPSAeABQVVfeXFMT2cwcGFsTTNVY3FPVXZ0WGhBRUZWd0FmU0lSQzR2ZnZZamtNdFc1R0dCeExWMVA2Zm1uN3M4aEp1U2lueUtjYnFMOU9VaFpJbF8tOEk5bC1GLUNaVzYyS0ZNeEhZc0I5VmJZNzdPUXNMb2tjWUV2djRWeDA5Y0hYdjJCaG0wWUpOS2EzeUd4WEN3Vm5yN3MtRVc3NkswWlBKTXRZdEpnbEt1dmpIX25EZTkzclk0dEtIR29nYU5SNTd0RkxGZXJVTGhBVmdVOTdBdHFtUVFpeWQ1SHlGZnVkS3I?oc=5",
-          "date": "2026-06-25T07:00:00.000Z",
-          "source": "Mid-Day"
+          "title": "Cockroaches, expired food: Blinkit store in Mumbai loses licence after raid",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPdGxIcWdqeWphU1JORnZydVFLVkxjMUczTk5tRVA5TEtFMUJlOWxiczdRYkxoZC1RWGxJNHJ1WnpNa241Y2xILS16OGVJOUVBZWZiYjVzcHBqYzhTaTJyYUxHV2hEc2RkSFhpVW1OMGlTRWQ5ZEJ3QmlFWmpUNnQwcW5sTGhqSHpEeGk1OHRkZGk2cjJDS3hMeGN5VXBYOEVBQ1VfNVdMZGg1M1VYU2ZXRmg5WnYyVGlQTWZ4czA2U1RZWjZYc0c1OUNNZFY2OFlPTU1VYXZMTks0X3NVN0F0N202dEk0MGdPMXfSAe8BQVVfeXFMTVMwR1R4OWc1TDY2azVCNGVHbDM0NzV4UzU5cUw2UGV2OFo3dFY1cjMtc2wtcGVvRDZCdnpVYlU2MEhGOVYzTFlMT2YyR09UNTFnZ1VxY3djeWpyTUZKRXhHbU5EelA5cGp0bWlxaHFoNG9rV3dkOENJZ1NEYXc1OFhlZ3c1bXZNM2pKaGh4SDBfY05xTFM1ekxxTG1HQmdzY01RMVozZjVnRXpTeUR6NVFTai0zN09FRE5YV0ZUMFF4ZmN2R3ZYc0Z5b29YdmZqVi16RHlUS29ySFhxckNDdXhQU1pwLWsxWHFfVU5Cc1k?oc=5",
+          "date": "2026-08-11T07:00:00.000Z",
+          "source": "India Today"
         },
         {
-          "title": "Employee helps friend pull off office theft in Malad, cops say - Mid",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQSS15Ukp3akNHTXR0aE1fdnRjdTVLa3pBWXRBekJpSWpzTEg5LUpuNnQ4MmVWbjZZWUw1dmRhd0tEa1Q3YTZfQWEzM2trOEtOTXVVSHA1bW9qbVRNdDNxM3lmN3pTUG9VZnh0VjE4V0o0Wkd2Z0JMbEFpbGJJYmE2YXhhMGRIdXU4ZFEzWjJFWGJzZ2RmaWdVaFBqbzQta21kS2xtVTNYRmw3UnBDTVB1Y1BweTh2SF9LdGNYZ3JNYUJ1Q1FlVklLWF9WZUt3YkhJbUZkcmgzYl9ZTEdpalpYNG5lX0EzQdIB6wFBVV95cUxPRTBmdkdHdFZDUlcwNEtGUHBmWm1sVE80WUdMdXppVktnZEpHUHZTRXRVVkxvQlhMR1VISThyNTNlSzF2YVNiX1V0eHkwYnpNRUxtdFJKalhZZmJwWmhDTGVwcldwU2NCMm9SQWNmTWpCMEcybnRmS2lxMi16WTAwSm1nSDdiMmVkd0hQUkdBV3Bldzl2cWZKM3o0TUtZY1BuaVRnaWFRaWdaRk5WTEYyTU9EWDhFVUo2WFJ4YWRMSzlpOHVJdGI3N2NDSF8wUU5GTWdzQkcya18tZ1dIU1pvaFFvcUp0MDFjS2tR?oc=5",
-          "date": "2026-06-12T07:00:00.000Z",
-          "source": "Mid-Day"
-        },
-        {
-          "title": "Mumbai crime: One held after late-night operation against alleged sand theft at Malad's Silver Beach - Mid",
-          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOdXpmeXhiZ3VmN3ZkZmFONE9iWmw4emdnSVp6cDh2eVRpZlFSVHlEVE0wLVhwc0pCTko1T1dDZ3lDbFJhblc4TlRYcTJ1UDIwRklZay03QThidlpfWnUxNndiTk1MdnljVWlDaVczd1J0a25rZ3ktZ3FhcnhQMnl4cW1adDVzd0pnRjR2ZF9ER1hCV05JaEZlS0JISXpiSDBDLTlIWU51QzJsR1FZS2hNM3RIaU5PUHhaU3ZTaTJjZUNQczFJVzBhcDdHZGY4NlJRZjU5Ukd1dkZYc1dBVndSdHRabnhvbW05VEg1SFJtMi1SMHpfSGxr0gH8AUFVX3lxTE1MRG9wckF4Tm1EeXY0MUlVREtCZmRVVmIwTm1MTGF4MnFfTWg1eXVWSHdTUzB1YTAzdTJLRVJ6U2NZTi1IYmhoUnR0ZDdSLXlUamo3R0swbGtFTGtDdmpUWXhwbWFXOTRJaVV6TlZtd3NlbXRHZzUwU1ZaVXBvZmQyOEVvR21semJ1Yjc1Wm90bjh0NVpsaTJUdjN3OTRpRVlTOWRmRW5IWjBtWEM4SVJGTTlIUXVWa2wwWjl6Y0xRNXBNdXZXb2p4VllBbUV1bzFaZXpxOVJPbmhBNERhOGtIWkRhQWFXOG14bFpXTGVtV2hKLU9OV1ZYUUNsMQ?oc=5",
-          "date": "2026-06-04T07:00:00.000Z",
+          "title": "Woman stabbed to death by husband during quarrel in Kurar; suspect flees from hospital - Mid",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQMDdzVFJ0eGVvaXFEMHN4VGtfQnZzb19vS1Y1RkJyZEpRRzFWcXVMZy14X01KZU9nS1ZpUVpmSm0tdUczbEdROFRBdXlwN0hXYS0zRmIwbjk1dUk4Y3JaZV9iel9pQkdZNDVmd2tHVjFqTnRYSU43WngtZXpaWXU5MHlMUmg2TU9OdjJDc2hheFkwYVNvN0FIaVFWT1VjczZLMnp4RWpyQmZhN3FrM3Y5VFMzQVNoQXFyUm8yVDEyelpWLWFtcFNERTdFZWI4ODluQTViV2NVUDA1QlJGV2U5czFpN0FvTmFCcENF0gHwAUFVX3lxTE1wQ2NHdXBmNFI4ampWaEgzT2VNaHFFeHVyZ1VjdGlpbE1KX0NtSFdBSm13UHl4cnJpVF9XN2N0V1V0SDl3Q3ZHcnJRTUJnLTlreWZJNDZvMGJCQzQ4RmRzSGVSY1NBSnVfQVliUkxKTnF5NjdEMnJfd2RweTdWRFl4MWVpSGFqX3BMbHQzUVNuWlF2djBkUTRnSk5ReUZYWlZ2VEtraW9CbzVXZEs0OHR2LTRDRWJhUXhtY2N4VjRfTWRaVjF0czFIZS1va2RGdTB1VUxXOWFfS0h4WlRjdUN6U3JoRmZZaWlBQzV3OThJag?oc=5",
+          "date": "2026-08-10T07:00:00.000Z",
           "source": "Mid-Day"
         }
       ]
     },
     "P/S": {
-      "cachedAt": "2026-07-26T06:38:56.256Z",
+      "cachedAt": "2026-08-23T04:39:54.635Z",
       "query": "\"Goregaon\" Mumbai (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
+          "title": "Mumbai: 20-year-old woman alleges repeated sexual assault by husband’s acquaintances in Goregaon, cops launch probe - Mid",
+          "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNQ0JYZWpBQ0dCLVVGWjZfaE9fRlVkX2U4cmdTZGVNSFowRmgtV2xiQi1JX2RqSGl5UTdZY0pHMG9jd3NpQzA3Tl8tLVVEVVE3NUd0R0NLd19JWVFnNldKd1lMaFE0V2twQUxoS1F6TTR0SFU1TEdtRGtWUXZ1UVQyc2RlUGlNNHdQZExkOHE2eDdBVmdHM0M1ZVhJWmdlOF9rR2dPYm8xYWZINHU4eHNZczlQVUdrQlkxSC1OS0lKNWlndFZRRURmVHoyVTJmMlBCRHRVamxsMkFwS0FmN2JnUTd5VlN6dWN6MENEaXpzUVdPYnoxVGNHbWY2TUVlbS1jOUdNYWZDZ3NlTEFDSkxNXzRhTFIyY2JRamNLb1VXRVUyRWJuZjVyMTlR0gGqAkFVX3lxTE1DQlhlakFDR0ItVUZaNl9oT19GVWRfZThyZ1NkZU1IWjBGaC1XbGJCLUlfZGpIaXlRN1ljSkcwb2N3c2lDMDdOXy0tVURVUTc1R3RHQ0t3X0lZUWc2V0p3WUxoUTRXa3BBTGhLUXpNNHRIVTVMR21Ea1ZRdnVRVDJzZGVQaU00d1BkTGQ4cTZ4N0FWZ0czQzVlWElaZ2U4X2tHZ09ibzFhZkg0dTh4c1lzOVBVR2tCWTFILU5LSUo1aWd0VlFFRGZUejJVMmYyUEJEdFVqbGwyQXBLQWY3YmdRN3lWU3p1Y3owQ0RpenNRV09iejFUY0dtZjZNRWVtLWM5R01hZkNnc2VMQUNKTE1fNGFMUjJjYlFqY0tvVVdFVTJFYm5mNXIxOVE?oc=5",
+          "date": "2026-08-21T11:45:00.000Z",
+          "source": "Mid-Day"
+        },
+        {
+          "title": "Mumbai: Man beaten to death in Goregaon over Rs 60 hotel bill dispute, one arrested - Mid",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZ19RYWRTZW1LdDAxZWthd0FQNXZsXzRKR2ROZUJ5UXRWS1dyS1c3c0tOMm53aFdWcWpwRzBOLWprT0ZkRHE4ZW1YSzJaX19mSVREU080UzFLUlRMcHhuRDEtYlh4QlhhMzlhR0lGWGxUdFdXZVZCZVU3czZQZW1KWGhIQUlKQk5Pd3dvVDJ0YW5xMUJSWEhKby1lWjFXaXVaWF8zcmZKZWVFcFRzYnhNbGo0N09xR3lqaEV2Q09XVk0wQUFPMk1rREFRdUdJQnNkTWtHaGZZUjRUa1lMSEdvYdIB5gFBVV95cUxPSUhGVkw0UkhtRlAzVFFzNTB2RlVPdWZmSWUtbGtyYl9jVkVpT0YtdlFvU18wY2hrdDhmSVRwZ1RTVWFlRGlaaW9MempmWS15UnVreFppSkt5bzRFQ09nR01iZndKd2NvZndVVF9JdmU5OHpaYklYYWlrN0Q1VFhpYkw3aWRFQ1NCWnpvdWFRZ2NqYjVYMDBHSUtFU0t5Z2o1MXB4MjlORDd4MXJwZ0NRaEE3bW41U1dEeGNRVzJTWmhoMzAyMnJMcG93TWFFalVpcS1TYzNtTHJjZm9PY3BYVEJGaUFrUQ?oc=5",
+          "date": "2026-08-13T07:00:00.000Z",
+          "source": "Mid-Day"
+        },
+        {
+          "title": "Goregaon hotel murder: Cops nab both suspects after man beaten to death over Rs 60 dispute - Mid",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOdGMwYjJBUWdPSm1zeE82M1Y4WDdfbERVUXlWeW14dFF6WTRlTG5UUTlOc2RzX1V2WXdBempMOUdUa0haeXdlTVpvYVc3MUVBM1QzdjI5R1NOZDBTOGxPdi1qWGx5RVRJS05rT2U5NEpXekRvb3NUMDUwNVc4cXlwWHhsYjFzTlR2aEk5QnNZT1c5ellpS2dBSTV3ajFRMW8xdlYwWXhXVVYwT0RSQVNPMjBXWFowV3hKTXNEY2F5Y2haUDN5QThaMWdfZjEzSzJQYktObjNUUXBxM1hJU2lRUEZGOFRtbl96NlM1ejhRSzV5S1Q50gH6AUFVX3lxTE5HM3kzT0Y3S09YOHJ3cDlNbFBFRm5IYWkyenc0eW5BWjJMM3dpdDJWbWZDV2llSHZsbTlXZVg2RnZkbFRoa1BvLUx1TEFUYVZlVlJGQnJONHNGM0hZaFI4OXZVbEVJc2FVMlYtTFpYS0FlOTR3VDdpcG81NmxtTF82U1lhenhaRVAzTGZ2cW8yUEpyZFBOcEVxRDlIbEpNV2pxU044Y09kNEpJNmtTZHUxMGhiSUpvSEg5a3R5ZkZVMS1Ed3lPSGJVcVpvb0k1UEFhR3hXeHN0SmNQeW13ZzYtR21EUFJJNDZ3YjMyQVFNbTBYRTVFZGhNbFE?oc=5",
+          "date": "2026-08-13T07:00:00.000Z",
+          "source": "Mid-Day"
+        },
+        {
           "title": "Homeless woman arrested for stealing Rs 1.10 lakh kept for cataract surgery in Malad - Mid",
           "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNU3pCLUE5cHdReXlCOUVXbU9sSjhjMEJwM3M2UkZfUzAtUVBqc3R6M1RpQmVuXy1VVWxJdzFkZXkycWxBUDlqZDZuMHk2b2N4cGJhNVJQNW1xTmdzek40aUlPNVVMYnBkUWJ5UkN2MXdlS2t2MXZtTTRqanctNnF3MnBGazlCZDJQb1JzX1Z6OW1yalY1VFZ1UXdSeWdYWklLOUpnNlBlQzI5c2R1cVJ1VmhHQU1KLVZTYnlmeEhpeS1wRk1uTWpjaFFnYjdnQkpSWFVxa0FrdE1jWkZ2UmRWRTJjTkvSAeoBQVVfeXFMTnV4R0oyS19xSEduZC1vLUEtcTJHUzA0b2tOTXFuT3NZN0hhUUt2Sm9ZUC1UY21aYlF3V29yNFY4ckVzTzc0c0VxamRCbW9fcV9hejRIcmdEOXVhd0Z0dGl1MHQ2bDEyQlllVW5wOTNUc2hMWEZfWEp2c0hnMmRuLWtpbVBJbllzTE1UWDZQWUlpVFpnd29jdjdYN2VIb0Q4d1Q0NG1XOENudFRDb1JIRDNYeGZqSXFIT2JXcUtFQWtXX3BoWGZtNEtlNjFTXzFVUDZCcHZvblY0RjQ3cTBjOXlQT3RTanFodG53?oc=5",
-          "date": "2026-07-20T03:53:00.000Z",
-          "source": "Mid-Day"
-        },
-        {
-          "title": "Mumbai Crime Branch arrests two for adulterating Amul, Gokul milk with contaminated water in Goregaon - Mid",
-          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNTElQd2dTY2t1VHh1amhIZG4wZkZBaUs1dlN5VVk3ZnFabk9ScTRyR2FzN0luUjNvSmRveWRzU1ZsdUVaY056X1N5Njd0M2s0Z2JrMGZncHBxYVBNd3BPb2tJRGJDa0xCdm5RZFBkSmgteUF5c295dHFhVlFsWVFmVmRmR3h4LThQZzI0M2tIZ2FtNHJiMGhsbUU3M2VadUttNmNQX3IyWlRkblRkODcxeHdmRnVnd3JvQTJTUDgyRlRnYzJLOHJJTG10WjRkT1BfYkVFekRlUHBEZzlHTHVVUFNxaWY2Z2dKaTdfTldrVTZ0UdIB9wFBVV95cUxOSy1zcUxKM2pCSmFXQlp0MUlmQXZ6MHp1WEVfbkQ5UlVVNGd0NWFmOGJ3bVUzdERVZEh6THRuS21DbWVvSGVqRWlBdExJcnVXdXh6UXE0THBGZHlDcWk1aVBWcWI1aGN5LTJPalpkeHIzUkpTVzVybS1XdHhWNjhnRm9aOUxXcUxhNnFuWW1fSzQwVXpYSWh0b3N2dlRDbjdpQTYyb2VxTE0zVmExbW53d19aYjh3SGN1QzdHdlBoQnh2QW43NFh0ejhBaDR5RlI1NWM0MEltdGFJNk1xakpXSzFrYTRsQmhZVFFfLXROUUhJaUdMQ1pJ?oc=5",
-          "date": "2026-07-15T07:00:00.000Z",
-          "source": "Mid-Day"
-        },
-        {
-          "title": "Mumbai Police Probe into Goregaon Concert Drug Deaths Reveals Shocking German Smuggling Route",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRm9JcE9senRwMXdaX0piNWlVUVF1b002dHBKQ1Rqck4tVWhtY2N5Mm1UWENzbVZPb2JqYTh6WUFvR2l2TkNaTEVjTHJjTDVmNDM2UlduZHRpS1pBRGdQUXBoZlFfQlZKQ2l4d2ZsSXBEYWIzTW1PRUlsM3NtSzBPXzZTam9hSzg2ckNSRFNVbi1ZaGczbVpCX184cFVRbE1GQnNJc3lwWHNEWi1WcnRqbEU5ZC04T1lzVjRIbEtBSDRZQlR2WlRLWnBSaw?oc=5",
-          "date": "2026-07-14T03:15:50.000Z",
-          "source": "prameyanews.com"
-        },
-        {
-          "title": "Mumbai: Khar Police arrest 67-year-old man absconding for 18 years in theft case - Mid",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOV2lfTnRRR094bDNrRGtSa1k1UUZrd0NiakNsTlNIRkVyckZ1bHM4RFNnSnpkYzE2ZE9ILVhDX3doanVkZnd5YWx3czNlN0M0bnJfSlh2SjRkdzRFc2NFVDcyd1AwSndScHdNc0s5ODJXTUx5V3g1bWZFbW85RkpybUFtVHR1UDFGNWNLOEFkVFllUW9TQzdadUpCZTVEeVA1aXhZdmFWODF1S2c2WklmOHJ5QVZ2aWtDcjBnSnlmSUpmdVVkVjdQOTJGNmt1aDczcUNfWkhDMDB0VDdRcno0NVhmSnN1UUlnWG1yWdIB8gFBVV95cUxPOGM2dXRIMGVkMjZJelo5OFJtWnNuQlRLT1FUdVdFenQwT0Y2NVp2ZFZ2OUlkb09UZDdGWVpSc2NPc1BaRi1HeGdFVzE3cWJxbUx6WFNxNkFyRGU1VjctLXNNU2tFb2NuMzBTVUxSY2ZCNlh2bjN2TExXTHNvQ3FhcGxVWWNzMzV1ZXJsSXVpN085ZXBmZWF5ckVJQ3BFUXlmUUduWnFOeUFyaC1ySUE2cmdsRmdTV3dUZWtRR1k1Z0NTUnFRVzRWR0cxQk1hcW1NRHhsQ3JrbEtURjNXeUVWNEZJeUs5UlR5ZXFYNVZyakdhZw?oc=5",
-          "date": "2026-07-10T07:00:00.000Z",
+          "date": "2026-07-20T07:00:00.000Z",
           "source": "Mid-Day"
         }
       ]
     },
     "R/C": {
-      "cachedAt": "2026-07-26T06:38:56.256Z",
+      "cachedAt": "2026-08-23T04:39:54.635Z",
       "query": "\"Borivali\" Mumbai (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
-          "title": "Mumbai: Two booked for posing as FDA officials, attempting to extort Borivali hotel - Mid",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNjQ4TFVGdmNHTDlBSHVOWlJERlRFVE1fNmNkU1Znd1pFYXFzSTV6b3VfdkdOT0EwREgzUTN0eV9fZGd0RmNuZTY2QlJvUENCY3ZvUjJhMmpqRVRoUW44YkRjSERhblUwaFFXc0FNQXBTdnpjbEFqbW1EZy1IempqSzlOd0poNlprWEpzUlNYUVJiczFDa3BHNmtLVXYyNjVHdXo2SEkxQWRwZFlpTnBjTS1rSHBRVkpteVRjTjFadHZxTm9xNHJKR2d2OUFhNDhkYTRCYmlJcUFuRlHSAeABQVVfeXFMUHBNeHptQzRUajZrelYtbnMzWHVURDRXb09YQVNFRTBRc2xra1RXYmtLcENydnRFMlhxWFNYdXJjVUJpTnJWOXBNcHJzWlBiME90aFhDUng0bzI1ZkZEel9mNWJKUkVGYUlIMHEyRmNYUXJNSzhtY2twcmxqSXZ0UTNfczk3bXZiNnltUzFJUTFLU1NnTXdVaE1yZ2trQm9SZDZNbllQTDZYMVVsck9zaVZEb21VSUozSDUxSWQzc2p2NzIxbm5PYUFGWjNsbUNCaGNrWXN0aTdYalRfX09wa08?oc=5",
-          "date": "2026-06-29T07:00:00.000Z",
+          "title": "Mumbai: 36 years later, Mumbai police arrest man accused of attacking umpire over LBW decision - Mid",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPR2ZNNEp3alliOUMxc2lyd1hqQXRMdFc5Q0dVVTZoYzRmSGJWeHR2bEFncEVpYTVLNFJLdE1HejlVVlU3cHRBcDlINUNSekNGLWZ0TFFoOW10SDE0U0UyNDBIUzUwV1RuRG9UQUJFb1VwcnFwd3pCLWhORUxocEdtTXFfVG9zYVdqRTdGa29ZVFBELXFkMXJoM0l3Qm1FeHRSMllmdjliY0luRFltdFRWZ0tVaWNMRjR3bzgwQm5QNUFjcGt3WkJkOXAzVTBJUmJDLVAzY2FrdktJMHhvblJKR1Vaa1VubENnaEE0U1dpd2V6Z9IB9wFBVV95cUxPQTFBUk9UUlU0OGJMQU1uUVEzUTg5WFgzbUtLMnNmWHU0LWZDRElDWENLb2R5VDJBeUFTSmJtWUhrXzBHcDJCLWp2T1ViUF9ybF9IT1Z4M1hnQzA3dU5kbGFTRnBnanMyZl9TUXRqb2djcXRLd1JZQ3hPN2lOSEV6UEZoYndueU9mSlQzbDFocEZ1Yzl2SW9MQWtYSnU5LWlMd2hKWHpzbnZicU1FUFlFWFB4amlHN01pa3l3WWlQYmFoaXYxN2toRDlxandTcGdIMXBQTmJla0c2ekxJQi00SV94MHVnVVJWMHJPWHFkR0ZZc0I3U3dv?oc=5",
+          "date": "2026-08-23T02:34:00.000Z",
           "source": "Mid-Day"
         },
         {
-          "title": "Mumbai: Borivali police arrest BSc IT dropouts who used AI to sell fake birth certificates - Mid",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPUGFYMkpLUlMxTE52Mjg5d1gtMzZkdUJFRFJ1OUxBWkpkM1JNRzhHVEc0UEMtbW1Tck80Zm1pbUpkSExkWlliaXAxVkVsTDRIM1dSUW12VHJFdHkzazBhQW1IalJqMEh1NU5xOF85VXRjN1lmcFppZkR1LUtlYjRHeV9ZX0VlR0xDTTJDNktLRVBIUnVyYUhaNEoybHhjeGh4QWs5UTBJM2dJV3FNQjZCSGtNbEpydTRVS2loblNBVS1ld3U4bUVsZWJSeDcxcGxwTFc5TktDcnR4MDNsV0tfcmJsRWVCZGpIRGhJ0gHwAUFVX3lxTE0xNS1lM3R6ZW9KekoxMjM5d2NTcUpCWXk1TUExQ0JOcGtTNGI5cGoza1U5T19lWXU2Tk5GbE9LeEtUYkZ1OFZjTENyUHdGZWZEbFdXNG40cUozYUdqaDZoVUVWSGNJNjJtSGRsOVJDTTJLZFVDZXRkNnFIbzJhb0FMd2pJTjRUc05rUlhEd2l3el9Rdm5TcXNHTDYzQ3VTQWxCLWN2U2RvalpodFFfQXJWckZRMV85UEhuSkVUSDhKVTRYUGZWdGVGZGZGZTJtTzZfR1hIQ21pU3J6OGJtVTVPcDlaSGZiQ19TcWlkUTQxYQ?oc=5",
-          "date": "2026-06-26T07:00:00.000Z",
+          "title": "Borivali Police arrest caretaker, his accomplice over Rs 12.92 lakh gold, silver and cash theft - Mid",
+          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNNDJQLUhNZUVhdGdMaTNtRHp4Z1A3VVlsSHAyRXgtdWprYzVhZ3daTkxWcFhrNks1OWplM0JCLXl4NDJfRG5vVzYwUXBrc0kybzdXbUVDVTZzbTB3bHhOemsxekpiVkpXT3duVlFGTjlSUGxSS3M0Y2VSU2VjbEl4ZnZIc3VOU2pUaEs3emxYeHJUel9JY3l5SG9kXzVQNGJKeTdUN25lYWtGYTRrQ19KeHdocjRxNjlMTkU3b3Zsd2tWRHoyTDlTcEdJWUNRbXNpZDhzNjZ3LXV4MUUwVWV0RU5Ka3JMX09zOXVaNDZ0QjBMS1lDMFJuaTRTTTFaT3fSAf8BQVVfeXFMTTQyUC1ITWVFYXRnTGkzbUR6eGdQN1VZbEhwMkV4LXVqa2M1YWd3Wk5MVnBYazZLNTlqZTNCQi15eDQyX0Rub1c2MFFwa3NJMm83V21FQ1U2c20wd2x4TnprMXpKYlZKV093blZRRk45UlBsUktzNGNlUlNlY2xJeGZ2SHN1TlNqVGhLN3psWHhyVHpfSWN5eUhvZF81UDRiSnk3VDduZWFrRmE0a0NfSnh3aHI0cTY5TE5FN292bHdrVkR6Mkw5U3BHSVlDUW1zaWQ4czY2dy11eDFFMFVldEVOSmtyTF9Pczl1WjQ2dEIwTEtZQzBSbmk0U00xWk93?oc=5",
+          "date": "2026-08-22T11:43:00.000Z",
           "source": "Mid-Day"
         },
         {
-          "title": "Mumbai train murder: How Roshan Suvarna's Mangaluru escape plan was foiled",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQenY4QnVHbTlpXy1BOUtESHBOOXU1cWF5STFvSUtvVUpRSlc4eHpZdTd1cGs3RzdQYXFyRHZQRUU0OFdzZ1c4a0VhVTNTdExEb0RYbWQ0UFRGRjRPTTZFeXZMSU1VTGlIRTdfWUg4bWJxX1BqbkJhcG5pZEhNb1RUMkJ0dUliU2dNSUd1UHp0Q2JDVjhmQjE0UDIzeUNDbGYxd1FhaHB5U3N3ZWpBcWlMNy10SEdmQU1tS3c?oc=5",
-          "date": "2026-06-26T07:00:00.000Z",
-          "source": "Udayavani"
+          "title": "Mumbai: Borivali birthday celebration ends with FIR against 10 over celebratory firing - Mid",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWG1kWVJMVzRQMDNBNFJ5dHZpaU1VTnNuMHNfZUtvYkJhd19UM21OWTRNSERHMExZd3FVaURPellvSVJkRWE3Nk0zczBqOE9lZ1ZvSjIzczZvYUJGZ0dsWEJxZU10QzBEWTZ0a1lDS24wcGk4eWZoX2NIZVI2WTJnNVZaNmxWREtEMDhXYno0anBCek1ENkc1RVlEODZJeS1xdWxZTmZtYlZuRHRyYWxwSThaRkl6X2F1djVfNmtRdHprVEZiemxPUm5vcWU2cjZyTjdfS0tnc0hPNnF20gHiAUFVX3lxTE1lcHRRdm5ZU0xMUjZmXzBfd0NPSjlvcjdwQVpoMjlWb3QzcnNzNHlDV1lTNFpFQm1NbWVEb3JhRzk2UEhPWlZseTFDUHQ3SlRua0ZUMlN6MGZxWm5sRXZmal9LaU9ORVV3Rk45dldTa3RBUXl5M1czdEtKMi1pQzlpMlpvVzRMd21OMUYxeUxXM3JvOXB2anAxTFplZUtsd0FkWm9zNUNyWFR2Tk1GUE9OU25CcGc4TS1UNldVd0xXb1pza0dJOWxCMGtmNnFPQzdnZWVIbnRReEpKeEJ3QkQ0RUE?oc=5",
+          "date": "2026-08-07T07:00:00.000Z",
+          "source": "Mid-Day"
         },
         {
-          "title": "Mumbai train murder: Borivali court sends accused Roshan Suvarna to police custody - Mid",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORzV4N3Z0amRKRU0wbnBOZlEtREJuc3dIb0J1WHZBLTlUVjBUVGc4NDEtZ0FITFJnMmV1OGFYQm1kLXo3MEpQSllfLXQtSWlObklpQVVlcDFtcDZUT1BwQlJTR29TUzA5YU1nb1J2R1F6ZzViYTE0RVEwRURQWWI5XzctaV82a1RNXzRBdnRoM2xFdkppZWNSLXc0MGlrb2hzX1V5R0ZlUTNZSXF4a3lXZER3N3hhekpSVkVjUC1TSXdWOVd4Y2RHSmN6SHl4eC1BQ1HSAdcBQVVfeXFMTUxDUTBET1NpeHBHdF93TER1NWdsLUFQMTM1dWZ1UUdzbFlVTUMxYjh3Uk0xOFJZZElzaGlyYUlOWTF4bUd0cHNnWVFCSW9DemtzNGMzT2dLTDJWTzVxNGRsemJUU3pGdjktNlAzT0hkVXRuamxUdk04TzVhbFhwVWZQQUktc0FVZ1dFVmY5LU9WNFN0Nmx2TGRpR01PZExxWFozdGowSHd4WUJhczlXdV9ZWklLanREa0UwSlN6aGFWeXFYeGJMYnJvX3JFbGhjNEdlOW9hSEk?oc=5",
-          "date": "2026-06-26T07:00:00.000Z",
+          "title": "Mumbai: Borivali Police return 225 lost and stolen mobile phones to its owners - Mid",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNzNVM0JhVjh4b0hfbGg5YmJ3SjJxN2RQenFfMGZVeXYzMF81aklRc1ZDZlhkcjF6WHlKS2JNVWxLQlVqckE1dmtTRjlTWllWWlRiTHY2QlNEVllHcnU3RmdYVDdKRmFsS21OR1FIUGpJZl8wcC1GbEE0Ry1BNWRuSExELXlBelFxSTNQYnRqdzlJRXp2U050b1BST1ZUcUdtMVFOSFNFM215cDUza1RwUmZUVGVRZ2Zfb1oxMG52UW9RWVcxYkhUZnBJMlZybTJ4Z09FQnd4MWVwUEdzdEtv0gHkAUFVX3lxTE1aSVJ1QVZvZlFuNzk3SjhYdUhDMWIwUks4eEJNYXRZMFMweThVbXBDaGxLaWNRNkdUV1VwXzRkeGV1NUp1M2pGMG1NdzczMDN5ODBrU2ZkcTRRY0dwUmRDYkdjV2pBcEhXY09GdTVtb1ZZRFV3REFuZTlrSnZIWlFzR1Q5VnlvakxXbG0ybHh5SHNYaEJCZG9sbjBaWGhEVGwzXzhRR1NzaUQ2d1NkQ1ZvbHRJZ200bk1mNTljWnRBQWtoSkhxYlFrZkdtazd0NTJZSFpZckxfaFpkVHQ2d0Fwa09RRQ?oc=5",
+          "date": "2026-08-05T07:00:00.000Z",
           "source": "Mid-Day"
         }
       ]
     },
     "R/N": {
-      "cachedAt": "2026-07-26T06:38:56.256Z",
+      "cachedAt": "2026-08-23T04:39:54.635Z",
       "query": "\"Dahisar\" Mumbai (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
-          "title": "VIDEO: Mumbai Crime Branch Seizes Banned Gutkha Worth ₹19 Lakh At Dahisar Check Naka; Probe Underway",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSGtZTzdjSWV4RGNWMnlLTHZfT09KU0NkMTVfU2o0RGw3dlRJQlJQQTByYWRCZUstNmpnZ2Y2VmJOM1VadFVBY29hbHRoVEhMUG11XzJES1dtbm5ZWFVxX183dHRoY2VLa3FYZElReW54ZEdQTjBoSmozSnBqVFMyNUlZNTZVanBjX09nUzV1MUxyMWRILXEtMHZDLVcyY0VPa2FHaFF4dmJYaWJTQ1pMcldfQ3lPc0k4cFVCX3FPaFhiZXluWmNxM0pmZU44REl6enfSAdcBQVVfeXFMTWFnb19QaTM2My1wUkhQdXI3emRYZG0wdE15eTVIMGhiV2VKRmFKMy00MlgyMXFSaUNtbWs0bWpDX2ZORE1qaUJFWXJKenpMSzY3NnM5and4eFlZUG44UjVibkZJb2xwRW9Mb0l0aTN2a0Iwb1g5a1JzMGg0cDFhSHAzTkpjZVhtQlVmWEMxRk5kblNpaVRJYVZLaGRVamxCWWpzSFg3ZDJZYjhlT0RSYkJzWU0yb1RIVThHYzhXOWxaX2taVE5rTXBueWs3UXVIanRIdWNOcGM?oc=5",
-          "date": "2026-07-18T13:53:58.000Z",
-          "source": "Free Press Journal"
-        },
-        {
-          "title": "Mumbai: 470 litres of adulterated branded milk destroyed; one arrested in Dahisar - Mid",
-          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOV1hYWWdEcm00RnlXT09OV180a2lmdkpiUkFRYUh3UnB6UUQ3OWpvbmVKVG5tQmtqazFKdUZSUkF4SVU0czFJaFVMMDM4VTBzUVVqUkgwb1BDTW9saDFaYTk2SkY4c3dLSVgwT0RHbkVCV2pQWGYxaExjdVNVcXRGeU1NOU5qRmJiRHQ4dWpsZHUxX3BwX0h6SW1tQjVGZTd5cW4ycThFMWluNFhWMFZmaEFNeFd0eXR5dWt2SGI0dE1UelRhRTRjOWJkdFRmT1BjYXFZX3pLdGtxWUthdHlMenI1aTc3TmtvMTlMdTNBSEljaWhuc3ZILXdxd1VkZ9IBgwJBVV95cUxNY3pob19UVVJXRG5IZXEwV2dsdmJUb1EyX3dQS2l5Q0dQcUFpODhlc3N2VS1yT3BwYnFNNGVycTJMa3VFbnVpdklqd1BOWVlLcU4xXzZLQ2s4Z3lEd25uRUQxbnJrUnI3NjYzcFlkbzB2OFNfOTNXTk4tSXI3QkhPZEo1TWlnZGhOSHdaR0ctMzlwNFFiREx5LTBnazloNUlkanVJeUZJYVVmR29BQTViXzNrRFZvVk9pSDI0YkU3bzdGbFpRaUNQZjhxdF9aZEdPekxFc0RvWlVmbWdmZ0thLVJzVWYxT0hER2FGam9mNENlY0pEajJsSUVrTXVkZWxMS1Zz?oc=5",
-          "date": "2026-07-09T07:00:00.000Z",
+          "title": "Mumbai: Medical representative arrested for allegedly stealing Rs 2.5 lakh gold chain - Mid",
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPMzFnalJ6SGM1VWRmYkZkc19nU2FnMjFacXltNmdrdkM2VXRtT1pTUnlzc0ZqdFc0WE50MGxGaUlxRWZIX09PMDlaLWZTQ082Q2NEMDJZZGl0Tkh1Vk9JdHI2cTlLSnV3YTFNQTBZTmR6SkJqbG93MFNrTlNvNDlwcV82Mk51U1BPRmtlM0FKeERkdWNOZGpsemNKRXF0VXlsSzBoSmpVWjU3QU9pMVJqejlpRm1ReEVLcFhQY3BwVGx2TXl6eC1VRjZ1dndjYm5CRTNhaURMZm5HUUY1YjlHN3p4QVk0NTd5WnMwcHFqa3BMY2PSAfgBQVVfeXFMTjBla0JmYTdRX1dOYUVHX1dDQi0tSU0yY0dWb0ZjSTdRMHhDYkhHWHV4M283MkpXR09lY1RPV25rMFNaOW1jYmFydkNOdzV4UEJ2Q1U0QkxnU1FKOHhDT3NaSTZuYWlHRGtGN3JDYkVVSV9waVRnLThiN1dvZFZ2M1o5VkRQeVRxNWZkYzFnR3NHYWNVOTZJbGdkQVF6N0luc0dsWVdMempzWVVQRG9XazV1anhuenZDSGhNd05qODV1d2VmYnd6MW5fY1UzSU5md1JDc2dHcG16ZXZVd0JvYXFLdXl4QzM3MEhCZDVEZEI1Vnl3UUNERVI?oc=5",
+          "date": "2026-08-17T02:43:00.000Z",
           "source": "Mid-Day"
         },
         {
-          "title": "Crime Branch Arrests Builder Kalpesh Kanubhai Shah in Dahisar Land Fraud Case.",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TMjF1UXMxSmZEUEwxeHdNbmt3RWdPSnczSVk4UDdXNzk1NGItWnNjbEgxYzhQOHNFby1ZeXFJODFJU19mOXRIQ1M0ZVk2bFY3T015LWtNa3hRNDFYU2VFN2VUUk96WHlFb0VpWmQtcUdxMExfY1BXYkZkVFpJbVE?oc=5",
-          "date": "2026-07-04T14:09:23.000Z",
-          "source": "Sprouts News"
+          "title": "Mumbai Police bust fake Aadhaar racket in Dahisar, arrest four over forged documents - Mid",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQa2tIU0RUSXRlT2hMX05ScUNTQW4tbzRUWGlqVTVuZFY1cnI0Nk5ESmZOZVczeXJfRm5NZVZDaGJiSkgxa1lwUjdKTThtQzRTcFh0NG1jbldKMzdyWFJTTkpXTGo1UlFaWlZxOS1jVGdISUtxSFhMRTRMZmNoN1R3MFNxTDhWRWRTMzFOV254elZVbkFjSGNlXzdMRThPTW9MeTE2UlRsMm1rcWxNbUtwNE5GZDNEQTVpLUZpOTE3YnBDZVhSYTJnc04xdm95c1pMQjRnajAwZEVBUFM0Sld5YzZON3ZRSWZGT0RIZ1VMOXItVmZj0gH6AUFVX3lxTE1tV0szUTZGTE1EeW8yRExtT0NnLTA4dm1LQ1FKdlNwbjc5UWRMc3JQSGJaU1Q5elA0c09fOTNYQ3ljUFo1STlFYWJ2WHVhaDZtXzN2N2FnR2hjZnNub0h2ekxjdzk1RDEycGQwekxNR1k5bmhTVTg3dGVQeU9qcWZNUS1uRllkNkpILXREZFZCR1hyVVRvS2JabTNmQjg5LTJ6MGpGRFJKSG1zXzZVZjdkM2pKZTdpMUMzOE1xeDlLUGdQd0dvOTBlWTNzWTRaTFFwWmY1X2N0TUhockRSSDRheGN5aTg4TzhfQkRMcEdWaWhBS2hQM1dEY3c?oc=5",
+          "date": "2026-08-12T07:00:00.000Z",
+          "source": "Mid-Day"
         },
         {
-          "title": "Builder arrested for alleged land-grabbing fraud in Dahisar; police investigate forged documents and mone",
-          "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNRGxBX2tFS0NLVFRmVHRWdW5GSDJOSHBrOUFoYTFqQjJGVVp6bU9tcDBJYzVIdXpPSGNaTmUwM0RtOXoxaG9meW5SNDBSYTZrZXo2bGdrb204NDc4N1JmdXYtUndpT3UwaWRNeVVMdEFrdGN4VmxLLU5QdFF6RjNyVWtwM3huREN5b0pIOS13TTY2enNXTi00UThUcHlWMVprOUdZY2QxR0twdVA3UXpPVVNfaERYVVJvcmYydVNZeHBDYWxlZ0k5ZlZpMFl6TG5nMnVKTGNpd2NDWVFZSFA2bjlsaFdYTXNxWkxJVFIzTnMxSjBZbHJkVlNEZzNUckVqdzlhM1FGaDZGd3BWdkphTDBIRdIBmAJBVV95cUxNUGFyV2hVOEM4WlhqdVIzTDFSeDhRaFFiM1F0OHNtU2VBZVJlZi1ESnk5MFVkbXFldTFkZUE0c2MwRTJEd1dyaG9UUEdsUjdmOGhPQ0c4VFM0QkIta25NcTd1NGoyU2tZRUU1OGdUT3R1ZVNObjRveHh5SlVxdXYxdm9fYm5zM1JHN3JfbVA1bUFPN3ZXcVAyNmFqTS1Uam5oN2pWckJlTnBoY3dSVndIeHJQTWd0cUVxcnJKUjktOVdyYlpYdExvZGxTa2dRcXItb1FWUUtyb3I2cWRjVkF2akJNMjk0c1NfVFB2dUtxZW5BWHdtem9nWWgwX3czMnJGRTUzM2M4eHJjZXhsTkN4VkJDQTVTTXFG?oc=5",
-          "date": "2026-07-03T07:00:00.000Z",
-          "source": "The Times of India"
+          "title": "Mumbai Crime Branch Cracks Down on Milk Adulteration Racket in Dahisar; 4 Arrested",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYTI1VzlhMEN2Yy0wX19ZNmZpOWE3RTQ0dnVfT2FJS3pqaDNCdWdzY1YwZ1dMM1liLVROaUczNTlqb3pYLTJlVU0zWnVudUMtZmRvbmU0cl9lYlJYNWVncmRhT0hQQVZKa0lBZkF3UkxIcThzbmMxd3kyNGxTOTloV01XMnh2TDc2ZGh1UGI5Qkh3b1BlWWxiemltQUtKb2tmaDdKR1dUcWhpSXlCSEFDMWY3OXA1YlVTWER1LWNDRdIBxAFBVV95cUxQQVR4dnRsTDR4cUlIR1QybTRjbThqVWN0d1pmaFVHYjl6RllwemRUQ0ZCRmc3amZ2bmxOdTZtdnR6dkxCbjZfNmtRTTc1RjcxX0s3ZnNfaFl1TWtDcGtpbU1LMmRWdGs4RDhMaHZtTXJvU2g5OUVPOVZPSjFzd01QRjUxZm5yQS12Sy1hWmFkWDFreDR5Y1NXTmhrYjNJbFJjcEdqWmdwdnZLV0FjVkRLMzdDZFJCMFhuU0F5NmVOWmRfWXZF?oc=5",
+          "date": "2026-08-10T18:27:11.000Z",
+          "source": "lokmattimes.com"
+        },
+        {
+          "title": "Mumbai Crime: 65-Year-Old Telangana Man Arrested For Allegedly Supplying Fake Amul Milk Pouches To",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNU0lkN244UzJieWhDUUxLUmJzOXdNUGlKYTFuWjlyaDN0d1A4VjNoalR4N3FQb1ZZRlIyM3VIRXUySi1Zb1pGWWQ0RWQ4LWJkLThtU3gwX2VzWEwzQVdkLXdIOFVQaWJxdTVpc3J1NmxQOHgwSVNhNjBrRm9qZFhzcGJiUjI0VmpUaVoyeEwxVFB6RFRLQzNDakE4SmF4SjZRQUFyRl95aWRiVHpYNWJyamRLWGlGSkZucE4zc3BuSGR1YUpmMEJHM1R4cFdpSklWaE4tNW5VVVdocm5venBzeXRId0d4dHppRENpb9IB8gFBVV95cUxNTUE1LTN3V0ttTTctZEtRVFRrNjZmYTRocUx3bThsNjBiWmNRLUdYQk1sWEVXVHI1X09XQXVjX180QVV0M3FmakF6dXAycHJHYzdzZ3FHWEJkU0ZPeG4xVEF6Z3IxenozeTB0NUUtT3l0Ri03SkxUclgySWw1eTRLQ3pTZDlGcEM5UUVrWFRQejZlcVZVLWRHa2xwYzk0OXY2SWdJYWkzVlp0S2VEUXVSb2tZRGRLUDV2OWtNODVzZWhxSk5KS3pWTDhYOGdVdHBKLTE0VHBSbGFUVWhzclVCZGdDZjJlZ212R2FaZGRZNVBYdw?oc=5",
+          "date": "2026-08-10T07:00:00.000Z",
+          "source": "Free Press Journal"
         }
       ]
     },
     "R/S": {
-      "cachedAt": "2026-07-26T06:38:56.256Z",
+      "cachedAt": "2026-08-23T04:39:54.635Z",
       "query": "\"Kandivali\" Mumbai (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
-          "title": "Mumbai Shocker: Influenced By Crime Patrol, Man Allegedly Kills Minor Girlfriend In Kandivali, Dumps Body In",
-          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOQlR6THpXMzRQWS1jY0JCVUJDMWY4cVFWTjdPSGR6R1gzV1lBR3lrTGtpaHBNM2VSa2hZcHJndUs3Z05LQkVmU1dmOVZKbkNQZFdHdkFvMVZ0OGlVSFBsV0pQeHJNTVFDUkFxRWl5UTBMcXNQbW9GNlNsQVVRNGE2ZEtJdG8zOWVuTEJnZVJ0Y0Z6dlNLNE1kSl9MdkgwdnhUektERXBwWHpxUDVmaktVbEhDMlZHNGQ2NWRzSkZWcmdFTWxxdVpodkxBWndvSmMwMm5uQklTZTIwLUwtZmJtN0pLRzZQZ1ZzaDRZWlpSYkIxZ9IB9wFBVV95cUxOd09MT0VhLTZhem4tOG13M0NNenZsYVFmc1g1YTFWWGJaSXRJekUyY3o1SGM5c0lxbkpSbjNOak8tTmhKUUF2QnVqbTBva2dPT2M2RWRTVXFJNzlkaDliU0xYNE5hdWk2dEsxZkk4RE1lVGF4NFV1RmxYbDZ6UDBJbFJlSFJaUXRHdzZVYjNodlczOUJyYUpBejVlbHlMRkdMaU5jTFR3cUtFa2JjbjUyc0Y0NDktM0ZqOVpleXRYTElGNEhWZm12Ym53REpQbksyWXdwaDVucThVdEpsT2R0M2hEWjdZQzBONVE1QkJ2ME9BY1RWNmJJ?oc=5",
-          "date": "2026-07-16T07:00:00.000Z",
-          "source": "Free Press Journal"
+          "title": "Mumbai Police slaps stringent MCOCA against Kandivali gangster Yamesh Darekar, his gang members in extortion case - Mid",
+          "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPYVhWQjBBOGszZUVtMFVjY0tldXgtQks3TF9rXzk1SEpRckZVVEZZanJjdE5QR05oOG9xSzBWdTdSQU9kV0dDek5EMVhMZ3JaeHNwZVZiVlh4YVhNTHVEMVRWd2lqZnRuWl9hZ0hsTXV4WDdUQWlBLTMxdFMxUFlDYWMyRTN4VEYtRXV5X3k4WHI4OWlMRkxTSUJVSFBWOF85WG5Pa24yZ3k3TFctV296R1ZzQldCdzJxQlk0aUNVSlE0VEs3M1RjdFB6azB2M3J1SWJMUGVKbnRmYnRGMU1xU3B0WnJwVzIxT2M5M1JEZHh4SzlKZzNyOUlFZ1ktQ2FmampZemJWWGs0eU92emhNdExxcEvSAZoCQVVfeXFMTXh5RmF0eFVkRDM0MVh4MkZLM2g4MzBVZUpBb3FILXBaOVZIcXhKX29YUVFXZF90RDZZWVF1ZFVzcWFsRFZHUnJSbGxPbW1HUjR5VGhsOFF3V1VBeG9KNzFTVnJBRzBjR1NfaW16RmY3Y0tuWXVnMWZ1ekhLUGFiT2FTdS1JOWZscXJGejRuano0LTI5MmdlQTh1bjR5TGxZSnNvaFFzYU9VREN2S29HdF9FSlg4UUFhVVNxc21ZTVhlSXN1Vk9DcElTam96c2VQVTFBM2JyM1pHZHJwVFVPWTl6dXVYT3ZPYkVMMEs0VVhoZVd5NWc2a0xsYWxhZTJLRGRKR3k1dVc4RnpDeTQtTEZIcTBxZGlUb0R3?oc=5",
+          "date": "2026-08-21T18:13:00.000Z",
+          "source": "Mid-Day"
+        },
+        {
+          "title": "Charkop Police Raid Kandivali Jewellery Unit, Rescuing 13 M…",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUW9FS2RXX011VjhEc21QczJBcjlVSjdvZWY1REZqVno0V185UGNoVWNRSlg3N0ZlNmdCMWIwNVlpckZ2YkQ1aFFXbUp2UlFnYmZudm5MSUhRbTQ5TEp6UmZLTGtJeGx2aUhPR0tBLS1aal9STTY4Y1JJWFg2bG9lUEx2akJYZW5SbWFEY0FRdlFhX2tNbVQ3VkZYZV9HTGdPUmNDS19EdGRJemZCUWtpbnRIWW9iRFZpbTMwVG1IaGQ?oc=5",
+          "date": "2026-08-20T08:04:29.000Z",
+          "source": "GujaratSamachar English"
+        },
+        {
+          "title": "Mumbai actress duped of Rs 11.5 lakh with promises of Bigg Boss 2026, fashion shows: FIR - Mid",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTEdDUk1DQzU4YjJGNGRldEdlZFNwaFhVMVNCVUotejROR1RTN0ZlcFZKZjNlUTRUNzY5SXZ1WTRQbHNldVVTZjVpaVdDdnRKWmRIQklpYTdiNUtRaVRFcy1mQzlWMll3Tl9ubW5iNHhRei03YXA5VVpHbkpkbjgtZUdTZi16a1k3a2l5azhVbE00QkV2SzVHMkEwb3hyRDN5dHA5dVY3ZWlvbkVRX0lIcXQ1N3BvRnV3LXRRWmpDRm5Hd2s0OEVoOVFiRlo3YkQxSVp6R3FiNzNTQ0FHOUZV0gHkAUFVX3lxTE1UWjRnVWd3aEdKUjBHWVdaa3NmbmVXemJpQ25DR1Myc1lkR05ROFFlRTFwVUlSTGo2QUJnc21SN1A4UzlxMW55bXY3ME5hWXdlZzEteUp2V0tpWDFjdmV0Zmk3ZlRsQlJ3TXpUSEdncHFsSGtlU1hRbTdhbU92SlNpbWZOU0RjSnZpX1pjQndEcjlzNjcteW1LaXd3em1MVHY1QVlyeU13dHE3VG5RMVpoUlg1M21wU21ZZGtPelRXbzNYT282eUVTcGcxd1JNaFpXbnZleTk0bWw5Z2xEdXRlTDVmRQ?oc=5",
+          "date": "2026-07-18T07:00:00.000Z",
+          "source": "Mid-Day"
         },
         {
           "title": "Mumbai Police arrest man for allegedly murdering 17-year-old girlfriend in Kandivali - Mid",
           "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOS045MWlpTFVVOVBaSGo4VVItakxCbDltZ2UxTjZadWZyZE5fUGt1X2h0M2Z0dk5pekxWaE1temNzYkRsZGJXRkgxYTJhRDY2eVpSY1BuYnFhaUxUcVhmanNuaVVJSHZrUG55MFBPUjJIM1N6aGoxLU5kNUFMbzh6cGs4ZVd3cV9nU0RRc2tiZzM3U0RrMGo4WlNWNkRESlhhSGZUakVOQmRNT1p6U0ZSLVBnaVdRN2c4ZVY2ZThqQVdoeFh6YnRBdHN5NVdOcW05cTRqV3R1N20wWGU1aGlYdXV6aXlKVndlWXfSAe8BQVVfeXFMTjlibjh4TGJpV2FYRmZqQk90ak4wUDdOME1rdHh3Q0FIMmtJV0NCMXhqcUtGMDlJRXEyTkRkb3laSklJM0lvdm4xX0dxTHpFQ0V5WXRSRlpMTHM0c1VsYlk1eThJWmR2NWpWWGhmN1M3aW50YkgzZWdDdjUwclBwTGhTOU5iUVVwMF9iTHVHbGtKUGg2eEs1aDg1eUozekVhTU9ZMHdPSXNRaHdSdk8xbS1XdDhlc0p1MFhCZzBOZ2wyWnBUdkMzb2JjcEhpSnFreUxONTBEbHhTa3ZsWWZBbVJrbFZGbEhUMF9QQmxZZE0?oc=5",
           "date": "2026-07-13T07:00:00.000Z",
           "source": "Mid-Day"
-        },
-        {
-          "title": "Mumbai: Kandivali police bust cyber fraud racket, arrest two accused in Pune - Mid",
-          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQTzdkWkU1cmpiYUFZUEkzaVRPR2JWTHBfNHpGZ205VFk0R1p3V0Q4d3gyVUtSUmJGTlNtemVEem53SW80czJremZvYWJFNTFCMHk2cDFhWFRIWGx0bDZHLTVFcjFkamVJNXZBM2xRLXJHck9iSFlpY0Jyem1fQmJQUXVQd0duZm1CNmFFbUVaeW53R1RLeHlSa3ZZV1hrZzF6MTRHZ1IwNllTSC02aUM0a2dSMFZ6TUttSFVXT2ZfRlRsRkpaa3ltakR5QmEzVzdkVnRZaldkTFZIMklZUDJUMUNuWVc5SUdORkpfZmZWSUtNaVpNVGRzRTdXaDNrc3A3TVd1QdIBigJBVV95cUxOZlhkc0JWMEIyaHkySWpRaHBoWDUxQXJBUVAtV1VWS0VkZmdRZnZEQjlPMUx1Y1FHNVNFLTVGdXgwU09Oakp0NkNrZndaaXVFVS00ek12ZWNSREJ1bldqRUU5cnBBWjJkQWJDZkR0aVNha0F6TjV2Z3Q0X2UybGs2M3B6V294MGdZakRGbl9ZZW93dVlDdmFuM3p0d1YyeS1PQlc2NlVleDN0dFE2TzJFekNuQWtoX3BnQ3BlT2dTQVhVZ1ZiOF9rZWFoS1ppR0ZneGNCNG9xbFJHY285SHQyYXZzcHFNQUlMY3dCY1FYNENVRHRxQm1qak9ncDlTNEJ3V09LU1IxaDRPZw?oc=5",
-          "date": "2026-07-03T07:00:00.000Z",
-          "source": "Mid-Day"
-        },
-        {
-          "title": "Mumbai Police Arrest Teen For Temple Donation Box Theft",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSFBkcllfcUdpUGRoUGpXNEI4QkQ0SVRfS2pWYlhRaTN5R09Pa3Q0aUt1dHY1UnEtNWd1dnpnTzI3LVlJdmxXV25ORTVNWTAtWWhJYXk5dFhkaFB2VFpuQ01UaTdKQmcxdVI1dVBueHM2YnV1VWpwWkUtSEJDN2l3Yy1mcG5qVXpXNTdiMUVzQWY4dVR1akVYYURaMUg3RnpEbGgw0gGmAUFVX3lxTFA5M185U3o2RXEwTDhxZ3V3al9ZSlIydVhzZ20tZ2sxa3NKNUpYc1BCMTktUXBnOGtoaFlBX1dlbGFGMzRTclUzZFZsb3hTbWlMTnprZWtyQ21UYWV3aE4tZzEwS1hBRmFXSEdJUTI4Y0N0MExad1p0Wmp1LTRSYXNxYnRid1U1Q3VwekM3THdkVlRUcXNKT0wzSFFEMm5XSUJRaktqUlE?oc=5",
-          "date": "2026-06-04T07:00:00.000Z",
-          "source": "Rediff"
         }
       ]
     },
     "S": {
-      "cachedAt": "2026-07-26T06:38:56.256Z",
+      "cachedAt": "2026-08-23T04:39:54.635Z",
       "query": "\"Bhandup\" Mumbai (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
-          "title": "Mumbai ATM Cash-Trapping Scam Busted: Three Arrested in Bhandup",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1YNVJzQ0IwRkFYMU1pV3dtNW9BemNCYncyTXM1QTBCR2JYRmU5US1sTUVXMzU5ZkVCeXp6R1NKUjdERkpkcnhJTVI1MnFBYzNoYVlLdDd2MjFHSFVURXViQ3dLZmNaeFBtZlRWb0t6SDUzaDRGdU1ZVjNTcw?oc=5",
-          "date": "2026-07-20T04:36:41.000Z",
-          "source": "The420.in"
-        },
-        {
           "title": "Mumbai Police bust ATM 'cash-trapping' using plastic strip in Bhandup; three, including two women, held - Mid",
           "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNNENSbzg2TXdRWHppS2RycjlMLWVEN3haLUN0S3A3UXR1dnEwdGt0QjZuYmxZaFZWWDlBaW5sTEIzLW5kSnpRbzlPRnhHd05xZWZYaXlINVFBTXNpRlEwV0RqWHlaNWNKTUc1TnZjQTJRM2MtNTJUM2h4Zk1pVEJHVGtjdXlhTHo2VzRwcjZnMWVWbjFoOEFwUWpyMWJGSTZFdGpaWlFlWHJ4anQ2UzhNY1l6bmIzbUNTOXdiSkdvUGZJOE9weEpXTllEMTNtNHR2cXlzLU1zdklSQVdlM1ZzVk9KbWUzSUNzd01BQ215bnZVN2psVF9HZWgxWXVXaVN4ZXh6Q3VZTjZybFI2aEV5UFJR0gGXAkFVX3lxTFAyUjQ3ZFdkekxJWGZlMTViUWhPZGFLN2xXRjlMOUVEaUJLU1hkcmxwSWp1UkQ2cUlTcmpZRFpDSl9kXzFoWnkwWFRIdkQyeUI3bEstS0k4emdZcWJUa19VLU1CR2p1enE4a0xmYV8tMjYzTUNiUU5hY2RnVlFlLVkyUFNqc3Q5dWtrYVMwaDhnTEtReVJOLXBlcmtRbUdyeGd2djdLVEJWUl9GUU9KTV95Z3lpSkZNaldyTnhqQ0VTUmcyTXM0Y2REaDgwaldpNFJMQ2Q5amhIVHhMZURaZDVfUXpHemFuTGpiN3J1aVl3WVN2LWRRSE01VlV2NFFTQzM1S1VpdE5NNS01cDN2anc4cVVJeGNobw?oc=5",
-          "date": "2026-07-19T13:22:00.000Z",
+          "date": "2026-07-19T07:00:00.000Z",
           "source": "Mid-Day"
         },
         {
@@ -677,11 +677,17 @@
           "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPTUdYeGFaTFlnWFVIWS1lQ3g4Q1N4MXFqU1FRVGdJeVdFS3ktbndFak9XYmFjcDB3cGNGMmN5SDlwTnhkVFhmOFZOcnpGZzhicGlGOFI4cUNBOTNfdXhOblpqUDVjbGd3RG44OEVDNTlLNl9TNWhBaXdJZFdQb2Zlckw0MHRQeTZtSm1hY1NpQ2hvTzF3bThHd0huYkVDbnFoLWljbGhZSVdxVVktQXk4MmdFcjVUeml6RUo2emNsQUZKR1lxQmRLWVc2anp2ck1udjFqWUhlbWplVDNTVGw1VEk5ajU3LTNCdGVhMmE0dExKdTFkczZETmdDZ0lOblNhRHhGc3RibldUTW01THfSAZMCQVVfeXFMT0dQalVFTmlLVlVGejR5cUFIcU04a2QwR1dYOFU3dncxSjlEeVZvR3djX2IzMTRDNVRRdWg3RGxTTEZCemdiUVpCalVpb2ZPbU8ydlh6WmVoR0JWNkpUN042cFJwRi1YMlVET2ZiNHc2TWdCdGhhZ0ZUaGZHZElycmgwbGZkS1A0aFRPY09KZTRkU2g1anhzdmpsNXNBUUk3aGhnNXZVdDNQQ1ZEZkFvRFBLOUpsYk9YXzBES3k0eTN0SVNDcGRYOC1KeVlDSkhQZnJnRkNlNnhwS0dIcGpET2plVGlZOGVNakV6ZUkxb1RLbUtKdjVvaExneTU2LU4tS1dyVldfR3QtZEpnSkRSQlphN3c?oc=5",
           "date": "2026-06-13T07:00:00.000Z",
           "source": "The Times of India"
+        },
+        {
+          "title": "Mumbai Crime: Bhandup Police Register FIR Against Builders On Sessions Court Orders Over Alleged ₹24 Lakh",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNelk2bDdQWnk5UGoxSm5Zc2d4ZE4tVkVzeVdHOXl4Wkt2UGo4S3hIbTBoWGY5LUxUYXBxVEZEcGZWcU8xb2tidk4zUm9ycTJROExQd3VCeTZPNE4xczY1N0dKUnJJb1NnVGp3blNLM3FNSS1WTGtkTzAzZEY0MlR2Q3NDWktRdTBpM2lxODhGUzI0amY0UnVXNWc4MzNuRGhBejVrS2RTdlprd095eENHN1NpOVhwdjJjNW5XNDlfbDVacXptcFAtT0EzaklPdF9GM2t2MjluTDJaNWpFZnBoS1BfVTFaWnE0S1FZb9IB8gFBVV95cUxORzBwUWg0T1JSZzFvZm1BQy1TalRjYl9uS3ZsWkVXTUdUQ2d1MDdLQm9mYjBBUnNOY2tQbE1vMmtvbXlNNDVFUDVXblZCdXVqNGI3RnFnZkZLWHZYbDh5VWpDVXNQajVFcHFTV1RxX3htT1FmaUdtMXlnWmMzREdQRVR1UUxHd3kyc2l3RlBBMnlTU01yOGpKUUx5dUpmNU5ueXFvMkI0VmxpWGtTV1A5ZG5KOWg5aVNfbDFjM2J1eGxQX3ZvbDBXZkRVX2xPWGQtVXBCTWt2RlJ4N04tTVhzOXBCcnRHTHdTTy1fNGF5RTZ0dw?oc=5",
+          "date": "2026-05-12T07:00:00.000Z",
+          "source": "Free Press Journal"
         }
       ]
     },
     "T": {
-      "cachedAt": "2026-07-26T06:38:56.256Z",
+      "cachedAt": "2026-08-23T04:39:54.635Z",
       "query": "\"Mulund\" Mumbai (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -703,10 +709,10 @@
           "source": "Mid-Day"
         },
         {
-          "title": "Mumbai Man Stabbed To Death Over Suspected Affair",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQV3VMa1dFU2xCWE8tay1yZG1yVVdqUGZjMDhrYkRLUnNJdTdMcG5MUkFoeWNPSUVrRUhhaG12eTUtQ0FDdmpTd3l5OVB2RmI3TXg5ZjFtZVVvaHJDNHZSSDVFb2puOXpPX0lPdjc3UlVic3dkZDdqcGx1dUpZeFFRNkotRHpfU2kwaFBHdkdCSHE4RWNM0gGXAUFVX3lxTFBmOU5JdVN6MFpnb3RiVVowVk5XZHQxWkx3WnN6ZUZVNnU5cjE5bExjT2pZeWRXbURIc2ZuS2FfTlRFaHZ3SzBPRDQtam1YcTNNbXI2SGtwWUJPVFRmNnJjZW4yaTBTbmVPM0YwalF1QWhiX2xDbFMtbWlQSU1Vb0ctMDh0YTFJbzdlMk1KZHVDLWNoTEVGeXc?oc=5",
-          "date": "2026-05-03T07:00:00.000Z",
-          "source": "Rediff"
+          "title": "Mumbai Traffic Police Imposes Odd-Even Parking Rules In Mulund And Sakinaka Until August To Ease Congestion;",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZmVDdWh2ZXZEXzJtLUZSbmxucHRySUNBS05RUnVQVFNKNVR5S0JtY3BxdU1hWFRyZmJMb2o0OWE1dUhwNEtDeW9GREZzWm1oY3VXdDZ1UHlFYnJUbFNKaEdJbWFkTXNrV3EyMXJ1cGZ2WU9pSGxVb0d2MEY3SVdBQm43ZXJleDdVekZnQnpwM0MxbzM4dC1aeTNucDhfeVh0dzd2QTJjaEw5RXlZd3JuS0tRODd3ZzNLZmMzYjlBVlloUjNSMVhUX3BPQmgyYms0SmxyemtIXzQwczVWZHphRzhaN0hKaVhFOFFsYU5sVnpad9IB9wFBVV95cUxOa2c0eFFqTXYxRE4yLVdqSUxVbWNfTWU5UEhOcTg0TjYxdVBWZWk4NmpERUdtaHNTaGZqMkdmbTBNeDMxeWdZU3U0VnU4cHUydTBFWFhHQ1dlRmZsZ2UtVzFKeTd3b2VTek1ab2FBNDQ1WkllVEdCSWswTXcxbWVmTXBuWkI0WmVmRFEtUTRUeU9SOG4zc0I5S2REZ1dnc0k3VHNEWFRRVkp5aEJzeWo1c1NpT0NVZ2tXRl9xRTdWRkFiUEFYeU9SZHYtamZLM3RBRVBCQkNaRVhXczkydlFiTlVwOTFIUXJ4cXJqQTEyaTdTb256dE5j?oc=5",
+          "date": "2026-05-19T07:00:00.000Z",
+          "source": "Free Press Journal"
         }
       ]
     }

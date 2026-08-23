@@ -1,56 +1,56 @@
 {
   "source": "https://news.google.com/rss/search",
-  "scrapedAt": "2026-07-26T07:08:04.444Z",
+  "scrapedAt": "2026-08-23T05:11:22.864Z",
   "wards": {
     "1": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"KAZHAKUTTOM\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"KIZHAKKUMBHAGAM\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "3": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"CHANDAVILA\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"KATTAYIKONAM\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "5": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"NJANDOORKONAM\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "6": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"POWDIKONAM\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "7": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"CHENKOTTUKONAM\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "8": {
+      "cachedAt": "2026-08-23T05:09:38.747Z",
+      "query": "\"CHEMPAZHANTHY\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
-          "title": "Fire destroys three private school buses in Kerala capital; sabotage suspected",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSDBUbmhUQjdfbW9vT0pZUS0wUDFCaWNRSmlmV1NjTG40X0FQa2Zta0F0NS15cVFGbkVPWHhOMGk1OUplSlhCc0JqTGJuc0hOYVFoRGJqUEhQSXpfaHNVdEtTNXpKWndoVkdubUJvX3NHNVgybHdnZEJ0WXJfUjFSOFp1UzZQeHJSc3ZHZW1IenVJYS15cE9aUVNpVWNHb01OQUlCanh3b1JWZ3d5VW9OWWJaeFhITGQ3QzNWWDlrdzFRd1F6SmF6UXpjOVNKeEpYbFQtUkRzeGkxaknSAeIBQVVfeXFMTTFzVm5oeGhwaWdLemlQM3YtcXVKT0VXcjJZVGFDcWh5VWgtV1VHVzJXM1VCelk1R3M0aWE1R0VNRW1iX1NHaURRaTcyb0ZlNXhYNTRGTjdGUVgyenFJRDY2SHpybTJYMG9BNlVuVjRBWE1XNHpzY0o0Vy14aUVrS0xqQl9Ga010b2RPb2lMRlZwcWtudC1WU0RfajRweEhpbldNRkZoNUI0ZTFXaUZKMnVmMnYweHZ5dWZ3SkNhcTNaVEJhTDJLNDlWRVpFd3IyMTBRUEltY05FSEQwTm9VU18tUQ?oc=5",
-          "date": "2026-02-23T08:00:00.000Z",
-          "source": "The Hindu"
+          "title": "Shirts torn; woman councillors assaulted: TVM Corp council meeting turns into battleground | VIDEO",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWFllRlZqM1hHN1ZPeFd3NTJsdTZpejlwaWdiQXptV2tLZ1VFejVJMjVZOFZqM0hZSzNHVnc3Rko5M1lkYzdkLXFtZG1mWmxKNDlsalZ3OUd5UUUxVXlFZXdKbWpDNnVvWW1oS3JPTzBOT2owRWZoTHdfZ0xabElGR3N0bC1PZlM4UW1tZWpId2o5cU8tWTQwSVV1OXRaX09uU1hTeXpBTUlmbUNsUWoyQnpQbE83RF9IUUw2QjRUNkhDVElqWUh6UjhXaW41Vm9XZ3EyNktuemlBRzdZYnUwSNIB5gFBVV95cUxQUVpQWmQ1bTRHZFdXWmEyOHNTRWV1N0VWeVZBTW5yYnRvM2RIcDNzTTRqeXBQT0twMkcxbkdULVNfTE1zbHZ1LUwtWTdqd3V6NU1iTDdqSEQwaS1OczZUNFhzNGRSNTFUUFRRdjE4VGNOaHFSRThzS1ViNXVRY2dvNG5oaGwzcWxjaHFranBWNFhfZUJUeWtjcEpsMkdpNGNrTWgyRERKM01ub2FDNHNpeExOOGdONEdhNW9mZG9KZU9NTXZqMmYycm1Ga0Zsdngxdnc3Z0M4TnJEOUl0NlVzeHFZMTlYZw?oc=5",
+          "date": "2026-06-29T07:00:00.000Z",
+          "source": "Mathrubhumi English"
         }
       ]
     },
-    "8": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
-      "query": "\"CHEMPAZHANTHY\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
-      "items": []
-    },
     "9": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"KARYAVATTOM\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -66,12 +66,6 @@
           "source": "The Hindu"
         },
         {
-          "title": "Kerala Police Arrest Two Bangladeshi Women For Illegal Stay",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQjlNdnZpS3Vyd1FXMVNuZDNJMGg1eG50S1RlLTBUTWg2Y2N3LVZrdXRmeUdiZkVmaVQxeUt4bHZld2ZfX3dBWGdrcjh5R2E5TFRaUE5mRDVBT1JsdjNta2oxRFpDbVdRVWFfWWFwcGhHX1hrekFnZU15a2VpMkltaWxfeUI5RjMzLVZWbXkyb0I5N21mQUhxbmVNTmZJSHZtQXB2OG130gGoAUFVX3lxTFB0VWtLQld0cGdFZk1kU09Ubkh3bmNlMkNNbXo0SWJXTGFGQnEwOUVaWlQ2Y0NVTXIwUm93RWljR1Z4dGdQTG9WbDFhN0YyNk1YMnhCdHVpanN1YV9WSUZYYXpVeUJtYjNEcjh3SllFVG5FcjJxRndBUHN6TlBOQXJtTW1VbEF2RW5iQjNrZVBBRmwyVFEwTGRJRFRQWWVxakxlbmdtcFRWNw?oc=5",
-          "date": "2026-04-30T07:00:00.000Z",
-          "source": "Rediff"
-        },
-        {
           "title": "Kerala Police Bust Sex Racket In Thiruvananthapuram, Two Bangladeshi Women Arrested For Illegal Stay",
           "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNjJuY1NpRndrY0N0ZFR4dHk2V3VkQVhndjJ4N3hrME13TVA1THp4ckI3UjFxUTBPWktsQ0JvR0FNbGpEeGhya1p2S3J0OFZoNVBKY1pHWFRienpJOTFfaC1jVzRjeWVfYlc5empRWWRXQy12OXFJU0tleW1KR3BZcTZUZDhkNU1yYzZBVVE5Ym8yYk1wd0kxMTd6N1cwT0RTVldCUlhWa2FnYVBpeUF2UVVJeEVRamxMV0ljU1NtSU9Sd2kzYjgtZk85MXlHbzhsMm9Ia0pCQ1dzaFc4RlRhNUZmbHPSAeoBQVVfeXFMT1FmUDdwQWx1WU1pekJlWFRKX0FXd2tYYmlrRmpJeFJlb09XaGo2WU5zMTFYMks4QWxMLXRFb0d5MFAzSlN5LTFrTHNhbjRmVzFjTmVKSS1uQVF6TmUwUk5NcG9OYllabkxDUk9yOXQydzJyWTVfb0Nyam9OWnJvWU9MLVZUSy1yMUZfaWVKTlIzbGpicVQ2X2xkTFdlb2dobGJyZkhmNTB2ODBuNUNqekFtbzdHa1FiMVpLVEFYdUFpN0dyNWNiTkhkUEYwUGt5d0twN1o1TkZacTRRa3UxckdnXzRvX2h1SmF3?oc=5",
           "date": "2026-04-30T07:00:00.000Z",
@@ -80,22 +74,22 @@
       ]
     },
     "10": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"SREEKARIYAM\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "11": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"KARIYAM\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "12": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"CHELLAMANGALAM\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "13": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"MANNANTHALA\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -125,20 +119,14 @@
       ]
     },
     "14": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"PATHIRAPALLY\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "15": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"RAMAPURAM\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
-        {
-          "title": "Attack on ED officials: Kerala police tighten screws on CPM workers, 19 held",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSFVOZFp5bUhTbHhET2xtVjBic1RZU3hiQ0tlNkFjTWlYSnFqV0RMV21fbFc2bUE5VlVQMDJsZ0hrblFIVmFIOFR3SURycTljMHRLUzZCb1lLMlJOVy1CaUJDZmFWZXYteDRzLWNvMEExdUs1aHdiNDg4cHFlbU1oRTFTX1MtVDNlT3VKRDdaVjdSSWNxNWR5SHhUeG9rbWtMc0JmV01ONDhhbm5vODNHSWZTU2xrdjJ4d21EVkJwa01UeG1YUDZZNDNwUldSZ9IB2wFBVV95cUxPenlJZjdQd3BRay1DTmU4N2VfYlNfYXU0dndqNWJqa1hvN3NxMnRnMjVtVnpidGkxQjg4MjB0eV9WZnRXVE0wVGx3amsxVmZYZ0stdjJPdEk5UHdpaUR5aW5GZUxacUx4LVV5YzNOOWdWbXVDVnlra18tMkkzbzFPYlpIWFJheTlBVHVKQnVscEE3RURTWHl4LUJyanNCcXM1NVFJQkNWbFRPaUVaM3BCenI2OU9md2NpMEtzSDZ2dVVjNG9FOVNLdUI1Y1M3ZlVmQkNaN2RBZmU5bk0?oc=5",
-          "date": "2026-05-30T07:00:00.000Z",
-          "source": "The New Indian Express"
-        },
         {
           "title": "Attack on ED officials: CPM local secretary IP Binu among 11 in custody, 8 arrested",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMWlvQVlqYWVKS2Z2SC1WUTZDVV9BUTUwUU53ZlZWSDEyVWg1S2RXa0FpdUNSM18tb1BqcGtqNUM2akhRc2hkY3liQ3EyUlVXXzdrZkRFNms3QjlWbDA3a3lOVm9UdWQ2R3FlSk1fcmM3SmRRMUtyUElSWjZkN1NxLTN0TWF5YUFhZ2NwSWM2azNCTDhaZkV0c1RPREtSTVhOVXk5VzZocmlCWjBpNEF0ZHJxckRadWxva1I2TTRDbFBuZ2RTVlpj0gHHAUFVX3lxTE8xaW9BWWphZUpLZnZILVZRNkNVX0FRNTBRTndmVlZIMTJVaDVLZFdrQWl1Q1IzXy1vUGpwa2o1QzZqSFFzaGRjeWJDcTJSVVdfN2tmREU2azdCOVZsMDdreU5Wb1R1ZDZHcWVKTV9yYzdKZFExS3JQSVJaNmQ3U3EtM3RNYXlhQWFnY3BJYzZrM0JMOFpmRXRzVE9ES1JNWE5VeTlXNmhyaUJaMGk0QXRkcnFyRFp1bG9rUjZNNENsUG5nZFNWWmM?oc=5",
@@ -148,17 +136,17 @@
       ]
     },
     "16": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"KUDAPPANAKUNNU\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "17": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"THURUTHUMMMOOLA\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "18": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"NETTAYAM\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -177,7 +165,7 @@
           "title": "Keralam: Police raid at Edappazhani Kumararamam Balasubramania Swami Temple triggers political row",
           "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZjUzMHpKQlJPTm8tby1RY1Jjb2psd2JaZVRaUXo4d0tOZ3RjU2FqZjBzVnUwX0JCQkl1UzJ0Vk9mY1NHWnJ0REo1YUl3cXZ3dFFWbnJHN05mZHZBWVBiOEpja0xRWTFSbmdzSDlFOUNMUTlDVHFnNWNmMS1rWjJfQ1pQRmYycGNFZFlUeWtjdEpuU1FsMkF5REp6eWpqQy0zTUpDT25yMHQ2YTVzQ2dNcjI1VnhsZEYwSFJSUWhIdTlUQlJFX3d0SkpBVDVqZDhfLW9TbnI2clN5NVpRN0HSAeMBQVVfeXFMT2swSXJiWGh2NlJMY1RsaHcwNi0tTElJQmJZbkNmWWZ1bUszY1k1VzFkRlJJM1JWb040VkVSay02eUlFajJGQm53S2dIa0FudGYwUkl2Sm1tTXJaWU50OFQtYnl5b0s5ejNTZ3Y0NTN6RlI2VUxadC1TdWlyUldEdG5OZy1LeTRMOFN5QVQ0ZEFCYUNKdnBSYWNEb3RYZTVZTmVEeTdDVjlYWVJZT0dBbEVXTWZWb3ZnZGk1MVRLc0tHem9sNk5zVlBtdTQyNy1wZk01NDV0VXpvQ3Q4NlZYVW45OUU?oc=5",
           "date": "2026-04-21T07:00:00.000Z",
-          "source": "organiser.org"
+          "source": "Organiser"
         },
         {
           "title": "Nettayam clash: BJP demands action against police officers",
@@ -188,12 +176,12 @@
       ]
     },
     "19": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"KACHANI\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "20": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"VAZHOTTUKONAM\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -215,22 +203,28 @@
           "source": "The Times of India"
         },
         {
-          "title": "Police fire in air, arrest BJP councillor amid late-night standoff",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQekJnNDk5WDBwdXdXMldnci0xbjBKc0VwbTMwVUtnQ2hJTlp3ZWRuZkktNVN0STk3N0lQc1Y5Z1NmcDFhZml4djluc3NYTnlfdW41RVFQVEktVDRzeWNfWUxjbUNmMWl1UDk2d3JJNXVTVTlWay1PN3VBb0tMYTZ6cDM5U0JDUk1xVWViWDVpcXdiVTIyZGx1bUNuNWZUcE1ScWfSAacBQVVfeXFMTTVVTkRmUlh6TW5USzA1M2ZRemM0TDZEclVITk5mZmFpQmxvanc5bTM3MEI4c1Z6Y3lnN1dpV1VQeFIySjUwYzdPRXpSQy1VNUhTemFnSmdLNnlOVjRTUlVBb1JzTU5fYkJaSVpyM3J4U3lPOTFFdERQU09nZlRFdTZaS1ZtZnE2QnZmdkxxMEtUb2J3WUx0Q1FkMVl1ZFE0RThacEdCNkk?oc=5",
+          "title": "Thiruvananthapuram Corporation BJP councillor arrested in attempt to murder case; police fire in air amid protest",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSy12a0xxSWVKSzdLN0FiaUxvQm5PbUVKYVBkeF84aXdHM0t6c1NMeFd6ZVRwTWN3MVIxZmtnQXhiejgzUWhBYVY0bVJYNlRzUFVKelRrQ2hwN0NjM3FUVkZyMmw5YU9JZlNPaVVFcUk1RkZKbUt4Z1IxWDdRSVgyam5lRE5qZ0hicjVUNXlrUXhrdGdFdk1wUzROOTdYdFBkb2hTWnBITG1mcnFOZi14R0ZvR3U3cVBnb205VVZpZnhhS0MwV0JObHVpSTJRZjc5WVZybE80RS0xSHNpV3pN?oc=5",
           "date": "2026-06-10T07:00:00.000Z",
-          "source": "ThePrint"
+          "source": "The South First"
         }
       ]
     },
     "21": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"KODUGANOOR\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "22": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"VATTIYOORKAVU\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "AI-generated video targeting women; Men’s Association president Vattiyoorkavu Ajith arrested",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdDhMUm9fOGhEZkp3TkJTNC1ZQlg3eFhDQ2hHWEdJSkdwSGo5SHJLaF81SmVQYTFtRU85b0dLMVo1eDZJczkxMTMzNUpQdFJMRC1ySXBYd2xiZUJKdWxPSDVBdkVydlVLYkd4Z1o2Ym1xUkpkLWNsNndBN3pxeUE2LXo1TmFPR0g1Qkh5LXR0MDFBSUpaWFo5OXhvU2wwNC0yZ2VZMFI3RzlrVEpVMkJwZUZ0THRSQ00z?oc=5",
+          "date": "2026-08-17T18:32:10.000Z",
+          "source": "Kerala Kaumudi"
+        },
         {
           "title": "Police defend firing during BJP councillor’s arrest",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMWI2QUtobHhXWXltOGN1QmJ3V0oxY1AtcjE3TUZVUzVRLS1WNHY1TnpmR0FSLXZGSEpJcGNnM0JLVDRpbHdncHY4Y2h1RFkxOWlCZm5lenNaS1FRZmJiZkxJY1Jub0R1QmhCUjVTLUszUHRMaVZwc3RCRGhtYWdsTnRsdGV4R3JNYXpNUzdnMnpycWE3bkJwbWh6V0o5dEI4aGFWZmtJU3pJQTFxMkdodU9mYWt1LXRTeVBDdnZTSDFSeGJxM245ODJ5OUJySWo2VGfSAdcBQVVfeXFMT3ZfeVV1bVZaVFBhbHFvMUg0QlI5V25kUUl0bktGcEdmYldYNFFvd0NJUk5hYUtka21uYVQxTm40bUdUQ1R4OEgzQ05rWEcwbkJOeVhNTnRib2RlQjVoVXVoRjdWbndkLWxLbGk4TjdVWHVYSy1EMWJ3UEZJaUczRWYwa3gyUEVWdXZIQmY5cXRybXhrYjhkaXZfLTVfbUMwMzJvUGcwd3V3SnBzUV83Yl9heTNHand5XzZ4bkxGUGhobl9STVFYa2dEUjJOSVI2SmJhUjg1MDA?oc=5",
@@ -244,12 +238,6 @@
           "source": "The South First"
         },
         {
-          "title": "Kerala BJP Councillor Sugathan Arrested For 'Attack' On CPI(M) Workers",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMndWVFRiM2lZNV96MWM1a2hmWHc0Tk5TQmhFMk1rMWNGQ0dKbGExcDZyS3JFRlBTc09hVGwxRlVvM05SOXFxUE8tSkJYMi1BLVl5cmVzcXVfUHliOVZsaTdGUDExTUJ0TDg4ZkdIRkdaZ3BlYTE1eE9kUVVyYmdheXYtcWg1QS1tWVJ3dnN2aUhiR181VXpkYThKUThGekZ3cVczUVo0aXZUTHdGVk5Fa0dfLTc2X2U30gG-AUFVX3lxTE04Y2VoX3V0NlBHZ3BpdTFBdXVXWmpBSUhzaUpuY2VMM21uNWNDMVBQdEZqODduYWx5X0RtNTBWd19iQVB1Q3QxOGdoU0Y0MDZjREoyWF9Hd1pISWNSOE1leUJZdm9JNHlQbHJoWE52ZWdoRk5YX19hZTNwZEhBZ1pXczF6eHE2ZVF4UFBtYU4zTnVFaW5RVkxtalA4MVFLTXJEQVBGcDlSRkNfak9lY0JCZW00clkyLThLd3dIWnc?oc=5",
-          "date": "2026-06-10T07:00:00.000Z",
-          "source": "ETV Bharat"
-        },
-        {
           "title": "Police Fire In Air During BJP Councillor's Arrest",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVW0zN3ZVajE4WXBXbXU2eTFtcV9WLXk1WlEzUUVpeFRTeVg4c3Y3ek9IYTMxSHN3YnJoSkE2OXRYU3YwN0hlLWt4eGlnWDVmZ0VMb1pFUmtnTWdueGpxcXREUlBEQXFyMkU2YzNUd2VyNF81RlN0S1FrVG5JRzBvZjBpN0t6NjlBQTNRVjMyTllPNWJZQnFCQ21PaldiN1dVTzVKedIBpwFBVV95cUxQY0wxODdYZUY5TEx0WWRoNGkxenFXWldvRUtSMl85UmUyLTVmdGFmdlAtM3hyZ2Z1a2xMLTQ4Nkx3MS10VGVZdFREUGFCbWlQVXdRWEVqZ2NqN3NzR1FUbTZ2OFF4d1FiVjNWWF9xSEdaTTUzbHFLdWp6a0luaHZBRVM2b1NIeVlPM3d3NnFSNkotcnprdUJ5ZTFKVlZzWFdGOUJyeXFZcw?oc=5",
           "date": "2026-06-10T07:00:00.000Z",
@@ -258,24 +246,17 @@
       ]
     },
     "23": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"KANJIRAMPARA\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "24": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"PEROORKADA\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
-      "items": [
-        {
-          "title": "Kerala Crime Branch questions Palakkad MLA Rahul Mamkootathil in rape case",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTWt1Zk82OFlsMUwwSllxOXY2bmFhSWJVOWdPNElDaURFekc4ZFdsb0JtTVdYQmVaWFpoX3Y5RkVkeDRpTExoNnF4OVB5VHBiUFZwTFZPYk5rUlNqdFRwLVM1MVE5ZEhnXzVORlRFLTU3enhZaldIZExlbEg1M2dneWozcmRVd05rY2p1UmFjWnU1cy1ZckRSX0N2ZHV0ajBQeW1IdF80b1dtRjBFMF9fX0tJUkhfUGxrUy1Qamp0RnZqOWxGRzVPNjREdDVfUdIB1AFBVV95cUxNWUFRRXdZVzdXOTMzMGJ6OWlDN1dSM0xJZ0hodVV5Vkcxb1NSODhfUkVjc3pZQThUWElLbGFld2RzQUxfRUljMWdfV3hoUFZTN3lQZWhlT3h3Zkw5QWFGcU0zZzNGRVBQaVR4ekhhUnh4Uko0cWt2UlVyZmo5RVpsd1ZFMW9BZmNCZ1RuczNSME1INmRjOF9UaVpfMDRhaFRqUjU0SV9MRU5uSU5fcmRSbzdpSkRLNTNoZ3lab2NHSVNKeGRtUDVPQmFWYmt5N2lwdEFibQ?oc=5",
-          "date": "2026-02-16T08:00:00.000Z",
-          "source": "The Hindu"
-        }
-      ]
+      "items": []
     },
     "25": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"KOWDIAR\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -285,47 +266,47 @@
           "source": "The New Indian Express"
         },
         {
+          "title": "Kowdiar Palace theft: 25 questioned, but no breakthrough in probe",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNOVNxakstenF1R1lGeVlaVFZEOUc0VjMxTmJ2ZXNoQzFLMVNFR1hlMmNTMXotWXN5RlNEdXlJc25SUElXeFVNZkdtRDVCbllUQ05fYTY0ZXJEUVFVdGJjMHNpZ1lseGZyampCSjI1MHJCa01PQlBlSDFuZDlGMk9XVzBrUFhHclotWklOZElCcmk2YmM3NjlyN0JQRmFydjZ5VURVbF9tQVVmUVlOS09VT3pSV0sxUlQyR2p3M0YwU0xJTlI2clNDeHdUcEs5OXRURVdzaWpob2Rtb01jNWRGdm9QWdIB6AFBVV95cUxPdjJpcEx4TUJsSHFPMGtMUS1Mb1FYRi1sOTZxdG9yTElvV3JJaFFIZVN0WlNXQl8zdzQyTThqTm9GS24tRmpnTHRyMUNTalBSR2lXWUdOWkpSS3h6eTRFLXdxQVpqcFJnRnlqLXZpdExTdjdxWE9wSWhmbUJDdjUxdjJFNG5zajVMTHZxTVdCTGEyQ0NjdlpiSjliNmdaVzZYTWhORE9RVm1MYjNyTUJNWFBZclJ6WlBKLTdCWkJBZFg2NHRYWjNkdEhSTExkdm05am03UVdOaVR3bjFGRVQwTDQ3X0d0ZUlf?oc=5",
+          "date": "2026-03-28T07:00:00.000Z",
+          "source": "The Times of India"
+        },
+        {
           "title": "Kowdiar Palace theft: Crime Branch likely to take over probe",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaEFrWHpGVnBNTUlXbGVFMS1ZeDIyQTVGaGpDaEtkcUVabjNRTTdKV2ZzODgwdEp0VEh6LW5GMW1ubHBhR1huUjlHMkJmRmdBVWY2d1VTalNJZlk1MC1ha0NMMmxFak5RYmRxRW82WDRHNm5uVjNJZUc0akRJZ044bFVocTY5UmxpZUdZWFp5MnFMZ1o1cTVSYm1VaElkb2QzWXNDazBQeTYtSTBUTEVWUzM4SGJNcnBxby1LcjZEZHEzaGtDc01mTFhR0gHXAUFVX3lxTE5oTXF1RjhHTkpFNnRmdUc1MkZoaEpkWTRyNG9BUWJlaW5wRWNrSjVsUUh1SG9wYzZuUnpaRnpESkZUZVgzbUJkRXg5TEFNWS1qcjlwLXlqd2kxSThnY2VvMEpkM2VkZFROWXdqbEowLUtQWWJkVXhOVlVHak11MWtNcEtsUHFyUjE3TkdJamh6WnJzMDdWWTlBVmZLUzBTdTl6RDRoTFM4MEJPMDNEWUdaMjJaT1pJLUxBbWJfTjRKblUtQjF5OTcxQ0syRjJYbEttbEI2dmZj?oc=5",
           "date": "2026-03-17T07:00:00.000Z",
           "source": "The New Indian Express"
         },
         {
-          "title": "Police intensify probe into gold theft at Kowdiar Palace",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVGdLcGpYN2oxTmhwVlBYclZ2U2hUYzNIM2NOcllNdGRsNkxDSUhXMVliWVdYczI5aFVnaFBpRW8zaHFvMlFnYUtOUndWQ1VpMlBjRWdhd2E0OEQxdWxwYWNnQjJRZDFBUzh6YV9DU0N3ejNpelVMLWZpNEd5XzBmVFlFcTUtNFZfQ3NRdlFLT1QtNU5NNGdJQmVfcFVTbGtCeUIzeU5wY1VHUW5RemFURzhGdXNBOW15bUNKeTdYcmdZc3J4UnVWcHdYWFpacUFkN2NTMlcyeEhwUdIB3wFBVV95cUxPOW1pRjgyMHNvZDFTa2stWFdRb0Y1UDl5NWpESHgxalFraUVIRmRFNmozYkxBenZtUWxId1Z4MjNhNFlCdFlHZFg3WVhzY180TXdubFFINldBY0o1RlllYWliQU9HZWlZTEVsd3NqbF9BZHJKSURfTUZMN0FNeTRDZHBwUWxURGx3SE1qUERDZ1dEV2w4d1QxZ0pUSkJJTi0zOWk0TWxnOWVqQ2hNa0tHVVE5aGg2MDVrZTZMTXY3RXhIaGpPRTItMmZJOVA0LW54NFZjMjdKS3M2eXpyMzFZ?oc=5",
+          "title": "Theft at Kerala’s Kowdiar Palace: Royal family thought jewellery would be found within palace, say police",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdWdhcVpSMUh3bE90cXV4aGRwbXZiYzIyUTZiUGtQVG5ubzZIMkxuVW1xN045QWNrWk5SZUpXX3BEN2FaRURoWjk1R1dKazNmMnV4V0dERzlzMXlkNUxPUk43TXZZM1hCLUFvRGx5RkxBZzMyUG1xUV84MjdhT0dhU0NXdmVfQmgxZWdoUGluaTJNUzFjeGVRTXRwWERqWlJmOF84dFgxVXA4aGsyOGRXNDhkRHdjUTNuS2NyckJab0RkREM2V1R3RG13aEV4N1ZsWHlMQlQ3TEMxOUhHcFc4emV1dy00bjDSAe4BQVVfeXFMTjMwYTNfNzBSenVIY01Iem1LRGgzZFB2ZE1kUGxxOW03U016Qy1YdjgyWGE4SFRWTGVVOVJ4TktTQnBmVE91a2Nvek1HX2hXeURnTHJMQTk1SC1yWk9MRDNkdS1GZm9hRDktenFXY0hob3BLVUVqNW5CY1J4a1d1cXVuUzFlSXRHdlZvNGxVVm03bXZ3UGhRdHFTNkFxRVdKSE90clFhUWIxSS1CX1E3SldqUlJsOHhxVXpadHlucHdvSGFUdG13eUJnUFAzQnNBcHRwVzc1Wkxvd29wcXpRaENBYlB4aEVzMjF0MzJmQQ?oc=5",
           "date": "2026-03-17T07:00:00.000Z",
-          "source": "The Times of India"
-        },
-        {
-          "title": "What was stolen from Kowdiar Palace? Inside the ₹2 crore royal jewellery theft list",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQb1BPTGlkZHZSNl9nZ1VHTE9mVHh6YlduMVpMdkxBLTI0U1JxQ2RpazVUYkdGSTAxVW12TUNqQWthNU5ZYzY3U3FRNTNjVUhhVmlJTDM1TTRicDh0MFdlVG5GcGYyMG1ZbzhlNENDdjBSMURNYkJTMU5LVUM4SkYyRlRncW5STFNYVGEySXZNcUJPZm51S1ZUaUhUaGZ3MEVrYmU3NklKU1NmY0RYUXhNUFhGVjR2aUF2SHFR0gHAAUFVX3lxTFBwbnYzdjZwV0JhZTl4bXdqemdlSUNmdm9tVkwxYjFOYUVYMDZBR1JoNDVLYjRJMGNyMWt3UFZaYkZiaGRJaFl1dWFieGw3bkpuX1lKLVlCNi1CTk5Ub3gtMzdVdDY3M1d4dE9tcVhCZ3pXVGhrU0I3RDBMdm0wVENqVGFVWjhXM3RXbFdtT19iejBkeHAwYlV3UzV5QTFIdGlBODhGOG4ycjVUTHdFQW1TVjVES1prZnRSWFk3X01vQQ?oc=5",
-          "date": "2026-03-15T07:00:00.000Z",
-          "source": "Mathrubhumi English"
+          "source": "The Indian Express"
         }
       ]
     },
     "26": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"KURAVANKONAM\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "27": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"MUTTADA\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "28": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"CHETTIVILAKAM\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "29": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"KINAVOOR\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "30": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"NALANCHIRA\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -355,14 +336,20 @@
       ]
     },
     "31": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"EDAVACODE\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "32": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"ULLOOR\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Kerala police intensify probe into loan app racket targeting American citizens; hunt on for kingpin",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQVkpuN3hkV1ZxbXhhUDg0WDlGaDNkbmswcHdqTFlmSm03c1pKS3diZGpSc3lQNmlteHpScVJhY29ua0VGanRUc202dkdGZVVNeVBLRDNHT1JueS1aeEtCdVBPWmxEVFFvUGRzSjBWa1BQWE54VnNIaWNIWEEwVEc0bTZXc3I0cFB3X3BDRnQwX2dVMHRHRFVHVUk4bTdQbDFQdDhqdWFjQ2p0dDNudGFpdTlCM3dwX2NvbWozeUpjRV9tckU2djZmb0RPOFpoMU9hcEE0WTU0SHZ1YXlHSy1YSjZvY0h2RGU3Sk9seFR2X0p5ZHY2SGZZ0gH-AUFVX3lxTFBqMWlFd2syRXltQVUxNkRyWHB0aDBVLXRqczNwTEF4VkxxWFdyV1R0MWFaZmtjQTBwSmdZMjkwSG9QRmZXLXF1dGZEWUoyemNWLWxYamxKYWl3YUJvdnlaSVZBUXFVckxTdlhMVzhTS0dGWHJuWTZ6cS1idGxscVNjWk5UeGZxZmJoYXRRdlR4QXg2bWE3dlpVNmVIWDNGckV1bFkwQWs0WERrUU8wSDdUY1JkaTB2TDZnN3IyRV9yM2ZnaVdsRnMxTUkza1hGOGhzNFh1Z2pac1VtQkNiVEdzRVgtUmVrYXJzN2NhRENWZ3V4QjdlNUFCUElsQi1R?oc=5",
+          "date": "2026-07-28T07:00:00.000Z",
+          "source": "The Hindu"
+        },
         {
           "title": "Kerala’s first private medical museum opens in Thiruvananthapuram",
           "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNGUweHAtT3UtR3dCc0Q4a0FDM3ZKWVYtRm5NdWFRMEtiZG9UdUJMUlRDR0oyZmFLNldpUmNmaFUxdk4xQWtxekg3QThNNUx4U2dJc2V4V1hoTlNLSnVoeW5VZ0ZCcGFqWGVGMHY5RVllVW4tLUthdDNoaVpKTDFmNUVSUmVTQ1pucHFVRm5ZQzFPTzltUDVwa3RHZWcxekRhWnR6NEZMcnlVbGIxLUNYQTdyRnBfdjNVTElXSkFKZk0xY202OXExR3ZZdXNsVUF6TURTTTNjWS1McTNMUVJ3bWxEZljSAeoBQVVfeXFMT3J0TVZIMUZuZDIyeWd0UWJmWk9WTVpkZWkzbHY0bURHZE9IcXRiZHhLejdUY0tjTktHVkxwR3ZBZHJlckhXc1ZNTllLYlhRX0hJUGV2ZmpFRjlnZ1BKMDVLWkNtQTliTDUzUkgyYTZVMEdIck5zTkVCcExoU1FpM3dmcXAyb0NBTW1nZW1GZjRsaDlzYTFlWWE3SWNvcTA2cTM1RnRtNVVRVFdGVF9wNHNuaWpXQVNUTUE4NlBfeklsNEh3TXdwNnBRcU1ZYm15ZmNjSk4zcGtUdUFCT28xTkNPRFAyWVE0RWtB?oc=5",
@@ -372,77 +359,71 @@
       ]
     },
     "33": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"MEDICAL COLLEGE\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
-          "title": "Two more FIRs filed against MBBS student in TVM Medical College morphed images case; accused re-arrested",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOV2N6SzVLNkl6SF9pLVVkS2swYU0xYlpUQmcwNzg2aDNhVWxMaFpXU1J0dThhTzNUT3hJbC04UDFvWWZWdndfOUxlM05nd2RNbXZ4VFR5ckNFamw4OURIemRqQVJzNEg4UDVDMy1nWnhqVmxEWi1DZzZGX1RzdGJoNzVMQk51ZEkyU2dlbC1oSV9oYkpXNllxd0RoREVxRXpzdHo0SldCYlRaeVc4QVBkYXpoWElnUGNEWEFfYnNWTnJuTEZnNUd3WmJSYzBwMHNEZlo00gHTAUFVX3lxTE5XY3pLNUs2SXpIX2ktVWRLazBhTTFiWlRCZzA3ODZoM2FVbExoWldTUnR1OGFPM1RPeElsLThQMW9ZZlZ2d185TGUzTmd3ZE1tdnhUVHlyQ0VqbDg5REh6ZGpBUnM0SDhQNUMzLWdaeGpWbERaLUNnNkZfVHN0Ymg3NUxCTnVkSTJTZ2VsLWhJX2hiSlc2WXF3RGhERXFFenN0ejRKV0JiVFp5VzhBUGRhemhYSWdQY0RYQV9ic1ZOcm5MRmc1R3daYlJjMHAwc0RmWjQ?oc=5",
-          "date": "2026-07-23T17:11:32.000Z",
-          "source": "Onmanorama"
-        },
-        {
           "title": "MBBS student arrested for circulating morphed images of classmates; medical students protest police respo",
           "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNY1NXX2VKLXN4RUlZallzbmZhUG5SWVN6TnBrUFFxd0tMVGd3cndMUk5SRV81aE80dnN6cEYxeTd4cHVZdUxPRkRWYWJHcHNENml4REdCTEZqZ1VLYVBCQVhCalAtbE55OXltQVNHZEd0aE5kTmRLVUJzSkFFWlh2S2dHV05DbWY0RUJ6dTViWmZOMjJUYmdodGZTNTF0TWJsVEZGb3VxSUZzek50XzE1MGgtNUdGeHk1bUJ4UF9SSlZoUFhuX3N3eXFDRmtHZ0VrR3FIaFVzTDM3d0owaDZJeEV5Qjd6dFE1MTNBOTdwU2QtYlJKZ3dnblU2dkZlZnRKMFNqd3czbDFQRG52SGpjaDBDVFVPUlI2X21zQ2Rn0gGjAkFVX3lxTE9MRk5Bd3NsajJTQnhzTV9uOVZpbzFVUlpjWnVWSnJSSndXajNEMzhKc2RFVDRBVVVUZzZtNmdtTDJUQ0RHdF95MXBxa2FrSFI1WkdrTl83UG9zd2R3cm9ZbWhPUFlldkxsYkRqSG9fWlE1bVpFMFlHXzYyQVNKM0U4cmRDRTJSeEY3bkU1UmNYR1h6MWxXNmJJM05hX2ltZHhITEY2WVRNY0Y3MGF2aDVnTGFmNVJPaTlWeDdtdDdjd0ZKbHJuREdPQlpYRGVDNlVQR1hBb0QtVkNSZDk4MnlSZTNHU0VCSEtPNWptYVY1enprSXNTV2RBV2c4YXkxTkVBMUpMSFQ0SkFqcm9jWGd3ZnJWM0xUalVkWGRTZGI3c1NBOA?oc=5",
-          "date": "2026-07-22T18:56:00.000Z",
+          "date": "2026-07-23T07:00:00.000Z",
           "source": "The Times of India"
+        },
+        {
+          "title": "Morphing in Thiruvananthapuram MCH: Accused re-arrested, took girls photos from Instagram",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQLUNHLWpwbDBnY2E0Y1V0dS1lbTR3TngtaXRqcEtBM1lIazYzX2pCdDlrR0V5RnVSWUxDZXZuc3Z4am5JalItU2FmeWI1TExtNDlUWkNyTHVVV2YxcXZURWlVRGF4cU5QNzZSOVlxempOc21WU0Z1Um1XTWxidFQzMUd0Mk1aODNmZmFKd0JrVFllamFIVmpvMmtMZ1J1NzlKa1BLeU14SWl0MFNmeW16X0t2T0NSOTdxVG9lQ25hZ053ekFGdDdLQU16NTlMZ2Z3NlZuSUFR?oc=5",
+          "date": "2026-07-23T07:00:00.000Z",
+          "source": "Kerala Kaumudi"
+        },
+        {
+          "title": "Two more FIRs filed against MBBS student in TVM Medical College morphed images case; accused re-arrested",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOV2N6SzVLNkl6SF9pLVVkS2swYU0xYlpUQmcwNzg2aDNhVWxMaFpXU1J0dThhTzNUT3hJbC04UDFvWWZWdndfOUxlM05nd2RNbXZ4VFR5ckNFamw4OURIemRqQVJzNEg4UDVDMy1nWnhqVmxEWi1DZzZGX1RzdGJoNzVMQk51ZEkyU2dlbC1oSV9oYkpXNllxd0RoREVxRXpzdHo0SldCYlRaeVc4QVBkYXpoWElnUGNEWEFfYnNWTnJuTEZnNUd3WmJSYzBwMHNEZlo00gHTAUFVX3lxTE5XY3pLNUs2SXpIX2ktVWRLazBhTTFiWlRCZzA3ODZoM2FVbExoWldTUnR1OGFPM1RPeElsLThQMW9ZZlZ2d185TGUzTmd3ZE1tdnhUVHlyQ0VqbDg5REh6ZGpBUnM0SDhQNUMzLWdaeGpWbERaLUNnNkZfVHN0Ymg3NUxCTnVkSTJTZ2VsLWhJX2hiSlc2WXF3RGhERXFFenN0ejRKV0JiVFp5VzhBUGRhemhYSWdQY0RYQV9ic1ZOcm5MRmc1R3daYlJjMHAwc0RmWjQ?oc=5",
+          "date": "2026-07-23T07:00:00.000Z",
+          "source": "Onmanorama"
         },
         {
           "title": "Medical college student arrested for circulating morphed obscene images of classmate, later released on bail",
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSFBCT2wybkUwUzU4anlNcHBzRHZfZmFqNWdSY21fREh5NDVhV2ZnX0lGN0VBbWJsSjlqcm0ySVdDNTdoQXpsUlZIMWtKRHo2LUgxMHRDWUJHbkN0WXkzN1J0TzBVMmVzN3F1NnZQMEJYb0VKRG42a0F2RlNiNDVyRzRqY2hTNWljeENXdnRoYjJUU0FXTENINkpLOVJIY0JfTkx4Y193T29sNTl2ZVFRMV9iNDhaN1dGZG1fSTk0Y3RPdVpDd0ZjU05xLUhwQUk?oc=5",
-          "date": "2026-07-22T18:24:22.000Z",
+          "date": "2026-07-22T07:00:00.000Z",
           "source": "Kerala Kaumudi"
-        },
-        {
-          "title": "SP Shoukathali to head 6-member SIT formed to probe Nava Kerala Sadas assault",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQW1oQTBiaDY3MHpBRk8zWEVrelNLVW1mQ2pYWTJxRDJSN2pLLXVYX3FFREZhT1Z1RmFSc3ZBajRKRzJDeExRbFhLRnRoUzdySXVIcUU5WHhSNm1teUZ5ZDBGdkkwUUdqMVBPUGFDaTRqZEhMc3cyWXNSQ0VnVmdob3NRYngwQ1RUaGtwdHN3ZXNlaFJaZWRONkJMaHYyVTlmem5jenh0Z05qOUZpcHp6WFBISlB0UG9RWHZ5bFE5V0Q2al80bTBjWDN3SmfSAcwBQVVfeXFMTkFtaEEwYmg2NzB6QUZPM1hFa3pTS1VtZkNqWFkycUQyUjdqSy11WF9xRURGYU9WdUZhUnN2QWo0SkcyQ3hMUWxYS0Z0aFM3ckl1SHFFOVh4UjZtbXlGeWQwRnZJMFFHajFQT1BhQ2k0amRITHN3MllzUkNFZ1ZnaG9zUWJ4MENUVGhrcHRzd2VzZWhSWmVkTjZCTGh2MlU5ZnpuY3p4dGdOajlGaXB6elhQSEpQdFBvUVh2eWxROVdENmpfNG0wY1gzd0pn?oc=5",
-          "date": "2026-05-19T07:00:00.000Z",
-          "source": "Onmanorama"
         }
       ]
     },
     "34": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"PATTOM\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
-          "title": "Four arrested for assault, robbery",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ1hNd3UwczJmRVA5VWdRSElNZHJXc0s1ODlRZm1Fd3pDcEpWbjlKTDZ0UDRwbm44Y1pfV2NxYTRUR3M5U1pjU2R3aEZqRFJ5THp4Z0czVnVudHJsVHFjYzF3ZmN5NFRTejdKZkFNVU9MNzhKdTZic08yVXJHbUN6TDZyWlhQdERHOXJzMS1td2xMV1duWUwtdWVkTVNjRDZTMGtjSWx2a1hHZnlvSFl0TkMyUFg4UUQyaXZ30gHAAUFVX3lxTE1ndEtTTHVOeWZJdW8wd0dkT1AwMk5HeDJfMzVMZDNQSE9xbHNKTVF5T2VKTG9nM1JLOW02cF9KY1F5YkxKMXlJUGgtbENFTmRiOU40dlQ1cEVWUlluSVl1bnIxVll6NHduZHluMWdXSDdmMlB3LUp3RkFKWG9PeGFZWFBMMG5EdUF5M2pKSl8xWTMxb2p4WXJDeVZnczZPNHREQ3FTQk9oWUxkXy11OXIzQi1rMkhVY1J6Nnpkamtkdg?oc=5",
-          "date": "2026-02-11T08:00:00.000Z",
-          "source": "The Times of India"
+          "title": "Crime Branch SIT visits PSC headquarters; commission pledges full cooperation in recruitment probe",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRXVDc1ZDYlVHaTBFUFkzb053UmwzLWN3Z1pMZG8td3dTOWpMakJObm50Sjh1TC0ySzVQWElhWUJsU3JJLU5iTWxfb0dDVlNEdXNZR2JrcnFIOEV2YjktejFVUnBEQ0J5QzFPdHFlZ1pYQnZ1UXdhRVlfbVhpS1ZEQ05UcEp1NDhVb2dwNGNQRFpFbE5RSHZBNHNIeWJYc2RMcm5UTjBwdkdoZVRjbGc?oc=5",
+          "date": "2026-07-14T07:00:00.000Z",
+          "source": "Kerala Kaumudi"
         }
       ]
     },
     "35": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"KESAVADASAPURAM\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "36": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"GOWREESHAPATTOM\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "37": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"KUNNUKUZHY\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "38": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"NANTHENCODE\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "39": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"PALAYAM\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
-        {
-          "title": "Attack on ED officials: Kerala police tighten screws on CPM workers, 19 held",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSFVOZFp5bUhTbHhET2xtVjBic1RZU3hiQ0tlNkFjTWlYSnFqV0RMV21fbFc2bUE5VlVQMDJsZ0hrblFIVmFIOFR3SURycTljMHRLUzZCb1lLMlJOVy1CaUJDZmFWZXYteDRzLWNvMEExdUs1aHdiNDg4cHFlbU1oRTFTX1MtVDNlT3VKRDdaVjdSSWNxNWR5SHhUeG9rbWtMc0JmV01ONDhhbm5vODNHSWZTU2xrdjJ4d21EVkJwa01UeG1YUDZZNDNwUldSZ9IB2wFBVV95cUxPenlJZjdQd3BRay1DTmU4N2VfYlNfYXU0dndqNWJqa1hvN3NxMnRnMjVtVnpidGkxQjg4MjB0eV9WZnRXVE0wVGx3amsxVmZYZ0stdjJPdEk5UHdpaUR5aW5GZUxacUx4LVV5YzNOOWdWbXVDVnlra18tMkkzbzFPYlpIWFJheTlBVHVKQnVscEE3RURTWHl4LUJyanNCcXM1NVFJQkNWbFRPaUVaM3BCenI2OU9md2NpMEtzSDZ2dVVjNG9FOVNLdUI1Y1M3ZlVmQkNaN2RBZmU5bk0?oc=5",
-          "date": "2026-05-30T07:00:00.000Z",
-          "source": "The New Indian Express"
-        },
         {
           "title": "Attack on ED officials: CPM local secretary IP Binu among 11 in custody, 8 arrested",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMWlvQVlqYWVKS2Z2SC1WUTZDVV9BUTUwUU53ZlZWSDEyVWg1S2RXa0FpdUNSM18tb1BqcGtqNUM2akhRc2hkY3liQ3EyUlVXXzdrZkRFNms3QjlWbDA3a3lOVm9UdWQ2R3FlSk1fcmM3SmRRMUtyUElSWjZkN1NxLTN0TWF5YUFhZ2NwSWM2azNCTDhaZkV0c1RPREtSTVhOVXk5VzZocmlCWjBpNEF0ZHJxckRadWxva1I2TTRDbFBuZ2RTVlpj0gHHAUFVX3lxTE8xaW9BWWphZUpLZnZILVZRNkNVX0FRNTBRTndmVlZIMTJVaDVLZFdrQWl1Q1IzXy1vUGpwa2o1QzZqSFFzaGRjeWJDcTJSVVdfN2tmREU2azdCOVZsMDdreU5Wb1R1ZDZHcWVKTV9yYzdKZFExS3JQSVJaNmQ3U3EtM3RNYXlhQWFnY3BJYzZrM0JMOFpmRXRzVE9ES1JNWE5VeTlXNmhyaUJaMGk0QXRkcnFyRFp1bG9rUjZNNENsUG5nZFNWWmM?oc=5",
@@ -454,86 +435,54 @@
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTU0wcDBjdDdOVkRPa04zTXlWX00xbm1udm5VWGVmNVNqdEFjVG9MUkkyNjMtV2tPQlJ0dFMwVXY4N3M2VWlLdWg5OENZWnI5dTN0TGRGeVE2Z3pXUnNFWU9VM1VFMEFRcHNSTTgyYURLbkNpTlJjTDlHZTU5ZzJHWi1xNXB6QWIwTk5tY1dwQVBadUd0Q0NWTWs3aDhHR1FINlRpZnRWT3d4ZmVFYlRsbUMyWjdyWm5adDQ0VVhR0gG-AUFVX3lxTE1NTTBwMGN0N05WRE9rTjNNeVZfTTFubW52blVYZWY1U2p0QWNUb0xSSTI2My1Xa09CUnR0UzBVdjg3czZVaUt1aDk4Q1lacjl1M3RMZEZ5UTZneldSc0VZT1UzVUUwQVFwc1JNODJhREtuQ2lOUmNMOUdlNTlnMkdaLXE1cHpBYjBOTm1jV3BBUFp1R3RDQ1ZNazdoOEdHUUg2VGlmdFZPd3hmZUViVGxtQzJaN3Jablp0NDRVWFE?oc=5",
           "date": "2026-05-27T07:00:00.000Z",
           "source": "Social News XYZ"
-        },
-        {
-          "title": "SFI-KSU clash in TVM after Kerala University union polls; police use lathi-charge and water cannons",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeW9yMFJTY1dFbmJUOWo4Q3ZJTkdqWnZxaFV2Mlk0dEFZeVRnNXFqSVUyRGZJNTZWdWsxcTF3eEJsU2dvM1pYaWZSeWwyMVFVYVd3OEdyenlwM2wyVUMyWWI3aTUwYWNJTWpTdFFUZ3d5UTZmWHNmMlBRa0tXcHdpUmt3YVctNXJZVEV5eUtvb0UwZWxoRDJveTZBNWNHN2NYdWFBT2o1SnZJUnpSM0l4elhkaFXSAboBQVVfeXFMTUlUTkdUS1NGVHR5Z2ItdFVVU0JyZkdVRHk2bHI1MlhtcVl2cUFxeFdRZzFpWnJ5TTZMZUxNTVVLbmJBcjkzNlpLdHBrenp1dkE4eVYydUdkVERkMGZkWlVjeVJjaHk5X3J2TkhPby1jbm9YakxKWDE1ZXFHS0h5QU1mZUdHUzlyWW9XWURkdENibnBuWjVja0cwZEgyZXREaFFPZ0I4cmRMa1hzLS1wY1I0QUR6VC1DZGdn?oc=5",
-          "date": "2026-05-25T07:00:00.000Z",
-          "source": "Mathrubhumi English"
         }
       ]
     },
     "40": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"VAZHUTHACAUD\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
-      "items": [
-        {
-          "title": "Maniyanpilla Raju arrested for hit-and-run incident in Thiruvananthapuram",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSUhDcGtyY3NTc093Yl9TQ2ZEb1I4SGtnY0NJN0VBdFVnX2ZmdEMtakpmT2h6d3VGS2NBblMyeGhkNS0tZmM1MHFDdUFHV0trcS02Q1RtTTBhYTVqTmgtcF9jckFRUUJpWFpYZjUzMndDRFpJRTF3TVBTX2d1bGNxVlZibTRIWFp0djJja1dtVlYwS0ZXTFpVdjJPQzRLNmxsU0xjZ2ZaTTRIamhMT2N1cFd5OWd0V2JabG51MGxTYnJuN0FJTUhaeFlB0gHXAUFVX3lxTE94NnBWdTdKTmVINmZoQWJuWm51bkthS2tCWDFhR3ZWVU5JNmlWVE1Na2ZHZDFPOG1IRWctalpPYU9tb1BZOWtGRk55TmYwYXpab0hnOUNJNHpHd1l4RkFnWlZXMWtQRENRWmZ5Q1lWWmNXZnhtajY4clRPbVZjLXgtMnpjV1dVQURKX3ItRHBtdHFlajdqSkZDU2RvWVZkWFdWMzNoOVNtZHVzcjFodERPdVFxV2N1djY2Q0JCN0dxelNHSHlzSDZuT2lOYXg4WmRRMElmZV9R?oc=5",
-          "date": "2026-02-06T08:00:00.000Z",
-          "source": "Cinema Express"
-        },
-        {
-          "title": "Malayalam actor Maniyanpilla Raju released on bail after arrest in Kerala hit-and-run case",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYjlZMFBLX1VYb05OeHJiSkRYZW1Wb2pXM01qS05lYnVIdXlONmZJdHgyNlBLbHozazJfMGh3V1IxX1VoajBIX2NNN2pFZkVTcXN5OG81NlIzaDlzLVpoSElKMkZqVV80cjNuVUtUOHlzcnFBeDVTUUs3dU9INlhfV2o5QnlhbHhHT1RTaVhBM1NwbjlhLXlENHpSZWhBS0lhLUR0cE10QdIBrwFBVV95cUxNQkxmLUV3Mkx1OURWMnpGTW9UU3JldS1vZTRhcXh2Y0oxTEpNb0tKTVljTHRjUUJpSkY1OVZ6dWNrTV94MnA2TURmU2FTX215bkthU2tsRkgzUm5FaVdtaG5SUU1ZSm9ESmZNUlNXZ1dyZERXdEhpTV9oTm9mTEhkLW9QdnZ5dmZ3QlB4Q1gzXzNldUhFVVBCZzA3ZTJ1Nnl4QjVnOWpuVWJod05OM3hv?oc=5",
-          "date": "2026-02-06T08:00:00.000Z",
-          "source": "Khaleej Times"
-        },
-        {
-          "title": "Maniyanpilla Raju, Malayalam actor, arrested in hit-and-run case; video of Kerala road accident emerges",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWUpSeklFYTAtSkdNV2FjajZ0RE1welNNSjRVejJkUnVJMHJibEVOYTFHM1lRT0FFVllPdnduaHZmaWEtZXB4Sm1wVjhNT3RCeGJzVmlpbUhkemFBazFYa3FFRlFieWR6N2NfdWdkTzNXS0lxR2c0U09vRHJPUjZJRW83dkZLVDg0RGp0U2tFXzdWOUxqa3A4dDNfdjZhZm9LU2p2OW1WN0NNelhzNV9BRWh6MlYwelYyRFMtMEVMQ21CUzhJT1FKLURzVUc5dnJrTkFkYXZn0gHbAUFVX3lxTE1ZSE51MkU3VnlrRXNEdDFaREFJLW1wTzkzRE02aWVLaVYzTEJKeE9LYmxJckplVWg5UG51UkFqWXhkN1ZDOWtXaVBNeDh1YUF0REtyckhlMUNhMkVRal9pTDhoZlVjd1hYUGhkcndHNUVpR0dpUnUtZ0pNaUZIcTI2clFqWnNrS2F6ME9va0YwX0FhX2JTRDRPZjlsdUZtWUtHSms0cTVjT0JIOHVKNHo2b3Q5Z2pKUGEtMmRsd09TUE02ZzFOaVB6dzV1MER2TGJKTU9mcERSMkNIaw?oc=5",
-          "date": "2026-02-06T08:00:00.000Z",
-          "source": "India TV News"
-        },
-        {
-          "title": "Actor Maniyanpilla Raju arrested in TVM road accident case",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcHpwWGx3NEtXLVNyVFp4bHd4dEFMNS1veXk4c1RPdVl6V01PbkQ2TTVZdFdnSTNfV3lVdVdqc2djRTQ1N09aRzFXcjc0Ti16blkwT2F3VElNX2xTbG1YRHZRNXdUbHhfWGNzN1JhNXVFVDdiSG1FM0t2c0g1TWQ4R3V6cm9DUFhhZ3FhQmw5N1ZqS0hlYjIwZkFQenJsbEh6cnlnc2tFTWdwOXY0ZXZhNHl1ZkphaFJlOHY0Y3dn0gHDAUFVX3lxTE1zb0p5N3NyRVVyOTl3SVBhMnVxMXcxNjNfWGFwZTBMVVBGQlk0a3Fva09ONU1Ob3NwQUxjUDlyWnZ3M1NoV0tGSkJnbzQxbjhKZ3RtMDRuOWIzN294Z2FnNW15QThwcDhhTGxBOFYzMU1EN2lyNmFyOElFUFZzZ1FHaDNYOTZCZDh2ekV1N3JQRnhWU0lsLTVGbUV1Qm9tbmFuRWlieW1WY2R2T19aQXJvdEtXWWJUMW01aUZIMEFzYUNjYw?oc=5",
-          "date": "2026-02-06T08:00:00.000Z",
-          "source": "Mathrubhumi English"
-        }
-      ]
+      "items": []
     },
     "41": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"SASTHAMANGALAM\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
-      "items": [
-        {
-          "title": "10 lakhs and 10 mobiles as reward; Sub-registrar, who conspired in Jawahar Nagar land fraud case, arrested",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZTA4bzY2V1pyZVIwSEFfcE5BQjFGWUVmOXZWdjlFVkg5UWh5LVdQREF0WnNPclRPeTY0eWtuQlMxNmxaUWlaanF0bWRxQmpISVhhYnp1RDBIR2lET1lNRTJPcHA3bHZ4VmhrdGFyaTlFVXZ0Zm1qbDhkVWdFVmlpWDJJUlpBbHJZWkl0TkFSMHJ0SGlDaU43NHBBR3ByNDBGTG5GRlNhYUpKNmNyQnRHV1RaWWw0T0hTQ1h2QXU1RVpROFNtX1VUWTdtalI3bkQ0R1JYSHVLNm1ncGpxSGZCS01sZng?oc=5",
-          "date": "2026-02-10T08:00:00.000Z",
-          "source": "Kerala Kaumudi"
-        }
-      ]
+      "items": []
     },
     "42": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"PANGODE\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "43": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"THIRUMALA\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "44": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"VALIYAVILA\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "45": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"THRIKANNAPURAM\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "46": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"PUNNAKKAMUGHAL\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "47": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"POOJAPPURA\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Kerala Gold fraud-linked double suicide case handed over to crime branch",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPYmtnSFpwOWFxcm9jOHM4VnF6dTk2eDBRaExmRFFxVUpvc1hlUGFNS0RKRFlGSlM4eHNmeHRCcll6ekhnNmlPZnlrZERfQkllNUVUcnJ3YWJGcElwRVJoMmlsOTBUM0l5SUkyaktrSURJVTNrcEwzd08yNjI5U2ZmM1kzUV9QOUtMZm5pX2x5djVYRURsc2UwQlpPYmVSRWF6c3BfTFhadXdhcXJiOXdNdmNxSHlCdVFMT051bVV3QkJJdE54eE84Z1VrYnNKNEZLNFZTSTRxUHlvZXPSAegBQVVfeXFMTldtdHhrOXFRWHFZYVpneUx3LXdKY3BidS13WlU3MkhhVmIydUh1VGtkWkl2LVp5VEJGaHB4M2wyR095dEZGeTFxZGNrTDNsY0N0VmtMMC03M0dGT0tUMHVXX243VnIwWHhzNE9VOGw0UkVJOWVoeDludXlYTGp5MnU3bmUzX3FrcThXX0lLTThFN0w3TnFXT0l4amtlaUhJaERhQXItaXJZbmxhOXVoa3B5azhtZE53YkNBd2lxOWhOWUlnQW16RGQwUWQzQ1kwdVFUN3VWWDk3T1R1bDhhRmFCRV9iTlNBdg?oc=5",
+          "date": "2026-07-12T07:00:00.000Z",
+          "source": "The New Indian Express"
+        },
         {
           "title": "Youth held for assaulting minor girl",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdmpSYkw0LTVfSVBvclA2aGNfdDRMSE9EbFVJUEVqb0lZUk1wa3dVMjJqUEVnMC0xMmhtU1VITEJpeUVERUc5ekhOVWU5MmlYYmJzR3JiN0JSUThPZU1nUVBDZEpETEZCb1FJRmhOOU8tdmh0NWNhUkRNb3ZHV1lBTXVaMmM5UjZjbVgxWDdBaGJOaW5XTlB1bDNOajZ3TTlJWVdUWnFLZjlCZ0tXejhscUswVlZ0SnNPaDJDLTNMTdIBxAFBVV95cUxOeDFzTjRsNHVQeV9PZlpPN1pFUTdrQ1hHNktIbTFERVBRU2pfRkNOZFJTdENNdHRkaEU0QXJ6ZVJDMkFPYjlJekE0RGRDcHZtU1NkQndqV0hvb1ozQURidmVBY1JBOFVVZXQwbVc4ZGJTcnM1Nm9Fd2dMLWVqTEY0R3VRc3ZUdEx5YlVzcHNqZUx5SVFHLUxLWDlyem56SXNKVy1vc3hXYllvZHZVZ005c1RFX1A5OW5yNjFTRVFtZ2ItVkc0?oc=5",
@@ -549,7 +498,7 @@
       ]
     },
     "48": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"JAGATHY\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -561,32 +510,39 @@
       ]
     },
     "49": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"THYCAUD\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
-      "items": []
+      "items": [
+        {
+          "title": "T.G. Mohandas arrest: Court pulls up police over procedural lapses",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRmplRmszbzcyMjJSRW5EZC1OY0VRWVFXWmZlNnYtMlRBcHZNalRuZm9rRWFfOGFLbDJoZDlKQVlfQ3dOSW5hZm5BcHJ0aEtOOGc5Yk1kZWt0WkhWZVpEMTY5MFhIU3hXR3Y2V2tXdnlzc1ZLWjhVcmlyWGd4ZEgtbWl4bFY3SUhwUEVfSjlhcVRpYU96eEFnOFU5NWt5bHFXeUkycjFXR2d6SDZXRXJ2dlNMMDVjQXRsVmYxR1FkeWEyblVfMVpjcNIBzwFBVV95cUxOUDM0ZGI0NmFrNGFxOTAzOU85YkZxRVl5a0YxY3U5UWNJQkhDZzRCVk5BdkNPQ1BYeENicjREdXJYVG5pOUtwdGo1N3NDNWtvTFJERnZCWnBxSkR4TE1vSDMtdmwtU0xvaUhoYlZaMmVyeG9GUEVESzNxRllEelY2ZkpGLUhJOE44ZTlZeXdJbmRIZ3Vwa2Q0MFpoaWdMcGpUYWFhZm5HQWpEMVZXZW9vT0dORXBEdm5zUkxqd2wyenQtbm1WemF5TFBLcWVCRGc?oc=5",
+          "date": "2026-08-11T07:00:00.000Z",
+          "source": "The Hindu"
+        }
+      ]
     },
     "50": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"VALIYASALA\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "51": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"ARANOOR\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "52": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"MUDAVANMUGHAL\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "53": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"ESTATE\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "54": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"NEMOM\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -594,40 +550,21 @@
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOekU1ZFU3Mm1ZTDFIcEFEQkVVS1pEbnowT2lIRVNVbWpEQjhCQXh4bThlR0hRa2pqc3NRRUt6Y1FJRHJ5aElSUTZkNFVWYVlhYVRDV1lJTVRaR2FPVGNTM2FheDN5RzU1Tk9McGtuMnNQT3k2VnJNVElmY3NQUW9wM3NTWTlmdUFzcEx1NGplLXhGamdnYnZNUlVqWDRHcGQyMTFQWmNVcGRJcmlsN3BRenZDUHNPdmIyWGxCVGhTdUdkSW_SAcgBQVVfeXFMTXNMNEtGczVXMDRTeHBJRHFSVDBlQjU2djdVQmxraDdIU3oxb1pKMzcxV21pc2stWHdtWWZGa080M2N4UU1TaThyOG9nR2NvVXhPblYwVm5fbE5lQlNVcUthUWV3Ukg1R2FLVERybUw0Rjl0bVp6LTl4RmNyeThSMC02cGhkNld1WlliNU5qN2VrUldhYWM5MEZqVF9vYVp5a1o2RU5uQ0dXa2x2cjFIaGpudFRkUUI0akFyaGs5OGsxcHVoekpGd08?oc=5",
           "date": "2026-06-03T07:00:00.000Z",
           "source": "The Times of India"
-        },
-        {
-          "title": "Police arrest another person in connection with 300kg ganja seizure from car",
-          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPQy1VOUdoTW9sd19XTzZoWGZsRHNoVEJlRTQ3dkVLSTVlYWNBNC11SHFvSUp6dlMxRHJ4eUx4Y0sxV1p5SVlsa0VvZGw1cnhDWkM0NnJDT2F3dU1MaTN2Y2RMakxucXljdDR2Ui1yQlB5MWZzaFZuWmY3SDBRY2Q0TWNqVHZmaXFCeEF1QUlVMmNwenFkYXdOX2NaTHlnVUpXamhZeHJNUlJwdHI0RUUwV0ctYXpNTlVZMmY0VDNEdzVSR0hoWVJIV1RDOVBiZjlneWRWRVJpc29qQ0dnRFp6RmNlTmZHQ3c1R29NcmxMQjNUQ3RD0gH6AUFVX3lxTE0tRTBxQmVwR084bzJhSFZWbWtRUF82akJiUERZU1RzeFduVVAyejVOUFU4MTBSbmxPemVqQVJDQ2k3VVJITkViZVpDeXZ4a3FSVU0tUFVSMzl2OHhPN21mRjQ5M2lMdEZwdUthMjNIOXJRYXd2clpKZnVFd1dQcUlBWGxjMm9VUWU3TzY2YksxblNId1ZpQ2ZoYnFGX1ZtUGh4MDVoVm1IaUs3VXBiSTNGem9Rc1FvZ3daWFUwTzAwdzlGUzlldHUtYkRoNElYeDVlUkxBYXFjQUwzQ080SVpXYUk2TjQ1b2NRTWQ1RVd5dVBwdW9wVUh4UUE?oc=5",
-          "date": "2026-02-23T08:00:00.000Z",
-          "source": "The Times of India"
-        },
-        {
-          "title": "One more arrest in ganja seizure case",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRVFYejhQZGFnZ3p5VjM1dTRXQWo2YXVjcnBuSDdFeVJBaWJ0bHR4Q21zbzJkakR1eTVHYlJFcm53ZTN4M002RzhFNEQyang2ZmxUUVJkeHkzTmN0blFjM21fMG92dHhpRjZPTFVtN242UnlVMGFxRkRsRjJYR01RY0ZhVGwyNnNLZ2hUcks1VktvTENHWXphQmdzdUxsd080eUJuMGdB0gGsAUFVX3lxTFBoalVsTW5Fc0NBWVBMcm1pZ3Z6cy1rR1hOdnBUclp0T01lSEV3TXpjZ3hqemdSWUQ5MEFZQWlKQkY5MWE2cXZYU1REZWhOZHQtNWl4R3ZwQ0Z3cG1Ebzh4bEUyVnJKd19JVEF5Q2FtSjVJa1RETXEtTGwyQjVSQi1zRUd2dWZLa2QzaXlrTWdPeDdPZEVneEVCVmVqZXJIbVRCZlgxelhxdTluNDI?oc=5",
-          "date": "2026-02-22T08:00:00.000Z",
-          "source": "The Hindu"
         }
       ]
     },
     "55": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"PONNUMANGALAM\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "56": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"MELAMCODE\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
-      "items": [
-        {
-          "title": "One more arrest in ganja seizure case",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRVFYejhQZGFnZ3p5VjM1dTRXQWo2YXVjcnBuSDdFeVJBaWJ0bHR4Q21zbzJkakR1eTVHYlJFcm53ZTN4M002RzhFNEQyang2ZmxUUVJkeHkzTmN0blFjM21fMG92dHhpRjZPTFVtN242UnlVMGFxRkRsRjJYR01RY0ZhVGwyNnNLZ2hUcks1VktvTENHWXphQmdzdUxsd080eUJuMGdB0gGsAUFVX3lxTFBoalVsTW5Fc0NBWVBMcm1pZ3Z6cy1rR1hOdnBUclp0T01lSEV3TXpjZ3hqemdSWUQ5MEFZQWlKQkY5MWE2cXZYU1REZWhOZHQtNWl4R3ZwQ0Z3cG1Ebzh4bEUyVnJKd19JVEF5Q2FtSjVJa1RETXEtTGwyQjVSQi1zRUd2dWZLa2QzaXlrTWdPeDdPZEVneEVCVmVqZXJIbVRCZlgxelhxdTluNDI?oc=5",
-          "date": "2026-02-22T08:00:00.000Z",
-          "source": "The Hindu"
-        }
-      ]
+      "items": []
     },
     "57": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"PAPPANAMCODE\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -635,23 +572,11 @@
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOekU1ZFU3Mm1ZTDFIcEFEQkVVS1pEbnowT2lIRVNVbWpEQjhCQXh4bThlR0hRa2pqc3NRRUt6Y1FJRHJ5aElSUTZkNFVWYVlhYVRDV1lJTVRaR2FPVGNTM2FheDN5RzU1Tk9McGtuMnNQT3k2VnJNVElmY3NQUW9wM3NTWTlmdUFzcEx1NGplLXhGamdnYnZNUlVqWDRHcGQyMTFQWmNVcGRJcmlsN3BRenZDUHNPdmIyWGxCVGhTdUdkSW_SAcgBQVVfeXFMTXNMNEtGczVXMDRTeHBJRHFSVDBlQjU2djdVQmxraDdIU3oxb1pKMzcxV21pc2stWHdtWWZGa080M2N4UU1TaThyOG9nR2NvVXhPblYwVm5fbE5lQlNVcUthUWV3Ukg1R2FLVERybUw0Rjl0bVp6LTl4RmNyeThSMC02cGhkNld1WlliNU5qN2VrUldhYWM5MEZqVF9vYVp5a1o2RU5uQ0dXa2x2cjFIaGpudFRkUUI0akFyaGs5OGsxcHVoekpGd08?oc=5",
           "date": "2026-06-03T07:00:00.000Z",
           "source": "The Times of India"
-        },
-        {
-          "title": "Police arrest another person in connection with 300kg ganja seizure from car",
-          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPQy1VOUdoTW9sd19XTzZoWGZsRHNoVEJlRTQ3dkVLSTVlYWNBNC11SHFvSUp6dlMxRHJ4eUx4Y0sxV1p5SVlsa0VvZGw1cnhDWkM0NnJDT2F3dU1MaTN2Y2RMakxucXljdDR2Ui1yQlB5MWZzaFZuWmY3SDBRY2Q0TWNqVHZmaXFCeEF1QUlVMmNwenFkYXdOX2NaTHlnVUpXamhZeHJNUlJwdHI0RUUwV0ctYXpNTlVZMmY0VDNEdzVSR0hoWVJIV1RDOVBiZjlneWRWRVJpc29qQ0dnRFp6RmNlTmZHQ3c1R29NcmxMQjNUQ3RD0gH6AUFVX3lxTE0tRTBxQmVwR084bzJhSFZWbWtRUF82akJiUERZU1RzeFduVVAyejVOUFU4MTBSbmxPemVqQVJDQ2k3VVJITkViZVpDeXZ4a3FSVU0tUFVSMzl2OHhPN21mRjQ5M2lMdEZwdUthMjNIOXJRYXd2clpKZnVFd1dQcUlBWGxjMm9VUWU3TzY2YksxblNId1ZpQ2ZoYnFGX1ZtUGh4MDVoVm1IaUs3VXBiSTNGem9Rc1FvZ3daWFUwTzAwdzlGUzlldHUtYkRoNElYeDVlUkxBYXFjQUwzQ080SVpXYUk2TjQ1b2NRTWQ1RVd5dVBwdW9wVUh4UUE?oc=5",
-          "date": "2026-02-23T08:00:00.000Z",
-          "source": "The Times of India"
-        },
-        {
-          "title": "One more arrest in ganja seizure case",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRVFYejhQZGFnZ3p5VjM1dTRXQWo2YXVjcnBuSDdFeVJBaWJ0bHR4Q21zbzJkakR1eTVHYlJFcm53ZTN4M002RzhFNEQyang2ZmxUUVJkeHkzTmN0blFjM21fMG92dHhpRjZPTFVtN242UnlVMGFxRkRsRjJYR01RY0ZhVGwyNnNLZ2hUcks1VktvTENHWXphQmdzdUxsd080eUJuMGdB0gGsAUFVX3lxTFBoalVsTW5Fc0NBWVBMcm1pZ3Z6cy1rR1hOdnBUclp0T01lSEV3TXpjZ3hqemdSWUQ5MEFZQWlKQkY5MWE2cXZYU1REZWhOZHQtNWl4R3ZwQ0Z3cG1Ebzh4bEUyVnJKd19JVEF5Q2FtSjVJa1RETXEtTGwyQjVSQi1zRUd2dWZLa2QzaXlrTWdPeDdPZEVneEVCVmVqZXJIbVRCZlgxelhxdTluNDI?oc=5",
-          "date": "2026-02-22T08:00:00.000Z",
-          "source": "The Hindu"
         }
       ]
     },
     "58": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"KARAMANA\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -663,34 +588,47 @@
       ]
     },
     "59": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"NEDUMCAUD\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "60": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"KALADY\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "61": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"KARUMOM\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "62": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"PUNCHAKARI\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "63": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"POONKULAM\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
-      "items": []
+      "items": [
+        {
+          "title": "Brothers held for attacking cops during arrest in Vizhinjam",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNeUFqc3VFaXNpRTU3VGhXZm5wMXJMSkpXZjNRcG5Ca1JPLXJlTnJLTGh3UW5ISjdndjkwUlF2ZUw0U184NXEzT2tjakVKLVZNbGMtNU1XZ01wekVkR29ocTdrMnRUcmR6N1ZoYlgtTWd6aFBodVBKZXFSVTZzcERMWU9SZjItSlBsVmdKLUtZTmRKV2ltbEZJLVRiUlZHWmNwSDRLdEU3TldzX0lEWG5RbDFhSHY4Vl9nd2JrbjFlRE9aTk5fLWRjWG9LOGpGR1NiYlR4ajhBcGU3b3VKYmfSAeMBQVVfeXFMUFEzWV9UN3ctdGMwaXJrT1VSdE8xSkRUbjNienNxZXF6WlAxMFJmQ1QzM2llMFh6SzhuT0pvUmZGRGxoRmFlZkN4MmtUeHBxT1BkSndRbnpvWEo0NXpDU3l1YW11NEVUaVJoTXJPLVlsTWtEYU5KaGhCc0RfTUpYSXBTZVpuOW1jVDN1YkFKemZRVEFJTUlvaXZYS0o4Vms4WVptT1FWY0liVmxOODE4b1ozODF2SW03SU9ZeDFaT19sX1FXVDlKbTNkZF9Nc1UyUFlKNjgyWGNQZ3NMQnowemtzU2c?oc=5",
+          "date": "2026-08-08T07:00:00.000Z",
+          "source": "The Times of India"
+        }
+      ]
     },
     "64": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"VENGANOOR\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Brothers held for attacking cops during arrest in Vizhinjam",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNeUFqc3VFaXNpRTU3VGhXZm5wMXJMSkpXZjNRcG5Ca1JPLXJlTnJLTGh3UW5ISjdndjkwUlF2ZUw0U184NXEzT2tjakVKLVZNbGMtNU1XZ01wekVkR29ocTdrMnRUcmR6N1ZoYlgtTWd6aFBodVBKZXFSVTZzcERMWU9SZjItSlBsVmdKLUtZTmRKV2ltbEZJLVRiUlZHWmNwSDRLdEU3TldzX0lEWG5RbDFhSHY4Vl9nd2JrbjFlRE9aTk5fLWRjWG9LOGpGR1NiYlR4ajhBcGU3b3VKYmfSAeMBQVVfeXFMUFEzWV9UN3ctdGMwaXJrT1VSdE8xSkRUbjNienNxZXF6WlAxMFJmQ1QzM2llMFh6SzhuT0pvUmZGRGxoRmFlZkN4MmtUeHBxT1BkSndRbnpvWEo0NXpDU3l1YW11NEVUaVJoTXJPLVlsTWtEYU5KaGhCc0RfTUpYSXBTZVpuOW1jVDN1YkFKemZRVEFJTUlvaXZYS0o4Vms4WVptT1FWY0liVmxOODE4b1ozODF2SW03SU9ZeDFaT19sX1FXVDlKbTNkZF9Nc1UyUFlKNjgyWGNQZ3NMQnowemtzU2c?oc=5",
+          "date": "2026-08-08T07:00:00.000Z",
+          "source": "The Times of India"
+        },
         {
           "title": "Kerala Gold fraud-linked double suicide case handed over to crime branch",
           "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPYmtnSFpwOWFxcm9jOHM4VnF6dTk2eDBRaExmRFFxVUpvc1hlUGFNS0RKRFlGSlM4eHNmeHRCcll6ekhnNmlPZnlrZERfQkllNUVUcnJ3YWJGcElwRVJoMmlsOTBUM0l5SUkyaktrSURJVTNrcEwzd08yNjI5U2ZmM1kzUV9QOUtMZm5pX2x5djVYRURsc2UwQlpPYmVSRWF6c3BfTFhadXdhcXJiOXdNdmNxSHlCdVFMT051bVV3QkJJdE54eE84Z1VrYnNKNEZLNFZTSTRxUHlvZXPSAegBQVVfeXFMTldtdHhrOXFRWHFZYVpneUx3LXdKY3BidS13WlU3MkhhVmIydUh1VGtkWkl2LVp5VEJGaHB4M2wyR095dEZGeTFxZGNrTDNsY0N0VmtMMC03M0dGT0tUMHVXX243VnIwWHhzNE9VOGw0UkVJOWVoeDludXlYTGp5MnU3bmUzX3FrcThXX0lLTThFN0w3TnFXT0l4amtlaUhJaERhQXItaXJZbmxhOXVoa3B5azhtZE53YkNBd2lxOWhOWUlnQW16RGQwUWQzQ1kwdVFUN3VWWDk3T1R1bDhhRmFCRV9iTlNBdg?oc=5",
@@ -706,14 +644,20 @@
       ]
     },
     "65": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"KOTTAPPURAM\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "66": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"VIZHINJAM\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Brothers held for attacking cops during arrest in Vizhinjam",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNeUFqc3VFaXNpRTU3VGhXZm5wMXJMSkpXZjNRcG5Ca1JPLXJlTnJLTGh3UW5ISjdndjkwUlF2ZUw0U184NXEzT2tjakVKLVZNbGMtNU1XZ01wekVkR29ocTdrMnRUcmR6N1ZoYlgtTWd6aFBodVBKZXFSVTZzcERMWU9SZjItSlBsVmdKLUtZTmRKV2ltbEZJLVRiUlZHWmNwSDRLdEU3TldzX0lEWG5RbDFhSHY4Vl9nd2JrbjFlRE9aTk5fLWRjWG9LOGpGR1NiYlR4ajhBcGU3b3VKYmfSAeMBQVVfeXFMUFEzWV9UN3ctdGMwaXJrT1VSdE8xSkRUbjNienNxZXF6WlAxMFJmQ1QzM2llMFh6SzhuT0pvUmZGRGxoRmFlZkN4MmtUeHBxT1BkSndRbnpvWEo0NXpDU3l1YW11NEVUaVJoTXJPLVlsTWtEYU5KaGhCc0RfTUpYSXBTZVpuOW1jVDN1YkFKemZRVEFJTUlvaXZYS0o4Vms4WVptT1FWY0liVmxOODE4b1ozODF2SW03SU9ZeDFaT19sX1FXVDlKbTNkZF9Nc1UyUFlKNjgyWGNQZ3NMQnowemtzU2c?oc=5",
+          "date": "2026-08-08T07:00:00.000Z",
+          "source": "The Times of India"
+        },
         {
           "title": "Kerala Gold fraud-linked double suicide case handed over to crime branch",
           "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPYmtnSFpwOWFxcm9jOHM4VnF6dTk2eDBRaExmRFFxVUpvc1hlUGFNS0RKRFlGSlM4eHNmeHRCcll6ekhnNmlPZnlrZERfQkllNUVUcnJ3YWJGcElwRVJoMmlsOTBUM0l5SUkyaktrSURJVTNrcEwzd08yNjI5U2ZmM1kzUV9QOUtMZm5pX2x5djVYRURsc2UwQlpPYmVSRWF6c3BfTFhadXdhcXJiOXdNdmNxSHlCdVFMT051bVV3QkJJdE54eE84Z1VrYnNKNEZLNFZTSTRxUHlvZXPSAegBQVVfeXFMTldtdHhrOXFRWHFZYVpneUx3LXdKY3BidS13WlU3MkhhVmIydUh1VGtkWkl2LVp5VEJGaHB4M2wyR095dEZGeTFxZGNrTDNsY0N0VmtMMC03M0dGT0tUMHVXX243VnIwWHhzNE9VOGw0UkVJOWVoeDludXlYTGp5MnU3bmUzX3FrcThXX0lLTThFN0w3TnFXT0l4amtlaUhJaERhQXItaXJZbmxhOXVoa3B5azhtZE53YkNBd2lxOWhOWUlnQW16RGQwUWQzQ1kwdVFUN3VWWDk3T1R1bDhhRmFCRV9iTlNBdg?oc=5",
@@ -731,27 +675,34 @@
           "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOeWZ5ZEo5bmVHbEtoUzRoR3dHSkNtbGpwNjdlYW54b01Bb3poMExaU0NXRGhpSXRPNERpT3dPRWkzYXJ1RDdBWkh0OG44OTVDcTlHTGxyaVBrM1YxNmRJR3NlLTVaeUJOX2dVbHhPX0FaQTRmbi1ORWxoM3dKNlhON3BDazJ0OUlET2dRdmFkT1ROS0x0c0wwTjc3aWRkZ1psWkdpend2dEFUaW1pS1QteTZ3YW9SUnktNVBtNXdEQXN4OG5hcG42Q3FHRVgtRUFYUzEzc1RsejdHcjYxdmpwTFhjcGJKVXJPZkhOSW5uc2RySFJVUnFJOFVUTnhJUks3ZldkZ9IBigJBVV95cUxNVGNxTjhIQjRGNlhPMDQ4Mk9oYkJyVTVlelM2QzFjM3plaEE3ZHJ2ZnRoYXFUX1ZaOGlvdkREZGh3WmlxZ1FWZTlJZElFZkhJVEtoNGhHNFZaWGk3bklyZEV2WTdjRkJUaXBkUHZCTTF4Z0JlU1NOQ3BJN2RDSmxuMGE4UnZkX3ltZElBbDhiOU9CbEV3aFJGRGcwTFBjU3RrQmJYdE9sNXFmbTVZd25EZG5hcVdDQ2FmYXlCWDY2dWFYNEFGUXZaSEhyclRGM0N0YWFXLVRHa0F5anA0QmZUd0U3M3g4T1NyeTdfNjZ6c0dUUHF3Qkt1c1dsd0dqTDVRWnNLckpwU21hQQ?oc=5",
           "date": "2026-07-08T07:00:00.000Z",
           "source": "The Times of India"
-        },
-        {
-          "title": "Kerala: Two gold-loan firm employees die by suicide, woman held for misappropriation",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaU9waFVpV3gyRzBOQng2cXdJRzFJTVhJdVR3NWhfRE1kV2oyWXd4eFI1ZjZPZGs3SHpxUFVCX0FpVjIzUGhXWFFTeHVYck44U3BFbFFTeVM0aENCRVVSbkFvR2VMSl9hTGpWSU43aWFIdVF2MHRFMlRBaGxhT0lnaGpnWUFSaEpSd3lpX3ItdXBYWTB6cThBS0h6ZkRDTHhYMWVwM0dZaEl4c2NBbDF2YjFldVBBbGY1SjJB0gHIAUFVX3lxTE5rcERBcXZieklYMmR3bGQ0VXk1Z1c1ckpmWHZublp0TndPbVhyM0tTRURNTDNraHR1OC1GSl9KYnZKMTZZc0kyOUtTeEVYaHdBeDJNbWNWalJRdjFlVlE2QVJGXzNGdV9oYUNWLVgyUi0wNkJLTDV6RjNKNTl1UDhfQkhqVUhHRFJXalhvY25xNEVhWXF2cVlXdnVXWTlmMGcwSlI0SjRlZWhJakx2SmtwUXZJSDNOWTVKQlo4OGZ3SmtnWE9rbVBi?oc=5",
-          "date": "2026-07-06T07:00:00.000Z",
-          "source": "The News Minute"
         }
       ]
     },
     "67": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"HARBAR\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "68": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"VELLAR\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
-      "items": []
+      "items": [
+        {
+          "title": "On run for 20 years, accused held in CET student murder case",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQek16MkJiNnRVTFdHTUdzZGQ5Q0xBQmNQYzhEOWhRbXhjTHhYMUFieUZXeGh1bkpQdWtudHBwODdDUTNpQnhYV3ZJVXZxVkVybENxbkQ1MkxTcTBkMnVZM250Zko1NXZXS2VKWjVoTnNSOEZzZVlTOGZLUU5rbWtOa2E4eXhyakFoMmx1eThRc0NDWmZyUTkwN3pVMmxoMUJIWDEyRGJVUUp6SmhvNHFYUGxvMXZNanMxYXlOMDZtZ1BGcmE3cF83TnFPMElDN3hNaHI3Q3JIMm5Ja3pBWFHSAeMBQVVfeXFMUFBIMVlHZFJBbk9jWlB3aGo0U0lqMENRdHdNcUoza3Z0MUJYbWtHTnl2d2Voa1dkNWN6cnFDWFZPd2VEcVBjOHYtM0xnTkNFM1pJSkdrU1lLcFFMWlFGS2ZXR2NHVDRmMzAyemtNVG9fLS1uUzNPMklocG45VW04V291MGY2a0ZVWlNtdHg5UldkTC13WFFoRVBPRmdKTFp0UU15MjJlb1VmdVNWOEhSU0xXRmF2MFlGYXVYTGVxOHkwdjhLLUFub0ZVX05JRDRwR2tuNFdXbWpFdVN4emliVGlmUGc?oc=5",
+          "date": "2026-03-29T07:00:00.000Z",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Accused in CET student murder case arrested over two decades later",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeHM5MDcwWjZkSkpJQTAxVHk0SjlieFhDdXJwX01ybjhMdmlma0xRN3FHanhROHI3eTZLeWJfTU13d2VYSkdxM3RNUHZrRTkxM1UwT0dDOWpSN21kTkRESEpLUFBnWlNDYVV2akhEX0R1LUpCTzVEU0lrTlJ4cTBNRUZDUlduVFAwVnlLaUtWNFRuREhYb2FiWnNWUVFTU0w3QTlJNjJfSWZzLUJNSE1xVi1VbVBWOXR6UVpRdU9SRFlmd1JLcXZmSElwNUnSAdMBQVVfeXFMTXF4aU5FUGRFNlB5dUx0NV9vekJwNjlHM0lSM3Vkc3EyS0VSdEFYUTc3ZXFRdVltN2NSLXNhZm5ndGN6ZEtQUVpPYUtFS2J6ZV9JX2Z1bTdDMVZiRWl1T1pseENXYzlkblFsaXVzb3VXcXAxTjgwSmtQR3RFVWJoTW10blVvV241UTNYTkk0SlQzWjMyNFd6NGhXQU1Hc0U1OExVcWIyZjBrV2lrN2wtazlEUDJCZzhOSldSNzNqVjh3N3g4RkpjaGJNdXpjc0dYUEhfQQ?oc=5",
+          "date": "2026-03-28T07:00:00.000Z",
+          "source": "The Hindu"
+        }
+      ]
     },
     "69": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"THIRUVALLAM\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -759,39 +710,26 @@
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRTZvVkhJSTNLRU9NM281VTMtRzhVNExOc09rZmdscEd3VF9SaFo1NGtMcDBnckhhQXlOdXM1elI5eE1kX0tlZE9RNE1SM0FsZ1dBbk03Tk1hSDloc2E5Rm1GaktGaW4xWldaS29YVVBvb3pYOC1RQVRBNTAxSndNUnVwUzEtUUpsZExQUEM2MU1tMEx6S2lXQmE4RVhZbnNXWVplVEpTbWwwRWN2dHpoR3k4THBzb3JlZ2MydUNJQ2_SAcABQVVfeXFMTUU2b1ZISUkzS0VPTTNvNVUzLUc4VTRMTnNPa2ZnbHBHd1RfUmhaNTRrTHAwZ3JIYUF5TnVzNXpSOXhNZF9LZWRPUTRNUjNBbGdXQW5NN05NYUg5aHNhOUZtRmpLRmluMVpXWktvWFVQb296WDgtUUFUQTUwMUp3TVJ1cFMxLVFKbGRMUFBDNjFNbTBMektpV0JhOEVYWW5zV1laZVRKU21sMEVjdnR6aEd5OExwc29yZWdjMnVDSUNv?oc=5",
           "date": "2026-03-28T07:00:00.000Z",
           "source": "Onmanorama"
-        },
-        {
-          "title": "One held for murder in Thiruvananthapuram",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOElhYTUwNHZXV2JxZTJDam0tRTJMaFhaU2poX0RHSnRtWUFEOWJ4SXpCdE5JTGROOFUwNVBNd1U3SGVubmNwNjhuM2V1OUItS3B4YXhka1U5TTRrNGJTcWIxZElYcko2VUNncjhOTkJBQ2RndDlUVjFlbkhoSXFER1ZKczduYWwwMURCV1h1TE5HbVBzZnlpNDdwR2tmVnc2WXlaWkJIQ1RDTWPSAbIBQVVfeXFMT1VEYnQ5T00zaGdwV3Rtc2doVTMwZFIwSV9RMTlUWV9lTHNMa0RMQ2lTZWFNbnh5MDNLU1Zod2hLZExwYVdJLTEyLWZxQzZFcGZrTnl1ZnBndmxCNXBQdExqc3VqU21xQ2ZWN251RkZDV0c5V0FUaUl3Z2RDaDZ1Xy1fT2Nwa1phbWFfaXVMdzVxOUJqaXY5YVVYNEZRQlJXYWZxMUJyTkotWHlJUDVxYXV2QQ?oc=5",
-          "date": "2026-03-20T07:00:00.000Z",
-          "source": "The Hindu"
         }
       ]
     },
     "70": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"POONTHURA\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "71": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"PUTHENPALLY\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "72": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"AMBALATHARA\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
-      "items": [
-        {
-          "title": "Real estate fraud worth 1.70 crores at Ernakulam; pre-planned attack on fraudsters by victim and gang; nine arrested",
-          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQUmtXQURSMFRLc0EybUhXTmtEaWJ1ZjlKb0x6WjBPUW5pMktVZTktdTlSYU90ZG9Vbjc5MFB3VkFxRnJ5WnRST3pOMV9fNkRCdVUzRlNFM3RPa2E1SWpWajlJeXU3azFDTG13UmcyYS02MGpsenUwd3MxdmFMWlUxWWR4aGxUWF9feU9lMkhPZGduMDNGTGwtaGdpUjVPZmRON0g1MzM1UmZFTmpleVUyTGlHYXpxb09WLVFLRmx6d091OEJydDlGbUE5TmRBWFBaV2JuaFo5b2RBUFFuOERSYUZMTExkbmV4NVByTy1VZFZsdW0tVV84?oc=5",
-          "date": "2026-02-04T08:00:00.000Z",
-          "source": "Kerala Kaumudi"
-        }
-      ]
+      "items": []
     },
     "73": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"ATTUKAL\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -813,43 +751,43 @@
           "source": "Mathrubhumi English"
         },
         {
-          "title": "Attack on ED officials: Kerala police tighten screws on CPM workers, 19 held",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSFVOZFp5bUhTbHhET2xtVjBic1RZU3hiQ0tlNkFjTWlYSnFqV0RMV21fbFc2bUE5VlVQMDJsZ0hrblFIVmFIOFR3SURycTljMHRLUzZCb1lLMlJOVy1CaUJDZmFWZXYteDRzLWNvMEExdUs1aHdiNDg4cHFlbU1oRTFTX1MtVDNlT3VKRDdaVjdSSWNxNWR5SHhUeG9rbWtMc0JmV01ONDhhbm5vODNHSWZTU2xrdjJ4d21EVkJwa01UeG1YUDZZNDNwUldSZ9IB2wFBVV95cUxPenlJZjdQd3BRay1DTmU4N2VfYlNfYXU0dndqNWJqa1hvN3NxMnRnMjVtVnpidGkxQjg4MjB0eV9WZnRXVE0wVGx3amsxVmZYZ0stdjJPdEk5UHdpaUR5aW5GZUxacUx4LVV5YzNOOWdWbXVDVnlra18tMkkzbzFPYlpIWFJheTlBVHVKQnVscEE3RURTWHl4LUJyanNCcXM1NVFJQkNWbFRPaUVaM3BCenI2OU9md2NpMEtzSDZ2dVVjNG9FOVNLdUI1Y1M3ZlVmQkNaN2RBZmU5bk0?oc=5",
+          "title": "Court rejects bail to 5 in ED attack case linked to raid at former Kerala CM’s residence",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNN3J2STBhT0l2Ynh1aTFCV0JwVWQ0eG9HaXJJME9meGRaamp5cktkel9nS2JOTTMxSjNqTU5SdGdmaWUzTGpWTG5aQjFrcDFQOTd2Z0tLUlVrTjlUYTRnQ0FVbVMtT3Z2MUhCQllXUjJjRW1qd3IwWHlnLW5PM2xQdG5NSzZyWUFEZzl5aDBfT2N2dEZLUkk0bVNwbW05aFdITUpwV243dzRUWTRkdGZmZWNMb085ejUxMWdiUnFsTFp2QTVfOG5TR0c1UEFQa1FjUXRpN2RwNNIB3AFBVV95cUxPYkF4cWt0Q1ZaLThxTWNCNjh4c3dLT2l6V0hRci1YR2dNdUpZNmZ1MzAxZHdCVDlNVXpiajVsS1ZxVkt4MkZYV3JSM1lCLWZWdGZTTGZjNF83Q2dSU2dTd2g3QnljbEJFTWFNRm9URnROM2tYOVg0UDlXaHJoc3ExNk5OSXpDRGVGR043a2Z0bHYwMzJBRWpVamNTdV9WMUI5UUdTRWhGWl9kYmlCaTJONEpEbFpVcTBCYVd5a0xfWTE1YUxFU1M3blZLZDhWOGlzdDVFeXhjNmp0LUJ0?oc=5",
           "date": "2026-05-30T07:00:00.000Z",
-          "source": "The New Indian Express"
+          "source": "Mathrubhumi English"
         }
       ]
     },
     "74": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"KALIPPANKULAM\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "75": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"KAMALESWARAM\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "76": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"BEEMAPALLY\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "77": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"VALIYATHURA\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Two brothers get life term for 2013 murder of fisherman in Valiyathura",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNbXJuNjk4Y1dBUk9GancxckFhY1FzZU5MZ1BUTlFIVlEycV9BWHFkUFhOcWZpMFZrbVl0dnJkYXo0Rl8xM1I1M1RvNFRnSzVTb01EZkJGWGxuZUlVNktzSVY5NU5WTTJfMUU1SGZoT2lrbTgzQmppWlZ1ekktajVhWWNiV3VTczVxLXBOMWFqNVBxU1RvcDNOUWhhdndnbXl0NVJ1UU0tUXAyRjdMVFF1WVVpZDI1U2RSYnBhT2JzbW85Nzk1ZnVPcE9zZ3BDWXRuTnp5bmpNbU9kU2Vwdnd1RjAyOVo3ODlyYmZHS9IB8gFBVV95cUxQcXA5Nm51RTZiN1BteDhwQ3lpZmlObGhLUHNFcnpiOTNmQThrZnMxazllWUY0RlllTDJobklsZzVyUmwtN090Qi1TcGtVS3BIbDdNd1QzTzFOUG5XRTZ1OGV6VkNQY0tkU25MTDlOS3F0SGtCczVpY2pJbEdFa0VYeGc5ek1uZlk0dGxvSkRvTjJDS1hLSlRYMkw3bjFvWVBvNFFUeXJQNWxMWXc2N3pVajRVZThxTG5UbWg3cXN5b2NtNmxFUUt2RDB5Ry1NTVJPR3g3Y1R2dnJ4QThrVVI1eDUwOGtFTEppRXlLOGMyelZEUQ?oc=5",
+          "date": "2026-07-17T07:00:00.000Z",
+          "source": "The Times of India"
+        },
         {
           "title": "Two get life term for 2013 murder in Thiruvananthapuram",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTXhsSjh0LTFzZnRoZXFnSHpEVElzSk1HVlRSbHVOSjI5OUFNTnQ5NXlEY3VPUzZ0NWM1VTNDeDBmNWM1TW5hVEpLTzZ1b1YwV2pKVE02UExmM1dEcUtzLXdHN1Y4SUFWQUpyYlNDaVdJZS1XNElDOUlOX3dLUk9BQ3JGOU9EclBuSVJHUjZqQTBvUnNtTWZGaFhFRTAtWWZ6N2fSAa8BQVVfeXFMTmtjMTVwYmc3UTI0aVlHSmlFZ1h6TnM3OTZkX0FPNGZpT3ZHejBCaTFFTHJ2SVNieHp6enotZlNQcTV5M2ZEVGU3LS1SOERLdVhhLVk2ZUpBbjYwTEZad2kwcFBjNzNQandXYXBXanNZcVhLT0JxbzkyV2tjelpVdlRVamwxb2ZOZkJ1MU1KXzZ0Z3JSdFlDbEpEWlR2TXllSUhSakktM0MzdVBfamEycw?oc=5",
           "date": "2026-07-17T05:33:42.000Z",
           "source": "Metro Vaartha"
-        },
-        {
-          "title": "Man held for attempted murder of family members in Valiyathura",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPLUZKRElsVWNjaFZ5b19JVGxmMFJXM0hQZmIxaWVvODBtTktkWFJpZGY0SjVDcWRxdUdMSlNmYUU1UjlYZDBCcFhHUFZjWmw0ZC1td19zM3B0T2RVSUVVZ0tuVTdyMFd6YkFmTjlESk13MmxzeTRPRXhfUWJqQjgzSTVTcVpBdzV2S0d5bkNKX2d0ZVZONkZiUV9wblU0Z1hHcXg5S3NuNXdkQm0yNmVVWk4tWUt5bVJGSms5YlYyN2VZdjRBNkwwWm5xaWhjLWFCMjFJaWZ1bElvS2kweE1yeDhB0gHnAUFVX3lxTE5kdmZCSjhhYUN3eFhVYkdLbHh6RDJYRUdTMlFZVWdwTElqQXE5bXl4MDVkSGh4UXl1MlVSRVphTzV6WVRBcXdod2ttLXVNOXVZZHpFMDA1WnRTT0hlRUVSS0M3NS1XSlZxUWJJRDN3R2VCdGx4dVQ1R1Ywbk1xcHF4UjI2Zkx1dFo1NHg2Q0VnQkdoS1dCX0xiWVlCdXUzdy1HeVVJRTlVeFE3U3BlSkZ3ZmtTSWxDdTNXazdjNy1yNE1iWGRTVFlIQTFqclRZT0RzTDNXcDZHNGtmR2ZvQWxvcVU5VFYtOA?oc=5",
-          "date": "2026-04-22T07:00:00.000Z",
-          "source": "The Times of India"
         },
         {
           "title": "Moral policing, verbal abuse and attack; Thiruvananthapuram Police arrests 2 over beach episode",
@@ -860,12 +798,12 @@
       ]
     },
     "78": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"VALLAKKADAVU\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "79": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"MUTTATHARA\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -877,17 +815,17 @@
       ]
     },
     "80": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"MANACAUD\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "81": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"CHALA\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "82": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"FORT\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -907,29 +845,48 @@
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMzd0dXp0bWp3YzhhOFlmNEEya2N0Znc3Y2VzN2taTjR5aFpmZjdpMWd3LTU1LWg1U0pCYVpWNER6eU4tNEhnY2ZxcVRMSUxNT1RoVXN1YUR0TDZIXzFNcnlJejVUbURlZThFeW9ITlc3TnRwWERZVEppR3JGQXY2SHlHcmxtdVJWbXVPWERFX0ZvbWRQNVhMSXVRU3lOSzIyV2VwR3dlYW1RcXB50gG6AUFVX3lxTE9VODBTTGlRcjJpYjV6Y002anc4cFJ2a2lnYm95c0tKUHI1LUFrMTd1QUlwU2NhTUk5RXRfR0stQ2tManQ5ZlNFbF8zUXBabFVWUGc5UGxWN0VDQ2NKdXRpY040dF83d2JtYUFVdnU1NEItb1d0SWhFXzVNcWs4aHFCcWpLZXBDXy1BNVBmS3RxSGNTc3pZWFRhbzliUGJCUS1QS2NSSk9VaGdhQTlQblk2Z2JFMlRKbDNWQQ?oc=5",
           "date": "2026-03-05T08:00:00.000Z",
           "source": "The New Indian Express"
-        },
-        {
-          "title": "Four policemen, including SI, suspended after custodial assault leaves accused with severe ailment",
-          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNZ3FULU1SZ0tHNEtHWW9lNkl4WkpmbjlZaVBlOV9oN29fa1dpZ2Q3NEs4b084UmR2b1lyTzd5TnB4N19DSldPSlVMSFRMd2lTd3pYNVVOSnhaQk9Ua1J3WGp4b1pqVlc2NkdxdEY4c3U3QVJGR05CbTBQdUNzdndtX3I1MjBEZnlWOVdzQ25LTFRZMktNZ3hKdHNzS2xGb1dDVW1GVk5QY09XaGxHSVdDdlFheG5Md1JzSzBxNWwtLVhhcnpQdER6ZDRqTHNFeEdUUTJOUE0tc1JSbHBYMEtKWWVOYWJBdEtiYUFCTEtVdGVkbF940gH7AUFVX3lxTE01VHpsUzJSNHh6T1MtbHFBYk85YTZWelQtZmM1TWRqak9faDg2VDBhTTJ0dWNDc21XWXJLaFlhUXl3akRrbV9JLVJpYnhmcmtNSWVRRU1zbVRxaHNiYnpJZi1zc3FlSDFlQjRSTzRwZ3gzaW13UTdaWFF1UDdPUDB2MGJaa00zaFVnc295bTlPMnRuV3VpWmdvMFpwalFUa19oYU9VSFRieF9NZ1FVRmNiWmVYRXUtWldCaXdkc0drcUdUaVQtMnd0OE55RFFwc01FUEI2aFpxVDZDTjMxbVF0LTRGRDJieWU4YUxsX3VhUmJ3dkJVQnlCS05N?oc=5",
-          "date": "2026-02-27T08:00:00.000Z",
-          "source": "The Hindu"
         }
       ]
     },
     "83": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"PALKULANGARA\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
-      "items": []
+      "items": [
+        {
+          "title": "40-year-old man hacked to death in Thiruvananthapuram, four arrested",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNY2tmNjE2Q3JiY0llQTNqektuUVhHMGppc29YNDVVVk85T080d2tfb3FEeFFBMVNDTXMtNVJhZS10em9DaVJ6QUxWM1BkZlgyVnlGaWQzUGpMenZLejItMmpLa1VEb21ybnNTUzA5RlNCUFJDNEJ2QlFVRGx2UVQwN1dIdy1sczJNU09PUGpHNElNYUF2SDJrRC15V1dtV2o5RjBBQllORFdyeENFOVpCRlNnT1BoT2lwNG0zdXlZVkJjMzdsOGFxLW94NnZ5NlcyUjdXSNIB4gFBVV95cUxQMjROclp3N1kyZVhXYm9tZl9lN2lpaWFlclljbENBT0JEUHFBQnY5Z09nS01XNU1BOEYzeEktWTYzajkxUWNsZGFmeERCdFN0WGxYbmRPX3dFNnBjQlpUc3dWU0dLbWxMRVJQZ1hySnlCR2UxdUp6RmJjNWtPNEdLcnZCYk1UNDdhWXZwZTFqbWFMMEdyYm9qczdrMC1XYlZCSDcyYjBMTWFKSl9HcEZRR3A5cHlTUGtxTVpXMDBXaVBGRldQeEI0Nm1LV3lNT3hnaWpRekRjLTFZVXNlSm9PbWtR?oc=5",
+          "date": "2026-07-27T07:00:00.000Z",
+          "source": "The New Indian Express"
+        },
+        {
+          "title": "CCTV footage captures broad daylight murder in the city",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZDdHU2M1VDR2LURURm93Qmx4dTB6SVItWkJQNlo3RXNJZThkRWQzanVRUFQ1Q1o2cTlaOHV6TWVzSjJ3b29TZmJ5b2d3OGRSS2dXLTQ1MEJCdDVDa3RyMWRCZFY4R0pmRXJ0dzNRWHpyMUFuS3FGTXJEdlgtWnU0cjdMQWtiQXJJYVo0X0E5OVdJVlhKbkNadU90NktBV1o5Y3lCSkhTYnRTck5WaTVVMkpnTUNlNmV3ZktReFZTOEZrVDVVdDFSZGxFZjBwb3JWQXZhNDNRbEzSAd4BQVVfeXFMUDFWSkttdGl5aENsRDg1RG5uNWxDUXVNR0pRc1dHUUJvMnoyZTNoTDBBNlVKMjFGSEZNU0R0TGxRSjZEaG1VZDhTWUIyTFpmaWt1NVZPR3JKTkNjNlN5QU8yZUdTZndjMG5oZnVOMmxaUEp0YVBfNklxTzQ0VWpnYW1xTjZFT2hGYnUyUzlsOFdzdXplSl9ocmVCbUV1SVlSZkNxM1pyOEcxSFdpblUtWElPbGo2bHlWekRsX1U1R1Z4SGxpV3EtazlLc1dMcGoxa0l5OXo5VVhKRVdpS0JB?oc=5",
+          "date": "2026-07-27T07:00:00.000Z",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Police recover weapons used in murder of Visakh from bushes",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSm85cVRudDhGZFNJNXdja3hUbXd3b19XbDFSYjhZZ09nQU03WHdMYUNvZE1xU0pLZzMydFJwVFpuUG9ZVUhtd2ZmcW1VX1p2aEFjVlFNVzNCSFhKY2Jvd1padkZzTzdUcjVSeEc5VXp3NmU1V2cwc0lzdEZXRFprM19OYVR3OE4wLUFGNThNTUNkcUJVd1pZUUVCc2l0Y1NVcVVyNjZablh5SzdTb2c?oc=5",
+          "date": "2026-07-27T07:00:00.000Z",
+          "source": "Kerala Kaumudi"
+        }
+      ]
     },
     "84": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"SREEKANTESWARAM\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "85": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"THAMPANOOR\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Five associates of Arjun Ayanki arrested in Thiruvananthapuram",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRk5NRDlrLTl1V3I1OE5BSHoyazNCZVhXREJaRjJsSm1HOXVRemdWOWhoRTR6Y29RX3FBTWF5SVhsZmN1aGNmNjE4Z2tNSzY4XzJVRlFqd0d2WjJ1cWx5RlNzYVBYdzUxQ3FDek5uVm41WW90bkRmdlQ1MHlxRGQ5N09OMzRFZFVaVXZLM1Vxd3NOMFR4V3d1aDU2SEI4cVYwMktNNTlicFRRZ0c5Sm14Y2ZB?oc=5",
+          "date": "2026-08-09T07:00:00.000Z",
+          "source": "Kerala Kaumudi"
+        },
         {
           "title": "2 arrested with 2kg ganja",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTjkwSGotTTA5UkRtRHBWS0ptLW1sbklkM0d0SjVCUTF1RXJJTFpLclkwSG5iWnBReXpzOVBNMXEyNGhvTGZ3OUVjei1rN3Zrdm1zYl9BVWRFUVVrZnEzRWo0ZnhoVGI5T3FFRktzTjlJeUptQTBYRGtBM21pQzBZTi1MSHpDaWVsVk9FUkpoWDJwMzNHUnNYZGRxbmpVbmJ1ZURqTTYwdWVUcnJpaWxHV9IBtgFBVV95cUxPcUlGU0FkTkNQcmdyd1dsbWdLclZBZDNCcVptRkJzX2pyZHN5Y0luZmt0Nko0N2xFbjRTNzJvckVoUC1ZcjF6RXpfc21fejJ5b3BfdkpPYjh0R3Izc0piVHQ5TS05cHQ4c3M1M3F3Q0wxV3JZTTBmOHZHbXFhMGhSemUtRUptOERHVTZrZENDeHh2N0laZjBjejRuN1V1dEdleFNJSG50MmRkQnFabDlvanJVaXJwZw?oc=5",
@@ -947,40 +904,46 @@
           "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNcGF4WFEwRVJyeXU2TmJfOUVWUV9TOTZLVGVpa29RbVBTQlJZcjZHbUJSZDFpLXdwcVZDMjd6ZVp1Yk9yTkdSM0V1Yno1X0sxOG9wNXRjWURSQmdNR3JSN0Q1enh4SjVKZFhITzNhZUlrRC1jUWNjenpFckpualRFME5xazdxbm1iSVhnUGV0WGktZTBHekZMZG1KNnNzdDlST1pXbFBHNlVWNzVUdFNzZi01Uy1MWTlrSXBfSVp1OGhWU1Q5QTc1TTFPTzRLQl9KbERjbWV1Nm1TSXFsVFZCWEdBemxPUDhjdzdJM2Q3ONIB9AFBVV95cUxOeXFTc093MFprNmtQa3BZMElhX1QtY01qcnVtYnNmV1hHbDZPWmw4Ti16bzI0OFZXYmpPZDVDdlFyUElHdmxmR3dfczZGVDl4aHRmMUJSaWRiMkVuYXBURnR4a3Z2UFhQazdaRWhNMFRRLUhRbjdJek9lSGp6WjZ5RGhwQjlIM3lnbHlKQmhzRjZZZ0NuZnEyUFZGaExqMmQ5NmFkTXk2WGFoZElPS3U4VlBIajdOWmhJdzU2azQxR0RzNURJVVNra2NEaU1sU1BvLUtFakNqcndFOTBXMjM0TW1qZ1lYQ2pBcV83cXlJU2xKZFNN?oc=5",
           "date": "2026-05-27T07:00:00.000Z",
           "source": "theweek.in"
-        },
-        {
-          "title": "ED officials injured, vehicles attacked, stones pelted during protest; Violence erupts in Bakery Junction",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxORTRJdWlsR3Q0NU9tempGNUQ4bGVPcXZTUVRHYWt4aTQ3bUR4SWJGR0l3MDZRXzlMWVBncHM3YUREanBlTkxKSmZEYzI4cmN3Zk53UTlOOTMyZ2VndjUtM1l3LTNYVS03UkdIMWtOV0h4UFM3UnRLUk5kTVVLTnJkaTNwMEpTOWY3c1V6eUVhN3hWTy1fUENCMFpCM0dyX2JTZm53ZEREbVdCbzRJTFVoYmFNQno5TDhGNVBqWmhqWktvMV9lOGhiLXFsZkxPend1ZC1ZRmpRVmRZamNNZlZWR1BzMm1NUnNnQkE?oc=5",
-          "date": "2026-05-27T07:00:00.000Z",
-          "source": "Kerala Kaumudi"
         }
       ]
     },
     "86": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"VANCHIYOOR\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
-          "title": "Attack on ED officials: CPM local secretary IP Binu among 11 in custody, 8 arrested",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMWlvQVlqYWVKS2Z2SC1WUTZDVV9BUTUwUU53ZlZWSDEyVWg1S2RXa0FpdUNSM18tb1BqcGtqNUM2akhRc2hkY3liQ3EyUlVXXzdrZkRFNms3QjlWbDA3a3lOVm9UdWQ2R3FlSk1fcmM3SmRRMUtyUElSWjZkN1NxLTN0TWF5YUFhZ2NwSWM2azNCTDhaZkV0c1RPREtSTVhOVXk5VzZocmlCWjBpNEF0ZHJxckRadWxva1I2TTRDbFBuZ2RTVlpj0gHHAUFVX3lxTE8xaW9BWWphZUpLZnZILVZRNkNVX0FRNTBRTndmVlZIMTJVaDVLZFdrQWl1Q1IzXy1vUGpwa2o1QzZqSFFzaGRjeWJDcTJSVVdfN2tmREU2azdCOVZsMDdreU5Wb1R1ZDZHcWVKTV9yYzdKZFExS3JQSVJaNmQ3U3EtM3RNYXlhQWFnY3BJYzZrM0JMOFpmRXRzVE9ES1JNWE5VeTlXNmhyaUJaMGk0QXRkcnFyRFp1bG9rUjZNNENsUG5nZFNWWmM?oc=5",
-          "date": "2026-05-28T07:00:00.000Z",
-          "source": "Onmanorama"
+          "title": "Vanchiyoor murder was pre-planned, say police",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWTJrdEhWcGRuamlBaTNWTG5hR0dsVjZ4ZGp1aHdHMF9KU0p2d3gzWFBnVmx1Vk5BcFpxSjFGRVFNZGtsY0h3VUVoUVp2SUgxZHJvdVY5M0tOX1M3TWZMTVVjb2d0cWkyTkUtR3RoN29ONGdqcWFSRURFYXIxVmJoVDZrcDZ2OERTLWRhbTN3VWlyaTZYNXJ5V3MxcXVvbEo4WkxIWVdaR1h6WGN6N0lTMHdkdkQ4d9IBwwFBVV95cUxOYlFhVTFqMmNNd0JrcFpFY28tQng1WTBJdjJoaUVMdC11Z2dXQzFWVFJlUXZJal9aa3pYZ1lDT2N1QWdtWGJaVmxNbmd3M1E5NkZxeC16dHRPM0FFeXBBT3o1aGFRck9UbkN2THU3cVR4QmlJLWJGSEhSbmoycXVLSDR6SHFlOUsxWG5LYTRJM0RicGlxVG5JVW93ZWVEc2MtZlp0SFAyNDlTTUN1clFIVXpGNXRzcEd0eDZST3VyWnhvODQ?oc=5",
+          "date": "2026-07-28T07:00:00.000Z",
+          "source": "The New Indian Express"
         },
         {
-          "title": "IUML’s Thahiliya, Firoz face backlash after selfie with Rahul Mamkootathil",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRV9ZU3NEcHlaQ2lKd21yQ2l0MUxhWDJaUldhbF9DMm9MSkYzWEtOZ19OSlZjbHN1dWZuWXBGMERDbW1KZ1RwR0V0TWhFRWE4RDZyTll6aFZjVzRLWU5vQ0lyd2ZxaldiaXJxTXlPSWtyNkxpY3o3XzkxdUJhU0I0bmhmYVlRUk96NldkdGhzLTZhSE03VDBJMVU4UENqbUZHd0ljTTBPbFdsZGhGWU05Y25JS3NMZVlpMDlIT1FyNXJvTmVlWkZ5N0ZSRdIB2AFBVV95cUxPTWZlY0xNRmUxMXJuekkwdTJQUGxHYjNQRHItb1c0MHZtQWdDVlNRRTl1Nm56WTJsbjBpR2tXRzZ2cU13VF9ROVlnUTQ4eXA1bEVPOUJqaEFrdXV5Tjl4NHB6cHBfdlZTZjBJVUg4ZVlFVlowdUYxbWdGSUxjaVg0TzUxTDNaa05nSzUyZDAzVEI1YUJRX2FqcVdvMGdUUkdCM3ZySkhaZUNpTUpwUWpnVU1TN1pSNElKUlUxY2RQcDkxRFd4TVM2MERBNE9CaHFISjFBYUZUVGI?oc=5",
-          "date": "2026-05-17T07:00:00.000Z",
+          "title": "40-year-old man hacked to death in Thiruvananthapuram, four arrested",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNY2tmNjE2Q3JiY0llQTNqektuUVhHMGppc29YNDVVVk85T080d2tfb3FEeFFBMVNDTXMtNVJhZS10em9DaVJ6QUxWM1BkZlgyVnlGaWQzUGpMenZLejItMmpLa1VEb21ybnNTUzA5RlNCUFJDNEJ2QlFVRGx2UVQwN1dIdy1sczJNU09PUGpHNElNYUF2SDJrRC15V1dtV2o5RjBBQllORFdyeENFOVpCRlNnT1BoT2lwNG0zdXlZVkJjMzdsOGFxLW94NnZ5NlcyUjdXSNIB4gFBVV95cUxQMjROclp3N1kyZVhXYm9tZl9lN2lpaWFlclljbENBT0JEUHFBQnY5Z09nS01XNU1BOEYzeEktWTYzajkxUWNsZGFmeERCdFN0WGxYbmRPX3dFNnBjQlpUc3dWU0dLbWxMRVJQZ1hySnlCR2UxdUp6RmJjNWtPNEdLcnZCYk1UNDdhWXZwZTFqbWFMMEdyYm9qczdrMC1XYlZCSDcyYjBMTWFKSl9HcEZRR3A5cHlTUGtxTVpXMDBXaVBGRldQeEI0Nm1LV3lNT3hnaWpRekRjLTFZVXNlSm9PbWtR?oc=5",
+          "date": "2026-07-27T07:00:00.000Z",
           "source": "The New Indian Express"
+        },
+        {
+          "title": "CCTV footage captures broad daylight murder in the city",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZDdHU2M1VDR2LURURm93Qmx4dTB6SVItWkJQNlo3RXNJZThkRWQzanVRUFQ1Q1o2cTlaOHV6TWVzSjJ3b29TZmJ5b2d3OGRSS2dXLTQ1MEJCdDVDa3RyMWRCZFY4R0pmRXJ0dzNRWHpyMUFuS3FGTXJEdlgtWnU0cjdMQWtiQXJJYVo0X0E5OVdJVlhKbkNadU90NktBV1o5Y3lCSkhTYnRTck5WaTVVMkpnTUNlNmV3ZktReFZTOEZrVDVVdDFSZGxFZjBwb3JWQXZhNDNRbEzSAd4BQVVfeXFMUDFWSkttdGl5aENsRDg1RG5uNWxDUXVNR0pRc1dHUUJvMnoyZTNoTDBBNlVKMjFGSEZNU0R0TGxRSjZEaG1VZDhTWUIyTFpmaWt1NVZPR3JKTkNjNlN5QU8yZUdTZndjMG5oZnVOMmxaUEp0YVBfNklxTzQ0VWpnYW1xTjZFT2hGYnUyUzlsOFdzdXplSl9ocmVCbUV1SVlSZkNxM1pyOEcxSFdpblUtWElPbGo2bHlWekRsX1U1R1Z4SGxpV3EtazlLc1dMcGoxa0l5OXo5VVhKRVdpS0JB?oc=5",
+          "date": "2026-07-27T07:00:00.000Z",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Man fatally hacks neighbour in Thiruvananthapuram; four arrested",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOS3MzQndSZWpsRG5uSl9vNUFVNDBzUEpmVGlYUnN6QkdTaGk5ZEdrMnBhVTFPMWdnQVBVMzR6R0taNHRrOTBHTU9pVUQwQmc2LTJybkd1aVFLYWlWcHhVc0lCb1VkLUc5dmY5RzNMdjVrenJaVlRiMVBmeXJkSGtoS3hxZGZQNXhKNmRVYVRYWE5laDNXQzZwVXdMTWJNSWZFeWk2R2FTR0VTX2lEVXJaTGVDb1g3dnZ3c2FRSF9xaTBQUmhncFAyRnFNcUdIcW15SmpXMEdFTTFBcjFBUFp5QlFWc9IB6AFBVV95cUxQVWFoOG5UOVFPZF9mQXc2N2piQTROWUx4d2stZ0dCa1pSeHFmZGk4cGhKSk9wMm9TUGNQNlpNS2JQZW1tTFExYVFOd19TU2s1SHo2LWY3QjFvSnQyVmJ2RHByOXhIY3EtRTh1dnhWcjhiVHNqTEFVWTBKT3l4RnRzdUttaW1PaGlCVi1oczQ5XzJfcTlXeW92WXIwV1Z0WExuV3BvWi15Vl9OMnE2eTJXbWpkOGt6aFlQSkt1eFhVMjR3RFBuMEMwNlNEdUZOQWVQblh3TTl1LUZlU3dUSVZKbWw4U0VmTFZM?oc=5",
+          "date": "2026-07-26T07:00:00.000Z",
+          "source": "The Times of India"
         }
       ]
     },
     "87": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"KANNANMOOLA\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "88": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"PETTAH\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -992,22 +955,22 @@
       ]
     },
     "89": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"CHAKKAI\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "90": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"VETTUCAUD\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "91": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"KARIKKAKAM\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "92": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"KADAKAMPALLY\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -1019,51 +982,37 @@
       ]
     },
     "93": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"ANAMUGHAM\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "94": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"AKKULAM\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
-      "items": [
-        {
-          "title": "Two TVM youths sentenced to 10-year jail term for sexually assaulting minor",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVVBtQS1LcG5CZTY1SkNWaWxkd3l1Y3NlLXA4TGR6RlVvWHowVkpTbWx1VTZMcGJGbU16cVdRT0poVkRjOEZuWG1NZHJzTDQxR3BxSkQ4ZGZ0MllqUU5ESG8yTXZRejl0SFdJU0tGWnBKWlRzRkdjaG1FYWpNZFE4a0JiUjdZanlPUlI1YTI5TmJFZWdKVm15SHV30gGaAUFVX3lxTE5VUG1BLUtwbkJlNjVKQ1ZpbGR3eXVjc2UtcDhMZHpGVW9YejBWSlNtbHVVNkxwYkZtTXpxV1FPSmhWRGM4Rm5YbU1kcnNMNDFHcHFKRDhkZnQyWWpRTkRIbzJNdlF6OXRIV0lTS0ZacEpaVHNGR2NobUVhak1kUThrQmJSN1lqeU9SUjVhMjlOYkVlZ0pWbXlIdXc?oc=5",
-          "date": "2026-03-28T07:00:00.000Z",
-          "source": "Onmanorama"
-        }
-      ]
+      "items": []
     },
     "95": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"CHERUVAIKAL\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "96": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"ALATHARA\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "97": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"KUZHIVILA\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
-      "items": [
-        {
-          "title": "Police arrest third accused in Kovalam temple fest attack case",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWTdNM2tvV0luXzllRHFQS1FIYVFQNEgwdjZjeG1BemZhbzVGSnRZeVQtZDRNZ1VXX3QxNnY0cW5QZ1RZclJFLVZJajVlazZNMEl3bzBYOHpHOHZXdDJrbTNPaC0zZWhsLTktakxGd2RPVTdoclVkTjlwb1BnSUQ5LTFnLUg5Ym9PZFZDN1IwcnhWcHVTQkhwMmVkOFBFb3N3b1ZZS1Zxa2dnTXhMVGtmTEdLYnhfV0ozb2dEVk1PRmlTWkh3WVZpRjdUb3NuTkZRU2xiWW9Md1pJOEJMc3d5dkxR0gHnAUFVX3lxTFBvWVNwalJkRFpLY2dScC11VDBjM2djZzhVRUxnRGU4a2w2UUlhTFRpZ3VvMVFtYVd5Vm1JVG82ekN1amZXSUFoc21McW9Xd1FFTEJzSnB5VEhVVm9hUUprdEtxMVgtb2dZRWxJM19VVDJBUmxxRGw0by1sUUhUbmg2UHhNcHdHZXNMRW8wbGhLajdhd3k5cUx2by1qYkI0NzFwVzhIMU81b0REeEdRWkdrN3BmR1k1ZkJtblVvMnkxdUxFOGY5YXlaUkJhR1hyVmp2VTU2cU4yZzJOT0xRQnRtUmlwbEZwbw?oc=5",
-          "date": "2026-04-26T07:00:00.000Z",
-          "source": "The Times of India"
-        }
-      ]
+      "items": []
     },
     "98": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"POWNDUKADAVU\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "99": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"KULATHOOR\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -1075,7 +1024,7 @@
       ]
     },
     "100": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"ATTIPRA\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -1087,7 +1036,7 @@
       ]
     },
     "101": {
-      "cachedAt": "2026-07-26T07:06:29.283Z",
+      "cachedAt": "2026-08-23T05:09:38.747Z",
       "query": "\"PALLITHURA\" Thiruvananthapuram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     }

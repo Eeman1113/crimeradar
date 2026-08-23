@@ -1,16 +1,22 @@
 {
   "source": "https://news.google.com/rss/search",
-  "scrapedAt": "2026-07-26T07:12:31.002Z",
+  "scrapedAt": "2026-08-23T05:15:53.388Z",
   "wards": {
     "1966": {
-      "cachedAt": "2026-07-26T07:12:13.388Z",
+      "cachedAt": "2026-08-23T05:15:35.510Z",
       "query": "\"No 2\" Aizawl (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "1967": {
-      "cachedAt": "2026-07-26T07:12:13.388Z",
+      "cachedAt": "2026-08-23T05:15:35.510Z",
       "query": "\"No 3\" Aizawl (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Mizoram police arrest two over 15-year-old girl's alleged murder",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQ0ZxUGR2bzdIVE1fQTlNdWVqS2VCam1ha2lzMl9EZjA3b2pYZXVBVGR0OWg4LUFBOEpDVlZYSFl4ZUVjaTdNa1BXUGVyMndYdWpzckxDcjRmWUhBbWRqa1BfTWpIcEZmQmxtSzc2emUxVzVaWE1FNWwyelpIRml6Sk80MGZ3THUxbU5JSEZpN2E2OGREbzFWamc2cmhvMGMtYWc2d2pENnVYclBQV2IwWllzWEFtMk5wamRzNjhJSC1SZ9IBxwFBVV95cUxOa3huZkhKcG1OcHo2OGJNbm5uSWVaWFpudHlZMU9JLWtMazVHQ0QwQW50LV84YmdlR1JxS1hfVHlwT3d5WlVXQWJQaU5pMHJ3aTU0WHUtanFCdy1ELXpVUmpLcGFQUDJkRFBPX05ENHNRS1VWMVg3S25WMXQwZjc5QUNqRDJaQmkweUo0Yl93aWdsNEtOZGZfRHd3LXJHS0pJZUdFbUVhWjJKcU95TktvclZ0TWFfRWo3Ukl5STlzTlFEaXdUQTNF?oc=5",
+          "date": "2026-08-20T16:03:12.000Z",
+          "source": "India Today NE"
+        },
         {
           "title": "Former Mizoram tourism min gets pre-arrest bail in graft case",
           "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPS21VTDRjNDB2SDBGNzJVM0VmUnNzZXFlTGdtTThBbGVEalk3YS1jSHdHbWhSRFZjQ0NGazBUbHo3Sk8zYnNhdkpEaGNST0hhaWd4RTlvaGhQNkZrblltZ2VMZ0FfT2JEQ256RXBtZ0g1OXF3eEJnQ0N1Y1VtbnQxTUZnOFdGbVlHdTk2UTBVVk55aEFFeUdwb0p2dngzTlhNeG5IREdjWmFxdzRrUWNnTlJ4LTRqLUtNd1l1Y1VfamNpaXNFVVZZbThVdzlIdjRlc3NZ0gHYAUFVX3lxTE1LRzU1X2hBOEEtRGh3eTN4c2Y4X3k4X3NxeW04bFk5MlNxSFZPWGRaLWpfQThMM0xRSjdDb1MzQzJZR0VGeXRKbmxRd1VLalBzbU1Ka3pITEc0VWh3bDUxRmhNc3E2QXplbVlCc1g0UHNfbGRHMDktNmZDSm9qZFdwRUNMdlplbWlIVlJsVXNXbTJnOTlxYkRtb2NwdHRsRVdnSlVHQTUxckQzZmo5R3BCdE9aQUd6TFZkcWFseXZ3VjQ5bGNRbVNaME9OODVIdEdLcVg1anJESA?oc=5",
@@ -20,101 +26,120 @@
       ]
     },
     "1968": {
-      "cachedAt": "2026-07-26T07:12:13.388Z",
+      "cachedAt": "2026-08-23T05:15:35.510Z",
       "query": "\"No 4\" Aizawl (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
+          "title": "Assam Police Tackle String of Violent Crimes and Drug Trafficking Cases",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPS24wbkVNdnRZODk1ekpYX0ltaWF5TnRXekMtcUcweFpRUXAxTURTdEdQY2I4NXpPZldSRUR5WFh6Q0NVZG9Td1VuZkkxM2dGUVgtbFlDYU1IOUZZckExMUdUcUFfanZCdUhYVUFNbEhtVE41VGY0bGdaU253VXllSmE4QU5BZDJ5M3hvcWQ3Qkl4Q29yN3hkeTR0MzloeXM?oc=5",
+          "date": "2026-08-06T07:00:25.000Z",
+          "source": "newire.in"
+        },
+        {
           "title": "ED raids in Tripura, Mizoram, Bengal in Rs 142 crore cross-border drug money laundering case",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRlpiLVhoalREZmxESU12M3I2VHRVeFdSc3Z1ZjhqM19PVzhpX3F4QlE1LTRYWjJXdFdMNGRLd21tVk1KZVBjOHMxOWVmTDZYWGM3TTNQbUJPTXhvQUlCSTZfb3FHb1plczJXUmwzd21TaU5vb2FMS212ZFFtaWdhUngxYV9xaFN4bDNnaGp6WE96ZDJ6SGJrZnJGUG1YdF9jaTdGbTR1LVotQWVWRWctbXZTVG1nZzg?oc=5",
-          "date": "2026-06-08T06:50:25.000Z",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTldrRlNXcVlqYVVWY3hNUndvNXJ6T3c0aXlHVDhCQjhrM0duMldVSy1LeWdBQVZjVDFYMFQ2T0l6T3N1RE44aHNYNEFxbk5YR3hEU3RoMlhocHV0eVN1YVlMYVMwRUFkWmMzTW05YzZJcmxTYUx2ZnZhTUladDFrekpqMXNTaEMySWZ0d2V2MHZtaU9FM3NNc3VPUVp6ek9XN3gyMU5vNTBIMWZQOWNpZUJnOUJYdFRzMUxPNw?oc=5",
+          "date": "2026-06-08T07:39:38.000Z",
           "source": "MorungExpress"
         }
       ]
     },
     "1969": {
-      "cachedAt": "2026-07-26T07:12:13.388Z",
+      "cachedAt": "2026-08-23T05:15:35.510Z",
       "query": "\"No 8\" Aizawl (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "1970": {
-      "cachedAt": "2026-07-26T07:12:13.388Z",
+      "cachedAt": "2026-08-23T05:15:35.510Z",
       "query": "\"No 9\" Aizawl (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "1971": {
-      "cachedAt": "2026-07-26T07:12:13.388Z",
+      "cachedAt": "2026-08-23T05:15:35.510Z",
       "query": "\"No 17\" Aizawl (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "1972": {
-      "cachedAt": "2026-07-26T07:12:13.388Z",
+      "cachedAt": "2026-08-23T05:15:35.510Z",
       "query": "\"No 16\" Aizawl (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "1973": {
-      "cachedAt": "2026-07-26T07:12:13.388Z",
+      "cachedAt": "2026-08-23T05:15:35.510Z",
       "query": "\"No 1\" Aizawl (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
-          "title": "1 American, 6 Ukrainians arrested in India for plotting terror activities",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOGJUU2Y4RWhWTENXMHpfZHRpSGtaY0lGZ0xEdkZ0aWRRdHRmUFhLSWIxMGRiSlY3eW9KRGxzQTN5dGV2eUpKMjhhcklSY2dZNERRbUFkVEx5UFZsdVc4bThqZmdtNGJrb0lHT1JNclc3SlRoa1BTaGEwWTd0bXZORXd0azA3cktwU1lNeTVUMWd0dHlIMmxQWXNKMDE0WFlUalBfczdLNjVRaUlXX3NCSEdkTDNjcTTSAbwBQVVfeXFMTjRSa3FqRWY1ajlDcWRjS2drZUppRWNfSHNmbzBJZWdDcHdraDdaUnM1dUQtQTNqQjJLcm1YMi1BYW5iR2ZmZnd4dXNnSXViSnBBcTQ4aU5pTWJCbkYtSkwtRGkxSFZLZGtXdUxNNGFNcnpjV3VlLV9xSVNxc2Z6UHpfTm0tUWxVVmdiNkxVMFBPWnM5cXpGajlLZkVWems2SFRXVmRTNU55akpScGFfNGNKYzZ2Rzl3UkxYakk?oc=5",
-          "date": "2026-03-17T07:00:00.000Z",
-          "source": "WION"
+          "title": "15-year-old girl found in pool of blood at Assam home; 3 held on rape, murder charges",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQMl9jYVhkTXltWDhsbGJmQ281REJ4LW8yZktFMjBIazA2ejZGQ1R6MGxqUkI4SURTR0tSTmd5aGhPX3Q5d2JkMFg3ZVR6aWV2b2U3R29RWXNCMzNlUGlYVEEwdTNKT2FUMDh4M0o2Rm9NbXZ6VzNZNmJWamloTzRFTEM3dEI2eFZtUlo2ZnMzWFdvbFZuS0Z6SzVCNnRraF9rOUYtRmNEdW05SnBoUEROMHppdUowd1cycU9EdENYeF95XzdxbklQYnhMdGE5TmNpUV9ia014RllFUWtXVE1mX01oYWc5LWpGV2dmc3gxdljSAfYBQVVfeXFMTjZ5TFdLTnZmMzlXSGV4VW93dm1wR2c3TkV4SnhGeVhCVC0xSV9rSjlGTnRrMjM3QzhBYXRFM2ZSM24yRFF2ZlJmb3llZDFfSHVkY0puZWVDZ2pqZjMwNEpHTXBKbEF2c1AtLWp4b1ZUUkZBMDNXcllsZjlPekp0QkFJWE9MVDBJeExxeGJhZ2M1aGk4TG1VWU9Xd0VxWmNkbmVLanFwMEtKNk56SnpyRGpLSHBFRUc1UElDQ00wX2lOTnA2ZW45eXFPcHA1V2FBak1OajRBd045V2ZNU09HOXFhU1JaTWtwQlpJdlRUUFRfN2JYN0d3?oc=5",
+          "date": "2026-08-04T07:00:00.000Z",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Mizoram Police seize drugs worth Rs 23.23 crore, arrest 11 in separate operations",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbU1GNkhNRkNxR2pBSUMyb29YcUxPcEVyUmR2N0t5TTNmMDVWM01kakczQVBIaXB3N1FZNHVRTUJUWXY2OFZFY2dBVWtLVTBHLV9KMEYtY2dFV20zSVlLN2RuV0JxcElJTk1UUWlSeGl1LXo1WnlSUWRiR2RkWVBYcmtYT1F5ZldoMXVHTkJnZlpYWk94VE1rSVFNTjlqYlp2SFVRaTZyTkdIWUltT1U0TnB6TQ?oc=5",
+          "date": "2026-07-23T07:00:00.000Z",
+          "source": "nenews.in"
         }
       ]
     },
     "1974": {
-      "cachedAt": "2026-07-26T07:12:13.388Z",
+      "cachedAt": "2026-08-23T05:15:35.510Z",
       "query": "\"No 7\" Aizawl (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "1975": {
-      "cachedAt": "2026-07-26T07:12:13.388Z",
+      "cachedAt": "2026-08-23T05:15:35.510Z",
       "query": "\"No 5\" Aizawl (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "1976": {
-      "cachedAt": "2026-07-26T07:12:13.388Z",
+      "cachedAt": "2026-08-23T05:15:35.510Z",
       "query": "\"No 11\" Aizawl (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "1977": {
-      "cachedAt": "2026-07-26T07:12:13.388Z",
+      "cachedAt": "2026-08-23T05:15:35.510Z",
       "query": "\"No 6\" Aizawl (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "1978": {
-      "cachedAt": "2026-07-26T07:12:13.388Z",
+      "cachedAt": "2026-08-23T05:15:35.510Z",
       "query": "\"No 13\" Aizawl (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "1979": {
-      "cachedAt": "2026-07-26T07:12:13.388Z",
+      "cachedAt": "2026-08-23T05:15:35.510Z",
       "query": "\"No 10\" Aizawl (crime OR arrest OR snatch OR rape OR molest OR raid)",
-      "items": []
+      "items": [
+        {
+          "title": "Mizoram: Saitual Police seize heroin worth Rs 1.74 cr; 2 held",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQT1FxOVNpeWJocjMzYS1pU0tpX1lvTm9tVmtEZy1TTE9CbTE2aHZtd0FaMjFDUUJVTnNVREJWa1V4NThPOUNjdlBKdmNHRkFXclQtRVFzQ0NMZkVNbTFmVnJILVF1RGsybklQUW9tTkhRVy1xVGxmcmlJYnBYbjkwSEZOS3dWcm91RE9pZDlhZFo4V1hvZXpERVBEN0VKUlc3QWc?oc=5",
+          "date": "2026-08-13T07:00:00.000Z",
+          "source": "EastMojo"
+        }
+      ]
     },
     "1980": {
-      "cachedAt": "2026-07-26T07:12:13.388Z",
+      "cachedAt": "2026-08-23T05:15:35.510Z",
       "query": "\"No 12\" Aizawl (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "1981": {
-      "cachedAt": "2026-07-26T07:12:13.388Z",
+      "cachedAt": "2026-08-23T05:15:35.510Z",
       "query": "\"No 18\" Aizawl (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "1982": {
-      "cachedAt": "2026-07-26T07:12:13.388Z",
+      "cachedAt": "2026-08-23T05:15:35.510Z",
       "query": "\"No 14\" Aizawl (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "1983": {
-      "cachedAt": "2026-07-26T07:12:13.388Z",
+      "cachedAt": "2026-08-23T05:15:35.510Z",
       "query": "\"No 15\" Aizawl (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "1984": {
-      "cachedAt": "2026-07-26T07:12:13.388Z",
+      "cachedAt": "2026-08-23T05:15:35.510Z",
       "query": "\"No 19\" Aizawl (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     }

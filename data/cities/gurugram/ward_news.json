@@ -1,41 +1,53 @@
 {
   "source": "https://news.google.com/rss/search",
-  "scrapedAt": "2026-07-26T06:53:47.016Z",
+  "scrapedAt": "2026-08-23T04:54:53.931Z",
   "wards": {
     "1": {
-      "cachedAt": "2026-07-26T06:53:13.160Z",
+      "cachedAt": "2026-08-23T04:54:20.335Z",
       "query": "\"New Palam Vihar Phase 1-3\" Gurugram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2": {
-      "cachedAt": "2026-07-26T06:53:13.160Z",
+      "cachedAt": "2026-08-23T04:54:20.335Z",
       "query": "\"Chauma\" Gurugram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "3": {
-      "cachedAt": "2026-07-26T06:53:13.160Z",
+      "cachedAt": "2026-08-23T04:54:20.335Z",
       "query": "\"Dundahera village\" Gurugram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4": {
-      "cachedAt": "2026-07-26T06:53:13.160Z",
+      "cachedAt": "2026-08-23T04:54:20.335Z",
       "query": "\"Maruti Udyog\" Gurugram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "5": {
-      "cachedAt": "2026-07-26T06:53:13.160Z",
+      "cachedAt": "2026-08-23T04:54:20.335Z",
       "query": "\"Ammunition Depot\" Gurugram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "6": {
-      "cachedAt": "2026-07-26T06:53:13.160Z",
+      "cachedAt": "2026-08-23T04:54:20.335Z",
       "query": "\"Apna Enclave\" Gurugram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "7": {
-      "cachedAt": "2026-07-26T06:53:13.160Z",
+      "cachedAt": "2026-08-23T04:54:20.335Z",
       "query": "\"Daulatabad\" Gurugram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Gurugram Police Arrest Private Charter Pilot With MDMA",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdWxQQmhESnQwb2dQNi1OeU55QjU3aHJuTnZ3eFM3TXB6UnRya1RRcXJWWnVHYS10SHZfODlGNi1IWUNYVDVwWlU0WTIwM3l4UnBaVDVPQjVCdnRwYU5xTHhOVnFKU0pGZUNQOEJJekFLeUs4eXBsd1JNOVl5NlcyMEdpMWE3aUNGRS00TjV6UWZWQdIBlwFBVV95cUxOU3JFRXhFYmJ1ZkJFY3VDUVRKdXVCVnVDTmRqSmlRZlJ3QUJfMFJLcEZ1aHF5bVFLVHJFbDhUdS1pdEpyYk9GVXNDdHFyZ0N3akxtVU55YXd5clhwTkJaNnZqSTNDM1FCeTh6VGwxd3AzNHRNUkR5S3FaNHVLdkFjcFdSeHd6SnZOTzVGeEJkcTZqYUQ3ZnZr?oc=5",
+          "date": "2026-07-30T07:00:00.000Z",
+          "source": "ETV Bharat"
+        },
+        {
+          "title": "Gurugram Police arrest former private airline pilot; seize 814 g MDMA",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTlJncVpYUjV5ZTV0bEJYREtDMEhUZXByVGRwYzY3LThVRHo3UVhTUWxkZ0V6ZFNRZTAtbkFxRGZTanhaTnhaY041QUY2MjhhajJyRENVWVREaFVwdUgyVUdrZTdfb01Bbnp0Ulc5ZGR3VEV1V3g3V1dyNGJBVzFxZ3N2eXd4UUk3WWlQTnVUNUEtdnJ2ZXByc3ItdTZvT1AzRC1sY2Z4N19LU05DLWw0Q3V30gG2AUFVX3lxTE4xeVZxTkVGaDctTFVzbWN5UGRxX1ZEYkc1VmY0TGdjUVhtdjU3NFNTN2xIcnVhNFpaLWUtRmtqeldKVUJ6dUtpUWRzdjV3UUMyUDhLTGdSQU9tbVdVQzFBWElDdUw5MDJiSTBqV2dNMW5JbnZiQmpTb244SDlDWWJ0VVd6ZThaeUNwR21zWTFPRUFsczBVRW9ucDgwUldtSkgzRFJ1bDNXdEg5eHd6S1RsWjE3MUhR?oc=5",
+          "date": "2026-07-29T07:00:00.000Z",
+          "source": "The Tribune"
+        },
         {
           "title": "Gurugram: Man arrested for killing brother after dispute | Hindustan Times",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaWN1WnpZZS0zS1FtVFdlMHZfcHVkU0pnQWJHbVp3QlBKODlrc2pNY0FhRW8tT1E3V0RQZUhlQXJ6dU9wTGhFbVhtVEpocEdnWWYtMzlxOU9nUlFWbWU1ZHJNemotOWo2emJYYVBFNjZwdlRSbC1LWXZzbXdXOGxkbFgxUUE5Z2dOYzFzd2pwcXFacTRNamNDM25hbUV6YXdYRW1tWHpFOE9QdlRoUUo5ZUZ6Y2tCaHFhcUJpRkpLSmt1R1Z3VkHSAcsBQVVfeXFMUFd1akZVWnlkbjN3U0cyMWFWSXFUVk01cVdybC00TzR4N3czbEFZSk1pRG9mbUxiT0R3X0c0cEZtNG83cUdMbmJCNTQ1dThuMF9xVDU1UjN3aWpLU1FzT0dISlNPUnJWSFJrLUZOamhNaUJtX1JCN3otX2w0azF2S1k1czRDbFM5Y3JMZ2tRY1g3aXZvOTMxUG9CZFNrN2pEQ1VWd1d0d0tDb09UbmJMWEFvYllEWndtdGREU0JXMU5GWU5zUnVFSmEydWM?oc=5",
@@ -51,32 +63,44 @@
       ]
     },
     "8": {
-      "cachedAt": "2026-07-26T06:53:13.160Z",
+      "cachedAt": "2026-08-23T04:54:20.335Z",
       "query": "\"Basai\" Gurugram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
-          "title": "Woman found murdered in forest area near Basai village in Gurugram | Hindustan Times",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcGRPX2JSQndFRUI0SG4wa0g0NEhjQlZuZ3JERldDYWh5MnVKTXBpSVBxSFRQVFY3RWJ0VXU1Q3E3dDZPM1dQLTBnRWlRUHZsSmdlb2xxWm5sMGlIT2hfaUZmRWNxTlpMZ01Vc2Z2N2JFT3JvblhhRldGMkNSbjNRdTJGUVBQZWZDS1d2VXJHSzNna25HT2F6dDF3OGQzQ0Ntb0Y5bTNpUlFyYmhuVm5KVnBzbTJiTTNUNE1ONURFOXN0QTlvMXFzWTJ4cTVSMEg0UTVLYVN30gHbAUFVX3lxTE1WX0RvdE5GWnIyWXEtUHhadC01SmFRSUFhQnFiR3RFZWx4dXNOM21zWHBXcVVmQnlZYkJqWXE1VlJFZDEyZ2R6MFRNT3FPTEswVXI0VTNKT3ZjZ2d0Zi1hXzBOVzlQVnR6X1Rtdkptd3ZCUzJsZGNxOEVENDFFT0RIMkRaWldId2NwbW1zd3ZSU3dWTHI3NlZWaGhMNC1vZC1BVjhBeGtYR1NPajlpbEpOUHc2c3BVOUpRQ0s2VDM4U0JkZ2ItYTg1cnlwR3l0UjVZOGo0c3U2RHNPTQ?oc=5",
-          "date": "2026-05-10T07:00:00.000Z",
-          "source": "Hindustan Times"
+          "title": "Body of woman found near Basai Chowk; police suspect murder",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNS2dFdk9MYlg0TklHN0owVnNYZVNXc09aaHhjNjJmaWhuZDB5QXZaUkdCOXBQbmVaazI3dkVPZUs5c29zOGJEQVJSSkdzeXdDYWxvX2cxekxXUlJFeGdjMnFMdHpVRWtkVjE2Z2NfbXdZZ0NuVEFvVUZ0WEJSd1ZkSHpGVDA2RWNfbng4cnRXVURLbG80VHZmeThqb2pQOFRlU3lKMDF3eGJFblFmcGZpQ3BNX3dBeE8waW53TExFejk5NnBqMFI4eXJpT1BxUdIB0wFBVV95cUxQTTRhTWZJOVNfcjNtSTcxZG1vUXl6cWtiMlFIdGRjclQ4OVdnNW45R3Zab0ZDTnNPRVhUd0x5YTlLOHd4OFhHT2pHbURWS0NnaVF0SENtUmdyc0RBN01xaDB0SVBfNWZCSXJUZ21QVEl0aUhmOHo1ZUV2QkZxWHBfR3k4cWhMZnlrYVBabjVWbFRWUWJTRVd3UE1kaldDb0VVY1hqWVVzN2FsUC1ydUtuMDJVelBOMUlBdFpCbG9PejFFbVNVWEt5ems4TUdZTU8tLWpJ?oc=5",
+          "date": "2026-07-21T07:00:00.000Z",
+          "source": "The Times of India"
         },
         {
-          "title": "Gurugram school principal arrested for defrauding students with fake CBSE accreditation",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbVdVWDhZSnJUdXVpd0M3MUoxSjRKYlYzR29DcnpjdG5RbUVRTE8tNUFkMV9HcDhkQ19PaXZWTllaREpJc3Vzd1FHMTVmSlQzYTd6Y2NWTWRXOHRaT01OR2hfOVJzMldQWWlUeEN6MXgwWUxjOWpCcmxXUi1uS2ZPQm9CWXhKR0N4U0duVWNCWWZuMUJwRzJpOTdUdEFaUkhoejJZY1Frb3lDZ0FXVmhVa3hsT2FVS0ZtMnE0QmZ0Y1VkYkVkd3RocnJXX2RpUmVjQ05faA?oc=5",
-          "date": "2026-04-19T07:00:00.000Z",
-          "source": "Deccan Herald"
+          "title": "After girlfriend learns he is married, man sets her ablaze; Arrested",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcF9wd3MxaXVpam04Y1Viell3a3NrSnh2c2V4eElIdmtyQzRpQ2pWWEdWY25hQV8xWTFOalBfYnA4UjhPVXFyZmJtQWw0YjRlSVEyLUs2TVcxNjVQbWFkTk9aWTN4bmxleEtHQW1TT3k3Q19fSjF1aklJX0NSdkFVSWNtWUFndTk3eEtYVkI2bW9OVzBaQVhIZy1PWWVJY1hR0gGmAUFVX3lxTE9VcEMySGNQSlExblZQNC13dXo0R0xYUjM4TVRrV3prWnZFZmVKeU9sa09xSHJqS2UzQjBnVGd5RVBreTRzaEQwRmdTNzhKZzZHbFhwNFNFbUxLWDA0aDQ1NGZWMzNoSU9VbmFKdkJkTS01SlJNX29zS2lJUHNtX2xxTDc0VERDUnNQcFNmeG5HOTJpMXM1V2FPUUlpMTlzVGFfQnBDaUE?oc=5",
+          "date": "2026-07-03T07:00:00.000Z",
+          "source": "Mathrubhumi English"
+        },
+        {
+          "title": "Man Arrested for Burning Lover Alive in Gurugram After She Discovers He Is Already Married",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNEJsbzZhQzhReDFIYXI5U1RqeXA4T3RMTHVVWE4zSnRKZmtneTM2U0dEMlhta0d4eW5qV1IxXzB2ZVBjemNtVmFjTVhjN0JLbm5pUDl5TmhleGpMRG1rTU5sRThtN0JENmY5YUJjYkw5V2ZKd0F4V1E0cUlvZjhmT1hia3BfbWVaT2JLcUNBM0pFQUhmdjV3UXNwcjFvaFp0VUVlVFUtMTBQN1lWRG9xRGRoQWZtRU9OWENieHJPUFpBanptTW55b1FSNk1kTU5wMzhFWUR1aFMxZzjSAeABQVVfeXFMUG9ValF1TWlMZkprRW4zbmJrSEV3N1VsSnRvci1TY0NqLWZUX0VNdW0wcjB2R05CSnk5cS00LUM3WjlEWnlENkdoc3B5ZmdoZjRmN1JVQ3ZqN3pmb29ycHVzMFJKUk5EU3NLeXp3Qm9fcGltcW9xLU8yREd5UHlTY243TFVwNWE5aS1iY0hzOTdjbFh3UVpySERubWhZTTB0UjFNaFoxejM0VnNtcHgyOGo5SDk1R0NsYjFkNEgySVhpUWpvay03XzlrcHBmdEZBaXdjVDhKdWJRUzVNSTZQT0k?oc=5",
+          "date": "2026-07-03T07:00:00.000Z",
+          "source": "Times Now"
+        },
+        {
+          "title": "Fire at packaging unit on Basai Road doused in an hour, no casualties",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVFdYcWVnXzJ2ZlNFMGtFRXVzaGJtNk5mQ2JrSUdUS3RzZXRBRkpQMlVvZjRocDBndWJHOGdUVkRXQ3NxTGFpemp4eUdJTVM4a2lXSXM1Zy01RWZWYVFLcFNGa09RbXFOOXVfb095NUh4V1NnWUxjSkdLSFFYeEU4cjhoWEp3X21fQjlIT3lQSlNRVk5KRXVXWjhhRHRxSnFjSF9PbFVlRFk5MHphY0RXd3Fhc3BRMkI2ZzIydVVjb2l1VGdRSEtCdVRKbmF1akRmTFoxU3RPdmRMX2_SAeABQVVfeXFMTndQbWJXN2U3NlR4TVMtSElBU0dGaTEtZUJ3Wl94QUc4TTctcEd2S3F0Q3M1cWlteVJQYzVJSGNQMGdOSWdfSjF4a1FUYUpVNFZSd1VSZmpHSzVPUVJlVFBwZU5fS25RamNTaGRDdU44TnA3ZXljRnZTa1FobU9kdlc4Vk9SRHRDQ2ljLXRWM1hTUVQ4ZnFQX0hWRHBScldKMC14ZmE1aUd1NHR2UTRSREtLRFNGNFBBNlFlTHlBRGFWaFNWYXdkTm1fX2VwSUZISFdwdU5ZTWVob2pJejRkY1I?oc=5",
+          "date": "2026-04-21T07:00:00.000Z",
+          "source": "The Times of India"
         }
       ]
     },
     "9": {
-      "cachedAt": "2026-07-26T06:53:13.160Z",
+      "cachedAt": "2026-08-23T04:54:20.335Z",
       "query": "\"Ambedkar Nagar\" Gurugram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
-          "title": "Two more held in Gurugram firing case, pistol seized",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPX0pwTWZMTzBWMF8zQ3F6N1o5a3VyVWZrUTd3WVVtNElHOVY1dmZKem9od3E2bmRGVGQtN3A2RUdPNjUwY3RMNXF4TW9PZGI0VzNLNmt6VTNwbkYxUjI3T1RzZC1ranBEakpqbDhSZ19VR2hDQWYwSDFJMG82VDYxYWtXMk1YMS1HRzNacERxMW43Q2ZNVUppYU0zNA?oc=5",
-          "date": "2026-07-24T18:07:55.000Z",
-          "source": "The Tribune"
+          "title": "Two arrested for kidnapping man, dumping him near canal in Gurugram",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbGdJeHUwVzBkbVA4TElzU1dqMk5MSXBBeWdNcDd5U2cwcWZ4enkzdGUxX0JzVldEekFkazVvMXlZM201VkVXSEloTndGei1lbjhEUnRHS2J3M2JVZTFnSGJCcXJOX1lFZlFIc2pmZ2pJZm05WmVZS2FjR0dLQ2k4VGZUVjE5Yk80SzhScEhFekg5X01qdkZFRFRoVHg4QXM4ZkZV0gGoAUFVX3lxTE5hcXhmMjJmd1ZINWlOODVWX0NwLXNJNmphVEZNaTZCNVp1Nm9LOTlFQXpQRlJpZlE2d0FVTS05aGNSa0FGMnUxRTJkcHNrbHVQcGhwQnA4QjU0N0NOc1NkdF85Z1J0N0Y2RXdaaXl4d0lkNVRMcHgzVk1WSXUxZTBLeFNxX0VHRVBMWEhCSkxTcTM4YTdTR2k2RWpwMzZhVDJNUjF5a2RwZQ?oc=5",
+          "date": "2026-07-24T07:00:00.000Z",
+          "source": "ThePrint"
         },
         {
           "title": "Ludhiana: Family targeted twice in 14 hours over refusal to withdraw FIR | Hindustan Times",
@@ -93,22 +117,22 @@
       ]
     },
     "10": {
-      "cachedAt": "2026-07-26T06:53:13.160Z",
+      "cachedAt": "2026-08-23T04:54:20.335Z",
       "query": "\"Cancon Enclave\" Gurugram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "11": {
-      "cachedAt": "2026-07-26T06:53:13.160Z",
+      "cachedAt": "2026-08-23T04:54:20.335Z",
       "query": "\"Jyoti Park\" Gurugram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "12": {
-      "cachedAt": "2026-07-26T06:53:13.160Z",
+      "cachedAt": "2026-08-23T04:54:20.335Z",
       "query": "\"Arjun Nagar\" Gurugram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "13": {
-      "cachedAt": "2026-07-26T06:53:13.160Z",
+      "cachedAt": "2026-08-23T04:54:20.335Z",
       "query": "\"Bhim Nagar\" Gurugram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -120,17 +144,17 @@
       ]
     },
     "14": {
-      "cachedAt": "2026-07-26T06:53:13.160Z",
+      "cachedAt": "2026-08-23T04:54:20.335Z",
       "query": "\"Amanpura\" Gurugram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "15": {
-      "cachedAt": "2026-07-26T06:53:13.160Z",
+      "cachedAt": "2026-08-23T04:54:20.335Z",
       "query": "\"Acharya Puri\" Gurugram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "16": {
-      "cachedAt": "2026-07-26T06:53:13.160Z",
+      "cachedAt": "2026-08-23T04:54:20.335Z",
       "query": "\"Khandsa village\" Gurugram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -142,17 +166,17 @@
       ]
     },
     "17": {
-      "cachedAt": "2026-07-26T06:53:13.160Z",
+      "cachedAt": "2026-08-23T04:54:20.335Z",
       "query": "\"Airforce Station\" Gurugram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "18": {
-      "cachedAt": "2026-07-26T06:53:13.160Z",
+      "cachedAt": "2026-08-23T04:54:20.335Z",
       "query": "\"Baraf Khana\" Gurugram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "19": {
-      "cachedAt": "2026-07-26T06:53:13.160Z",
+      "cachedAt": "2026-08-23T04:54:20.335Z",
       "query": "\"Heera Nagar\" Gurugram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -164,29 +188,22 @@
       ]
     },
     "20": {
-      "cachedAt": "2026-07-26T06:53:13.160Z",
+      "cachedAt": "2026-08-23T04:54:20.335Z",
       "query": "\"Anaj Mandi\" Gurugram (crime OR arrest OR snatch OR rape OR molest OR raid)",
-      "items": [
-        {
-          "title": "Fruit trader stabbed dead over parking row in Gurugram market | Hindustan Times",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTWhHUDdhb01EazFxbndibmYycTRWNFRJenJENEpnWWJWRHFFTXBrbzlIcmstSk1oM1Y1NTJzVkE4bWVISXR4UTZFcXBVZzVHZGhRQjlnVDBhalZnQTNkQjBMQndHVG1VUlV1cGhCN3pTNVlCemtxVHpqU0hjeVMwd3pmZHpuTl9nUTNZYjVXVDdYSVNXM282TXR3NnZSMDBUNUVHcERfaVYzMDlBeVVmeGlmam1MX1hzbDBDUHFCVDVYdUktaHFyMkxfekJ6cXPSAdQBQVVfeXFMTjR6MXFDbnFOb3FVa0NpOUY1azhmMjNURlZ6OTczVlpnWjR4RWZ0eENMS3RLWkhMX2J2MEhQcjFURUJWYXNtQWdNR0lzV0pDQjRUN1lLWElMel9XSC1xd3J0QlZwOVRKcUxCZ3lrLU1ZX1VKT1dQdjZQekJJVXo0OG5mTUFFLXlfR01WbmFxQUJubWRqbTk0SzFrZGhnQWpMNGhJWjZvSlplYkVvREJidEQ1RjNQaEN4TXc2SUdaOWlpWXNaYUZEZEpxWFd4TjhYdV9KUHI?oc=5",
-          "date": "2026-05-25T07:00:00.000Z",
-          "source": "Hindustan Times"
-        }
-      ]
+      "items": []
     },
     "21": {
-      "cachedAt": "2026-07-26T06:53:13.160Z",
+      "cachedAt": "2026-08-23T04:54:20.335Z",
       "query": "\"Aath Marla\" Gurugram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "22": {
-      "cachedAt": "2026-07-26T06:53:13.160Z",
+      "cachedAt": "2026-08-23T04:54:20.335Z",
       "query": "\"Basai Enclave 2\" Gurugram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "23": {
-      "cachedAt": "2026-07-26T06:53:13.160Z",
+      "cachedAt": "2026-08-23T04:54:20.335Z",
       "query": "\"Khandsa village\" Gurugram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -198,12 +215,12 @@
       ]
     },
     "24": {
-      "cachedAt": "2026-07-26T06:53:13.160Z",
+      "cachedAt": "2026-08-23T04:54:20.335Z",
       "query": "\"Gharoli Khurd\" Gurugram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "25": {
-      "cachedAt": "2026-07-26T06:53:13.160Z",
+      "cachedAt": "2026-08-23T04:54:20.335Z",
       "query": "\"Badshapur\" Gurugram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -215,7 +232,7 @@
       ]
     },
     "26": {
-      "cachedAt": "2026-07-26T06:53:13.160Z",
+      "cachedAt": "2026-08-23T04:54:20.335Z",
       "query": "\"Begampur Khatola\" Gurugram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -227,12 +244,37 @@
       ]
     },
     "27": {
-      "cachedAt": "2026-07-26T06:53:13.160Z",
+      "cachedAt": "2026-08-23T04:54:20.335Z",
       "query": "\"Hans Enclave\" Gurugram (crime OR arrest OR snatch OR rape OR molest OR raid)",
-      "items": []
+      "items": [
+        {
+          "title": "Indian authorities arrest 4 Nigerians over drug trafficking, recover narcotics worth N2.1bn (Photos)",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdFRnLTUyekRRSl9LRVJjNmR5UDdhd2ROZlN2RlExcV9hZ2tPakswZ2NKanNYaVgwSS16OXJNdGlhbVozRXJ4ZlVnMmV5bG0zVDBjRnVucnFkVmc1a01TNTYwN2NZTFlJblRjcGNNU0lJTjF0bHdRdVp5VzJlU19VelRKcGdGYWFmNG9vNTRNaXFvTEdkTC1hQnhIbXBqNDFoU3hsc0lDdEtuNnZTUVFIcG9ub05uaEJYSWRGaEVWS3g2YU4xUlE?oc=5",
+          "date": "2026-08-19T14:23:39.000Z",
+          "source": "thestreetjournal.org"
+        },
+        {
+          "title": "Four Nigerians arrested in India over drug trafficking",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOFpsQUJQTTBKZ216YnJDc211QURvQnhENVJXdHA4ck9yeGZjZGk1Q3NfNVBEZEtON1ltcmtTQm1jMFRuSVhESWZrQ0FmaV9haDBtd1doV0ZqWjlETXdlLTIyOGc4cEp4TGRMZjl6RVJQNkhVTks5STA2Z2RfR21mZw?oc=5",
+          "date": "2026-08-19T11:09:51.000Z",
+          "source": "Punch Newspapers"
+        },
+        {
+          "title": "NCB arrests 5 foreigners linked to global narco gang, seizes Rs 15 crore drugs",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZGJMMmJqS3lxRzBxeC1LNU5lNkFrZHhUTU5lUWZRS2I2TTlJOTd3YnRjM3ZETnczanJubkZxZW5RMlJtbE1tTXhvd091TUgxWEwta0ZOZ3JXUXUzeWtyMXJyU2k0eDdkdThXQ3NJb2VWbFdiVGM2aTRiemlreDFIX1RMbWhhMTBZS053d1RpMk5LRzFka29IUkVBT3g4blFBQjdTdk9aM0p3Rkp5elJpS1YyLXMxSGfSAbcBQVVfeXFMTmRiTDJiakt5cUcwcXgtSzVOZTZBa2R4VE1OZVFmUUtiNk05STk3d2J0YzN2RE53M2pybm5GcWVuUTJSbWxNbU14b3dPdU1IMVhMLWtGTmdyV1F1M3lrcjFyclNpNHg3ZHU4V0NzSW9lVmxXYlRjNmk0Ynppa3gxSF9UTG1oYTEwWUtOd3dUaTJOS0cxZGtvSFJFQU94OG5RQUI3U3ZPWjNKd0ZKeXpSaUtWMi1zMUhn?oc=5",
+          "date": "2026-08-19T02:04:09.000Z",
+          "source": "Social News XYZ"
+        },
+        {
+          "title": "NCB busts drug trafficking network involving illegally overstaying foreign nationals",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeS1ZcmpJdzUybWVKTGNHZ2VxelBLQzR1Nzk2WXZUd1F3V1BLMVRsLUM1N3FfdHBtMW9XNmZXZTlxT1lqbG9YZnRBbXpua0tBUjN6QmpkUVZSYy1UdDVHdjBoeUlPZzU4aGxnYkl1Ui1uOUNZNUZVUEl6ZjBXZ21xUTY4VXYwSWlkd3FFS2dTQUZYTWh5N05Rb1lkSmJxZUJJbEZCdGYwaG8tdWpyeTc0R1V6MWNFTGNyMURJcHVfVE9zb1drQkU3eDY4OWdTajlpd3pCUnpRZVJjeW_SAeIBQVVfeXFMT2lSbDFpUW9zVnNhN29IVzhJS2htYVozSXlVd01FUVpHRDZJWExtclg0SDU0T25UZVdOcmNBMU9kX19haWFtTlU5a19FUlRqU2FfN0NXRG52NmRYaEExdTdyRjgxaUlWc3M1NGRlUk53T3FYZ2oxQmdKOUxqZUZnQkdjZTJaWlFUSFJqaEZEeXRYdzdhRE1Bczk3MUVic2hVbWllYkI3RjhROUZ6TkdCajhtdUFTNklRSlNfb1hWcjhmd0g1ZG1FX3p5Y1AzdFBJM2tCN21wNWVmMTBPWk1zRjl3Zw?oc=5",
+          "date": "2026-08-18T22:30:00.000Z",
+          "source": "The Hindu"
+        }
+      ]
     },
     "28": {
-      "cachedAt": "2026-07-26T06:53:13.160Z",
+      "cachedAt": "2026-08-23T04:54:20.335Z",
       "query": "\"Jharsa village\" Gurugram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -246,42 +288,30 @@
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPV2VsR0lVcThkLTNMVDdqSUhpRUtCUDA0blMxbWZUNFJUenlEZHRwTl8tZkFyM3VhdGFRMERXY0ROdjhDQmpuTVh0VXZzZW5jMFhFc3lseEJTOTBLQTV5T3lpdGlfLUZJT2xXN0VQSTFSVkd4T1U5cm5zbG9SVldheTVrcVRUOXowTDg3UGpVeWQweWE4N2J6b2h4Tk5wb3Nj0gGkAUFVX3lxTE5uNnBOSE4tcWdiNVlhV1I2MVRTc0ZldkZCTzV1MGVVdkRUTXRseE9OYXFwYXpVbzJmM1JzNkZwb1lqSERqLXlhR0d1OGhiSVpETkxtbEFlZF9PRmRjWW1GOUhibE4xLVZMM3VFSXpHVzJhSWVXSWNNSk1ZdW9mcjh1OXA3Vmg2c3JVdEwtV3lYZ2dHM1pURGY5azJnS3I4Sm5vTzBh?oc=5",
           "date": "2026-04-05T07:00:00.000Z",
           "source": "The Tribune"
-        },
-        {
-          "title": "Gurugram Horror: Neighbour Allegedly Lures 3-Year-Old 4km, Rapes, Strangles & Buries Her in Pit; Investigation Underway",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVkQtUG5SUTR5YkM1ejhiUDRHV004NFVzT1YtRk5LbHJHa2N6QUMxOUduQ2xFYzJMX3ZibXhPOGJSSXhjdU1pdmNCMzRjX0lSS0J6Yjl3Y25BTGp1Vkxxc0JGbXVJYzRjSkpyOVNuSzUwaHlZdlVwQmxaMzRTTk1vWlk4TUN1WllldTdNMktTekhvMDNRNWNTWXc5WHZTZmdxb0R1QU1rNldCdmV3VGR2c2RQaGFuczFsbGJkbUl0SUJnREZwcVV0MC1BTzJTeGc3TE80RWk2dXcwYzA?oc=5",
-          "date": "2026-02-21T11:10:55.000Z",
-          "source": "The Logical Indian"
-        },
-        {
-          "title": "3-Year-Old Girl Allegedly Raped, Strangled To Death By Neighbour In Gurugram",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUUw0SWRqeHRSaThjUzBTaDFiWlVLM0wzWDZxdGJaenk2SjJIdkViaVZsQkZERTREcjdGN21zaGpuWE1mOUd0NHlVRGd6dFNSM0ozUEFsTUo1cXUxQWZLZzFqTUQzZXBEc1V0Z0IwU2lxbXBxMU5IUDV4RTQwR2g4emV4Y2gzOC1yVk5SU21tZ2pNU3hOZlYycHNtVFR1c2s2ZTE4NUtrYjB5ZERhQ2dIZ3VxeVktZmpzY2fSAcIBQVVfeXFMTkVEQ19lR1FURThUS1ZrM0NNTEFZZGFDNmV4czFmWEZkSVU5QkVtSG1qQWlPLXpnZHVTYVdFMlRna3d1QkpDZ3lWeXBGQWJBUVhXY2VvbE5Oa2t0cFBDZHBEZFdheGFENWFXc2xYZFZ2bVRsb0llRVd4dXA3ZVotX1RoX0pRNGY3NlhsVmhUc05KbU1RVnRnMmFGa0N0TVBlTUNhVkZyeVllbl9rcWdLbm55YWliWjdJSGNsTDE1LXFvdnc?oc=5",
-          "date": "2026-02-21T08:00:00.000Z",
-          "source": "NDTV"
         }
       ]
     },
     "29": {
-      "cachedAt": "2026-07-26T06:53:13.160Z",
+      "cachedAt": "2026-08-23T04:54:20.335Z",
       "query": "\"Jalvayu Vihar\" Gurugram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
           "title": "Constable arrested for assaulting ex-girlfriend, sent to judicial custody in Delhi",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSXhrdXJ5QnNtWS1oRFhUV0hRYUhsVkJudktsbXdsMUxiSkxxc1hUT3had0pDZ3ItOWlNRDBDektpdHJkX3ZoMXhWenp6UFd5dDIyWmZMMjNKaExHaTBHbzlnZXpmam1zazB4LXRERjY0UDNWWTV2R0E1UzlOcEc5ZGVCeGtLLTVneHJsc0FLVEZzT3FHUE9jcG1GQ0VyakdrV1Y3ejhxNGVMZXB6eUpzSm9WY0hibjRlbUJpY0xwQXQ4RTVhdlRDdGI2QUxvRS1BTG9aU2tB0gHjAUFVX3lxTFA3OHk4SW1mT3E4TlN5M1dRVTQ1cndUenpwMFdiM1VHR01ZYVRwUU5Kdkp3NGtyUlZIYUtxaFlVTE1MX1JIb3RJRkpRWEN6RTlQM245UDEycDZWNnRocUdGRGMtandSSUZoLWkzSzZ2dS1WU2R4bzRpaHBDSzJSWXpBeGV3NjBWMkhMSWxrZVpaNkp5X0pFamc5YWgtRzh3QmIwa1V6cGt0WFdueDhwR1dweC14aVlkZ2ZfTUowMFlORWJLUUV2NUp1UkZmdk44ajhuLTBJMnhLdk9aNGt4MXNscFUw?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbjRsM08tZWlnamNzT0hTUGpMU3YtcGIxckw5VmJYaWVCajdLQ1pUTEpQQmx0a1J2emVoVmtpOE80NmtjeW1ZdGVzalhVMXhjazNvRndFSmxIQlFKZ25QSVl2MlpfaUc4XzZOMTYybmxCT01pcFliRUFxWTQzMmQ4a3ktVm9ZNWZodkMwbFpvMWhXbFZKenVjOTY0UFN0bGQtLW85Ykt3eDMtNmtzNUdscEFQMkVxb1l3WWpybkpEUzZ1N0w5NnAzSnNLRm5SZjZySEFXTmFR0gHjAUFVX3lxTE9IQmtfa2JvaE1WS3Y1WGVNOW9hY18xbVhEek5fM1JZOUFSS3VlbGZ5LVk3dG1qaE9jdGlfUmdRSHlrQ3AzS0RfMTN1RmE0VVVYc1d2QVBtXy0zd3VMUHJpSXFqYmhhMmUxd0RrTy14eFZad1FmVUprZUtiTnZkeVBOZW1DSnFyX01fYW8xZTBKSEY0OEhEaExyM0lxNS1hN0IxT01qSmxfYkxHbTBhaFhNX0VCQ0FFVHVYVTBVQzNzUHgxb3NHM3Z5RzYwb1BtQ2hhcVg3YkRvX1FsMFFjTHhMaWlr?oc=5",
           "date": "2026-06-12T07:00:00.000Z",
           "source": "The New Indian Express"
-        },
-        {
-          "title": "Police Constable Held In Gurugram For Entering Society, Hitting Ex-Girlfriend, Pulling Hair, Threatening Family",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSHUxVEJRQWwtS1pvLVc0RjFsOEJlTXc0S0UzeUgwcHpVeWpYcFdjYm9ZQk9VbC1hWHQtU1g4OWJyRkVTVko4QktMQlZkNWgtUTlVb3Y3SmVEUlk4YUUxajBXOEQ3ODNSVm1GT01pMUVmaG1oX3BWcVlsckZsanRiZjJEWEgwMkNEUkM3ZnFQM3RhdFpkQVJvdm4xOG1NVHREeGREQmVlRWxUVEpLblh1UnFhaVhLVFFZbXo1WmRwTnpid0NKQUtIRzZfeGg3YmpLQ0tDQg?oc=5",
-          "date": "2026-06-12T07:00:00.000Z",
-          "source": "The Logical Indian"
         },
         {
           "title": "Gurugram Horror: Delhi Constable Arrested After Alleged Assault, CCTV Captures Cop Dragging Ex-Girlfriend By Hair",
           "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVEIxUzdTUzRVY2c2MUFjSExrcU1ZZmJNdTVOcTZpWXpHODlmbElCWXQ3Z24tRWR3QWNjb3piQ2Y0clFQWTZweGRla3R4UjMzVEZsMWdGeVJReVp0akxMSm9YRjlFNGc0cGVuc3QwY0FjbE9XYTBoLTdKOFlpdW9LWmVHSnhlZl9uYW9ZdWhXNWtlNERoMXRtZ0x6RVI1S3FMQ0d4ODJyeFpCamVBZGw0UmlrSjRzQWhRZDNvWkdMZWM5Y0oxdkRoOHJWWkNPRkx5VVdaaUNlUnBJY1dlZHROdzB5M1lnQdIB6wFBVV95cUxPcGs5TU10YnlZaHZTWnZqLW1tSFd1Z2NvNUViLUdTTjN1bWZOUEMxY05rNnJMSUNQdk41UmdMNWNRa19ZbmVyVTRqWHlXMjVkUkI4cURVNDVENUtsWEQ3cVhMY3JpcVdrWnBBUXhVdUE4OFR0VndHelNpei16YzVfUXVKd3BFUDVESTdGQkRvSHdheG5zSUZkLXlfQ3FacnBwZ09nSWFyTUlsVmpGN0U3amlGaVZmeGJKSUNSV0hMTmE2cGFvcWNKZnJqNzRBdzh1c1pmZFQzRjNPTVVRbFFwNzI2elBBdXhvNnhR?oc=5",
           "date": "2026-06-12T07:00:00.000Z",
           "source": "ABP Live English"
+        },
+        {
+          "title": "Grabbed my hair, slapped me: Cop arrested for assaulting ex-girlfriend, family",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPc1dUYlBYRWpZMUdNQWVDQmpLVF9aVGRmYzdRX0NmMWNXRW9SX25qTXUxcDBJT1pJTzFpcmxJVE1HZTBvU0JzN0tPWnZueldiRDFfclpnTm15dmtld2IwMUFkNkpaM0VVNmtDZUd2emxSeDhjQmpfWlpvaEhheHJ5cXp0aDNlcVhFTzlQNWVMblFscElIUF9lSG5NaUMySzdNS0dPZWEzZTJuU1pWYUpRc244X2Uyem9naFBTeHpGaUtIOU02U3pLQmYtZlhwbzlmVVZUbUZNemRjOEFwUlHSAeMBQVVfeXFMUDhrT2J0ZEp6b0xUYXkyM0FxdHlNR04wWmJfWFY1ZDlPMnpkTjBqd1VCSGxKOTh3Z0FpUFM5Q0c4QzNPZ2NoUmI5VW8way13ZXRoUlBqdEtDOXJPWUJkZEVFdWFVOU5hcndsUnlrU1VBV2VLY3JPOVBKa3ZGQ1Vnd0NoLWM4eDNZQmhLV2g0bFpYVXdfRGtaSV9qZjFpNElndmFKY2JleXB3RVh2Z3JmLVYwQ2RKUDJ0U3c1WHZuQUhpNkJ2QjBhQktYb0VCSmFMMHZCRmVwaUdSMzBaWWtsOERUeWM?oc=5",
+          "date": "2026-06-11T07:00:00.000Z",
+          "source": "India Today"
         },
         {
           "title": "Gurugram: Delhi Police constable ‘drags ex-girlfriend by the hair, slaps her, rams society gate with Thar to flee’; arrested",
@@ -292,22 +322,22 @@
       ]
     },
     "30": {
-      "cachedAt": "2026-07-26T06:53:13.160Z",
+      "cachedAt": "2026-08-23T04:54:20.335Z",
       "query": "\"Greenwood City\" Gurugram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "31": {
-      "cachedAt": "2026-07-26T06:53:13.160Z",
+      "cachedAt": "2026-08-23T04:54:20.335Z",
       "query": "\"Ardee City\" Gurugram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "32": {
-      "cachedAt": "2026-07-26T06:53:13.160Z",
+      "cachedAt": "2026-08-23T04:54:20.335Z",
       "query": "\"DLF City Phase 5\" Gurugram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "33": {
-      "cachedAt": "2026-07-26T06:53:13.160Z",
+      "cachedAt": "2026-08-23T04:54:20.335Z",
       "query": "\"Chakkarpur\" Gurugram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -323,26 +353,26 @@
           "source": "The Times of India"
         },
         {
-          "title": "Woman arrested for video ‘offering beef to Bengal CM’",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMGwzTnNTaTlfQmRId3c1WGY5N20xdlZtR2o4Tm81U0o3dldvTEJDV1Rja1F5c0o0ZjJPQ1dCS0V2cHJ6d0gyMVhvTVNjTEd3QjFRNGhqX3NGWlhtU0tKOGZ0V3hyN0lqRVAxM1ZMMDlKU2ZuX1ZsSHE1Z3FveFIxYW0xZ0U2TnAyU0FmT1pQRzM1ZDR5ckV4SmtnU3hOZ3U0QWhvaExTYUtjZm5KNlNwaTZLajRnQWtaWUlNX19ROHBWT0Vz0gHKAUFVX3lxTFBaYWU1R3kzd2ZDTV95UjVINW5QMWhqSDlUYzU0QjVjUWNOSzNKNWpkZWRFdGt3Z0hXRjdWRGhScjJRNmJnTlFrT05qZHk3QXhDcTladDUzei1hX2pGc2lVWWR1akp5Q1JnT1RHMjQybmtyYUpfaEpldWtlY3A0NFQwMUVCRVFhb3VUZ3dXdjY5NmFValNWX3NIcDV4YnMtdDFZd2lfaldROWRFb0QzM1dIMHBncTNsc0dGSE9rQXdOaWM1MHFvWk1PS2c?oc=5",
-          "date": "2026-06-03T07:00:00.000Z",
-          "source": "The Times of India"
-        },
-        {
           "title": "Woman claims on video she cooked beef for Bengal CM, arrested in Gurugram",
           "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTTljdW9zMnRlaUxqYUdNRS1ySHZrMWpiOEtUMVl3cXJ6dXVKYzBuMWZ0ejhaQ0RvRk9jM3dqVnJPTUJsOUQ4anZUdmw5RUExUEdJSEhodWZwUEFVV3RkXzFaY1hHb2laX0FzWjFOVzZtb3VxVWh6WUEtalhmR2o2bks4OEhaWkRqX2Z5Q2JTekoxVFV3Qm5tNVZ4NW5La1VackJjYlluX1hTUHlVb1dkdDN4YVlFMDM1UEo2aTg1UTFXTmgwanVyaDBnUmY3YVI4Vm5B0gHWAUFVX3lxTE1jaGlCblVoSGZmUThiR3FEMjUwOE1td2RfcDlkenZyZmplVEF5TUVFcjYweE03YnlGcGtSNnZiRWpzRVhmNWRTekVmQ0FBUnQwN3ZnUy1ZNGtqLVNJTW03SkQyUi1CMERvb1AtZlNCQUxnaHd5T2xYSUhJTDByRllRcnNhMWw0ZTNXZWxuZ2czNmNyd2dNd2VYVjhpdnhvWXVvc0JCbHVMbTlZXzdVbjN6VjNfR1RoQjVQNWd2WVdoU1lVMkRaQmpiMlhnZG1rOEtQN0g1SFE?oc=5",
           "date": "2026-06-03T07:00:00.000Z",
           "source": "Rediff"
+        },
+        {
+          "title": "Woman arrested for video ‘offering beef to Bengal CM’",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMGwzTnNTaTlfQmRId3c1WGY5N20xdlZtR2o4Tm81U0o3dldvTEJDV1Rja1F5c0o0ZjJPQ1dCS0V2cHJ6d0gyMVhvTVNjTEd3QjFRNGhqX3NGWlhtU0tKOGZ0V3hyN0lqRVAxM1ZMMDlKU2ZuX1ZsSHE1Z3FveFIxYW0xZ0U2TnAyU0FmT1pQRzM1ZDR5ckV4SmtnU3hOZ3U0QWhvaExTYUtjZm5KNlNwaTZLajRnQWtaWUlNX19ROHBWT0Vz0gHKAUFVX3lxTFBaYWU1R3kzd2ZDTV95UjVINW5QMWhqSDlUYzU0QjVjUWNOSzNKNWpkZWRFdGt3Z0hXRjdWRGhScjJRNmJnTlFrT05qZHk3QXhDcTladDUzei1hX2pGc2lVWWR1akp5Q1JnT1RHMjQybmtyYUpfaEpldWtlY3A0NFQwMUVCRVFhb3VUZ3dXdjY5NmFValNWX3NIcDV4YnMtdDFZd2lfaldROWRFb0QzM1dIMHBncTNsc0dGSE9rQXdOaWM1MHFvWk1PS2c?oc=5",
+          "date": "2026-06-03T07:00:00.000Z",
+          "source": "The Times of India"
         }
       ]
     },
     "34": {
-      "cachedAt": "2026-07-26T06:53:13.160Z",
+      "cachedAt": "2026-08-23T04:54:20.335Z",
       "query": "\"DLF City Phases 1-2\" Gurugram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "35": {
-      "cachedAt": "2026-07-26T06:53:13.160Z",
+      "cachedAt": "2026-08-23T04:54:20.335Z",
       "query": "\"Ambience Island\" Gurugram (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     }

@@ -1,16 +1,22 @@
 {
   "source": "https://news.google.com/rss/search",
-  "scrapedAt": "2026-07-26T07:00:24.889Z",
+  "scrapedAt": "2026-08-23T05:02:56.234Z",
   "wards": {
     "1": {
-      "cachedAt": "2026-07-26T06:59:18.299Z",
+      "cachedAt": "2026-08-23T05:01:33.280Z",
       "query": "\"Fort Kochi\" Kochi (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
-          "title": "Remove blot of tourist assaults to welcome more",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOGprdXJQVGxSaVZQSVpPTXB0cXVacndROXMwRWtxSGxkWDRkMGltd3NTaXVtcTJoSUdtRWJ5N3hTOC1TY3V1RjRpWWpyMmc5Y0ZQNEFROG5QZXpQc0pFVzZBbjZXNnJfOUFjMHhleHIyQ1l3WDlNVmdBSVdVMTkxYWxwanNDWlpiNXdwUWhOT2UwRk5RR1lKdUtLRmZ1cHRIYm9PbdIBsgFBVV95cUxOTl9Gd1JUZkpnaXp0d3pVMkFMQnJyUFhYM2FfcWhkT1JOcm9xODM2SDc5N0RfQTlLQkhmLXUtSVpZWU5JNUYyTVRqbU1mbUpTdTlwdVQxTnl6aExoNzdaM045NExleTh6WlJ6dGcwTFJ4azlhaElWM3JLSGE1N0pIbnF4WGYtZnZaMEdOY281Rk1aLVlDZnBTT01jSTRqZEdNM0VmQWRkOFowZUE0NHJ0bUJB?oc=5",
-          "date": "2026-04-27T07:00:00.000Z",
-          "source": "The New Indian Express"
+          "title": "Operation Parpidam Raid — Local bodies awash with bribe-takers",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPa0phVEJZOFdyVnlKc2lqdm1zSlRqZEZVb2otODZYTWNqNU5FVmJrbDhOQ1ltMFZzVmQtMGpfVF90ZmZMd3NUT1hrZlEwOEtleUdNMTBZOEx2ZHFUYWYzalNYck9pX20xSW1nUWt0Z1FuQWw1SWNNVDJxcl84YjBPMl91YTBLSVRLT0UxbzBRTFdFdHhKeUtrN3piOW1xb0J2b29hX1NWSQ?oc=5",
+          "date": "2026-07-24T07:00:00.000Z",
+          "source": "Kerala Kaumudi"
+        },
+        {
+          "title": "Coastal police rescue man from Kochi backwaters",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQnVacUd2SlFBZjE5d08zNmMwMUFQaVdNWC1hMWkxdm9jWWVadUpDS0lENW45UXhUQ2RSUUxIZUV4LWFja3p1a2JseXVxUUJCcVZpVTI2c2hCSVVXamlJaWlqckhCeElXVzVwSUFYM2xDbzNQMHl1Q0M3M0g2NDNEbVE4QVhvakJycXpmV2VJSVRSclBYVFNMenZGdnRJQ3JQdHFzMzNkLXNERjhGTEVpWTMtdzZqV3B3TmtvbtIBwgFBVV95cUxOTXJRZmVTVkJ0a3B0UVlzWVBJM3cyYlFNMk9zNjdQMjJlanhwdFhUVlJ5VFNBUnVOVzBrU1pmcjJXUXMxZHJYcUYxOFBkekNEckFjQU1PVGZuQ1k5Q0l0UWpaT3QtR1VDSDQ4aW9UMHpWa1R6QUdrTTZMY3Fpdzd0Znlad0xyeVgtZ2tQMDk3eXJROXNnVHRFTzN5MldUQW1vWENDWElrR21sTGh4SXRFT0toYWhfUFc3amEyUHlleXV1dw?oc=5",
+          "date": "2026-05-06T07:00:00.000Z",
+          "source": "The Times of India"
         },
         {
           "title": "Actor Bobby Kurian questioned in sexual assault case against director Ranjith",
@@ -23,205 +29,205 @@
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORklUajNSOTVNamY1a0o5T0g4T3BlVExjT1ZiX3czQU9PRmtheHJPRGY4WjlIZVBiOVdPZTRFRDdOQ1hWbnhLM1gwb0NySno1bThRazZDMm1HbEtaTl9YUnZyX2EtSmdSMUhvV3I0ZFN2cE5oRlRTSUV1aUxJNmJXdzlKakRXS0JwUHh2NlZwQ2U5RGxMMmFURmlhaTFHVkdpem00SjR4aW11aTBNMFpDLTQwbnd2bDVvT1h5bks3c3ZOWlXSAcgBQVVfeXFMTWM5dHQtanh3WGNOQXRJX0h3SlBJbjNlRm5BVnUzVVl2QXJNSW5TcExwczV6REk5c0tVOE9nUGxqbXdOUnU0c0VZMkFZUl8tc1ZpLVd4Q2ptUTJtWUFVa3VUU0lza0JuSzIzVXNENWxPaEhIbS1DUGpHWWVCTnpZcEhaWFpaSklxNC1Lal9NdVNYNDZZd2dNTnZac3ZSQmlZUWdtT1FteEJzVEJuYkFUM1liV2piZnBLUW9mV3RnNTVaRk1BWmtzbE0?oc=5",
           "date": "2026-04-10T07:00:00.000Z",
           "source": "ThePrint"
-        },
-        {
-          "title": "Malayalam movie director Ranjith granted bail in sexual harassment case",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BVk9rZkJpRFJXZUp2UndIMmxUSmZYSmlhTWRtNTNoVExtV2pMNGJxM0RYVzZvWlZxQU51Rkh2bXRES0Z3M1BQSFFMNDhENldaUXB0SnA5bGVmOEhfLU1ZSDMwVkc1RExt?oc=5",
-          "date": "2026-04-10T07:00:00.000Z",
-          "source": "DT Next"
         }
       ]
     },
     "2": {
-      "cachedAt": "2026-07-26T06:59:18.299Z",
+      "cachedAt": "2026-08-23T05:01:33.280Z",
       "query": "\"Kalvathi\" Kochi (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "3": {
-      "cachedAt": "2026-07-26T06:59:18.299Z",
+      "cachedAt": "2026-08-23T05:01:33.280Z",
       "query": "\"Iraveli\" Kochi (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4": {
-      "cachedAt": "2026-07-26T06:59:18.299Z",
+      "cachedAt": "2026-08-23T05:01:33.280Z",
       "query": "\"Karippalam\" Kochi (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "5": {
-      "cachedAt": "2026-07-26T06:59:18.299Z",
+      "cachedAt": "2026-08-23T05:01:33.280Z",
       "query": "\"Mattanchery\" Kochi (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "6": {
-      "cachedAt": "2026-07-26T06:59:18.299Z",
+      "cachedAt": "2026-08-23T05:01:33.280Z",
       "query": "\"Kochangadi\" Kochi (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "7": {
-      "cachedAt": "2026-07-26T06:59:18.299Z",
+      "cachedAt": "2026-08-23T05:01:33.280Z",
       "query": "\"Cheralai\" Kochi (crime OR arrest OR snatch OR rape OR molest OR raid)",
-      "items": []
+      "items": [
+        {
+          "title": "Derogatory remarks against protests in Delhi: Arrest of T G Mohandas registered, to be produced in court",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOdF9sQTFaUk1oNW1WTVBFY2ttUjdWWVVwNGktWnhqRnNXZDl1bUcta0RFTUNaX0EtOVo3ejc3WHNCYmV0ajZxQjVZRkpfbjhlRGJzS3REb3JsaW01UnRfU3psNTh0RzZlTUdxZnNmalF1a19wQVIybGZ5NEpiMGZsTExGZ0xHczlZeWM5UUJhZl9GWVpFdG90NmFRZk9mM3Uza3JfQjd5aFpRLU1kSjZ4dGZpTHBHRTl5d2U3VENPOXlWVTFpa1NubGxKLUZBUmRPQ3dUYlRtbFY0R19wcmlNMjhlOGE2MGg0?oc=5",
+          "date": "2026-08-10T07:00:00.000Z",
+          "source": "Kerala Kaumudi"
+        }
+      ]
     },
     "8": {
-      "cachedAt": "2026-07-26T06:59:18.299Z",
+      "cachedAt": "2026-08-23T05:01:33.280Z",
       "query": "\"Panayappilly\" Kochi (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "9": {
-      "cachedAt": "2026-07-26T06:59:18.299Z",
+      "cachedAt": "2026-08-23T05:01:33.280Z",
       "query": "\"Chakkamadam\" Kochi (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "10": {
-      "cachedAt": "2026-07-26T06:59:18.299Z",
+      "cachedAt": "2026-08-23T05:01:33.280Z",
       "query": "\"Karuvelippady\" Kochi (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "11": {
-      "cachedAt": "2026-07-26T06:59:18.299Z",
+      "cachedAt": "2026-08-23T05:01:33.280Z",
       "query": "\"Thoppumpadi\" Kochi (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "12": {
-      "cachedAt": "2026-07-26T06:59:18.299Z",
+      "cachedAt": "2026-08-23T05:01:33.280Z",
       "query": "\"Tharebhagam\" Kochi (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "13": {
-      "cachedAt": "2026-07-26T06:59:18.299Z",
+      "cachedAt": "2026-08-23T05:01:33.280Z",
       "query": "\"Kadebhagam\" Kochi (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "14": {
-      "cachedAt": "2026-07-26T06:59:18.299Z",
+      "cachedAt": "2026-08-23T05:01:33.280Z",
       "query": "\"Thazhuppu\" Kochi (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "15": {
-      "cachedAt": "2026-07-26T06:59:18.299Z",
+      "cachedAt": "2026-08-23T05:01:33.280Z",
       "query": "\"Edakochi\" Kochi (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "16": {
-      "cachedAt": "2026-07-26T06:59:18.299Z",
+      "cachedAt": "2026-08-23T05:01:33.280Z",
       "query": "\"Edakochi South\" Kochi (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "17": {
-      "cachedAt": "2026-07-26T06:59:18.299Z",
+      "cachedAt": "2026-08-23T05:01:33.280Z",
       "query": "\"Perumpadappu\" Kochi (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "18": {
-      "cachedAt": "2026-07-26T06:59:18.299Z",
+      "cachedAt": "2026-08-23T05:01:33.280Z",
       "query": "\"Konam\" Kochi (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "19": {
-      "cachedAt": "2026-07-26T06:59:18.299Z",
+      "cachedAt": "2026-08-23T05:01:33.280Z",
       "query": "\"Palluruthy - Kacherippady\" Kochi (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "20": {
-      "cachedAt": "2026-07-26T06:59:18.299Z",
+      "cachedAt": "2026-08-23T05:01:33.280Z",
       "query": "\"Nambyapuram\" Kochi (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "21": {
-      "cachedAt": "2026-07-26T06:59:18.299Z",
+      "cachedAt": "2026-08-23T05:01:33.280Z",
       "query": "\"Pullardesham\" Kochi (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "22": {
-      "cachedAt": "2026-07-26T06:59:18.299Z",
+      "cachedAt": "2026-08-23T05:01:33.280Z",
       "query": "\"Mundamveli\" Kochi (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "23": {
-      "cachedAt": "2026-07-26T06:59:18.299Z",
+      "cachedAt": "2026-08-23T05:01:33.280Z",
       "query": "\"Manassery\" Kochi (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "24": {
-      "cachedAt": "2026-07-26T06:59:18.299Z",
+      "cachedAt": "2026-08-23T05:01:33.280Z",
       "query": "\"Moolamkuzhi\" Kochi (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "25": {
-      "cachedAt": "2026-07-26T06:59:18.299Z",
+      "cachedAt": "2026-08-23T05:01:33.280Z",
       "query": "\"Chullikkal\" Kochi (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "26": {
-      "cachedAt": "2026-07-26T06:59:18.299Z",
+      "cachedAt": "2026-08-23T05:01:33.280Z",
       "query": "\"Nazarath\" Kochi (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "27": {
-      "cachedAt": "2026-07-26T06:59:18.299Z",
+      "cachedAt": "2026-08-23T05:01:33.280Z",
       "query": "\"Fort Cochin Veli\" Kochi (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "28": {
-      "cachedAt": "2026-07-26T06:59:18.299Z",
+      "cachedAt": "2026-08-23T05:01:33.280Z",
       "query": "\"Amaravathy\" Kochi (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "29": {
-      "cachedAt": "2026-07-26T06:59:18.299Z",
+      "cachedAt": "2026-08-23T05:01:33.280Z",
       "query": "\"Wellinton Island South\" Kochi (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "30": {
-      "cachedAt": "2026-07-26T06:59:18.299Z",
+      "cachedAt": "2026-08-23T05:01:33.280Z",
       "query": "\"Wellinton Island North\" Kochi (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "31": {
-      "cachedAt": "2026-07-26T06:59:18.299Z",
+      "cachedAt": "2026-08-23T05:01:33.280Z",
       "query": "\"Vaduthala West\" Kochi (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "32": {
-      "cachedAt": "2026-07-26T06:59:18.299Z",
+      "cachedAt": "2026-08-23T05:01:33.280Z",
       "query": "\"Vaduthala East\" Kochi (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "33": {
-      "cachedAt": "2026-07-26T06:59:18.299Z",
+      "cachedAt": "2026-08-23T05:01:33.280Z",
       "query": "\"Elamakkara North\" Kochi (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "34": {
-      "cachedAt": "2026-07-26T06:59:18.299Z",
+      "cachedAt": "2026-08-23T05:01:33.280Z",
       "query": "\"Puthukkalavattom\" Kochi (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "35": {
-      "cachedAt": "2026-07-26T06:59:18.299Z",
+      "cachedAt": "2026-08-23T05:01:33.280Z",
       "query": "\"Ponekkara\" Kochi (crime OR arrest OR snatch OR rape OR molest OR raid)",
-      "items": [
-        {
-          "title": "Ponekkara man allegedly tortured with red-hot ladle after evicting tenant linked to crime",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPaExGbVNhbmtEQTlMMXp1QjVZOS1zWVRZdUpPaXJfU3I2SVlfV1RIRXNabjBnendaTlpPd2JKcmRBWVlXNnVGbnVMTC1fV3ZWSUZzbWJESFhwLTN3dmhxQXg1Zi0wcUtfdDJhejV0TDlZMjFzMy1QUzN1cllwbEFaal9SSThHQWlsS1JfYnRjaTRFQ2ExR3l5bnhfQy11cEVaOHRSaWZGdHhYdm40NUFYTGQtRkZQaHJUeXNWMXJMcUZQOHhjOGxHUm0wSnBFNmQ5QlZ0Ym8wQkVmWk5MVFNfcdIB7gFBVV95cUxPTmZqN0lFN0pqVGJJYmVsMTBuSmJoa01YQ0F3dDRzdVhWcnRfeF9YWmExRElWTUw4dllMWk9DRHJFZ1lrVWV0MXFrUEFyN3pmNVpYSDc1QWNiaWdoWFkwSTdBU0dGQXdzdlE1dzEwUkxEV1BiRWx1NWJJMlBfdS1lU2JSaFZZUzNyUzdVUXozQ2hSVzN2VjBsbXNJSHlSQ2NMdTNWRGFKbDZZeWZiZEdtOWEzbS1ITC14X1UwTmpLMjQ5VUZDTVRFRHNuVjBUWEJ6bG5aUUlleHFfaDlZY1l2SmpERTVWX0ZNN3QzRzFR?oc=5",
-          "date": "2026-06-02T07:00:00.000Z",
-          "source": "The New Indian Express"
-        }
-      ]
+      "items": []
     },
     "36": {
-      "cachedAt": "2026-07-26T06:59:18.299Z",
+      "cachedAt": "2026-08-23T05:01:33.280Z",
       "query": "\"Kunnumpuarm\" Kochi (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "37": {
-      "cachedAt": "2026-07-26T06:59:18.299Z",
+      "cachedAt": "2026-08-23T05:01:33.280Z",
       "query": "\"Edappally\" Kochi (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
+          "title": "Kochi police arrest two in separate raids, seize MDMA and ganja",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORnNnRFp5bXFoQ0lLS2RiZVBIR0tCRTZOMEIzZHk0TERUMnhVNDdSN2lHNVhuSlJwN29IT1N0cms4ZmxhRC1zVVFwUzNJZFRwa3c5aU9xQXZKeDJZQmFVa1R1OXZEOXhzWXNSNlRZRXFZZ2t6VFQzc2JfcXV4LWtfYjRFTjBHZno0c3owNTIxa0RHc3lFb0k0WDlOYmxvOFZyTEZIclhBMTRqemJpX2dkVmF0OW8xVVNtOWJXbG4tTmR1b2pqcHFIQUk2TTN1MUlo0gHWAUFVX3lxTFA4a3A5NFFBNnhzREYtMFhJZ1U2aWFtYjc2YlM3TW9xU3A4ZHcyQ0pkNEQxTTU5S25nTU1SdmFLWXhUN0lxcXFLcHg3QjZQdmIyUXUyV0dfVG15c3BaTlZKZmZJS0pXdHhFcHUxOGpkR2xKdnR6c09hVzBuTTVySG5WdlhfTnU5Nk16VkF4LVhLdDlWY2hiTU1qRlBwNEJzQmdmY08teS1SZ2RoVmxjNXJfNE1vaTlleG05SV9NX3VVWkxIMy1hUUxORmE2VzUxOXU1RXRtb3c?oc=5",
+          "date": "2026-07-30T07:00:00.000Z",
+          "source": "The Times of India"
+        },
+        {
           "title": "International drug trafficking network busted, two links arrested from Kochi",
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbmVhWlBHZkpDbEJRNUJuclRpTlpLdFl2ZWN4ODBJbUF5T1R1dUFjNkVsajVyamJnaUh3X19RWWg0QjF6YXFNenAtTk9CNmY1emd6bnpNVTdSMlVmMXNBZDFheEtTZG1GYVZWa3RNWldpYjIwMWx2OHNVMHVMOFRzdENoSFFRZmRST1J1STY1OEhTY2psc3FTMWRjcWlxaURxdkVSYzRXbWMyWmpWa3dDODZXWVFWUF9BTVdTSFRjUUR0YVBQZjdkbzFicDRSZ9IB2wFBVV95cUxPdHVKempiV1N2Sk04RlhCdTBkM3gxWGZGYW53N3RWYXdHSXZlaThnU2dLWlFtWFlfV0JDeW1MNFo3QTRZSjFieWkwMTEzcXk3REdOalFVRFNnSDJBTGotbEZxbXVENEcyeWxNQWNQUzR2RkN4QncwTkpkcElhcnVGNHN3SW83dVZTREt6LUJlYzBJNkpxUHRXaEgwU1BxNHBpTGh2aUdGNGtUWWpuZTZDUkxGYnY3M3FoTlRia0NMakNFTnZBa2FKTURYLU5FTXdTcFpBaFRXLVVXanM?oc=5",
-          "date": "2026-07-21T02:45:53.000Z",
+          "date": "2026-07-21T07:00:00.000Z",
           "source": "The New Indian Express"
         },
         {
@@ -235,22 +241,16 @@
           "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNWWZzTXJHU2lpZ0dXRFpHeFc4RnViY2hXQ0U1UXBPeU03VjYteVJySHk2N0NKNUVFTGkyMHJiaHVIQkhaRVFldkQyY0dnYWNZZlNRTFZwUXhkMVYycE1kOHRnUlRCUXhwUXZ3SXE5Zk1GdnhmMFpzbnE5YXBEQmk1SFB0UWRYc0RiVlBua19UYUtmeFJhWTdNSkRDeDlDVHVqX2NleXktVENBVnB0VWYyVkdLRkNFTkNKNVpqam80bFoxTUoxbFZPdU9qek1rTmNWMEY3eC04aWZtbTdBRXFwVFRB0gHiAUFVX3lxTE1ZZnNNckdTaWlnR1dEWkd4VzhGdWJjaFdDRTVRcE95TTdWNi15UnJIeTY3Q0o1RUVMaTIwcmJodUhCSFpFUWV2RDJjR2dhY1lmU1FMVnBReGQxVjJwTWQ4dGdSVEJReHBRdndJcTlmTUZ2eGYwWnNucTlhcERCaTVIUHRRZFhzRGJWUG5rX1RhS2Z4UmFZN01KREN4OUNUdWpfY2V5eS1UQ0FWcHRVZjJWR0tGQ0VOQ0o1WmpqbzRsWjFNSjFsVk91T2p6TWtOY1YwRjd4LThpZm1tN0FFcXBUVEE?oc=5",
           "date": "2026-04-30T07:00:00.000Z",
           "source": "Onmanorama"
-        },
-        {
-          "title": "Elite drug bust in Kochi sparks outrage, police flag NDPS loopholes as accused walk free",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNX3l6WXVPQXpMeVhYRm10TzZhZFV5VXFpbkpPTnl3aHZMOFg1ZF8wVUFVS19TUmt3YV9FQTlrX0pTUm1BSlVUY0JNc0RrWS05Tjc4Wkd6UjY3NUFpUGM0NHFhOXpmZ1Utdkl2Z21PbUFzUGRRX21tSjJhc2tFNGNNUVYzLXBaMFFuaWlyS184eUVTMDVOVkU5MllQQlhmUzlBUTd3VGpCOGpCU1Q2cFFXRHM4R3dBQmdqaDNWMGNYSkxfdzluQ3dseHlaSHVlRm5BQlBYTUtKcDRGbnB2Z0HSAesBQVVfeXFMTXVEbjJqZTVkWU9jc01fdGxnbFNPcXNWQ2hMUjRLdkVoeGdPOUo0amRlLU1jZEVaaWlCRmFjaTB3Vkx0TGRxYi12a1dNTkprYkUxQ1NjaGlST1cxZHpvZDdiaDFMSDJ0T203SFlsM2xzYWo2MG9fZC0wWnZGc2kzSkRzaThpNkJMX2RrN1ZJbTNwLTFzWjJxVjN0RWlmbjQ0T2JZS25YckhMcC1DMUR5OUhHcXJnYThVbFo0Q2JXRGdsU3p1ZnVDaWVTdGlyWS1RU29Yc1RZWkppODludUZQVnhrWE1YSlpRYnQ1Yw?oc=5",
-          "date": "2026-03-30T07:00:00.000Z",
-          "source": "The New Indian Express"
         }
       ]
     },
     "38": {
-      "cachedAt": "2026-07-26T06:59:18.299Z",
+      "cachedAt": "2026-08-23T05:01:33.280Z",
       "query": "\"Devankulangara\" Kochi (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "39": {
-      "cachedAt": "2026-07-26T06:59:18.299Z",
+      "cachedAt": "2026-08-23T05:01:33.280Z",
       "query": "\"Karukappilly\" Kochi (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -262,7 +262,7 @@
       ]
     },
     "40": {
-      "cachedAt": "2026-07-26T06:59:18.299Z",
+      "cachedAt": "2026-08-23T05:01:33.280Z",
       "query": "\"Mamangalam\" Kochi (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -274,7 +274,7 @@
       ]
     },
     "41": {
-      "cachedAt": "2026-07-26T06:59:18.299Z",
+      "cachedAt": "2026-08-23T05:01:33.280Z",
       "query": "\"Vennala\" Kochi (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -286,7 +286,7 @@
       ]
     },
     "42": {
-      "cachedAt": "2026-07-26T06:59:18.299Z",
+      "cachedAt": "2026-08-23T05:01:33.280Z",
       "query": "\"Palarivattom\" Kochi (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -296,52 +296,59 @@
           "source": "The420.in"
         },
         {
-          "title": "Youth held for molesting actor",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYjJmQkZYQnh2RGxGQjZZTU9nVElSbGdVam9uYWtXYno5M1pTT2JneERWakh0UTJGLV9HNUpuTVNiZmpVUWdPQnlhU2NzcHlGLVlXM2dsWHpKaHZhdmRwNHNVNGIwWG4xQnRpNWVvQURNc05URTVJc0VHd2Y3d01CRm9HdlpHd0V0ZHdtZm1Xbm4zSzBZVVY2QzVscXZ4dEg4dUJrU1J30gGrAUFVX3lxTFBoTTlMR1ZabjhqZzdyNm04NUJMMV9oRFN4Mm82X1dnbEZRdTdsWERvRkZOTE1nV3c3dVNXTXJrSi1Sa3plel93eUs2eWIwbk1pbUZBa1Q2SHBLNWRxZjcxUTk0REZFVzQ3bzhKOFl3eU9McGx6NHdqWVF3bTdpSFdNcE83YklGMUtTZEoxQV84X2pGcUVzRnZ6QUFvS25zTDZ1Mjh5S29hOFUxUQ?oc=5",
-          "date": "2026-03-21T07:00:00.000Z",
-          "source": "The Times of India"
-        },
-        {
-          "title": "Youth arrested for threatening actress",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPR1Jyd2x0c1J6ZDNWZl9GY1FJbHgzVUpvdnVBVk5TZDhmWXVqUHd5ejlNbWpIdkUtZ3YydnhaU0V2aXgyRnpJM2U5akl1emUwQmpYRnMxVHMza1dLb1hEVHVNYjBUeWdtNWl2bTEtSERtZWJ5VlRDNTBLUDF2c0czZVptbzBta0R1XzVZMlYydDlTQQ?oc=5",
-          "date": "2026-03-21T07:00:00.000Z",
-          "source": "Kerala Kaumudi"
-        },
-        {
           "title": "Youth arrested in Kochi for molesting actress who had blocked him online",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWVRWLW1jeHA5LXF0TlNmM0JCaWFPdWstUFdEX2xOdEdyN0NhalRKX1lqWUxrNVJVdFJKMC1OVzh0RkhaazBVZXdnZ3RVTzRJNDl0bDhkSHVlTms0QXlONENNODRtNDJ0Q1FXWkZSQlJjMVJWUDl2enduck4zTWZvTnhHNWx1OVdCZUh2V0FVaDRsb3NTb2pWVzg3dTFOZWc5enZLTWRrbUVRdExaSFY3QUhfc29oZXEzQ2g3ekJySjF0cG_SAcgBQVVfeXFMT3R3Mjl5UnJYTmtiV0JSZTZLWUx0cFpvUjBnNXhiV0IxbV82NnNNNjB2NGlNM0xhZW1CUUswY1FIbzhwbGJfcmpXcDZqSENIeGZGYkY3ZTcyM3Q5aDZ6ZHJ6OVJ5TWI1NEpnSFZ0UTI1RXI0UVRLYnRkellzVWdmTFFuNXkyZXI4YWt6UlNrVWJmOEMzN0pCM3JLdmNiQ19sTV9uZDd5SmlwZ05uR3k2aTlKOGY5QnFBNWNFSHYwWmxqaXN1dV9Valo?oc=5",
           "date": "2026-03-21T07:00:00.000Z",
           "source": "Mathrubhumi English"
+        },
+        {
+          "title": "Youth arrested for misbehaving with actress in Kochi",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWVh5Zkd5d0pTZEVSTEVjZGo0Y0MyUjQ4NF9Raksyb0ZBTjhYUHpKd1V2STh2ejBRQ2N6WXFPU3pCNmQtSERta0FGVDhKeHQ2RVlTVjB5akxENUVoTkc2Nnk2UXN4NkJ6akxxSzdDTkR0ZFJYdzg1MzJ2UGhTcjJITWtXOThWOGxRTDZKYVRXc9IBjwFBVV95cUxOWVh5Zkd5d0pTZEVSTEVjZGo0Y0MyUjQ4NF9Raksyb0ZBTjhYUHpKd1V2STh2ejBRQ2N6WXFPU3pCNmQtSERta0FGVDhKeHQ2RVlTVjB5akxENUVoTkc2Nnk2UXN4NkJ6akxxSzdDTkR0ZFJYdzg1MzJ2UGhTcjJITWtXOThWOGxRTDZKYVRXcw?oc=5",
+          "date": "2026-03-21T07:00:00.000Z",
+          "source": "Onmanorama"
         }
       ]
     },
     "43": {
-      "cachedAt": "2026-07-26T06:59:18.299Z",
+      "cachedAt": "2026-08-23T05:01:33.280Z",
       "query": "\"Karanakodam\" Kochi (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "44": {
-      "cachedAt": "2026-07-26T06:59:18.299Z",
+      "cachedAt": "2026-08-23T05:01:33.280Z",
       "query": "\"Thammanam\" Kochi (crime OR arrest OR snatch OR rape OR molest OR raid)",
-      "items": []
+      "items": [
+        {
+          "title": "Drug raid turns violent in Kochi as excise team comes under attack",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZU9aaXpleDlXUFhsNEQ3V2hqMkItVGx5d2xlN1JFeFhROC1WdDBvb0tBYmNTVDQxbXlPOFVZX1Q1c21Td3VzN2twcFh0Y2lVSy10cHl0TG1BZmp3bjJEeEZTZW9vTnktdzZzZ3c3X3NOTmZaRGEtT3R6ZVcyZ2Q0NEdyZXNoekozZzY5Vnd3dw?oc=5",
+          "date": "2026-08-16T19:07:30.000Z",
+          "source": "Kerala Kaumudi"
+        },
+        {
+          "title": "Man arrested for stealing laptop from hostel in Thammanam",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaUtfOGVUUzROQUhwM2NUVWg4a2J1MVdPa3M2NWdZYnduZndUZ1ZFaWQtbjhnU3lVT2tVdmRFVjdEME5fSFZXSXlEaE9TUHN1U3dsUjFTLTh5a2M3c2pxenlXZTdCSUVBX0I5ZDJ4d1M0UWlGal91Z0NYb2pzMWhVRHJ6d0dTbEVndllRV1dONWZNQzFrM09CUjdaNW5YOG5reVFEYmlKUm02elFFdHJlYS0xY0s3UEhVQnBkakk4VUN3RUJuVU9HQ3F30gHPAUFVX3lxTE9JNUprWDBZc0lUS1RxRFRVSy1jRm1USG1kVjVzQlZNZnd1VTNGZmlxbXpzR2JUVUJlN2dkV3EzQmhrblBoQXBVTDhOSHhSbndCT0JOQjhfWVdsampXY0J1OENBV2RwUWt5bGYzczhQX2JkQWUyZllHYnZLTkxxMVR4RHJ3S1ZuMFM0eFkzbENMbjJLLXNZVjZjTG9EZEJWMG10enhWSHp5MThOOXdhVmVJS1RTMnk1cDVtTFVUQ0RONlNsU3BpdlhmWVVabko1bw?oc=5",
+          "date": "2026-07-05T07:00:00.000Z",
+          "source": "The Times of India"
+        }
+      ]
     },
     "45": {
-      "cachedAt": "2026-07-26T06:59:18.299Z",
+      "cachedAt": "2026-08-23T05:01:33.280Z",
       "query": "\"Chakkraparambu\" Kochi (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "46": {
-      "cachedAt": "2026-07-26T06:59:18.299Z",
+      "cachedAt": "2026-08-23T05:01:33.280Z",
       "query": "\"Chalikkavattom\" Kochi (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "47": {
-      "cachedAt": "2026-07-26T06:59:18.299Z",
+      "cachedAt": "2026-08-23T05:01:33.280Z",
       "query": "\"Ponnurunny East\" Kochi (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "48": {
-      "cachedAt": "2026-07-26T06:59:18.299Z",
+      "cachedAt": "2026-08-23T05:01:33.280Z",
       "query": "\"Vyttila\" Kochi (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -371,22 +378,22 @@
       ]
     },
     "49": {
-      "cachedAt": "2026-07-26T06:59:18.299Z",
+      "cachedAt": "2026-08-23T05:01:33.280Z",
       "query": "\"Poonithura\" Kochi (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "50": {
-      "cachedAt": "2026-07-26T06:59:18.299Z",
+      "cachedAt": "2026-08-23T05:01:33.280Z",
       "query": "\"Vyttila Janatha\" Kochi (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "51": {
-      "cachedAt": "2026-07-26T06:59:18.299Z",
+      "cachedAt": "2026-08-23T05:01:33.280Z",
       "query": "\"Ponnurnny\" Kochi (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "52": {
-      "cachedAt": "2026-07-26T06:59:18.299Z",
+      "cachedAt": "2026-08-23T05:01:33.280Z",
       "query": "\"Elamkulam\" Kochi (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -410,24 +417,17 @@
       ]
     },
     "53": {
-      "cachedAt": "2026-07-26T06:59:18.299Z",
+      "cachedAt": "2026-08-23T05:01:33.280Z",
       "query": "\"Giri Nagar\" Kochi (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "54": {
-      "cachedAt": "2026-07-26T06:59:18.299Z",
+      "cachedAt": "2026-08-23T05:01:33.280Z",
       "query": "\"Panampally Nagar\" Kochi (crime OR arrest OR snatch OR rape OR molest OR raid)",
-      "items": [
-        {
-          "title": "Real estate fraud worth 1.70 crores at Ernakulam; pre-planned attack on fraudsters by victim and gang; nine arrested",
-          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQUmtXQURSMFRLc0EybUhXTmtEaWJ1ZjlKb0x6WjBPUW5pMktVZTktdTlSYU90ZG9Vbjc5MFB3VkFxRnJ5WnRST3pOMV9fNkRCdVUzRlNFM3RPa2E1SWpWajlJeXU3azFDTG13UmcyYS02MGpsenUwd3MxdmFMWlUxWWR4aGxUWF9feU9lMkhPZGduMDNGTGwtaGdpUjVPZmRON0g1MzM1UmZFTmpleVUyTGlHYXpxb09WLVFLRmx6d091OEJydDlGbUE5TmRBWFBaV2JuaFo5b2RBUFFuOERSYUZMTExkbmV4NVByTy1VZFZsdW0tVV84?oc=5",
-          "date": "2026-02-04T08:00:00.000Z",
-          "source": "Kerala Kaumudi"
-        }
-      ]
+      "items": []
     },
     "55": {
-      "cachedAt": "2026-07-26T06:59:18.299Z",
+      "cachedAt": "2026-08-23T05:01:33.280Z",
       "query": "\"Kadavanthra\" Kochi (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -435,6 +435,12 @@
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOU52d1g5ZU1hVEZDZ3F6VHFYcTMtbzJlMG9HRnpCOGFvd0FfMlJPS3NmNzdpMTRwVmZ6UDBQSW5WRjY0VkpvVVdjbGllLWN4YjdJZFVtc0pQXzlkWkxid2t4S2ZIT0g0MVNhUlkwNHhiUGFCME1kMk9tNF90NDRweE5UdEtUWm1zdGZCZmF2SkJIYjlzUkhmZzBfMTctYnoyMzhmM3pBMHdEX1BIOVFPelB6d0JPVU9rMWw1ejJGX1h0OWR20gHSAUFVX3lxTE9XWVlkU01xQmZjNm00QjRabjVQeHl0NVU0SU02VUliVU45WnlsYTJPZUJYbkpwSms1MDBTSmpiR01aaktaWjhiaHZaRDZtSHBOWUhkODVaV1l3VTVUdG9WLVFaMnoyR2tON1ZWNmlQWFRRSDd4YU0wNnYwdDRUVTRfUUliSlVIUUhwTnFyLVVKY2tidnZCZEYxSnpQLUVoMUdfNGs2VF9lbWxrNUNVd3c3SmpiVUZieHZBSEJMNURIMVpQeGVtajR0UFNSQjdQVmtoZw?oc=5",
           "date": "2026-07-02T07:00:00.000Z",
           "source": "The New Indian Express"
+        },
+        {
+          "title": "Assault on women in Kochi: Key suspect Akbar identified as sex racket kingpin, confirms Police",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZkY5TGhjNTluWkhOTHZBMG5iRFBLR1RpeUJncmJPY3IzQTVGaXVBSkMwYktIRmhlR3lYN2gxMVZPbEtlX2tiSDBZajFYdVVNQUhGcU85dXZXVHpXOTBXRWtRSFB0d0tub2IxcFhBLUlueUZyQTU0Vzg2d3B6ZzNvVm4wYjdGZW9iRDg3dWg0TVo5ZzVnZUQzUmV0WjFzRklWaUdPVnNJQi1YM2NKN2NheW5RTWdENFhmbWFieE53cVRURzM5aG5FVjFnV295bDhuQ3BxUzhrWThwZw?oc=5",
+          "date": "2026-06-03T07:00:00.000Z",
+          "source": "Kerala Kaumudi"
         },
         {
           "title": "Kochi police to issue lookout notice for Kaloor attack accused; prime suspect linked to sex racket",
@@ -447,39 +453,39 @@
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNjdYV1lSc04xV0s5T2gyNHlhQng4MWVSa0dmM21kVEtTeDlrZVVscm5nVkhudWk5SHdYWTNSd2x6b1k0bWh3d2NqaEdBam40ZklsaDNrRGN5YmRKVEtTam1yZ1Fxd3AxNXBUTjBUeURrNDlPM3RScnBmQ2FsOHkydjM3NjdMRGk3bVRvZUZWOURyRDJpV19PV2hpSFhkY3J3ZGpQQ3ctT0tERXRUOXdQMDFBTUxaRExsYkVvSG9GOUgwV3oxS2ppRtIB1gFBVV95cUxQRTFacm0xQVNhQmNYaXV5bEYwSmRLSG51bmlkS1dxelRtaGpYMm95M0tKMEVoU2lhOEhJandzVEJzV3BXejQwNFdqNnhqbVhheVNWVWNGVXBXTVRzRUJDMlNsS3V3bEJqcmxqbUd0dzhVQm1IZVJWbXM5ei0yZGQtZWllZ0JpQzdSRFhNS3diQm92WlRZQmNOM0t6WEM0UW9ScndqWGZVSjNwbXZ3by1RN0ZtNWVPd05XTDc1VGFBYnQwak51azNBYkVTaGp2WGtmbGpYUzJn?oc=5",
           "date": "2026-04-20T07:00:00.000Z",
           "source": "The New Indian Express"
-        },
-        {
-          "title": "Elite drug bust in Kochi sparks outrage, police flag NDPS loopholes as accused walk free",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNX3l6WXVPQXpMeVhYRm10TzZhZFV5VXFpbkpPTnl3aHZMOFg1ZF8wVUFVS19TUmt3YV9FQTlrX0pTUm1BSlVUY0JNc0RrWS05Tjc4Wkd6UjY3NUFpUGM0NHFhOXpmZ1Utdkl2Z21PbUFzUGRRX21tSjJhc2tFNGNNUVYzLXBaMFFuaWlyS184eUVTMDVOVkU5MllQQlhmUzlBUTd3VGpCOGpCU1Q2cFFXRHM4R3dBQmdqaDNWMGNYSkxfdzluQ3dseHlaSHVlRm5BQlBYTUtKcDRGbnB2Z0HSAesBQVVfeXFMTXVEbjJqZTVkWU9jc01fdGxnbFNPcXNWQ2hMUjRLdkVoeGdPOUo0amRlLU1jZEVaaWlCRmFjaTB3Vkx0TGRxYi12a1dNTkprYkUxQ1NjaGlST1cxZHpvZDdiaDFMSDJ0T203SFlsM2xzYWo2MG9fZC0wWnZGc2kzSkRzaThpNkJMX2RrN1ZJbTNwLTFzWjJxVjN0RWlmbjQ0T2JZS25YckhMcC1DMUR5OUhHcXJnYThVbFo0Q2JXRGdsU3p1ZnVDaWVTdGlyWS1RU29Yc1RZWkppODludUZQVnhrWE1YSlpRYnQ1Yw?oc=5",
-          "date": "2026-03-30T07:00:00.000Z",
-          "source": "The New Indian Express"
         }
       ]
     },
     "56": {
-      "cachedAt": "2026-07-26T06:59:18.299Z",
+      "cachedAt": "2026-08-23T05:01:33.280Z",
       "query": "\"Konthuruthy\" Kochi (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "57": {
-      "cachedAt": "2026-07-26T06:59:18.299Z",
+      "cachedAt": "2026-08-23T05:01:33.280Z",
       "query": "\"Thevara\" Kochi (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "58": {
-      "cachedAt": "2026-07-26T06:59:18.299Z",
+      "cachedAt": "2026-08-23T05:01:33.280Z",
       "query": "\"Perumanoor\" Kochi (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "59": {
-      "cachedAt": "2026-07-26T06:59:18.299Z",
+      "cachedAt": "2026-08-23T05:01:33.280Z",
       "query": "\"Ravipuram\" Kochi (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "60": {
-      "cachedAt": "2026-07-26T06:59:18.299Z",
+      "cachedAt": "2026-08-23T05:01:33.280Z",
       "query": "\"Ernakulam South\" Kochi (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "RPF foils child trafficking bid, arrests 2 Bihar natives",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNmdncFVPbG56WmdINTFUQ2lCQTVncUR2TE54UFBBZkdkcHlvZzJrcUtGTFZ5TDVSa01iYzZ4LURGeGhMNXNzWmJfRDRoYk4zdTIwZW8yNTk3ZVJ1WUZsdzRBcTNteDJsa0c2LUN1X1V6VDV2NXN6MEVwbE1qUjBDdGtST0JWc05QUExKYldnVzQwa25LQlhuRzZMc1RKZWpBYlM4UmRZRmlSeHV2Ymh2QlphcmZOYW1xWUhzWEJ6QV9xS0IzZjFv0gHMAUFVX3lxTE5FZVBETlhScXFyLS1HQklGN1Y3YUVpOFVpSVRvblc1czBkdTNNMC15RWZhRTNHLUdrcExUNzZ5Q2JKWk5WcGtvdFhHcmVIaFJGZUcwNDVwVUFJZzlBX0t6WE8ybk85N0J6QzJ5cE5QUWRWbDIyYS1rYjE2elJ0VFlMRkF5MVAzbS1rRmIwR2ozZ0dtLUdOUlZSU01Fclh4Xy1FMUUxMGFRQTRKVU9lazltN3lTTFo3bkNUYkoxWUR3YUttVEhXZmdXbDl0OA?oc=5",
+          "date": "2026-07-20T07:00:00.000Z",
+          "source": "The Times of India"
+        },
         {
           "title": "Hotels, lodges under scanner as Kochi police widen drug supply probe",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSEJ2NXhaekpGc0hCcllkNzdrYjhZbnBqaWx3YjQyMlFBOC1ZbGZkV2tydDNRUG42eDBqeC1VRm9JS3p3cHI0QzI2NkJDX25KSklHUnhSQXVrWV9reGNWTm9QWjRMTUFKT2NoM2FOaVZRcDl2TG91WDEtZXVpQmJMVTg2WFZDYW9aMXhvMWpxNUNQYWswVjRlT3Y0bGszaHVMWmhtalhISjNtekxqQmFhSG1sZ05NM0swWVA4OWg1eVJselpaOFHSAdMBQVVfeXFMUHdPYVV6ZHdLeW4tcWM5My00V19Ya0VXYnZVWG9HWVJkTkNsaHZ3Si1EdTI1dkVBc3lod1p2a19EdThiNnVfYmJCZDJJd0RSYl9PRUk1YjZtamNwQkx1cVRMbXhYTFNtQmNHRFZRSUFGWTZYbG9tdEhuYndZQVdURHM5cm1TTWtCY243cGwxUEJ3cXhXc2JfSG8yXzJCVDJldkxSekx0MU1JZ3phUmVkM05Ha0J2d3VNTDE3UFpTaHVHaFM5enpva0JhRXprcFVfM0ZmQQ?oc=5",
@@ -497,34 +503,34 @@
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcTFzS2txVmJIRThCcUFjNUtkQlVXOXdYcm8yRXVsb2Y4aG9YclpiZERkOHhmWVZ5dWdHMnN4aHlBak9wOXdacTVLY29aOEw5UUtSUk8weUxzaHNocmF3R1hTR0NvTlhVS01jWFl3dnlGWkx2a2wzMExDTGhfYXNta0pEQUhJbmE1QmhYazA0WEJYcHBiMlBoOGFocDdDZ0QzcnNLYTFxbU1lU2tKbFh6cDh1T3d3UU3SAb4BQVVfeXFMTnlidDRfZnZUNmlwV1Uta191UFhqc1JXQXM1aUdZSGxjYjVMdEVSekY5VDg1N1E4THptRWRXeEVnTU9sRkFiSXNobi0tcVYyMW5vaFdpdHd3SUxyUGE1cE5IZ2lJcDlPWTBTdU1DTjRVcGNFUFlXUWRoYXQtbE9PQVpQdlFHa1AwTGNKOTkxOHlfb1h2QjZkakduRGxfNW1nVmc0N3dfODFibUlBektTSTZpNlBfd0sxQ1pRNUZjdw?oc=5",
           "date": "2026-05-08T07:00:00.000Z",
           "source": "The Hindu"
-        },
-        {
-          "title": "One more held for bid to rape woman after threatening friend at knifepoint in Kochi",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVWh1WXVONVlseHpfd0lldFNFX1dTZ3FnbFRYdUg3aVljUkotd1pjQkZpd2EwZ2pISzZTelVXdlZ6Wm94UE5sUjBoaW9KeTlaUFJHTUctWm1aSk1RSklKWHprWWNRVDRCX2dwSFRqUG85bUMxWXhjbmxaQW1QNnRkYTJaVkFDSkhjTjBfTHZaRVB1bGRyalR5cXpjSkxOOVBNdGh4THVtb2JZRzcxazJUam5TSHVnNjZLd0tmczlRY1HSAcABQVVfeXFMT1VodVl1TjVZbHh6X3dJZXRTRV9XU2dxZ2xUWHVIN2lZY1JKLXdaY0JGaXdhMGdqSEs2U3pVV3ZWelpveFBObFIwaGlvSnk5WlBSR01HLVptWkpNUUpJSlh6a1ljUVQ0Ql9ncEhUalBvOW1DMVl4Y25sWkFtUDZ0ZGEyWlZBQ0pIY04wX0x2WkVQdWxkcmpUeXF6Y0pMTjlQTXRoeEx1bW9iWUc3MWsyVGpuU0h1ZzY2S3dLZnM5UWNR?oc=5",
-          "date": "2026-05-08T07:00:00.000Z",
-          "source": "Onmanorama"
         }
       ]
     },
     "61": {
-      "cachedAt": "2026-07-26T06:59:18.299Z",
+      "cachedAt": "2026-08-23T05:01:33.280Z",
       "query": "\"Gandinagar\" Kochi (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "62": {
-      "cachedAt": "2026-07-26T06:59:18.299Z",
+      "cachedAt": "2026-08-23T05:01:33.280Z",
       "query": "\"Kathrukadavu\" Kochi (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "63": {
-      "cachedAt": "2026-07-26T06:59:18.299Z",
+      "cachedAt": "2026-08-23T05:01:33.280Z",
       "query": "\"kaloor South\" Kochi (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "64": {
-      "cachedAt": "2026-07-26T06:59:18.299Z",
+      "cachedAt": "2026-08-23T05:01:33.280Z",
       "query": "\"Ernakulam Central\" Kochi (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Crime Branch likely to probe ₹29.62-cr. NRI loan scam",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaGI1VFI0Qm1RMDJ5R1JLU0FnTE9hWWg0eDNGYlpOaDhaYUMzeWlXYXl4dFJsdGJHeTdiRHotMm9xVE5XeFd6eUliaVpyaDdBTTczVWxWc2xfUWxRaC1DbXlfUHJPMEUxUWZ5NkpUNF9GMzUyWUNkeEF0OWI2d3VvMVdiZWFlN3IyOHh1ZUtpRHNrdmFycmZ2am9vMGhmNzlIYzQyN1dwZXlvbFdGV3Zmd0FyZmlYeFHSAb4BQVVfeXFMTW1Hcjl1b2I4dUo0SWhpNjdZbnhmNjIycE0yQUlVODkzV0NFMW9OYU1XTmtFdUt5OFdqaXl2NHdCdW9QaDFxcjZFQ3c5S1hlWVlZWWV3ci10Skh3aHU4eVE1bGQzN1NpVWNMWnJCNDFPRTJsSVl5Q3dDbzJiQnFrWkVhb0NaWlhpQ0xyajlhNW9KTGp1Uk1xc3puVkJYY002Yi1STVhCWGRXZHdBUy0tcHFUWDB6YUlnWU1QUnoxdw?oc=5",
+          "date": "2026-08-09T07:00:00.000Z",
+          "source": "The Hindu"
+        },
         {
           "title": "Gangster Attani Aneesh arrested",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORWJnSjBfamo1OHlsN20yWnZFR0dCNWVFWUEwZHUwekJjNS1oaVFlWHhLdC1GSFoyQkZyS08zZWxUYldmR0xFdlNQWmt6Wk9mNENTUHh4aEhhRk5zSnZUbU55a05UNmgyZkQ4b2c1dTgwWWZKeGYyTGhWTG5jYkxSWlBfWGtYVVdQSFZzRTVlUEFGODFHX2xULU51eHpNV0pPYjFUU0ZGONIBrAFBVV95cUxNQUZDZjJXNGtmNjhnbjEzc0hoM1J2MlpJUXg4Nmt6dWVPTmZkSnpRZnc5YjA0a2N0eXNYTnR4M3BvWUU5TzdObVltTUJiWWd4R2hjcXVoUWVqU3J1ZVZnVzBQVEprUUFSTE5GU3FVSHdXWXBlNERjdXdNbnNqVEVtZGlFWVl2TTNpOHJTSEZETzlnam5OOU5NS2lRUW5TcXhMeE9LSzE4V01tOUFD?oc=5",
@@ -542,19 +548,19 @@
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVWh1WXVONVlseHpfd0lldFNFX1dTZ3FnbFRYdUg3aVljUkotd1pjQkZpd2EwZ2pISzZTelVXdlZ6Wm94UE5sUjBoaW9KeTlaUFJHTUctWm1aSk1RSklKWHprWWNRVDRCX2dwSFRqUG85bUMxWXhjbmxaQW1QNnRkYTJaVkFDSkhjTjBfTHZaRVB1bGRyalR5cXpjSkxOOVBNdGh4THVtb2JZRzcxazJUam5TSHVnNjZLd0tmczlRY1HSAcABQVVfeXFMT1VodVl1TjVZbHh6X3dJZXRTRV9XU2dxZ2xUWHVIN2lZY1JKLXdaY0JGaXdhMGdqSEs2U3pVV3ZWelpveFBObFIwaGlvSnk5WlBSR01HLVptWkpNUUpJSlh6a1ljUVQ0Ql9ncEhUalBvOW1DMVl4Y25sWkFtUDZ0ZGEyWlZBQ0pIY04wX0x2WkVQdWxkcmpUeXF6Y0pMTjlQTXRoeEx1bW9iWUc3MWsyVGpuU0h1ZzY2S3dLZnM5UWNR?oc=5",
           "date": "2026-05-08T07:00:00.000Z",
           "source": "Onmanorama"
-        },
-        {
-          "title": "Two arrested for attempting to rape woman near Ernakulam South railway station",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOeVlMcVhDRUNRS0NxMlVVR3VLRWRPSlpyNFh2XzV2YlVQdDdPa1lzYnNLTlVPNUI3YU9KdlIyalFMc2tsdXJldEZvNlhGcjhKQlZBNmFCbFEzN2hqOHM0Mk5UbGNtQl9RM2wzZWpKd2NJam9fOUgxREpXbGFxWXB5S21nb25NVG9QUXNWMi1DMFNPaEo2X1ViSDFQdzV4Ymd1MkcxSGVQY09TQkJobkxEX25mbExDMjlCUGpZR3J6OTR4UGJPRHFXQlNSNnA4VEY1UHd1QXJ2VG1FZmpRUW0zcnQ1Q2ZaUdIB6wFBVV95cUxPb2luc05UVXJSMnBnM0tUSG5kbTRuSllMV3ZQUC04em1yRTUxSzVQdm85dDVlN242bG9MQXZXZF9IVGtocGxSV0lYWXlCMlFZaXpEUWVTQ21UdFVKNFd2MXZlbHoza00tRFBCZFVXUVFRQmJMdFNLU1N2V2YzM3FrbGpvbzZDUUlxNHRVaDhvaTVLYnQ0RGtpZ0didjBCQ0NKYzJmTnhGSzIyM194Ny16V0JYeENuRXNINXdTNjFRdFVhcDV4bXRla2d6eWIyS2FGbmRqTkRlUFlwLUFUUHNHdUhXZWJsZFJKWUhR?oc=5",
-          "date": "2026-05-07T07:00:00.000Z",
-          "source": "The Times of India"
         }
       ]
     },
     "65": {
-      "cachedAt": "2026-07-26T06:59:18.299Z",
+      "cachedAt": "2026-08-23T05:01:33.280Z",
       "query": "\"Ernakulam North\" Kochi (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "When an Insta snap helped crack a sportsbike theft in Kochi",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONVhsOGJqS3ZmUF9FeXdlaEtaelZ5LXlyc0pLbG1adWduSHJJY1llOUJHNkxnQXI5TV85SFJfMVJCNE9URUVXYUtmTDYxTmI1MEM3cXhiOWN1QkpEV0s5MkdwTzVtai0yczYxdFB5alIyWUNGR25MY0ZyUGxzSjBHNGR1eWZSMlhubWljX2ZjUGFMMHNaVWRiR2p5Tnd1cGk1NUFzWGhURjNHUVhNS1BKUnI0c1RkSHhq0gHGAUFVX3lxTE01cEtmOE5XNEY0Nld3MEVCMUtrdy11U0lvUzRtRmV6MEFWRUJxUmtQWGEyVkJ0X0tGTTI5bld4N25OdmxpSFNuRmRmM1pnM3FJSXBPYWQ2Z3RLMmdseE1BMkhxaUJvUUVmbmhRZUUxdXl4eUJZMnY1bmpzaTdIZEFsNHRjUGhaZXl5TjBwZmRHeFhIRVdsRi1Ea3RpZFpWcFRQUmZqUzJwV1RUTWo5dnVGcDdOOWJEVk05SjVDclhYZ00xMzdoZw?oc=5",
+          "date": "2026-07-30T07:00:00.000Z",
+          "source": "The New Indian Express"
+        },
         {
           "title": "Kochi drug-and-assault case: Firoz Khan and Attani Aneesh remanded",
           "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPeElsOGZDT1VlaVBvcHlEYUl3ODJzZHo5eU1nUml5QWMwalJGSnpKWXFBTVdfaVdObXFHUzdjM0o2aklndHo1aElhNnFwcTViYlZjZ1FNTFVSUGVnZ185SXhtekZRQU5QSUpVSEp1UC1Ka0p1dGRwVDBtUlpnN21vbENOdDNrNlRVMXhRVEFINmp3b2RZRk5kN2FpeldSUFRLeFNqZ1ZvQk91WWJpV3RyODNLRlplTXh0MTI3WHFPQllwV3lkcnBNczJHYjVjY3pneGFZYXdybnpUQzhUWDZYUjlScm1xb051T1lQTlVZV0I?oc=5",
@@ -570,7 +576,7 @@
       ]
     },
     "66": {
-      "cachedAt": "2026-07-26T06:59:18.299Z",
+      "cachedAt": "2026-08-23T05:01:33.280Z",
       "query": "\"Ayyappankavu\" Kochi (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -582,34 +588,27 @@
       ]
     },
     "67": {
-      "cachedAt": "2026-07-26T06:59:18.299Z",
+      "cachedAt": "2026-08-23T05:01:33.280Z",
       "query": "\"Thrikkanar Vattom\" Kochi (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "68": {
-      "cachedAt": "2026-07-26T06:59:18.299Z",
+      "cachedAt": "2026-08-23T05:01:33.280Z",
       "query": "\"Kaloor North\" Kochi (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "69": {
-      "cachedAt": "2026-07-26T06:59:18.299Z",
+      "cachedAt": "2026-08-23T05:01:33.280Z",
       "query": "\"Elamakkara South\" Kochi (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "70": {
-      "cachedAt": "2026-07-26T06:59:18.299Z",
+      "cachedAt": "2026-08-23T05:01:33.280Z",
       "query": "\"Pachalam\" Kochi (crime OR arrest OR snatch OR rape OR molest OR raid)",
-      "items": [
-        {
-          "title": "Real estate fraud worth 1.70 crores at Ernakulam; pre-planned attack on fraudsters by victim and gang; nine arrested",
-          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQUmtXQURSMFRLc0EybUhXTmtEaWJ1ZjlKb0x6WjBPUW5pMktVZTktdTlSYU90ZG9Vbjc5MFB3VkFxRnJ5WnRST3pOMV9fNkRCdVUzRlNFM3RPa2E1SWpWajlJeXU3azFDTG13UmcyYS02MGpsenUwd3MxdmFMWlUxWWR4aGxUWF9feU9lMkhPZGduMDNGTGwtaGdpUjVPZmRON0g1MzM1UmZFTmpleVUyTGlHYXpxb09WLVFLRmx6d091OEJydDlGbUE5TmRBWFBaV2JuaFo5b2RBUFFuOERSYUZMTExkbmV4NVByTy1VZFZsdW0tVV84?oc=5",
-          "date": "2026-02-04T08:00:00.000Z",
-          "source": "Kerala Kaumudi"
-        }
-      ]
+      "items": []
     },
     "71": {
-      "cachedAt": "2026-07-26T06:59:18.299Z",
+      "cachedAt": "2026-08-23T05:01:33.280Z",
       "query": "\"Thattazham\" Kochi (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     }

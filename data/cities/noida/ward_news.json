@@ -1,34 +1,34 @@
 {
   "source": "https://news.google.com/rss/search",
-  "scrapedAt": "2026-07-26T06:53:56.426Z",
+  "scrapedAt": "2026-08-23T04:55:03.460Z",
   "wards": {
     "Sector 20": {
-      "cachedAt": "2026-07-26T06:53:47.076Z",
+      "cachedAt": "2026-08-23T04:54:53.993Z",
       "query": "\"Sectors 1-19\" Noida (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Sector 24": {
-      "cachedAt": "2026-07-26T06:53:47.076Z",
+      "cachedAt": "2026-08-23T04:54:53.993Z",
       "query": "\"Sectors 22\" Noida (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Sector 39": {
-      "cachedAt": "2026-07-26T06:53:47.076Z",
+      "cachedAt": "2026-08-23T04:54:53.993Z",
       "query": "\"Sectors 30-31\" Noida (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Sector 49": {
-      "cachedAt": "2026-07-26T06:53:47.076Z",
+      "cachedAt": "2026-08-23T04:54:53.993Z",
       "query": "\"Sectors 44-55\" Noida (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Sector 58": {
-      "cachedAt": "2026-07-26T06:53:47.076Z",
+      "cachedAt": "2026-08-23T04:54:53.993Z",
       "query": "\"Sectors 56-65\" Noida (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Phase 2": {
-      "cachedAt": "2026-07-26T06:53:47.076Z",
+      "cachedAt": "2026-08-23T04:54:53.993Z",
       "query": "\"Noida Phase 2 industrial area\" Noida (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -41,27 +41,27 @@
           "title": "Noida Protest Update: Chilla Border closed after violence in Noida, vehicles crawl on DND Flyway, police issu",
           "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOazBHZGFOVjkydDFxRk5MMUNmUkNveTNpMk0yemRfdmxRMnBvRUprNTFhMHVZdnlaaVNMZDVnOFJIellfUXVKdG9hUy1pWkh0X3V2dXFFVXFlRlhydFRQTmFDN2hkdGUtcmx0empjZFhwb3VQcjlrcjktMGdqcV9BMlBUcUtCQUkzWWd4NXluV19SNlZxN0lJaXlTUXN5YldKVW16Z3RodDBMM3lqUVIwRjlHblBlWFRWM3k2RjVqRG0xc2VGZllkTXpIRDJEc2oxSjNYTjhvRzVPRThNdUlyN0NZTjdiTWhJY0ZQN2FoNTRPSW41YU9UOEJYMDhvMXlqSlVwVjQ1dDAtOFl5akVWc1VEZVRVbFMxUTFYTk9kbTlfanZzTWE5ZmM1QmVBdFVuVEczNmRXd3FRYlnSAcACQVVfeXFMUDlMR21WUkJINU9fQWdESzJ4TXVWRnlnT0NITy1FeFE5UUU0OVJWNG9KWGtFdUJPVjk5aUlHUmFtNG82elRCMG9GekpPa0xRSWpOd2NUelJLTklxOXJXQ1AzdVFya3kzRldHTnRpQlo2U3dHdUlNZ2p5aDhVRDlhQjlVLTlfbGs2bkoySV96WlhjREl5c05YTkpuUXFCWkxGRmlFcU1peGFfanpFRXNIcWVOVDdhcFJXX1BScjQwOGw2M2pmQm9VdjhfYTN3SHBWa1JLWXJINzhYRXppMkRNN0FLX2lMYXpvZWM0cUlCSjE3S21oczNLM0xGMVFIeEFITUJCS0pCMHNMOWVVU05vTEw1MlZvQldwNWs1U2M4cW1XaGNXWFlwMnJlcUhWOElvWnJUaTJ5OFhTNmY5cWk1VWY?oc=5",
           "date": "2026-04-13T07:00:00.000Z",
-          "source": "India.Com"
+          "source": "India.com"
         }
       ]
     },
     "Phase 3": {
-      "cachedAt": "2026-07-26T06:53:47.076Z",
+      "cachedAt": "2026-08-23T04:54:53.993Z",
       "query": "\"Sectors 66-75\" Noida (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Sector 113": {
-      "cachedAt": "2026-07-26T06:53:47.076Z",
+      "cachedAt": "2026-08-23T04:54:53.993Z",
       "query": "\"Sectors 110-120\" Noida (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Sector 126": {
-      "cachedAt": "2026-07-26T06:53:47.076Z",
+      "cachedAt": "2026-08-23T04:54:53.993Z",
       "query": "\"Sectors 121-130\" Noida (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Expressway": {
-      "cachedAt": "2026-07-26T06:53:47.076Z",
+      "cachedAt": "2026-08-23T04:54:53.993Z",
       "query": "\"Sectors 131-137 and 143-168\" Noida (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     }
