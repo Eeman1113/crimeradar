@@ -1,16 +1,22 @@
 {
   "source": "https://news.google.com/rss/search",
-  "scrapedAt": "2026-08-23T04:57:11.133Z",
+  "scrapedAt": "2026-08-30T10:06:51.429Z",
   "wards": {
     "1": {
-      "cachedAt": "2026-08-23T04:55:49.292Z",
+      "cachedAt": "2026-08-30T10:05:29.908Z",
       "query": "\"Sirpur\" Indore (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2": {
-      "cachedAt": "2026-08-23T04:55:49.292Z",
+      "cachedAt": "2026-08-30T10:05:29.908Z",
       "query": "\"Chandan Nagar\" Indore (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Indore Knife-Wielding Habitual Offender Lands In Police Net",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPV2I5MnZmNXVRV3V3SDRCWTRsNVVKQWlzWDY1SzNaNlZiVm9ZR2JrczVJUmx0Vjc2RTNGbkFvRzZuVzhqMEVEbTlCSFVzZmZsZUxKV3pUQkJCSmI0TUZ0UUpNZUhNMnlTbWF1MFI4RDBXWlh5emJzNzFGZ2hvcWM1eEVmeWdZWlJUVTlYN1VESWFpcFI2SnVkRXhDQWprMmvSAaQBQVVfeXFMUFFFeG9lUjZDNzFPb2w0NS1WMnNBX1F5aG5YQzAyOExMUWlvdnlHWjlRM25UU3FJeGNhZm9RRkNpTDQ1UXNTYUQyaGxoUGdZUnM2dDJwVVItTVlSVF9DTE1SZzFVakU0SUdFeDJRSlN4WjB5aGpfa3dYUml2bkVDbW5GanpXNkcyblJSZFNqWllXQU82aTQ2empKV0Z2M2t6LVlITTY?oc=5",
+          "date": "2026-08-23T21:30:00.000Z",
+          "source": "Free Press Journal"
+        },
         {
           "title": "Chandan Nagar Tops March Police Station Performance Rankings; Sarafa Ranks Last In Indore",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZHRTUDVPVThySE9wSWVOTElXNHRhMi1CRUFxSjdXd3JOVG5BLW5JNmJBTTdhSUVUUWRZd0hXS3JKbkZGc0Ywdzl6V21QQ0tYejRGbE5kSTdlNUh0cGRVckNFSnNMZUZoNlc2R2RhTFYtbTFYenk2Rm9vam1VTnI3RkZjNzc5T29yWkJaS3NWcTBvWjBSd1FiSjZEMDZNUGt3N3hKUk4yeEVSdUU4aHpfN3lvckc3V3I2aHEzOUFWODFPdlBQNGfSAcsBQVVfeXFMUDBnc1NuS1J3WXhGS3ZCMFlrTnNIUXI4UHFLNktsOTJaRDV3ZG5XR2R4VGFzbFZyNFdzd1d6bks1X1dRS3JPU2Y5SzllVXZpSVpjSVZ3dVp5a0NQekpqT1NTYmNhcnJrVFVkeUYzVk10dUJQck1fRjh1MVJVRF9KZG1SM3IxS2FidmhGU0N5SVBnSzlPcU5scllWSHFSdXc2RDF6MVVISGlQbXVoSlhYanBKSlFqZWZ1S3RjSEZhUFlWMk5fZGo1VWlTUzg?oc=5",
@@ -20,17 +26,17 @@
       ]
     },
     "3": {
-      "cachedAt": "2026-08-23T04:55:49.292Z",
+      "cachedAt": "2026-08-30T10:05:29.908Z",
       "query": "\"Kalani Nagar\" Indore (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4": {
-      "cachedAt": "2026-08-23T04:55:49.292Z",
+      "cachedAt": "2026-08-30T10:05:29.908Z",
       "query": "\"Sukhdev Nagar\" Indore (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "5": {
-      "cachedAt": "2026-08-23T04:55:49.292Z",
+      "cachedAt": "2026-08-30T10:05:29.908Z",
       "query": "\"Rajnagar\" Indore (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -42,9 +48,15 @@
       ]
     },
     "6": {
-      "cachedAt": "2026-08-23T04:55:49.292Z",
+      "cachedAt": "2026-08-30T10:05:29.908Z",
       "query": "\"Malharganj\" Indore (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Three arrested after snatching gold chain from woman on way to temple",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQmstZ0ZtS2M2dnhBWjQ2ZVhVbFRReHVfdjV4cjFDVjVFbVpVWkRtZTdfOHZFZURIUV91bkZQMGdYZjNZVlZ3c3IweHBYRXNjNUotYlN1SnBTU3pMV2JwWE5XdnluQ3N0TjdOWG5VVzQyam1aUE9vZHFWYnU5a01PTEtxeXNxSkJHQU9OWlY0TllvTGlTbWdQUG9WcGVPSkR0RkhLTVFic1d0UFNYREdoOGhZTXFPVFpic01vWTJya1B4LWRubnJDMzNMcTF3bnFiaEhvWGpQY2dVTkXSAeABQVVfeXFMTzhZZ0dvNzdQMTZtano1VExhYXlzUnlHLXFzZHlaQUptdHg0b3AzZFNaMnoxQmpNb2ducHRaOU5ybFBMTTFLUmJyZkFsVURwckdCMnRScmRaNGMzUWlvRHJMZ2p5b0R3d281WkF2UFdkaVZzN2V2SXBtVWJEbXh1dGFvSlkwaDY1VWctZDFOUUJyal91WXJ1X00xTUJKQlRYVjQzbDFEaUlLWHFFaEJpeEZha0RLcE5uanlFM01MUFFxaExDaVNZNXI5UlRVSk1seEMzM1pTZi1sc0V3aDBTZks?oc=5",
+          "date": "2026-07-14T07:00:00.000Z",
+          "source": "The Times of India"
+        },
         {
           "title": "Indore Police Reshuffle: New TIs Posted At Four Stations",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORm5adkZKZ3N5dGlHTGRBSTNiekh0VzNscFZBc0NtY2NSSGpTUlNtbDA2eWhWLTF0cHV4ck5PeVdzMDFMbkZLdkgyMWs5NnRSVkhtY3Z5dVFHZ1hGSlZCZ3RjSU0yZ083ZkxyREliZ2RUUVE3UVJNLUZpbWhlb2RvU1ppaHJuNnJJcjNmTkl1UVdYTnY4RGNRUkZn0gGfAUFVX3lxTE9WeVU1QWg2bzl4U2Q3dzMtTjhyTGdRSGZ3RmFZSDBCejlaeWFRcHdtRWk0VjlQWnkzYmlpQWVGa3l1c005Z1FCWHpkMkZLSUd2RXJudWRQb1RwV2J2N3oxc2ZHM2pjZFM1ejc0V0dyZW9FZTBhcUpXX1N5TkZsN3I0MWV1VTF5ZjVsZVFIZzhJOFR4TVE0SkVJZWJBbXVHaw?oc=5",
@@ -60,12 +72,12 @@
       ]
     },
     "7": {
-      "cachedAt": "2026-08-23T04:55:49.292Z",
+      "cachedAt": "2026-08-30T10:05:29.908Z",
       "query": "\"Janta Colony\" Indore (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "8": {
-      "cachedAt": "2026-08-23T04:55:49.292Z",
+      "cachedAt": "2026-08-30T10:05:29.908Z",
       "query": "\"Juna Risala\" Indore (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -77,19 +89,19 @@
       ]
     },
     "9": {
-      "cachedAt": "2026-08-23T04:55:49.292Z",
+      "cachedAt": "2026-08-30T10:05:29.908Z",
       "query": "\"Vrindavan\" Indore (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
           "title": "Indore EOW Unearths Disproportionate Assets During Raid On MY Hospital Pharmacist",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOEIwVDYtZWw0SUJZNjBwSjJ5YUJzZVlvd3BhMXNGNWREUXlTbzVVVWJiOHB6WU9SdzlkUlREbEN2dGNBMkNuMWVWbXhZb2cyYmNueDZQOWxuTFl5QTBwOGp3NGwtNHQ4RExiblRVYjRwdTRqODB5MTAyTWRfeEhFeG9VRkV6YjFLSlkxUUVFdy1jUlpXNU1adk5QVmNFN2VJZW9ObTBLQTlUTVJvbkszcWlkcGcxQnRQX2xrctIBwgFBVV95cUxQT0RtM0FqTEExejYwdU5vOHloaG9ra2Qybi1HMEVPdUZYZUlVN2F6OGRNOG5DOEI1OExmUU1XRi1XZGNnak5lMVplaXJnaVU4NTJaN3ROSzNub2JNZnU1MFR5NkJDTUd5WFYzOVYwVXFNdjk3NjIzNS1jNUZDQ05rOFRuRm9Yb0FfelU0QkRuVndtdjdqd0o5YUg2dzNCNjRyQTF2VHk5Q0lhQ1k5dEtmR3NkaEtjeFhhbUhCMzlRV2JPUQ?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOEIwVDYtZWw0SUJZNjBwSjJ5YUJzZVlvd3BhMXNGNWREUXlTbzVVVWJiOHB6WU9SdzlkUlREbEN2dGNBMkNuMWVWbXhZb2cyYmNueDZQOWxuTFl5QTBwOGp3NGwtNHQ4RExiblRVYjRwdTRqODB5MTAyTWRfeEhFeG9VRkV6YjFLSlkxUUVFdy1jUlpXNU1adk5QVmNFN2VJZW9ObTBLQTlUTVJvbkszcWlkcGcxQnRQX2xrcg?oc=5",
           "date": "2026-08-06T07:00:00.000Z",
           "source": "Free Press Journal"
         },
         {
           "title": "MY Hospital pharmacist turns out to be a crorepati: EOW raid finds 108% disproportionate assets; visited Th...",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNb2NIbDBXZVpFTF83Zm9WZC13dzRjUFJTVzhPek15X282OHVUWjlDNjhkM0RQeWR5OUo2Q3Y5eDQyaGRKUHdmbVJuVGRKY2JBYV9TSTRtaHZyNFFVdW1uZVZUeHh4OFpvWFNIeGtLNkpxZHNqT2VhZ191NjVTMlV1MXJGcmw3Y2RLaVdhWXJnTGtqZWlZc3NGdFVCMkFxVmlOOTlsZFdFOTFwbnFXWlp4cEg4UXAzWTI4SEd2bnNpRHRvZ1nSAcgBQVVfeXFMUG5TSHRwQTE5clNtMldEaTFDNUUxLWItblpBQjdwT2VEZExFWlVzS3pkOTBMNUR4cnhOdnRlZ2Mtd2ZLZjVaZWhhNG5YOTR3Q296Sy1pRzdmMVNjbklqQnpWWklhakxqV3I0MGMxaC01TTJGYm1mX3dQY0Q2YVUxbERJYmpuWEdTaFZJdWxVQjAweC11WG1WRVRRa0tPNFdpNUE4VHBVSHp5MHI2c0g4akg0MkdKZWFteVg5eVBUZGV2VU95akNVeEs?oc=5",
-          "date": "2026-08-05T13:59:49.000Z",
+          "date": "2026-08-05T21:07:18.000Z",
           "source": "Bhaskar English"
         },
         {
@@ -97,23 +109,17 @@
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWWdOcXh6NzIzYTZ1REFRRXRXbDczM2xHSzhKZ1ZNbFV6bHBuUVpGcUpvMS05bXdaX3BibGt1dWRTeUw1S3NRN3JjVDRUbktQaWNjRmFMR0xqZ1JweWFCcUtXVW9fRHF3aXpINUZ2S1ltUFBib1pXTVM3TzhRc2pVWFNLNm9SamZhc0FBRE51N1NvSXViNmI0NXo5VkpVQWgxVXlmTUs4MXFuODExdnl0V2lmcHhfaUVkUkpIekdYRXBIbDZGS0HSAcsBQVVfeXFMUFowUU5GQVlLb0dhVl95SlctSXV3ZkJYZjZ0YTAxZmNKak5QYjVIZkVjOHNtaEN3SHBKTThaSE1WZUVGOG52cXhBeXdDc0ROOHlMQXdpNjhpZWJJd21QQzlVTjJmYTFkcFFzcU12TDBOdkExRDRsc2QtTHpQblYyRlN2LWdMOTdoTTZONzl0ZDd1Q2otM0FxSFIwOFNMRDVlZFg5VFpGNTkxTzBFeHBaVmRXZGdhRWEzU3lvQl9HNTFhQjNNOVNMVW9sbW8?oc=5",
           "date": "2026-08-05T07:00:00.000Z",
           "source": "Free Press Journal"
-        },
-        {
-          "title": "Two arrested with four pistols, magazines, live cartridges",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMWV1SUg2aHNUYjFyeU9YeHN2cWZRdHE3a1M4UmhoSHEwdFZ0Y3k0SnVkb3JodmVYX1ZubVlNM1YwN0FfQTgzU3hyak83eVh1dzNUbmpnSFFkMC1panFkTk42U2l6VFdfNmlRWUNfdU5qdTNkMGw4Z1pUNG5PTnkwYlotZW45RnhlbHdlMXE2ZkxtUEJMMGRxcW5wOXhzVUdZMVhpS3dHUXVZNjdrRXZnMjVyaHZTUmN3YW5RUHJIblpETXYxZUZBY2pn0gHPAUFVX3lxTE1RX2lsN25ERDV0M2tKWldMcjAyTU4wcGVyVTVkY0FyM1JyVXJVSDdoam9lUUJUVEZVNVlhU1J3SUNuNnZETWppQ19WMVU4TXVBQ1A5RjZGRnJrbmgxbXNhNzM3M29Wc01nTmRYemZ4b1dFb2NfaVIwYlBZQXVQQVBmMkx4a09uUzRKaC1FUF9DNFBxek04YzdlYU1ITTVGQ05KTVlsajQyejJkREZEX0V1Tm1RY3lIMlNNMFc4TlVnRDRDOGJlbXBNS29lSE9paw?oc=5",
-          "date": "2026-07-30T07:00:00.000Z",
-          "source": "The Times of India"
         }
       ]
     },
     "10": {
-      "cachedAt": "2026-08-23T04:55:49.292Z",
+      "cachedAt": "2026-08-30T10:05:29.908Z",
       "query": "\"Banganga\" Indore (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
           "title": "Indore restaurant owner’s son arrested for alleged employee murder",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOa3JoNWN3MU9zakhGQll0UFBuX2Y3WlBOOHpsVW1xLWNhTmtudkJiWXNZVC0yODI5QkE3TVpvNnpOblRjTzJsOS04d0pvWVNnYTZOTW1mcVRvSlc1enVxQVc3M01fM3laTWdvZFhtaXpoUnRoeDJYbkxuR0NWMDlWOUJtSWs5OGxHMnF1Y28yWTVqRldrS01JS1phRjR6Zlk?oc=5",
-          "date": "2026-08-17T14:22:13.000Z",
+          "date": "2026-08-17T07:00:00.000Z",
           "source": "The News Mill"
         },
         {
@@ -137,22 +143,22 @@
       ]
     },
     "11": {
-      "cachedAt": "2026-08-23T04:55:49.292Z",
+      "cachedAt": "2026-08-30T10:05:29.908Z",
       "query": "\"Bhagirathpura\" Indore (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "12": {
-      "cachedAt": "2026-08-23T04:55:49.292Z",
+      "cachedAt": "2026-08-30T10:05:29.908Z",
       "query": "\"Govind Colony\" Indore (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "13": {
-      "cachedAt": "2026-08-23T04:55:49.292Z",
+      "cachedAt": "2026-08-30T10:05:29.908Z",
       "query": "\"Sangam Nagar\" Indore (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "14": {
-      "cachedAt": "2026-08-23T04:55:49.292Z",
+      "cachedAt": "2026-08-30T10:05:29.908Z",
       "query": "\"Ashok Nagar\" Indore (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -162,46 +168,46 @@
           "source": "Hindustan Times"
         },
         {
+          "title": "Delhi police arrest third suspect in murder of DU professor Debosmita Paul",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOFpDbi1PN3hOcTVJVlFJeGVwOENlZFZ3cTI2VWlVd3ZQYk10U21oYXBXUkdYMExPc3hVRXlfTlJZZ2k5YXUtTGFuVHRUVjNSbGxKdlJuaG1MSUltMC1GajFSUkJrOTl2ZWE2QXgyYV9qZ05fdEpYelY3d2hucDlBVXRRSG5xNjFtNmtvOVZfQ3ZBY0VvcDdtSkNlSEFxbVprQWpybklkM1RNSGM?oc=5",
+          "date": "2026-06-07T07:00:00.000Z",
+          "source": "The News Mill"
+        },
+        {
           "title": "Lawrence gang enters MP, threatens 6 businessmen in a month: Demands extortion of ₹5-15 crore; police intel...",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMklyaFM3Z2RoSmdFeTFrX3ZoZFNONU93TG9SY1dqTlUzeW5NVnM5c2RhTUg1UHJEZGYzc2tGQ1kyTGZ4LW9UN1BqVVM4Nk5IWFVYWGZISkswMlFudVhGWkFUUDd0b0ZKRmw3YU9KZXFQd1B3UThKd216ZE1pbF9pM3RaVmNkUkVpX2lWTlR4R3M2Sld3Z1Bfb2hRa09LajZBTG1DN25UbmQ4UjViYThFTkEyZTAySXltVnRITVpVWjBCZGt1aEhlVkhYMNIB0AFBVV95cUxPaHRZY1BfNGxzRkhnTlV4ZG8tUlFZXzRJdFU2UnI1bUhSekRqbWViSDVCb0pRQWZMN1p4YTI1M080czM2c1VTQ2JIeXo5SUpHa1A1OVFjNnp5ZXU2VkxxTTBQcFdNVUwxUGFvQjVKazU3NUpTNFYzVjk5WmhxM21XVG0xamRoSUFERnNGUHNCclE4QzZqemJpWnlYdE5TRlRLSlE1Q1FOQ29COWpUVWFrX3RlbEYwMk1pajdTMDdrbkpMUWo4cHpPOVBfU015dEFa?oc=5",
           "date": "2026-05-04T07:00:00.000Z",
           "source": "Bhaskar English"
-        },
-        {
-          "title": "Firing at trader’s residence in M.P., ₹10 Crore threat issued; Bishnoi Gang named in post",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNSXBieXlfNDEtcTJkcTZxaEFpQWc4eC1laENSR1I4akNxRU1IczFUa1VBcEk3VVE4X05VSy1NbFlvZkZTWndfaGJjWFBKNlpPTExUc2lZc3lma2k5QlpXaXE4U3RKQ0E3STZTVnlEbEpjWlk4LWpOU0x4S2xBR1hEa1lfbHFKdWVXeFZjOUxfaC0yX1FMQ0xZYnhlM28wWUhPQm9RZ1MydW8za1ZKSFZKMXlXWm1pRzd6enNudTJXRkdjVFNhSU5YbjcwdTlzWXE1NDFNa1hld284bzB0OGw5bVlzMFdpeEFXTTExc0Nn0gH0AUFVX3lxTE9ZdEtvRm5ZMXBBSEhCdmRQWVNaWjMxMS0tZC1CbDBvNUNHc2tCOEhnU29fdHpJcldHWkdta2IyckdWUmpTSkhMVHNIMzlJbklNT1RyMWczRURxNHZ6WWZPTktpMS1JRXhGT0d5S3NzTkhCUWNoR2VRSWtLcHotd3BvdkxJSTl3NGF2SWxfZHMteDMwUndaMDBjRC1vZ3FnN2lfMTdpVWxLRDlmSk5jUFZxMExtVzlhYjFQZmpITGtWX0xod2JFRmtGU1dUdklfTUFLTjYzNG9JbFJmQ2dWVi1LbXZNbk15V3czZHlvaDJKRmoxOWg?oc=5",
-          "date": "2026-03-19T07:00:00.000Z",
-          "source": "The Hindu"
         }
       ]
     },
     "15": {
-      "cachedAt": "2026-08-23T04:55:49.292Z",
+      "cachedAt": "2026-08-30T10:05:29.908Z",
       "query": "\"Bijasan\" Indore (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "16": {
-      "cachedAt": "2026-08-23T04:55:49.292Z",
+      "cachedAt": "2026-08-30T10:05:29.908Z",
       "query": "\"Nandbag\" Indore (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "17": {
-      "cachedAt": "2026-08-23T04:55:49.292Z",
+      "cachedAt": "2026-08-30T10:05:29.908Z",
       "query": "\"Kushvah Nagar\" Indore (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "18": {
-      "cachedAt": "2026-08-23T04:55:49.292Z",
+      "cachedAt": "2026-08-30T10:05:29.908Z",
       "query": "\"Sant Kabir\" Indore (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "19": {
-      "cachedAt": "2026-08-23T04:55:49.292Z",
+      "cachedAt": "2026-08-30T10:05:29.908Z",
       "query": "\"Vishvakarma\" Indore (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "20": {
-      "cachedAt": "2026-08-23T04:55:49.292Z",
+      "cachedAt": "2026-08-30T10:05:29.908Z",
       "query": "\"Gauri Nagar\" Indore (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -225,132 +231,132 @@
       ]
     },
     "21": {
-      "cachedAt": "2026-08-23T04:55:49.292Z",
+      "cachedAt": "2026-08-30T10:05:29.908Z",
       "query": "\"Shyam Nagar\" Indore (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "22": {
-      "cachedAt": "2026-08-23T04:55:49.292Z",
+      "cachedAt": "2026-08-30T10:05:29.908Z",
       "query": "\"Pandit Dindayal Upadhyay\" Indore (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "23": {
-      "cachedAt": "2026-08-23T04:55:49.292Z",
+      "cachedAt": "2026-08-30T10:05:29.908Z",
       "query": "\"Swargiya Rajesh Joshi\" Indore (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "24": {
-      "cachedAt": "2026-08-23T04:55:49.292Z",
+      "cachedAt": "2026-08-30T10:05:29.908Z",
       "query": "\"Sant Balaji Ath Maharaj\" Indore (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "25": {
-      "cachedAt": "2026-08-23T04:55:49.292Z",
+      "cachedAt": "2026-08-30T10:05:29.908Z",
       "query": "\"Nanda Nagar\" Indore (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "26": {
-      "cachedAt": "2026-08-23T04:55:49.292Z",
+      "cachedAt": "2026-08-30T10:05:29.908Z",
       "query": "\"Jeen Mata\" Indore (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "27": {
-      "cachedAt": "2026-08-23T04:55:49.292Z",
+      "cachedAt": "2026-08-30T10:05:29.908Z",
       "query": "\"Pashupati Nath\" Indore (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "28": {
-      "cachedAt": "2026-08-23T04:55:49.292Z",
+      "cachedAt": "2026-08-30T10:05:29.908Z",
       "query": "\"Ma Tulja Bhavani\" Indore (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "29": {
-      "cachedAt": "2026-08-23T04:55:49.292Z",
+      "cachedAt": "2026-08-30T10:05:29.908Z",
       "query": "\"Drshyam Prasad Mukharji\" Indore (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "30": {
-      "cachedAt": "2026-08-23T04:55:49.292Z",
+      "cachedAt": "2026-08-30T10:05:29.908Z",
       "query": "\"Sant Ravidas\" Indore (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "31": {
-      "cachedAt": "2026-08-23T04:55:49.292Z",
+      "cachedAt": "2026-08-30T10:05:29.908Z",
       "query": "\"Maharaja Chatrasal\" Indore (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "32": {
-      "cachedAt": "2026-08-23T04:55:49.292Z",
+      "cachedAt": "2026-08-30T10:05:29.908Z",
       "query": "\"Atal Bihari Vajpeyi\" Indore (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "33": {
-      "cachedAt": "2026-08-23T04:55:49.292Z",
+      "cachedAt": "2026-08-30T10:05:29.908Z",
       "query": "\"Sukhliya\" Indore (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "34": {
-      "cachedAt": "2026-08-23T04:55:49.292Z",
+      "cachedAt": "2026-08-30T10:05:29.908Z",
       "query": "\"Shahid Bhagatsingh\" Indore (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "35": {
-      "cachedAt": "2026-08-23T04:55:49.292Z",
+      "cachedAt": "2026-08-30T10:05:29.908Z",
       "query": "\"Lasudiya Mori\" Indore (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "36": {
-      "cachedAt": "2026-08-23T04:55:49.292Z",
+      "cachedAt": "2026-08-30T10:05:29.908Z",
       "query": "\"Nipaniya\" Indore (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "37": {
-      "cachedAt": "2026-08-23T04:55:49.292Z",
+      "cachedAt": "2026-08-30T10:05:29.908Z",
       "query": "\"Sai Krupa\" Indore (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "38": {
-      "cachedAt": "2026-08-23T04:55:49.292Z",
+      "cachedAt": "2026-08-30T10:05:29.908Z",
       "query": "\"Haji Colony\" Indore (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "39": {
-      "cachedAt": "2026-08-23T04:55:49.292Z",
+      "cachedAt": "2026-08-30T10:05:29.908Z",
       "query": "\"Nahar Shahvali\" Indore (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "40": {
-      "cachedAt": "2026-08-23T04:55:49.292Z",
+      "cachedAt": "2026-08-30T10:05:29.908Z",
       "query": "\"Khajrana Ganesh\" Indore (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "41": {
-      "cachedAt": "2026-08-23T04:55:49.292Z",
+      "cachedAt": "2026-08-30T10:05:29.908Z",
       "query": "\"Kailashpuri\" Indore (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "42": {
-      "cachedAt": "2026-08-23T04:55:49.292Z",
+      "cachedAt": "2026-08-30T10:05:29.908Z",
       "query": "\"Swami Vivekanand\" Indore (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "43": {
-      "cachedAt": "2026-08-23T04:55:49.292Z",
+      "cachedAt": "2026-08-30T10:05:29.908Z",
       "query": "\"Shrinagar\" Indore (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "44": {
-      "cachedAt": "2026-08-23T04:55:49.292Z",
+      "cachedAt": "2026-08-30T10:05:29.908Z",
       "query": "\"Hig\" Indore (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "45": {
-      "cachedAt": "2026-08-23T04:55:49.292Z",
+      "cachedAt": "2026-08-30T10:05:29.908Z",
       "query": "\"Drbhimrao Ambedkar\" Indore (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "46": {
-      "cachedAt": "2026-08-23T04:55:49.292Z",
+      "cachedAt": "2026-08-30T10:05:29.908Z",
       "query": "\"Somnath\" Indore (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -368,54 +374,54 @@
       ]
     },
     "47": {
-      "cachedAt": "2026-08-23T04:55:49.292Z",
+      "cachedAt": "2026-08-30T10:05:29.908Z",
       "query": "\"Sardar Vallabhbhai\" Indore (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "48": {
-      "cachedAt": "2026-08-23T04:55:49.292Z",
+      "cachedAt": "2026-08-30T10:05:29.908Z",
       "query": "\"Gita Bhavan\" Indore (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "49": {
-      "cachedAt": "2026-08-23T04:55:49.292Z",
+      "cachedAt": "2026-08-30T10:05:29.908Z",
       "query": "\"Tilaknagar\" Indore (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "50": {
-      "cachedAt": "2026-08-23T04:55:49.292Z",
+      "cachedAt": "2026-08-30T10:05:29.908Z",
       "query": "\"Brajeshvari\" Indore (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "51": {
-      "cachedAt": "2026-08-23T04:55:49.292Z",
+      "cachedAt": "2026-08-30T10:05:29.908Z",
       "query": "\"Bhagvati Nagar\" Indore (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "52": {
-      "cachedAt": "2026-08-23T04:55:49.292Z",
+      "cachedAt": "2026-08-30T10:05:29.908Z",
       "query": "\"Musakhedi\" Indore (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "53": {
-      "cachedAt": "2026-08-23T04:55:49.292Z",
+      "cachedAt": "2026-08-30T10:05:29.908Z",
       "query": "\"Drmaulana Azad Nagar\" Indore (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "54": {
-      "cachedAt": "2026-08-23T04:55:49.292Z",
+      "cachedAt": "2026-08-30T10:05:29.908Z",
       "query": "\"Residency\" Indore (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
           "title": "Indore EOW Unearths Disproportionate Assets During Raid On MY Hospital Pharmacist",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOEIwVDYtZWw0SUJZNjBwSjJ5YUJzZVlvd3BhMXNGNWREUXlTbzVVVWJiOHB6WU9SdzlkUlREbEN2dGNBMkNuMWVWbXhZb2cyYmNueDZQOWxuTFl5QTBwOGp3NGwtNHQ4RExiblRVYjRwdTRqODB5MTAyTWRfeEhFeG9VRkV6YjFLSlkxUUVFdy1jUlpXNU1adk5QVmNFN2VJZW9ObTBLQTlUTVJvbkszcWlkcGcxQnRQX2xrctIBwgFBVV95cUxQT0RtM0FqTEExejYwdU5vOHloaG9ra2Qybi1HMEVPdUZYZUlVN2F6OGRNOG5DOEI1OExmUU1XRi1XZGNnak5lMVplaXJnaVU4NTJaN3ROSzNub2JNZnU1MFR5NkJDTUd5WFYzOVYwVXFNdjk3NjIzNS1jNUZDQ05rOFRuRm9Yb0FfelU0QkRuVndtdjdqd0o5YUg2dzNCNjRyQTF2VHk5Q0lhQ1k5dEtmR3NkaEtjeFhhbUhCMzlRV2JPUQ?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOEIwVDYtZWw0SUJZNjBwSjJ5YUJzZVlvd3BhMXNGNWREUXlTbzVVVWJiOHB6WU9SdzlkUlREbEN2dGNBMkNuMWVWbXhZb2cyYmNueDZQOWxuTFl5QTBwOGp3NGwtNHQ4RExiblRVYjRwdTRqODB5MTAyTWRfeEhFeG9VRkV6YjFLSlkxUUVFdy1jUlpXNU1adk5QVmNFN2VJZW9ObTBLQTlUTVJvbkszcWlkcGcxQnRQX2xrcg?oc=5",
           "date": "2026-08-06T07:00:00.000Z",
           "source": "Free Press Journal"
         },
         {
           "title": "MY Hospital pharmacist turns out to be a crorepati: EOW raid finds 108% disproportionate assets; visited Th...",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNb2NIbDBXZVpFTF83Zm9WZC13dzRjUFJTVzhPek15X282OHVUWjlDNjhkM0RQeWR5OUo2Q3Y5eDQyaGRKUHdmbVJuVGRKY2JBYV9TSTRtaHZyNFFVdW1uZVZUeHh4OFpvWFNIeGtLNkpxZHNqT2VhZ191NjVTMlV1MXJGcmw3Y2RLaVdhWXJnTGtqZWlZc3NGdFVCMkFxVmlOOTlsZFdFOTFwbnFXWlp4cEg4UXAzWTI4SEd2bnNpRHRvZ1nSAcgBQVVfeXFMUG5TSHRwQTE5clNtMldEaTFDNUUxLWItblpBQjdwT2VEZExFWlVzS3pkOTBMNUR4cnhOdnRlZ2Mtd2ZLZjVaZWhhNG5YOTR3Q296Sy1pRzdmMVNjbklqQnpWWklhakxqV3I0MGMxaC01TTJGYm1mX3dQY0Q2YVUxbERJYmpuWEdTaFZJdWxVQjAweC11WG1WRVRRa0tPNFdpNUE4VHBVSHp5MHI2c0g4akg0MkdKZWFteVg5eVBUZGV2VU95akNVeEs?oc=5",
-          "date": "2026-08-05T13:59:49.000Z",
+          "date": "2026-08-05T21:07:18.000Z",
           "source": "Bhaskar English"
         },
         {
@@ -433,17 +439,17 @@
       ]
     },
     "55": {
-      "cachedAt": "2026-08-23T04:55:49.292Z",
+      "cachedAt": "2026-08-30T10:05:29.908Z",
       "query": "\"Sauth Tukoganj\" Indore (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "56": {
-      "cachedAt": "2026-08-23T04:55:49.292Z",
+      "cachedAt": "2026-08-30T10:05:29.908Z",
       "query": "\"Snehalata Ganj\" Indore (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "57": {
-      "cachedAt": "2026-08-23T04:55:49.292Z",
+      "cachedAt": "2026-08-30T10:05:29.908Z",
       "query": "\"Devi Ahilyabai\" Indore (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -451,16 +457,22 @@
           "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNMllIekVGS1lKQ2lVdmRmZHNfcVhLR3phZUFTOXE3cm5pYUFkUnFhdFgycVItN2ZmXzM1VTdaVjQyYTVPVXRlR1NWMWxDYm5acWJlVGdYRWpqZTRFMlczMHJfWlJSYjNSVi1NR25yTVdRMWN5V0g3SkI0d3hKcHd5bmU1Y1lZM2JpVnk1UWFJVW1kQUFreXNvZldmVzNoS0lGMEQ0VmUyUjB0T0dCWURTeUpsNTVOMEd1N0V0VFc3eWxpVHRpUWd0anVUcVNES2Zwd2JPUUZhekt5MXlBbnJNaDdaRzY0M3o5VXdXNU5FS3RpZnNWWV92NG1tZUN5QmlHa19VVWlJNmpBMUXSAZACQVVfeXFMUGs2Z1lQanBHbDFBNzRVa1pKV3dlSlhSTU13OHdabVljNFYySUlDb181MFhqazlnNU5VZjR6MkY5OEhjWlctWjRMeGctZG5OX1pVMXUzSTZWb2NoQzRFUzVZUzlyZjlmWWozN3ZOWklRTEkzNDRaNTdBYUk1am52dHpRYm5DeTZUUzJabmxLUElPMTdVTWNPZnRLUXJvVkN0a1dKZjBGNFE5MnBXcVVITUZjVGFiekYtS1dpbVpWY0Q2Wk1oU3I1MWxBT2dQMUlZMUZYNFdYeWVFYlZPNmFSSXZGNmNpN3Mzc09wY0djSjg4WkpLVzNLazRxZTg4WlplQjVVeUZlQWJzd0w4WkszWVQ?oc=5",
           "date": "2026-08-05T07:00:00.000Z",
           "source": "The Times of India"
+        },
+        {
+          "title": "Wristwatch, Perfume & Leather Belts Stolen From Passengers Bag At Indore Airport",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOXy1ldTVpaWlPUGxCb1pSWTNiU28zVUtjTzdLOThEZWxzQ0hGNFBjOW5ZdHNuLUxZUWhxVnQ0S0lHZ3lTTG1tODdPbkZHTlphYmdVZDhfYlZqcmhuSjJCWEd5ODluVTI3am9DU1pZQ0w3Z2FBamVINTRBaG1TMHhxZHZOdTI1X3dYcjhkeG1rZVRyQmZmRkhUZ24xM1lGMEN3Q0xIMk1UMk5NWVhwZmZGTkw2dC1lcHPSAbwBQVVfeXFMUFdCSXVYVGE4QUhZTkxXZjJYelJoTmNUME5LVzd2SU1wb2dyWVBrMHd6UlVFa3dWb2oxX0JjZGVxc0h0MU9FZm1uSkNlYUlXdGI5b1VfUDQwQzhUMHlINms3enJRR0RrUXpqV2tnbkQ1eS1wYTZwUEh1c04xODN4X3duOFVMOXpEVnlSRjM4QlJkWEtYYVp6RUtHZ1JGeG11R1hlZ0NqLUdrUzQ2NFBSTUlRZDIwVklFcVJ0VlM?oc=5",
+          "date": "2026-05-05T07:00:00.000Z",
+          "source": "Free Press Journal"
         }
       ]
     },
     "58": {
-      "cachedAt": "2026-08-23T04:55:49.292Z",
+      "cachedAt": "2026-08-30T10:05:29.908Z",
       "query": "\"Imli Bazar\" Indore (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "59": {
-      "cachedAt": "2026-08-23T04:55:49.292Z",
+      "cachedAt": "2026-08-30T10:05:29.908Z",
       "query": "\"Harsiddhi\" Indore (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -478,13 +490,13 @@
       ]
     },
     "60": {
-      "cachedAt": "2026-08-23T04:55:49.292Z",
+      "cachedAt": "2026-08-30T10:05:29.908Z",
       "query": "\"Ranipura\" Indore (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
           "title": "Scrap dealer held for trade of stolen vehicle parts",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTzdLeU0zem5sSzhQbUtpUTB0Ykh6RUlINGNITE9IQ2I5LWFrVWNrWnpINGpseEFzdGY5THgxZThJeTFINGhoVVIwTnVSRDNXUTFsd2J1WFZ6Y003dlVXc0JsTnZmYWtld2JCYUJ3dk1uQ3hqTzVUQnRIRU8wSElzbndROFQ3a3o0R0JYWEZWN1JQZmw4LUtzd2pCaFN0SC03c0ZVQmVwSC14TEM0VDU0dGtLN3pBdzhOY0daU2wxVmNkZ3fSAcgBQVVfeXFMUDZNbTFUc2M0NTlqQWtsMFdMZWxLSVJwT3VadTNNS1RpRVhMTVZOSms1V2IyckM2VjFqbl9KNW12WTBCSWdyZTNxZUFxZUpFOXRYYUk4cDBSYlkzckMxWEdIQ3NvQTRtdm1GdFk0V0xMYlI1MXZ5U2NkYUZrRWdZMEd3SjZtYXUwSVlFanhFbmRJTjRTeFlTQjlrUkdSOUxQZDlIRzZkMTFEUmpYQUJ0TzJHOTVDWEMwVG9UcFd4enNhdDN4S21aaWI?oc=5",
-          "date": "2026-08-12T19:11:00.000Z",
+          "date": "2026-08-13T07:00:00.000Z",
           "source": "The Times of India"
         },
         {
@@ -496,54 +508,47 @@
       ]
     },
     "61": {
-      "cachedAt": "2026-08-23T04:55:49.292Z",
+      "cachedAt": "2026-08-30T10:05:29.908Z",
       "query": "\"Tatya Sarvate\" Indore (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "62": {
-      "cachedAt": "2026-08-23T04:55:49.292Z",
+      "cachedAt": "2026-08-30T10:05:29.908Z",
       "query": "\"Ravji Bazar\" Indore (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "63": {
-      "cachedAt": "2026-08-23T04:55:49.292Z",
+      "cachedAt": "2026-08-30T10:05:29.908Z",
       "query": "\"Navlakha\" Indore (crime OR arrest OR snatch OR rape OR molest OR raid)",
-      "items": [
-        {
-          "title": "Indore News: Traffic Police Tow Away Wrongly Parked Vehicles",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZzZtSU56TTRoR25za3V6TkZtSndrTUN2VzVQbk41dXlkekdHTjdldFZQSU1hc2lVdjNESnh6SHlNM0NHbF9yc0FiUjRWVlI1WGo4RS1CZnpGVEoxTzVFQi1oTVlnakNiY2FiVDc4RlNMWXk1anJmV0p6T3ZEWUNZekllNzV0aHA3UWVVaW9DRGo5bUhkNXRLZ19VQ1BCd03SAaQBQVVfeXFMTjZaYzFPVlVpVWdUZVF0TkNsUzRuWlFVSTVyVE5OVWZRQVI5MGxwVHZWLUwzcnI1ZlJzNHpLUDNsSGJpcDZpNXVzOURJSGVCVzFjektLbVRUM0xfenhtc19HT040cXIzSFFNTVhlYlV3Q25pRkxrdUxwVTdaNmxrUkt3UFRpdjZhYjJsLTlseXVyOEJuc2dWRGRIeFJ1RTBrWHdHelQ?oc=5",
-          "date": "2026-02-27T08:00:00.000Z",
-          "source": "Free Press Journal"
-        }
-      ]
+      "items": []
     },
     "64": {
-      "cachedAt": "2026-08-23T04:55:49.292Z",
+      "cachedAt": "2026-08-30T10:05:29.908Z",
       "query": "\"Chitavad\" Indore (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "65": {
-      "cachedAt": "2026-08-23T04:55:49.292Z",
+      "cachedAt": "2026-08-30T10:05:29.908Z",
       "query": "\"Sant Kanwarram\" Indore (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "66": {
-      "cachedAt": "2026-08-23T04:55:49.292Z",
+      "cachedAt": "2026-08-30T10:05:29.908Z",
       "query": "\"Shahid Hemu Colony\" Indore (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "67": {
-      "cachedAt": "2026-08-23T04:55:49.292Z",
+      "cachedAt": "2026-08-30T10:05:29.908Z",
       "query": "\"Maharaja Holkar\" Indore (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "68": {
-      "cachedAt": "2026-08-23T04:55:49.292Z",
+      "cachedAt": "2026-08-30T10:05:29.908Z",
       "query": "\"Bambai Bazar\" Indore (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "69": {
-      "cachedAt": "2026-08-23T04:55:49.292Z",
+      "cachedAt": "2026-08-30T10:05:29.908Z",
       "query": "\"Jawahar Marg\" Indore (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -555,7 +560,7 @@
       ]
     },
     "70": {
-      "cachedAt": "2026-08-23T04:55:49.292Z",
+      "cachedAt": "2026-08-30T10:05:29.908Z",
       "query": "\"Loknayak Nagar\" Indore (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -567,57 +572,57 @@
       ]
     },
     "71": {
-      "cachedAt": "2026-08-23T04:55:49.292Z",
+      "cachedAt": "2026-08-30T10:05:29.908Z",
       "query": "\"Dravid Nagar\" Indore (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "72": {
-      "cachedAt": "2026-08-23T04:55:49.292Z",
+      "cachedAt": "2026-08-30T10:05:29.908Z",
       "query": "\"Lokmanya Nagar\" Indore (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "73": {
-      "cachedAt": "2026-08-23T04:55:49.292Z",
+      "cachedAt": "2026-08-30T10:05:29.908Z",
       "query": "\"Laxmansingh Chauhan\" Indore (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "74": {
-      "cachedAt": "2026-08-23T04:55:49.292Z",
+      "cachedAt": "2026-08-30T10:05:29.908Z",
       "query": "\"Vishnapuri\" Indore (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "75": {
-      "cachedAt": "2026-08-23T04:55:49.292Z",
+      "cachedAt": "2026-08-30T10:05:29.908Z",
       "query": "\"Palda\" Indore (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "76": {
-      "cachedAt": "2026-08-23T04:55:49.292Z",
+      "cachedAt": "2026-08-30T10:05:29.908Z",
       "query": "\"Mundala Nayata\" Indore (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "77": {
-      "cachedAt": "2026-08-23T04:55:49.292Z",
+      "cachedAt": "2026-08-30T10:05:29.908Z",
       "query": "\"Bilawali\" Indore (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "78": {
-      "cachedAt": "2026-08-23T04:55:49.292Z",
+      "cachedAt": "2026-08-30T10:05:29.908Z",
       "query": "\"Choithram\" Indore (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "79": {
-      "cachedAt": "2026-08-23T04:55:49.292Z",
+      "cachedAt": "2026-08-30T10:05:29.908Z",
       "query": "\"Sukh Nivas\" Indore (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "80": {
-      "cachedAt": "2026-08-23T04:55:49.292Z",
+      "cachedAt": "2026-08-30T10:05:29.908Z",
       "query": "\"Drrajendra Prasad\" Indore (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "81": {
-      "cachedAt": "2026-08-23T04:55:49.292Z",
+      "cachedAt": "2026-08-30T10:05:29.908Z",
       "query": "\"Annapurna\" Indore (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -633,10 +638,10 @@
           "source": "Free Press Journal"
         },
         {
-          "title": "DRI Busts ₹1.44 Crore Gold Smuggling Racket At Indore Airport, Five Arrested",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOU9vczRjd0w4V0NlZWJVUFhQdnY0RjNpS1hoVlZpcWtrUGRSQmpxaExVZnp4QnlYcmhyVGxtOGo5QkRUUXQ3RmVUWnFzRDFJajY4ei0tdk5ENlJoa1VNN1p5S09NaGx5Y3V0cUFQaXd1WHppV2J4LThwcGo1dUhPSTJ4VmxSQml0WElLNjd5SlJ0eGw0cXU5MmlzZUF0b1JGb2JyZzFHbEYxN0JqWC1taGhn0gG3AUFVX3lxTE9MTzJiSV8wMGhLaExuSGx0LTRjcWUtRVpmc201YnVRZWJaZ0VlcVlLcmRXVjhWdEZ3LS02bVByTzNaZVVPNjNMZzBjNTBRbld3a2FrdGpFTW5hUzAxZ1R1Qm1WT0FrT1Z4ejdPbndsYWxSZjFOQUwxUVZWRXF5TFRreFBfTURDME83VEFtYW9HLXkyVkdxWWIycG9pREhGUlA5VkYzUVZ4RFROWkxEajRRSjU3NmhZaw?oc=5",
-          "date": "2026-08-06T07:00:00.000Z",
-          "source": "Free Press Journal"
+          "title": "Three arrested after snatching gold chain from woman on way to temple",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQmstZ0ZtS2M2dnhBWjQ2ZVhVbFRReHVfdjV4cjFDVjVFbVpVWkRtZTdfOHZFZURIUV91bkZQMGdYZjNZVlZ3c3IweHBYRXNjNUotYlN1SnBTU3pMV2JwWE5XdnluQ3N0TjdOWG5VVzQyam1aUE9vZHFWYnU5a01PTEtxeXNxSkJHQU9OWlY0TllvTGlTbWdQUG9WcGVPSkR0RkhLTVFic1d0UFNYREdoOGhZTXFPVFpic01vWTJya1B4LWRubnJDMzNMcTF3bnFiaEhvWGpQY2dVTkXSAeABQVVfeXFMTzhZZ0dvNzdQMTZtano1VExhYXlzUnlHLXFzZHlaQUptdHg0b3AzZFNaMnoxQmpNb2ducHRaOU5ybFBMTTFLUmJyZkFsVURwckdCMnRScmRaNGMzUWlvRHJMZ2p5b0R3d281WkF2UFdkaVZzN2V2SXBtVWJEbXh1dGFvSlkwaDY1VWctZDFOUUJyal91WXJ1X00xTUJKQlRYVjQzbDFEaUlLWHFFaEJpeEZha0RLcE5uanlFM01MUFFxaExDaVNZNXI5UlRVSk1seEMzM1pTZi1sc0V3aDBTZks?oc=5",
+          "date": "2026-07-14T07:00:00.000Z",
+          "source": "The Times of India"
         },
         {
           "title": "Indore News: Traffic Police Act Against 189 Violators In Special Drive",
@@ -647,22 +652,29 @@
       ]
     },
     "82": {
-      "cachedAt": "2026-08-23T04:55:49.292Z",
+      "cachedAt": "2026-08-30T10:05:29.908Z",
       "query": "\"Sudama Nagar\" Indore (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "83": {
-      "cachedAt": "2026-08-23T04:55:49.292Z",
+      "cachedAt": "2026-08-30T10:05:29.908Z",
       "query": "\"Gushmata Nagar\" Indore (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "84": {
-      "cachedAt": "2026-08-23T04:55:49.292Z",
+      "cachedAt": "2026-08-30T10:05:29.908Z",
       "query": "\"Dwarkapuri\" Indore (crime OR arrest OR snatch OR rape OR molest OR raid)",
-      "items": []
+      "items": [
+        {
+          "title": "Five Arrested After Couple Alleges Forced Eviction, Assault",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbjdkZ1RLVmxVLUloRUE5QjhQZG1SQjg4bGM2Yzlybkw4TEd6NkRaanRTZXlTc3Q1bGFmdFVYSmlvX01xUjM5QlU3d2U1SjdZdFdBM0k1MjY0OUJwZ3pYSGJhWDBkNERVSVlzYjhZdE1UMkFRbnNSRng1YjR0QlFLbWhLSTZCbUV0VmpWLW9Qc2xQYWppU0pNX21WcW1Cd2dNd3dLRmhxbnVBcE9xX0wyNXkzdkhhRV82UVpyYWFnNkdGNGs2d2U2U0dSUGPSAdIBQVVfeXFMT3dQemNBeGY3V0oxcGgwZF80WWljS0pwVE1pVm9QOUdKamk1ZzFqSFA5R3NUZWczMGQ4V2V6bTRPUHVMMFc3c2g4bTZocVh1TkMzY0Q0bjFVWDlLdTJ2b2oyZWwwNmtuUzVva0FESUNVRzBIYVhLa3AwdUVld3c2VWRLTFNzUm9hX2dkYjRpT0ZFYmRrMXFubnhTcVNtRmtJOXNzVnZTYXBiZGpTcmtwaDdUUG94M2lsa1FWSHVPLV9MSjBFX3l5TUpvcGVobTItOEJn?oc=5",
+          "date": "2026-07-16T07:00:00.000Z",
+          "source": "The Times of India"
+        }
+      ]
     },
     "85": {
-      "cachedAt": "2026-08-23T04:55:49.292Z",
+      "cachedAt": "2026-08-30T10:05:29.908Z",
       "query": "\"Prajapat Nagar\" Indore (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     }

@@ -1,34 +1,34 @@
 {
   "source": "https://news.google.com/rss/search",
-  "scrapedAt": "2026-08-23T05:22:16.916Z",
+  "scrapedAt": "2026-08-30T10:29:44.378Z",
   "wards": {
     "9120836": {
-      "cachedAt": "2026-08-23T05:22:02.677Z",
+      "cachedAt": "2026-08-30T10:29:30.390Z",
       "query": "\"Tibet Road\" Gangtok (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "9120837": {
-      "cachedAt": "2026-08-23T05:22:02.677Z",
+      "cachedAt": "2026-08-30T10:29:30.390Z",
       "query": "\"Chandmari\" Gangtok (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "9120838": {
-      "cachedAt": "2026-08-23T05:22:02.677Z",
+      "cachedAt": "2026-08-30T10:29:30.390Z",
       "query": "\"Development Area\" Gangtok (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "9120839": {
-      "cachedAt": "2026-08-23T05:22:02.677Z",
+      "cachedAt": "2026-08-30T10:29:30.390Z",
       "query": "\"DPH\" Gangtok (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "9120840": {
-      "cachedAt": "2026-08-23T05:22:02.677Z",
+      "cachedAt": "2026-08-30T10:29:30.390Z",
       "query": "\"Upper M G Marg\" Gangtok (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "9120841": {
-      "cachedAt": "2026-08-23T05:22:02.677Z",
+      "cachedAt": "2026-08-30T10:29:30.390Z",
       "query": "\"Lower M G Marg\" Gangtok (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -58,46 +58,32 @@
       ]
     },
     "9120842": {
-      "cachedAt": "2026-08-23T05:22:02.677Z",
+      "cachedAt": "2026-08-30T10:29:30.390Z",
       "query": "\"Syari-Tathangchen\" Gangtok (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "9120843": {
-      "cachedAt": "2026-08-23T05:22:02.677Z",
+      "cachedAt": "2026-08-30T10:29:30.390Z",
       "query": "\"Burtuk\" Gangtok (crime OR arrest OR snatch OR rape OR molest OR raid)",
-      "items": [
-        {
-          "title": "FIR row: Sikkim MLA Kala Rai alleges BJP hand",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNLVJVbUZNanBZNHZTbE5SdThRT3hwUndhY3V2TDc0bkF0V1pTZWJiYXdiLWo2bXY3R0MzZGRFcHE2MWlsVS1WVERJNkVibjU3c0ZjLTkzRnFyX0xWUzRHRm9WdzZMbXdlRHg0OHpxOFJEYnVfMWVtTkVhcnc4TkxDWlpKclRucFUwZ3BkYQ?oc=5",
-          "date": "2026-05-30T07:00:00.000Z",
-          "source": "EastMojo"
-        }
-      ]
+      "items": []
     },
     "9120844": {
-      "cachedAt": "2026-08-23T05:22:02.677Z",
+      "cachedAt": "2026-08-30T10:29:30.390Z",
       "query": "\"Lower Sichey\" Gangtok (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "9120845": {
-      "cachedAt": "2026-08-23T05:22:02.677Z",
+      "cachedAt": "2026-08-30T10:29:30.390Z",
       "query": "\"Upper Sichey\" Gangtok (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "9120846": {
-      "cachedAt": "2026-08-23T05:22:02.677Z",
+      "cachedAt": "2026-08-30T10:29:30.390Z",
       "query": "\"Arithang\" Gangtok (crime OR arrest OR snatch OR rape OR molest OR raid)",
-      "items": [
-        {
-          "title": "Gangtok ‘Traffic Lata’ murder cracked within hours; 20-year-old arrested",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObG1mQ1Z2a0h2aGF1VTMwbzRRODQxQnNBdlREU3J1aENnY1R4ODR5X0ZqOVZEbHZTZGhkVkRoSGVEZFMwekgyTFNyVU0xbGRlNWZjZ3NlUTI1MHY0MnBXOHRyYTd0M0V6OUdGWVlCdFJMZUZfako4YTd3UDVnT1ZqcF9UMGVBZV9rMjdFWnRKd3FlX1piWTlCQ2VEMTRHVGpmUEtTa3RtSXB1WU1sUXB2RHozRDVXajMwTmM2ZlZiWTRtM2I5aF9hTdIBzgFBVV95cUxNMks0QmdaYVpuUWhhUy13cEJhajN5OUc5ai05N09RdWwyVktMaFdhTFEzVmZ1QUZOSWZkc2hRZ0E5bTVQVk9xc1Z0M0VfakNKUjhBemVrVzFkbGpNMXZGQ3R0enY0bzRlQkRVMmM2aEZBRnM4bEV0czY4TE5Pakd4MkM3ZjdPVEpPem1lZXFjSXhzVFl1eGFkYk1vSkRWQ0JtNGxlQkpMTEpDTU1WLV9yc2Vmb1hyaEhISmc3QktOVk14UWt1RUVub1ZlQnIwUQ?oc=5",
-          "date": "2026-03-31T07:00:00.000Z",
-          "source": "India Today NE"
-        }
-      ]
+      "items": []
     },
     "9120847": {
-      "cachedAt": "2026-08-23T05:22:02.677Z",
+      "cachedAt": "2026-08-30T10:29:30.390Z",
       "query": "\"Tadong\" Gangtok (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -127,7 +113,7 @@
       ]
     },
     "9120848": {
-      "cachedAt": "2026-08-23T05:22:02.677Z",
+      "cachedAt": "2026-08-30T10:29:30.390Z",
       "query": "\"Daragaon\" Gangtok (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -151,12 +137,12 @@
       ]
     },
     "9120849": {
-      "cachedAt": "2026-08-23T05:22:02.677Z",
+      "cachedAt": "2026-08-30T10:29:30.390Z",
       "query": "\"Deorali\" Gangtok (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "9120850": {
-      "cachedAt": "2026-08-23T05:22:02.677Z",
+      "cachedAt": "2026-08-30T10:29:30.390Z",
       "query": "\"Ranipool\" Gangtok (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {

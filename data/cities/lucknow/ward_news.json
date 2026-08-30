@@ -1,19 +1,19 @@
 {
   "source": "https://news.google.com/rss/search",
-  "scrapedAt": "2026-08-23T05:01:33.214Z",
+  "scrapedAt": "2026-08-30T10:10:07.866Z",
   "wards": {
     "Sarojni Nagar Part 1": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Sarojni Nagar Part 1\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Sarojni Nagar Part 2": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Sarojni Nagar Part 2\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Airport": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Airport\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -35,80 +35,80 @@
           "source": "Prokerala"
         },
         {
-          "title": "Customs seize narcotics worth Rs 10.39 crore, arrest passenger at Lucknow airport",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQS1FkLVMyYzhSeGVEVTZkV0poZE5VS1V2SEtJYXBJbmhQRVVXVHY4RkVyeDR5V1dpUy01dXlwZElZczRlbUhaLXFZX0RWZDZncGgxSW1IT1ZwYndHaUxVZFo4N0Z0Y3IyYklQc2F2cjZtWVQzanptcVgzWmtwdFFYNUxNWUtoWS1NdFVzaE9HZm93RWJRMTZJX3JqMVp4c1N6dEpPQmFIN3BQWnFzdF9VTEw2QQ?oc=5",
+          "title": "Lucknow: Customs arrest passenger for smuggling, seize Rs 10.39 crore narcotic substance",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOHB1WDUwRzB2VTVKQmZ5bHg3Q0ZQNExGVmVOanVkVHl6alFGRzNwaWk1UE00ZFVNT3BZeU5aQUF1a2xNR0JEYjlkeVYxNTJyRWFLTXFEckV4LXY1WXZtcldMOFRNRW5WOEVRNXVDV29aYUFJaEhvb3JEUmh0NGpSLVJqNmRRU3I0TlFwVDJlMmxWN09LNWFNWmdXRzNMSnMweU9udHBMR0pmLWF3QkZPWW9hMXg4UFpNM1pJYk4tTjdVa1hwSGxxWjJvT0ZvVGJIejJJaEdrckxUQklKSlZQNXdtTQ?oc=5",
           "date": "2026-06-06T07:00:00.000Z",
-          "source": "The News Mill"
+          "source": "ANI News"
         }
       ]
     },
     "Raja Bijli Pasi": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Raja Bijli Pasi\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Sharda Nagar": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Sharda Nagar\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Ibrahimpur": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Ibrahimpur\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Kharika": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Kharika\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Vidyavati 1st": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Vidyavati 1st\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Vidyavati 2nd": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Vidyavati 2nd\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Hind Nagar": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Hind Nagar\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Chitragupt Nagar": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Chitragupt Nagar\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Kesri Kheda": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Kesri Kheda\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Ramjilal Nagar": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Ramjilal Nagar\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Gurunanak Nagar": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Gurunanak Nagar\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Geeta Palli": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Geeta Palli\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Guru Govind Singh Ward": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Guru Govind Singh\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Om Nagar": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Om Nagar\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -120,91 +120,79 @@
       ]
     },
     "Babu Kunj Bihari Lal Ward": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Babu Kunj Bihari Lal\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Sardar Patel Nagar": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Sardar Patel Nagar\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Alam Nagar": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Alam Nagar\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Shahdatganj": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Shahdatganj\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Haidar Ganj 2nd": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Haidar Ganj 2nd\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Haidarganj 1st": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Haidarganj 1st\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Kanhaiya Madhopur": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Kanhaiya Madhopur\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Rajaji Puram": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Rajaji Puram\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Ambedkar Nagar 2nd": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Ambedkar Nagar 2nd\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Chandrabhan Gupt Nagar": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Chandrabhan Gupt Nagar\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Babu Banarsi Das": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Babu Banarsi Das\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Vikramaditya": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Vikramaditya\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Ram Tirath": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Ram Tirath\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Mahatma Gandhi": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Mahatma Gandhi\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
           "title": "After viral video of BKU leader's injuries, Meerut SSP moved to Lucknow HQ amid Custodial assault allegat",
           "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOV1VWTzNuckljU1BFdFM3NVVsQll1N05jTHZQbl9xMnRKYWJBcTgxM0M2dzZxQUxWS21RblJCRVVkWVVFUTYyd2plZlh2OHR1ekRnS0h3Z1ZaWjhtNW9oTjkxRWRwTUp4WjQ3MFdpb0kyOXk2a0h6bGZuc1FwR3lJYUt5dDJPc1ljREx4cWcydHJaZUhFT0pBcTV6T3B6Ym5LY0U2Y1V2RmxScWtwb3M2cEpzQzM5Y3FjYVo4bno2RmhEOVJJb25kX25IMFpWX3p6QjlOQkZFNklwdGN2LTFLM2hqbVAzZ0tnMUwzMmF1NGpIQk1qemstVm5MVznSAYICQVVfeXFMTVc2Z2pLN01XQnF3SHV5RFZHOUE3STBzSlFzOVZ0Rkw5cW9hbWNISXgxNG1YUWFFUzB1UzBqUWxlZXJwNUlnT19OODNudmluVzc4TU9YRDBtaWtIcEw1dGtZSzhWNTAwZlVSZ2FrbUQ4bGNhY2x0WmI2aS1tS292dk0zaHpGSUdwa2hDUEJQZjV6V0R4dTU5bFhfSlA0a3JUNjVaRlM1UWtRN3ZucHBleGNwdDluenFTQmNyem9hOU1KRXZTeDlBREI0bk03aWFFM2ZjaW9SMUpzTGEyNVk5MkxoU2gzT0lTT08tV2JKNjBOM0N3YmM1WGFlTmNIOXdrS3hn?oc=5",
-          "date": "2026-08-21T05:54:00.000Z",
+          "date": "2026-08-21T04:49:00.000Z",
           "source": "The Times of India"
-        },
-        {
-          "title": "2 locations, 3 weapons, 3 deaths: Chilling sequence of Lucknow double murder-suicide baffles cops",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOX1RsUUFNcmozczdBZ1hUdloyejZVUFRWR3JpWVllZU5hOEtxRkRPYUs0dXBQaXlVbnJsc3lWUDBtZ3JwRUhUX2tqNEQ1bUdwQ1NVQU9QMmNoUWtxcjYzY3Z1ekF4NDdJeVR6bVpJYWRTYms4cXFSVEFBb1o4aV9RZ01vbjlvVGJCUHdKRE9vWnN4NHN3VWRVTkZMOUowOE01aV8yZGVNZldXcUlsY25HcWVKQUJ2a2VXWHZNM3FhWk1hZlVLVElJUHpRTzR2LUxCblk3U3d3d1JBVGNaNUdJdV9uZ3BWMjZLRnfSAeoBQVVfeXFMTl9UbFFBTXJqM3M3QWdYVHZaMno2VVBUVkdyaVlZZWVOYThLcUZET2FLNHVwUGl5VW5ybHN5VlAwbWdycEVIVF9rajRENW1HcENTVUFPUDJjaFFrcXI2M2N2dXpBeDQ3SXlUem1aSWFkU2JrOHFxUlRBQW9aOGlfUWdNb245b1RiQlB3SkRPb1pzeDRzd1VkVU5GTDlKMDhNNWlfMmRlTWZXV3FJbGNuR3FlSkFCdmtlV1h2TTNxYVpNYWZVS1RJSVB6UU80di1MQm5ZN1N3d3dSQVRjWjVHSXVfbmdwVjI2S0Z3?oc=5",
-          "date": "2026-08-20T11:07:00.000Z",
-          "source": "The Times of India"
-        },
-        {
-          "title": "Indian Lawyer Arrested In London Over Sexual Assault Charge",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTFlMWGYtNGtDcFpnS2VITDk2VGFHM2IxRll3djBCV2xONEhjenB5aEdFVmR3SEpmbEpWMmdlM2gzYWp6YTEzUXYtZnhMakdlN1BCamVscnF5UDlCVjAwTWU5ZGZ4YlJUU1FTbzkweFlVLTQ2TkNYWl82NXdWY0Q3U3BGWk5wVXRqWEVGX0xXZHUzTXg4OEFIYVFqci1ha0lpZkVkYV9sVGF6UdIBqgFBVV95cUxNTFlMWGYtNGtDcFpnS2VITDk2VGFHM2IxRll3djBCV2xONEhjenB5aEdFVmR3SEpmbEpWMmdlM2gzYWp6YTEzUXYtZnhMakdlN1BCamVscnF5UDlCVjAwTWU5ZGZ4YlJUU1FTbzkweFlVLTQ2TkNYWl82NXdWY0Q3U3BGWk5wVXRqWEVGX0xXZHUzTXg4OEFIYVFqci1ha0lpZkVkYV9sVGF6UQ?oc=5",
-          "date": "2026-08-20T04:57:01.000Z",
-          "source": "Live Law"
         },
         {
           "title": "Gorakhpur girl’s rape, murder: Advocates protest, demand strictest punishment for accused constable | Hindustan Times",
@@ -215,60 +203,54 @@
       ]
     },
     "Lal Kuan": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Lal Kuan\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Yadhu Nath Sanyal": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Yadhu Nath Sanyal\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Ganesh Ganj": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Ganesh Ganj\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Motilal Nehru": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Motilal Nehru\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Kunwer Jyoti Prasad 2nd": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Kunwer Jyoti Prasad 2nd\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Hardeen Rai Nagar": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Hardeen Rai Nagar\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Kashmiri Mohalla": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Kashmiri Mohalla\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Labour Colony": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Labour Colony\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Ambedkar Nagar 1st": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Ambedkar Nagar 1st\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Malviya Nagar": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Malviya Nagar\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
-        {
-          "title": "The ashes of apathy: Why India's fire departments cannot save you",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUkl4b1k5bzE5TXN6M2JyV1dfNjBfRXRrOW9OMVROS2JXZk1pdEt5b01KSFNzMEJmUlBCcnQ1VGhuNElvNF90enBmUDk0MGt4UGFyVVZEZWtRU3dVbm1Sakh0U1NocnRiNGtEVlJhOHRVUnU4OGhQUkZHQzZnb2Z4anVMenVuYkNGdmw5NTR3Ny1TbVQ3Tl9YZkFiZjNqV2dKODUxRUx6ekpqcVltUlVwRnMySmZrYjQyaTB4Nk9FUnE3cmx5NjZCYy1EVdIB0AFBVV95cUxNOHpLVndJTkRIWUstazVwNTZmWllhM1lRTUV3ZlVVbEhtMGh1VE4zMl9xbG1fUFdvUEhQWFZjaWlJVjFmMENScUNLZl9GRTdRVTZhelJ5cEhKMUxnMlFtcVVPUkljTkRqc0g0Ty1uM0pLZVJqZ3FVaTgyQlMyVUxvRWdObUdXQ04tengwZk1vdHZORHpfODRvcmhYYmZxemlLWGp1QXdodEd6NngxOWJHNFlDcHNzRkRZWWZnNFp1TkRucWNLbUxOUHgzSVF2ZzJq?oc=5",
-          "date": "2026-06-27T07:00:00.000Z",
-          "source": "Bhaskar English"
-        },
         {
           "title": "Editorial: Anatomy of India’s fire tragedies",
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0wcmwtaDBGNGZSQ3dIMnhvcmVIOVJnSGpFQkwxODJTTW4yUFplR2c0ZVVGNVhCTWtCcDBQcnRXeW1qeDdScFI1NEU2TnlwaXRwRklWOUNRTFZ1OHRtVnBoenVnbmdOd1ItU0RlWm9aWS1GdG1CVk9qQw?oc=5",
@@ -282,6 +264,12 @@
           "source": "Moneycontrol.com"
         },
         {
+          "title": "46 coaching centres sealed in Kanpur over fire safety lapses",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQldQUzA1SjhNTTUtR1pyX3lxVFYwMHpxMFFVNE5DeEpaQ2hOWGxZYkd5SFZ6ODlhMXlkMUMwYVgyeEFSY2p4ZmVISXVoUE9kN3Y1cXFCcDB2alhfdFczTnItVnlGcGNBaGtLcFZpajRhaEhzamhTZ2RKRmRBQkR6UVRWbnhmbU9HdU81TDFidjk4S1VhTDdDVHk4RnJKV25YWlY0bE1NNFpub2xZNWpYcUI1OUR3T1VFSkdhcXVQdE53MG5RMnRwS0oyZHAxZ03SAdQBQVVfeXFMTmpkLTlWemZfZTJ6SW9CX05lVVB4X3B6NWVYb250bVlRcDA4WV9QLWlWeUk2bEU0d19yS0pzNVRZQm9mSUVnTTU2cGlpOVJJbjZwSGlhak1keDRPN1RMM1FYcVFrOHdhQTI1RWc1bUNuRlNzYm5OX0hUbWRKTE50cmQ3R19LU2gtU0tSNkcwQ2xzb0NjNUIyaDVlVEg4akxXdTVCMURTbTZSUHFDdTVudUNCb0lFY3V3LXp2amVQdHAzUE53R0doNEJFdlI1YURnNHdYM1Q?oc=5",
+          "date": "2026-06-23T07:00:00.000Z",
+          "source": "The Times of India"
+        },
+        {
           "title": "Delhi’s Hauz Rani, Lucknow’s Aliganj: The science of electrical fires in summer | India News",
           "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVHFLb3JodE1iYl92bVA5YUdWb2dLeXV5T29rLUxTOWRoSDdieFpPRW15SEg1cnpMZ1VEN2kzMDJibEF0dnBHMDBSdVl2c0hjM3A5bjlqQzBjMGM0Z2pfUnlEWE9NRnBBZE5jOGp2NnBiLW9zVnNORlhIbnNuSjVoS3pXci1aeFY5Yi00TTdSTzR2ejBUVVhETmdfUGZkSG0zTTUtaDhSTGFuRUVzc3ZMSkp2N2hMenVmb1o4Q2k4RTFGNTdpUVh6YjRJMDBqelVKLXMwNU9WeEZOTTDSAeABQVVfeXFMUFUwdkZzSnZXMnpFS3ZMVkI5bXc5UzhIaFUyZ045TlRNVmNibm1xYVdRVC0yTFVyNHd0Q0pERzdyOTFEa3Z1b2RjX0lLQXhTSmtfLVctbmw1OXhXckxTTVp5OHNVYk1iRC1QTzJ5Q2h0UjJuQkVBbXlQdTM5Q3dLTG5vMFRkbTNONE5oMWZSSEFpRWExNXJPc3RTb3ZPYVpJUUJyTlBZYV9tSnJ0eldyeVJoSjNtT0xndGh3RXVNUFRHVzl2amQ1enBRQVR5eUl4X1ZFX2NhWGcyay1fMkVvcVA?oc=5",
           "date": "2026-06-23T07:00:00.000Z",
@@ -290,22 +278,22 @@
       ]
     },
     "Sheetla Devi": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Sheetla Devi\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Bhawani Ganj": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Bhawani Ganj\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Aish Bagh": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Aish Bagh\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Rajendra Nagar": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Rajendra Nagar\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -317,40 +305,40 @@
       ]
     },
     "Basheerat Ganj": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Basheerat Ganj\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Tilak Nagar": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Tilak Nagar\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Gym trainer accused of stabbing Delhi model in Tilak Nagar arrested after encounter",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPb1ZhRkNESXhTOU1faGxMWWt5YThFVk5jNmlPemNEeWxRdFNGLTV6NjFTLTZRYm5YRHNrMW9ZVUhoS2NrSmNlSy0zR2RuNHVndk9rVE5LYWRMaVNDRVlBUUw0X2M1enlxRXV5UkhWZXgyZUJ3ek1vemt0X1liVm9iZGlZTkZ3OHNOU2E3MTBzN3RydXdmcC1YTnBrSFp2eUpONndHUXNtOWF2dUI1TXVXMl9LNE8tYjQ4ZHNMZWItNDJqVnRKWHUwc1p1czdvcExFUlHSAdcBQVVfeXFMTlR0WmtwZlN1eEJQSHRNOXdCUDRfVldVbFhidnMxRHZXaGItMFNveUxwNXlidTBMcHctUldPQy1RZkVrWHdFRTZJbWhQV09lVG1Pa3pKZFg4ZjdLa2lURmU0TmhUcV9ybFg0Q3oxS1JSWnFDS0poY0JDSWZwX0tITm1NNU5qLWpRb1QzekF4NkVMTFFUY3hsWUpBSFlWYklFR3JHYzY2TENvd0xWWkh5TDRSd0M4b3U3ZGJGT0Q0YTBQTXVGNXBXVWRGVWxQVV9wODRkTFNaWGs?oc=5",
+          "date": "2026-08-28T04:04:42.000Z",
+          "source": "India TV News"
+        },
         {
           "title": "19-year-old stabbed to death in Tilak Nagar over Rs 150 dispute in Delhi",
           "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMXp3SmUwaWY2eHpNQ3owVkhvZ1hlaW5IMTQxU2RWRGdkejF1N0RUdnFOVS1wVXRoOFQ5WkdTT2s2QUR1dy1tVGNsaW9UZkxqVFdwOHptcjJBR2FVZVFwaFExM3Z6dVhmakhjN09YU3k2YVJCMHRkZ05TS1BQSnhNZFdQekJvc1VrOEN4UFA0c1BianY0cGNyZHh1WWg2Sm5ZMTZqRWk1OG4zVGlnVUVBWjN5b2RZZEhnekZpaTE0NmlUZVFzQ3ZGN0xPM3ZzWGMzRmpTUkNLM1pUYnFCU0HSAeMBQVVfeXFMUGo4aVc2UHRWeVpsWEVXOHRGSl9hT0pmU0VfWUxEUDJQWWc4TEg1SzJXWTFrQVVkc3Q2S2xpeHZaODNEOV9VcGFtd1RLVVlwODZrTFgzOXNvOE5GQmE5Y2Vpb25JcXEzQU5HTlBYM3pGU3FVTjJ4R3k1SHB1WEJpc2Y5ZnpBZ1JCZDh4bU83ZWNyZTRjYW4ybjhJN2daZ0tBbmN6SjZybFNDREhwb1dSNzM1cmwzSnFQTzdmTmQxT1kzTnlaYVBSYWxGMzRDak1SWUtUczR3NzI0Yk5DOXMwUW1xLWc?oc=5",
           "date": "2026-06-24T07:00:00.000Z",
           "source": "The Times of India"
-        },
-        {
-          "title": "Three juveniles apprehended over Rs 150 murder in Delhi",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbEgzUGt4N2ZhQUx3aDREcUVDSmVyT1dfbHU4ZGloSUUxVklPSnUzYmJYR01lZHRWcmpqLUhwbTB4b2E1UmNnZ2t4NU9xSjdYelI3YnJMclBzV1dsMUR4Ykc3UFZLcDFwaThaOU02ZDJCNmFPQ3BjMkVjVEhDX29OQ3Q1OVpJbU11TjIzbDFWUnB4eW5fd2tpdVlzNXg2QdIBowFBVV95cUxOVS0xNGVDZ1IxVUhZaUxwSC1GY3A1alZqZDhnVURHb1FVNU5kREZDVHZKUkpUM2FoSG9KNl80dDFSb3I2YWotcktiM25jLS16dmRVT1VQR0N0Ulh1c2tMdktDdjZZOXE2empKR2RCYWh5MGtNU2kwdUNnU0x3anpiblNqU09FUnZFYzVZNVRlT2JyRkNRZ0JtSWNWTHZkRWUzSE9z?oc=5",
-          "date": "2026-06-23T07:00:00.000Z",
-          "source": "The Assam Tribune"
         }
       ]
     },
     "Kundri Rakab Ganj": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Kundri Rakab Ganj\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Moulviya Ganj": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Moulviya Ganj\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Rani Laxmi Bai": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Rani Laxmi Bai\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -368,82 +356,82 @@
       ]
     },
     "Nazer Bagh": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Nazer Bagh\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Jagdish Chandra Bose": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Jagdish Chandra Bose\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Hazarat Ganj": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Hazarat Ganj\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Raja Ram Mohan Rai": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Raja Ram Mohan Rai\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Maulana Kalbey Abid 2nd": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Maulana Kalbey Abid 2nd\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Gadi Peer Khan": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Gadi Peer Khan\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Ambar Ganj": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Ambar Ganj\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Maulana Kalbey Abid 1st": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Maulana Kalbey Abid 1st\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Asharfabad": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Asharfabad\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Raja Bazar": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Raja Bazar\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Yahiya Ganj": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Yahiya Ganj\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Bala Ganj": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Bala Ganj\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Mallahi Tola 1st": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Mallahi Tola 1st\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Mallahi Tola 2nd": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Mallahi Tola 2nd\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Daulat Ganj": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Daulat Ganj\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Acharya Narendra Dev": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Acharya Narendra Dev\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -455,17 +443,17 @@
       ]
     },
     "Hussainabad": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Hussainabad\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Chowk Kaliji Bazar": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Chowk Kaliji Bazar\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Netaji Subhash Chandra Bose": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Netaji Subhash Chandra Bose\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -477,62 +465,62 @@
       ]
     },
     "Mashk Ganj": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Mashk Ganj\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Wazeer Ganj": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Wazeer Ganj\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Golaganj Peer Jaleel": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Golaganj Peer Jaleel\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Faizullah Ganj 2nd": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Faizullah Ganj 2nd\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Faizullah Ganj 1st": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Faizullah Ganj 1st\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Ayodhyadas": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Ayodhyadas\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Kadam Rasul": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Kadam Rasul\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Triveni Nagar": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Triveni Nagar\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Rafi Ahmad Kidwai": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Rafi Ahmad Kidwai\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Rajiv Gandhi 1st": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Rajiv Gandhi 1st\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Rajiv Gandhi 2nd": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Rajiv Gandhi 2nd\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Chinhat": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Chinhat\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -542,15 +530,27 @@
           "source": "The Times of India"
         },
         {
+          "title": "Agra Woman Held Hostage, Raped At Lucknow Hotel For Month; Accused Takes Her Child Away To Push Her Into Prostitution",
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOZmw5dzVHTGlnUEhPU2ZKcUNKU1NNY0tsTEdtak9RRlJPanVsZ3plWEhfR0dLSXE5OVItSTdyZXBTYURiSkk5M18xZUVPdjc2VmxUOWVydW5wdkQ0UXk3S0JaUG1YMThCaG9sc2dwcHhCY1JlZ2FFRHZ3SEttQm9oVXgyMkJKWkRWYm1IMFJsSXpVUVJONjB6OURaWDZ5ejdwZ2V5bVJSX2p0QlluLUNCWHBFcnFlYTRtVHlzX0J6WUJvd0VvT00tMnpTR1JGS2VzZ3ltREFBc1p3ckR2NURnZ3lUVjdLZmVtOXk4ZS0yTWZVQXc?oc=5",
+          "date": "2026-07-08T07:00:00.000Z",
+          "source": "The Daily Jagran"
+        },
+        {
           "title": "4 arrested in Lucknow, including UP police constable: CRPF sub-inspector absconding in ₹5 lakh hostage robb...",
           "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOSlN4dGR4VWdzOU9ZSjVvaXVqdnVidlFUblVfN3M0NkkzNXNlUmJyYkF3OEQtX080Ty1IZXZ2Y2dXVHhzcjhfajlsUm1ob3R2YzlJNFA5czJuRkFVcGRPUHd3S1JxRVBDaDNIV09BMlFlNk5KZEN3OGVQdkRNNFFXZkJyYVR1TGJKR3hERFFpYmNuMlBLWF9ES3R3UC1PUFdOVTB1MHNmWXQxZ1dreXVCWnBMOS1tLVAtem9Sd21sYVBveEE1SEFWZ1BhZnhoWUpvN0oxMnJrdk5ZN2htNVZtbjlhNDB1ZDNvOTZvcFJVeldMZENJ0gH6AUFVX3lxTE1ZTnlvU0RWQnZiWjg5NnkzQXVwVEdneWstM2I2UmM5eVg1SnlkUFluWUIzRnpwZ0VHR3NzazBLaF95NC10VlBVbFNDYnlmNlUxTzU0WkN4eG1GYU0zcFA4Zy1ZR0N1dXdqWlRtdjVfUXJ0SGZ0NjFIeGVXcTJ1ZERTRFdNMW5VSHBWUEZMYmpqemE1cU9MYU9kZzNZTkpYQnF6aTJMa3pVc3kwUThZU0trQS1ncXk4UHRkN1o3bE1raEdxRnFpNzFpU3AwR3BLZG5DM0RrUld0VEZrX2FoemJzdkRtcW4tWkdkcUVsR2tHU0xES05Wbjc3OFE?oc=5",
-          "date": "2026-06-11T07:00:00.000Z",
+          "date": "2026-06-13T13:31:10.000Z",
           "source": "Bhaskar English"
+        },
+        {
+          "title": "Hotel owner arrested after a debris thrown from rooftop kills pedestrian",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQckRZdFdyUzBYM3JVMGtOSjdMV083dGhqdnBwQzZCNWlpSG84VW9HUVBPbW1pNC1YYmk5UUVSOFJUeG1qWXphOWtjQlppNHpQTnJ1NUVCLUJzMVVCUGZRQWlaQzQ3X0dnbUhKc1N0c0UyU0l6MDI2eHRPTzZVRHZBQUpyTjhwWEhNdGFTWFJnNzNiSHctWHZBd1E0My1Gelk1UlZ0X1B6M3hKUjdCYlZLWndpRC11NjAySi1RakZfbWxoNm0zS1ktc0hkVWdVcDV0Uk5sRlZFV0JuQVFFUk9SYdIB5gFBVV95cUxQRlg4ZHlzZ2Y5X2dJSk14N0NnaGFkeXZsWWU4RHZNQVkxY1BYdktiWl96SHFlWUw4Snpnc3M1RExacTBmNUtSOXZGZHZIS1FQQzBuN0dyWDd3ai1VYnF5SjdLWjJRbTd3N0xLV3NDY0xTUEtpNXlvb2xxOWtOZDMtRUx4TG1FLWZoUjdqeUtQWnpOamgxOURFNWZHN3dNLTc1QjVEZ0tPOG0yVi1tSThDOU5IOWFkcHRLbFg4WVFnWlBuNlQ1QXJlLWRGQTdNVnk4WWwtMzhJY05Lajk3cGprWDlEM3N0Zw?oc=5",
+          "date": "2026-05-28T07:00:00.000Z",
+          "source": "The Times of India"
         }
       ]
     },
     "Paper Mill Colony": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Paper Mill Colony\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -562,55 +562,49 @@
       ]
     },
     "Nishat Ganj": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Nishat Ganj\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Colvin College": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Colvin College\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Nirala Nagar": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Nirala Nagar\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Mankameshwar": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Mankameshwar\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Dali Ganj": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Dali Ganj\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Mahakavi Jai Shankar Prasad": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Mahakavi Jai Shankar Prasad\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Ali Ganj Ward": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Ali Ganj\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Vivekanand Puri": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Vivekanand Puri\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Mahanagar": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Mahanagar\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
-        {
-          "title": "GST fraud network busted in Lucknow, key accused arrested",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPX1V2UHlPb0R4c0RtUjVvRTI5NGpXRUhsLXFHckg2QjdMVF9jSDl4bUUyMVRBU3VkNERVS2NvbWRnYndldVFZZUxkUWJBVU1CSlRPMEV3am1uT0NHejhvY29tYkRFbUhUMXFiUXdnVUZtUF8ybGFJZTd6cVdfUV9TY0hxdE1yM0U?oc=5",
-          "date": "2026-06-22T07:00:00.000Z",
-          "source": "A2Z Taxcorp LLP"
-        },
         {
           "title": "Fake IPS Officer Demands 'Respect' Instead Of Paying Rs 40 Tea Bill In Lucknow, Arrested",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeUUxZUFDTm9rTEVHUmxxOE9HNGNuMXZVOGwxZXdMNmpqbjFkWUpOX29LYi1tWlJuVldTUzlhSXh1R3MtWFp2djc3UDJTaGlUSFMxMEZOWVRHNmM0U0xwd052bFlpUE1oeGZXMERtMUp6QzRPd01vQWd6VklEYWVhYnh3MWFNUVFIWTFEZVBYOUpUM3JFNmtIc1JjT0E0ei1DaGNiVTFuWmRjMTk4R3hZRGQ0WGEzR3ctNzdxWUxHcjfSAcgBQVVfeXFMTUZ6UmRiN2h5elVfejV6M09DV3puLTNldm1JTW9yWFY1S2ZucjdVTUdwSUFZWEJWUjU1V01VOGJVQ2RUMHNpMVZZeUwzNmx6MGhHbzR3QUhrTVg3dHFWa1Ixd0pkdHF5WVFIUEI5ancyVnV3dEZtR0VKa0VDclhnQ282bnM3VkF4X1NxcXFVSE1JWnBrUFFEVEJ1cVhuUlB4eGl6akdpQWZGNTJhakUwNHhfcUhETGxOek93V1JHVjhQV1V3LXZERW4?oc=5",
@@ -624,40 +618,46 @@
           "source": "India Today"
         },
         {
-          "title": "‘Leaked Papers For You, Darling’: Lucknow Professor’s Audio Chat With Student Leaked, Arrest Video Goes Viral",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSnJKR25WN2F4STc4TXlUUlR4dVBWNHRSeWRKR2tRZ1otYnV6aWU4eWkwblhMbnM1UVZtb3RSV0FhcEYtaHBvM3MwS0tRc2pPclNzRV9FU0RtWHAzajdRdTlHd3p0eDJHdGl2T1J2N0p1N1h4QVpxV1VkQk1mNlp2ckptN2Y4SzhuT3dUREN1czV5RHM0WHJKVzJMQ1ZlRkpJX1JUREFLeTZ3MXh4SWdhUkpJZzl6TjhBenBIbXpCbzV2UzR2anhUbDEwQTFmUdIB0wFBVV95cUxPY0VlbWtJNjBwb3FNbjRvUkZGWDhrbVlJYXRseTcxRFJheDJaTkQzbktLN3pjRng1MUxndGRLOHo1NjdZNDJjeUluT0JuRHBVR201a0EzamdKVHhVT2plVHdmWFFvVlVXeWZoNjhEWFpUWlNhRnExT3J1T1M1cWVNRVMtQ0c5OTVjZmdaYm5wMUhJTE1nS1VHNVNrT2R5N292VXlqZkx2TDNVWTRud3lBa3RITUZRcnE1eW9uWGM0QW1JUjhGQlRERkNnUDN5M0JBTTF3?oc=5",
-          "date": "2026-05-16T07:00:00.000Z",
-          "source": "NewsX"
+          "title": "Uttar Pradesh: Ward boy Anees Ahmed arrested after trying to rape a female patient at a Lucknow hospital, case lodged",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQczlhMnVHRUdwMHYwOENJc0pRbHZ1WEw4VjB5M2kzWDVmd2FkX0NnRWNHWE1haldLMnlUTE5pR2t5eEh3UFZ0dUQ5TnZmdzRpM2kzN1cwa2hnUjNiWjQ0RDVRbmlDYU1WTWh2LUlYZ1d5Q0tPT0F6aEVBUTFhY1NoT0FHd2FZaGFyVWlyNUZTTkY3VlhkcXlEZ3Z5cHNUb0NTV0J4SXQ2dFBZd0FhcmtONDZFa3Z2bHhJU0hqTG1B?oc=5",
+          "date": "2026-03-27T07:00:00.000Z",
+          "source": "opindia.com"
+        },
+        {
+          "title": "Affair, murder, clueless cops: Enter Belgian Malinois & suspect is singled out, all in a whiff",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPRGp4NVZLRnlGcXVTSTlDUkF4SURjRWpHTERMSG1zTHdSRFduc2hiZ3NxNFdpeVZ5UVVPMk0wS0hRN3hNTF95WlUzbzhpNVdXZk1ycU9JS2V5ZHhQYzI2STh2OHUzVl9DQUpXdmJORGd2Zm9OaWFCNHVBS3htQ05TZE0yTjg1a1loTk5tT09LZUM4WEdOU0xPc1lPZU5hbVBNVWRKNWdRWVM2Ykpkdm9IRUVxQVdLbDRmbDItd1JYOFp2TldoQ3JXYmx3eFRnc3BVSGd2UGJ1WDFTc2ZzeW1ib3RwRXhfRWdHMTEybmlnS3ItalZLV1HSAfsBQVVfeXFMTUVveU5lTEdlMUZXOVBDLVZ6c3V0dFZQajdkZklTUE1NdkRHSU4wNkNfNlhvWjZOazRnakJFUzg5U3hrRXRmSTFwbUdGQTV0dkJjYnZwTktzZHZQNzE3VTJrME5UandzOGRMMklUYzQ2YXBWTmcxOUF5R0I3VDYySkFqTHA3ZzJYZ1MyeU8weTh0VXF0djJ4LW45bEYxMVg3a2RlYXpvQng1bDdyVGMwa3pzZXdIeHZtYjBRb0hPcFBHY01WNGY2VVpqX2ZBQ1NhRWp1MnBLa2xzRkN6dDRxZzlYOVkzamNaQllKbWVjV19tbVBTUnZUV0hPUWs?oc=5",
+          "date": "2026-03-24T07:00:00.000Z",
+          "source": "The Times of India"
         }
       ]
     },
     "Jankipuram 1st": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Jankipuram 1st\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Jankipuram 2nd": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Jankipuram 2nd\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Bhartendu Harish Chandra": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Bhartendu Harish Chandra\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Bajrang Bali": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Bajrang Bali\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Begum Hazrat Mehal": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Begum Hazrat Mehal\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Lala Lajpat Rai": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Lala Lajpat Rai\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -681,17 +681,17 @@
       ]
     },
     "Shankar Purwa 1st": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Shankar Purwa 1st\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Shankar Purwa 2nd": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Shankar Purwa 2nd\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Lohiya Nagar": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Lohiya Nagar\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -703,25 +703,19 @@
       ]
     },
     "Lal Bahadur Shastri 1st": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Lal Bahadur Shastri 1st\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Lal Bahadur Shastri 2nd": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Lal Bahadur Shastri 2nd\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Gomti Nagar": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Gomti Nagar\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
-        {
-          "title": "Lucknow horror: Banker hired a familiar auto driver, used his vehicle to reach crime scene, for getaway | Hindustan Times",
-          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQQ0I3SFQ4ZzBEUXdvT3NSV0dId0dVdHkweXBWa2c1RVpKQTVfd21QOVZaR2gyR25sRWl6UTVQRzhIX3BFWEdmNU5yV0ZocDJoNDNPRGJZU0dZT3NhR1dKY0FFZ3RzZ3Z1VzJxNXYwWWNVN3lPWVJsUndSaHpDNndwR2N6TkxKRDlWRHltbFZ6ZWYycUYxMTczdW5LRmVkNWZ3M1dwQlY0T0JmblowdGV0bFZYNTduQ0Rsa0hXanU4THFpZ19Tdmc2eVZJaV9HZHhoOFFEYjg5RFRVdFBwWjlVdzhxdGpSQ2JhSmx6dHZKWVdjbUV6MXA0Uld6ekhpVGp6aVHSAYcCQVVfeXFMUG0yUFh0YVBHUTBDZS1GY0N3Y3dFTmxoZWlEbDhpbHM5RFJPbHoyS25mVzdjbkdKN0s4dHZLMUdTeHFBdTFUeU4tby1oMllDQUJvSnFYNjB0QUE4bEE3ZXFEaU5vTjJXSmpPdEY1U1VpbE56YXZqajE3MnZHR3V6MGhpQlM1QTdQc0RnTkd0NWY2OHVMaG1sa1MzWGY0Z3ZGdDBYYmFlRU4xSWdUaDVQSEhWVkNBTnBBUk16Z245cGlvUnVPdUg5ejhERHZfemVDZmdmeGg0LUd3bXFvNzhVazRmc29xdVpGeE85SnMyTXN1S3BiN3ZwYWlRNG1XSjNFUXhKXzVrOG8?oc=5",
-          "date": "2026-08-23T02:56:00.000Z",
-          "source": "Hindustan Times"
-        },
         {
           "title": "Lucknow Double Murder-Suicide: INR 1 Crore Alimony Row Emerges as New Twist in Case",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWmRPWDJjcDI4TnpibExkUEF4RTVPbXN2Tnk1UndLcl9Vd0tvQk42TWhJYmd2UWVzaWlUa3VrMzZxLW5lOEhGVnR0SWxaeVA1WlcwdEV3a2xXUVl5T1hyYnl0T2M0WGJ5ZDJDeFRHNVdPTm9aamhvN3hVTWtLTGQ3X09INEhGWTNuTTBEY3k2aFhsZjI0NVhabGdPTjdfaU05UU9qZ1phajhkRFM0OGk5ZTlHR1NqS1RWb2NFendFVUwyWW1pR0ZCZjVJc9IB0AFBVV95cUxQa25ZbFRyLVc0UVlPaGVwNEN4Y1l1UFZVNEgyRTFXX1J2aTh1S2sxMmZYOUYzM0F4dEtLQXVtOUpyUjhLckR6WVdXdWxlRW1BZnZmZDlic0llbW9BTFlxb2s1ZkMwTTBkc2xyRVctNTBySlBKaURLZzUxNkFhOFJkdjNXcU9TYU9zTG9VeXU1RXc5aUVHNzF2NkVfSnNsVGJnWFNfOVNnMFFualIyeEtlT1g1S0M0dDFrVmZOZDRyeF9UaVh6cmNueng3NG1qb2Jo?oc=5",
@@ -735,45 +729,51 @@
           "source": "streamlinefeed.co.ke"
         },
         {
-          "title": "Lucknow Horror: ICICI Bank Officer Divya Mishra Shot Dead, Husband’s Triple Crime Shocks City",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPX2xZSEdtRGx6dUJvOU5RY1lObmhHLUJoZ1Y0M1NlV204NlZsY3p4UVgzTEdHcEdmc0pucE9wQm5NTjhoWHB2UHdtUVZUdkNSVkJKaTdCX2pkZWNSTGJ2b3A4OVZuYklTWUZ6YnpUTTdNMGtqTDQ5QUJtdm56NERzNzd5YzZlX3lZS3lvR1JZeHY4cjNXZmw5UWxaV09iMkVfX2NObVJrOTFWeHZYdHVXT04tcFlZRURZcGN5T05WbUx1TS1ZWlNWdjVyWUpsQdIB0wFBVV95cUxQekFBLUptb29kWTMyZUpBWEVOZlBPVXpBM1Z3OHdTMWlGY1NQa2tuZVV4a3QxdUIyTDhMNm9UM2FvNVF2bnBFRlZnRjVfV3pKWENxVmVXaktmMkNtZ1hieUhWVk11MkMxLTVSdUNFQ2h0dUxlaEhmOXVXZEpNdEhmWGRZRmJSN19waXNIM1lONk53QUtRWHROS1BLM3hTWmMxekV4a2RyVEZWTzY1aHNabDR6Z1kxNTBKTG9xNGY0MTBTNWFQTUFGS1ltTUR4eVhDYkRV?oc=5",
-          "date": "2026-08-20T09:56:48.000Z",
-          "source": "Dynamite News"
+          "title": "‘Height’ of cyber crime in Lucknow: Third fake call centre busted in 22 days | Hindustan Times",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSVJsUFhPcXJub1N4Z0o1V0RHWjFCQ3dEb0pucm03UzQ2QUwteUxxNndLN3hIVG1DSEdCNEJVQnBlVFNtb2hfR3MyQVhKNFpXOUNGWFZVLXZvOFNIbzFnTDN0d0ZwY05SYU45NVlWOHB0dS14NWJNZllQbUZiMXktUE9hYXhkZExSUl9mUHplSmhfQlBXSFJVc0ZMR25nQUtFS3VncnhkN285MXFJVklTRmN4S3p6OFdiOVZGNEozbUpKMXlZNkJkdW1zZ3A0TmROb1loNUg3S3p4MjJ6UmfSAeMBQVVfeXFMTW01bU5INTRmZHczRE9FNkxKZllwdGdxekFxZ2dWZl9BVlB6TS1URWpReW1TZFFKWllFTzVYdkViRVpWb2c2UU1vZTY5by1hNFZhT2JBbkRXNHUtdTUyY0V6bTlzT2hWaXd3c1QybXBESTVydVJzVU5Gcy13MXQ2eGNFSmR2X1NDa2xwZ2hudlRPa2RNLU9GN1E5azhoMkJ3WW9nMnVyMV9YWVUyTjVnT2xGN3AwSXAzQXM5c3ByNEIyenp6LXZlb3ZYZEtwWFRXaVZNMU11VXpZbE5QUWVTRmFhYjA?oc=5",
+          "date": "2026-07-23T07:00:00.000Z",
+          "source": "Hindustan Times"
+        },
+        {
+          "title": "UP STF, Bihar Police arrest NDPS case accused from Lucknow",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOa1VtN3RET3JYdkp6VXdTLXkxalA0NVRVSHZCRXR0eGdiTk1xaFR6SHc2dTNDMXgxeDVVZS0xSnJwSlprcFBrd1c5a3RXMUpHOTZ5U1RwVThBRWdPWnMwdFJXQkI0a1lHb3JGUlV4ZDc4MnhVRzBGVmdiYjNkeEpVR2lySlNKeGhMZ2NnUFoyWE9ZV0huSkhSWEhNVjdKTmJ2RU9DaFBaQkRwcWtWMF9VenllVFM1WVM4R20tM1ZvZmdLUm1RS0Jpc1piWVDSAdIBQVVfeXFMTmRDYjFsTll4OGZ2cDJkM2l3aUU4TkJReWhTV0hYZmI0UWJyRmdFVHc5TkpIVUNIT0M3dGlVeWZUR3pDZER2UER2a0Q5a0hZbFhQbUhsZ1FBa2dKdE1OXzl6MlpZSmNhSVpfOFhnWFpvY1pTZmdfanVSXzNROXpDMDd3dkxzMVhBSmVRVnY3emt5SXcwcHFPdFlWZF9fWjBtWG5jdkl1S3RObGthSkpyUk9IQ2xZbkc4RmpLZlNjWld6cUM0ZnRxNFR3X05tX2lBZEFB?oc=5",
+          "date": "2026-07-23T07:00:00.000Z",
+          "source": "The Times of India"
         }
       ]
     },
     "Maithli Sharan Gupt": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Maithli Sharan Gupt\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Indra Nagar": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Indra Nagar\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Babu Jagjivan Ram": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Babu Jagjivan Ram\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Indira Priyadarshini": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Indira Priyadarshini\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Ismail Ganj 2nd": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Ismail Ganj 2nd\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Ismail Ganj 1st": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Ismail Ganj 1st\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Shaheed Bhagat Singh": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Shaheed Bhagat Singh\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -797,19 +797,19 @@
       ]
     },
     "Kunwar Jyoti Prasad 1st": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Kunwar Jyoti Prasad 1st\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Cantonment": {
-      "cachedAt": "2026-08-23T04:58:43.967Z",
+      "cachedAt": "2026-08-30T10:08:19.517Z",
       "query": "\"Cantonment\" Lucknow (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
-          "title": "Sr SI accused of sexually exploiting rape survivor",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQR3ZIRDdzdHcwZ0RXTXRSLTFrNW9DMDVJNWt5dHc4U3VoeGJzRWZmR05VVWQ5NV8zMUNKSzlfSGdkTkluTWtYcS10ZWFVX0RIN2dHZ0daUld1aGxFakxrOGhoTDI0M2lpN21lUVloUVdJenVwY3hPMDBUdkpTeUVUZU13M0pxeWdqcldTVmM3Q0tYOGttOXRTV01taEYybW9hWFh5anpnMEFQWTVGNEdhMndRT1pHUGpMdS1OdFUtWW5kX0HSAcgBQVVfeXFMTnlNS3NGYTJCcHRXQ3Bta3VMc3N6SFRJTnJxWUNUNW4ybVh3RE85S0JzWXU1WXJqeDJWNUlQX09lWUhzRzdWS2J0cFFCQ2N2bnN2RjdHVE5GeDBRUUNMRXVnTzZVYlNUeEo2eGpLRVkxWms5WG55Njhvai1wV2pQeUdZekRyeEs4NFVUX29XLV9qTk95WUtwM2xuN0V1dFdxdWg1SGJZS0RmdTlIMUprSURqVS11bzJlYS1tZjhWeUx4cjVlR1dhcXE?oc=5",
-          "date": "2026-08-02T20:06:00.000Z",
-          "source": "The Times of India"
+          "title": "Assam Rifles arrest two illegal Myanmar nationals, seize heroin worth ₹24 lakh in Arunachal",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPS2Q5Z255blZtdkdVcGtYU3BoMnRqSXcySHZkRFc0dVNqSkRXTFJkNDB1ejBnOXJKNkM3V1ZSdVlUVlJnNnVwS2V0V2VJUmtZVVg3YW41VHV3SjlER2U3UmtnMVktZFZhcXVTSEtHUXRJWmdMbGtuTV9mMm96WW5sNldUd2dndUZVT3dzTC1tdXFtN0pTVFp6WE01VW1LakFINHVDX3JiLUFsSTJiTE1tdW0yX3NpWE9pYUZSOE5BRTlJcGxKQU5kdk40NA?oc=5",
+          "date": "2026-08-30T02:57:33.000Z",
+          "source": "The News Mill"
         },
         {
           "title": "Bareilly Cantonment India’s first to achieve carbon-negative status",
