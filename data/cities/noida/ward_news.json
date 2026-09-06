@@ -1,34 +1,34 @@
 {
   "source": "https://news.google.com/rss/search",
-  "scrapedAt": "2026-08-30T10:04:44.552Z",
+  "scrapedAt": "2026-09-06T08:43:29.530Z",
   "wards": {
     "Sector 20": {
-      "cachedAt": "2026-08-30T10:04:35.062Z",
+      "cachedAt": "2026-09-06T08:43:19.839Z",
       "query": "\"Sectors 1-19\" Noida (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Sector 24": {
-      "cachedAt": "2026-08-30T10:04:35.062Z",
+      "cachedAt": "2026-09-06T08:43:19.839Z",
       "query": "\"Sectors 22\" Noida (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Sector 39": {
-      "cachedAt": "2026-08-30T10:04:35.062Z",
+      "cachedAt": "2026-09-06T08:43:19.839Z",
       "query": "\"Sectors 30-31\" Noida (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Sector 49": {
-      "cachedAt": "2026-08-30T10:04:35.062Z",
+      "cachedAt": "2026-09-06T08:43:19.839Z",
       "query": "\"Sectors 44-55\" Noida (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Sector 58": {
-      "cachedAt": "2026-08-30T10:04:35.062Z",
+      "cachedAt": "2026-09-06T08:43:19.839Z",
       "query": "\"Sectors 56-65\" Noida (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Phase 2": {
-      "cachedAt": "2026-08-30T10:04:35.062Z",
+      "cachedAt": "2026-09-06T08:43:19.839Z",
       "query": "\"Noida Phase 2 industrial area\" Noida (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -46,22 +46,22 @@
       ]
     },
     "Phase 3": {
-      "cachedAt": "2026-08-30T10:04:35.062Z",
+      "cachedAt": "2026-09-06T08:43:19.839Z",
       "query": "\"Sectors 66-75\" Noida (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Sector 113": {
-      "cachedAt": "2026-08-30T10:04:35.062Z",
+      "cachedAt": "2026-09-06T08:43:19.839Z",
       "query": "\"Sectors 110-120\" Noida (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Sector 126": {
-      "cachedAt": "2026-08-30T10:04:35.062Z",
+      "cachedAt": "2026-09-06T08:43:19.839Z",
       "query": "\"Sectors 121-130\" Noida (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Expressway": {
-      "cachedAt": "2026-08-30T10:04:35.062Z",
+      "cachedAt": "2026-09-06T08:43:19.839Z",
       "query": "\"Sectors 131-137 and 143-168\" Noida (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     }

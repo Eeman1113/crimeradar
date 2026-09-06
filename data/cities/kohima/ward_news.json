@@ -1,69 +1,69 @@
 {
   "source": "https://news.google.com/rss/search",
-  "scrapedAt": "2026-08-30T10:23:59.599Z",
+  "scrapedAt": "2026-09-06T09:03:20.547Z",
   "wards": {
     "10908": {
-      "cachedAt": "2026-08-30T10:23:41.701Z",
+      "cachedAt": "2026-09-06T09:02:58.443Z",
       "query": "\"Daklane\" Kohima (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "10909": {
-      "cachedAt": "2026-08-30T10:23:41.701Z",
+      "cachedAt": "2026-09-06T09:02:58.443Z",
       "query": "\"Naga Bazar\" Kohima (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "10910": {
-      "cachedAt": "2026-08-30T10:23:41.701Z",
+      "cachedAt": "2026-09-06T09:02:58.443Z",
       "query": "\"Kitsubozou\" Kohima (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "10911": {
-      "cachedAt": "2026-08-30T10:23:41.701Z",
+      "cachedAt": "2026-09-06T09:02:58.443Z",
       "query": "\"P.R. Hill Colony\" Kohima (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "10912": {
-      "cachedAt": "2026-08-30T10:23:41.701Z",
+      "cachedAt": "2026-09-06T09:02:58.443Z",
       "query": "\"New Market\" Kohima (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "10913": {
-      "cachedAt": "2026-08-30T10:23:41.701Z",
+      "cachedAt": "2026-09-06T09:02:58.443Z",
       "query": "\"D. Block\" Kohima (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "10914": {
-      "cachedAt": "2026-08-30T10:23:41.701Z",
+      "cachedAt": "2026-09-06T09:02:58.443Z",
       "query": "\"Porterlane\" Kohima (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "10915": {
-      "cachedAt": "2026-08-30T10:23:41.701Z",
+      "cachedAt": "2026-09-06T09:02:58.443Z",
       "query": "\"P.W.D Colony\" Kohima (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "10916": {
-      "cachedAt": "2026-08-30T10:23:41.701Z",
+      "cachedAt": "2026-09-06T09:02:58.443Z",
       "query": "\"Agri/Forest/Electrical Colony\" Kohima (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "10917": {
-      "cachedAt": "2026-08-30T10:23:41.701Z",
+      "cachedAt": "2026-09-06T09:02:58.443Z",
       "query": "\"Chandmari Upper\" Kohima (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "10918": {
-      "cachedAt": "2026-08-30T10:23:41.701Z",
+      "cachedAt": "2026-09-06T09:02:58.443Z",
       "query": "\"Para Medical Colony\" Kohima (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "10919": {
-      "cachedAt": "2026-08-30T10:23:41.701Z",
+      "cachedAt": "2026-09-06T09:02:58.443Z",
       "query": "\"Bayavu Colony\" Kohima (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "10920": {
-      "cachedAt": "2026-08-30T10:23:41.701Z",
+      "cachedAt": "2026-09-06T09:02:58.443Z",
       "query": "\"High School\" Kohima (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -75,32 +75,39 @@
       ]
     },
     "10921": {
-      "cachedAt": "2026-08-30T10:23:41.701Z",
+      "cachedAt": "2026-09-06T09:02:58.443Z",
       "query": "\"Midlane\" Kohima (crime OR arrest OR snatch OR rape OR molest OR raid)",
-      "items": []
+      "items": [
+        {
+          "title": "Kohima Police recovers stolen motorcycle of tourist",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNS19lZGdYY0dBN21fcm42LVJBcTBwT05mVGE3djRFb2ZFZ09xS1hyZ3gwMXM0R3hOU1JXaTc3dTNRUl9tV0l1Q2NXREFWTU1pM29YTURwWWlhcWw4N29kcUV1cUFTMy1DN3JJcElqM1NwSl9URXBESDhSV244ZjRmdFRIUE5IM0tvMDhmQlBVeGk2OHM?oc=5",
+          "date": "2026-07-23T07:00:00.000Z",
+          "source": "Eastern Mirror"
+        }
+      ]
     },
     "10922": {
-      "cachedAt": "2026-08-30T10:23:41.701Z",
+      "cachedAt": "2026-09-06T09:02:58.443Z",
       "query": "\"North Block\" Kohima (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "10923": {
-      "cachedAt": "2026-08-30T10:23:41.701Z",
+      "cachedAt": "2026-09-06T09:02:58.443Z",
       "query": "\"A.G Colony\" Kohima (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "10924": {
-      "cachedAt": "2026-08-30T10:23:41.701Z",
+      "cachedAt": "2026-09-06T09:02:58.443Z",
       "query": "\"New Ministers Hill/Lerie/D Farm\" Kohima (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "10925": {
-      "cachedAt": "2026-08-30T10:23:41.701Z",
+      "cachedAt": "2026-09-06T09:02:58.443Z",
       "query": "\"Chandmari Lower Colony\" Kohima (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "10926": {
-      "cachedAt": "2026-08-30T10:23:41.701Z",
+      "cachedAt": "2026-09-06T09:02:58.443Z",
       "query": "\"Hospital Colony\" Kohima (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     }

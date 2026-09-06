@@ -1,6 +1,6 @@
 {
   "source": "https://news.google.com/rss/search",
-  "scrapedAt": "2026-08-30T10:03:45.798Z",
+  "scrapedAt": "2026-09-06T08:42:29.498Z",
   "wards": {},
   "notes": "Per-ward crime-related news from Google News RSS. Queried per the ward's distinctive neighbourhood name + Kolkata + crime keywords. Items are filtered to last 18 months and to titles containing at least one crime/police/arrest term. Up to 4 per ward."
 }

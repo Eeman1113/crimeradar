@@ -1,24 +1,24 @@
 {
   "source": "https://news.google.com/rss/search",
-  "scrapedAt": "2026-08-30T10:26:23.006Z",
+  "scrapedAt": "2026-09-06T09:05:47.329Z",
   "wards": {
     "9991": {
-      "cachedAt": "2026-08-30T10:25:10.877Z",
+      "cachedAt": "2026-09-06T09:04:33.605Z",
       "query": "\"Channapora\" Srinagar (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "9992": {
-      "cachedAt": "2026-08-30T10:25:10.877Z",
+      "cachedAt": "2026-09-06T09:04:33.605Z",
       "query": "\"Excluded Area\" Srinagar (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "9993": {
-      "cachedAt": "2026-08-30T10:25:10.877Z",
+      "cachedAt": "2026-09-06T09:04:33.605Z",
       "query": "\"Bagh-e-Mehtab Shankerpora\" Srinagar (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "10081": {
-      "cachedAt": "2026-08-30T10:25:10.877Z",
+      "cachedAt": "2026-09-06T09:04:33.605Z",
       "query": "\"Nishat\" Srinagar (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -30,12 +30,19 @@
       ]
     },
     "10082": {
-      "cachedAt": "2026-08-30T10:25:10.877Z",
+      "cachedAt": "2026-09-06T09:04:33.605Z",
       "query": "\"Dalgate\" Srinagar (crime OR arrest OR snatch OR rape OR molest OR raid)",
-      "items": []
+      "items": [
+        {
+          "title": "Kashmir Court Awards Life Sentence In 2020 Murder Of Former Terror Chief Abdullah Ghazali",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaDYyQkFFSFFiSktaWU9jYmtJZXVoTV9XMzlubjRZVUxHSkxsR0tINjdZdDBMQnRPNWJxODluTnFKaEdIc2ZGaV83Zmxqb21nMzF2RGpvT1IyaUpuS0J6ZG0zVngxWkZiZXhhQ0tISXdKX0hNcnREaHRuODlNT19LV2lTVEl6OGpvRWJXZTNnRHVwak1rSXlYOVhISEctams2eGpyRnl5M3BoTnZ5M2VMVzRxLU9IMDhoejlrZVFNb0FibVI2LVA5WVBSNW5ieXdp0gHWAUFVX3lxTFBsejhYdXRVQTR1V3J3WWo3dnF2aHFudzBSbEJKdVpCZGNuOVZ5Q2tiT2Y5bGtIUkh4M2VzdFVwVE5EUWgtbjF2V01tOWRzV1lSR3Z5WEhLV1R0LXFoRFVMczRWNFdUN0dHQUtCQWwzX3NvQUJpbThrLXVXU3VxSFdlbnZwM2tFalVvOUVuS3FEUkt2clBDYnJDRGFldEh5eUFJUVRzRnNFUm9ERFhfS2ZmNHZENmx1b0xYa2Q2M0ppU3lFZ0NTaHlaRDc2TlFsdklqb0E1V3c?oc=5",
+          "date": "2026-08-07T07:00:00.000Z",
+          "source": "ETV Bharat"
+        }
+      ]
     },
     "10083": {
-      "cachedAt": "2026-08-30T10:25:10.877Z",
+      "cachedAt": "2026-09-06T09:04:33.605Z",
       "query": "\"Lal Chowk\" Srinagar (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -47,17 +54,17 @@
       ]
     },
     "10084": {
-      "cachedAt": "2026-08-30T10:25:10.877Z",
+      "cachedAt": "2026-09-06T09:04:33.605Z",
       "query": "\"Raj Bagh\" Srinagar (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "10085": {
-      "cachedAt": "2026-08-30T10:25:10.877Z",
+      "cachedAt": "2026-09-06T09:04:33.605Z",
       "query": "\"Ikhrajpora\" Srinagar (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "10086": {
-      "cachedAt": "2026-08-30T10:25:10.877Z",
+      "cachedAt": "2026-09-06T09:04:33.605Z",
       "query": "\"Parimpora\" Srinagar (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -65,12 +72,6 @@
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUm1MNzFidGhtSmVleHVDdjhVb1dDcDJ4Uy1TQlNYVFRPRUtJNWhOUTBuc3VGMVVpREpzeXZ5eTFtblpfQmpkRjkyZkp2Z184aHA2OXRIWWktZUdCclBtVklBVlZFanJSVUZXQ1N0R1RYaTRIQ1ZJVmpueUNDRmhJNFRVbUJodElTSDVrSWIwb2U5Qk5hMVBySU5iSnNZbGticTJxckdsajE?oc=5",
           "date": "2026-06-10T07:00:00.000Z",
           "source": "Good Morning Kashmir"
-        },
-        {
-          "title": "FIR Filed Against Hami on Rape Charges, Probe Set in Motion",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVTBOTTNlamFrMEJ1X0YxSWR0d2ZiWXhxOGs4bEltV0VwTk9RMXB6dF9tN2hJMTAtSTkxbjlTVWtEWXd4RlJnWWQtLXpOMUJUZGZCbXdnb2xSTl9xSFNtUkx2Y0JoTURTWEZwNDdUdjk2NmRkWDdhczRsRWsxU205UjJVQnBiV2NENVdjZEplRi16amZIRlRUVFh4Z2c?oc=5",
-          "date": "2026-06-09T07:00:00.000Z",
-          "source": "roshankashmir.net"
         },
         {
           "title": "Police Arrest 11 in Two Theft Cases; Recover Stolen Property in Srinagar",
@@ -81,57 +82,39 @@
       ]
     },
     "10087": {
-      "cachedAt": "2026-08-30T10:25:10.877Z",
+      "cachedAt": "2026-09-06T09:04:33.605Z",
       "query": "\"Sheikh Dawood Colony\" Srinagar (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "10088": {
-      "cachedAt": "2026-08-30T10:25:10.877Z",
+      "cachedAt": "2026-09-06T09:04:33.605Z",
       "query": "\"Solina\" Srinagar (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
-        {
-          "title": "Land fraud case: Crime Branch conducts searches in Srinagar, Budgam",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdDVQNlFINko3VHFqVHBVeFdKT0lJc2hQQklNc3EzRnlrb1VlTTBSSUFub2t0bVplVzNCZDE3d0M5YXVSYjZGUkpBbmhoWUJ4Y0dyc2t3T2hZRE1rczg4NXhXUVUxMExPaWxKb3BRTklwU19OZTBRaVA5MGhSdFh3NnU3SlBqODJlaGJ6NGpuOUlvUmJQeVBFQkYxYXVTSjE4d3k2b1Nn?oc=5",
-          "date": "2026-05-15T07:00:00.000Z",
-          "source": "Kashmir Reader"
-        },
-        {
-          "title": "Crime Branch SCW Conducts Searches in Srinagar–Budgam Land Fraud Case",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOWEwNmhocV9sbnVTS0cyTzVyMnB5WVNpMWNHSnl5RDgzY3F3bWJ3THV1blQ3c3JkOVN2di1IdjJoZE01ZmNvem5MTFV0YnM2YnRpbVJZVGlhU1pPNmZRVHlxN29UdU9CQjdiUU5sRzAzWHRGYkRTY2NFa0NONlRkRC04QzJQRmUtY25jQjU1VmFJZmoyTnpQVjdnWlotUnBKbFB3?oc=5",
-          "date": "2026-05-14T07:00:00.000Z",
-          "source": "Kashmir Life"
-        },
         {
           "title": "Crime Branch Conducts Raids In Srinagar, Budgam Over Land Fraud Case",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTE40YW8xaUw5RnhCM2tONG0xajk2Rjh3bnBkODBYb3k4dVBpeEVDUXgyY2t3TjBSMTlITFFmM2sxSG4xQ2l5dHctS3h6ZDI4enVNQm5ldERYVHlSMzhoNV9RcjNSLWNPcll1d21rTmRweDNEc3VvSUt2X05JY19zbjRsQWx1eUxLaExuWkZ6V05tLUI4QXpaY0VVc1EzZlZ30gGkAUFVX3lxTE1VY1VtMWJYWXNUaEtscmVXckFxTGtZRW1rWXg3eVpNRkV3N0ZmWVJadFZJX2dBY0E2c3NoSkVkUVpQdVEwZG56THQ1ZUpVSHNDU0FPSjlPeXJrZ3NueWszbkd0TmpYaTdHQWhyeWNDZjJBNGVyVEJuR2FRTmNsVEVLVXNodlpaMEI3VVYzc0JxNF9tNnpYR0xUMm5wX0xLLWM1SXdz?oc=5",
           "date": "2026-05-14T07:00:00.000Z",
           "source": "Daily Excelsior"
-        },
-        {
-          "title": "J&K Crime Branch conducts house searches in land fraud case",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTVVqc0FjX1pQNjNLZ0R6alF6eDNiWVRXU09TWWhUWEVfSi1YUUc5OVVXSGRHZkVsakx4UWZPVzdvcFIzcUE3OV82QVNRQzVpd2djXzlFZVotZ2RadHh1c3J1MjdVcWR1R2J1M0o5TmNPX1h6RWVnQTBXOEVRUGd5clRGbjE?oc=5",
-          "date": "2026-05-14T07:00:00.000Z",
-          "source": "tennews.in"
         }
       ]
     },
     "10089": {
-      "cachedAt": "2026-08-30T10:25:10.877Z",
+      "cachedAt": "2026-09-06T09:04:33.605Z",
       "query": "\"Allochi Bagh\" Srinagar (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "10090": {
-      "cachedAt": "2026-08-30T10:25:10.877Z",
+      "cachedAt": "2026-09-06T09:04:33.605Z",
       "query": "\"Ziyarat Batamaloo\" Srinagar (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "10091": {
-      "cachedAt": "2026-08-30T10:25:10.877Z",
+      "cachedAt": "2026-09-06T09:04:33.605Z",
       "query": "\"Shaheed Ganj\" Srinagar (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "10092": {
-      "cachedAt": "2026-08-30T10:25:10.877Z",
+      "cachedAt": "2026-09-06T09:04:33.605Z",
       "query": "\"Karan Nagar\" Srinagar (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -143,22 +126,22 @@
       ]
     },
     "10093": {
-      "cachedAt": "2026-08-30T10:25:10.877Z",
+      "cachedAt": "2026-09-06T09:04:33.605Z",
       "query": "\"Chattabal\" Srinagar (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "10094": {
-      "cachedAt": "2026-08-30T10:25:10.877Z",
+      "cachedAt": "2026-09-06T09:04:33.605Z",
       "query": "\"Bemina East\" Srinagar (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "10095": {
-      "cachedAt": "2026-08-30T10:25:10.877Z",
+      "cachedAt": "2026-09-06T09:04:33.605Z",
       "query": "\"Maharaj Ganj A\" Srinagar (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "10096": {
-      "cachedAt": "2026-08-30T10:25:10.877Z",
+      "cachedAt": "2026-09-06T09:04:33.605Z",
       "query": "\"Mujgund\" Srinagar (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -170,7 +153,7 @@
       ]
     },
     "10097": {
-      "cachedAt": "2026-08-30T10:25:10.877Z",
+      "cachedAt": "2026-09-06T09:04:33.605Z",
       "query": "\"Tankipora\" Srinagar (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -178,12 +161,6 @@
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOEpGYU80VHNxdkhTN0NpSEQ0MnJhaUFNUWtmRWo2VHhMcENZaU1fQlRGZmZaR1NGUWtmb2NZNGxHUFhHNHF2VVZQQlJaeXVyNjNYZVF4YUNiUEhwaFBoQThkUm9YTXk4UW4zS3VGUXlpZHRkRW5vTmQ5U0dGVnlvaUlxRHZRNG9SczVIUVVkRXM1bnZXVUZqbUhPZnl6V2QwaUh2bXB3cWh5UExQSHc?oc=5",
           "date": "2026-05-05T07:00:00.000Z",
           "source": "thekashmirimages.com"
-        },
-        {
-          "title": "EOW Kashmir Cracks Health Educator Recruitment Scam; Accused Arrested",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMjJqWnJIdHg5UVE5dnpNN0lXcFhOX0hTUEl0eXNMb0dDaTJpY2NtbHNzeUYyVE4wRkxnUkIwaUhUa2ZnLVp3T3VSYkJ6dlZvWjU3TDRYQXJTX3BzWXpfZm1RY0h6MXI5RU1DMktsX05UTnlfVzNnZXIzYnU5MVdjUTNpRlhtSXZ3V0NnQWhuT2NNNjh4YlJDSTZUWW9oWnhWZ3fSAaYBQVVfeXFMTXJ0bV9jWThkZjJPay05dTlnV205a1VkdG9GM0V0azdaN2pBUXVGZE9KTFBVMjE0S2dHZlhLZFZBbkU5Y0tSUHVoYXNNX3FBOGFnU2ZjaW9Yc1FvWDFUTV85XzBBNDM1WTR3QTdVbmFwck5mb1JEUXJOc0c3YW80Y3g2ZER4cTg5MU9sWGZNem1MNEprS2JPNVFrTzhvTlpuV3Q0dEw5dw?oc=5",
-          "date": "2026-05-05T07:00:00.000Z",
-          "source": "Daily Excelsior"
         },
         {
           "title": "EOW Kashmir Arrests Health Department Official in Forgery and Illegal Appointment Case",
@@ -194,84 +171,77 @@
       ]
     },
     "10098": {
-      "cachedAt": "2026-08-30T10:25:10.877Z",
+      "cachedAt": "2026-09-06T09:04:33.605Z",
       "query": "\"Jamia Masjid A\" Srinagar (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "10099": {
-      "cachedAt": "2026-08-30T10:25:10.877Z",
+      "cachedAt": "2026-09-06T09:04:33.605Z",
       "query": "\"Syed Ali Akabar\" Srinagar (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "10100": {
-      "cachedAt": "2026-08-30T10:25:10.877Z",
+      "cachedAt": "2026-09-06T09:04:33.605Z",
       "query": "\"Basant Bagh\" Srinagar (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "10101": {
-      "cachedAt": "2026-08-30T10:25:10.877Z",
+      "cachedAt": "2026-09-06T09:04:33.605Z",
       "query": "\"Qammarwari\" Srinagar (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "10102": {
-      "cachedAt": "2026-08-30T10:25:10.877Z",
+      "cachedAt": "2026-09-06T09:04:33.605Z",
       "query": "\"Fateh Kadal\" Srinagar (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "10103": {
-      "cachedAt": "2026-08-30T10:25:10.877Z",
+      "cachedAt": "2026-09-06T09:04:33.605Z",
       "query": "\"Munawar Abad\" Srinagar (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "10104": {
-      "cachedAt": "2026-08-30T10:25:10.877Z",
+      "cachedAt": "2026-09-06T09:04:33.605Z",
       "query": "\"Khankah-e-Moula A\" Srinagar (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "10105": {
-      "cachedAt": "2026-08-30T10:25:10.877Z",
+      "cachedAt": "2026-09-06T09:04:33.605Z",
       "query": "\"Makhdoom Sahib\" Srinagar (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "10106": {
-      "cachedAt": "2026-08-30T10:25:10.877Z",
+      "cachedAt": "2026-09-06T09:04:33.605Z",
       "query": "\"Khawaja Bazar\" Srinagar (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "10107": {
-      "cachedAt": "2026-08-30T10:25:10.877Z",
+      "cachedAt": "2026-09-06T09:04:33.605Z",
       "query": "\"Aqilmir Khanyar\" Srinagar (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "10108": {
-      "cachedAt": "2026-08-30T10:25:10.877Z",
+      "cachedAt": "2026-09-06T09:04:33.605Z",
       "query": "\"Rozabal\" Srinagar (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "10109": {
-      "cachedAt": "2026-08-30T10:25:10.877Z",
+      "cachedAt": "2026-09-06T09:04:33.605Z",
       "query": "\"Daulatabad\" Srinagar (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "10110": {
-      "cachedAt": "2026-08-30T10:25:10.877Z",
+      "cachedAt": "2026-09-06T09:04:33.605Z",
       "query": "\"Islamyarbal\" Srinagar (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "10111": {
-      "cachedAt": "2026-08-30T10:25:10.877Z",
+      "cachedAt": "2026-09-06T09:04:33.605Z",
       "query": "\"Nawabazar\" Srinagar (crime OR arrest OR snatch OR rape OR molest OR raid)",
-      "items": [
-        {
-          "title": "Police arrests 8 gamblers in Anantnag",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZDI4V1doT2d3aE5TbFNaMVR4YjZ3ektPSUdtLXFxa0VueDJwZXZRVzJpMmt5T3FhV2Q3QmdXbjJYNjVDOG5Xdy1HbTlYQmpqOGJ1ZnhnYi1ZdDFBWGEtOXZKb1FLUWRVaDVYNi1QWUh0di12TXREaF94bWJRUTlrZmlrVndfRmxa?oc=5",
-          "date": "2026-08-24T13:53:50.000Z",
-          "source": "Brighter Kashmir"
-        }
-      ]
+      "items": []
     },
     "10112": {
-      "cachedAt": "2026-08-30T10:25:10.877Z",
+      "cachedAt": "2026-09-06T09:04:33.605Z",
       "query": "\"Nawa Kadal\" Srinagar (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -283,12 +253,12 @@
       ]
     },
     "10113": {
-      "cachedAt": "2026-08-30T10:25:10.877Z",
+      "cachedAt": "2026-09-06T09:04:33.605Z",
       "query": "\"Safa Kadal\" Srinagar (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "10114": {
-      "cachedAt": "2026-08-30T10:25:10.877Z",
+      "cachedAt": "2026-09-06T09:04:33.605Z",
       "query": "\"Eidgah\" Srinagar (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -304,10 +274,10 @@
           "source": "kmsnews.org"
         },
         {
-          "title": "Placed under house arrest ahead of Fateha Khwani at Eidgah: Mirwaiz",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOT0hfMklEYWdISEJjdURRRmNrTmNQelN5Vnk2QVdzTnZac1d4VmZuMzA0T3J6WXBZOTBSV3NPVkhhT0ZhTXl5MV9DaTRqa3ZhYzFCNlFEQ21ZTWpOZWRGcktvSnZ6ckNaQ3JHazlVbExDTUVUQ0FUY190d0h4WVllYWZSS3V5bVdpQ1NpaEc3eHNKRDdSUHpncnRaVHNsQkJVSFRGQkpGWnFaV3U5RXNrQV9QZk7SAboBQVVfeXFMTV92dVJXZXZ5RlB2cGdRMHpoMi1IZFFuLUVvOXFjY2dYYnlrU0trV1VnMmFwRFJORmxOdHdzUDlmOHZfcnY3Zjg1dnZvdDNvQkgtUElrS1NxVGlLQ2NGUVNXV2phVzZMOE50V1dBZFY0cC1rWUZ3bGxKRjNkNERiNnJQRkZrNUJFUFFUYWE0ZDRWcXlwUnlzMXU2cnJOS2s4SU9zODhVRm1SbHkyVms3UlRnVXhnSFpKY1lR?oc=5",
+          "title": "Mirwaiz, Sajad Lone placed under house arrest on fathers’ death anniversaries",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPMWRheDBSS1NMbk1fdWJ4Y3Fvc3RTVlV1R3pTem9UOHMtZGJPdVBRbThzdVRZZDBuZVFka3dNYmlCNHlRc0xSN3cwUHpRLXlfOHhXN3hReTFDUjFNS0VkdGJTVmQ1QmlCb1pMYmJWLWJfblNLVy1icXBGd1ZFWTlCSVNtNTYwa1RDNGRaX0Rnb3UwajBoQzFQS0JjY1FyYlpCbWRySi1iUTFMMm5QVnhiRGZ1M0JNcTMtREd0QU5Sc1AzN0JWVWVmNW1rUXZlMF9pSHZiYzF3cEo1MjdvdEhyZG15LWJrWnFqRFV2TzlrUkxDN1FOcDcw0gH-AUFVX3lxTFBha0tpQU9RSkl5c0hibC01TGZFZkdNYlNSb2FBdXBXNTFSOUhFWlVndkU3ZVZXZHQ5Ti0taEJrOWlJVUU3cVE5SkRDSWZ1QWNmUVVfV0xJc1g5aVIzdVBDcUZrQTJ1cGdHdktLN2p3OG9leFJWZWdYSWZfYUcwTzRqVnhOSTNOWkJncEY0MDhYak5MbGZhSFhfaHpRbmlITURDOWFHZFdTaGpPTE44S2lpZ0x0ME1aZVk3MXNVYk1mb015T2ZHQUo0Zkg0TFVWTnlINTZoeGxmMU1QQXA3aGtaZ283cW9vRTVpZmdFWEsycEVSSE5kU2c5dVpXQjJB?oc=5",
           "date": "2026-05-21T07:00:00.000Z",
-          "source": "Greater Kashmir"
+          "source": "The Hindu"
         },
         {
           "title": "Sajad Lone put under house arrest in Srinagar on father’s death anniversary",
@@ -318,19 +288,25 @@
       ]
     },
     "10115": {
-      "cachedAt": "2026-08-30T10:25:10.877Z",
+      "cachedAt": "2026-09-06T09:04:33.605Z",
       "query": "\"Rathpora\" Srinagar (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "10116": {
-      "cachedAt": "2026-08-30T10:25:10.877Z",
+      "cachedAt": "2026-09-06T09:04:33.605Z",
       "query": "\"Palpora\" Srinagar (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
-          "title": "Srinagar police attach ₹1.05 Cr drug assets",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5wWHVXVF8tcHJIVUowVnUxMzNrbnZVZExBY2MyWnlKWmxDbWdxRVpSSDVUQ3JITG03cHJGUk4yQXk5TzlJT1Mwb0Z4bTUtWWs2a3NPT2xsWncwWjZKNkU2ZWF3R3V0TDlKTDFmRG9IN3ZraVhvcHJVUw?oc=5",
-          "date": "2026-07-31T07:00:00.000Z",
-          "source": "Brighter Kashmir"
+          "title": "Srinagar Police Attaches Properties Worth Approximately ₹1.05 Crore Belonging to Notorious Drug Peddlers",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOazhESHJDbU1wc2lYYmE3b2t2SXlhSThPUzFLTGxuN3JEU2dsQUxBX3FqbzAzN1hyVjNEZDB1cUxkUlloMjIzU1QyckM3NE1MSElFSkNVN3JpNWRkZkY5ekV6S0JRbThLRXZBODFSaHBMR25uZ0ZkVU5mamZ3a29seHJmN0k1Zk10VFQ0TXBvSzNBNHlja2Y0MUhOaE90MHFoVTBoYktvZ3BndlVHamRVSEs4YVdGYmdITjFfTXJmLWJrd0FZM1NBdEo3VGZwSEV4aU44R1NBQlZhVFBIZW0w?oc=5",
+          "date": "2026-07-30T07:00:00.000Z",
+          "source": "KNS News"
+        },
+        {
+          "title": "Crime Branch Chargesheets Three in Rs 23 Lakh Fake Government Jobs Scam",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMXh2X2laaWdjU2JScU1QUG1HMmQ2VmZNWDdDa3czMVBZR2IwRl8tcWF0R3RrNnJLRFNSRkJUVDlCVUs2SFVVZndBWlNMLXhQRkR4WjA1QlMxSWE3Ujc3LVdZTkNjY09la1JmcDl1VXYzZGlTZGdiMk5NRnpDZWloTllBemdEQ1IzOEJmUERUMUVoVUxCZkRUOFV1eUw4Mjdqck51aDBR?oc=5",
+          "date": "2026-07-26T07:00:00.000Z",
+          "source": "Kashmir Life"
         },
         {
           "title": "Police Arrest 11 in Two Theft Cases; Recover Stolen Property in Srinagar",
@@ -341,17 +317,17 @@
       ]
     },
     "10117": {
-      "cachedAt": "2026-08-30T10:25:10.877Z",
+      "cachedAt": "2026-09-06T09:04:33.605Z",
       "query": "\"Tarabal\" Srinagar (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "10118": {
-      "cachedAt": "2026-08-30T10:25:10.877Z",
+      "cachedAt": "2026-09-06T09:04:33.605Z",
       "query": "\"Kawdara\" Srinagar (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "10119": {
-      "cachedAt": "2026-08-30T10:25:10.877Z",
+      "cachedAt": "2026-09-06T09:04:33.605Z",
       "query": "\"Hawal\" Srinagar (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -364,24 +340,24 @@
           "title": "Srinagar Police crack blind murder case within 6 hours",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcDhCVExHb0Jsc1NUUjhYSXZLeGZJcmJmS0hWejROa1BQdEZ5WVhiN2JwdGVkcUlEckp6MTZVWGhHeFo5X2pPZGE4VEh6cWZHbkloaHpDNlA5aExWUmg5M0dQaXp1Vi1uRUJpWml1eXpGNTU2bDNtbVRHR1NYVDZSdTNWR3VnRElJZTFrdERPQW5oTXVFbVJqRzZVaXVPaFRGb0JsaTdSNHRHR29WVXZoMGh1RTBYb0hRYmFkbU5n0gHDAUFVX3lxTE15dzYyQV9NemxIaGRKQzM5WUZIQ3QzbnFPR3g3UkhvVG9lb25sYjFVZzBDa1pOV284dEJvWC1YN0d2X3VNeXM0dnhzQlVVNG56U0JCQktmbUdPN0hkOW9HTVNZR3ZWeFhDa3ZuOV9HS1oxeUREb3hmMkJlNVcxNXA0WjgzZkxHY3hlRmFtWVNfTHdKaXpMR2xmU1pUeFlPQ2NwLWtwY0VxMENEMzJnZ1Zud0wyMXBlckFKLTNjRGY5LWhKWQ?oc=5",
           "date": "2026-08-01T07:00:00.000Z",
-          "source": "Greater Kashmir"
+          "source": "greaterkashmir.com"
+        },
+        {
+          "title": "Financial Dispute Leads to Murder; Mother and Son Arrested in Srinagar",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQR3JtT1FZV1pwZ1RKa01VblhBcGNfcW9aOUx1ejdrdXpnd0dMWkRkdUUxSUQxbmJldlVUa2g1SzZuT3NnSE5sMmExOEREWnBUb0FhdF9lSi1pRXVYal9HclZNaFZlWjNxdDlpODdYeDdrTGlnZ1NFSXRid2FBMVNxTTcxci1KekpNeUNUTnA5X3ZBQUdFV2xBWkFoZXlTYTNjc2FB?oc=5",
+          "date": "2026-08-01T07:00:00.000Z",
+          "source": "Kashmir Life"
         },
         {
           "title": "Crime Branch files chargesheet against four in ₹15 lakh cooking oil fraud case",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOEFfMHkybWFkV0MtdF91dlZuQVFRaV9DLVVuRXlJeEZfRjFaUlJkTVdibXZkT1BSclpHUHlIMzBHcU4tYV82VGRELWxINW5hNUFWcW9wSmI2NjRpa0Q1RFdNalBLOF93bm5LQkZZVEVDN0hrVlBHVWdYdWF4WXdXR3o0QzZUMFhfZGYzZHFpVWNyY0pBQmg1akxTU2FqemdwN2pEU2VCR1JOS0l0dW9wcg?oc=5",
           "date": "2026-07-30T07:00:00.000Z",
           "source": "kimskashmir.com"
-        },
-        {
-          "title": "Kashmiri Oncologist Dies Of Cardiac Arrest In Delhi",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZWV4aGhnQUlNVnpkeXI3Q01fT1prYmRvZlYtNkgtZzZOYWNyMUplUXJzeGVHWUpjTVVnZFhjRENhRTF6R3IwaXlIVmFLOTRVQ0tEaExYaGFBcVI0dU5vRmE2R1RVZ1lpSVhMQXJoS0dObFJ6UDZzX3dLcThscC15LWp0MUQ?oc=5",
-          "date": "2026-05-20T07:00:00.000Z",
-          "source": "Rising Kashmir"
         }
       ]
     },
     "10120": {
-      "cachedAt": "2026-08-30T10:25:10.877Z",
+      "cachedAt": "2026-09-06T09:04:33.605Z",
       "query": "\"Alamgari Bazar\" Srinagar (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -393,70 +369,76 @@
       ]
     },
     "10121": {
-      "cachedAt": "2026-08-30T10:25:10.877Z",
+      "cachedAt": "2026-09-06T09:04:33.605Z",
       "query": "\"Gilli Kadal\" Srinagar (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "10122": {
-      "cachedAt": "2026-08-30T10:25:10.877Z",
+      "cachedAt": "2026-09-06T09:04:33.605Z",
       "query": "\"Nowshehra\" Srinagar (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "10123": {
-      "cachedAt": "2026-08-30T10:25:10.877Z",
+      "cachedAt": "2026-09-06T09:04:33.605Z",
       "query": "\"Lal Bazar\" Srinagar (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
           "title": "Wanted fraudster with 11 cases arrested by EOW Kashmir, sent to Central Jail Srinagar",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYV9fU2taU25LbWZ3a3k1LVp1ZUdQV2duVEtpTGtqQnVnZDRjN1laUjZDY3FjWFNJWGo1V3llTUs4WHkyY2U5Tk9pWTZ0WnVLV3NmVHp3d0RHNUNfMXV4ODB1Z0NyYU1YcWNQTGtBb04ydjdnaDl1WWl5RnhpQUk3QzF3bnkwSWI2RnZJM1pIUnFZaDN6b2RGNXpYbWRCSkxKYWpGaTFaLWYxUWNpTXNZOVA3ZE1DWHlFRm9rOGpKaWFRUkJKMW9JLWNsWUPSAdIBQVVfeXFMUDFJeW4zeUFGRmxLR1BYNklnb1dqa0pvVjJCdUhtaEFCWnlhSk5SX2ktZ04zQ1p0OTI0NW1taF9rd2t6R1lTQURXNjBUZzd4Rl8xQXoxYU9MaWx3MGZPUVZJLV95c1NNVUhjQmxBTVhiZ29hd0w1Q2tzRlB4eHo2QTNKRGo0bjQtSVc0c19uUHRPSEtfVUpBTnptQWJRQzZnS2NfSm0xUHRuc3JXTjJCeGJVbUVjcXdqeml5MUFsSGliSDVtblZCSnNidGVqdUU5UmRB?oc=5",
           "date": "2026-07-13T07:00:00.000Z",
-          "source": "Greater Kashmir"
+          "source": "greaterkashmir.com"
+        },
+        {
+          "title": "Fire breaks out in Srinagar’s Lal Bazar, residential houses involved",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSllEeUxMM1gwdmxnUE02VFdnTDNiRGd2NWM5QUR4YU5fUk9hMEp6NGU0enUxbXhOUGtkYVRfZ1pVOHJXUkhEX09VY0lCenBrNlZDazgwcUNjLUFIQ1dBN3pPd0tSS0QzX0lZYkdrV3dfVHJtR0w1STY5ZDE1UEtVcFRybkFfbFl4MW5FcHF4cVNucng0aldCdEJuNA?oc=5",
+          "date": "2026-07-05T14:04:00.000Z",
+          "source": "Kashmir News Zone"
         },
         {
           "title": "NIA raids banned Darul Uloom, Sirajul Uloom in J&K; ex-Jamaat chief's house also under scanner",
           "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYmd3RHo3SDl4UE1yT1FLeEp1aEswaS1HRkJ6YmU3MDRRWnlWME9pTTM0Z2NNZkw0ZEV2SFFmdEFEbndqNkdfeWY4LWJIRVRsNkJFTkJCQmNJeXk3QmFUREowcEJCSU1SRWJyaFppWjVpSnhGaVQ0MlBiaGRZa28xWkIzenRhei01WjhlR1hHT281em16OGY2Vl85VHBfUXZFVGNFQVJoTGtpdG5kclpkejR5YTNnSUpFVDhETms0UVV6WUFobGJLQTRzZmxwX01Id2M0X1IzV0vSAeYBQVVfeXFMTm1OMjRDVGYzcE93WVJNaDUyMXRnZ1JwWk8wdVl1eDR1bE9LRHVzRGRLcFJPU1JYXzU0WDNfZFpsY0hnT0NhbFFmZEtiRHRFQm9aVGhaUHIxRW1zaElleFBCSlQ3Mkl2dXBZNkFhSjk2LTZId09nSzMyU3llU1lYUkFDUzBLY0J4SlRidEhwajZMLUFWRTFiWUpyaURmMDVFbXJhYWpEczYwZVhYN0xmRFBmTHZRWmZzSm1hdWNBREJMWUxIdlUzalI3SGJodjZKeVBHMi03alFJMDZXY3pCcHNtM3FBSHc?oc=5",
           "date": "2026-05-25T07:00:00.000Z",
-          "source": "The New Indian Express"
+          "source": "newindianexpress.com"
         }
       ]
     },
     "10124": {
-      "cachedAt": "2026-08-30T10:25:10.877Z",
+      "cachedAt": "2026-09-06T09:04:33.605Z",
       "query": "\"Botshah\" Srinagar (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "10125": {
-      "cachedAt": "2026-08-30T10:25:10.877Z",
+      "cachedAt": "2026-09-06T09:04:33.605Z",
       "query": "\"Umer Colony\" Srinagar (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "10126": {
-      "cachedAt": "2026-08-30T10:25:10.877Z",
+      "cachedAt": "2026-09-06T09:04:33.605Z",
       "query": "\"Jogi Lanker\" Srinagar (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "10127": {
-      "cachedAt": "2026-08-30T10:25:10.877Z",
+      "cachedAt": "2026-09-06T09:04:33.605Z",
       "query": "\"Kathi Darwaja\" Srinagar (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "10128": {
-      "cachedAt": "2026-08-30T10:25:10.877Z",
+      "cachedAt": "2026-09-06T09:04:33.605Z",
       "query": "\"Lakut Dal\" Srinagar (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "10129": {
-      "cachedAt": "2026-08-30T10:25:10.877Z",
+      "cachedAt": "2026-09-06T09:04:33.605Z",
       "query": "\"Boud Dal\" Srinagar (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "10130": {
-      "cachedAt": "2026-08-30T10:25:10.877Z",
+      "cachedAt": "2026-09-06T09:04:33.605Z",
       "query": "\"Hazaratbal\" Srinagar (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "10131": {
-      "cachedAt": "2026-08-30T10:25:10.877Z",
+      "cachedAt": "2026-09-06T09:04:33.605Z",
       "query": "\"Soura\" Srinagar (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -466,10 +448,10 @@
           "source": "Ommcom News"
         },
         {
-          "title": "Fraudster on run arrested after 7 years by CB",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTUtwcEd5Z29xYTdEZ0x2VlFMS0pVLWZjaGFublpMRjgwRkw4N1lvQU0yQTVJMGVCNTc0bjQ1OTdNVWxHNUYxVk54RVg4VDI4VzV5Yl83QnJOaFNiVUdqS1JhZnRPdHE4M1JPbDJtaHVFM043NE83LXA2VFVqV1BOSXpDQdIBhwFBVV95cUxNRkh0Z0FrR05sVHM4azRlNVF2Ull1X0lCQjNPOGp3aGEtY2N3LS1lbW9BYkNyWlk3TUVVbThsU2pMMGVjZTVEdnRvNmg5MW5kNlhIQXZuMWZVWnZYcnZNaTZTYzBuZmVyLVpocTFDMWFyNmFUVUwwTDI4SThvNjVxcnQ5eEJLVDA?oc=5",
-          "date": "2026-06-12T07:00:00.000Z",
-          "source": "Daily Excelsior"
+          "title": "Srinagar Police bust two terror modules, arrest five OGWs including doctor",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNY2JROElUeksyWDBrbEV5Y0hWZklLV3VRbl9KNEtGdk90d0w1c1hlVVNLN0VweUtjX0VpQ2RvYXpnaElBSS1IMTM1Y2sxc1ZmckViTDFzVG1YZ3NneEpzN2xDY2tqeUFOZGNzQld0MUY0UkFyUEZrM2lPenN5MHdEdU04ZWNCZ0huS3ZOd09VQktyTGtxeGFjcnJsYkpFdnZuR1dxZS1ZUENJMjFiWXFoZWxtMjFzQnA3RmNLUDA1NNIBxAFBVV95cUxPUG4ySTd5enZIbk1UMy1qMVp2RzFKdjJjeFBtR1BkQ2lxY1l2Z1psZFRXRHVxQlpWcVRUOXdvYkJYZ0NpMjE1VDhNLUo3Q2s5MHRFb1VPeEhlNEtXcC1oMTNJa2d6UlJEdTFEdlkxbTNITWNKRnFRUzdSQkp5WUplZTZBdjBpWVBHRC1YVno4Mk9zbEU0Y01VbFBzUEhxWHA3d3liYjk0Um1nb25zOEs5V3RYNjVHdlJrWXhYWWZ4TF9PMXg4?oc=5",
+          "date": "2026-04-29T07:00:00.000Z",
+          "source": "WION"
         },
         {
           "title": "Kashmir University Scientist Suspended After Arrest In Rape Case, Victim Alleges She Was Forced To Terminate Multiple Pregnancies",
@@ -479,63 +461,76 @@
         },
         {
           "title": "J&K: Kashmir University Scientist Mohammad arrested in rape case, accused of exploitation & coercion over several years",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPWktwZmtoS2VxYV9hMkhhMUlGVUJicGpLNUdzQzQ0MjJJZWZSNFZmdG9NWF9wSmk0cDdRY2pyUTZjcERrODljNkpkemJpenRZRVR0R2k3R0Yyd09pZ2V1LXVTajE1WDR2RnVPbVhueGlIZmYtcGJnOGNUVzNlWDBRRDF3S3BLZmNVeEQ5elVudFhOeTlZU0ZpUm1vZWNCUjR1QklPMGZkUlVkaUtPQUkyVnZjT0kyOG5aeVFFZFFmUHNwQWtVUTg1Snc2Q1l0YVNBUVdoaWxEWUx2ZWJRWVNHU1ZpQlFXQVBDTVA1alJSaw?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNRUxJT3dSR2N0T3BoMTl5SjVWSVFUY2hhZmIxN2ZvNHRoaEJ3Q1lzYzdldHhaNVd5eUowX0hsNVg2dFJRRGNaZnM0czFtY2Ntd1d0MnlzQUZKa2VtUjFuTXVNVHYtWHNGWDdhQ1dDMk9Ba2FibU1ydHNKUHF6UVA2RWdUN2ZGSnhUTXoyRnlSdFAzOGVCaW9ZeUp2WEdydmtNM1B2RzN0YmE5V1FJb3A4VGt0U1R5VWduY3E5U1pMT0lxdDdpWXFYRXpLWWVVaVg4cC1oRnY4ZHlDVWtVZ2hWU3E4a0phUUxpek9scnBLQzNqREVu0gH6AUFVX3lxTE9tNGhDQTRsazQtYWZodkpZYkFfblY1LVJfS1pHX1FNSlF2cTFaWXNqcDBqNnJwOUdjWjZDYlRmdlpobzFRNlB5OVlaaWszU1VlT09PLXpnVVlCSDFkSTRnR0g2alA5NFl1aERTb2VyelNNZVA3elNIc3F1eERDYmk3a3l3bGxMWkxWSWI1c2FlenFJdDNPa2dQWXhkOTJqbnUwbXc2MERWOTFvaThPMVpwekI3cGVHZ1ZORjRvUVJuUnI0NXdfMjJfLWNTMzBNTURpakIxZ0FYc21qSFVhVDlPQjF0aDZ0aDZTcGFtVEZtUWlOQ25adlg3WFE?oc=5",
           "date": "2026-04-22T07:00:00.000Z",
-          "source": "VSK Telangana"
+          "source": "organiser.org"
         }
       ]
     },
     "10132": {
-      "cachedAt": "2026-08-30T10:25:10.877Z",
+      "cachedAt": "2026-09-06T09:04:33.605Z",
       "query": "\"Buchpora\" Srinagar (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "10133": {
-      "cachedAt": "2026-08-30T10:25:10.877Z",
+      "cachedAt": "2026-09-06T09:04:33.605Z",
       "query": "\"Habbak\" Srinagar (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "10134": {
-      "cachedAt": "2026-08-30T10:25:10.877Z",
+      "cachedAt": "2026-09-06T09:04:33.605Z",
       "query": "\"Excluded Area\" Srinagar (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "12664": {
-      "cachedAt": "2026-08-30T10:25:10.877Z",
+      "cachedAt": "2026-09-06T09:04:33.605Z",
       "query": "\"Harwan\" Srinagar (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
           "title": "J&K Police Dismantle LeT Safe-House And Funding Module, Arrest Top Pakistani Operative",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZzFZZFhHMmsxb0Z2YUpEWnVEV1ZlZW81SFNGZ1RkT3I2SjREVHR1QUdXU3pjYmZBVmdvdFpjaEFGdXdIdmptb3pFR3FySTU5MFBfZTQzT2kxVWI1czJKRzJ4OXo4cG1QcFRtbFVQTHJOSjF2Q2xjalZDN09CX3VXSjFocGY1RktocVkyeW1ibGxzVXhSajRZTFk1MkI0VGozY0RFS1p0QVhoNlFaa1RtcDdTclpoOW4ybW9xcmt6S3BSVmVFZjlhZ09HYk3SAdIBQVVfeXFMTjBQcDhpdjA4V1BORTZldVAzejBWejVFbUEwZGpfbmVFbFk2UDR6dURWM3Q3SW9lUWx2dDZWY0VWY0d2cU5lOHAzWGw3Y3JRS1FxTHN3TEcwd056TzN2bXU3a3B5TzRnVzlENnp1WmZ2bEdfenpCNXBraXNxZFBSaEQzdmgzdFotNGhpU1B3aktMLWVGbW1KS1FsT2cxbW80NmZxazVtVVpsc3pDZVl2VEY1aXJzdzdQRTJVOGtyVEttM0tqTWJQbUI1RHA4RVk0Z1VR?oc=5",
           "date": "2026-04-07T07:00:00.000Z",
-          "source": "News18"
+          "source": "news18.com"
         }
       ]
     },
     "12665": {
-      "cachedAt": "2026-08-30T10:25:10.877Z",
+      "cachedAt": "2026-09-06T09:04:33.605Z",
       "query": "\"Brane\" Srinagar (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "12666": {
-      "cachedAt": "2026-08-30T10:25:10.877Z",
+      "cachedAt": "2026-09-06T09:04:33.605Z",
       "query": "\"Mehjoor Nagar\" Srinagar (crime OR arrest OR snatch OR rape OR molest OR raid)",
-      "items": []
+      "items": [
+        {
+          "title": "Police Arrest 11 in Two Theft Cases; Recover Stolen Property in Srinagar",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVTZTZlFJWWtWWUY2ZFJkaVkzNGdqWmZQQzlKTXktLW9sb0NiV2NqX2UzZlNSTk41eWlta1VHWmlMMm92RVRoWG9TYmlsT0ZsRzV6Z2dVQzk5b2Z0bnV6RUdTeVN2MTA5bDk2Z3hWeHdTZExETUlqTU1kLTh2Q2JxRjBVeERHS3E4U3VVbkFvVVJwbjNpLXFWRzdZa3plZ1dUVW1ORWxn?oc=5",
+          "date": "2026-04-12T07:00:00.000Z",
+          "source": "Kashmir Life"
+        }
+      ]
     },
     "12667": {
-      "cachedAt": "2026-08-30T10:25:10.877Z",
+      "cachedAt": "2026-09-06T09:04:33.605Z",
       "query": "\"Natipora\" Srinagar (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "12668": {
-      "cachedAt": "2026-08-30T10:25:10.877Z",
+      "cachedAt": "2026-09-06T09:04:33.605Z",
       "query": "\"Pantha Chowk\" Srinagar (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "EOW arrests wanted job fraudster linked to 11 cases",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYjhLamF4RDZRWnFCNEZCVm9FTzR1eDM2R3JTdkZJM0d2QUZJdllIMGtyTUFsT3d3NU1wdG91Sm0ta2dKWGdSTDkyWDBFWHVIVUhpZ3czZzVITUF5R0pZb2NEbkpGenNBWFVIZmVqb0otTHh4emp1eVZUSHBxaS1OMEdubllBcGwxSklr0gGPAUFVX3lxTE5OWjlIWmFHVXFrSmlrbDN1XzZhV2doVFU4djRSVzZZekozei0xY0pGel9kbWp3cVc5WklubXp4RXlCYWV4dlJwQzhhbjhPa0dMT3phLVpILVRBQnotQXBYT2J5SUM3eEh6Y1hHNERzRm5xWVJJTmhhY3VCUGJqY2ZQZkJPSUIwY1ZKY2JqNnhN?oc=5",
+          "date": "2026-07-14T07:00:00.000Z",
+          "source": "Daily Excelsior"
+        },
         {
           "title": "Wanted fraudster with 11 cases arrested by EOW Kashmir, sent to Central Jail Srinagar",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYV9fU2taU25LbWZ3a3k1LVp1ZUdQV2duVEtpTGtqQnVnZDRjN1laUjZDY3FjWFNJWGo1V3llTUs4WHkyY2U5Tk9pWTZ0WnVLV3NmVHp3d0RHNUNfMXV4ODB1Z0NyYU1YcWNQTGtBb04ydjdnaDl1WWl5RnhpQUk3QzF3bnkwSWI2RnZJM1pIUnFZaDN6b2RGNXpYbWRCSkxKYWpGaTFaLWYxUWNpTXNZOVA3ZE1DWHlFRm9rOGpKaWFRUkJKMW9JLWNsWUPSAdIBQVVfeXFMUDFJeW4zeUFGRmxLR1BYNklnb1dqa0pvVjJCdUhtaEFCWnlhSk5SX2ktZ04zQ1p0OTI0NW1taF9rd2t6R1lTQURXNjBUZzd4Rl8xQXoxYU9MaWx3MGZPUVZJLV95c1NNVUhjQmxBTVhiZ29hd0w1Q2tzRlB4eHo2QTNKRGo0bjQtSVc0c19uUHRPSEtfVUpBTnptQWJRQzZnS2NfSm0xUHRuc3JXTjJCeGJVbUVjcXdqeml5MUFsSGliSDVtblZCSnNidGVqdUU5UmRB?oc=5",
           "date": "2026-07-13T07:00:00.000Z",
-          "source": "Greater Kashmir"
+          "source": "greaterkashmir.com"
         },
         {
           "title": "Wanted Fraudster Facing 11 Cheating Cases Arrested By EOW Kashmir, Sent To Central Jail",
@@ -552,12 +547,12 @@
       ]
     },
     "12669": {
-      "cachedAt": "2026-08-30T10:25:10.877Z",
+      "cachedAt": "2026-09-06T09:04:33.605Z",
       "query": "\"Budshah Mohalla\" Srinagar (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "12670": {
-      "cachedAt": "2026-08-30T10:25:10.877Z",
+      "cachedAt": "2026-09-06T09:04:33.605Z",
       "query": "\"Rawalpora\" Srinagar (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -569,19 +564,19 @@
       ]
     },
     "12671": {
-      "cachedAt": "2026-08-30T10:25:10.877Z",
+      "cachedAt": "2026-09-06T09:04:33.605Z",
       "query": "\"Baghat\" Srinagar (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
           "title": "CBI traps 2 SMC employees for taking bribe; raids In-Charge SE’s residence in Srinagar",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNV3JCNUF4OU9NS0NsYy1UN1hTUURNaVg4dWFFZ3J3R1A1RUdic003RVR6Vm9GWXd2RlM5Sm1mTERLM1h5SHpqWG5rckRiU05jMnpwb1U0M2tmb1J6YmlzeUpmVGJvWVlrVlRSTnR3aUtWTHdGYWVEQ3l2VG5IV1RCWlFBdl9CeXBYOUVUbDdvM1IyLTZpYmRtbl8yTl9uaml5TVJSU1VsaDlBb3VoSWhEYW9TbDdFWDRRZDFPLVlFdUdiMF8tbXFRSWJVSVHSAdIBQVVfeXFMTi1LS3pGR2pOSGFmSGdqWnM5RGY1U2g1bU4yRm1yeUFkamZid1dQUE1paXJmYkVmelhSSGQ3YzN3LWdzNVh6aVlJSjdWS1c5bTAta2FCblk0d3l6RmRIVmlmNGRMTFBRTG1wZzN4LUJUZ1RqZU81TVoxSDIyQkFNcmhGSkFBckJBR3A2UHEya0tvV1lXakxCYXhPTF9rczRSQUwwbHJnNmpzNk0yTUxYSUVRTTFiTzh0SVozMHVTcHZ5bGdoaHg3aGdmNUZSS3lEQmpn?oc=5",
           "date": "2026-06-19T07:00:00.000Z",
-          "source": "Greater Kashmir"
+          "source": "greaterkashmir.com"
         }
       ]
     },
     "12672": {
-      "cachedAt": "2026-08-30T10:25:10.877Z",
+      "cachedAt": "2026-09-06T09:04:33.605Z",
       "query": "\"Hyderpora\" Srinagar (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -589,30 +584,24 @@
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLWlvVUhaZUg3Y25sN2s5eENVLVhTTW5KZzVzUFBlYUZDQjJXMEpBelczUFFFQkNjVUVfNER6eWJRaEQ0a3BpelJUNGxLaGxSTFJJaE5sUjJvY25QaXNOMG16MEV6dG1mUVhadnpxMnBrODZVS1hsQ2RlNHdlVzd1Y0lyS1JGYnR3ZUljbW9CRzA0d3dsdDFIR1RwWVhkclZkbHl4Qnc5YlJJWmI2Rks1VzRWSQ?oc=5",
           "date": "2026-07-25T07:00:00.000Z",
           "source": "Rising Kashmir"
-        },
-        {
-          "title": "Srinagar Police attaches drug peddlers properties worth Rs 1.35 cr",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUlcyb0E3MnNBSUdNUmlvMWNOWFpJUlItR3dzRmRYM2l6aGF5MmxSN1JuaXA1UlJfbG0xcm51SFRFSFZWTlBpbDU2c2FHc2Nfd2dXb04xLVFrel9RbnpfbXZPNUpSY2EyYUZ1NjdkelB0M1JOZkZNV0ozX01mMDUtWTdHNnpYTDNzRkptMDRLTHFEbHhaM2Q1WkxEY3E2M2JoREE?oc=5",
-          "date": "2026-07-25T07:00:00.000Z",
-          "source": "KNS News"
         }
       ]
     },
     "12673": {
-      "cachedAt": "2026-08-30T10:25:10.877Z",
+      "cachedAt": "2026-09-06T09:04:33.605Z",
       "query": "\"Humhama\" Srinagar (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
-        {
-          "title": "Land fraud case: Crime Branch conducts searches in Srinagar, Budgam",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdDVQNlFINko3VHFqVHBVeFdKT0lJc2hQQklNc3EzRnlrb1VlTTBSSUFub2t0bVplVzNCZDE3d0M5YXVSYjZGUkpBbmhoWUJ4Y0dyc2t3T2hZRE1rczg4NXhXUVUxMExPaWxKb3BRTklwU19OZTBRaVA5MGhSdFh3NnU3SlBqODJlaGJ6NGpuOUlvUmJQeVBFQkYxYXVTSjE4d3k2b1Nn?oc=5",
-          "date": "2026-05-15T07:00:00.000Z",
-          "source": "Kashmir Reader"
-        },
         {
           "title": "Crime Branch conducts raids in Srinagar, Budgam in land fraud case",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNalFiVDc2NW9IeEZTRmVid1E3R0g2WGszX1dUR19vT09tNzNwMmtOTWtmT2VWTHpEQ3k1c3ZPaEJHbk9LOEtrZi15NXJib1hWZ2NrSl94WlVWM3JWOW05NWJ6Rm8xTU9fZFYzNTBPYURyZHJJRkMzelEySDljOE9hdHhDdndwSVZZY2t6aXVQYjluSlBWNnUzX09zSU15MGdEN2FOS0Job1g3bG94b2lMZkFuSDLSAboBQVVfeXFMT1h0NnotbW43TlpKR0JpaFdRdGQxOGJsZVUxUFRmLWQ3RUk3NUZPSDVlSTVBdXRjeGpGZXdfS2dwdFQ0aDc2VDZnbHJsMlM2SjJST1VTX3VsZUxKSlRodGRrVEh1bzJXUUZaa3VwbzdxeDJaNE1oNjU1Z0Jlb2NrREo2d21NZ1ZDVnJqRFI0dDhQZFBBNXdaTGxrVng4YkRGN1ItZ0hVVUhYN1ZRaUdFTWdvQUVLN2wtcjFR?oc=5",
           "date": "2026-05-14T07:00:00.000Z",
-          "source": "Greater Kashmir"
+          "source": "greaterkashmir.com"
+        },
+        {
+          "title": "Fake land deal busted: Crime Branch raids in Srinagar, Budgam in multi-lakh Narkara fraud case",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPa1BtVFRVcTdqdzFDTUl4ZTQ2RU1TWGF4M3NMcGlodHdJeVJvZ2RrZ3JJZUpyemd2b25ldlhGZ2ZCMjBJVnlaeWVGaHlQWmZfMW1fSVotWkI1Wl9VZE1STGs5U05uTEZQMElEX3hlZ0l2MXVybEtpeGVFMkNKMlRHUHBwdXBMRFU4eWM0T1d0a1VQMzg4UUtmczRXMVRWbFNJTEdWdkNVeUVTQkhPUFVFOS03VmZFR3V0T1ZrSDFmSGdRSmRWak4w?oc=5",
+          "date": "2026-05-14T07:00:00.000Z",
+          "source": "KNS News"
         },
         {
           "title": "Crime Branch Conducts Raids In Srinagar, Budgam Over Land Fraud Case",
@@ -621,32 +610,38 @@
           "source": "Daily Excelsior"
         },
         {
-          "title": "Fake land deal busted: Crime Branch raids in Srinagar, Budgam in multi-lakh Narkara fraud case",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPa1BtVFRVcTdqdzFDTUl4ZTQ2RU1TWGF4M3NMcGlodHdJeVJvZ2RrZ3JJZUpyemd2b25ldlhGZ2ZCMjBJVnlaeWVGaHlQWmZfMW1fSVotWkI1Wl9VZE1STGs5U05uTEZQMElEX3hlZ0l2MXVybEtpeGVFMkNKMlRHUHBwdXBMRFU4eWM0T1d0a1VQMzg4UUtmczRXMVRWbFNJTEdWdkNVeUVTQkhPUFVFOS03VmZFR3V0T1ZrSDFmSGdRSmRWak4w?oc=5",
-          "date": "2026-05-14T07:00:00.000Z",
-          "source": "KNS News"
+          "title": "US National Detained at Srinagar Airport with Restricted Satellite Device, FIR Registered",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSUJzUjVRYnVhRUwxQ3c4YnNUbVJvRE1hcVczYVU5S1RseE14NmpzTjlvcFRZcEJmdEFGdW1GLXFJRURWU1FzVUZRQVRLTlNROEtNWjlXQk4ydTUtR1dGMS1pdjAwekFwQVBQOXhMamY1RHFjbHVrV0g0Z2VIUzBnYkdnaUQ0bjlwV2diMTdnQ2xTWmpLYlI3Z0pqYw?oc=5",
+          "date": "2026-04-20T07:00:00.000Z",
+          "source": "Daily Pioneer"
         }
       ]
     },
     "12674": {
-      "cachedAt": "2026-08-30T10:25:10.877Z",
+      "cachedAt": "2026-09-06T09:04:33.605Z",
       "query": "\"Hmdaniya Colony\" Srinagar (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "12675": {
-      "cachedAt": "2026-08-30T10:25:10.877Z",
+      "cachedAt": "2026-09-06T09:04:33.605Z",
       "query": "\"Bemina West\" Srinagar (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "12676": {
-      "cachedAt": "2026-08-30T10:25:10.877Z",
+      "cachedAt": "2026-09-06T09:04:33.605Z",
       "query": "\"Nundreshi Colony\" Srinagar (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "12677": {
-      "cachedAt": "2026-08-30T10:25:10.877Z",
+      "cachedAt": "2026-09-06T09:04:33.605Z",
       "query": "\"Zainakote\" Srinagar (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Love, lies & narcotics: Police uncover plot to frame newlywed husband in Kashmir",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWmRQVWJocVBIRVcxcXpzREJUc2dCdmd4V1F2aFg0QUt6UmJJTTE0SEJ6enAtYjJsb1lmRVZ5MEYtSzJFVHhFUzAyV05fZ3ZjRTNOR1p4RWVjYVF1My1RcjhNVjQ2UmRQYnEyRGhITUllTm1oMWpJRHBNUXhIck9aYTBBcm9KaVJYZnlIX2hSN3lZb2Y0WXBob0R1b3JVRVdtTjZEd2hLNzNOTUx2UFBmelZhVzY4Nk9HWVk3eURSZjRwZmvSAcgBQVVfeXFMUDV1MkF1VUpvaWxHaTA0ZmpjdFFHYkN6OUtQRGxmS0pUeVlncGphUG53ZTIzYk5QNlRMc3RDVFM2ZFhDeFNjTTd1ellYTG5HaTNPWWxEWmJ0aGNLUi1LcWF0clQyR19xRXJ1VEc2T0RtRVNmUEVOTFh2VGVmd0RZUURMTDd5NG50OWJjQ3lNUkNIZFpYeWEyZUFVUmdMZ2xRbHBYdWZiaHpEeGp2UTMwQVdhcU1SMlVtbGxVZXdVLWc1bjYtaHJNd0Y?oc=5",
+          "date": "2026-08-10T07:00:00.000Z",
+          "source": "WION"
+        },
         {
           "title": "ANTF arrests drug peddler in Srinagar",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Fb1lEdmp6OU5UVW8xQ1M3elJWdXlsN0M5OFNnOHROQ0JILWFvQ2NGQm5hRmxjdmkySGNseU1nOXRXc2N3ZTdmYXZjTEVWenFKa2JUcWs0bjlRZG96dmVUdDRETUw1dmhfeGRSRzNCZGxOSGs?oc=5",
@@ -656,24 +651,24 @@
       ]
     },
     "12678": {
-      "cachedAt": "2026-08-30T10:25:10.877Z",
+      "cachedAt": "2026-09-06T09:04:33.605Z",
       "query": "\"Lawaypora\" Srinagar (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
           "title": "Police nab 4 drug peddlers in north Kashmir, contraband substance recovered",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSzRPbDhydE5wcHFBRHpxdkp4VW05LWlxWTVRelR6a0FHZ0dGcUFNQlJzejdZVl9KMDRaZDVodkE0cTNyWEJxTzdNYW55bUJFR0JWQndOY0N4bFhuejNuRE0tWTZsN2FNLWRYVklZUkJUQmdiVlVCRHVkR3JJVVlXM0o1aFlvOXVTMm02OGJ2R3lrazBpcWdYQjd1VTZkbEY2US1SX0VmZjRBLVQxbmt1cHM2T3lURmdlNGhMaUctdlTSAcYBQVVfeXFMT2NKUFRpOE9fSGw1cDVjaVhvUWthdEV2bmRxRzRJMk1QS01YVXNrS0IybGt0Yms4OXRBeXhWTHRRNHFjUlNFckcxVDlLMVFXYldvd0h1T1Vla2JEMTNWYjJ5VWlIWGpGRkVCVGg4YjF4MlM1WVBRZTF3bEZubFNNT3h3c21VaEtRN3prYzRjX0lBSmVkaU9vMmYwUEp4MTBydGdUeHJjSXNzZThIWWNjM21NcGZocjY1NzJpSlZYeDFmTFNiREV3?oc=5",
           "date": "2026-05-04T07:00:00.000Z",
-          "source": "Greater Kashmir"
+          "source": "greaterkashmir.com"
         }
       ]
     },
     "12679": {
-      "cachedAt": "2026-08-30T10:25:10.877Z",
+      "cachedAt": "2026-09-06T09:04:33.605Z",
       "query": "\"Taibal\" Srinagar (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "12680": {
-      "cachedAt": "2026-08-30T10:25:10.877Z",
+      "cachedAt": "2026-09-06T09:04:33.605Z",
       "query": "\"Ahmad Nagar\" Srinagar (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -681,22 +676,16 @@
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOURxZWkxNjZNellGaEtsRFdkbmxqRGpBVUI5ZDZoRWdoN2p1RzRMWUJHY2JHZ1IyM3RIempCYmpVdkJqYWpGNDJzMGtWU2lzUHJ6X3M1SWVQYWl2blBwWWtKQkd1MElIeDRKXzJzSE5Vdm53VGNmWDdZV3RET1ZCUHFmN29pQzVxdlR5bGgxTnpKSnRBMHFmYWpmcjM4eFVwSWpMcGtUczdrSGhMWFRqZVc1clZid0s5eHQ5S1pNR1p5Wk5kZXY00gHMAUFVX3lxTE5WWWhfY0ZZVU9wREtVWjljRFk1UkU0WGVEcnlKY2tWV2hOZnBpTGJjdlBnS1BRb09nU2oxVWJqbmNqSk15QlllNTc3VEVZTF9Tc2xsX2daQjFaOXNiNF81QVdqaHRCRDE4aUlmazVjay1kMnZWanJNV3pVYzZuaktSbk0xS21YREw3d3Q1UFBNTFBaWkdWNmdvcWthYVlPS2FqWU9wQVJGbFU1TGdRRFUxMFV1Rm9JUVM1eHZuOG1FWGphLUNQRFM1TEcwSw?oc=5",
           "date": "2026-04-23T07:00:00.000Z",
           "source": "ETV Bharat"
-        },
-        {
-          "title": "Kashmir University scientist suspended after his arrest in a rape and cheating complaint",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONS11UFZNbGMzT2FzeklFc0R1RVZmMGJtVE9IRVd4VmE3WExtd2FMb3ZjTFMxOXFlcnlqMC1laVdZSXIwTDc1S0h5OU9kYVYxSUc5WnNPNFl5a3ZyQklwZHZSaUdGeWJVOHJTWjdpQjRoYmpBTWdnSG9Hbkp3NFJwWlg3ZTRPSjc4SmxHRlduOEFoNFg3djVFdlJJTnRQZXBDNy1BSkdieGlOeGU1RzdacVZ1dk5ScDFzdEpkZm56Z2VIRWlaZVVVN1lzakcxcXQ1X2dBTdIB2gFBVV95cUxQRFRoNnFtT1dHcmdPbjYtdHdRUmowWFUxdi1ncExxQXZsS1NsZ1pxNTViU0JGZ0plUDNMQzgzc3RITmlIcDJRMEZCNUxqSGVRWkdxOFh5emNBSVpfbC1YZ1lndjEwLTNXRmRjc1ozeDhnTHVYbENlT2FSLUMya2hiMFBINjBxNlFxV1A5ZnJxeW1xSVc1RVdRMHBITW5MWTR2cnRCMHV4RzBLTzBoTUJPWXQyeGZ2UUhVRExYQWc0ZEktSkZUdGZaNnh2cUgtNzJkQThvY21seE8tUQ?oc=5",
-          "date": "2026-04-22T07:00:00.000Z",
-          "source": "The Economic Times"
         }
       ]
     },
     "12681": {
-      "cachedAt": "2026-08-30T10:25:10.877Z",
+      "cachedAt": "2026-09-06T09:04:33.605Z",
       "query": "\"Zakura\" Srinagar (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "12682": {
-      "cachedAt": "2026-08-30T10:25:10.877Z",
+      "cachedAt": "2026-09-06T09:04:33.605Z",
       "query": "\"Chatterhama\" Srinagar (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     }
