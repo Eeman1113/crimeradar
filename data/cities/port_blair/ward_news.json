@@ -1,124 +1,138 @@
 {
   "source": "https://news.google.com/rss/search",
-  "scrapedAt": "2026-09-06T09:07:54.119Z",
+  "scrapedAt": "2026-09-20T09:48:18.903Z",
   "wards": {
     "4646": {
-      "cachedAt": "2026-09-06T09:07:30.799Z",
+      "cachedAt": "2026-09-20T09:47:56.141Z",
       "query": "\"No 1\" Port Blair (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4647": {
-      "cachedAt": "2026-09-06T09:07:30.799Z",
+      "cachedAt": "2026-09-20T09:47:56.141Z",
       "query": "\"No 3\" Port Blair (crime OR arrest OR snatch OR rape OR molest OR raid)",
-      "items": []
+      "items": [
+        {
+          "title": "Linda Blair Says Raid on Home in Connection with Reported Kennel Operation Is ‘a Positive’",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTXFHbElkdGswN2NQX0dIM3pQaFpuMXZPLWlqd2IxVjZaeHdQYWdOMlVvWlJlVV9GUldIWUhlYk9zekJrZXFHbDdtLVczNEcxaW9ETTBRX3B4bjltN3MweGlDbTRueEo1bXROejJOQTl5ZEhIVnZQN3R0ZHRHYXBsMlV0U3dRWnBQNmkyX2JYZkNzdU9sWE5NZnhjSjQ?oc=5",
+          "date": "2026-08-04T07:00:00.000Z",
+          "source": "Yahoo"
+        }
+      ]
     },
     "4648": {
-      "cachedAt": "2026-09-06T09:07:30.799Z",
+      "cachedAt": "2026-09-20T09:47:56.141Z",
       "query": "\"No 4\" Port Blair (crime OR arrest OR snatch OR rape OR molest OR raid)",
-      "items": []
+      "items": [
+        {
+          "title": "Singer D4vd held without bail after arrest on suspicion of killing teenage girl",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcG9vV3c5WFUtN2NjdXJHSFRUMXdlZVZsQ2xQY1lrNXREREV1dVNZMzNjYU9XbTJqVmpjQ0hnZmFZckFSdllVZ2R1X0lqRFk4Zl9UclN2b1pzVGZTNmh1Mk92YlJKdjJfaVc4aGZ5VjZpVkZSeER2ZExQejMwelM2RXd6ZjJNSVpwNjZuSw?oc=5",
+          "date": "2026-04-17T07:00:00.000Z",
+          "source": "The Globe and Mail"
+        }
+      ]
     },
     "4649": {
-      "cachedAt": "2026-09-06T09:07:30.799Z",
+      "cachedAt": "2026-09-20T09:47:56.141Z",
       "query": "\"No 5\" Port Blair (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4650": {
-      "cachedAt": "2026-09-06T09:07:30.799Z",
+      "cachedAt": "2026-09-20T09:47:56.141Z",
       "query": "\"No 6\" Port Blair (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4651": {
-      "cachedAt": "2026-09-06T09:07:30.799Z",
+      "cachedAt": "2026-09-20T09:47:56.141Z",
       "query": "\"No 7\" Port Blair (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4652": {
-      "cachedAt": "2026-09-06T09:07:30.799Z",
+      "cachedAt": "2026-09-20T09:47:56.141Z",
       "query": "\"No 8\" Port Blair (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4653": {
-      "cachedAt": "2026-09-06T09:07:30.799Z",
+      "cachedAt": "2026-09-20T09:47:56.141Z",
       "query": "\"No 9\" Port Blair (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4654": {
-      "cachedAt": "2026-09-06T09:07:30.799Z",
+      "cachedAt": "2026-09-20T09:47:56.141Z",
       "query": "\"No 10\" Port Blair (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4655": {
-      "cachedAt": "2026-09-06T09:07:30.799Z",
+      "cachedAt": "2026-09-20T09:47:56.141Z",
       "query": "\"No 11\" Port Blair (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4656": {
-      "cachedAt": "2026-09-06T09:07:30.799Z",
+      "cachedAt": "2026-09-20T09:47:56.141Z",
       "query": "\"No 13\" Port Blair (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4657": {
-      "cachedAt": "2026-09-06T09:07:30.799Z",
+      "cachedAt": "2026-09-20T09:47:56.141Z",
       "query": "\"No 14\" Port Blair (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4658": {
-      "cachedAt": "2026-09-06T09:07:30.799Z",
+      "cachedAt": "2026-09-20T09:47:56.141Z",
       "query": "\"No 15\" Port Blair (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4659": {
-      "cachedAt": "2026-09-06T09:07:30.799Z",
+      "cachedAt": "2026-09-20T09:47:56.141Z",
       "query": "\"No 16\" Port Blair (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4660": {
-      "cachedAt": "2026-09-06T09:07:30.799Z",
+      "cachedAt": "2026-09-20T09:47:56.141Z",
       "query": "\"No 17\" Port Blair (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4661": {
-      "cachedAt": "2026-09-06T09:07:30.799Z",
+      "cachedAt": "2026-09-20T09:47:56.141Z",
       "query": "\"No 18\" Port Blair (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4662": {
-      "cachedAt": "2026-09-06T09:07:30.799Z",
+      "cachedAt": "2026-09-20T09:47:56.141Z",
       "query": "\"No 19\" Port Blair (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4663": {
-      "cachedAt": "2026-09-06T09:07:30.799Z",
+      "cachedAt": "2026-09-20T09:47:56.141Z",
       "query": "\"No 20\" Port Blair (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4664": {
-      "cachedAt": "2026-09-06T09:07:30.799Z",
+      "cachedAt": "2026-09-20T09:47:56.141Z",
       "query": "\"No 21\" Port Blair (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4665": {
-      "cachedAt": "2026-09-06T09:07:30.799Z",
+      "cachedAt": "2026-09-20T09:47:56.141Z",
       "query": "\"No 22\" Port Blair (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4666": {
-      "cachedAt": "2026-09-06T09:07:30.799Z",
+      "cachedAt": "2026-09-20T09:47:56.141Z",
       "query": "\"No 24\" Port Blair (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4667": {
-      "cachedAt": "2026-09-06T09:07:30.799Z",
+      "cachedAt": "2026-09-20T09:47:56.141Z",
       "query": "\"No 23\" Port Blair (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "12291": {
-      "cachedAt": "2026-09-06T09:07:30.799Z",
+      "cachedAt": "2026-09-20T09:47:56.141Z",
       "query": "\"No 2\" Port Blair (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "12292": {
-      "cachedAt": "2026-09-06T09:07:30.799Z",
+      "cachedAt": "2026-09-20T09:47:56.141Z",
       "query": "\"No 12\" Port Blair (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     }

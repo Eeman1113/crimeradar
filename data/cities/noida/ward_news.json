@@ -1,67 +1,61 @@
 {
   "source": "https://news.google.com/rss/search",
-  "scrapedAt": "2026-09-06T08:43:29.530Z",
+  "scrapedAt": "2026-09-20T09:24:40.015Z",
   "wards": {
     "Sector 20": {
-      "cachedAt": "2026-09-06T08:43:19.839Z",
+      "cachedAt": "2026-09-20T09:24:30.634Z",
       "query": "\"Sectors 1-19\" Noida (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Sector 24": {
-      "cachedAt": "2026-09-06T08:43:19.839Z",
+      "cachedAt": "2026-09-20T09:24:30.634Z",
       "query": "\"Sectors 22\" Noida (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Sector 39": {
-      "cachedAt": "2026-09-06T08:43:19.839Z",
+      "cachedAt": "2026-09-20T09:24:30.634Z",
       "query": "\"Sectors 30-31\" Noida (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Sector 49": {
-      "cachedAt": "2026-09-06T08:43:19.839Z",
+      "cachedAt": "2026-09-20T09:24:30.634Z",
       "query": "\"Sectors 44-55\" Noida (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Sector 58": {
-      "cachedAt": "2026-09-06T08:43:19.839Z",
+      "cachedAt": "2026-09-20T09:24:30.634Z",
       "query": "\"Sectors 56-65\" Noida (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Phase 2": {
-      "cachedAt": "2026-09-06T08:43:19.839Z",
+      "cachedAt": "2026-09-20T09:24:30.634Z",
       "query": "\"Noida Phase 2 industrial area\" Noida (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
           "title": "Noida Protest Mastermind Aditya Anand Arrested by UP STF in Tamil Nadu",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9YNlJVRUFHbTkweWFWMkRmZy1pbHhuOXVOVXRKN242N1JFQzZSTF9oSHFldEZHOHJIclFxTDQ0eEkzMzkzMDdfZkFUODg3UUpkNjMtXzduVDFYOWlleUI2ZzJlV0x3ZGVyTFJBMmpFazY?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNFpnblMwaU9hcXA5TlBDWGxHemRmR1JpMVF1eFQ0RElfR2NyX0ZkMnViVy04cW41cXRBZndlbEZUbzVWRzlJeDNteWI3QmxrN0dyM1ZXWEJsMnlMNDVwc2VnMVpMNnp3NkpOamptUkp6SmtIVTNZc0Q0c0VXNnhHVHFjaEFFMXpFT1hv?oc=5",
           "date": "2026-04-19T07:00:00.000Z",
           "source": "Daily Pioneer"
-        },
-        {
-          "title": "‘We just want fair wages... Why are police beating us?’: Workers at Noida protest | India News",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPREhzWVFLdndUM202dGptTl9YblE3dUN3UGpQMzVXWE1yQVNCZmQ4dFhPU0RNeTFFaUU5TzRyMkh4dTYzR2hjRHUzNll1ODh2b3VsbnBaSGpKU2REeTdDVGN5UzFMSzlRQWg0QUVQS2U5VG1PRk1hRXN4NG9ZNnh5dVZycTZPN1J2QVVMVl8tNUhqT3I3RFZaVEQ0UFB4cDBTNW1DdW5aRC1EOWlBWjZ5RldieVczQ0ctV2d3UlZwNFBEUUpyUTdlYk9mZjMxcG50anRz0gHYAUFVX3lxTFAxMWhIRFlXcUh4Yy13cGNzSWt3eUQwbFh0UHh4LVgwemY4ajRQZzFhVnJ1cFVSNXNjbE9nSXJISW1RM19mMmNzWEFXVGNpUmp6WjR5Wk1halE4QlhINU12Z09tU3BPWWh5Q2kyX0s4TTUwSmFZdnpZdjdKR3h0OFptMzFoSE1Ua21WdE1pZWk5N2FHZVkxZFpfVEl2SG12dUpqbGdoNlJfWERORjdyNVRsNTlzN3h0NkxSc1p0eWN0YzVoaERHM0ZYbjlfZUJTa3J0Q0FzX0M3dw?oc=5",
-          "date": "2026-04-13T07:00:00.000Z",
-          "source": "Hindustan Times"
         }
       ]
     },
     "Phase 3": {
-      "cachedAt": "2026-09-06T08:43:19.839Z",
+      "cachedAt": "2026-09-20T09:24:30.634Z",
       "query": "\"Sectors 66-75\" Noida (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Sector 113": {
-      "cachedAt": "2026-09-06T08:43:19.839Z",
+      "cachedAt": "2026-09-20T09:24:30.634Z",
       "query": "\"Sectors 110-120\" Noida (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Sector 126": {
-      "cachedAt": "2026-09-06T08:43:19.839Z",
+      "cachedAt": "2026-09-20T09:24:30.634Z",
       "query": "\"Sectors 121-130\" Noida (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Expressway": {
-      "cachedAt": "2026-09-06T08:43:19.839Z",
+      "cachedAt": "2026-09-20T09:24:30.634Z",
       "query": "\"Sectors 131-137 and 143-168\" Noida (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     }
