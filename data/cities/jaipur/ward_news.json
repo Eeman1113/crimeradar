@@ -1,36 +1,42 @@
 {
   "source": "https://news.google.com/rss/search",
-  "scrapedAt": "2026-09-20T09:27:45.097Z",
+  "scrapedAt": "2026-09-27T10:11:45.366Z",
   "wards": {
     "10": {
-      "cachedAt": "2026-09-20T09:26:45.862Z",
+      "cachedAt": "2026-09-27T10:10:46.052Z",
       "query": "\"(VIDHYADHAR NAGAR)\" Jaipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "11": {
-      "cachedAt": "2026-09-20T09:26:45.862Z",
+      "cachedAt": "2026-09-27T10:10:46.052Z",
       "query": "\"(JHOTWARA ANSIK)\" Jaipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "12": {
-      "cachedAt": "2026-09-20T09:26:45.862Z",
+      "cachedAt": "2026-09-27T10:10:46.052Z",
       "query": "\"(JHOTWARA ANSIK)\" Jaipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "13": {
-      "cachedAt": "2026-09-20T09:26:45.862Z",
+      "cachedAt": "2026-09-27T10:10:46.052Z",
       "query": "\"(JHOTWARA ANSIK)\" Jaipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "14": {
-      "cachedAt": "2026-09-20T09:26:45.862Z",
+      "cachedAt": "2026-09-27T10:10:46.052Z",
       "query": "\"(JHOTWARA ANSIK)\" Jaipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "15": {
-      "cachedAt": "2026-09-20T09:26:45.862Z",
+      "cachedAt": "2026-09-27T10:10:46.052Z",
       "query": "\"(CIVIL LINES)\" Jaipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Wife’s Brother Kidnaps Railway Officer For Rs 51 Lakh Ransom",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOd19ObU5heHMzeUR1c3loOExscDJZREc3NWxKd2xWemF1bWRnZWVObjNWWFZiTFBMRnhBY0RkdFJmY1lQT1dEc2ItOHd4UThxS1RyM1FrRHJDVUs3ZHlhZWo3NWtTdUUyTm15N1kzZC1pTm5ybzlNYUFRZ2VnZGl6STlBNW9sc2VQTkNCM1NRdEUtZFlnQjIzYjRn?oc=5",
+          "date": "2026-08-27T07:00:00.000Z",
+          "source": "Ommcom News"
+        },
         {
           "title": "Jagan murder: Vishnu arrested from high security jail",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYlppb1EyWGhTOWVYOE5BUkgyLXE0anJsaU5DUTdBMWQ5YzE0dzBndnAxbFJwLUNkcmFRUlJxc2hOdTV1UVlNRW5uUW8tSlA4cS1BVTdHU1FuSGZQcjViNjVjZlRSXzYxd1lUZEJ3QUFFWVJRQXFzbUVmNHJtRG9MZTZIOUpYdEQwd09vaHA2OU9lZXhDVTVfSThUai1BbXo3ekJLQTBNazJEV1RXNEQtbDZfNFFwamtHb1drQXozc2lRaTdM0gHKAUFVX3lxTE51dFVneEZpNXRWZ25pajJ0SFY0aVJ3eV9lREFIMFR3Wlc3Yk9uem9JcWE0OVJKUGhwZnRWa3c1VjJTd1A2Yl9hVEJvVFlEd1B3ZXlKVk0xYllWck9iMGtzYnl6al92Qng5b3l5UGU0N2ZwYldhYVB0QnNneHhid2FFczQ5bVVJckkwQUdIQXRiVDVNTUNTaW1RUE9ZaDN6SjBqdThWMGk5Q2tFQU1nR1ZSeU83ajdqUlRJS3p4eHVIZE1DV1QxWHEwb2c?oc=5",
@@ -46,9 +52,15 @@
       ]
     },
     "16": {
-      "cachedAt": "2026-09-20T09:26:45.862Z",
+      "cachedAt": "2026-09-27T10:10:46.052Z",
       "query": "\"(CIVIL LINES)\" Jaipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Wife’s Brother Kidnaps Railway Officer For Rs 51 Lakh Ransom",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOd19ObU5heHMzeUR1c3loOExscDJZREc3NWxKd2xWemF1bWRnZWVObjNWWFZiTFBMRnhBY0RkdFJmY1lQT1dEc2ItOHd4UThxS1RyM1FrRHJDVUs3ZHlhZWo3NWtTdUUyTm15N1kzZC1pTm5ybzlNYUFRZ2VnZGl6STlBNW9sc2VQTkNCM1NRdEUtZFlnQjIzYjRn?oc=5",
+          "date": "2026-08-27T07:00:00.000Z",
+          "source": "Ommcom News"
+        },
         {
           "title": "Jagan murder: Vishnu arrested from high security jail",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYlppb1EyWGhTOWVYOE5BUkgyLXE0anJsaU5DUTdBMWQ5YzE0dzBndnAxbFJwLUNkcmFRUlJxc2hOdTV1UVlNRW5uUW8tSlA4cS1BVTdHU1FuSGZQcjViNjVjZlRSXzYxd1lUZEJ3QUFFWVJRQXFzbUVmNHJtRG9MZTZIOUpYdEQwd09vaHA2OU9lZXhDVTVfSThUai1BbXo3ekJLQTBNazJEV1RXNEQtbDZfNFFwamtHb1drQXozc2lRaTdM0gHKAUFVX3lxTE51dFVneEZpNXRWZ25pajJ0SFY0aVJ3eV9lREFIMFR3Wlc3Yk9uem9JcWE0OVJKUGhwZnRWa3c1VjJTd1A2Yl9hVEJvVFlEd1B3ZXlKVk0xYllWck9iMGtzYnl6al92Qng5b3l5UGU0N2ZwYldhYVB0QnNneHhid2FFczQ5bVVJckkwQUdIQXRiVDVNTUNTaW1RUE9ZaDN6SjBqdThWMGk5Q2tFQU1nR1ZSeU83ajdqUlRJS3p4eHVIZE1DV1QxWHEwb2c?oc=5",
@@ -64,9 +76,15 @@
       ]
     },
     "17": {
-      "cachedAt": "2026-09-20T09:26:45.862Z",
+      "cachedAt": "2026-09-27T10:10:46.052Z",
       "query": "\"(CIVIL LINES)\" Jaipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Wife’s Brother Kidnaps Railway Officer For Rs 51 Lakh Ransom",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOd19ObU5heHMzeUR1c3loOExscDJZREc3NWxKd2xWemF1bWRnZWVObjNWWFZiTFBMRnhBY0RkdFJmY1lQT1dEc2ItOHd4UThxS1RyM1FrRHJDVUs3ZHlhZWo3NWtTdUUyTm15N1kzZC1pTm5ybzlNYUFRZ2VnZGl6STlBNW9sc2VQTkNCM1NRdEUtZFlnQjIzYjRn?oc=5",
+          "date": "2026-08-27T07:00:00.000Z",
+          "source": "Ommcom News"
+        },
         {
           "title": "Jagan murder: Vishnu arrested from high security jail",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYlppb1EyWGhTOWVYOE5BUkgyLXE0anJsaU5DUTdBMWQ5YzE0dzBndnAxbFJwLUNkcmFRUlJxc2hOdTV1UVlNRW5uUW8tSlA4cS1BVTdHU1FuSGZQcjViNjVjZlRSXzYxd1lUZEJ3QUFFWVJRQXFzbUVmNHJtRG9MZTZIOUpYdEQwd09vaHA2OU9lZXhDVTVfSThUai1BbXo3ekJLQTBNazJEV1RXNEQtbDZfNFFwamtHb1drQXozc2lRaTdM0gHKAUFVX3lxTE51dFVneEZpNXRWZ25pajJ0SFY0aVJ3eV9lREFIMFR3Wlc3Yk9uem9JcWE0OVJKUGhwZnRWa3c1VjJTd1A2Yl9hVEJvVFlEd1B3ZXlKVk0xYllWck9iMGtzYnl6al92Qng5b3l5UGU0N2ZwYldhYVB0QnNneHhid2FFczQ5bVVJckkwQUdIQXRiVDVNTUNTaW1RUE9ZaDN6SjBqdThWMGk5Q2tFQU1nR1ZSeU83ajdqUlRJS3p4eHVIZE1DV1QxWHEwb2c?oc=5",
@@ -82,9 +100,15 @@
       ]
     },
     "18": {
-      "cachedAt": "2026-09-20T09:26:45.862Z",
+      "cachedAt": "2026-09-27T10:10:46.052Z",
       "query": "\"(CIVIL LINES)\" Jaipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Wife’s Brother Kidnaps Railway Officer For Rs 51 Lakh Ransom",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOd19ObU5heHMzeUR1c3loOExscDJZREc3NWxKd2xWemF1bWRnZWVObjNWWFZiTFBMRnhBY0RkdFJmY1lQT1dEc2ItOHd4UThxS1RyM1FrRHJDVUs3ZHlhZWo3NWtTdUUyTm15N1kzZC1pTm5ybzlNYUFRZ2VnZGl6STlBNW9sc2VQTkNCM1NRdEUtZFlnQjIzYjRn?oc=5",
+          "date": "2026-08-27T07:00:00.000Z",
+          "source": "Ommcom News"
+        },
         {
           "title": "Jagan murder: Vishnu arrested from high security jail",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYlppb1EyWGhTOWVYOE5BUkgyLXE0anJsaU5DUTdBMWQ5YzE0dzBndnAxbFJwLUNkcmFRUlJxc2hOdTV1UVlNRW5uUW8tSlA4cS1BVTdHU1FuSGZQcjViNjVjZlRSXzYxd1lUZEJ3QUFFWVJRQXFzbUVmNHJtRG9MZTZIOUpYdEQwd09vaHA2OU9lZXhDVTVfSThUai1BbXo3ekJLQTBNazJEV1RXNEQtbDZfNFFwamtHb1drQXozc2lRaTdM0gHKAUFVX3lxTE51dFVneEZpNXRWZ25pajJ0SFY0aVJ3eV9lREFIMFR3Wlc3Yk9uem9JcWE0OVJKUGhwZnRWa3c1VjJTd1A2Yl9hVEJvVFlEd1B3ZXlKVk0xYllWck9iMGtzYnl6al92Qng5b3l5UGU0N2ZwYldhYVB0QnNneHhid2FFczQ5bVVJckkwQUdIQXRiVDVNTUNTaW1RUE9ZaDN6SjBqdThWMGk5Q2tFQU1nR1ZSeU83ajdqUlRJS3p4eHVIZE1DV1QxWHEwb2c?oc=5",
@@ -100,9 +124,15 @@
       ]
     },
     "19": {
-      "cachedAt": "2026-09-20T09:26:45.862Z",
+      "cachedAt": "2026-09-27T10:10:46.052Z",
       "query": "\"(CIVIL LINES)\" Jaipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Wife’s Brother Kidnaps Railway Officer For Rs 51 Lakh Ransom",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOd19ObU5heHMzeUR1c3loOExscDJZREc3NWxKd2xWemF1bWRnZWVObjNWWFZiTFBMRnhBY0RkdFJmY1lQT1dEc2ItOHd4UThxS1RyM1FrRHJDVUs3ZHlhZWo3NWtTdUUyTm15N1kzZC1pTm5ybzlNYUFRZ2VnZGl6STlBNW9sc2VQTkNCM1NRdEUtZFlnQjIzYjRn?oc=5",
+          "date": "2026-08-27T07:00:00.000Z",
+          "source": "Ommcom News"
+        },
         {
           "title": "Jagan murder: Vishnu arrested from high security jail",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYlppb1EyWGhTOWVYOE5BUkgyLXE0anJsaU5DUTdBMWQ5YzE0dzBndnAxbFJwLUNkcmFRUlJxc2hOdTV1UVlNRW5uUW8tSlA4cS1BVTdHU1FuSGZQcjViNjVjZlRSXzYxd1lUZEJ3QUFFWVJRQXFzbUVmNHJtRG9MZTZIOUpYdEQwd09vaHA2OU9lZXhDVTVfSThUai1BbXo3ekJLQTBNazJEV1RXNEQtbDZfNFFwamtHb1drQXozc2lRaTdM0gHKAUFVX3lxTE51dFVneEZpNXRWZ25pajJ0SFY0aVJ3eV9lREFIMFR3Wlc3Yk9uem9JcWE0OVJKUGhwZnRWa3c1VjJTd1A2Yl9hVEJvVFlEd1B3ZXlKVk0xYllWck9iMGtzYnl6al92Qng5b3l5UGU0N2ZwYldhYVB0QnNneHhid2FFczQ5bVVJckkwQUdIQXRiVDVNTUNTaW1RUE9ZaDN6SjBqdThWMGk5Q2tFQU1nR1ZSeU83ajdqUlRJS3p4eHVIZE1DV1QxWHEwb2c?oc=5",
@@ -118,9 +148,15 @@
       ]
     },
     "20": {
-      "cachedAt": "2026-09-20T09:26:45.862Z",
+      "cachedAt": "2026-09-27T10:10:46.052Z",
       "query": "\"(CIVIL LINES)\" Jaipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Wife’s Brother Kidnaps Railway Officer For Rs 51 Lakh Ransom",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOd19ObU5heHMzeUR1c3loOExscDJZREc3NWxKd2xWemF1bWRnZWVObjNWWFZiTFBMRnhBY0RkdFJmY1lQT1dEc2ItOHd4UThxS1RyM1FrRHJDVUs3ZHlhZWo3NWtTdUUyTm15N1kzZC1pTm5ybzlNYUFRZ2VnZGl6STlBNW9sc2VQTkNCM1NRdEUtZFlnQjIzYjRn?oc=5",
+          "date": "2026-08-27T07:00:00.000Z",
+          "source": "Ommcom News"
+        },
         {
           "title": "Jagan murder: Vishnu arrested from high security jail",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYlppb1EyWGhTOWVYOE5BUkgyLXE0anJsaU5DUTdBMWQ5YzE0dzBndnAxbFJwLUNkcmFRUlJxc2hOdTV1UVlNRW5uUW8tSlA4cS1BVTdHU1FuSGZQcjViNjVjZlRSXzYxd1lUZEJ3QUFFWVJRQXFzbUVmNHJtRG9MZTZIOUpYdEQwd09vaHA2OU9lZXhDVTVfSThUai1BbXo3ekJLQTBNazJEV1RXNEQtbDZfNFFwamtHb1drQXozc2lRaTdM0gHKAUFVX3lxTE51dFVneEZpNXRWZ25pajJ0SFY0aVJ3eV9lREFIMFR3Wlc3Yk9uem9JcWE0OVJKUGhwZnRWa3c1VjJTd1A2Yl9hVEJvVFlEd1B3ZXlKVk0xYllWck9iMGtzYnl6al92Qng5b3l5UGU0N2ZwYldhYVB0QnNneHhid2FFczQ5bVVJckkwQUdIQXRiVDVNTUNTaW1RUE9ZaDN6SjBqdThWMGk5Q2tFQU1nR1ZSeU83ajdqUlRJS3p4eHVIZE1DV1QxWHEwb2c?oc=5",
@@ -136,9 +172,15 @@
       ]
     },
     "21": {
-      "cachedAt": "2026-09-20T09:26:45.862Z",
+      "cachedAt": "2026-09-27T10:10:46.052Z",
       "query": "\"(CIVIL LINES)\" Jaipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Wife’s Brother Kidnaps Railway Officer For Rs 51 Lakh Ransom",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOd19ObU5heHMzeUR1c3loOExscDJZREc3NWxKd2xWemF1bWRnZWVObjNWWFZiTFBMRnhBY0RkdFJmY1lQT1dEc2ItOHd4UThxS1RyM1FrRHJDVUs3ZHlhZWo3NWtTdUUyTm15N1kzZC1pTm5ybzlNYUFRZ2VnZGl6STlBNW9sc2VQTkNCM1NRdEUtZFlnQjIzYjRn?oc=5",
+          "date": "2026-08-27T07:00:00.000Z",
+          "source": "Ommcom News"
+        },
         {
           "title": "Jagan murder: Vishnu arrested from high security jail",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYlppb1EyWGhTOWVYOE5BUkgyLXE0anJsaU5DUTdBMWQ5YzE0dzBndnAxbFJwLUNkcmFRUlJxc2hOdTV1UVlNRW5uUW8tSlA4cS1BVTdHU1FuSGZQcjViNjVjZlRSXzYxd1lUZEJ3QUFFWVJRQXFzbUVmNHJtRG9MZTZIOUpYdEQwd09vaHA2OU9lZXhDVTVfSThUai1BbXo3ekJLQTBNazJEV1RXNEQtbDZfNFFwamtHb1drQXozc2lRaTdM0gHKAUFVX3lxTE51dFVneEZpNXRWZ25pajJ0SFY0aVJ3eV9lREFIMFR3Wlc3Yk9uem9JcWE0OVJKUGhwZnRWa3c1VjJTd1A2Yl9hVEJvVFlEd1B3ZXlKVk0xYllWck9iMGtzYnl6al92Qng5b3l5UGU0N2ZwYldhYVB0QnNneHhid2FFczQ5bVVJckkwQUdIQXRiVDVNTUNTaW1RUE9ZaDN6SjBqdThWMGk5Q2tFQU1nR1ZSeU83ajdqUlRJS3p4eHVIZE1DV1QxWHEwb2c?oc=5",
@@ -154,9 +196,15 @@
       ]
     },
     "22": {
-      "cachedAt": "2026-09-20T09:26:45.862Z",
+      "cachedAt": "2026-09-27T10:10:46.052Z",
       "query": "\"(CIVIL LINES)\" Jaipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Wife’s Brother Kidnaps Railway Officer For Rs 51 Lakh Ransom",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOd19ObU5heHMzeUR1c3loOExscDJZREc3NWxKd2xWemF1bWRnZWVObjNWWFZiTFBMRnhBY0RkdFJmY1lQT1dEc2ItOHd4UThxS1RyM1FrRHJDVUs3ZHlhZWo3NWtTdUUyTm15N1kzZC1pTm5ybzlNYUFRZ2VnZGl6STlBNW9sc2VQTkNCM1NRdEUtZFlnQjIzYjRn?oc=5",
+          "date": "2026-08-27T07:00:00.000Z",
+          "source": "Ommcom News"
+        },
         {
           "title": "Jagan murder: Vishnu arrested from high security jail",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYlppb1EyWGhTOWVYOE5BUkgyLXE0anJsaU5DUTdBMWQ5YzE0dzBndnAxbFJwLUNkcmFRUlJxc2hOdTV1UVlNRW5uUW8tSlA4cS1BVTdHU1FuSGZQcjViNjVjZlRSXzYxd1lUZEJ3QUFFWVJRQXFzbUVmNHJtRG9MZTZIOUpYdEQwd09vaHA2OU9lZXhDVTVfSThUai1BbXo3ekJLQTBNazJEV1RXNEQtbDZfNFFwamtHb1drQXozc2lRaTdM0gHKAUFVX3lxTE51dFVneEZpNXRWZ25pajJ0SFY0aVJ3eV9lREFIMFR3Wlc3Yk9uem9JcWE0OVJKUGhwZnRWa3c1VjJTd1A2Yl9hVEJvVFlEd1B3ZXlKVk0xYllWck9iMGtzYnl6al92Qng5b3l5UGU0N2ZwYldhYVB0QnNneHhid2FFczQ5bVVJckkwQUdIQXRiVDVNTUNTaW1RUE9ZaDN6SjBqdThWMGk5Q2tFQU1nR1ZSeU83ajdqUlRJS3p4eHVIZE1DV1QxWHEwb2c?oc=5",
@@ -172,9 +220,15 @@
       ]
     },
     "23": {
-      "cachedAt": "2026-09-20T09:26:45.862Z",
+      "cachedAt": "2026-09-27T10:10:46.052Z",
       "query": "\"(CIVIL LINES)\" Jaipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Wife’s Brother Kidnaps Railway Officer For Rs 51 Lakh Ransom",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOd19ObU5heHMzeUR1c3loOExscDJZREc3NWxKd2xWemF1bWRnZWVObjNWWFZiTFBMRnhBY0RkdFJmY1lQT1dEc2ItOHd4UThxS1RyM1FrRHJDVUs3ZHlhZWo3NWtTdUUyTm15N1kzZC1pTm5ybzlNYUFRZ2VnZGl6STlBNW9sc2VQTkNCM1NRdEUtZFlnQjIzYjRn?oc=5",
+          "date": "2026-08-27T07:00:00.000Z",
+          "source": "Ommcom News"
+        },
         {
           "title": "Jagan murder: Vishnu arrested from high security jail",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYlppb1EyWGhTOWVYOE5BUkgyLXE0anJsaU5DUTdBMWQ5YzE0dzBndnAxbFJwLUNkcmFRUlJxc2hOdTV1UVlNRW5uUW8tSlA4cS1BVTdHU1FuSGZQcjViNjVjZlRSXzYxd1lUZEJ3QUFFWVJRQXFzbUVmNHJtRG9MZTZIOUpYdEQwd09vaHA2OU9lZXhDVTVfSThUai1BbXo3ekJLQTBNazJEV1RXNEQtbDZfNFFwamtHb1drQXozc2lRaTdM0gHKAUFVX3lxTE51dFVneEZpNXRWZ25pajJ0SFY0aVJ3eV9lREFIMFR3Wlc3Yk9uem9JcWE0OVJKUGhwZnRWa3c1VjJTd1A2Yl9hVEJvVFlEd1B3ZXlKVk0xYllWck9iMGtzYnl6al92Qng5b3l5UGU0N2ZwYldhYVB0QnNneHhid2FFczQ5bVVJckkwQUdIQXRiVDVNTUNTaW1RUE9ZaDN6SjBqdThWMGk5Q2tFQU1nR1ZSeU83ajdqUlRJS3p4eHVIZE1DV1QxWHEwb2c?oc=5",
@@ -190,14 +244,20 @@
       ]
     },
     "24": {
-      "cachedAt": "2026-09-20T09:26:45.862Z",
+      "cachedAt": "2026-09-27T10:10:46.052Z",
       "query": "\"(SANGANER)\" Jaipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "70-year-old wife kills husband with son: Body stuffed in sack after limbs bent; tempo driver reveals murder",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONzdKLTFGb3NOYVVTTXpZZDlIcHlublBQenJONGhYdzMzR3ZSTk1sYVRfbHhZUmdjeHlfd1BzU211OXdueHloOW40cnpTaTdCeGFiZmxEWnJmSW9RMENPcFdVTlhKd0JrVGdfSUFHZnhRSDI1SVYyUUFPejdjeUFFbHQwS3JFeVdHUTRQUUx2RWNnUUpsbExUQV92cERQZktMS3ZUbEtES3dYMGE4QkVIdjRxUUNUN1YtSWfSAb8BQVVfeXFMTlRUM2pyT21pVW44UVd3bTZMMEVkejNnMV9DZlBaaEVEeEFSVWJYelh2UjlON2pPclpSREp2b1NoTmU2ZlU3X1FRUGVqLTg2RTFZTlhrMDQ2Q1BVbEVZVGt0WF82emNDbG1HOEdnQ1VFVGdYaXQ2SjVrSG40d3VCS3JWR1dWR2ZsTEV5VFRlVGNmcDdVWEM4ZmVfNzlSQUpMeTFyTE5LZ29PUnpDMHhWZm1kd2hINUdqZTgyUzRsTGc?oc=5",
+          "date": "2026-08-18T07:00:00.000Z",
+          "source": "Bhaskar English"
+        },
         {
           "title": "Prisoner shot dead in Jaipur while being taken to jail: Prisoner serving sentence for murder shot 3-times i...",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc21fS1BhVldTTFdNTjdLY1FHeGtfQ2laLWpSRkp4bTNibE14dVhNREE1bzZEQXhzaUVyZjl6RUg1RkFoakpsZTJjUloyUWNEQ2lRTXl4VkJXYkp2U2xLLWFFNlJKSWRCNEpISFNZYVdUWHFCUEFDS1c0aWhIX1VGSndCQ3RUMF9DZ29oOTJReWMyQkY4SkFiQmdFUVBoVjhCTHoxZWlEMzdzVWdBU096OVpFV29iU3dQVWpQRzZyYmc1QVpzNDNGWjRqNNIB0AFBVV95cUxNNEtnWmF3UlhkMEdmR2NaUl9yU0tWaGhpN2pvUmJRdXZOSjJsT3ZRM0V3YmZ2UklUUUJhYzFjOGhRZDVYYnRwUkdvRDg0dVBzMjhvbzhzdmVpRVN3REpfSHlQM2lrM3BwU0g4Wmg5M2tLVVBJMjJEWklyYktVNDY1bGJkcHNaejZzNElGZjk4ZkFhZFBCbC1lbkI3d0xLUGQ4aTR0YkFPQndKaG45dkVKQXNqclJlbWMyUjYxR1pnMDNOZ0ZQWDQtRl8wa2lzZWYz?oc=5",
           "date": "2026-08-12T15:21:08.000Z",
-          "source": "bhaskarenglish.in"
+          "source": "Bhaskar English"
         },
         {
           "title": "SOG cracks two major job scams, arrests JVVNL staffer, teacher",
@@ -214,14 +274,20 @@
       ]
     },
     "25": {
-      "cachedAt": "2026-09-20T09:26:45.862Z",
+      "cachedAt": "2026-09-27T10:10:46.052Z",
       "query": "\"(SANGANER)\" Jaipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "70-year-old wife kills husband with son: Body stuffed in sack after limbs bent; tempo driver reveals murder",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONzdKLTFGb3NOYVVTTXpZZDlIcHlublBQenJONGhYdzMzR3ZSTk1sYVRfbHhZUmdjeHlfd1BzU211OXdueHloOW40cnpTaTdCeGFiZmxEWnJmSW9RMENPcFdVTlhKd0JrVGdfSUFHZnhRSDI1SVYyUUFPejdjeUFFbHQwS3JFeVdHUTRQUUx2RWNnUUpsbExUQV92cERQZktMS3ZUbEtES3dYMGE4QkVIdjRxUUNUN1YtSWfSAb8BQVVfeXFMTlRUM2pyT21pVW44UVd3bTZMMEVkejNnMV9DZlBaaEVEeEFSVWJYelh2UjlON2pPclpSREp2b1NoTmU2ZlU3X1FRUGVqLTg2RTFZTlhrMDQ2Q1BVbEVZVGt0WF82emNDbG1HOEdnQ1VFVGdYaXQ2SjVrSG40d3VCS3JWR1dWR2ZsTEV5VFRlVGNmcDdVWEM4ZmVfNzlSQUpMeTFyTE5LZ29PUnpDMHhWZm1kd2hINUdqZTgyUzRsTGc?oc=5",
+          "date": "2026-08-18T07:00:00.000Z",
+          "source": "Bhaskar English"
+        },
         {
           "title": "Prisoner shot dead in Jaipur while being taken to jail: Prisoner serving sentence for murder shot 3-times i...",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc21fS1BhVldTTFdNTjdLY1FHeGtfQ2laLWpSRkp4bTNibE14dVhNREE1bzZEQXhzaUVyZjl6RUg1RkFoakpsZTJjUloyUWNEQ2lRTXl4VkJXYkp2U2xLLWFFNlJKSWRCNEpISFNZYVdUWHFCUEFDS1c0aWhIX1VGSndCQ3RUMF9DZ29oOTJReWMyQkY4SkFiQmdFUVBoVjhCTHoxZWlEMzdzVWdBU096OVpFV29iU3dQVWpQRzZyYmc1QVpzNDNGWjRqNNIB0AFBVV95cUxNNEtnWmF3UlhkMEdmR2NaUl9yU0tWaGhpN2pvUmJRdXZOSjJsT3ZRM0V3YmZ2UklUUUJhYzFjOGhRZDVYYnRwUkdvRDg0dVBzMjhvbzhzdmVpRVN3REpfSHlQM2lrM3BwU0g4Wmg5M2tLVVBJMjJEWklyYktVNDY1bGJkcHNaejZzNElGZjk4ZkFhZFBCbC1lbkI3d0xLUGQ4aTR0YkFPQndKaG45dkVKQXNqclJlbWMyUjYxR1pnMDNOZ0ZQWDQtRl8wa2lzZWYz?oc=5",
           "date": "2026-08-12T15:21:08.000Z",
-          "source": "bhaskarenglish.in"
+          "source": "Bhaskar English"
         },
         {
           "title": "SOG cracks two major job scams, arrests JVVNL staffer, teacher",
@@ -238,14 +304,20 @@
       ]
     },
     "26": {
-      "cachedAt": "2026-09-20T09:26:45.862Z",
+      "cachedAt": "2026-09-27T10:10:46.052Z",
       "query": "\"(SANGANER)\" Jaipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "70-year-old wife kills husband with son: Body stuffed in sack after limbs bent; tempo driver reveals murder",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONzdKLTFGb3NOYVVTTXpZZDlIcHlublBQenJONGhYdzMzR3ZSTk1sYVRfbHhZUmdjeHlfd1BzU211OXdueHloOW40cnpTaTdCeGFiZmxEWnJmSW9RMENPcFdVTlhKd0JrVGdfSUFHZnhRSDI1SVYyUUFPejdjeUFFbHQwS3JFeVdHUTRQUUx2RWNnUUpsbExUQV92cERQZktMS3ZUbEtES3dYMGE4QkVIdjRxUUNUN1YtSWfSAb8BQVVfeXFMTlRUM2pyT21pVW44UVd3bTZMMEVkejNnMV9DZlBaaEVEeEFSVWJYelh2UjlON2pPclpSREp2b1NoTmU2ZlU3X1FRUGVqLTg2RTFZTlhrMDQ2Q1BVbEVZVGt0WF82emNDbG1HOEdnQ1VFVGdYaXQ2SjVrSG40d3VCS3JWR1dWR2ZsTEV5VFRlVGNmcDdVWEM4ZmVfNzlSQUpMeTFyTE5LZ29PUnpDMHhWZm1kd2hINUdqZTgyUzRsTGc?oc=5",
+          "date": "2026-08-18T07:00:00.000Z",
+          "source": "Bhaskar English"
+        },
         {
           "title": "Prisoner shot dead in Jaipur while being taken to jail: Prisoner serving sentence for murder shot 3-times i...",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc21fS1BhVldTTFdNTjdLY1FHeGtfQ2laLWpSRkp4bTNibE14dVhNREE1bzZEQXhzaUVyZjl6RUg1RkFoakpsZTJjUloyUWNEQ2lRTXl4VkJXYkp2U2xLLWFFNlJKSWRCNEpISFNZYVdUWHFCUEFDS1c0aWhIX1VGSndCQ3RUMF9DZ29oOTJReWMyQkY4SkFiQmdFUVBoVjhCTHoxZWlEMzdzVWdBU096OVpFV29iU3dQVWpQRzZyYmc1QVpzNDNGWjRqNNIB0AFBVV95cUxNNEtnWmF3UlhkMEdmR2NaUl9yU0tWaGhpN2pvUmJRdXZOSjJsT3ZRM0V3YmZ2UklUUUJhYzFjOGhRZDVYYnRwUkdvRDg0dVBzMjhvbzhzdmVpRVN3REpfSHlQM2lrM3BwU0g4Wmg5M2tLVVBJMjJEWklyYktVNDY1bGJkcHNaejZzNElGZjk4ZkFhZFBCbC1lbkI3d0xLUGQ4aTR0YkFPQndKaG45dkVKQXNqclJlbWMyUjYxR1pnMDNOZ0ZQWDQtRl8wa2lzZWYz?oc=5",
           "date": "2026-08-12T15:21:08.000Z",
-          "source": "bhaskarenglish.in"
+          "source": "Bhaskar English"
         },
         {
           "title": "SOG cracks two major job scams, arrests JVVNL staffer, teacher",
@@ -262,14 +334,20 @@
       ]
     },
     "27": {
-      "cachedAt": "2026-09-20T09:26:45.862Z",
+      "cachedAt": "2026-09-27T10:10:46.052Z",
       "query": "\"(SANGANER)\" Jaipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "70-year-old wife kills husband with son: Body stuffed in sack after limbs bent; tempo driver reveals murder",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONzdKLTFGb3NOYVVTTXpZZDlIcHlublBQenJONGhYdzMzR3ZSTk1sYVRfbHhZUmdjeHlfd1BzU211OXdueHloOW40cnpTaTdCeGFiZmxEWnJmSW9RMENPcFdVTlhKd0JrVGdfSUFHZnhRSDI1SVYyUUFPejdjeUFFbHQwS3JFeVdHUTRQUUx2RWNnUUpsbExUQV92cERQZktMS3ZUbEtES3dYMGE4QkVIdjRxUUNUN1YtSWfSAb8BQVVfeXFMTlRUM2pyT21pVW44UVd3bTZMMEVkejNnMV9DZlBaaEVEeEFSVWJYelh2UjlON2pPclpSREp2b1NoTmU2ZlU3X1FRUGVqLTg2RTFZTlhrMDQ2Q1BVbEVZVGt0WF82emNDbG1HOEdnQ1VFVGdYaXQ2SjVrSG40d3VCS3JWR1dWR2ZsTEV5VFRlVGNmcDdVWEM4ZmVfNzlSQUpMeTFyTE5LZ29PUnpDMHhWZm1kd2hINUdqZTgyUzRsTGc?oc=5",
+          "date": "2026-08-18T07:00:00.000Z",
+          "source": "Bhaskar English"
+        },
         {
           "title": "Prisoner shot dead in Jaipur while being taken to jail: Prisoner serving sentence for murder shot 3-times i...",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc21fS1BhVldTTFdNTjdLY1FHeGtfQ2laLWpSRkp4bTNibE14dVhNREE1bzZEQXhzaUVyZjl6RUg1RkFoakpsZTJjUloyUWNEQ2lRTXl4VkJXYkp2U2xLLWFFNlJKSWRCNEpISFNZYVdUWHFCUEFDS1c0aWhIX1VGSndCQ3RUMF9DZ29oOTJReWMyQkY4SkFiQmdFUVBoVjhCTHoxZWlEMzdzVWdBU096OVpFV29iU3dQVWpQRzZyYmc1QVpzNDNGWjRqNNIB0AFBVV95cUxNNEtnWmF3UlhkMEdmR2NaUl9yU0tWaGhpN2pvUmJRdXZOSjJsT3ZRM0V3YmZ2UklUUUJhYzFjOGhRZDVYYnRwUkdvRDg0dVBzMjhvbzhzdmVpRVN3REpfSHlQM2lrM3BwU0g4Wmg5M2tLVVBJMjJEWklyYktVNDY1bGJkcHNaejZzNElGZjk4ZkFhZFBCbC1lbkI3d0xLUGQ4aTR0YkFPQndKaG45dkVKQXNqclJlbWMyUjYxR1pnMDNOZ0ZQWDQtRl8wa2lzZWYz?oc=5",
           "date": "2026-08-12T15:21:08.000Z",
-          "source": "bhaskarenglish.in"
+          "source": "Bhaskar English"
         },
         {
           "title": "SOG cracks two major job scams, arrests JVVNL staffer, teacher",
@@ -286,14 +364,20 @@
       ]
     },
     "28": {
-      "cachedAt": "2026-09-20T09:26:45.862Z",
+      "cachedAt": "2026-09-27T10:10:46.052Z",
       "query": "\"(SANGANER)\" Jaipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "70-year-old wife kills husband with son: Body stuffed in sack after limbs bent; tempo driver reveals murder",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONzdKLTFGb3NOYVVTTXpZZDlIcHlublBQenJONGhYdzMzR3ZSTk1sYVRfbHhZUmdjeHlfd1BzU211OXdueHloOW40cnpTaTdCeGFiZmxEWnJmSW9RMENPcFdVTlhKd0JrVGdfSUFHZnhRSDI1SVYyUUFPejdjeUFFbHQwS3JFeVdHUTRQUUx2RWNnUUpsbExUQV92cERQZktMS3ZUbEtES3dYMGE4QkVIdjRxUUNUN1YtSWfSAb8BQVVfeXFMTlRUM2pyT21pVW44UVd3bTZMMEVkejNnMV9DZlBaaEVEeEFSVWJYelh2UjlON2pPclpSREp2b1NoTmU2ZlU3X1FRUGVqLTg2RTFZTlhrMDQ2Q1BVbEVZVGt0WF82emNDbG1HOEdnQ1VFVGdYaXQ2SjVrSG40d3VCS3JWR1dWR2ZsTEV5VFRlVGNmcDdVWEM4ZmVfNzlSQUpMeTFyTE5LZ29PUnpDMHhWZm1kd2hINUdqZTgyUzRsTGc?oc=5",
+          "date": "2026-08-18T07:00:00.000Z",
+          "source": "Bhaskar English"
+        },
         {
           "title": "Prisoner shot dead in Jaipur while being taken to jail: Prisoner serving sentence for murder shot 3-times i...",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc21fS1BhVldTTFdNTjdLY1FHeGtfQ2laLWpSRkp4bTNibE14dVhNREE1bzZEQXhzaUVyZjl6RUg1RkFoakpsZTJjUloyUWNEQ2lRTXl4VkJXYkp2U2xLLWFFNlJKSWRCNEpISFNZYVdUWHFCUEFDS1c0aWhIX1VGSndCQ3RUMF9DZ29oOTJReWMyQkY4SkFiQmdFUVBoVjhCTHoxZWlEMzdzVWdBU096OVpFV29iU3dQVWpQRzZyYmc1QVpzNDNGWjRqNNIB0AFBVV95cUxNNEtnWmF3UlhkMEdmR2NaUl9yU0tWaGhpN2pvUmJRdXZOSjJsT3ZRM0V3YmZ2UklUUUJhYzFjOGhRZDVYYnRwUkdvRDg0dVBzMjhvbzhzdmVpRVN3REpfSHlQM2lrM3BwU0g4Wmg5M2tLVVBJMjJEWklyYktVNDY1bGJkcHNaejZzNElGZjk4ZkFhZFBCbC1lbkI3d0xLUGQ4aTR0YkFPQndKaG45dkVKQXNqclJlbWMyUjYxR1pnMDNOZ0ZQWDQtRl8wa2lzZWYz?oc=5",
           "date": "2026-08-12T15:21:08.000Z",
-          "source": "bhaskarenglish.in"
+          "source": "Bhaskar English"
         },
         {
           "title": "SOG cracks two major job scams, arrests JVVNL staffer, teacher",
@@ -310,14 +394,20 @@
       ]
     },
     "29": {
-      "cachedAt": "2026-09-20T09:26:45.862Z",
+      "cachedAt": "2026-09-27T10:10:46.052Z",
       "query": "\"(SANGANER)\" Jaipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "70-year-old wife kills husband with son: Body stuffed in sack after limbs bent; tempo driver reveals murder",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONzdKLTFGb3NOYVVTTXpZZDlIcHlublBQenJONGhYdzMzR3ZSTk1sYVRfbHhZUmdjeHlfd1BzU211OXdueHloOW40cnpTaTdCeGFiZmxEWnJmSW9RMENPcFdVTlhKd0JrVGdfSUFHZnhRSDI1SVYyUUFPejdjeUFFbHQwS3JFeVdHUTRQUUx2RWNnUUpsbExUQV92cERQZktMS3ZUbEtES3dYMGE4QkVIdjRxUUNUN1YtSWfSAb8BQVVfeXFMTlRUM2pyT21pVW44UVd3bTZMMEVkejNnMV9DZlBaaEVEeEFSVWJYelh2UjlON2pPclpSREp2b1NoTmU2ZlU3X1FRUGVqLTg2RTFZTlhrMDQ2Q1BVbEVZVGt0WF82emNDbG1HOEdnQ1VFVGdYaXQ2SjVrSG40d3VCS3JWR1dWR2ZsTEV5VFRlVGNmcDdVWEM4ZmVfNzlSQUpMeTFyTE5LZ29PUnpDMHhWZm1kd2hINUdqZTgyUzRsTGc?oc=5",
+          "date": "2026-08-18T07:00:00.000Z",
+          "source": "Bhaskar English"
+        },
         {
           "title": "Prisoner shot dead in Jaipur while being taken to jail: Prisoner serving sentence for murder shot 3-times i...",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc21fS1BhVldTTFdNTjdLY1FHeGtfQ2laLWpSRkp4bTNibE14dVhNREE1bzZEQXhzaUVyZjl6RUg1RkFoakpsZTJjUloyUWNEQ2lRTXl4VkJXYkp2U2xLLWFFNlJKSWRCNEpISFNZYVdUWHFCUEFDS1c0aWhIX1VGSndCQ3RUMF9DZ29oOTJReWMyQkY4SkFiQmdFUVBoVjhCTHoxZWlEMzdzVWdBU096OVpFV29iU3dQVWpQRzZyYmc1QVpzNDNGWjRqNNIB0AFBVV95cUxNNEtnWmF3UlhkMEdmR2NaUl9yU0tWaGhpN2pvUmJRdXZOSjJsT3ZRM0V3YmZ2UklUUUJhYzFjOGhRZDVYYnRwUkdvRDg0dVBzMjhvbzhzdmVpRVN3REpfSHlQM2lrM3BwU0g4Wmg5M2tLVVBJMjJEWklyYktVNDY1bGJkcHNaejZzNElGZjk4ZkFhZFBCbC1lbkI3d0xLUGQ4aTR0YkFPQndKaG45dkVKQXNqclJlbWMyUjYxR1pnMDNOZ0ZQWDQtRl8wa2lzZWYz?oc=5",
           "date": "2026-08-12T15:21:08.000Z",
-          "source": "bhaskarenglish.in"
+          "source": "Bhaskar English"
         },
         {
           "title": "SOG cracks two major job scams, arrests JVVNL staffer, teacher",
@@ -334,14 +424,20 @@
       ]
     },
     "30": {
-      "cachedAt": "2026-09-20T09:26:45.862Z",
+      "cachedAt": "2026-09-27T10:10:46.052Z",
       "query": "\"(SANGANER)\" Jaipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "70-year-old wife kills husband with son: Body stuffed in sack after limbs bent; tempo driver reveals murder",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONzdKLTFGb3NOYVVTTXpZZDlIcHlublBQenJONGhYdzMzR3ZSTk1sYVRfbHhZUmdjeHlfd1BzU211OXdueHloOW40cnpTaTdCeGFiZmxEWnJmSW9RMENPcFdVTlhKd0JrVGdfSUFHZnhRSDI1SVYyUUFPejdjeUFFbHQwS3JFeVdHUTRQUUx2RWNnUUpsbExUQV92cERQZktMS3ZUbEtES3dYMGE4QkVIdjRxUUNUN1YtSWfSAb8BQVVfeXFMTlRUM2pyT21pVW44UVd3bTZMMEVkejNnMV9DZlBaaEVEeEFSVWJYelh2UjlON2pPclpSREp2b1NoTmU2ZlU3X1FRUGVqLTg2RTFZTlhrMDQ2Q1BVbEVZVGt0WF82emNDbG1HOEdnQ1VFVGdYaXQ2SjVrSG40d3VCS3JWR1dWR2ZsTEV5VFRlVGNmcDdVWEM4ZmVfNzlSQUpMeTFyTE5LZ29PUnpDMHhWZm1kd2hINUdqZTgyUzRsTGc?oc=5",
+          "date": "2026-08-18T07:00:00.000Z",
+          "source": "Bhaskar English"
+        },
         {
           "title": "Prisoner shot dead in Jaipur while being taken to jail: Prisoner serving sentence for murder shot 3-times i...",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc21fS1BhVldTTFdNTjdLY1FHeGtfQ2laLWpSRkp4bTNibE14dVhNREE1bzZEQXhzaUVyZjl6RUg1RkFoakpsZTJjUloyUWNEQ2lRTXl4VkJXYkp2U2xLLWFFNlJKSWRCNEpISFNZYVdUWHFCUEFDS1c0aWhIX1VGSndCQ3RUMF9DZ29oOTJReWMyQkY4SkFiQmdFUVBoVjhCTHoxZWlEMzdzVWdBU096OVpFV29iU3dQVWpQRzZyYmc1QVpzNDNGWjRqNNIB0AFBVV95cUxNNEtnWmF3UlhkMEdmR2NaUl9yU0tWaGhpN2pvUmJRdXZOSjJsT3ZRM0V3YmZ2UklUUUJhYzFjOGhRZDVYYnRwUkdvRDg0dVBzMjhvbzhzdmVpRVN3REpfSHlQM2lrM3BwU0g4Wmg5M2tLVVBJMjJEWklyYktVNDY1bGJkcHNaejZzNElGZjk4ZkFhZFBCbC1lbkI3d0xLUGQ4aTR0YkFPQndKaG45dkVKQXNqclJlbWMyUjYxR1pnMDNOZ0ZQWDQtRl8wa2lzZWYz?oc=5",
           "date": "2026-08-12T15:21:08.000Z",
-          "source": "bhaskarenglish.in"
+          "source": "Bhaskar English"
         },
         {
           "title": "SOG cracks two major job scams, arrests JVVNL staffer, teacher",
@@ -358,14 +454,20 @@
       ]
     },
     "31": {
-      "cachedAt": "2026-09-20T09:26:45.862Z",
+      "cachedAt": "2026-09-27T10:10:46.052Z",
       "query": "\"(SANGANER)\" Jaipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "70-year-old wife kills husband with son: Body stuffed in sack after limbs bent; tempo driver reveals murder",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONzdKLTFGb3NOYVVTTXpZZDlIcHlublBQenJONGhYdzMzR3ZSTk1sYVRfbHhZUmdjeHlfd1BzU211OXdueHloOW40cnpTaTdCeGFiZmxEWnJmSW9RMENPcFdVTlhKd0JrVGdfSUFHZnhRSDI1SVYyUUFPejdjeUFFbHQwS3JFeVdHUTRQUUx2RWNnUUpsbExUQV92cERQZktMS3ZUbEtES3dYMGE4QkVIdjRxUUNUN1YtSWfSAb8BQVVfeXFMTlRUM2pyT21pVW44UVd3bTZMMEVkejNnMV9DZlBaaEVEeEFSVWJYelh2UjlON2pPclpSREp2b1NoTmU2ZlU3X1FRUGVqLTg2RTFZTlhrMDQ2Q1BVbEVZVGt0WF82emNDbG1HOEdnQ1VFVGdYaXQ2SjVrSG40d3VCS3JWR1dWR2ZsTEV5VFRlVGNmcDdVWEM4ZmVfNzlSQUpMeTFyTE5LZ29PUnpDMHhWZm1kd2hINUdqZTgyUzRsTGc?oc=5",
+          "date": "2026-08-18T07:00:00.000Z",
+          "source": "Bhaskar English"
+        },
         {
           "title": "Prisoner shot dead in Jaipur while being taken to jail: Prisoner serving sentence for murder shot 3-times i...",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc21fS1BhVldTTFdNTjdLY1FHeGtfQ2laLWpSRkp4bTNibE14dVhNREE1bzZEQXhzaUVyZjl6RUg1RkFoakpsZTJjUloyUWNEQ2lRTXl4VkJXYkp2U2xLLWFFNlJKSWRCNEpISFNZYVdUWHFCUEFDS1c0aWhIX1VGSndCQ3RUMF9DZ29oOTJReWMyQkY4SkFiQmdFUVBoVjhCTHoxZWlEMzdzVWdBU096OVpFV29iU3dQVWpQRzZyYmc1QVpzNDNGWjRqNNIB0AFBVV95cUxNNEtnWmF3UlhkMEdmR2NaUl9yU0tWaGhpN2pvUmJRdXZOSjJsT3ZRM0V3YmZ2UklUUUJhYzFjOGhRZDVYYnRwUkdvRDg0dVBzMjhvbzhzdmVpRVN3REpfSHlQM2lrM3BwU0g4Wmg5M2tLVVBJMjJEWklyYktVNDY1bGJkcHNaejZzNElGZjk4ZkFhZFBCbC1lbkI3d0xLUGQ4aTR0YkFPQndKaG45dkVKQXNqclJlbWMyUjYxR1pnMDNOZ0ZQWDQtRl8wa2lzZWYz?oc=5",
           "date": "2026-08-12T15:21:08.000Z",
-          "source": "bhaskarenglish.in"
+          "source": "Bhaskar English"
         },
         {
           "title": "SOG cracks two major job scams, arrests JVVNL staffer, teacher",
@@ -382,14 +484,20 @@
       ]
     },
     "32": {
-      "cachedAt": "2026-09-20T09:26:45.862Z",
+      "cachedAt": "2026-09-27T10:10:46.052Z",
       "query": "\"(SANGANER)\" Jaipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "70-year-old wife kills husband with son: Body stuffed in sack after limbs bent; tempo driver reveals murder",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONzdKLTFGb3NOYVVTTXpZZDlIcHlublBQenJONGhYdzMzR3ZSTk1sYVRfbHhZUmdjeHlfd1BzU211OXdueHloOW40cnpTaTdCeGFiZmxEWnJmSW9RMENPcFdVTlhKd0JrVGdfSUFHZnhRSDI1SVYyUUFPejdjeUFFbHQwS3JFeVdHUTRQUUx2RWNnUUpsbExUQV92cERQZktMS3ZUbEtES3dYMGE4QkVIdjRxUUNUN1YtSWfSAb8BQVVfeXFMTlRUM2pyT21pVW44UVd3bTZMMEVkejNnMV9DZlBaaEVEeEFSVWJYelh2UjlON2pPclpSREp2b1NoTmU2ZlU3X1FRUGVqLTg2RTFZTlhrMDQ2Q1BVbEVZVGt0WF82emNDbG1HOEdnQ1VFVGdYaXQ2SjVrSG40d3VCS3JWR1dWR2ZsTEV5VFRlVGNmcDdVWEM4ZmVfNzlSQUpMeTFyTE5LZ29PUnpDMHhWZm1kd2hINUdqZTgyUzRsTGc?oc=5",
+          "date": "2026-08-18T07:00:00.000Z",
+          "source": "Bhaskar English"
+        },
         {
           "title": "Prisoner shot dead in Jaipur while being taken to jail: Prisoner serving sentence for murder shot 3-times i...",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc21fS1BhVldTTFdNTjdLY1FHeGtfQ2laLWpSRkp4bTNibE14dVhNREE1bzZEQXhzaUVyZjl6RUg1RkFoakpsZTJjUloyUWNEQ2lRTXl4VkJXYkp2U2xLLWFFNlJKSWRCNEpISFNZYVdUWHFCUEFDS1c0aWhIX1VGSndCQ3RUMF9DZ29oOTJReWMyQkY4SkFiQmdFUVBoVjhCTHoxZWlEMzdzVWdBU096OVpFV29iU3dQVWpQRzZyYmc1QVpzNDNGWjRqNNIB0AFBVV95cUxNNEtnWmF3UlhkMEdmR2NaUl9yU0tWaGhpN2pvUmJRdXZOSjJsT3ZRM0V3YmZ2UklUUUJhYzFjOGhRZDVYYnRwUkdvRDg0dVBzMjhvbzhzdmVpRVN3REpfSHlQM2lrM3BwU0g4Wmg5M2tLVVBJMjJEWklyYktVNDY1bGJkcHNaejZzNElGZjk4ZkFhZFBCbC1lbkI3d0xLUGQ4aTR0YkFPQndKaG45dkVKQXNqclJlbWMyUjYxR1pnMDNOZ0ZQWDQtRl8wa2lzZWYz?oc=5",
           "date": "2026-08-12T15:21:08.000Z",
-          "source": "bhaskarenglish.in"
+          "source": "Bhaskar English"
         },
         {
           "title": "SOG cracks two major job scams, arrests JVVNL staffer, teacher",
@@ -406,46 +514,46 @@
       ]
     },
     "33": {
-      "cachedAt": "2026-09-20T09:26:45.862Z",
+      "cachedAt": "2026-09-27T10:10:46.052Z",
       "query": "\"(BAGRU ANSIK)\" Jaipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "34": {
-      "cachedAt": "2026-09-20T09:26:45.862Z",
+      "cachedAt": "2026-09-27T10:10:46.052Z",
       "query": "\"(BAGRU ANSIK)\" Jaipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "35": {
-      "cachedAt": "2026-09-20T09:26:45.862Z",
+      "cachedAt": "2026-09-27T10:10:46.052Z",
       "query": "\"(BAGRU ANSIK)\" Jaipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "36": {
-      "cachedAt": "2026-09-20T09:26:45.862Z",
+      "cachedAt": "2026-09-27T10:10:46.052Z",
       "query": "\"(BAGRU ANSIK)\" Jaipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "37": {
-      "cachedAt": "2026-09-20T09:26:45.862Z",
+      "cachedAt": "2026-09-27T10:10:46.052Z",
       "query": "\"(MALVIYA NAGAR)\" Jaipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
           "title": "Jaipur triple murder accused threatens eyewitness from jail: Wanted to become a serial killer; security lat...",
           "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTXhtT2tqTzVoX1k3NzdSYjZadzN6LVUtUTlRN21fbW1ULVR4R05Jdk9qd1hVLUxadmttaWdIMVNOV2pISlRPRVZwQ3N5dDFJUmFuU0hMMnlCd3cxLUU4VlZCV1JZcnBPa3NUeXZCUG4yYmp1YUFyRFJ4YWNSSnd2TWtfU3FTY3NkTjc4cl9KQk82WVdPMmVqWTdNTlFmYkdUQ3g1TkxsdU5UNG53V2lrS1lSYmlSSWVfV2J1azdhS09ELVZjcHdwOWNnVnFEcHZwUmE4R2VEdGd1SDDSAeABQVVfeXFMUEs2Tl9GY0R1UHoyNlN5enMtaXJOUU5mUzh6QW9XbWZ1RGRYZkc1ZUd1d2pjV0gtUmc2OEpRS3IybGZ0S0ZCMlhtcUI1bTBZSFQtX3phWnJGdlRlZFdialpGdFIxSm0wMy1VR0NRZmVXRWlSWXByYl9wRjE3QWNleElwRlQtTkpSRERQWThza2VBVW12b2NQRkRCN0UyQTFDblRrSEV6X2ZnelF1U2lHTXpGdGZVa3BZYUZOUkVkUVpoR3gxb3NoRGFmLUNydHdyMnFYSjlqMTNLX2FEd05ial8?oc=5",
           "date": "2026-08-01T07:00:00.000Z",
-          "source": "bhaskarenglish.in"
+          "source": "Bhaskar English"
         },
         {
           "title": "Nagpur Man Arrested Over Fake Online Trading Scam Targeting Jaipur Doctor",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMDAxMkpmZU5XdFdVZnRIUjVfclNtQnVtT3VPVHVjZWtHTTlhSTdCVkU0RjVpN2htVlpXNWVCSFlrLTR3LW84MjJZSEN2cl9MYnhvbXdMY013RDlUelRaNmFIUllKWlhRbTFzYjNXN09lM0Q5bkRmS0tPMUg3aS1FbHRNNHRCQUU?oc=5",
           "date": "2026-07-12T07:00:00.000Z",
-          "source": "the420.in"
+          "source": "The420.in"
         },
         {
-          "title": "Jaipur WTP Viral Video: Girl Was Arrested for Obscenity? No Formal Arrest, Say Police",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTU5QSlB1S1lkSnhmRFR2d3N4YWZtTGFZeTY5ZUJoVDU3Yi1WdDJFUTlJbkwwajVZSE9tMnJSbldUM1l3bG0yWWc1QmpFbE5NYl9Va0lfQUVUbGg3dFAyZHAteXJvZWlXUjNwNGx4RmpaaVVLb0VHVGJ2VUwwbjZMb1lRTEVpTjl6bDhWVFBQWloxT2Y3UGk5M2NITE0zd2wwX0tLSFhiemhFU1h3TmdEVURZT19OUVRrR19RUFJPQzAxRUZfQnM3TlY3MNIB0AFBVV95cUxNSDY0Qm9OZ2FwUWFiUHU3YVFlejhna3luSHZyb3JvMU1sRm5wNEVGNnF6eVZmLTA2dWtvTXJGMzdGMnk1YUg2N0lWLUtJYjVLRUQteW5HQVBiTkthc1JIcmNsUkVCNTVKNGFwX1B3cEt1WGJ0NzhGcDhXWDRhV2Zqb29pd1ZBVFVkQVJuLWxNNVk4ck5BYWcwTVNZOEU5TmdRTkhtX0xObjFSQ0E3MXdhbWluaFEtNXh1Y002X0ViX3AtMkc0aTE2c0ZOS0wyZkFJ?oc=5",
-          "date": "2026-06-24T07:00:00.000Z",
-          "source": "LatestLY"
+          "title": "Jaipur: Main suspect held in firecracker unit explosion that claimed 8 lives",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORTctMGNnX2RGdHBPMHRoelFOamhzeWIyWUlrc3I3Wm56WEUyS3AxaTVkOU1WOWVwNXdZNkdQeU1zb3VDckM5NC1RT05rRkNja0R6U0JXQ3VSV2pVU1lJQklIWHdyR0hDWmgtY0x6V3Z5TDFjLVdPTXBSSlBidGRNUF9OMlpsMk15dUtneEJqLUxQNkhsdXFBSkFzZVFzNnVQN3VsVXI0RThXZ0hoRUtpQl9SVjloZEYzSm1fRENORkJpTDlsV0VJWlVhUkdwMGJuRkxoVXFxTGUtOG1PRUlGc1Bnc9IB6AFBVV95cUxNRzVUWm5ubE8zTXhUeHJrXzEtejNjNUJFOEVhNEh3cVZmY0kwMXhHcWRVM0NabVJROG1GWlFXU08yTkdVSC1OTEd1aXUxaXgxZ1ZmTkh2SkVCdk5JVG9adFZqNHFTMmJvbUo1eU9BekVOYzRJU1hZMkg3TUl5eUFydWFGc2lnY3ExcTl6TUdZSFd1MjZ6SnRKd1Fpa3hRVHhYb2E5UkZiX1FaNzJXVk8tUmFUVFd0MWxHT0FVQUNERnNPNExyRU02Z0JoYTJzQThRaFZFdjlzOWNvb25CM2hXdW9zcWRieE0y?oc=5",
+          "date": "2026-06-16T07:00:00.000Z",
+          "source": "The Times of India"
         },
         {
           "title": "Rohit Godara gang shooter, key arms supplier arrested in Punjab",
@@ -456,26 +564,26 @@
       ]
     },
     "38": {
-      "cachedAt": "2026-09-20T09:26:45.862Z",
+      "cachedAt": "2026-09-27T10:10:46.052Z",
       "query": "\"(MALVIYA NAGAR)\" Jaipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
           "title": "Jaipur triple murder accused threatens eyewitness from jail: Wanted to become a serial killer; security lat...",
           "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTXhtT2tqTzVoX1k3NzdSYjZadzN6LVUtUTlRN21fbW1ULVR4R05Jdk9qd1hVLUxadmttaWdIMVNOV2pISlRPRVZwQ3N5dDFJUmFuU0hMMnlCd3cxLUU4VlZCV1JZcnBPa3NUeXZCUG4yYmp1YUFyRFJ4YWNSSnd2TWtfU3FTY3NkTjc4cl9KQk82WVdPMmVqWTdNTlFmYkdUQ3g1TkxsdU5UNG53V2lrS1lSYmlSSWVfV2J1azdhS09ELVZjcHdwOWNnVnFEcHZwUmE4R2VEdGd1SDDSAeABQVVfeXFMUEs2Tl9GY0R1UHoyNlN5enMtaXJOUU5mUzh6QW9XbWZ1RGRYZkc1ZUd1d2pjV0gtUmc2OEpRS3IybGZ0S0ZCMlhtcUI1bTBZSFQtX3phWnJGdlRlZFdialpGdFIxSm0wMy1VR0NRZmVXRWlSWXByYl9wRjE3QWNleElwRlQtTkpSRERQWThza2VBVW12b2NQRkRCN0UyQTFDblRrSEV6X2ZnelF1U2lHTXpGdGZVa3BZYUZOUkVkUVpoR3gxb3NoRGFmLUNydHdyMnFYSjlqMTNLX2FEd05ial8?oc=5",
           "date": "2026-08-01T07:00:00.000Z",
-          "source": "bhaskarenglish.in"
+          "source": "Bhaskar English"
         },
         {
           "title": "Nagpur Man Arrested Over Fake Online Trading Scam Targeting Jaipur Doctor",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMDAxMkpmZU5XdFdVZnRIUjVfclNtQnVtT3VPVHVjZWtHTTlhSTdCVkU0RjVpN2htVlpXNWVCSFlrLTR3LW84MjJZSEN2cl9MYnhvbXdMY013RDlUelRaNmFIUllKWlhRbTFzYjNXN09lM0Q5bkRmS0tPMUg3aS1FbHRNNHRCQUU?oc=5",
           "date": "2026-07-12T07:00:00.000Z",
-          "source": "the420.in"
+          "source": "The420.in"
         },
         {
-          "title": "Jaipur WTP Viral Video: Girl Was Arrested for Obscenity? No Formal Arrest, Say Police",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTU5QSlB1S1lkSnhmRFR2d3N4YWZtTGFZeTY5ZUJoVDU3Yi1WdDJFUTlJbkwwajVZSE9tMnJSbldUM1l3bG0yWWc1QmpFbE5NYl9Va0lfQUVUbGg3dFAyZHAteXJvZWlXUjNwNGx4RmpaaVVLb0VHVGJ2VUwwbjZMb1lRTEVpTjl6bDhWVFBQWloxT2Y3UGk5M2NITE0zd2wwX0tLSFhiemhFU1h3TmdEVURZT19OUVRrR19RUFJPQzAxRUZfQnM3TlY3MNIB0AFBVV95cUxNSDY0Qm9OZ2FwUWFiUHU3YVFlejhna3luSHZyb3JvMU1sRm5wNEVGNnF6eVZmLTA2dWtvTXJGMzdGMnk1YUg2N0lWLUtJYjVLRUQteW5HQVBiTkthc1JIcmNsUkVCNTVKNGFwX1B3cEt1WGJ0NzhGcDhXWDRhV2Zqb29pd1ZBVFVkQVJuLWxNNVk4ck5BYWcwTVNZOEU5TmdRTkhtX0xObjFSQ0E3MXdhbWluaFEtNXh1Y002X0ViX3AtMkc0aTE2c0ZOS0wyZkFJ?oc=5",
-          "date": "2026-06-24T07:00:00.000Z",
-          "source": "LatestLY"
+          "title": "Jaipur: Main suspect held in firecracker unit explosion that claimed 8 lives",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORTctMGNnX2RGdHBPMHRoelFOamhzeWIyWUlrc3I3Wm56WEUyS3AxaTVkOU1WOWVwNXdZNkdQeU1zb3VDckM5NC1RT05rRkNja0R6U0JXQ3VSV2pVU1lJQklIWHdyR0hDWmgtY0x6V3Z5TDFjLVdPTXBSSlBidGRNUF9OMlpsMk15dUtneEJqLUxQNkhsdXFBSkFzZVFzNnVQN3VsVXI0RThXZ0hoRUtpQl9SVjloZEYzSm1fRENORkJpTDlsV0VJWlVhUkdwMGJuRkxoVXFxTGUtOG1PRUlGc1Bnc9IB6AFBVV95cUxNRzVUWm5ubE8zTXhUeHJrXzEtejNjNUJFOEVhNEh3cVZmY0kwMXhHcWRVM0NabVJROG1GWlFXU08yTkdVSC1OTEd1aXUxaXgxZ1ZmTkh2SkVCdk5JVG9adFZqNHFTMmJvbUo1eU9BekVOYzRJU1hZMkg3TUl5eUFydWFGc2lnY3ExcTl6TUdZSFd1MjZ6SnRKd1Fpa3hRVHhYb2E5UkZiX1FaNzJXVk8tUmFUVFd0MWxHT0FVQUNERnNPNExyRU02Z0JoYTJzQThRaFZFdjlzOWNvb25CM2hXdW9zcWRieE0y?oc=5",
+          "date": "2026-06-16T07:00:00.000Z",
+          "source": "The Times of India"
         },
         {
           "title": "Rohit Godara gang shooter, key arms supplier arrested in Punjab",
@@ -486,26 +594,26 @@
       ]
     },
     "39": {
-      "cachedAt": "2026-09-20T09:26:45.862Z",
+      "cachedAt": "2026-09-27T10:10:46.052Z",
       "query": "\"(MALVIYA NAGAR)\" Jaipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
           "title": "Jaipur triple murder accused threatens eyewitness from jail: Wanted to become a serial killer; security lat...",
           "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTXhtT2tqTzVoX1k3NzdSYjZadzN6LVUtUTlRN21fbW1ULVR4R05Jdk9qd1hVLUxadmttaWdIMVNOV2pISlRPRVZwQ3N5dDFJUmFuU0hMMnlCd3cxLUU4VlZCV1JZcnBPa3NUeXZCUG4yYmp1YUFyRFJ4YWNSSnd2TWtfU3FTY3NkTjc4cl9KQk82WVdPMmVqWTdNTlFmYkdUQ3g1TkxsdU5UNG53V2lrS1lSYmlSSWVfV2J1azdhS09ELVZjcHdwOWNnVnFEcHZwUmE4R2VEdGd1SDDSAeABQVVfeXFMUEs2Tl9GY0R1UHoyNlN5enMtaXJOUU5mUzh6QW9XbWZ1RGRYZkc1ZUd1d2pjV0gtUmc2OEpRS3IybGZ0S0ZCMlhtcUI1bTBZSFQtX3phWnJGdlRlZFdialpGdFIxSm0wMy1VR0NRZmVXRWlSWXByYl9wRjE3QWNleElwRlQtTkpSRERQWThza2VBVW12b2NQRkRCN0UyQTFDblRrSEV6X2ZnelF1U2lHTXpGdGZVa3BZYUZOUkVkUVpoR3gxb3NoRGFmLUNydHdyMnFYSjlqMTNLX2FEd05ial8?oc=5",
           "date": "2026-08-01T07:00:00.000Z",
-          "source": "bhaskarenglish.in"
+          "source": "Bhaskar English"
         },
         {
           "title": "Nagpur Man Arrested Over Fake Online Trading Scam Targeting Jaipur Doctor",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMDAxMkpmZU5XdFdVZnRIUjVfclNtQnVtT3VPVHVjZWtHTTlhSTdCVkU0RjVpN2htVlpXNWVCSFlrLTR3LW84MjJZSEN2cl9MYnhvbXdMY013RDlUelRaNmFIUllKWlhRbTFzYjNXN09lM0Q5bkRmS0tPMUg3aS1FbHRNNHRCQUU?oc=5",
           "date": "2026-07-12T07:00:00.000Z",
-          "source": "the420.in"
+          "source": "The420.in"
         },
         {
-          "title": "Jaipur WTP Viral Video: Girl Was Arrested for Obscenity? No Formal Arrest, Say Police",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTU5QSlB1S1lkSnhmRFR2d3N4YWZtTGFZeTY5ZUJoVDU3Yi1WdDJFUTlJbkwwajVZSE9tMnJSbldUM1l3bG0yWWc1QmpFbE5NYl9Va0lfQUVUbGg3dFAyZHAteXJvZWlXUjNwNGx4RmpaaVVLb0VHVGJ2VUwwbjZMb1lRTEVpTjl6bDhWVFBQWloxT2Y3UGk5M2NITE0zd2wwX0tLSFhiemhFU1h3TmdEVURZT19OUVRrR19RUFJPQzAxRUZfQnM3TlY3MNIB0AFBVV95cUxNSDY0Qm9OZ2FwUWFiUHU3YVFlejhna3luSHZyb3JvMU1sRm5wNEVGNnF6eVZmLTA2dWtvTXJGMzdGMnk1YUg2N0lWLUtJYjVLRUQteW5HQVBiTkthc1JIcmNsUkVCNTVKNGFwX1B3cEt1WGJ0NzhGcDhXWDRhV2Zqb29pd1ZBVFVkQVJuLWxNNVk4ck5BYWcwTVNZOEU5TmdRTkhtX0xObjFSQ0E3MXdhbWluaFEtNXh1Y002X0ViX3AtMkc0aTE2c0ZOS0wyZkFJ?oc=5",
-          "date": "2026-06-24T07:00:00.000Z",
-          "source": "LatestLY"
+          "title": "Jaipur: Main suspect held in firecracker unit explosion that claimed 8 lives",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORTctMGNnX2RGdHBPMHRoelFOamhzeWIyWUlrc3I3Wm56WEUyS3AxaTVkOU1WOWVwNXdZNkdQeU1zb3VDckM5NC1RT05rRkNja0R6U0JXQ3VSV2pVU1lJQklIWHdyR0hDWmgtY0x6V3Z5TDFjLVdPTXBSSlBidGRNUF9OMlpsMk15dUtneEJqLUxQNkhsdXFBSkFzZVFzNnVQN3VsVXI0RThXZ0hoRUtpQl9SVjloZEYzSm1fRENORkJpTDlsV0VJWlVhUkdwMGJuRkxoVXFxTGUtOG1PRUlGc1Bnc9IB6AFBVV95cUxNRzVUWm5ubE8zTXhUeHJrXzEtejNjNUJFOEVhNEh3cVZmY0kwMXhHcWRVM0NabVJROG1GWlFXU08yTkdVSC1OTEd1aXUxaXgxZ1ZmTkh2SkVCdk5JVG9adFZqNHFTMmJvbUo1eU9BekVOYzRJU1hZMkg3TUl5eUFydWFGc2lnY3ExcTl6TUdZSFd1MjZ6SnRKd1Fpa3hRVHhYb2E5UkZiX1FaNzJXVk8tUmFUVFd0MWxHT0FVQUNERnNPNExyRU02Z0JoYTJzQThRaFZFdjlzOWNvb25CM2hXdW9zcWRieE0y?oc=5",
+          "date": "2026-06-16T07:00:00.000Z",
+          "source": "The Times of India"
         },
         {
           "title": "Rohit Godara gang shooter, key arms supplier arrested in Punjab",
@@ -516,26 +624,26 @@
       ]
     },
     "40": {
-      "cachedAt": "2026-09-20T09:26:45.862Z",
+      "cachedAt": "2026-09-27T10:10:46.052Z",
       "query": "\"(MALVIYA NAGAR)\" Jaipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
           "title": "Jaipur triple murder accused threatens eyewitness from jail: Wanted to become a serial killer; security lat...",
           "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTXhtT2tqTzVoX1k3NzdSYjZadzN6LVUtUTlRN21fbW1ULVR4R05Jdk9qd1hVLUxadmttaWdIMVNOV2pISlRPRVZwQ3N5dDFJUmFuU0hMMnlCd3cxLUU4VlZCV1JZcnBPa3NUeXZCUG4yYmp1YUFyRFJ4YWNSSnd2TWtfU3FTY3NkTjc4cl9KQk82WVdPMmVqWTdNTlFmYkdUQ3g1TkxsdU5UNG53V2lrS1lSYmlSSWVfV2J1azdhS09ELVZjcHdwOWNnVnFEcHZwUmE4R2VEdGd1SDDSAeABQVVfeXFMUEs2Tl9GY0R1UHoyNlN5enMtaXJOUU5mUzh6QW9XbWZ1RGRYZkc1ZUd1d2pjV0gtUmc2OEpRS3IybGZ0S0ZCMlhtcUI1bTBZSFQtX3phWnJGdlRlZFdialpGdFIxSm0wMy1VR0NRZmVXRWlSWXByYl9wRjE3QWNleElwRlQtTkpSRERQWThza2VBVW12b2NQRkRCN0UyQTFDblRrSEV6X2ZnelF1U2lHTXpGdGZVa3BZYUZOUkVkUVpoR3gxb3NoRGFmLUNydHdyMnFYSjlqMTNLX2FEd05ial8?oc=5",
           "date": "2026-08-01T07:00:00.000Z",
-          "source": "bhaskarenglish.in"
+          "source": "Bhaskar English"
         },
         {
           "title": "Nagpur Man Arrested Over Fake Online Trading Scam Targeting Jaipur Doctor",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMDAxMkpmZU5XdFdVZnRIUjVfclNtQnVtT3VPVHVjZWtHTTlhSTdCVkU0RjVpN2htVlpXNWVCSFlrLTR3LW84MjJZSEN2cl9MYnhvbXdMY013RDlUelRaNmFIUllKWlhRbTFzYjNXN09lM0Q5bkRmS0tPMUg3aS1FbHRNNHRCQUU?oc=5",
           "date": "2026-07-12T07:00:00.000Z",
-          "source": "the420.in"
+          "source": "The420.in"
         },
         {
-          "title": "Jaipur WTP Viral Video: Girl Was Arrested for Obscenity? No Formal Arrest, Say Police",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTU5QSlB1S1lkSnhmRFR2d3N4YWZtTGFZeTY5ZUJoVDU3Yi1WdDJFUTlJbkwwajVZSE9tMnJSbldUM1l3bG0yWWc1QmpFbE5NYl9Va0lfQUVUbGg3dFAyZHAteXJvZWlXUjNwNGx4RmpaaVVLb0VHVGJ2VUwwbjZMb1lRTEVpTjl6bDhWVFBQWloxT2Y3UGk5M2NITE0zd2wwX0tLSFhiemhFU1h3TmdEVURZT19OUVRrR19RUFJPQzAxRUZfQnM3TlY3MNIB0AFBVV95cUxNSDY0Qm9OZ2FwUWFiUHU3YVFlejhna3luSHZyb3JvMU1sRm5wNEVGNnF6eVZmLTA2dWtvTXJGMzdGMnk1YUg2N0lWLUtJYjVLRUQteW5HQVBiTkthc1JIcmNsUkVCNTVKNGFwX1B3cEt1WGJ0NzhGcDhXWDRhV2Zqb29pd1ZBVFVkQVJuLWxNNVk4ck5BYWcwTVNZOEU5TmdRTkhtX0xObjFSQ0E3MXdhbWluaFEtNXh1Y002X0ViX3AtMkc0aTE2c0ZOS0wyZkFJ?oc=5",
-          "date": "2026-06-24T07:00:00.000Z",
-          "source": "LatestLY"
+          "title": "Jaipur: Main suspect held in firecracker unit explosion that claimed 8 lives",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORTctMGNnX2RGdHBPMHRoelFOamhzeWIyWUlrc3I3Wm56WEUyS3AxaTVkOU1WOWVwNXdZNkdQeU1zb3VDckM5NC1RT05rRkNja0R6U0JXQ3VSV2pVU1lJQklIWHdyR0hDWmgtY0x6V3Z5TDFjLVdPTXBSSlBidGRNUF9OMlpsMk15dUtneEJqLUxQNkhsdXFBSkFzZVFzNnVQN3VsVXI0RThXZ0hoRUtpQl9SVjloZEYzSm1fRENORkJpTDlsV0VJWlVhUkdwMGJuRkxoVXFxTGUtOG1PRUlGc1Bnc9IB6AFBVV95cUxNRzVUWm5ubE8zTXhUeHJrXzEtejNjNUJFOEVhNEh3cVZmY0kwMXhHcWRVM0NabVJROG1GWlFXU08yTkdVSC1OTEd1aXUxaXgxZ1ZmTkh2SkVCdk5JVG9adFZqNHFTMmJvbUo1eU9BekVOYzRJU1hZMkg3TUl5eUFydWFGc2lnY3ExcTl6TUdZSFd1MjZ6SnRKd1Fpa3hRVHhYb2E5UkZiX1FaNzJXVk8tUmFUVFd0MWxHT0FVQUNERnNPNExyRU02Z0JoYTJzQThRaFZFdjlzOWNvb25CM2hXdW9zcWRieE0y?oc=5",
+          "date": "2026-06-16T07:00:00.000Z",
+          "source": "The Times of India"
         },
         {
           "title": "Rohit Godara gang shooter, key arms supplier arrested in Punjab",
@@ -546,26 +654,26 @@
       ]
     },
     "41": {
-      "cachedAt": "2026-09-20T09:26:45.862Z",
+      "cachedAt": "2026-09-27T10:10:46.052Z",
       "query": "\"(MALVIYA NAGAR)\" Jaipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
           "title": "Jaipur triple murder accused threatens eyewitness from jail: Wanted to become a serial killer; security lat...",
           "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTXhtT2tqTzVoX1k3NzdSYjZadzN6LVUtUTlRN21fbW1ULVR4R05Jdk9qd1hVLUxadmttaWdIMVNOV2pISlRPRVZwQ3N5dDFJUmFuU0hMMnlCd3cxLUU4VlZCV1JZcnBPa3NUeXZCUG4yYmp1YUFyRFJ4YWNSSnd2TWtfU3FTY3NkTjc4cl9KQk82WVdPMmVqWTdNTlFmYkdUQ3g1TkxsdU5UNG53V2lrS1lSYmlSSWVfV2J1azdhS09ELVZjcHdwOWNnVnFEcHZwUmE4R2VEdGd1SDDSAeABQVVfeXFMUEs2Tl9GY0R1UHoyNlN5enMtaXJOUU5mUzh6QW9XbWZ1RGRYZkc1ZUd1d2pjV0gtUmc2OEpRS3IybGZ0S0ZCMlhtcUI1bTBZSFQtX3phWnJGdlRlZFdialpGdFIxSm0wMy1VR0NRZmVXRWlSWXByYl9wRjE3QWNleElwRlQtTkpSRERQWThza2VBVW12b2NQRkRCN0UyQTFDblRrSEV6X2ZnelF1U2lHTXpGdGZVa3BZYUZOUkVkUVpoR3gxb3NoRGFmLUNydHdyMnFYSjlqMTNLX2FEd05ial8?oc=5",
           "date": "2026-08-01T07:00:00.000Z",
-          "source": "bhaskarenglish.in"
+          "source": "Bhaskar English"
         },
         {
           "title": "Nagpur Man Arrested Over Fake Online Trading Scam Targeting Jaipur Doctor",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMDAxMkpmZU5XdFdVZnRIUjVfclNtQnVtT3VPVHVjZWtHTTlhSTdCVkU0RjVpN2htVlpXNWVCSFlrLTR3LW84MjJZSEN2cl9MYnhvbXdMY013RDlUelRaNmFIUllKWlhRbTFzYjNXN09lM0Q5bkRmS0tPMUg3aS1FbHRNNHRCQUU?oc=5",
           "date": "2026-07-12T07:00:00.000Z",
-          "source": "the420.in"
+          "source": "The420.in"
         },
         {
-          "title": "Jaipur WTP Viral Video: Girl Was Arrested for Obscenity? No Formal Arrest, Say Police",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTU5QSlB1S1lkSnhmRFR2d3N4YWZtTGFZeTY5ZUJoVDU3Yi1WdDJFUTlJbkwwajVZSE9tMnJSbldUM1l3bG0yWWc1QmpFbE5NYl9Va0lfQUVUbGg3dFAyZHAteXJvZWlXUjNwNGx4RmpaaVVLb0VHVGJ2VUwwbjZMb1lRTEVpTjl6bDhWVFBQWloxT2Y3UGk5M2NITE0zd2wwX0tLSFhiemhFU1h3TmdEVURZT19OUVRrR19RUFJPQzAxRUZfQnM3TlY3MNIB0AFBVV95cUxNSDY0Qm9OZ2FwUWFiUHU3YVFlejhna3luSHZyb3JvMU1sRm5wNEVGNnF6eVZmLTA2dWtvTXJGMzdGMnk1YUg2N0lWLUtJYjVLRUQteW5HQVBiTkthc1JIcmNsUkVCNTVKNGFwX1B3cEt1WGJ0NzhGcDhXWDRhV2Zqb29pd1ZBVFVkQVJuLWxNNVk4ck5BYWcwTVNZOEU5TmdRTkhtX0xObjFSQ0E3MXdhbWluaFEtNXh1Y002X0ViX3AtMkc0aTE2c0ZOS0wyZkFJ?oc=5",
-          "date": "2026-06-24T07:00:00.000Z",
-          "source": "LatestLY"
+          "title": "Jaipur: Main suspect held in firecracker unit explosion that claimed 8 lives",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORTctMGNnX2RGdHBPMHRoelFOamhzeWIyWUlrc3I3Wm56WEUyS3AxaTVkOU1WOWVwNXdZNkdQeU1zb3VDckM5NC1RT05rRkNja0R6U0JXQ3VSV2pVU1lJQklIWHdyR0hDWmgtY0x6V3Z5TDFjLVdPTXBSSlBidGRNUF9OMlpsMk15dUtneEJqLUxQNkhsdXFBSkFzZVFzNnVQN3VsVXI0RThXZ0hoRUtpQl9SVjloZEYzSm1fRENORkJpTDlsV0VJWlVhUkdwMGJuRkxoVXFxTGUtOG1PRUlGc1Bnc9IB6AFBVV95cUxNRzVUWm5ubE8zTXhUeHJrXzEtejNjNUJFOEVhNEh3cVZmY0kwMXhHcWRVM0NabVJROG1GWlFXU08yTkdVSC1OTEd1aXUxaXgxZ1ZmTkh2SkVCdk5JVG9adFZqNHFTMmJvbUo1eU9BekVOYzRJU1hZMkg3TUl5eUFydWFGc2lnY3ExcTl6TUdZSFd1MjZ6SnRKd1Fpa3hRVHhYb2E5UkZiX1FaNzJXVk8tUmFUVFd0MWxHT0FVQUNERnNPNExyRU02Z0JoYTJzQThRaFZFdjlzOWNvb25CM2hXdW9zcWRieE0y?oc=5",
+          "date": "2026-06-16T07:00:00.000Z",
+          "source": "The Times of India"
         },
         {
           "title": "Rohit Godara gang shooter, key arms supplier arrested in Punjab",
@@ -576,26 +684,26 @@
       ]
     },
     "42": {
-      "cachedAt": "2026-09-20T09:26:45.862Z",
+      "cachedAt": "2026-09-27T10:10:46.052Z",
       "query": "\"(MALVIYA NAGAR)\" Jaipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
           "title": "Jaipur triple murder accused threatens eyewitness from jail: Wanted to become a serial killer; security lat...",
           "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTXhtT2tqTzVoX1k3NzdSYjZadzN6LVUtUTlRN21fbW1ULVR4R05Jdk9qd1hVLUxadmttaWdIMVNOV2pISlRPRVZwQ3N5dDFJUmFuU0hMMnlCd3cxLUU4VlZCV1JZcnBPa3NUeXZCUG4yYmp1YUFyRFJ4YWNSSnd2TWtfU3FTY3NkTjc4cl9KQk82WVdPMmVqWTdNTlFmYkdUQ3g1TkxsdU5UNG53V2lrS1lSYmlSSWVfV2J1azdhS09ELVZjcHdwOWNnVnFEcHZwUmE4R2VEdGd1SDDSAeABQVVfeXFMUEs2Tl9GY0R1UHoyNlN5enMtaXJOUU5mUzh6QW9XbWZ1RGRYZkc1ZUd1d2pjV0gtUmc2OEpRS3IybGZ0S0ZCMlhtcUI1bTBZSFQtX3phWnJGdlRlZFdialpGdFIxSm0wMy1VR0NRZmVXRWlSWXByYl9wRjE3QWNleElwRlQtTkpSRERQWThza2VBVW12b2NQRkRCN0UyQTFDblRrSEV6X2ZnelF1U2lHTXpGdGZVa3BZYUZOUkVkUVpoR3gxb3NoRGFmLUNydHdyMnFYSjlqMTNLX2FEd05ial8?oc=5",
           "date": "2026-08-01T07:00:00.000Z",
-          "source": "bhaskarenglish.in"
+          "source": "Bhaskar English"
         },
         {
           "title": "Nagpur Man Arrested Over Fake Online Trading Scam Targeting Jaipur Doctor",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMDAxMkpmZU5XdFdVZnRIUjVfclNtQnVtT3VPVHVjZWtHTTlhSTdCVkU0RjVpN2htVlpXNWVCSFlrLTR3LW84MjJZSEN2cl9MYnhvbXdMY013RDlUelRaNmFIUllKWlhRbTFzYjNXN09lM0Q5bkRmS0tPMUg3aS1FbHRNNHRCQUU?oc=5",
           "date": "2026-07-12T07:00:00.000Z",
-          "source": "the420.in"
+          "source": "The420.in"
         },
         {
-          "title": "Jaipur WTP Viral Video: Girl Was Arrested for Obscenity? No Formal Arrest, Say Police",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTU5QSlB1S1lkSnhmRFR2d3N4YWZtTGFZeTY5ZUJoVDU3Yi1WdDJFUTlJbkwwajVZSE9tMnJSbldUM1l3bG0yWWc1QmpFbE5NYl9Va0lfQUVUbGg3dFAyZHAteXJvZWlXUjNwNGx4RmpaaVVLb0VHVGJ2VUwwbjZMb1lRTEVpTjl6bDhWVFBQWloxT2Y3UGk5M2NITE0zd2wwX0tLSFhiemhFU1h3TmdEVURZT19OUVRrR19RUFJPQzAxRUZfQnM3TlY3MNIB0AFBVV95cUxNSDY0Qm9OZ2FwUWFiUHU3YVFlejhna3luSHZyb3JvMU1sRm5wNEVGNnF6eVZmLTA2dWtvTXJGMzdGMnk1YUg2N0lWLUtJYjVLRUQteW5HQVBiTkthc1JIcmNsUkVCNTVKNGFwX1B3cEt1WGJ0NzhGcDhXWDRhV2Zqb29pd1ZBVFVkQVJuLWxNNVk4ck5BYWcwTVNZOEU5TmdRTkhtX0xObjFSQ0E3MXdhbWluaFEtNXh1Y002X0ViX3AtMkc0aTE2c0ZOS0wyZkFJ?oc=5",
-          "date": "2026-06-24T07:00:00.000Z",
-          "source": "LatestLY"
+          "title": "Jaipur: Main suspect held in firecracker unit explosion that claimed 8 lives",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORTctMGNnX2RGdHBPMHRoelFOamhzeWIyWUlrc3I3Wm56WEUyS3AxaTVkOU1WOWVwNXdZNkdQeU1zb3VDckM5NC1RT05rRkNja0R6U0JXQ3VSV2pVU1lJQklIWHdyR0hDWmgtY0x6V3Z5TDFjLVdPTXBSSlBidGRNUF9OMlpsMk15dUtneEJqLUxQNkhsdXFBSkFzZVFzNnVQN3VsVXI0RThXZ0hoRUtpQl9SVjloZEYzSm1fRENORkJpTDlsV0VJWlVhUkdwMGJuRkxoVXFxTGUtOG1PRUlGc1Bnc9IB6AFBVV95cUxNRzVUWm5ubE8zTXhUeHJrXzEtejNjNUJFOEVhNEh3cVZmY0kwMXhHcWRVM0NabVJROG1GWlFXU08yTkdVSC1OTEd1aXUxaXgxZ1ZmTkh2SkVCdk5JVG9adFZqNHFTMmJvbUo1eU9BekVOYzRJU1hZMkg3TUl5eUFydWFGc2lnY3ExcTl6TUdZSFd1MjZ6SnRKd1Fpa3hRVHhYb2E5UkZiX1FaNzJXVk8tUmFUVFd0MWxHT0FVQUNERnNPNExyRU02Z0JoYTJzQThRaFZFdjlzOWNvb25CM2hXdW9zcWRieE0y?oc=5",
+          "date": "2026-06-16T07:00:00.000Z",
+          "source": "The Times of India"
         },
         {
           "title": "Rohit Godara gang shooter, key arms supplier arrested in Punjab",
@@ -606,26 +714,26 @@
       ]
     },
     "43": {
-      "cachedAt": "2026-09-20T09:26:45.862Z",
+      "cachedAt": "2026-09-27T10:10:46.052Z",
       "query": "\"(MALVIYA NAGAR)\" Jaipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
           "title": "Jaipur triple murder accused threatens eyewitness from jail: Wanted to become a serial killer; security lat...",
           "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTXhtT2tqTzVoX1k3NzdSYjZadzN6LVUtUTlRN21fbW1ULVR4R05Jdk9qd1hVLUxadmttaWdIMVNOV2pISlRPRVZwQ3N5dDFJUmFuU0hMMnlCd3cxLUU4VlZCV1JZcnBPa3NUeXZCUG4yYmp1YUFyRFJ4YWNSSnd2TWtfU3FTY3NkTjc4cl9KQk82WVdPMmVqWTdNTlFmYkdUQ3g1TkxsdU5UNG53V2lrS1lSYmlSSWVfV2J1azdhS09ELVZjcHdwOWNnVnFEcHZwUmE4R2VEdGd1SDDSAeABQVVfeXFMUEs2Tl9GY0R1UHoyNlN5enMtaXJOUU5mUzh6QW9XbWZ1RGRYZkc1ZUd1d2pjV0gtUmc2OEpRS3IybGZ0S0ZCMlhtcUI1bTBZSFQtX3phWnJGdlRlZFdialpGdFIxSm0wMy1VR0NRZmVXRWlSWXByYl9wRjE3QWNleElwRlQtTkpSRERQWThza2VBVW12b2NQRkRCN0UyQTFDblRrSEV6X2ZnelF1U2lHTXpGdGZVa3BZYUZOUkVkUVpoR3gxb3NoRGFmLUNydHdyMnFYSjlqMTNLX2FEd05ial8?oc=5",
           "date": "2026-08-01T07:00:00.000Z",
-          "source": "bhaskarenglish.in"
+          "source": "Bhaskar English"
         },
         {
           "title": "Nagpur Man Arrested Over Fake Online Trading Scam Targeting Jaipur Doctor",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMDAxMkpmZU5XdFdVZnRIUjVfclNtQnVtT3VPVHVjZWtHTTlhSTdCVkU0RjVpN2htVlpXNWVCSFlrLTR3LW84MjJZSEN2cl9MYnhvbXdMY013RDlUelRaNmFIUllKWlhRbTFzYjNXN09lM0Q5bkRmS0tPMUg3aS1FbHRNNHRCQUU?oc=5",
           "date": "2026-07-12T07:00:00.000Z",
-          "source": "the420.in"
+          "source": "The420.in"
         },
         {
-          "title": "Jaipur WTP Viral Video: Girl Was Arrested for Obscenity? No Formal Arrest, Say Police",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTU5QSlB1S1lkSnhmRFR2d3N4YWZtTGFZeTY5ZUJoVDU3Yi1WdDJFUTlJbkwwajVZSE9tMnJSbldUM1l3bG0yWWc1QmpFbE5NYl9Va0lfQUVUbGg3dFAyZHAteXJvZWlXUjNwNGx4RmpaaVVLb0VHVGJ2VUwwbjZMb1lRTEVpTjl6bDhWVFBQWloxT2Y3UGk5M2NITE0zd2wwX0tLSFhiemhFU1h3TmdEVURZT19OUVRrR19RUFJPQzAxRUZfQnM3TlY3MNIB0AFBVV95cUxNSDY0Qm9OZ2FwUWFiUHU3YVFlejhna3luSHZyb3JvMU1sRm5wNEVGNnF6eVZmLTA2dWtvTXJGMzdGMnk1YUg2N0lWLUtJYjVLRUQteW5HQVBiTkthc1JIcmNsUkVCNTVKNGFwX1B3cEt1WGJ0NzhGcDhXWDRhV2Zqb29pd1ZBVFVkQVJuLWxNNVk4ck5BYWcwTVNZOEU5TmdRTkhtX0xObjFSQ0E3MXdhbWluaFEtNXh1Y002X0ViX3AtMkc0aTE2c0ZOS0wyZkFJ?oc=5",
-          "date": "2026-06-24T07:00:00.000Z",
-          "source": "LatestLY"
+          "title": "Jaipur: Main suspect held in firecracker unit explosion that claimed 8 lives",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORTctMGNnX2RGdHBPMHRoelFOamhzeWIyWUlrc3I3Wm56WEUyS3AxaTVkOU1WOWVwNXdZNkdQeU1zb3VDckM5NC1RT05rRkNja0R6U0JXQ3VSV2pVU1lJQklIWHdyR0hDWmgtY0x6V3Z5TDFjLVdPTXBSSlBidGRNUF9OMlpsMk15dUtneEJqLUxQNkhsdXFBSkFzZVFzNnVQN3VsVXI0RThXZ0hoRUtpQl9SVjloZEYzSm1fRENORkJpTDlsV0VJWlVhUkdwMGJuRkxoVXFxTGUtOG1PRUlGc1Bnc9IB6AFBVV95cUxNRzVUWm5ubE8zTXhUeHJrXzEtejNjNUJFOEVhNEh3cVZmY0kwMXhHcWRVM0NabVJROG1GWlFXU08yTkdVSC1OTEd1aXUxaXgxZ1ZmTkh2SkVCdk5JVG9adFZqNHFTMmJvbUo1eU9BekVOYzRJU1hZMkg3TUl5eUFydWFGc2lnY3ExcTl6TUdZSFd1MjZ6SnRKd1Fpa3hRVHhYb2E5UkZiX1FaNzJXVk8tUmFUVFd0MWxHT0FVQUNERnNPNExyRU02Z0JoYTJzQThRaFZFdjlzOWNvb25CM2hXdW9zcWRieE0y?oc=5",
+          "date": "2026-06-16T07:00:00.000Z",
+          "source": "The Times of India"
         },
         {
           "title": "Rohit Godara gang shooter, key arms supplier arrested in Punjab",
@@ -636,26 +744,26 @@
       ]
     },
     "44": {
-      "cachedAt": "2026-09-20T09:26:45.862Z",
+      "cachedAt": "2026-09-27T10:10:46.052Z",
       "query": "\"(MALVIYA NAGAR)\" Jaipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
           "title": "Jaipur triple murder accused threatens eyewitness from jail: Wanted to become a serial killer; security lat...",
           "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTXhtT2tqTzVoX1k3NzdSYjZadzN6LVUtUTlRN21fbW1ULVR4R05Jdk9qd1hVLUxadmttaWdIMVNOV2pISlRPRVZwQ3N5dDFJUmFuU0hMMnlCd3cxLUU4VlZCV1JZcnBPa3NUeXZCUG4yYmp1YUFyRFJ4YWNSSnd2TWtfU3FTY3NkTjc4cl9KQk82WVdPMmVqWTdNTlFmYkdUQ3g1TkxsdU5UNG53V2lrS1lSYmlSSWVfV2J1azdhS09ELVZjcHdwOWNnVnFEcHZwUmE4R2VEdGd1SDDSAeABQVVfeXFMUEs2Tl9GY0R1UHoyNlN5enMtaXJOUU5mUzh6QW9XbWZ1RGRYZkc1ZUd1d2pjV0gtUmc2OEpRS3IybGZ0S0ZCMlhtcUI1bTBZSFQtX3phWnJGdlRlZFdialpGdFIxSm0wMy1VR0NRZmVXRWlSWXByYl9wRjE3QWNleElwRlQtTkpSRERQWThza2VBVW12b2NQRkRCN0UyQTFDblRrSEV6X2ZnelF1U2lHTXpGdGZVa3BZYUZOUkVkUVpoR3gxb3NoRGFmLUNydHdyMnFYSjlqMTNLX2FEd05ial8?oc=5",
           "date": "2026-08-01T07:00:00.000Z",
-          "source": "bhaskarenglish.in"
+          "source": "Bhaskar English"
         },
         {
           "title": "Nagpur Man Arrested Over Fake Online Trading Scam Targeting Jaipur Doctor",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMDAxMkpmZU5XdFdVZnRIUjVfclNtQnVtT3VPVHVjZWtHTTlhSTdCVkU0RjVpN2htVlpXNWVCSFlrLTR3LW84MjJZSEN2cl9MYnhvbXdMY013RDlUelRaNmFIUllKWlhRbTFzYjNXN09lM0Q5bkRmS0tPMUg3aS1FbHRNNHRCQUU?oc=5",
           "date": "2026-07-12T07:00:00.000Z",
-          "source": "the420.in"
+          "source": "The420.in"
         },
         {
-          "title": "Jaipur WTP Viral Video: Girl Was Arrested for Obscenity? No Formal Arrest, Say Police",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTU5QSlB1S1lkSnhmRFR2d3N4YWZtTGFZeTY5ZUJoVDU3Yi1WdDJFUTlJbkwwajVZSE9tMnJSbldUM1l3bG0yWWc1QmpFbE5NYl9Va0lfQUVUbGg3dFAyZHAteXJvZWlXUjNwNGx4RmpaaVVLb0VHVGJ2VUwwbjZMb1lRTEVpTjl6bDhWVFBQWloxT2Y3UGk5M2NITE0zd2wwX0tLSFhiemhFU1h3TmdEVURZT19OUVRrR19RUFJPQzAxRUZfQnM3TlY3MNIB0AFBVV95cUxNSDY0Qm9OZ2FwUWFiUHU3YVFlejhna3luSHZyb3JvMU1sRm5wNEVGNnF6eVZmLTA2dWtvTXJGMzdGMnk1YUg2N0lWLUtJYjVLRUQteW5HQVBiTkthc1JIcmNsUkVCNTVKNGFwX1B3cEt1WGJ0NzhGcDhXWDRhV2Zqb29pd1ZBVFVkQVJuLWxNNVk4ck5BYWcwTVNZOEU5TmdRTkhtX0xObjFSQ0E3MXdhbWluaFEtNXh1Y002X0ViX3AtMkc0aTE2c0ZOS0wyZkFJ?oc=5",
-          "date": "2026-06-24T07:00:00.000Z",
-          "source": "LatestLY"
+          "title": "Jaipur: Main suspect held in firecracker unit explosion that claimed 8 lives",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORTctMGNnX2RGdHBPMHRoelFOamhzeWIyWUlrc3I3Wm56WEUyS3AxaTVkOU1WOWVwNXdZNkdQeU1zb3VDckM5NC1RT05rRkNja0R6U0JXQ3VSV2pVU1lJQklIWHdyR0hDWmgtY0x6V3Z5TDFjLVdPTXBSSlBidGRNUF9OMlpsMk15dUtneEJqLUxQNkhsdXFBSkFzZVFzNnVQN3VsVXI0RThXZ0hoRUtpQl9SVjloZEYzSm1fRENORkJpTDlsV0VJWlVhUkdwMGJuRkxoVXFxTGUtOG1PRUlGc1Bnc9IB6AFBVV95cUxNRzVUWm5ubE8zTXhUeHJrXzEtejNjNUJFOEVhNEh3cVZmY0kwMXhHcWRVM0NabVJROG1GWlFXU08yTkdVSC1OTEd1aXUxaXgxZ1ZmTkh2SkVCdk5JVG9adFZqNHFTMmJvbUo1eU9BekVOYzRJU1hZMkg3TUl5eUFydWFGc2lnY3ExcTl6TUdZSFd1MjZ6SnRKd1Fpa3hRVHhYb2E5UkZiX1FaNzJXVk8tUmFUVFd0MWxHT0FVQUNERnNPNExyRU02Z0JoYTJzQThRaFZFdjlzOWNvb25CM2hXdW9zcWRieE0y?oc=5",
+          "date": "2026-06-16T07:00:00.000Z",
+          "source": "The Times of India"
         },
         {
           "title": "Rohit Godara gang shooter, key arms supplier arrested in Punjab",
@@ -666,26 +774,26 @@
       ]
     },
     "45": {
-      "cachedAt": "2026-09-20T09:26:45.862Z",
+      "cachedAt": "2026-09-27T10:10:46.052Z",
       "query": "\"(MALVIYA NAGAR)\" Jaipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
           "title": "Jaipur triple murder accused threatens eyewitness from jail: Wanted to become a serial killer; security lat...",
           "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTXhtT2tqTzVoX1k3NzdSYjZadzN6LVUtUTlRN21fbW1ULVR4R05Jdk9qd1hVLUxadmttaWdIMVNOV2pISlRPRVZwQ3N5dDFJUmFuU0hMMnlCd3cxLUU4VlZCV1JZcnBPa3NUeXZCUG4yYmp1YUFyRFJ4YWNSSnd2TWtfU3FTY3NkTjc4cl9KQk82WVdPMmVqWTdNTlFmYkdUQ3g1TkxsdU5UNG53V2lrS1lSYmlSSWVfV2J1azdhS09ELVZjcHdwOWNnVnFEcHZwUmE4R2VEdGd1SDDSAeABQVVfeXFMUEs2Tl9GY0R1UHoyNlN5enMtaXJOUU5mUzh6QW9XbWZ1RGRYZkc1ZUd1d2pjV0gtUmc2OEpRS3IybGZ0S0ZCMlhtcUI1bTBZSFQtX3phWnJGdlRlZFdialpGdFIxSm0wMy1VR0NRZmVXRWlSWXByYl9wRjE3QWNleElwRlQtTkpSRERQWThza2VBVW12b2NQRkRCN0UyQTFDblRrSEV6X2ZnelF1U2lHTXpGdGZVa3BZYUZOUkVkUVpoR3gxb3NoRGFmLUNydHdyMnFYSjlqMTNLX2FEd05ial8?oc=5",
           "date": "2026-08-01T07:00:00.000Z",
-          "source": "bhaskarenglish.in"
+          "source": "Bhaskar English"
         },
         {
           "title": "Nagpur Man Arrested Over Fake Online Trading Scam Targeting Jaipur Doctor",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMDAxMkpmZU5XdFdVZnRIUjVfclNtQnVtT3VPVHVjZWtHTTlhSTdCVkU0RjVpN2htVlpXNWVCSFlrLTR3LW84MjJZSEN2cl9MYnhvbXdMY013RDlUelRaNmFIUllKWlhRbTFzYjNXN09lM0Q5bkRmS0tPMUg3aS1FbHRNNHRCQUU?oc=5",
           "date": "2026-07-12T07:00:00.000Z",
-          "source": "the420.in"
+          "source": "The420.in"
         },
         {
-          "title": "Jaipur WTP Viral Video: Girl Was Arrested for Obscenity? No Formal Arrest, Say Police",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTU5QSlB1S1lkSnhmRFR2d3N4YWZtTGFZeTY5ZUJoVDU3Yi1WdDJFUTlJbkwwajVZSE9tMnJSbldUM1l3bG0yWWc1QmpFbE5NYl9Va0lfQUVUbGg3dFAyZHAteXJvZWlXUjNwNGx4RmpaaVVLb0VHVGJ2VUwwbjZMb1lRTEVpTjl6bDhWVFBQWloxT2Y3UGk5M2NITE0zd2wwX0tLSFhiemhFU1h3TmdEVURZT19OUVRrR19RUFJPQzAxRUZfQnM3TlY3MNIB0AFBVV95cUxNSDY0Qm9OZ2FwUWFiUHU3YVFlejhna3luSHZyb3JvMU1sRm5wNEVGNnF6eVZmLTA2dWtvTXJGMzdGMnk1YUg2N0lWLUtJYjVLRUQteW5HQVBiTkthc1JIcmNsUkVCNTVKNGFwX1B3cEt1WGJ0NzhGcDhXWDRhV2Zqb29pd1ZBVFVkQVJuLWxNNVk4ck5BYWcwTVNZOEU5TmdRTkhtX0xObjFSQ0E3MXdhbWluaFEtNXh1Y002X0ViX3AtMkc0aTE2c0ZOS0wyZkFJ?oc=5",
-          "date": "2026-06-24T07:00:00.000Z",
-          "source": "LatestLY"
+          "title": "Jaipur: Main suspect held in firecracker unit explosion that claimed 8 lives",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORTctMGNnX2RGdHBPMHRoelFOamhzeWIyWUlrc3I3Wm56WEUyS3AxaTVkOU1WOWVwNXdZNkdQeU1zb3VDckM5NC1RT05rRkNja0R6U0JXQ3VSV2pVU1lJQklIWHdyR0hDWmgtY0x6V3Z5TDFjLVdPTXBSSlBidGRNUF9OMlpsMk15dUtneEJqLUxQNkhsdXFBSkFzZVFzNnVQN3VsVXI0RThXZ0hoRUtpQl9SVjloZEYzSm1fRENORkJpTDlsV0VJWlVhUkdwMGJuRkxoVXFxTGUtOG1PRUlGc1Bnc9IB6AFBVV95cUxNRzVUWm5ubE8zTXhUeHJrXzEtejNjNUJFOEVhNEh3cVZmY0kwMXhHcWRVM0NabVJROG1GWlFXU08yTkdVSC1OTEd1aXUxaXgxZ1ZmTkh2SkVCdk5JVG9adFZqNHFTMmJvbUo1eU9BekVOYzRJU1hZMkg3TUl5eUFydWFGc2lnY3ExcTl6TUdZSFd1MjZ6SnRKd1Fpa3hRVHhYb2E5UkZiX1FaNzJXVk8tUmFUVFd0MWxHT0FVQUNERnNPNExyRU02Z0JoYTJzQThRaFZFdjlzOWNvb25CM2hXdW9zcWRieE0y?oc=5",
+          "date": "2026-06-16T07:00:00.000Z",
+          "source": "The Times of India"
         },
         {
           "title": "Rohit Godara gang shooter, key arms supplier arrested in Punjab",
@@ -696,26 +804,26 @@
       ]
     },
     "46": {
-      "cachedAt": "2026-09-20T09:26:45.862Z",
+      "cachedAt": "2026-09-27T10:10:46.052Z",
       "query": "\"(MALVIYA NAGAR)\" Jaipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
           "title": "Jaipur triple murder accused threatens eyewitness from jail: Wanted to become a serial killer; security lat...",
           "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTXhtT2tqTzVoX1k3NzdSYjZadzN6LVUtUTlRN21fbW1ULVR4R05Jdk9qd1hVLUxadmttaWdIMVNOV2pISlRPRVZwQ3N5dDFJUmFuU0hMMnlCd3cxLUU4VlZCV1JZcnBPa3NUeXZCUG4yYmp1YUFyRFJ4YWNSSnd2TWtfU3FTY3NkTjc4cl9KQk82WVdPMmVqWTdNTlFmYkdUQ3g1TkxsdU5UNG53V2lrS1lSYmlSSWVfV2J1azdhS09ELVZjcHdwOWNnVnFEcHZwUmE4R2VEdGd1SDDSAeABQVVfeXFMUEs2Tl9GY0R1UHoyNlN5enMtaXJOUU5mUzh6QW9XbWZ1RGRYZkc1ZUd1d2pjV0gtUmc2OEpRS3IybGZ0S0ZCMlhtcUI1bTBZSFQtX3phWnJGdlRlZFdialpGdFIxSm0wMy1VR0NRZmVXRWlSWXByYl9wRjE3QWNleElwRlQtTkpSRERQWThza2VBVW12b2NQRkRCN0UyQTFDblRrSEV6X2ZnelF1U2lHTXpGdGZVa3BZYUZOUkVkUVpoR3gxb3NoRGFmLUNydHdyMnFYSjlqMTNLX2FEd05ial8?oc=5",
           "date": "2026-08-01T07:00:00.000Z",
-          "source": "bhaskarenglish.in"
+          "source": "Bhaskar English"
         },
         {
           "title": "Nagpur Man Arrested Over Fake Online Trading Scam Targeting Jaipur Doctor",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMDAxMkpmZU5XdFdVZnRIUjVfclNtQnVtT3VPVHVjZWtHTTlhSTdCVkU0RjVpN2htVlpXNWVCSFlrLTR3LW84MjJZSEN2cl9MYnhvbXdMY013RDlUelRaNmFIUllKWlhRbTFzYjNXN09lM0Q5bkRmS0tPMUg3aS1FbHRNNHRCQUU?oc=5",
           "date": "2026-07-12T07:00:00.000Z",
-          "source": "the420.in"
+          "source": "The420.in"
         },
         {
-          "title": "Jaipur WTP Viral Video: Girl Was Arrested for Obscenity? No Formal Arrest, Say Police",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTU5QSlB1S1lkSnhmRFR2d3N4YWZtTGFZeTY5ZUJoVDU3Yi1WdDJFUTlJbkwwajVZSE9tMnJSbldUM1l3bG0yWWc1QmpFbE5NYl9Va0lfQUVUbGg3dFAyZHAteXJvZWlXUjNwNGx4RmpaaVVLb0VHVGJ2VUwwbjZMb1lRTEVpTjl6bDhWVFBQWloxT2Y3UGk5M2NITE0zd2wwX0tLSFhiemhFU1h3TmdEVURZT19OUVRrR19RUFJPQzAxRUZfQnM3TlY3MNIB0AFBVV95cUxNSDY0Qm9OZ2FwUWFiUHU3YVFlejhna3luSHZyb3JvMU1sRm5wNEVGNnF6eVZmLTA2dWtvTXJGMzdGMnk1YUg2N0lWLUtJYjVLRUQteW5HQVBiTkthc1JIcmNsUkVCNTVKNGFwX1B3cEt1WGJ0NzhGcDhXWDRhV2Zqb29pd1ZBVFVkQVJuLWxNNVk4ck5BYWcwTVNZOEU5TmdRTkhtX0xObjFSQ0E3MXdhbWluaFEtNXh1Y002X0ViX3AtMkc0aTE2c0ZOS0wyZkFJ?oc=5",
-          "date": "2026-06-24T07:00:00.000Z",
-          "source": "LatestLY"
+          "title": "Jaipur: Main suspect held in firecracker unit explosion that claimed 8 lives",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORTctMGNnX2RGdHBPMHRoelFOamhzeWIyWUlrc3I3Wm56WEUyS3AxaTVkOU1WOWVwNXdZNkdQeU1zb3VDckM5NC1RT05rRkNja0R6U0JXQ3VSV2pVU1lJQklIWHdyR0hDWmgtY0x6V3Z5TDFjLVdPTXBSSlBidGRNUF9OMlpsMk15dUtneEJqLUxQNkhsdXFBSkFzZVFzNnVQN3VsVXI0RThXZ0hoRUtpQl9SVjloZEYzSm1fRENORkJpTDlsV0VJWlVhUkdwMGJuRkxoVXFxTGUtOG1PRUlGc1Bnc9IB6AFBVV95cUxNRzVUWm5ubE8zTXhUeHJrXzEtejNjNUJFOEVhNEh3cVZmY0kwMXhHcWRVM0NabVJROG1GWlFXU08yTkdVSC1OTEd1aXUxaXgxZ1ZmTkh2SkVCdk5JVG9adFZqNHFTMmJvbUo1eU9BekVOYzRJU1hZMkg3TUl5eUFydWFGc2lnY3ExcTl6TUdZSFd1MjZ6SnRKd1Fpa3hRVHhYb2E5UkZiX1FaNzJXVk8tUmFUVFd0MWxHT0FVQUNERnNPNExyRU02Z0JoYTJzQThRaFZFdjlzOWNvb25CM2hXdW9zcWRieE0y?oc=5",
+          "date": "2026-06-16T07:00:00.000Z",
+          "source": "The Times of India"
         },
         {
           "title": "Rohit Godara gang shooter, key arms supplier arrested in Punjab",
@@ -726,7 +834,7 @@
       ]
     },
     "47": {
-      "cachedAt": "2026-09-20T09:26:45.862Z",
+      "cachedAt": "2026-09-27T10:10:46.052Z",
       "query": "\"(ADARSH NAGAR)\" Jaipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -739,18 +847,24 @@
           "title": "Jaipur fire: 9 cops suspended as questions mount over administrative negligence",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPN3VKNlFqRzNxQ0VZM3lHY2pJVE1ZcHlTZ0NoZzNEVFk5YndfaG5kbUcxTEVTZ05NeTJLbkZyUVIxUmltekZkeTRFaVBoMTV0enFCNEdqTnp5S1lMcmd6bllHYVY5SW5qTWhlZXdqM3NQekhlbUJqNWc4T2dHa0dZalAzWTJ3NDZUdjRIWElCVVV4MVNQaFJ1akN1dTM1ZmJNcUZWaUVxOGw5OVMtdlp1aUJVeUxEcUJ5dkxlWVpyMmtqVEdsUlNF0gHOAUFVX3lxTE01SWdyT3laQXY1TDlXZzFJRk9kandWZTRaYUdJdHNsYzkxaHdVSHNCdmNTMldlY1ZSd2RScmR2MVZpNDQ3ZnZSX2hOM2hWVGFzSmpqX1NsTjhSTlloRVIwOTB6bF9lMWtRUGFrcGxTNWlUM1UzTk9BNmNHY1pKcTBQXzBhV2ZnTklVUmF6c2lwd0EySUF3Y0kwZ09wMDFYcDhsUF9qYmtIZ1VrM2pRS1lXRm5fdzkzbEtRT3cxMk8tWk9JNHJLM2ZvdDZSYVVR?oc=5",
           "date": "2026-06-10T07:00:00.000Z",
-          "source": "The Indian Express"
+          "source": "indianexpress.com"
         },
         {
           "title": "141 DSPs Transferred in Rajasthan, Police Headquarters Issues Late-Night Order",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOd01IOEdWRGJKRG16LTJJRUVPZENob2ZuM0swaE4zVnZPcU9mTkxWMEV4aWdLeWt6TFF6Snh0Q1dfZEdmQ190TW5iMjNqdXRDWDJyS3EyZXdmc0ZUSlM4NDZnNFNBb1FkTWM5dW5LZGY0NDVjZlh6LUNQZ1FiMDNKRUxnLXRHT0paOGFyaTJJOGl5V2M1QnZCSHR0a1c3eHB0Sjg5cFFB?oc=5",
           "date": "2026-06-09T07:00:00.000Z",
           "source": "Udaipur Kiran"
+        },
+        {
+          "title": "Major raid in Jaipur: 16 women, 28 men detained from Raja Park hotel",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxON1NkM1J3QnRHaG4wUHp4bUk2WmtTZDVmOUl4R29LR1BJRTdWeE5kOGxiYnFYNkJlazhGZ0p2QUhxclVRTWc1X0JmUC1VQWVqM3R5LUFEWEROU0JSZVUzd1liU3RyQklZelFSREJHY1JxakYtdUJFMThOXzg5RTVLU2I1eDJRZkF5RWxmYjc3dHpoQUZIYlVvT3J1djFLcXg2T1E?oc=5",
+          "date": "2026-05-26T07:00:00.000Z",
+          "source": "First India"
         }
       ]
     },
     "48": {
-      "cachedAt": "2026-09-20T09:26:45.862Z",
+      "cachedAt": "2026-09-27T10:10:46.052Z",
       "query": "\"(ADARSH NAGAR)\" Jaipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -763,18 +877,24 @@
           "title": "Jaipur fire: 9 cops suspended as questions mount over administrative negligence",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPN3VKNlFqRzNxQ0VZM3lHY2pJVE1ZcHlTZ0NoZzNEVFk5YndfaG5kbUcxTEVTZ05NeTJLbkZyUVIxUmltekZkeTRFaVBoMTV0enFCNEdqTnp5S1lMcmd6bllHYVY5SW5qTWhlZXdqM3NQekhlbUJqNWc4T2dHa0dZalAzWTJ3NDZUdjRIWElCVVV4MVNQaFJ1akN1dTM1ZmJNcUZWaUVxOGw5OVMtdlp1aUJVeUxEcUJ5dkxlWVpyMmtqVEdsUlNF0gHOAUFVX3lxTE01SWdyT3laQXY1TDlXZzFJRk9kandWZTRaYUdJdHNsYzkxaHdVSHNCdmNTMldlY1ZSd2RScmR2MVZpNDQ3ZnZSX2hOM2hWVGFzSmpqX1NsTjhSTlloRVIwOTB6bF9lMWtRUGFrcGxTNWlUM1UzTk9BNmNHY1pKcTBQXzBhV2ZnTklVUmF6c2lwd0EySUF3Y0kwZ09wMDFYcDhsUF9qYmtIZ1VrM2pRS1lXRm5fdzkzbEtRT3cxMk8tWk9JNHJLM2ZvdDZSYVVR?oc=5",
           "date": "2026-06-10T07:00:00.000Z",
-          "source": "The Indian Express"
+          "source": "indianexpress.com"
         },
         {
           "title": "141 DSPs Transferred in Rajasthan, Police Headquarters Issues Late-Night Order",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOd01IOEdWRGJKRG16LTJJRUVPZENob2ZuM0swaE4zVnZPcU9mTkxWMEV4aWdLeWt6TFF6Snh0Q1dfZEdmQ190TW5iMjNqdXRDWDJyS3EyZXdmc0ZUSlM4NDZnNFNBb1FkTWM5dW5LZGY0NDVjZlh6LUNQZ1FiMDNKRUxnLXRHT0paOGFyaTJJOGl5V2M1QnZCSHR0a1c3eHB0Sjg5cFFB?oc=5",
           "date": "2026-06-09T07:00:00.000Z",
           "source": "Udaipur Kiran"
+        },
+        {
+          "title": "Major raid in Jaipur: 16 women, 28 men detained from Raja Park hotel",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxON1NkM1J3QnRHaG4wUHp4bUk2WmtTZDVmOUl4R29LR1BJRTdWeE5kOGxiYnFYNkJlazhGZ0p2QUhxclVRTWc1X0JmUC1VQWVqM3R5LUFEWEROU0JSZVUzd1liU3RyQklZelFSREJHY1JxakYtdUJFMThOXzg5RTVLU2I1eDJRZkF5RWxmYjc3dHpoQUZIYlVvT3J1djFLcXg2T1E?oc=5",
+          "date": "2026-05-26T07:00:00.000Z",
+          "source": "First India"
         }
       ]
     },
     "49": {
-      "cachedAt": "2026-09-20T09:26:45.862Z",
+      "cachedAt": "2026-09-27T10:10:46.052Z",
       "query": "\"(ADARSH NAGAR)\" Jaipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -787,18 +907,24 @@
           "title": "Jaipur fire: 9 cops suspended as questions mount over administrative negligence",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPN3VKNlFqRzNxQ0VZM3lHY2pJVE1ZcHlTZ0NoZzNEVFk5YndfaG5kbUcxTEVTZ05NeTJLbkZyUVIxUmltekZkeTRFaVBoMTV0enFCNEdqTnp5S1lMcmd6bllHYVY5SW5qTWhlZXdqM3NQekhlbUJqNWc4T2dHa0dZalAzWTJ3NDZUdjRIWElCVVV4MVNQaFJ1akN1dTM1ZmJNcUZWaUVxOGw5OVMtdlp1aUJVeUxEcUJ5dkxlWVpyMmtqVEdsUlNF0gHOAUFVX3lxTE01SWdyT3laQXY1TDlXZzFJRk9kandWZTRaYUdJdHNsYzkxaHdVSHNCdmNTMldlY1ZSd2RScmR2MVZpNDQ3ZnZSX2hOM2hWVGFzSmpqX1NsTjhSTlloRVIwOTB6bF9lMWtRUGFrcGxTNWlUM1UzTk9BNmNHY1pKcTBQXzBhV2ZnTklVUmF6c2lwd0EySUF3Y0kwZ09wMDFYcDhsUF9qYmtIZ1VrM2pRS1lXRm5fdzkzbEtRT3cxMk8tWk9JNHJLM2ZvdDZSYVVR?oc=5",
           "date": "2026-06-10T07:00:00.000Z",
-          "source": "The Indian Express"
+          "source": "indianexpress.com"
         },
         {
           "title": "141 DSPs Transferred in Rajasthan, Police Headquarters Issues Late-Night Order",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOd01IOEdWRGJKRG16LTJJRUVPZENob2ZuM0swaE4zVnZPcU9mTkxWMEV4aWdLeWt6TFF6Snh0Q1dfZEdmQ190TW5iMjNqdXRDWDJyS3EyZXdmc0ZUSlM4NDZnNFNBb1FkTWM5dW5LZGY0NDVjZlh6LUNQZ1FiMDNKRUxnLXRHT0paOGFyaTJJOGl5V2M1QnZCSHR0a1c3eHB0Sjg5cFFB?oc=5",
           "date": "2026-06-09T07:00:00.000Z",
           "source": "Udaipur Kiran"
+        },
+        {
+          "title": "Major raid in Jaipur: 16 women, 28 men detained from Raja Park hotel",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxON1NkM1J3QnRHaG4wUHp4bUk2WmtTZDVmOUl4R29LR1BJRTdWeE5kOGxiYnFYNkJlazhGZ0p2QUhxclVRTWc1X0JmUC1VQWVqM3R5LUFEWEROU0JSZVUzd1liU3RyQklZelFSREJHY1JxakYtdUJFMThOXzg5RTVLU2I1eDJRZkF5RWxmYjc3dHpoQUZIYlVvT3J1djFLcXg2T1E?oc=5",
+          "date": "2026-05-26T07:00:00.000Z",
+          "source": "First India"
         }
       ]
     },
     "50": {
-      "cachedAt": "2026-09-20T09:26:45.862Z",
+      "cachedAt": "2026-09-27T10:10:46.052Z",
       "query": "\"(ADARSH NAGAR)\" Jaipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -811,18 +937,24 @@
           "title": "Jaipur fire: 9 cops suspended as questions mount over administrative negligence",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPN3VKNlFqRzNxQ0VZM3lHY2pJVE1ZcHlTZ0NoZzNEVFk5YndfaG5kbUcxTEVTZ05NeTJLbkZyUVIxUmltekZkeTRFaVBoMTV0enFCNEdqTnp5S1lMcmd6bllHYVY5SW5qTWhlZXdqM3NQekhlbUJqNWc4T2dHa0dZalAzWTJ3NDZUdjRIWElCVVV4MVNQaFJ1akN1dTM1ZmJNcUZWaUVxOGw5OVMtdlp1aUJVeUxEcUJ5dkxlWVpyMmtqVEdsUlNF0gHOAUFVX3lxTE01SWdyT3laQXY1TDlXZzFJRk9kandWZTRaYUdJdHNsYzkxaHdVSHNCdmNTMldlY1ZSd2RScmR2MVZpNDQ3ZnZSX2hOM2hWVGFzSmpqX1NsTjhSTlloRVIwOTB6bF9lMWtRUGFrcGxTNWlUM1UzTk9BNmNHY1pKcTBQXzBhV2ZnTklVUmF6c2lwd0EySUF3Y0kwZ09wMDFYcDhsUF9qYmtIZ1VrM2pRS1lXRm5fdzkzbEtRT3cxMk8tWk9JNHJLM2ZvdDZSYVVR?oc=5",
           "date": "2026-06-10T07:00:00.000Z",
-          "source": "The Indian Express"
+          "source": "indianexpress.com"
         },
         {
           "title": "141 DSPs Transferred in Rajasthan, Police Headquarters Issues Late-Night Order",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOd01IOEdWRGJKRG16LTJJRUVPZENob2ZuM0swaE4zVnZPcU9mTkxWMEV4aWdLeWt6TFF6Snh0Q1dfZEdmQ190TW5iMjNqdXRDWDJyS3EyZXdmc0ZUSlM4NDZnNFNBb1FkTWM5dW5LZGY0NDVjZlh6LUNQZ1FiMDNKRUxnLXRHT0paOGFyaTJJOGl5V2M1QnZCSHR0a1c3eHB0Sjg5cFFB?oc=5",
           "date": "2026-06-09T07:00:00.000Z",
           "source": "Udaipur Kiran"
+        },
+        {
+          "title": "Major raid in Jaipur: 16 women, 28 men detained from Raja Park hotel",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxON1NkM1J3QnRHaG4wUHp4bUk2WmtTZDVmOUl4R29LR1BJRTdWeE5kOGxiYnFYNkJlazhGZ0p2QUhxclVRTWc1X0JmUC1VQWVqM3R5LUFEWEROU0JSZVUzd1liU3RyQklZelFSREJHY1JxakYtdUJFMThOXzg5RTVLU2I1eDJRZkF5RWxmYjc3dHpoQUZIYlVvT3J1djFLcXg2T1E?oc=5",
+          "date": "2026-05-26T07:00:00.000Z",
+          "source": "First India"
         }
       ]
     },
     "51": {
-      "cachedAt": "2026-09-20T09:26:45.862Z",
+      "cachedAt": "2026-09-27T10:10:46.052Z",
       "query": "\"(ADARSH NAGAR)\" Jaipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -835,18 +967,24 @@
           "title": "Jaipur fire: 9 cops suspended as questions mount over administrative negligence",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPN3VKNlFqRzNxQ0VZM3lHY2pJVE1ZcHlTZ0NoZzNEVFk5YndfaG5kbUcxTEVTZ05NeTJLbkZyUVIxUmltekZkeTRFaVBoMTV0enFCNEdqTnp5S1lMcmd6bllHYVY5SW5qTWhlZXdqM3NQekhlbUJqNWc4T2dHa0dZalAzWTJ3NDZUdjRIWElCVVV4MVNQaFJ1akN1dTM1ZmJNcUZWaUVxOGw5OVMtdlp1aUJVeUxEcUJ5dkxlWVpyMmtqVEdsUlNF0gHOAUFVX3lxTE01SWdyT3laQXY1TDlXZzFJRk9kandWZTRaYUdJdHNsYzkxaHdVSHNCdmNTMldlY1ZSd2RScmR2MVZpNDQ3ZnZSX2hOM2hWVGFzSmpqX1NsTjhSTlloRVIwOTB6bF9lMWtRUGFrcGxTNWlUM1UzTk9BNmNHY1pKcTBQXzBhV2ZnTklVUmF6c2lwd0EySUF3Y0kwZ09wMDFYcDhsUF9qYmtIZ1VrM2pRS1lXRm5fdzkzbEtRT3cxMk8tWk9JNHJLM2ZvdDZSYVVR?oc=5",
           "date": "2026-06-10T07:00:00.000Z",
-          "source": "The Indian Express"
+          "source": "indianexpress.com"
         },
         {
           "title": "141 DSPs Transferred in Rajasthan, Police Headquarters Issues Late-Night Order",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOd01IOEdWRGJKRG16LTJJRUVPZENob2ZuM0swaE4zVnZPcU9mTkxWMEV4aWdLeWt6TFF6Snh0Q1dfZEdmQ190TW5iMjNqdXRDWDJyS3EyZXdmc0ZUSlM4NDZnNFNBb1FkTWM5dW5LZGY0NDVjZlh6LUNQZ1FiMDNKRUxnLXRHT0paOGFyaTJJOGl5V2M1QnZCSHR0a1c3eHB0Sjg5cFFB?oc=5",
           "date": "2026-06-09T07:00:00.000Z",
           "source": "Udaipur Kiran"
+        },
+        {
+          "title": "Major raid in Jaipur: 16 women, 28 men detained from Raja Park hotel",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxON1NkM1J3QnRHaG4wUHp4bUk2WmtTZDVmOUl4R29LR1BJRTdWeE5kOGxiYnFYNkJlazhGZ0p2QUhxclVRTWc1X0JmUC1VQWVqM3R5LUFEWEROU0JSZVUzd1liU3RyQklZelFSREJHY1JxakYtdUJFMThOXzg5RTVLU2I1eDJRZkF5RWxmYjc3dHpoQUZIYlVvT3J1djFLcXg2T1E?oc=5",
+          "date": "2026-05-26T07:00:00.000Z",
+          "source": "First India"
         }
       ]
     },
     "52": {
-      "cachedAt": "2026-09-20T09:26:45.862Z",
+      "cachedAt": "2026-09-27T10:10:46.052Z",
       "query": "\"(ADARSH NAGAR)\" Jaipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -859,18 +997,24 @@
           "title": "Jaipur fire: 9 cops suspended as questions mount over administrative negligence",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPN3VKNlFqRzNxQ0VZM3lHY2pJVE1ZcHlTZ0NoZzNEVFk5YndfaG5kbUcxTEVTZ05NeTJLbkZyUVIxUmltekZkeTRFaVBoMTV0enFCNEdqTnp5S1lMcmd6bllHYVY5SW5qTWhlZXdqM3NQekhlbUJqNWc4T2dHa0dZalAzWTJ3NDZUdjRIWElCVVV4MVNQaFJ1akN1dTM1ZmJNcUZWaUVxOGw5OVMtdlp1aUJVeUxEcUJ5dkxlWVpyMmtqVEdsUlNF0gHOAUFVX3lxTE01SWdyT3laQXY1TDlXZzFJRk9kandWZTRaYUdJdHNsYzkxaHdVSHNCdmNTMldlY1ZSd2RScmR2MVZpNDQ3ZnZSX2hOM2hWVGFzSmpqX1NsTjhSTlloRVIwOTB6bF9lMWtRUGFrcGxTNWlUM1UzTk9BNmNHY1pKcTBQXzBhV2ZnTklVUmF6c2lwd0EySUF3Y0kwZ09wMDFYcDhsUF9qYmtIZ1VrM2pRS1lXRm5fdzkzbEtRT3cxMk8tWk9JNHJLM2ZvdDZSYVVR?oc=5",
           "date": "2026-06-10T07:00:00.000Z",
-          "source": "The Indian Express"
+          "source": "indianexpress.com"
         },
         {
           "title": "141 DSPs Transferred in Rajasthan, Police Headquarters Issues Late-Night Order",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOd01IOEdWRGJKRG16LTJJRUVPZENob2ZuM0swaE4zVnZPcU9mTkxWMEV4aWdLeWt6TFF6Snh0Q1dfZEdmQ190TW5iMjNqdXRDWDJyS3EyZXdmc0ZUSlM4NDZnNFNBb1FkTWM5dW5LZGY0NDVjZlh6LUNQZ1FiMDNKRUxnLXRHT0paOGFyaTJJOGl5V2M1QnZCSHR0a1c3eHB0Sjg5cFFB?oc=5",
           "date": "2026-06-09T07:00:00.000Z",
           "source": "Udaipur Kiran"
+        },
+        {
+          "title": "Major raid in Jaipur: 16 women, 28 men detained from Raja Park hotel",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxON1NkM1J3QnRHaG4wUHp4bUk2WmtTZDVmOUl4R29LR1BJRTdWeE5kOGxiYnFYNkJlazhGZ0p2QUhxclVRTWc1X0JmUC1VQWVqM3R5LUFEWEROU0JSZVUzd1liU3RyQklZelFSREJHY1JxakYtdUJFMThOXzg5RTVLU2I1eDJRZkF5RWxmYjc3dHpoQUZIYlVvT3J1djFLcXg2T1E?oc=5",
+          "date": "2026-05-26T07:00:00.000Z",
+          "source": "First India"
         }
       ]
     },
     "53": {
-      "cachedAt": "2026-09-20T09:26:45.862Z",
+      "cachedAt": "2026-09-27T10:10:46.052Z",
       "query": "\"(ADARSH NAGAR)\" Jaipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -883,18 +1027,24 @@
           "title": "Jaipur fire: 9 cops suspended as questions mount over administrative negligence",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPN3VKNlFqRzNxQ0VZM3lHY2pJVE1ZcHlTZ0NoZzNEVFk5YndfaG5kbUcxTEVTZ05NeTJLbkZyUVIxUmltekZkeTRFaVBoMTV0enFCNEdqTnp5S1lMcmd6bllHYVY5SW5qTWhlZXdqM3NQekhlbUJqNWc4T2dHa0dZalAzWTJ3NDZUdjRIWElCVVV4MVNQaFJ1akN1dTM1ZmJNcUZWaUVxOGw5OVMtdlp1aUJVeUxEcUJ5dkxlWVpyMmtqVEdsUlNF0gHOAUFVX3lxTE01SWdyT3laQXY1TDlXZzFJRk9kandWZTRaYUdJdHNsYzkxaHdVSHNCdmNTMldlY1ZSd2RScmR2MVZpNDQ3ZnZSX2hOM2hWVGFzSmpqX1NsTjhSTlloRVIwOTB6bF9lMWtRUGFrcGxTNWlUM1UzTk9BNmNHY1pKcTBQXzBhV2ZnTklVUmF6c2lwd0EySUF3Y0kwZ09wMDFYcDhsUF9qYmtIZ1VrM2pRS1lXRm5fdzkzbEtRT3cxMk8tWk9JNHJLM2ZvdDZSYVVR?oc=5",
           "date": "2026-06-10T07:00:00.000Z",
-          "source": "The Indian Express"
+          "source": "indianexpress.com"
         },
         {
           "title": "141 DSPs Transferred in Rajasthan, Police Headquarters Issues Late-Night Order",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOd01IOEdWRGJKRG16LTJJRUVPZENob2ZuM0swaE4zVnZPcU9mTkxWMEV4aWdLeWt6TFF6Snh0Q1dfZEdmQ190TW5iMjNqdXRDWDJyS3EyZXdmc0ZUSlM4NDZnNFNBb1FkTWM5dW5LZGY0NDVjZlh6LUNQZ1FiMDNKRUxnLXRHT0paOGFyaTJJOGl5V2M1QnZCSHR0a1c3eHB0Sjg5cFFB?oc=5",
           "date": "2026-06-09T07:00:00.000Z",
           "source": "Udaipur Kiran"
+        },
+        {
+          "title": "Major raid in Jaipur: 16 women, 28 men detained from Raja Park hotel",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxON1NkM1J3QnRHaG4wUHp4bUk2WmtTZDVmOUl4R29LR1BJRTdWeE5kOGxiYnFYNkJlazhGZ0p2QUhxclVRTWc1X0JmUC1VQWVqM3R5LUFEWEROU0JSZVUzd1liU3RyQklZelFSREJHY1JxakYtdUJFMThOXzg5RTVLU2I1eDJRZkF5RWxmYjc3dHpoQUZIYlVvT3J1djFLcXg2T1E?oc=5",
+          "date": "2026-05-26T07:00:00.000Z",
+          "source": "First India"
         }
       ]
     },
     "54": {
-      "cachedAt": "2026-09-20T09:26:45.862Z",
+      "cachedAt": "2026-09-27T10:10:46.052Z",
       "query": "\"(ADARSH NAGAR)\" Jaipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -907,18 +1057,24 @@
           "title": "Jaipur fire: 9 cops suspended as questions mount over administrative negligence",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPN3VKNlFqRzNxQ0VZM3lHY2pJVE1ZcHlTZ0NoZzNEVFk5YndfaG5kbUcxTEVTZ05NeTJLbkZyUVIxUmltekZkeTRFaVBoMTV0enFCNEdqTnp5S1lMcmd6bllHYVY5SW5qTWhlZXdqM3NQekhlbUJqNWc4T2dHa0dZalAzWTJ3NDZUdjRIWElCVVV4MVNQaFJ1akN1dTM1ZmJNcUZWaUVxOGw5OVMtdlp1aUJVeUxEcUJ5dkxlWVpyMmtqVEdsUlNF0gHOAUFVX3lxTE01SWdyT3laQXY1TDlXZzFJRk9kandWZTRaYUdJdHNsYzkxaHdVSHNCdmNTMldlY1ZSd2RScmR2MVZpNDQ3ZnZSX2hOM2hWVGFzSmpqX1NsTjhSTlloRVIwOTB6bF9lMWtRUGFrcGxTNWlUM1UzTk9BNmNHY1pKcTBQXzBhV2ZnTklVUmF6c2lwd0EySUF3Y0kwZ09wMDFYcDhsUF9qYmtIZ1VrM2pRS1lXRm5fdzkzbEtRT3cxMk8tWk9JNHJLM2ZvdDZSYVVR?oc=5",
           "date": "2026-06-10T07:00:00.000Z",
-          "source": "The Indian Express"
+          "source": "indianexpress.com"
         },
         {
           "title": "141 DSPs Transferred in Rajasthan, Police Headquarters Issues Late-Night Order",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOd01IOEdWRGJKRG16LTJJRUVPZENob2ZuM0swaE4zVnZPcU9mTkxWMEV4aWdLeWt6TFF6Snh0Q1dfZEdmQ190TW5iMjNqdXRDWDJyS3EyZXdmc0ZUSlM4NDZnNFNBb1FkTWM5dW5LZGY0NDVjZlh6LUNQZ1FiMDNKRUxnLXRHT0paOGFyaTJJOGl5V2M1QnZCSHR0a1c3eHB0Sjg5cFFB?oc=5",
           "date": "2026-06-09T07:00:00.000Z",
           "source": "Udaipur Kiran"
+        },
+        {
+          "title": "Major raid in Jaipur: 16 women, 28 men detained from Raja Park hotel",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxON1NkM1J3QnRHaG4wUHp4bUk2WmtTZDVmOUl4R29LR1BJRTdWeE5kOGxiYnFYNkJlazhGZ0p2QUhxclVRTWc1X0JmUC1VQWVqM3R5LUFEWEROU0JSZVUzd1liU3RyQklZelFSREJHY1JxakYtdUJFMThOXzg5RTVLU2I1eDJRZkF5RWxmYjc3dHpoQUZIYlVvT3J1djFLcXg2T1E?oc=5",
+          "date": "2026-05-26T07:00:00.000Z",
+          "source": "First India"
         }
       ]
     },
     "55": {
-      "cachedAt": "2026-09-20T09:26:45.862Z",
+      "cachedAt": "2026-09-27T10:10:46.052Z",
       "query": "\"(ADARSH NAGAR)\" Jaipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -931,73 +1087,79 @@
           "title": "Jaipur fire: 9 cops suspended as questions mount over administrative negligence",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPN3VKNlFqRzNxQ0VZM3lHY2pJVE1ZcHlTZ0NoZzNEVFk5YndfaG5kbUcxTEVTZ05NeTJLbkZyUVIxUmltekZkeTRFaVBoMTV0enFCNEdqTnp5S1lMcmd6bllHYVY5SW5qTWhlZXdqM3NQekhlbUJqNWc4T2dHa0dZalAzWTJ3NDZUdjRIWElCVVV4MVNQaFJ1akN1dTM1ZmJNcUZWaUVxOGw5OVMtdlp1aUJVeUxEcUJ5dkxlWVpyMmtqVEdsUlNF0gHOAUFVX3lxTE01SWdyT3laQXY1TDlXZzFJRk9kandWZTRaYUdJdHNsYzkxaHdVSHNCdmNTMldlY1ZSd2RScmR2MVZpNDQ3ZnZSX2hOM2hWVGFzSmpqX1NsTjhSTlloRVIwOTB6bF9lMWtRUGFrcGxTNWlUM1UzTk9BNmNHY1pKcTBQXzBhV2ZnTklVUmF6c2lwd0EySUF3Y0kwZ09wMDFYcDhsUF9qYmtIZ1VrM2pRS1lXRm5fdzkzbEtRT3cxMk8tWk9JNHJLM2ZvdDZSYVVR?oc=5",
           "date": "2026-06-10T07:00:00.000Z",
-          "source": "The Indian Express"
+          "source": "indianexpress.com"
         },
         {
           "title": "141 DSPs Transferred in Rajasthan, Police Headquarters Issues Late-Night Order",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOd01IOEdWRGJKRG16LTJJRUVPZENob2ZuM0swaE4zVnZPcU9mTkxWMEV4aWdLeWt6TFF6Snh0Q1dfZEdmQ190TW5iMjNqdXRDWDJyS3EyZXdmc0ZUSlM4NDZnNFNBb1FkTWM5dW5LZGY0NDVjZlh6LUNQZ1FiMDNKRUxnLXRHT0paOGFyaTJJOGl5V2M1QnZCSHR0a1c3eHB0Sjg5cFFB?oc=5",
           "date": "2026-06-09T07:00:00.000Z",
           "source": "Udaipur Kiran"
+        },
+        {
+          "title": "Major raid in Jaipur: 16 women, 28 men detained from Raja Park hotel",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxON1NkM1J3QnRHaG4wUHp4bUk2WmtTZDVmOUl4R29LR1BJRTdWeE5kOGxiYnFYNkJlazhGZ0p2QUhxclVRTWc1X0JmUC1VQWVqM3R5LUFEWEROU0JSZVUzd1liU3RyQklZelFSREJHY1JxakYtdUJFMThOXzg5RTVLU2I1eDJRZkF5RWxmYjc3dHpoQUZIYlVvT3J1djFLcXg2T1E?oc=5",
+          "date": "2026-05-26T07:00:00.000Z",
+          "source": "First India"
         }
       ]
     },
     "56": {
-      "cachedAt": "2026-09-20T09:26:45.862Z",
+      "cachedAt": "2026-09-27T10:10:46.052Z",
       "query": "\"(KISHAN POLE)\" Jaipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "57": {
-      "cachedAt": "2026-09-20T09:26:45.862Z",
+      "cachedAt": "2026-09-27T10:10:46.052Z",
       "query": "\"(KISHAN POLE)\" Jaipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "58": {
-      "cachedAt": "2026-09-20T09:26:45.862Z",
+      "cachedAt": "2026-09-27T10:10:46.052Z",
       "query": "\"(KISHAN POLE)\" Jaipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "59": {
-      "cachedAt": "2026-09-20T09:26:45.862Z",
+      "cachedAt": "2026-09-27T10:10:46.052Z",
       "query": "\"(KISHAN POLE)\" Jaipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "60": {
-      "cachedAt": "2026-09-20T09:26:45.862Z",
+      "cachedAt": "2026-09-27T10:10:46.052Z",
       "query": "\"(KISHAN POLE)\" Jaipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "61": {
-      "cachedAt": "2026-09-20T09:26:45.862Z",
+      "cachedAt": "2026-09-27T10:10:46.052Z",
       "query": "\"(KISHAN POLE)\" Jaipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "62": {
-      "cachedAt": "2026-09-20T09:26:45.862Z",
+      "cachedAt": "2026-09-27T10:10:46.052Z",
       "query": "\"(KISHAN POLE)\" Jaipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "63": {
-      "cachedAt": "2026-09-20T09:26:45.862Z",
+      "cachedAt": "2026-09-27T10:10:46.052Z",
       "query": "\"(KISHAN POLE)\" Jaipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "64": {
-      "cachedAt": "2026-09-20T09:26:45.862Z",
+      "cachedAt": "2026-09-27T10:10:46.052Z",
       "query": "\"(KISHAN POLE)\" Jaipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "65": {
-      "cachedAt": "2026-09-20T09:26:45.862Z",
+      "cachedAt": "2026-09-27T10:10:46.052Z",
       "query": "\"(KISHAN POLE)\" Jaipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "66": {
-      "cachedAt": "2026-09-20T09:26:45.862Z",
+      "cachedAt": "2026-09-27T10:10:46.052Z",
       "query": "\"(KISHAN POLE)\" Jaipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "67": {
-      "cachedAt": "2026-09-20T09:26:45.862Z",
+      "cachedAt": "2026-09-27T10:10:46.052Z",
       "query": "\"(HAWA MAHAL)\" Jaipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -1009,7 +1171,7 @@
       ]
     },
     "68": {
-      "cachedAt": "2026-09-20T09:26:45.862Z",
+      "cachedAt": "2026-09-27T10:10:46.052Z",
       "query": "\"(HAWA MAHAL)\" Jaipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -1021,7 +1183,7 @@
       ]
     },
     "69": {
-      "cachedAt": "2026-09-20T09:26:45.862Z",
+      "cachedAt": "2026-09-27T10:10:46.052Z",
       "query": "\"(HAWA MAHAL)\" Jaipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -1033,7 +1195,7 @@
       ]
     },
     "70": {
-      "cachedAt": "2026-09-20T09:26:45.862Z",
+      "cachedAt": "2026-09-27T10:10:46.052Z",
       "query": "\"(HAWA MAHAL)\" Jaipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -1045,7 +1207,7 @@
       ]
     },
     "71": {
-      "cachedAt": "2026-09-20T09:26:45.862Z",
+      "cachedAt": "2026-09-27T10:10:46.052Z",
       "query": "\"(HAWA MAHAL)\" Jaipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -1057,7 +1219,7 @@
       ]
     },
     "72": {
-      "cachedAt": "2026-09-20T09:26:45.862Z",
+      "cachedAt": "2026-09-27T10:10:46.052Z",
       "query": "\"(HAWA MAHAL)\" Jaipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -1069,7 +1231,7 @@
       ]
     },
     "73": {
-      "cachedAt": "2026-09-20T09:26:45.862Z",
+      "cachedAt": "2026-09-27T10:10:46.052Z",
       "query": "\"(HAWA MAHAL)\" Jaipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -1081,7 +1243,7 @@
       ]
     },
     "74": {
-      "cachedAt": "2026-09-20T09:26:45.862Z",
+      "cachedAt": "2026-09-27T10:10:46.052Z",
       "query": "\"(HAWA MAHAL)\" Jaipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -1093,7 +1255,7 @@
       ]
     },
     "75": {
-      "cachedAt": "2026-09-20T09:26:45.862Z",
+      "cachedAt": "2026-09-27T10:10:46.052Z",
       "query": "\"(HAWA MAHAL)\" Jaipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -1105,7 +1267,7 @@
       ]
     },
     "76": {
-      "cachedAt": "2026-09-20T09:26:45.862Z",
+      "cachedAt": "2026-09-27T10:10:46.052Z",
       "query": "\"(HAWA MAHAL)\" Jaipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -1117,52 +1279,52 @@
       ]
     },
     "77": {
-      "cachedAt": "2026-09-20T09:26:45.862Z",
+      "cachedAt": "2026-09-27T10:10:46.052Z",
       "query": "\"(AMER ANSIK)\" Jaipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "01": {
-      "cachedAt": "2026-09-20T09:26:45.862Z",
+      "cachedAt": "2026-09-27T10:10:46.052Z",
       "query": "\"(VIDHYADHAR NAGAR)\" Jaipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "02": {
-      "cachedAt": "2026-09-20T09:26:45.862Z",
+      "cachedAt": "2026-09-27T10:10:46.052Z",
       "query": "\"(VIDHYADHAR NAGAR)\" Jaipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "03": {
-      "cachedAt": "2026-09-20T09:26:45.862Z",
+      "cachedAt": "2026-09-27T10:10:46.052Z",
       "query": "\"(VIDHYADHAR NAGAR)\" Jaipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "04": {
-      "cachedAt": "2026-09-20T09:26:45.862Z",
+      "cachedAt": "2026-09-27T10:10:46.052Z",
       "query": "\"(VIDHYADHAR NAGAR)\" Jaipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "05": {
-      "cachedAt": "2026-09-20T09:26:45.862Z",
+      "cachedAt": "2026-09-27T10:10:46.052Z",
       "query": "\"(VIDHYADHAR NAGAR)\" Jaipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "06": {
-      "cachedAt": "2026-09-20T09:26:45.862Z",
+      "cachedAt": "2026-09-27T10:10:46.052Z",
       "query": "\"(VIDHYADHAR NAGAR)\" Jaipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "07": {
-      "cachedAt": "2026-09-20T09:26:45.862Z",
+      "cachedAt": "2026-09-27T10:10:46.052Z",
       "query": "\"(VIDHYADHAR NAGAR)\" Jaipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "09": {
-      "cachedAt": "2026-09-20T09:26:45.862Z",
+      "cachedAt": "2026-09-27T10:10:46.052Z",
       "query": "\"(VIDHYADHAR NAGAR)\" Jaipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "08": {
-      "cachedAt": "2026-09-20T09:26:45.862Z",
+      "cachedAt": "2026-09-27T10:10:46.052Z",
       "query": "\"(VIDHYADHAR NAGAR)\" Jaipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     }
