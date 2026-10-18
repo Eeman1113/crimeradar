@@ -1,42 +1,36 @@
 {
   "source": "https://news.google.com/rss/search",
-  "scrapedAt": "2026-09-27T10:33:55.123Z",
+  "scrapedAt": "2026-10-18T09:22:42.153Z",
   "wards": {
     "9120836": {
-      "cachedAt": "2026-09-27T10:33:40.426Z",
+      "cachedAt": "2026-10-18T09:22:27.744Z",
       "query": "\"Tibet Road\" Gangtok (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "9120837": {
-      "cachedAt": "2026-09-27T10:33:40.426Z",
+      "cachedAt": "2026-10-18T09:22:27.744Z",
       "query": "\"Chandmari\" Gangtok (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "9120838": {
-      "cachedAt": "2026-09-27T10:33:40.426Z",
+      "cachedAt": "2026-10-18T09:22:27.744Z",
       "query": "\"Development Area\" Gangtok (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "9120839": {
-      "cachedAt": "2026-09-27T10:33:40.426Z",
+      "cachedAt": "2026-10-18T09:22:27.744Z",
       "query": "\"DPH\" Gangtok (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "9120840": {
-      "cachedAt": "2026-09-27T10:33:40.426Z",
+      "cachedAt": "2026-10-18T09:22:27.744Z",
       "query": "\"Upper M G Marg\" Gangtok (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "9120841": {
-      "cachedAt": "2026-09-27T10:33:40.426Z",
+      "cachedAt": "2026-10-18T09:22:27.744Z",
       "query": "\"Lower M G Marg\" Gangtok (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
-        {
-          "title": "‘Terror’ arrest bares online influence: Gangtok youth booked under UAPA",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOXJGLWFCOTcxWlYwOWdoeFdKOEhKdWdqOElDWE8zZEYyU1dlcG1YcHBlUzJ4ZFY3c2ZxWFE2akx0dXNHYTZoM1ZKaklQcnBjVnVNaTNzck1uWUxBWXBxM2VaVWJXMHJHRHJBbVJhc3VuVDlyMm9Kb3djdThKVy13T29INkxNell3MVF4NlQwZmQ5d2xtMEVXOGplT3lKT3U5OUJma2tpbjdfaWxaenBZWkt6TUNUV09sRUNOMzEwcmHSAcYBQVVfeXFMUG5WMkJyTGd6MHBOZzBtRzgyQThLSWhfNWxMSlNVWUhyZmdWZE1PX3IyYlhGTHBxclRTQUEzYlRoNWFQMXRFSVhmOG1wZlU5WjZzamRrZUlhdHFfYkJxLVBYbXI0RFh5elI5clRtRlVqaDJic1I2RHdlT3lJZTZ1cDg4TlpJUjlfengyTWJUNWRTamE3MWdTNHdXeV9UbGx3NndKeXBkV0dpMlNjT2Q1d3NKa09UNm9jMDNYMUVPREhSWlJHQlhB?oc=5",
-          "date": "2026-07-02T07:00:00.000Z",
-          "source": "Telegraph India"
-        },
         {
           "title": "Sikkim Police rule out terror module after youth held over Islamic state links",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMnRWVGJDVW9paFVsNHlkbWIteUZXckxhblhCN0tmeEo3ci1Vazc4M0tFdmE0UnVfVUxneW43bjk4cmZ1WDdMNjMyZVNOVzFPMG9odTFKWTlndk5vb3FIbzAwS3pPeDJOMFRnQ1RUNy1qQ2xJSEgwVFVpUGp2akkxUGQxSjJnNVA4YmFaVEhEZGp1RnVQUUtPR0ZFanFZNnJKX1BENU9FdlBkMFltZnhXV0lienlYTUhLaGc?oc=5",
@@ -45,7 +39,7 @@
         },
         {
           "title": "Youth Arrested In Gangtok For Suspected IS Link",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWW4wRmdMWDFSMDQ1WlRpX0pzQjhSeWp5NkdOVzZBOWxpazZVMDRhR1Y1Rjh1NENNQlFVdXVsU0VkeEF1Q2FORldSd2pqeHVlX0JCLTNQWTJWRjFLemxfRnRNQUZxenM1NmtnWC1Hc20wT29yZGdoMzBpWnFNLXNvLXZWRERXZFpWeVdzVzByajZTNVJ0Yng3ekdPZTJrUdIBowFBVV95cUxQYV9scWFDY1picFRRSmNuYk5wdjRnTGFQYk9qcm50VmZobkxGM04xd2FfWkJlOXlRbVlrU1VvWWxSUXRaOXFLWlpxQ1hGTnRqLUl1S0pxWm5hMzJPVUFtOE5MblhEM0ZaeUV6WnhEQjZkSFljbmZ4WDFpYTlfSU43MG5QeHk3bWU5d3NGby11NW5RM09kUDZNNGdwbkJmNExxU2Vj?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWW4wRmdMWDFSMDQ1WlRpX0pzQjhSeWp5NkdOVzZBOWxpazZVMDRhR1Y1Rjh1NENNQlFVdXVsU0VkeEF1Q2FORldSd2pqeHVlX0JCLTNQWTJWRjFLemxfRnRNQUZxenM1NmtnWC1Hc20wT29yZGdoMzBpWnFNLXNvLXZWRERXZFpWeVdzVzByajZTNVJ0Yng3ekdPZTJrUQ?oc=5",
           "date": "2026-06-30T07:00:00.000Z",
           "source": "ETV Bharat"
         },
@@ -58,12 +52,12 @@
       ]
     },
     "9120842": {
-      "cachedAt": "2026-09-27T10:33:40.426Z",
+      "cachedAt": "2026-10-18T09:22:27.744Z",
       "query": "\"Syari-Tathangchen\" Gangtok (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "9120843": {
-      "cachedAt": "2026-09-27T10:33:40.426Z",
+      "cachedAt": "2026-10-18T09:22:27.744Z",
       "query": "\"Burtuk\" Gangtok (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -75,30 +69,24 @@
       ]
     },
     "9120844": {
-      "cachedAt": "2026-09-27T10:33:40.426Z",
+      "cachedAt": "2026-10-18T09:22:27.744Z",
       "query": "\"Lower Sichey\" Gangtok (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "9120845": {
-      "cachedAt": "2026-09-27T10:33:40.426Z",
+      "cachedAt": "2026-10-18T09:22:27.744Z",
       "query": "\"Upper Sichey\" Gangtok (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "9120846": {
-      "cachedAt": "2026-09-27T10:33:40.426Z",
+      "cachedAt": "2026-10-18T09:22:27.744Z",
       "query": "\"Arithang\" Gangtok (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "9120847": {
-      "cachedAt": "2026-09-27T10:33:40.426Z",
+      "cachedAt": "2026-10-18T09:22:27.744Z",
       "query": "\"Tadong\" Gangtok (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
-        {
-          "title": "Sikkim man wakes up in Odisha after alleged drugging and robbery",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOGZKWkEyZzA5bWpzS0N1ZWR4Skc3VGdWMk5WZEMwaTdzMnhibDhhelpkWk12N1o4ZjlURDVfb1k1eWdpWDZzcmwxRzYxcTZEZWJId296MllRTEdldjBYZU5ndGczcGpBTS1CVXR2WGN3dXlnU2dKUVJHaVkzQ2VxQ0lzOHlZdnpTSmUtQjFnSnNtUnZFRWNJeklHRGtxU1lfTEUtaWd0V3lJSGNqVlBIc2NvMlk5b1ktQ2ZfNllsU3FOd9IBxwFBVV95cUxOZTFJNUZkeFVXVFNrMnZNelhSMm1KU1NsRkNEOEJybXNPTWptRUtRR0FMUFp3YXp5a0F4TWxuZmRXaVJ6Y0Rlek1aSU1sZXpCdVlTRXFwYlV5YlMzSW9CZE95ckVmZDlkYkw4cVVoWVFoNTk2QmlGNlp6T1kxM0JFVmk0bTVrZnZUY0thSnpwalJyU3JIN1ZFdUU0Z2xxT1BTYTdhbFZWQXZ2bHpxSS1KZUdMZXc1N2FESDZQM25DSVdYQlBZZlpV?oc=5",
-          "date": "2026-05-22T07:00:00.000Z",
-          "source": "India Today NE"
-        },
         {
           "title": "Sikkim Man Drugged And Robbed Of ₹7 Lakh In Taxi",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWENtZlBuMDE5RjJsT3o3R2VEV2dJeU9VUndTcUdWUnFsZEFBY0tkaElVdE5pSnVxampSUGlDYUU2amRmc1k3SGFib0ZIemsxVWI2WFlRUDdJbXVJaVVQcWdBNGVSbjJwTmF6eTRQNE9mX2pleTc5d19PWDZKOFh2Zl9ZTHFkRGVKTFpMYnpKS0tqcUxreVBQN1F30gGcAUFVX3lxTE5XTWI1TExiUE02RkxyYkRmbkFVWmxhWXlxdWwxS0lzN3JXb3hQNURPUVFQWmlsM290YjA4V2lBRlFwV3FJdkswYUhiQU5ZUFhhTUdBRU9BMnZpWkNtWEFoMHFRcWRLZGxPdW1sOUhNMlBTTEtYR1dRVXRVRUFGdkpuSkUtcnJyVEx2bmVNNDFoVjhWNWR0bTFwMk9NZw?oc=5",
@@ -108,12 +96,12 @@
       ]
     },
     "9120848": {
-      "cachedAt": "2026-09-27T10:33:40.426Z",
+      "cachedAt": "2026-10-18T09:22:27.744Z",
       "query": "\"Daragaon\" Gangtok (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "9120849": {
-      "cachedAt": "2026-09-27T10:33:40.426Z",
+      "cachedAt": "2026-10-18T09:22:27.744Z",
       "query": "\"Deorali\" Gangtok (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -125,9 +113,22 @@
       ]
     },
     "9120850": {
-      "cachedAt": "2026-09-27T10:33:40.426Z",
+      "cachedAt": "2026-10-18T09:22:27.744Z",
       "query": "\"Ranipool\" Gangtok (crime OR arrest OR snatch OR rape OR molest OR raid)",
-      "items": []
+      "items": [
+        {
+          "title": "CAP Sikkim questions police action following Ranipool joining programme",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZWJqUnd1WFZnQmhkLU03VG5wZE9WWEM0d1BidmI3X3NTR1pFdTI0VTd4MS1XeVJkT0NOdUpaQ0RDZDExaWhkZVZkTzM3eURoc3BwYjB5bmpmRUNXSTJMa0oxSzJwTWJySkhMMXRzSW5oMkJBdDFBWDUxS2pQUW5DRGtuc2p1U2YwU3F1aXZXaUR4QWpqSS1qQnN3NWp5cVZSVTl1bmVTal9mSXFhU21SNlFaYno?oc=5",
+          "date": "2026-09-04T07:00:00.000Z",
+          "source": "Sikkimexpress"
+        },
+        {
+          "title": "Drug bust near Ranipool leads to arrests, including police personnel in Sikkim",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdlFSbzBqbWF2RGp3LXB4aDg0UWNZcWtSN1pLazUwZ1VTSHQyV3MxcXUtNmFwWnRvdF8zZElwVkhZOFRhZkQzdHFieDRGeXFFQ0JjbEJWdzd4RVBOcHFiYWNXSFNIZ0lFQUxJN2FaRU9lazVtM3phZ0ljUVl2a2JKWDZnUUlqcmdXY21fa0dvOTdjcmhEMWlVR0JVTHNCdlhMc0JEdUNydGREeWx2VDBjZWgwcGdob0pqdkJSb2VSOERLVTJOejcyV256a05ONGRrelM40gHYAUFVX3lxTFBZeXFpS1A1N1ZuMDVIYnozcG9BTUlXTGIzOWpsWFZDcWJlTTE5OGp3Y2NhbDJldjIwbXlTVWVxby1vOE5XYXh4VU5nSHV4SmtMVjJCc2Z1WW5NNC16c2tROEpVUFNQU0hJMlMySXpMVEdMNGo4dXVnUlJmRzh1dDUzQjNRQ1EzWjFPb1N2VEJ4WG1sMEdaNkZzTmN0SkEwWWhzeXBxZTFQOGFaemhQUXBRMWRERVRlWkxFWHZMdGZMWFVxaTZ3R3Qzc3JGWkdocTEtNUxCMndUZw?oc=5",
+          "date": "2026-05-02T07:00:00.000Z",
+          "source": "India Today NE"
+        }
+      ]
     }
   },
   "notes": "Per-ward crime-related news from Google News RSS. Queried per the ward's distinctive neighbourhood name + Gangtok + crime keywords. Items are filtered to last 18 months and to titles containing at least one crime/police/arrest term. Up to 4 per ward."

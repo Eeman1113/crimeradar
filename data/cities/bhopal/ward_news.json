@@ -1,21 +1,27 @@
 {
   "source": "https://news.google.com/rss/search",
-  "scrapedAt": "2026-09-27T10:21:15.417Z",
+  "scrapedAt": "2026-10-18T09:09:53.270Z",
   "wards": {
     "Chandbad": {
-      "cachedAt": "2026-09-27T10:19:53.569Z",
+      "cachedAt": "2026-10-18T09:08:28.686Z",
       "query": "\"Chandbad\" Bhopal (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Pandit Madanmohan Malviya": {
-      "cachedAt": "2026-09-27T10:19:53.569Z",
+      "cachedAt": "2026-10-18T09:08:28.686Z",
       "query": "\"Pandit Madanmohan Malviya\" Bhopal (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Punjabi Bagh": {
-      "cachedAt": "2026-09-27T10:19:53.569Z",
+      "cachedAt": "2026-10-18T09:08:28.686Z",
       "query": "\"Punjabi Bagh\" Bhopal (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "40-Metre First Metro Foot Overbridge To Connect Over 1 Lakh Residents In Bhopal",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWnlGVUhFQ01LQXJtLWUxMnJfbURZWFlCYlR0SHZDa19TcHR1R2xCRDZZempycXJuU2xKZzNYMV96SmlCajFUM1Ftem5NZ3A4OVNpdWluaVAtSEczOVBsYy1xT1A1Unc0bnE3dHZZQV9aVDdOZlJ1ZjlGbEt4T1VSbEllTk1ldDRvM2tOSGljRTIyVUt1RXdOaW1iTjE2dGU2LXdkQWpyMEUzWFF4aW92WlpRZThFeFN1VkHSAb8BQVVfeXFMUGlzWFlhMFh2SDdVaUxSdUlqTXh2V0RIT0RzUjhnS0x4TE83TTUzTXVPNGxQZ0hWMjdRd2ZyWjIyU0VMX1RZcVg1eGtvMVBrREVJNTlCd2V2Mjk4MFJOYzEzQU8xUjlXaUY4R1I0cVZOQ3NPWklKZzNJMUpjZnQtVnVEVHJ3Rm9mZzJFbHNEakF4UUdVMmJFeTFaRjhyNHV2Z1g2ak5MWkVJUkloOXQ1LVdJVno4cG5NMlhkalppMHM?oc=5",
+          "date": "2026-06-29T07:00:00.000Z",
+          "source": "Free Press Journal"
+        },
         {
           "title": "Rs 1. 5cr heist: 2 on bike intercept Delhi firm staff, brandish weapon, flee with bag full of cash",
           "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZlAtR01ldWFOYVBZYjhCbTktS25vT1V3eXNJOVoySHR3MUFLSEVham9zdXhiUll1X2tYSTlVVTc3eXhiWnFTMWlNaFNYRGFQV0N4SnBqWC02ZnF5dVoxai1wZ1dIUmxhYklJX3duS0E1eThmYkJXNzFTMzNzQ1psZUdRamdqN2owQko5bUNMdDdoMGNYRkh2VDdvUlp1dDdxUUxUenVSNEVKRjVtR3NHWWNnd19YNC1pcGUycUVFbGpDTklMeDM4QV9feVRoNzdUQUJ1Nk0xZC1uczRhLWt0RllDM051QdIB6wFBVV95cUxQWTNKOC1zNENjUzNwTlpfT0hZS1JDalR5YVdTNjJUampFcUlFbjRJcUZhVDNMQTBOVHhteWJWTjhXX2g1STlZWnRnNmh0V18zMUlsODlMWEhRNWJ6Z2N2Qjc5c0pDSDM4bjBqbjhmYkUtcm5xR3JBT1NpYmxOVHJDX3RHRF9JdGEweFFGTHlieDFCLTMzOGM5b0tRYzhOYmxUUlFnaldidmlWNWhPbjNlT05RRWNrMHJ5YWFEbVJxVnhFOThIb2ZyQVcxbl9LX0xQSUFpc25RRzMzb0FqSXRzRDB6UDBRNy1nWmpj?oc=5",
@@ -25,12 +31,12 @@
       ]
     },
     "Geetanjali": {
-      "cachedAt": "2026-09-27T10:19:53.569Z",
+      "cachedAt": "2026-10-18T09:08:28.686Z",
       "query": "\"Geetanjali\" Bhopal (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Motilal Nehru": {
-      "cachedAt": "2026-09-27T10:19:53.569Z",
+      "cachedAt": "2026-10-18T09:08:28.686Z",
       "query": "\"Motilal Nehru\" Bhopal (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -42,17 +48,17 @@
       ]
     },
     "Jain Mandir": {
-      "cachedAt": "2026-09-27T10:19:53.569Z",
+      "cachedAt": "2026-10-18T09:08:28.686Z",
       "query": "\"Jain Mandir\" Bhopal (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Mahavir Swami": {
-      "cachedAt": "2026-09-27T10:19:53.569Z",
+      "cachedAt": "2026-10-18T09:08:28.686Z",
       "query": "\"Mahavir Swami\" Bhopal (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Gulmohar": {
-      "cachedAt": "2026-09-27T10:19:53.569Z",
+      "cachedAt": "2026-10-18T09:08:28.686Z",
       "query": "\"Gulmohar\" Bhopal (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -66,191 +72,215 @@
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTlZJd2c4RHlZNnRNU0oyblpEVkYxdlpNdUlsZ0VBdEZSb0haeF9aV0c1ajFMbEU0R1YxM3N4LVloNlJmT2pmNHZfUERSLTQ4eXdrMThBa3ZFcEo3UmtXbzdiZ3BrVG5RTmdSdGk3aFVLVVprdUtwVEl3V0d1RGwtdGdYSjItZG1Ga0h4OUxnTlEzeDFJNGJiTGZza28yQ0F0akxlR3E3RkRQRTVLVkpyNGZrcDdUMFZVSDhXWWlTc9IBxAFBVV95cUxONzJhVG9Qa0YwNUlTcXp6dG01eHI4M3lHOEJUMWNBbDV4V1RJa2dSNHU0V2tWdWpaZDdIWXlXSTRQcXdIUXZLOW5UVzh6ZFhBMFhVMWE0UnJSMEdSQ3Rwcjh6eThRNVdrOW1lOU1ZQVlfcnZ6Q2R3T1NtMW5vU2oxby1pSy1DSmJxVDkyeTFhTnZJcmtpUnplaVFHUUIyY25vQkZqeVoxb3RFTVFjZVJmR19DMThTWXNSbUpzX0w0V1NYR1JN?oc=5",
           "date": "2026-04-27T07:00:00.000Z",
           "source": "The Times of India"
-        },
-        {
-          "title": "IPL Betting Racket Busted In Indore; Five Arrested With Mobile Phones And Car Seized",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdjJVWWg0ajZfSGQwTkVnaXRKQmVQNEloNHUtdWF5di1EQmc0QllNNE8xTUt1Z0lWWk9FQjdRZUg3dUpEVXdNempjT3JoQ3hLNjFDcWJ2Y1RMV20tVC0xdFFYNzg5bi11QkFyOGVPTFo4dkRxRGlKQzI2RVoyakVNWlpjV3NaRFQ1eVUyeGVLSmI0U1VmNHduRHBJSi1Sc0xKcDd2WE5PUV8zUEd4amo3UVRfamtiTjVscmdLUldZSdIBxAFBVV95cUxNTFNDeXl0Z2NRZ1dQbFA1LUZLcTdaNFo5bk5heVMxZFllbWlveFBVZ0tMLVJ1ZkJfaU51VnJLbS1ZdTNLVlVFTmF1NDVjYTJFQTV5MkxkQ3FyOFBxdEZJUk5ySGFMSURyeElCS2pibERBRTBiWkxBUDFDMk14ODVwcFllZUFCd0NRLWNUUDk2eXlBVWNzdXAwN29pWU1aa2NjZUpVS1I2SUxoSGtFNHJxUlFBQVBSYVk4alJXeEdsMU9oUlhj?oc=5",
-          "date": "2026-04-27T07:00:00.000Z",
-          "source": "Free Press Journal"
         }
       ]
     },
     "Sankhedi": {
-      "cachedAt": "2026-09-27T10:19:53.569Z",
+      "cachedAt": "2026-10-18T09:08:28.686Z",
       "query": "\"Sankhedi\" Bhopal (crime OR arrest OR snatch OR rape OR molest OR raid)",
-      "items": []
+      "items": [
+        {
+          "title": "First In MP, Bhopal BMC To Earn Revenue From Treated Sewage Water; ₹15 Crore Project To Supply 20 Lakh",
+          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNSmhpS2hRbkhsSVJvTmx3N1YzdXV2ZjlGM2tiRjk0VEtGdkJJclhmeEQyOXJwc1p2N0haSElVdkRsaUxKZ1EzdkRrQl81RFlkTXlGOEJwNXA5dzBLTUxZVFlvZzJoR0VZcFdfNWVDRW1JeUJpS3ZqWWcwZDV2dXRiX2NGVzFXdzk3Q3prUk9IeWdaMzJ6WmNzYUVFRHc5QURQNHlJcWFGR2VLTUMyWkNLLVRmaXVRUUZYT3hDZ2hpR2RiOTJ4YmV4RE1FaEJyemU2UkRqeUxMbkhuVEhTc0RQc1p6VElybGliaFNtQ0pnckJHU0FXVEd0SdIB_gFBVV95cUxPT0RLeDI3clNPUlBlVVA5ZTBqUWVQeGdkSnloTlhqMlEyOWR2dVlvWVI2UWpYOGd5MjhmWVM0VU1ZTXJsZUNiTUF6RFVKeWVVYmtoR2RVVk16WkFEcDl5cmQ1d0hQZC02YVlMN1Zjd29kVTlxdjJwV2puWHBsR2c3RFNtYWlsMUl2S1cxVGpheGEwbkowOVBLbXdrb3pRZldnRW1RaW4zTWxONWllODc0QUtfTi1zY3poMFctMW9EdmNBaUFXYVktQjEzTlJwQUU5VGUtSm9rLW1FYkk3aVJfN2FUbVZUcU92U3pJWlJMTndNS1g4S01iMFUxbXBLZw?oc=5",
+          "date": "2026-10-14T20:02:00.000Z",
+          "source": "Free Press Journal"
+        }
+      ]
     },
     "Danish Kunj": {
-      "cachedAt": "2026-09-27T10:19:53.569Z",
+      "cachedAt": "2026-10-18T09:08:28.686Z",
       "query": "\"Danish Kunj\" Bhopal (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Govind Pura": {
-      "cachedAt": "2026-09-27T10:19:53.569Z",
+      "cachedAt": "2026-10-18T09:08:28.686Z",
       "query": "\"Govind Pura\" Bhopal (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Pandit Ravishankar Shukla": {
-      "cachedAt": "2026-09-27T10:19:53.569Z",
+      "cachedAt": "2026-10-18T09:08:28.686Z",
       "query": "\"Pandit Ravishankar Shukla\" Bhopal (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Rani Laxmi Bai": {
-      "cachedAt": "2026-09-27T10:19:53.569Z",
+      "cachedAt": "2026-10-18T09:08:28.686Z",
       "query": "\"Rani Laxmi Bai\" Bhopal (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Barkatullah": {
-      "cachedAt": "2026-09-27T10:19:53.569Z",
+      "cachedAt": "2026-10-18T09:08:28.686Z",
       "query": "\"Barkatullah\" Bhopal (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
-          "title": "Bhopal Crime Branch Busts Illegal Knife-Making Unit, Seizes 12 Large Knives, Blades And Machinery",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZDhnaEpfZmhPWUcyN2RlTWVybzFRQUstMTZJRFRkLTVJS2N5b2RydnVTYzdkaGtWZU9vRkpNVXo4ZTVLVzAtbDg1ZTFsNXNQc3JrUF9MVXNObjJJZjlQMjlEaEI4c3NxN2VxWmJpSV9VYkRNSXpsaDFZWmdneHpMVnlfYzFySE5NSDJzdGhYbUVGWXNzZTkyaXhOdjNNdWdjYWUwT09yM0NYRDh1RkhGdGp1QmNmM3hMX1F4eF9XR2tzWERXVk10b1E5ZlJGbHfSAdQBQVVfeXFMTzU5TG1naVdnQUhOZnVHRERHSktVLUlmYTFNNjFSMkF5T1hoVWRyVVQ2Q3JEUjEwcDVfWUVOVklaMFJtTFM3SHc5MmZrNGNibEYwXzgzbHhoeHlfd191ZXp6T2hVeU1TN2YtRVRjQklVOU4taVZya0p3ZW51M1d1UFdXZExSTnVwVVlXUDd0anJObmZnT0V3U3VFWFpYekhKLS10Skl1N2o4Z1AxQWVZSEljUjR5MzJPU2V6Vms0QWhwSUtuX1BVZkE4TmJ5bjc5cUdEVE8?oc=5",
-          "date": "2026-09-17T07:00:00.000Z",
+          "title": "Bhopal Crime Branch Head Constable Injured As Service Revolver Accidentally Goes Off During Cleaning, Bullet",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPR0NUOU9ENk1jTEVUdzR0a1FJSzJ1d2J2Rk9Pd2NnOHVoZ2lWZ21OU2wxYjcweXFOMUxMNDNyUHhhaVBWOFhXRXlrX1ZGLUhNWDEweks2Wm9KWlRsYmFaa3VsWktDMmFaOHV5NmlXd1pOVEs5djFIcG9la2pXTkplR3ZqNkFJZEU1SVYxNlpBMXFJR3I2VGhFdnZWLWFWR1JWZ3BGZnlNQmlJQzk5VVJsd1ZKbEdfa3pPNTBYS05jajFHbGRGTWYzQVhELXFDZTVFZDBVY05HZWZvc3hsN3FGcDJhX1VBTDhEQ2RQcDZQZHTSAfYBQVVfeXFMTjZrcjRXZjV5R1FrUElub0owWUJvaEE4VVpRUGZEQnhLOEN1M3Y0UE1qSFdtUkdBd0dXOWx2eEVkaERsT2VxVldJMGZwbTJhOHphVzdJaVk3TTkyWlZSQnlPUGNIZGJYamRzVzZDNnR6d1laOWJnMEw5TnNSOHUwTy1Ga2puWUszakQxaWlpWngtTlVCemFLR2RCWGVQYWNpLTZJaVBzWGk5UUwyNTgxTjh3ZEo4eUZUbjJRbFNMNkFOR2NtZFdaUXd5WTRRb2h5UjBlQVVrOTZhVzZGNWZtdTBGVUQ4dGdLN0lWSGplWWJ6OG5RZXR3?oc=5",
+          "date": "2026-10-16T19:30:00.000Z",
           "source": "Free Press Journal"
+        },
+        {
+          "title": "Snatchers Strike As Festive Crowds Swell; Seven Incidents In Five Days In Bhopal",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOU41NHZQTFVFVVFIRnUzVW5zX2cxcVZrUWRIMmtHeERRU2doYWZoSEZEX2J1Y3hrTldKeWVFU201bVVWSWxCdXBib1owbWw2X25SSzRnZ2tQZEJtc2xhM2pldzl5Nmk1WFVLNEpmcUJnS1lFODY1OG9sdDNCVUZBRjhkU3A5S3Z3aTA1WUVKRWpUY24xaUh2Rno5WEQxX3U0RXcwTFRGZVpVZGdUM2xTTlVTLWxWeUpZckHSAb8BQVVfeXFMTktlcFJhLTUtYjdjcUpjbXdLZS1FR2JTRjlHZnZXYm5TVU9VTzU2RlJpQnVDNWZQV1NoWEFGVXlLN3BHZERRRWRyTF9IdFFjTGFCeFN4clYycWVFQVdFNlhNeGl2bGJvSUNoQXdUVXRCdXFLZ0RYUFdNN1Yza3hnRWJzQXFHVWFLWFhqS3U2SmhmeFplc0FSYkdmelNPT016T2hVQld6OVAwTlZPZHBfMlpJeXpwMTR4dDMxaWJjZmc?oc=5",
+          "date": "2026-10-15T17:00:00.000Z",
+          "source": "Free Press Journal"
+        },
+        {
+          "title": "Police Commissioner Interacted With Girl Students At Srijan Jansamvad Mahasammelan",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVmhDNkthbVFnUF82aXNZYUxTYmJnd0VhSDhlVG1vdkNXbnNLRlkzMl81Y2xXaHhoSU9mSUEwem9tcU5QT2ZES2d2enlpRlJkSXFFZS1mQVVIb3NEZXhLWGFRUXdLOVl1c21UTERrTjJxVzY0U2FLRU9FVkRPSm9scHlOSGpmdWRyY0hRQ2Q0OVhWZ2luQ0ZwSWV1bHVzb0ZVNGRDcmRWbkpCU3V3VEJIU1VXZXNWNldFTEFUdFZ30gHDAUFVX3lxTE9BZHdrRlJUdUhtS2JOTm5TTnRlT2dCc3Jxb01YaGQzTFVHRjZNUk9fckRHRXZsbkFoN3o2eTdmNzhTdW9DcWlyb3BWbl9aMzdnbGc3cHZWaXd5RGxZbGIzSndFa2xEdnFFa01NLUVoMFAya19lQ3Nzb2hCVjVyd01mX3IzSG9JUHNQUWlieG1LMEp1VnFFSEh2VU1USnpiRlhmUWFHcFpfUUpLbGNvVUU5U0p0bVdiMHg4UlItQjNoLTJRdw?oc=5",
+          "date": "2026-06-14T07:00:00.000Z",
+          "source": "Free Press Journal"
+        },
+        {
+          "title": "9 held in ‘gambling den raid’",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTE93bXc5NVVzVU9GalRidzIzUEF5ejAyNUlYNjZ1Y3UyMXdiYmpEYlFXNEhGMDFjMkd0eng1cTF0QUhnTTdFVlk4ODdZbTBLWG9vb2NXNmtxUi1JWVhQT2NRLTFZYlVpYmtxMElBSFM5eEhvaWRCNUdoRUI0bXlNelM0bE1RY0ZMekpqc0xza0pJUjlyNHpoRUN2cWc3U1hyYkpn0gGoAUFVX3lxTE1ZZEdHUW9xZEZqTXZDUGZXeUVUeVdfcl9RckhFNzFoQXB5ZGpCUTFvWmQzWFpQaGZSeTZmTTM0UUxHVXdkNF9ZWm0yX05pekFueDdWZzc2N0kxNGQyRk1sLWc0Vlh0c3FYSHljRTI2LWloWVU2cGRSY2JlVFE2Y2cxd1kzZ0JMd0ltR0U5RHJveTBqT3lSaHBBcXlma0tzNGJtVzMtbjJ4aA?oc=5",
+          "date": "2026-06-04T07:00:00.000Z",
+          "source": "The Times of India"
         }
       ]
     },
     "Bhopal Memorial Hospital": {
-      "cachedAt": "2026-09-27T10:19:53.569Z",
+      "cachedAt": "2026-10-18T09:08:28.686Z",
       "query": "\"Bhopal Memorial Hospital\" Bhopal (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Barkheda Pathani": {
-      "cachedAt": "2026-09-27T10:19:53.569Z",
+      "cachedAt": "2026-10-18T09:08:28.686Z",
       "query": "\"Barkheda Pathani\" Bhopal (crime OR arrest OR snatch OR rape OR molest OR raid)",
-      "items": [
-        {
-          "title": "Abandoned BHEL Quarters In Bhopal Become Crime Hub, Police Push for Demolition",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTTcxVlpFUThtd3RiYXVjZC1FNXptcXA1ZDlLcHdncS1BZXFOVHhRbm5JWjk2YktlU0I5SnllM3RtSkFRaFZEZXBweVk4MjZWM1dtblctMWJmVzhoMUtpWTl5c0pUV0RJRGNPWWpzLXRGWkM0d2o0ejJaNi0yVmFxaFNQUy1iaGJXNzJ3cDdyakNGUEZaUUlSUUFYb2dWajFpUW5XMWNiNjJRQW1XTjJseXZjcUVlZEXSAbwBQVVfeXFMUHVXMF9MUzhrdDhPNEdVaTJablBWSlpsWXNXTjdVdHhkeWhzTTc1SlhacVdYeGtyWlZPWE4xUUthRnZuRTJRT0tJWm5WY0U2SkxxMVBIbnJGYVNqZmFiblhNcHRDUGdiajBCeFJnTG5rMGNBMkNaMUxIZW9YT2tMVmZTVFVQUVRHUENYRE1VVzVIWjZOWExSZHJsNW5GY0FMMWZ4TThzN1VFcEtnLTVhTjg2bmcwZEh1dEZwS20?oc=5",
-          "date": "2026-04-20T07:00:00.000Z",
-          "source": "Free Press Journal"
-        },
-        {
-          "title": "Youth And Kin Booked For Abducting, Assaulting Young Woman In Bhopals Misrod",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTXJnbFByTUZQd2dMa3FQVUhvY0dBSlliR3R0TEt5RXpFNHdDV0RUdmItSUJnU0ZmUnQyT1U4SHE3ZDUtQnhoMmx1Tm96dEZ1aXc0Szk5U0dSbDdlaFJ2ZGRKaGpiZEt6N21TR2ljYkZqWHlVam9md1I4MGZzRHhaX19kcVlXLUJNLU5FWXMyM3ZNbnVuS0czQ2Q2X20xOVFPd2Nhckc5Rno3U1g2ZUtyUVJfMDTSAboBQVVfeXFMTnktWE9qSmRzWVNNTi1ITnpjbkdzRERJNFFCNHBWR01sWlBFdU5oYTM1QjB0dWt3bTdERTVRYmlIdjZQRXF2YnV4Xzd0MHVubzBKdXlsdEliYzlJbXRLYjE2cndqZHNPLU1YOGl5dkNpdTlnN1N1QmhiTExhZDlISkV3dk9XbDNnNEdBVXVtUmhka0pyTkVaVU1qbW1ISnJfXzliZW9ta2ZDblRyWmhKd3BDN1Jtcno1UUJ3?oc=5",
-          "date": "2026-04-16T07:00:00.000Z",
-          "source": "Free Press Journal"
-        }
-      ]
+      "items": []
     },
     "Chatrapati Shivaji": {
-      "cachedAt": "2026-09-27T10:19:53.569Z",
+      "cachedAt": "2026-10-18T09:08:28.686Z",
       "query": "\"Chatrapati Shivaji\" Bhopal (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Dr. Rajendra Prasad": {
-      "cachedAt": "2026-09-27T10:19:53.569Z",
+      "cachedAt": "2026-10-18T09:08:28.686Z",
       "query": "\"Dr. Rajendra Prasad\" Bhopal (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Ravindra Nath Tagore": {
-      "cachedAt": "2026-09-27T10:19:53.569Z",
+      "cachedAt": "2026-10-18T09:08:28.686Z",
       "query": "\"Ravindra Nath Tagore\" Bhopal (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Guru Nanak Dev": {
-      "cachedAt": "2026-09-27T10:19:53.569Z",
+      "cachedAt": "2026-10-18T09:08:28.686Z",
       "query": "\"Guru Nanak Dev\" Bhopal (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Shahapura": {
-      "cachedAt": "2026-09-27T10:19:53.569Z",
+      "cachedAt": "2026-10-18T09:08:28.686Z",
       "query": "\"Shahapura\" Bhopal (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Cto Bairagarh": {
-      "cachedAt": "2026-09-27T10:19:53.569Z",
+      "cachedAt": "2026-10-18T09:08:28.686Z",
       "query": "\"Cto Bairagarh\" Bhopal (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Navi Bagh": {
-      "cachedAt": "2026-09-27T10:19:53.569Z",
+      "cachedAt": "2026-10-18T09:08:28.686Z",
       "query": "\"Navi Bagh\" Bhopal (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Bhanpur": {
-      "cachedAt": "2026-09-27T10:19:53.569Z",
+      "cachedAt": "2026-10-18T09:08:28.686Z",
       "query": "\"Bhanpur\" Bhopal (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Idgah Hills": {
-      "cachedAt": "2026-09-27T10:19:53.569Z",
+      "cachedAt": "2026-10-18T09:08:28.686Z",
       "query": "\"Idgah Hills\" Bhopal (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Ram Mandir": {
-      "cachedAt": "2026-09-27T10:19:53.569Z",
+      "cachedAt": "2026-10-18T09:08:28.686Z",
       "query": "\"Ram Mandir\" Bhopal (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
-          "title": "Bhopal Police To Deploy 56 Specialised Cyber Cops At Stations For Faster Fraud Probes",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNUJQMGJ4dUVzRWFIR2lPVHFsN3VINVMwRUttVmRoRWlYR3VjdkVCaVdkb2RLekJiRmh4dmhLUEVYcVA4RGlkd0g2Q2RyNTU3MEx6RFpJLUJZVDljVUdpak9DTjNYQkZrMFBGSnNFbEhOZXhYSVlEcVE1LVhGTkN3eC1lOHhUUGpVYkJGLVFTWkFrV0JsdTBHMGY3LVl6anNlaWFOZ213ZXVYcllhYUstU3hFZUc2azRNOUdLcXdjTTFTUdIBxwFBVV95cUxNYXFyQVpvRjUtck9VdzlOaUMteE50QTIzcjBYNmZXZm9mcU5ZQmZScDJZeXFMbHpKcG4ydDZsZ3VEcjVtTkdvaDY0NGVSbEdXOWwtc2t3blE2Vzh0Wi1ScTk1dXZuSXJLeVlpUnhCcVVsdkFiRmVRQzRGc2l5b1NmVUxZZU1fUmd6RlluTTJxZU5VcmtPcFk5clBzZWpGeHhaNXlMTTd3SE9qQlRlSnhLc2g4TFFadThlSWZHajBJazVzSS1qdnFz?oc=5",
-          "date": "2026-09-25T22:30:00.000Z",
-          "source": "Free Press Journal"
-        },
-        {
-          "title": "SIT arrests Bhopal-based consultant in NEET-MBBS admission scam",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMHItM2FYWFNOY055Z0xoZG5RbjR2dHRfWWQzVmowQjc5NTJIeWdKc2dPUllKak5nUGN3bGcwaXhuQTc3YW83Y2JoLWh1V1ZOazRkTVlmMlhGYUdZX1Mzc3VWQWFZNXA4NURCNDJOSFJGaW1IQy1YUGtsX1dmdy1SREpCQkRiaGhaaWZBLVlRT3d4QzA2QVVZOFRxbmdpQnM4b3YxbWRZVXNkOG5DZnZscDBUNUk1QXVTWDlFNkViSUxaN1RLQnZwZkEtdGMtc05QcWNvV1hR0gHbAUFVX3lxTFAtMGJQRnZBX3h6NFZyMUVfb1k1RW04QXdYUjVyRkI2aGU5cWVHV0c5b0gtUUcyS0kyb01nVHQyVGpUMWhCdTNMeTZ6YmREeXd0bW9KRGZTV19Dbk5CQjYyOFBWUVpMZ2FFWlNLS0lNSzZMX1ZNVjRzd3QtektfNHh4TUR4aXF2LWxDeVktc21TTTZTUmJZQWtDdkx1ZkktdDUzVHlMZ2RueVZUYVN3Mjl6Yk5yN1F1OXZodk84R0RDMlFIT2FyX3RTeXJnU19PMmdWU0o4QUJmYUZIbw?oc=5",
-          "date": "2026-09-24T17:55:00.000Z",
+          "title": "Tribal girl, 13, found dead in abandoned building, rape suspected; man detained",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdG5Hc1JaazUyZ05yeVZSRDA2Z2Q1WW9RVGM5T256dzduT05XWFBWdUhicU5HRDduc2RQLXdGUmNXUVBuY2tYYlg1LWpycVV0QlJ5RGpaZ181Z0VWODFvTjFMNlZYeTNTZVFVR1FlTjlZYnNyXzd3X2FvUFJabk9sb2Vpc3A4Wm5NS1RzQVRLQlctTVVPUzNOanRacllGYlJHR2hycmhPTHVZbWFhd2hKMkcxdFpRNWtmVzJyVzl5VkcyM2cyWEM1dEtPNFJkclJoVEs0N2xySmo5T1RIdUd4OWZFUdIB6AFBVV95cUxPVkRMRTQ5ZUtZc2xOLWZzTFNFRzA5YTFDMk1ncDREV3NCSzk0Z0hqQm90RmFtQ1Fabi1ockFOOWZFVnhER2xONERZcFFkR2pNdUJCdjFUamVWQmxhNGlKcGhmZTJaQTZDNnkxSjFRS21ZcGk5V0NFalNaM3ByYzJmem1pempUZU94REdKZVhjN29jZ3JyaXprdEktWEJwblpSdjg2SEtCSGlaSFI5aVVwSjdIOGdZOFYzaEFTclY3V2czX3dhREhXNVhHNklZR1c0Wm9aN0NBR3pkdEU1clM2TGhyMGJ4RkFY?oc=5",
+          "date": "2026-10-16T19:02:00.000Z",
           "source": "The Times of India"
         },
         {
           "title": "Mistaking police search for gambling raid, trader dies making an escape",
           "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNV0xnNTlpV3NZclM3bWVIZHFxTVgwQWgzX1RySlM0M2pncy0tOE9neVJtSnZsUnAwZjlBb1Vtb3IwT01RWFNUMDY0dUVyZDRNWXBPNmJIcWxEdWMyemFPeFJ5RnJzLWp0Z3pidW5GTnI4V25PRThad3Iyc0sxR3VoZERuLUgtanJWVnNSV2V4ZWpuNm5PU0pGbXozTmhPNEhsVkJHTEU0Y3VYNjloX2h4cTI2eWNuZzBQSGZudEFEeG5Nd2JJaDhtWWFxVVEtc01wY2x2R0k1NEI0TEVY0gHiAUFVX3lxTE1DdG5HVTZNQVg5eC02aWtfdTFyYVlxM2NKY2hSZkdNQU5raGtEVzRkTGVseGJpeVpmVE5lWV8tVEp2LUVsMkI5TmhnY0VsZXZ5SVNRMlhDRjFENlJwU1pqd09RZFBaSHJ4UnpNTkZDX1ZxN3VDbTJFTmFhNWxtZ2VsZGp6V05BZ3lseUx2OFFPMmpMX2NPTm9XZG10OHY2dk56ZlZnZ0gwQllUbVp0d0JCZkNpaGpmNG43WU9UUHpRRUVTZkdxTG5vZkc2YXBxck9TTS1Ubnp5YThMVzNZUlJvaEE?oc=5",
-          "date": "2026-09-24T15:20:00.000Z",
+          "date": "2026-09-24T07:00:00.000Z",
           "source": "The Times of India"
         },
         {
-          "title": "Satna Police Viral Video: Drunk Constable Loses Balance, Lies Down In Middle Of Road",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYzl3QjJKS3dBd3NhNjlXN3ByaGJ6bE5rOXRxSHZFY3BNOVZSUlBKSlp6aFlvcy1UalZ1TjYwZ1IyVnh2THA3dVNrY0cwS3M5bVJ2R2x5Y3hUY2R2Ym5jVzVpbk10cVVXNkE1U1FsTkRwTi02aUpEek1PRUUteGRRbl9HN1RhNWJRZFBLLU9RX2Q4Q1NWd1dpdmVwb05YM0VYU3ZJU0htNTJpMFVBYzJwQV9RT0hmakRsREc3bF9R0gHDAUFVX3lxTE1jbzVGZEZuVk9IWWFWN1V3SGZMX2doM0htVU9ncVgzMWgyRE9PLTFDeWxQS0w3dUpwZHVlaFU0MVo1WmtDdVZCTDBVVWJmQkRnWm4xdHJiSVlqQnZiUDFCai1QS1hYcFBlSEhqdzhnZXJEVGNZY3VOd2U3WW5IU3ZGaDNEcnlYek41aUpqZGNwRjhqV19hVVliVkNVRzVNd3llNUNYZHJSN0JvU0twWm5OLXE2MXJzSThXcHNXUmN4VHVlWQ?oc=5",
-          "date": "2026-09-22T06:57:20.000Z",
-          "source": "Free Press Journal"
+          "title": "Man given shocks over ‘affair’ dies, nine arrested",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORGFaZVlUZXNsaWNRT1hFZ1l5cFpieE5oWVRpdXJBa2JwcXpQTkVaOHdvWFdvMnJ6Z21BWE8wUGMtYkt1LVpTZGhtNnowU0VmbmwzTmtnVFc5VDFIdHFyckowQ0xzeEp2UDZNWWRMREZEYmh4Sjlia2tSQkk5YllSWVpiVEh5d0kwZkdzMG5meHpZaGFhZzhmOVBYTHgxTGp1Q0Excm5qcXJEeHdtbE9zSV9KYXg3b01rc3ZidkRB0gHDAUFVX3lxTE81VmJmR3hXX3FQOTRPcTJ1VDVlQ3luTWx4RTZ5dEo0Vkd2Mk1KZlpUdmhiZktVMUxzWi1hbWU4M1pKYjBUeTZzR084eGFmdzg3cWltNmJvd0stZUw5cXNPeUJUUWpVaXZwWjhtM1Z5Z000VFNkTTJ4S2toSVI1NkJTcnp6c2FGRnNTOFgwalA1U0l2MWFlVThqMl9BYVEzRXNWNG43aWUxVmhLVGltSzYySHNPVWhyeVZtUzQ0YktIOUxObw?oc=5",
+          "date": "2026-09-24T07:00:00.000Z",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Amid Ayodhya fallout, MP police cracks spate of temple thefts",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUkxXVTJaQVl1ZVpmSmUwSWlnOFNvUUhKRnZlSHR6bjVCOE9QcVVMVlY2ZnByQkJjRFgxY0FTc1RiemtNNUZmLVFoamFJYm1qbUZDbGFxS3FfaGszOXJ6dnpVcFpxeDB1Rlo5NWdVU3hHaVlRVkRGb2M1NFRlbERSQWVOdUc1SVAzd2ZhYW9lcTYxbVY4c0ZfZlNFdkgyLW1USU5jbDNkamNKQnNOODFXNXpCN09LamtoRlVuZXh2bU1keDYxUWdZUkt4ZF9UMUXSAdQBQVVfeXFMTlB0d0djOWJSdjAxUmJ5Wjdrc0puekNhd1BuRWNFcEdJRkhCR2t2OFV1b20xZHM2dUFNV1BCYi1QM01adE1lSHdteHVrUzhwbUU0a25CMnUxX3JrcXNwZjl0cndyclEyczB2WFZ2Si01R3kya2JhVzVuQ1R4eGJ2amJQZmV0NUVqb2xYZlotZGNTVVdfczd1SVpjS3dWc25RQl9ueGd0bU5JS0NjUVpRSlN1T2JiQmlVa19jcTVoaC1TUTc3SUZjT0RDUnZsbkJKSm9RRjQ?oc=5",
+          "date": "2026-08-26T07:00:00.000Z",
+          "source": "The Times of India"
         }
       ]
     },
     "Goswami Tulsidas": {
-      "cachedAt": "2026-09-27T10:19:53.569Z",
+      "cachedAt": "2026-10-18T09:08:28.686Z",
       "query": "\"Goswami Tulsidas\" Bhopal (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Bag Munshi Hussain Kha": {
-      "cachedAt": "2026-09-27T10:19:53.569Z",
+      "cachedAt": "2026-10-18T09:08:28.686Z",
       "query": "\"Bag Munshi Hussain Kha\" Bhopal (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Asha Niketan": {
-      "cachedAt": "2026-09-27T10:19:53.569Z",
+      "cachedAt": "2026-10-18T09:08:28.686Z",
       "query": "\"Asha Niketan\" Bhopal (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Royal Market": {
-      "cachedAt": "2026-09-27T10:19:53.569Z",
+      "cachedAt": "2026-10-18T09:08:28.686Z",
       "query": "\"Royal Market\" Bhopal (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Ibrahimganj": {
-      "cachedAt": "2026-09-27T10:19:53.569Z",
+      "cachedAt": "2026-10-18T09:08:28.686Z",
       "query": "\"Ibrahimganj\" Bhopal (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Nariyal Kheda": {
-      "cachedAt": "2026-09-27T10:19:53.569Z",
+      "cachedAt": "2026-10-18T09:08:28.686Z",
       "query": "\"Nariyal Kheda\" Bhopal (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
-          "title": "Bhopal Power Cut June 3: Power To Remain Disrupted In Firdos Nagar, Bafna Colony, Shri Nagar, Green Park",
-          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPRTlUOHpRenVrVnVOMmZOOG5YeVA1N2hrZDY5bmlCZXdlX0JHNDRIWnhhYXlsN2Y5dUZJOWotQk1qYkdLYkM0TGVwaGFCWVk2b0MwZnRBdkJUckktY3I3XzBocm1US3FReGlPWHI4emQ0dV9NTE5pak9ham81TXAwdVN3clAxTVprMUpDekR1S3NWdExPMHhmWnVheFV4b0J1dmlaRHlNNkF4SWFuTUpORjI5TjhhX184RjJEaTFPQXpialB4THRHa0s5MmlicGxKaDNUZ3RYUGxCX0YzZmVJdzlJRDhjOFByRGhGdkZPbmlqQWpibjIwVjl1ONIBgAJBVV95cUxOTFhCcjdCclNEbE9NYk5sNUVoODREUHluam9tS01kNEZjZV9xNU1qRlRjRUgzWksxV3k1cHR6Mmk1U3c2cF96N1pNckc5X290dlpoN3ZkcFgzdDVKRzVFM21ISzVFeFNKZVp0Sk1hWDJYUUt5bjNCcGJKRmhraWtKRHc4aElUVTRfZUNhN0dzYjJQX0h3SjhGNDBHTElKX1JZTjZTN2d4ZnZrMXMxQWc2X2hXZWszSHlDam8wT3ZYcVRYRWF6NzhuYnowS1ZIdnZxUnp1T1N2bUxVbnRCYURyNmJWd0hSZzQwQ2FmaU9kV3d5UGV3UDlOUE9rZlpZZUw1?oc=5",
-          "date": "2026-06-03T07:00:00.000Z",
+          "title": "Bhopal Bike Theft: Main Ghuma Kar Park Kar Dunga... Druggie Caught Stealing Bike Near Navratri Pandal",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPenpYVVFrSDJfQzVHR2dkZHlsdE9oSU8xMERKTGhBajZFVGNkYTFVQWVycnVPUEZLMzNwR3d1WjdRSnBrdk5RUkw0OEh6cVhGMEVnVHpQRktSaVczMjNLRmxqSUY2THJybzZxUGZQWkV3ckxPcXNvRHFhZlNOMXp0UTdfZE1Jc1A5ZTF0bzhrd0poVTJWN3NXYnhoNUl3Y2VrZU8zMVEtMjdpUV9EQ3Q0b1dZTk1PNGwzM1FCNFRfaGVCZ0ZxRV9ldHZXSW5lY2hWVGfSAdcBQVVfeXFMT2NWWnBPMUJINmhZelliZG1hSF9GTTRrUEVjMGpBRlBoRTFMMjBscFZMYkNfTDF5N0g2UHA3VUF1THdIZFV1YWtORVZRZEk0RmNGQkFhcGdtZG5FaUY3T25aTGtVQThkUTlXaUdReWFHbkVNOE95d1FKcm01VS1RemtMbWczUmpsc2w4SVhFdUlVVEM3T1BLMXNCdGh2WFAyUXA0WDIwSkpZc2xuR2d0RWxMQjNsaUhmQk9KdHd3QXdYV2paSVNjdHg4VUpPYk9fa2h4MHB1Yzg?oc=5",
+          "date": "2026-10-13T11:44:04.000Z",
+          "source": "Free Press Journal"
+        },
+        {
+          "title": "Bhopal Power Cut September 2: Power To Remain Disrupted In Firdos Nagar, Sant Kanwar Ram Colony, Purvanchal",
+          "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNd3lKZzdQcEhLcjdYNU1zLUx3VHlwMmpJUG80eUkzNlpQU3VKT1NFbGJfWkJ2alQ1ZDhkYjY0eE9HaHlkMVVvMVNyNHJIWVpFY213MHA1aDNBcU5McDc3UGVSTjBNT0dCWVFFLXpOR21EOUlkU2hsM2dvMGxHNDVMVEtCTUJlcGdBYlEwMU5ETUI1djhsdkl6eUktR1hkbndpLVE5bGFGODVpSS1HMlNnNm5nXzlQRFFpd0RMcGxQTWZFOXN6TTRSZnNmMnpjTTBDRG9GZl9naEJla2RLdi1SRlRmdC01bkNya1ZFTGVpMmJ0QVZrLXlBUUNCVmdVNWo4eEJoLV9pQ3g2LUdwR0NMMXBUcEg4X2lrQi1B0gGgAkFVX3lxTFB6emxXX0NvcGhxby11Mkc0c0k1UE5iaWR0N3lBYUJ3aW50Xzd5ZTNOYlIyYVNmdzA1eXJUTTBqVXdVazF0RE9XT2VrMDZEYlB2YmIxUEZ6M09kOUswUV8wNE11SDVwV2ozWUxmNUhWRTVBM1BxWDU4aEFMZ2s5OXlWX1lSd0kzdGN1SlBNbWhOamc2Q0RxMjE3Umh1dWtjbFpIX1FJN3h6dlhHa2hScEFoYjEzamVyMEhkZDAtN3ZtMDllek9OY0I5VnZteEVhRVI4X3lGb2drZ0tuR0FRMnBERmZmUzBrUmJmd3RiU3B6TTVfRExTc0lEUDBSRVpLTGJ3RU0zOC1Uc28yS2dwV29BWlhhUlRGZ283TFE2cXhueA?oc=5",
+          "date": "2026-09-01T07:00:00.000Z",
           "source": "Free Press Journal"
         }
       ]
     },
     "Jahangirabad": {
-      "cachedAt": "2026-09-27T10:19:53.569Z",
+      "cachedAt": "2026-10-18T09:08:28.686Z",
       "query": "\"Jahangirabad\" Bhopal (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "MP Police Reshuffle: 10 DSPs Promoted To ASP Rank, Bhopal ACP Bittu Sharma Shifted To PHQ; Vinod Kumar Dixit",
+          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOek9JaGpoWXhiMC1qaFFmQ2tYTENXZkMtWkJ2R180aWxsZzZjWkRsMTl2OWdUOEUxY21qTXdPZklMcno3Vld1VEhyakUtcVNyOG9KblA4aFNyTWpjMzdVODNWUnpUcGo4bnlQeVJ4VVhQTC0waGJnTVBIWmJOcnFkWnJLbC1CbUQ1Ul9QRFZhaE16MDNIZXJDTUdkdjA3NnJzUVIzclBiM2tFVnpDMkQ3SzRQZHlUdG5FOFoyaDBUUHZnT0FndDVtVmxDRXJkdjY5WmcyeXNjWHEtU0FhS3dyNklCb0xNTlRCY0hOWmZSWG1NNUZvOE1FaWFoOXpDV2_SAYQCQVVfeXFMTlRDVFNGRk1vUUhyN0kwWGdzZHVxdEhOTlA1TWZpbGJrNm5yLV80Zzlmam9GQnpuc0gybFl5eE1LVm1NVGxZNlFLdWtKRVM5NUJrUE1iWG9FT0xwRnRJRGJTX1VkSldGYXllb3Zxa1lXenZfMHk5OFZCejYyYWhYS3B5bUo4S3ZhTkE5QnVkOGN4UmVxRm12WEpiNkF0V1NjTDJaYXBxa1dtVjJiSDdVYmVnT2VacHg3UW4zSUt1VEo2MmlSczFLZkFtVGJiV2JOaUxxbGdiVThoQ1NjNzNXOWhIeTJyaENPLWM1VkZQUmRFYXBTc1laMk9EZXlKamZFS1NfdjU?oc=5",
+          "date": "2026-10-09T17:30:00.000Z",
+          "source": "Free Press Journal"
+        },
+        {
+          "title": "Bhopal Lawyers Block Roads Over Alleged Police Assault Despite Suspension Of Three Cops",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQTJJeXVPdTJvSmhOemNSOEcyRzhHSE5RQ0RVYlhaNHZOd21GMVY4eXVfV1MybkgzMXRnVDNQZWRPYzNmOC1GejdZeGdlZWNoNTJPNVFseGd2ajNYMFJJbGw0ZVFUODZaemdUX0p0al9neWV1d1hHVkwwN3hadEpBQWdFWFJUSVVTYWU4Tks2NHVEN1VuOTRvZ3VVQUVaRzdTeXIzMXVKX1hDWkI0bTJEdjY4VUZlN0RqdXBmMWN2NUpFNHoy0gHKAUFVX3lxTFBHRjVQb19tYklEQ1FqRjYtcmtBV0p4RTNYdk4ybktlZ0JvR0wxR3VCLWVHQm1PYm1aN3FvX2pKZ2NpbXN0cUx0M1NacGFFY0hWOUJ6eGZnUlhYMl9DalBZZllCQmRrazI3b29XQ3NFbTJVSzNwNVNmY3JzLVVXMXBSdE5FRENCU1QzMTJBc1F1T3hJd0x0TFV5aFV1Zzl3ZDNFV2ZEZVhBSVZfalpRMWQ0OGhraGIwbzJZYV9yTzlaR09rLTNwTDNtR1E?oc=5",
+          "date": "2026-09-23T07:00:00.000Z",
+          "source": "Free Press Journal"
+        },
         {
           "title": "Policeman Rapes Minor Dalit Girl as Colleague Keeps Watch in Bhopal",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMjVLYXBhV3FBWUdLVGFRbU9ZdGROTFVET1J2WHhxTS1PZ1E4X1gxRHl5RUtmdGRTdV91VDcwUURaa0J0OHlRWF9PTFhfYnJDLV9GX3BGbXZkTnNEV1lFakI3c0ZwWUlOWEhKZGFISVFzUkpKclRtWkl4ZENMd21xeWxUZkpOMmNNZzhwOGxWN3dOUUNXQ1dlamV2RE4tVVhYaUM0ekJZdTFLSnNtekF6VUNhaHnSAboBQVVfeXFMTmZUMzhyVHhKaHlDcTBGZDR6Skk1ZXFudGdiSXZtM203ZVE1a29EdzZmOWFQbGo0eEhFNFlMYW5acEFFZ1VwdGNwUVhkc21uZmg0THZOeVNQbmJPRVZNUTViZHRKT2oyVkN0bjFZNlVTaEg3TUtuc25YMnFETi1XTGNZdVg1UG9FQS1qTzN3N1B4UnJBTWRPNF82aXE0TDdyYjFhOHVzbDduNF9UX0xyTnNBeER3cWoxZkln?oc=5",
@@ -262,50 +292,31 @@
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQUhsaE5LWW92T3dFOHVJaHk5SGZJck1DLVhrbTF2cTA3dW9UUEY0YWk0c2NwVzdmY0ZmaHc5NlBvQWd6a0szZHNtNnJ0MFBhWDZKV05uUWJzYS10R1hSekJfQVVycXVyNmhYQ21QSnF5MzJMTW1zWkNWemJpa0FEdmlybU94dU5GV21TaWFsZXVGcWEtRGpCeFZ1eGg0dXl3UVN2WHJ0d9IBrAFBVV95cUxOOFJoQncxWHZxNkJMb2VibFYzZEZYVlFkRnBaeERINmx3cHRBMUVQVXJ2bmRNb2c2UWJ5c1RLX0NZcFQ5V1JTcnRvcmN1SlpRM3Qyb2h5NzdJRE9JLWdPd2haU0stbjdNMGRJN3VSejZZazlpajJzeHJPa3pMZ1hrVXBQUnhLLTZqRS1IQXFjSnpvTjFzUjhhNXJ0NDRMQXloM3F0TTNzdDlQbDZ6?oc=5",
           "date": "2026-05-20T07:00:00.000Z",
           "source": "Free Press Journal"
-        },
-        {
-          "title": "FIR filed after videos show Bajrang Dal workers assaulting man over ‘love jihad’",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxON2JtRktxWlpGWnFEdHZSNDlQaFN5aGtscmdkbHhQdExGWHJqMnhpcElJWVFqWEFsMWZtNmIwU3B3V0s3V1pOX0NCWmdrMFhFNDZnbEgydm1oSHJvaGxfLTJTTm1TWnJNV292cEFILTVGMkNRbTc3eDg4eDN2NzJTV2d2M0dNOVQ2R1VtUnV2VmtkNXBuZ29JR0lyQi1WUlpCUUFiWF9SWDdLRTlZWGItYVpSTmNKeUVIdFV1THlNUVRYSGZEY3J5RFVkT196eFR5dnRHSEhaRmdGSV9WdHNqZEdLX3dxYknSAe4BQVVfeXFMUEJfNFRuYS1GSEJYazhra19LQVg0dXlTdzgwQjNuS1AwRVg0d2RnYTZUMVZWaW1ZcE1TQTg1MFpSQW1fVFZsZ3ZwMWNMeWRxMHg4dUJEMEIzT0RVLUpheEFnR3p6aWllRE43UGtkdURCeGZ6cnVtWTBwRHExemdKdWoxd3RmcWlQOUFpYnFPWEl1c3lJWW15a3VySmtyTVJkdnNNaml2eTZNUEFwelpGYlJ4ekh6VlVOSXp6bFFLZTZYVWtyNnVkR0Y3WXFLS01PaUpFT2l5V2lUNkh4TGwtenZ1YzdmUkozV01lVU00dw?oc=5",
-          "date": "2026-05-13T07:00:00.000Z",
-          "source": "The Hindu"
-        },
-        {
-          "title": "State-Level Illegal Firearms Racket Busted In Bhopal, 8 Arrested",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeXBINTk1cVg4YVlqWThYUXhtV1lNVTdZbzd5RF8zWFZ5OXV5UDFMVnNSb1FVUXNlZGt3M2tXc0l0RWMtNTdjM1pVb05CN3JpSVhjamF4UGl2S21FWl9GejR2azVITHAtazFDbzlaU2thWHNaNl9walZzY013UVhMdmhnT2Q0QWhBQ1ZuVlB6ZEc4clgtOXNIMUFmNTZBajRuR2NkMdIBqgFBVV95cUxORl9BOEJVN0xRS3dFYmpxMV9oQkd2d0puc3VjMFo5UzVPRVBCN2VORjE0TTdlMEplbm1UVXlpUWpmNVVWdEpVc1hxWXNYaDdUVHY4djFZdHlLNkFDV29PYlhsWWdTWDZGOHFWbjFOaVNuZHdTTlFJc1cwazJhUm9ISWZ6Z1VMRVduWFZiWEhKdmhJbUhoa3FBZjVTMDNCRTVnbFpkdlN5V2JoQQ?oc=5",
-          "date": "2026-04-30T07:00:00.000Z",
-          "source": "Free Press Journal"
         }
       ]
     },
     "Sarvadharam Kolar": {
-      "cachedAt": "2026-09-27T10:19:53.569Z",
+      "cachedAt": "2026-10-18T09:08:28.686Z",
       "query": "\"Sarvadharam Kolar\" Bhopal (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Khajurikala": {
-      "cachedAt": "2026-09-27T10:19:53.569Z",
+      "cachedAt": "2026-10-18T09:08:28.686Z",
       "query": "\"Khajurikala\" Bhopal (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Jawaharlal Nehru": {
-      "cachedAt": "2026-09-27T10:19:53.569Z",
+      "cachedAt": "2026-10-18T09:08:28.686Z",
       "query": "\"Jawaharlal Nehru\" Bhopal (crime OR arrest OR snatch OR rape OR molest OR raid)",
-      "items": [
-        {
-          "title": "Chirag Tyagi murder: Para-athlete held for killing mentor who had provided him with money",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNazFybDV3bHpGOFV2aTUzeTFLRUItQzFBZEo4Wmc1R2pnaTlHYlFwVmFzampyOURkelJCQlJHLVpWUmZMcHBpWEIyOGRCNVhHSWs2N0MxNGo1SHlBWVBITDZxZkx4VVFkQ2M0RVVGUmhWa0RuT2ZmMmRBUmx0UzhZNmVMaWtkdzF1X3lLbHB1NXNmcDhsd3FBUjhjSGF1aHh2R0xwd0ltWFQzZ1JwZ1UzZU9uR2ZKbngwS1VTU1FmdGtHT2hBN0QwMV9PdEZHU2NacmRxQVAyUU5UdDVTVHJCTtIB5gFBVV95cUxNQzFpUzFJRU03dDRGRXJkNmtLTllYN1JRSTJVZ2RJN25XLUFYa2sybTlkVkVyVHE5enRaclExR2N2b1BuNHVLVXpKTkg0eFRaZ2xJWkxaX0NUZi1WRllQQnQ4QnpjemxHNWF6NndaUzdrTVlUUU94VVNIZlJMS01Vbll3TEZNUnhMaF92T3R1Q29PWkhYMGxTcXotQ3JOQTZaREVHTkV5QzdtUTNuRlItNm85Q1VPWTFvT21kZmVXVklGeDVodTN2NzJhUFhCMk9KYWs3UnhQTzZvOXpFcGhyRUhjZmlvUQ?oc=5",
-          "date": "2026-06-02T07:00:00.000Z",
-          "source": "The Times of India"
-        }
-      ]
+      "items": []
     },
     "Mahavir Giri": {
-      "cachedAt": "2026-09-27T10:19:53.569Z",
+      "cachedAt": "2026-10-18T09:08:28.686Z",
       "query": "\"Mahavir Giri\" Bhopal (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Koh-E-Fiza": {
-      "cachedAt": "2026-09-27T10:19:53.569Z",
+      "cachedAt": "2026-10-18T09:08:28.686Z",
       "query": "\"Koh-E-Fiza\" Bhopal (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -321,27 +332,21 @@
           "source": "Free Press Journal"
         },
         {
-          "title": "Constable, FRV Driver Trapped While Accepting Bribe, Arrested In Bhopal",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNM1RyU05JYVRkd2FyNS1yMXp6QXpJUUM5bXVCYU9rY3lnOHJBRzRnSVNjUmxsaEp6ZXZlZlBiY1Q4LTZDVjZEYVpFQzM1REcyWjE1UFFvS2p0NnBYbnBJalRXMmlzcVRBNE4wVEdURW8xNk1jc2xLblM5UTBrb25qWThRVVI5RFVMT18tWlZvVEtNMkpjUm83dm1lNnNLODZJa3lycUZvVExjbnd10gGyAUFVX3lxTE5QMTF2dVFleDdESFEtMGZkNFBLX3ZNNlNRU2tKU3Z0TUIzR3VBYUVxZjZGZGpORWR4WHNsOTZSU2dMaEVJd0tBV2llRGFXcGFvNkhfZGI0RlZPUmtPOTlTSlBza1lYVnZJTk95d1FQaE1KbU96UThSMnY5cEMtZ2p1em4zdDNEbXItRU52OE8xWmExOXJWZlJrTlp5bU5SS0ppWU95T0YyVHgzMXZGckRORmc?oc=5",
-          "date": "2026-05-11T07:00:00.000Z",
-          "source": "Free Press Journal"
-        },
-        {
-          "title": "Bhopal: Safe, Central, Easy Joint For Interstate Crime Syndicates",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPazlPVk5Yd1VoZnBzQ240alBsSkd5S0VIdm1TVzZZMFY4cGJDbkNaV09iMWc0NlBlaDROcURkdml0eDB1U3FabzR5YlFOWVByLWQta1Y5MGpHU1hLQThJUlVBdzB3SFZpN2RfUzl0SmNzcTV5ci1WSVpRdEQ0UGpJTzhlY2V2RlNzRkhtWXM4TC1pM0UzaVBRZ2NpT293YTVWSEMw0gGoAUFVX3lxTE9zWjVyTnZsbWpqeC1MdWc0LUJmc2hRVzlQc25Sa0JqeE94T0w1b3NqVDNVQVJ3dmRHamY1RjJhYWhDY2ROOU1QZ2x4T3JLcmMxeGhFNmo1RTdGRHNCNXNSSDZnbDRRZVk3UHJlRW1xYlo0TUVZX0tKUnp4bGdGeEk5aklLSWxZTHBFcUFkeFpOYnhUSi01cl9nbUU4dlRlbXpuSFAwMC01dQ?oc=5",
-          "date": "2026-05-10T07:00:00.000Z",
+          "title": "AI And Social Media Used For Running Counterfeit Currency Racket After Koh-E-Fiza Police Arrested 25-Year-Old",
+          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNc1dJdWUyR0dWNzlhUkpDbTgtTzhqOXNZczA5UGx3OGY3b3hlcTR2dTdISHF4aHJ5M2poVW1Da0tXYkFDSDJ2ckFYMEpBRUpiUXdiN1lQdEpreUNyekR3LVhvOER4MGRhNERFVXN6cktPQXFmQ2U2WGt1WFBvM2ppREg3b2hfODUzc3pPVUtpMThveGJLdmh1STNRM0FyeVRGSjA2Um1rYlpJRkRCck01amhvTEtBRDZ6d1RHb2hkQUtSNllYemdKMDM5ZXZ4YkZ0MGtvTjJUSE1ZVEtXVnhNdEU3UUxjUldHUnRpeUhVeTNtLVJaeERNY0VMcUFZZkHSAYQCQVVfeXFMUFVVTGRqSjhfUVZGT1M1a1FYMUxqWDlnaXJRczMyVk1ZRnFzMm8zTjk4bUlnbjhKVHRUOThhWGR0ZFJ3RFgzRnVzSU9MS0dOTnhuVnFMZHJra0dTNnFHNzdSOUZPUXpqQ1phTTU2aFJUU3FER3d1MVRjNWN6ckw0RXp3d1BHUkZMZjB4cW0wOEVfbEhxTTg1SS04Z3BxYzhmR29ValJUMUJZekNsY1lEd1BIbUxWSGxYUWpDS3laUWVTZWp0YktmOUh2b1IzcndYVzlhb1E2WnhLeUJCWDJ1UHFrVU81ZlE1Y0VwZ2l5Zk5lSFoxM1N6UlRHdF9ibncyTkpBNEU?oc=5",
+          "date": "2026-05-08T07:00:00.000Z",
           "source": "Free Press Journal"
         }
       ]
     },
     "Lal Bahadur Shastri": {
-      "cachedAt": "2026-09-27T10:19:53.569Z",
+      "cachedAt": "2026-10-18T09:08:28.686Z",
       "query": "\"Lal Bahadur Shastri\" Bhopal (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
           "title": "Fake IAS Case: Third FIR Filed Against Tripti Singh Rajput Over ₹3 Lakh Job Fraud Claim",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQTBtdVhVQThWYWtBRURyd1c1d2hlR0tjVjhnQVB6azNhSkh5SV9iNU9qNEY4STUwZnVqMWZmUDkyZXN5STBVeVIwb1gtVXRuWVBndjM2cmk4c3dCMXdjeVVUa20tNV94OF9wV3lKR0otWmMzRkw4RnhUNjlBTkI3S0k2N3RmUTREazFybFFxWjZUYzlUUlE?oc=5",
-          "date": "2026-09-14T09:42:13.000Z",
+          "date": "2026-09-14T09:46:54.000Z",
           "source": "Indianmasterminds"
         },
         {
@@ -353,51 +358,51 @@
       ]
     },
     "Babu Jagjeevan Ram": {
-      "cachedAt": "2026-09-27T10:19:53.569Z",
+      "cachedAt": "2026-10-18T09:08:28.686Z",
       "query": "\"Babu Jagjeevan Ram\" Bhopal (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Islampur": {
-      "cachedAt": "2026-09-27T10:19:53.569Z",
+      "cachedAt": "2026-10-18T09:08:28.686Z",
       "query": "\"Islampur\" Bhopal (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Moti Mazid": {
-      "cachedAt": "2026-09-27T10:19:53.569Z",
+      "cachedAt": "2026-10-18T09:08:28.686Z",
       "query": "\"Moti Mazid\" Bhopal (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Arera Colony": {
-      "cachedAt": "2026-09-27T10:19:53.569Z",
+      "cachedAt": "2026-10-18T09:08:28.686Z",
       "query": "\"Arera Colony\" Bhopal (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Bhopal Mystery: Nepali Youth, 16-Year-Old Girlfriend Found Dead In Arera Colony; Police Probe Last Audio",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONzJGQkFHLVZqYVNDdHItSU5VNkYyZ0p6Q0FnMFRKUVFpaFRtYng2NnZyWkNmYlFLelIwTlRQRXRCdG95cnp5MjBDSWR5RjRpQVV0dzRTNmZ0ODZMck9wSlRNSXdBVnVRY2hWeEZTa2hGaTZaSEdwcnh5cGRnczdROUNwVGJ3djhFNDdDSnAzRlJNUklqbHJJckJrWjUydUwzTnpqbVFfeFRlUHJpeENxUE05eUFFUzVubWd6WGlwVFp0RUdyR0JqaWpPYkZFNDdLVktuTzJCN2I0aWZJRTZIaEpR0gHnAUFVX3lxTE80SUV4RHBwNk9mcTBTN1V5cW1EMGZhUVA1aVBkZWt6Z0lIdzRkU1RSTFNtckYtTEp5dVVONDg2NTdyazdBRllJcjBLT0JYR0xrMmM2a3htMjJxVnFlTkNBSjFZZWwxTFZYVzhHbThtWVY1c3BQRU5kT0pqcFNRcG9XU0RRTVR6MEQ3YlY3MWktQlVudUZGTF9Gam5BaHZIMVEtNzdhbE9mOUJKZGFkRTdlMWY0ZE9ndWJHTW5VaU5haXBjc0ZTUGhWVDhMVUhxMjRsRzEwOVZ5V1hXQWlQa1ZXMVJSNnRwZw?oc=5",
+          "date": "2026-10-09T16:30:00.000Z",
+          "source": "Free Press Journal"
+        },
         {
           "title": "Doctor Alleges ₹20 Lakh Extortion Threatened With False Rape Case In Bhopal",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQejJwUlFkQzQ2ZzZyN1ZhT2pWS1l3aG50UkcyeWZfeFlPNzVQemtIWklOTjNLdjZoeThiUnRUclFTd1lQUVpDLWZJcUNlejFGV1BtckZlYWQ1QTJ3UXVNUHFmdDg3RjBIV25UR1JROTZNb2RGdFNWQXlOOVRaQWFaWXNhR3NHVHJCSUpFYlZ4UExvM01ldFJqUGJkVnJjb0REYTZTM0QxWDVwSnYwXzVDRzNuSdIBuAFBVV95cUxNZFQxVjRmUzNnSDZPeUhRWkJHT0RZVWIxZk1udlNicEdNaXJveEk4RHBrQTVWMTFQRW1nR1RQeHBncnd1TS1hVHJWRUpGYlgxN0RVcExiWFhxQTA0T2JtLWQ4ZUtvaFJPWnkyQmZnQl9iUi1DQjY4c3JScXp3QlJrVmRYWkNTRm8yaUt1ZHI3TnZlN0w1SVZjR2pITHFSYUVLVVExTzZlTXdjWHlyS3VENURiTzJhQllw?oc=5",
           "date": "2026-07-20T07:00:00.000Z",
           "source": "Free Press Journal"
-        },
-        {
-          "title": "Bhopal fraud arrest: Faith Cricket Academy owner held",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSkdBV2hybFZteDc1M1prVVV1N1JoYzB3UmxpRDUwTVJSX1otamJHN0xRZVg0MjUxWjcxMTdZQ1JEeUg5cUVNNjVkYVhZbk82aGpYR3JGYmtwZzBnVkxLc0xnRTdPNldSY1Y4cjhVNXhZLWhpVGYxNHMyeFl6d3FXYkdoRmVyRUVERHR3SXdzZGl3Z2tNLURPUVo1eVFYSXQwTjBsT3ktQjdaZ2RYcXBzNi1SbXVpTGp1bGhURVJmb0Rsem8?oc=5",
-          "date": "2026-05-22T07:00:00.000Z",
-          "source": "english.dainikjagranmpcg.com"
         }
       ]
     },
     "Aish Bagh": {
-      "cachedAt": "2026-09-27T10:19:53.569Z",
+      "cachedAt": "2026-10-18T09:08:28.686Z",
       "query": "\"Aish Bagh\" Bhopal (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Misrod": {
-      "cachedAt": "2026-09-27T10:19:53.569Z",
+      "cachedAt": "2026-10-18T09:08:28.686Z",
       "query": "\"Misrod\" Bhopal (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
           "title": "Police Raid Spas In MP Nagar And Misrod Over Suspected Sex Rackets In Bhopal",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTlNYcUZfZ3RoMXVYbFhLVFpsN3lGYnJERDBEVDdzdVJjdlFKVDlkRVJzbGxDUFpkLVY4eE4zcmJQR2FMaUQ2aS1IeWFpcGh1c0QzSUdMbXZtVUViUUYzSG94TUJzZFJaTHZLUnd6WVM0N0dXclRnQ1g0R2EtRDFCdUFNeFFOV0Q3TDN2Wk4zSFBGaG5ESXJ1MGZxNmZVdTF2Q1VoSnpBaVk5N0w2NVBzLS1RWTdpQdIBuwFBVV95cUxONG1CeWNEQURHY2FBa1RMNVhPU1ZVa0JTWjRSS29QeGpKbmdhR2hFU0dnUHpYZlo4VWlPd2huRWhIOWloRXFBbTBWRERJODl2dndaNThsQTdacnNQT3NMMHc5a0EtaXRwSlNjWWp6aHcyTWIwb1p1MEJVMHB3UDgxQ3VwZlZhd3k3Njl4R2xUcWZPNEdDTDB3Wk9GTFRPZ05YdVNCemdYQ2djSFNDUG10cHlpM2xLV0Z2VWVV?oc=5",
-          "date": "2026-09-20T16:30:15.000Z",
+          "date": "2026-09-20T07:00:00.000Z",
           "source": "Free Press Journal"
         },
         {
@@ -421,81 +426,80 @@
       ]
     },
     "Govindpura Udyogik Shetra": {
-      "cachedAt": "2026-09-27T10:19:53.569Z",
+      "cachedAt": "2026-10-18T09:08:28.686Z",
       "query": "\"Govindpura Udyogik Shetra\" Bhopal (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Narela Sankari": {
-      "cachedAt": "2026-09-27T10:19:53.569Z",
+      "cachedAt": "2026-10-18T09:08:28.686Z",
       "query": "\"Narela Sankari\" Bhopal (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Sadhu Vaswani": {
-      "cachedAt": "2026-09-27T10:19:53.569Z",
+      "cachedAt": "2026-10-18T09:08:28.686Z",
       "query": "\"Sadhu Vaswani\" Bhopal (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Russali": {
-      "cachedAt": "2026-09-27T10:19:53.569Z",
+      "cachedAt": "2026-10-18T09:08:28.686Z",
       "query": "\"Russali\" Bhopal (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Hemukalani Ward": {
-      "cachedAt": "2026-09-27T10:19:53.569Z",
+      "cachedAt": "2026-10-18T09:08:28.686Z",
       "query": "\"Hemukalani Ward\" Bhopal (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Indrapuri": {
-      "cachedAt": "2026-09-27T10:19:53.569Z",
+      "cachedAt": "2026-10-18T09:08:28.686Z",
       "query": "\"Indrapuri\" Bhopal (crime OR arrest OR snatch OR rape OR molest OR raid)",
-      "items": [
-        {
-          "title": "Bhopal Sex Racket Busted At Indrapuri Spa, 4 Men Arrested After Decoy Customer Operation",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZ2Q1eWVOTkJVaVMwcGN0TGlmZjRrd2l5OGRtUTd0ZzF3UmI3LUdpWjZhOHUyR3RMYzIzMjlhUTRiRFhXbXZWeFV3RDN2QlVDVk9DTWlNSXNMSWxZMlBsQ2RWc3h6c3E5YmgyMWlkakJCT0EyTmNhWWdVM01qaWUyZE1qcVdnMHdxX3lWRXRrUEJtbEdfaW9VaE9sQTYxLWV0cFpOSzdLd2hqNUR0clVPbWRSak9tOWljZzZXUUJtYjZpOTli0gHKAUFVX3lxTE5ZS0U5eUp5cFMyNG5nSkc3WWEtN0kwbXNBZWVQRmdBTTMyZ1ZWR3dRLWFSQmZhX1NqOGw5VkJxbzFVeXdBOHNPbWZCTHQtTTdWblY5N2ZVS0pNNFl6SjdBZFVJZ2MxWDZtQWdwN2tkR201dTIxbzdCcFQ1aVhPeVFral83SXVqM0I2T1JMZm9XN2VxN1FWY0V2bTUxVlE3NWNXOHVfbkdNMmZQTDY3ck56U05pOVoxTU5rWUZGdnFvUnNlRU45UUhKMlE?oc=5",
-          "date": "2026-09-13T07:00:00.000Z",
-          "source": "Free Press Journal"
-        }
-      ]
+      "items": []
     },
     "Semra": {
-      "cachedAt": "2026-09-27T10:19:53.569Z",
+      "cachedAt": "2026-10-18T09:08:28.686Z",
       "query": "\"Semra\" Bhopal (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Rani Kamlapat": {
-      "cachedAt": "2026-09-27T10:19:53.569Z",
+      "cachedAt": "2026-10-18T09:08:28.686Z",
       "query": "\"Rani Kamlapat\" Bhopal (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Jatkhed": {
-      "cachedAt": "2026-09-27T10:19:53.569Z",
+      "cachedAt": "2026-10-18T09:08:28.686Z",
       "query": "\"Jatkhed\" Bhopal (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Rani Awantibai": {
-      "cachedAt": "2026-09-27T10:19:53.569Z",
+      "cachedAt": "2026-10-18T09:08:28.686Z",
       "query": "\"Rani Awantibai\" Bhopal (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Kapda Mil": {
-      "cachedAt": "2026-09-27T10:19:53.569Z",
+      "cachedAt": "2026-10-18T09:08:28.686Z",
       "query": "\"Kapda Mil\" Bhopal (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Shahjanabad": {
-      "cachedAt": "2026-09-27T10:19:53.569Z",
+      "cachedAt": "2026-10-18T09:08:28.686Z",
       "query": "\"Shahjanabad\" Bhopal (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "J.P.Nagar": {
-      "cachedAt": "2026-09-27T10:19:53.569Z",
+      "cachedAt": "2026-10-18T09:08:28.686Z",
       "query": "\"J.P.Nagar\" Bhopal (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Subhash Chandra Bose": {
-      "cachedAt": "2026-09-27T10:19:53.569Z",
+      "cachedAt": "2026-10-18T09:08:28.686Z",
       "query": "\"Subhash Chandra Bose\" Bhopal (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Two infants remain critical after Chhindwara NICU fire",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQlpIWlFUY3pWVXBqcUNkWGhZMFh4VGlaYkFvRXFKMzFkWDNwelFTbjU3T182U0huX2NxeWYxTUdha0diSHVONXYtbU9ocy1ETTVyX0hpc1hCOEJVYnMwb2lMeXgtdmtweGxOM08tcHg0aHRLalJmTzdjQktnQzU1aUx6MU1GMEtsRFJXanA3VHV2eU9sTVRxLWF4UURQT3RIMmxoemU5TE1VQTk2RnhnVGZLNjA5SWFqc3pyTlRqVC0xeVhiZkhR0gHMAUFVX3lxTE1mNDJTNklKRVRlWklJUC1zM2x3N2kxeENqZUlBVUdJRjh6eDNkUkp2SjNvM0o3bnlPM0dPUWpvRm5wNXVYZ0FJSXN6YzZqc1Jtd25DTXprMW5PNGpmbGMzazl6X3BrakZZc2FmblU0WlRTSmZkUEszbTItanNsVHR0dkhtZnJ3bk5HQ2VZdFdYVU5LZW5SSUphZ0FVLUhwOF9uQnZTME52bDN4aVhVUWVsNDVWelNVUVBmY2ZiZ1djeE5mbTZXazhCZ3hlLQ?oc=5",
+          "date": "2026-08-24T07:00:00.000Z",
+          "source": "The Times of India"
+        },
         {
           "title": "5,146 MBBS seats allotted in MP NEET first round",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMlJLWGQ1SGVsLU5aZV9wd3dqNk5iT3BaV3pYYlpPZUVBc01ETTNCSU5pMzFNS09fVXJ4YTNONGxuNlNBN0pvU2VyYS1aTGE5cXFxek9VTk5oQ2pHS2UtbElTQzY4U1gzWGxGQ3I4VWF1d3VXQ1JEU3N6eFhlSXc1UEdwR2RVbFBqYXo2dEVScm9ocXlKZk1ocmlqTDFyV3Z0ckZZR1FhM1lHLTZrN0ZrYWlpTDM2cGdsUW5Sb3dR0gHDAUFVX3lxTE0zWFkxbllod21seWdoaTI1MUdvVnNuTVJVZmY2RDBHNEZWVE9hOEFDSFBGbXVUQV9lMlo0TDVaWXFxME1uMWJlamR3Rl9fTEtMZWNOUU9YdnI3REhaaGNYQktWVmN4U2ZxckFYWFVzOV9naFQ3QkE5dVVpN0xSYTBaMVJicHpMS3pPSjlUdzFVVmNDN0x5dko4UFF2LUtOQmFadDItLXJ3RWd3Z2dRWVo0UHJnUEgwQ1A4NkVVeHRyWUFrRQ?oc=5",
@@ -503,10 +507,10 @@
           "source": "The Times of India"
         },
         {
-          "title": "YSRCP alleges Andhra govt is suppressing opposition after ex-MP arrest",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZGFpYVZ3SjBNNlRCRFBrQ0s2NjdTTXppeUFNM1Axd2xudVhtRXktd0V0YmpGMWpYZjRpbl9zZTR1X2R0bVlSUEpuOGlJdmk0a0NndUJhMzJzbWdRS0NXa3UxQkUxSFY0Zk1KbFFybEFIaG9QSVdRVm9IbnFyUUlDeWZtbWQtOUlwZElqNUx4cTFuVXNEVEc1MmZ1aG5JYTFsQWx0dzNwYU5LcDZvcVhGLUtR0gG3AUFVX3lxTFB5QnktQlFjUmdvYnpVZzBpcnZja3M5VU1MS1E3cjhYTlZMckpFSlFEamZnU095UU5vZnk1b1ZGT0E3RFYxOXNobkp2bmR3Vk1mWkRYbWQ4RFJUbEoybUJXWDRTUG5DUjF4bU5hRHptNmtZZkFETWZ3dGhTV2NQc0FpeGhkTnJ4VnlCd3BfOW5falctemN1WXlLX0RreEw5WUlGVzlZU2lwUHFGZWJfZEozbDlNT2tvYw?oc=5",
-          "date": "2026-08-19T07:00:00.000Z",
-          "source": "The Assam Tribune"
+          "title": "NICU fire at MP hospital kills newborn, leaves 2 others with burn injuries",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZEZPRjFXc3V1X2hhMmJIU1R2UVByaGlCbGZCTklHV016bDB0NjMxWGoxRlduVTVqLVhnUUFGUzQ1c2E2elEtelZaYzVqekNsRlIweVExNV9NNWVNdkwzc0dNa2J2UEc4Mm8taVpIbEhLNXJkRFQzZi1fdUR4UHZIRUhmemRtWHZJVmcycXVHZG1KRUN5NktJc0VUQWxlZlVjTDlqd2tibzUyOXZMMFpuNm9jZnZYLV9wd1BIcnJQRm90Z1l1NlFLNllNX1RxZUR2bExVdzRXNkFHS0VEZzJNRtIB5gFBVV95cUxPVEk4WXJMNnlQbGowbEs2QndEY1ZaLW1PVk9IeHYwU3lDY3RFcFJHN3ZTbVJSWXZ6RnIyWDBKVFRqOXJGaW52XzRaZ0NXLUlQNlozbmJNODR3bzZBVlF6R295Rl8tdVpMUG9yOXNRRHlscjB6YVpvWGJxU0ZTODljLWdTaGVuUTlvcFJrNjY5VlpXTkFTSUN2Tml1d2ptWEtsTy1pVF9tVVJNSE1SMU1xdmdyYWVNRDRaVkxzMlFFSTdXU09WaEpEdTh2X1ZueFdXNHlnbE5BdGFfdGtCTXl3Z0ZWbjY1UQ?oc=5",
+          "date": "2026-08-23T07:00:00.000Z",
+          "source": "The Times of India"
         },
         {
           "title": "HC refuses to quash FIR against 5 Jabalpur docs in abetment to suicide case",
@@ -517,9 +521,15 @@
       ]
     },
     "Indira Gandhi": {
-      "cachedAt": "2026-09-27T10:19:53.569Z",
+      "cachedAt": "2026-10-18T09:08:28.686Z",
       "query": "\"Indira Gandhi\" Bhopal (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Mohit Gogia Case: EOW FIR In ₹13.50 Crore Fraud, Statements Trigger ₹1 Crore Bribery Allegation Against MP",
+          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNUDAtcGJ4d3ZFcm5IaEJIR2RWQWUyTXh6V3pfWFRCUEluaG5qYndBeE9SMkZBWWNob0hfamxkdEpWRFlRcDJrczBwMDhfX2gxWjN5V2w0eVYxRWViSmRxZXE2MXI0a0Iyc0xsSGhpRVF5YVJ2VmI0ay1wY29UblNPeC1BbDJneWpmRVZ3OUNOdzU4THJLVThrTTJpUlZPdnVLWmFpX1BHNE9wUEJGTEpxNE15cy0xa1p0dUNJbzExQVdUSU5SSGY3WDZVUVFwd1JyLVI4YnlUZU01X1JQSUJLWnRIak4xeXBwcGw0SW9vSlM5U2JheUdFdnZUOVJHZ9IBgwJBVV95cUxPNkNZa2VSVmZvbFRPRF9vTUk2dk1nbHo2ektPeS1CdjctQzZFRUVxRVZmMkxsVk9CVnRGZUN6UEJBZjQ4YkJBeVVTZ3BNeGlRZW55LXpTS1kwRXMxU2pLald0bFNha2NrQm1FR1luUTRDQi1UajA0WDFvZVlIQmhxaTRoVU5OVmY1dlFqd2JfcEIwVTFaQ28yZTRQLV9NWjAyM2h2NUp0UzVaSmwxZmlwb2RGcWVvOV9IZS12cmVJOWxzV0JvRzZIQVBFNVQ4aE5TaVBaWG93ZmsyVHJJeU9vQ2pXSkdzbHA5ZnR1RGp5U0syenpuRmoyczF1cFR0aEZOOWNV?oc=5",
+          "date": "2026-10-09T17:15:00.000Z",
+          "source": "Free Press Journal"
+        },
         {
           "title": "MP horror: 9-year-old girl raped, her brother beaten while returning from school",
           "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNLWJfMktKX0JSNGpScFJoXy16VVIyNFVVNDNVOXc0cVY5OW1vRkhLZTY1S3lYN0MyVVNySGIyNC1hOXBfV0U2ZU95LUU4c1V1dG1FRExMbzJLc0tJbEh2NXdDeG1lOTNPaEFqZTF5UVJfUGhHaFFtcFMxWnRSdVBUV0I4RnNqM1l2QU5qeVdrMXZiVkFKNEV1cUswb1NDYjdreW9UaWljZV9PUHFOVjdMTUNHZEo5aWlPWjlpSGtNdWsza09FTHp2YWcwTzdTeE5DU05SekhpMXo5VnJXODh5R0I0M3FlbkHSAewBQVVfeXFMUE5BVHk2MVRGdmp1Z0t4Wm1zMmdIR0sycXdJSURyYUNNTmRoM2FmcHloTjMtS2l3TDgyZHVlNjRobUF5LWNPWEFyNURhdkRJS01heXZYY3htTTdPeTUtWmhndlc5VTBEMG1WM1ZEQVpMQ3dkank1VkxmdWlHdUNxRW5aRUpjZmMxbFg1dTM2T3hSeWlsS2pfR09rTWJNaTlpaVhJVEVzZ1E3R2VhcW1JNkV1WXBTWHhKTG1wMXZOU0lTQTJDeWEteWV1cERDWlh3QnU1eDhMN2xUeThqenNJbzlrZkhTZHFwb1d1LVc?oc=5",
@@ -535,12 +545,12 @@
       ]
     },
     "Bagfharat Afza": {
-      "cachedAt": "2026-09-27T10:19:53.569Z",
+      "cachedAt": "2026-10-18T09:08:28.686Z",
       "query": "\"Bagfharat Afza\" Bhopal (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Kasturba": {
-      "cachedAt": "2026-09-27T10:19:53.569Z",
+      "cachedAt": "2026-10-18T09:08:28.686Z",
       "query": "\"Kasturba\" Bhopal (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -552,82 +562,101 @@
       ]
     },
     "Karond": {
-      "cachedAt": "2026-09-27T10:19:53.569Z",
+      "cachedAt": "2026-10-18T09:08:28.686Z",
       "query": "\"Karond\" Bhopal (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
           "title": "Unlicensed ghee business busted, one tonne stock seized, Raid in Bhopal uncovers unlicensed business; stock worth Rs 5,50,000 sealed",
           "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPM1NyVExUdGN1WmprMzVzbWh2OW9IZDR4emxNOWZ3bFBCOUJ6Y3pJbmdVSW5EZ3N0OTMyNzJtR0RuZ1RISWVZN0RKQVBMQ2tVMUZxWGJWM2JZbTBUQmVHMGdJeUplc01tZ2ZYQmVwU0Z1ejYxMG5tbzJNcVNVMzAwa3VsSmlBUzhobGtTSU03Y0lWZUxRVjFmdjBDOUR5QTRJVW9MdjVBSk9QSUd2ZnQwdXZ1aVpGbWItQVN3b0RGdThrNXA1Yjg4OC1sNlE3QThGbHVXZHByblVmT19SSFlGS2Q1cGc5MGl6LWhmZG0wU0E?oc=5",
           "date": "2026-07-30T07:00:00.000Z",
-          "source": "thehitavada.com"
+          "source": "The Hitavada"
         }
       ]
     },
     "Dussehra Maidan Ashoka Garden": {
-      "cachedAt": "2026-09-27T10:19:53.569Z",
+      "cachedAt": "2026-10-18T09:08:28.686Z",
       "query": "\"Dussehra Maidan Ashoka Garden\" Bhopal (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Swami Vivekanand": {
-      "cachedAt": "2026-09-27T10:19:53.569Z",
+      "cachedAt": "2026-10-18T09:08:28.686Z",
       "query": "\"Swami Vivekanand\" Bhopal (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Saket Sakti": {
-      "cachedAt": "2026-09-27T10:19:53.569Z",
+      "cachedAt": "2026-10-18T09:08:28.686Z",
       "query": "\"Saket Sakti\" Bhopal (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Barkheda Bhel": {
-      "cachedAt": "2026-09-27T10:19:53.569Z",
+      "cachedAt": "2026-10-18T09:08:28.686Z",
       "query": "\"Barkheda Bhel\" Bhopal (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Gautam Buddha": {
-      "cachedAt": "2026-09-27T10:19:53.569Z",
+      "cachedAt": "2026-10-18T09:08:28.686Z",
       "query": "\"Gautam Buddha\" Bhopal (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
           "title": "Rape-murder accused killed in police encounter in UP's Bulandshahr",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTWRaaGZoejdoOG1UaTRlckxHRkNLZnJMTDJvSWFmRDhPX3Q0eDdoZmFQdWgxekd3S0hDUTVPeFAxbzdTbThZLU1nZWtLWm4xaG85REVSRjk5bHJnOFJDWXQtMmRCbGE2dGFEcGM5TUJRQXd6aVJQWk9XQlhVU0Zabkh5U1FBM04xU1N3T0VhS2VQSkdQRmtGWW80X0xjdkYyYlRwUWVZMDA0Yi1IbkJpYU1JNnoyUQ?oc=5",
           "date": "2026-08-09T07:00:00.000Z",
-          "source": "thehansindia.com"
-        },
-        {
-          "title": "Fake call centre busted in Noida, 16 cyber fraudsters arrested",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWng4aHJCeDFuSmF1OUJaX3FnY3B2ZVZjU1JmVXlEWDJBbkZqX053aFhIb0dKT2RCVVhXbndqQk4yMERMa1lOYWcwSGEzSkJuUnU1VW9xR2RMYXk2bHpIc2FSbzNFUlJUV2hkX0ZsaFJWcFpDekh3M3hCdC1iUnN5Qjl1QXRYdzEwYXdKU3g2eXhGSTNDM3FZWnppSTRmWWEtM05vR0ZBdDhNREtsY1lvY2dB?oc=5",
-          "date": "2026-04-09T07:00:00.000Z",
-          "source": "thehansindia.com"
+          "source": "The Hans India"
         }
       ]
     },
     "Khushabhau Thakre": {
-      "cachedAt": "2026-09-27T10:19:53.569Z",
+      "cachedAt": "2026-10-18T09:08:28.686Z",
       "query": "\"Khushabhau Thakre\" Bhopal (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Naveen Nagar": {
-      "cachedAt": "2026-09-27T10:19:53.569Z",
+      "cachedAt": "2026-10-18T09:08:28.686Z",
       "query": "\"Naveen Nagar\" Bhopal (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Maharana Pratap": {
-      "cachedAt": "2026-09-27T10:19:53.569Z",
+      "cachedAt": "2026-10-18T09:08:28.686Z",
       "query": "\"Maharana Pratap\" Bhopal (crime OR arrest OR snatch OR rape OR molest OR raid)",
-      "items": []
+      "items": [
+        {
+          "title": "IPL क्रिकेटर शशांक सिंह और रिटायर्ड IPS पिता पर FIR, कुक ने लगाए गंभीर आरोप, जानें पूरा केस !",
+          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPcFFjVWcxa2w4c0djVTJUMDM5Q0Y3YVJnRldBcTRqUzFHQ0JobEdFcE5DbThDbURqZ1Bfb2VXaWIxOXBMNFBFLWpqWG9hbWQyWXdMWU9MTW1IT0Z0X3dZRTY1amYwSlpRLWMwR3FNUWlJT3ZXUGtmQ0hlRUJHNnMtMTNxZnVvaVNOMkZvcXQwSllCNmhYa2FPV080NWNlUmlWbUxTNTdiTzg1SThaRVNlNWRkSmo4cDBUQU1YTGx3MVZWWm0wcE4wa1VFWkxFcHlnY0JPWTB5cDQwZXRkZG00LWJtelJ6aERBVFNrZ3RyTVN1ejFUSmdHX9IB_gFBVV95cUxPb3NFRkRyTmZjeHpSY0pab2lVR3pUdnpYZjNjNFp6RTkwTkFQbkNCS1RzNmVQU0VTc21OSFQ5YWhpdEd1R2JWQUNCTm9hdkM2TzNtdDBSa1JzRWo0Qk1ObTMtVFVIRjV4Q1l2bi1Ec25iWHdyMzAteXhLbklxellQSWxqMUtUR2tYbTJvVTlMSDZHM2U3UEVKQ2JWWDZiekx2dmJXSVdWbmVoMlpZMlVmMktHRnB4QUVySGZKOVFMT0NabTd6U1pZOXNyQWpUOVlsYkZXNFlIVmMzOHY1dDFTTXhDeW83SEx6SkpvM3B3Q0NmTlhsb3VoNkhRc2VSZw?oc=5",
+          "date": "2026-09-13T07:00:00.000Z",
+          "source": "The Sootr"
+        },
+        {
+          "title": "MP MD Drugs Factory Police Raid | 50 पुलिसकर्मियों की रेड, 16 लोग हिरासत में | MP News",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcUtKWFQ3NEtsb2lHbHZwZFRwTHdLU2tsZExvOWh4M2xZYU9WLV9BaEdsT1RON2NWYzFHTjdKV0xMVjhCeE5rWlRLWmRFSnppeEVjeFJMQVoyeWQyX2lmUVZEY3BycVV2X3JQbURZbmhhdnJMbmsxLTRXRTJDNXoxdVVxaFJyWDgtQ08wYzRWSW92S0tUazZhT05TS0FGLXdseW5ZZlowdjh6SzV1cWZOUmVjUVowNmJNOFhXSXRyZENOMFpabXZveHA3UdIB0AFBVV95cUxQcG4tMi1veTBSZ1RCaUVPWWo1MmhONG80dGlMNm9MX1ltMVRyUjdiN21MTGVMWkpIWFhTcW02TUlLcEJyQ2lXd3VDd3Z0TlduQ1pSR2YxQmpjc0FQYlI1T2oxNnBFOEV2RzEzdks1d3EwR21kb3VHam45M1lVMjBJdzk1TE1SbkwyX01qdGxqUjJybllqUkNxWmd1dUo3eVR0XzQxZmt6dXVsR0JKZHJMY2JnOXZmTGxhQ1A5U3lxWGNIcHUwNVhjbUdNdEVKT1RG?oc=5",
+          "date": "2026-09-12T07:00:00.000Z",
+          "source": "The Sootr"
+        },
+        {
+          "title": "Crime News | अनिरुद्धाचार्य से सवाल पूछ वायरल हुए MP के शिक्षक की UP में ह*त्या, वजह बड़ी शॉकिंग !",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNOFdBUVhGNllxc3lFTGJDdWdFbUx0Ql9sS1FiUjNCSWdrcS1DVFRtLU5saTFsREhTc1pVR2pBdE94ZXdHYXRCRjVBMHBueVp6YWtQclVHNG9NS3RjdDQ0UnZhZ2d5ZGluUnlZaTZqTm5oMkVxVnVQb1hvVW9NLVYxdzZFeEVUTVRJUFRNQkY3Wk1ndWpGOFRpeGo1VmtLSEw4R1JxTHluLXZBREZLVlQ5bk1iQlFleW5Vb1ZFSHl5VmxteWxLYzdkSVhRbFZOM3d3RHNyU2RJaTc3em1DUktzaGM4LV9peG53TGfSAe8BQVVfeXFMTTJvcHU5eTVqa2d5UDQ3cEFBcFdCWXY2THNfb2xiU1BTV051UnJobjlDdzdOaXpqWGd4OHp3R3J6NWJPN255eWYtTVNORWpYUDgzRHp6X1RnbWZMalFoWDJTd29JTHFMcURZQVBwbWtYWHZyTjlja1BpajF3MjZYZUIwU01KZWVjQ0dxWnd5TDQ3WTlmQ3VUejBaTVZvRkVHVU1mRUxjWGtVVElUNVhCTmZySXFfS3R6V3pnM3NNclp2YVdyQWZCcXNGNGplRFBudm9CX204Tm91UVJQOG5xZXZkVjRkV3FjbUFLSVA4U0k?oc=5",
+          "date": "2026-09-10T07:00:00.000Z",
+          "source": "The Sootr"
+        },
+        {
+          "title": "Ajaz khan का शो House Arrest विवादों में | सांसद ने कमेटी के सामने उठाया मुद्दा !",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZ2FoczFJLVlSMDNZemExemhxVlp5QXREVTN1R3lwYXotTXdPX0wwYl9mcjdSd0tUQVR0UnZjX2RfZEs0NzQ3eEVqZklhcTZCSFVvYUFGQzdEVENZMmNZM1A0TnRfeWsyRVU5aC1DWmdPWWdWU3dCZWdoMnFGODlvdEZ1MDVremg5N3RWNXpLd1Znc0VkbG1HLWJ1WUhzdG16NU1Uc2k0ME9ZbDI4MnhxOU9ibEVDOXFnWFlIbnMzeUppLWlTN3BJN2pkZUJKb3hQdkxueW1kUGNLM3PSAeABQVVfeXFMT2RVYkJ3dGVfemNXS3h1ZUx2QzBTTXZ0VEVXekpQSEJsRFpuMEd2Y3dfTTZLMjVxbW9fSGRTOXJRMHBVRGhzX0lxbEtzOFVvOVdEcjhTd1NpcmVvSjNmQml6bmpkLUI2OHRxSHFNeFJlNl9UTDVCTllwTnhZdkUwMmtJZ0tQZ29fTDk2bzQzWHhvSVFUUVR3UFFsRDhUc2FsUTRXNy1rUlpic1NrbFFjY0RjZktJcXktQlA3bnM3OHhESG5DUzdObVA1U21ackpLeWZ5RnNZa1VqTkdwRFZwXzc?oc=5",
+          "date": "2026-09-10T07:00:00.000Z",
+          "source": "The Sootr"
+        }
+      ]
     },
     "Hathaikheda": {
-      "cachedAt": "2026-09-27T10:19:53.569Z",
+      "cachedAt": "2026-10-18T09:08:28.686Z",
       "query": "\"Hathaikheda\" Bhopal (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Ratanpur Road": {
-      "cachedAt": "2026-09-27T10:19:53.569Z",
+      "cachedAt": "2026-10-18T09:08:28.686Z",
       "query": "\"Ratanpur Road\" Bhopal (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Katara": {
-      "cachedAt": "2026-09-27T10:19:53.569Z",
+      "cachedAt": "2026-10-18T09:08:28.686Z",
       "query": "\"Katara\" Bhopal (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -657,17 +686,17 @@
       ]
     },
     "Ayodhya Nagar": {
-      "cachedAt": "2026-09-27T10:19:53.569Z",
+      "cachedAt": "2026-10-18T09:08:28.686Z",
       "query": "\"Ayodhya Nagar\" Bhopal (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Maulana Abdul Kalaam Azad": {
-      "cachedAt": "2026-09-27T10:19:53.569Z",
+      "cachedAt": "2026-10-18T09:08:28.686Z",
       "query": "\"Maulana Abdul Kalaam Azad\" Bhopal (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Bagmugaliya": {
-      "cachedAt": "2026-09-27T10:19:53.569Z",
+      "cachedAt": "2026-10-18T09:08:28.686Z",
       "query": "\"Bagmugaliya\" Bhopal (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -679,12 +708,12 @@
       ]
     },
     "Kanha Kunj": {
-      "cachedAt": "2026-09-27T10:19:53.569Z",
+      "cachedAt": "2026-10-18T09:08:28.686Z",
       "query": "\"Kanha Kunj\" Bhopal (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Rajiv Gandhi": {
-      "cachedAt": "2026-09-27T10:19:53.569Z",
+      "cachedAt": "2026-10-18T09:08:28.686Z",
       "query": "\"Rajiv Gandhi\" Bhopal (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -692,43 +721,42 @@
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcldyTEV4bklMaDExd2lBRXRfaVp2bW5sSGsxd0pxZHl1V3ZjdmJaZVZ4RDBkbmZubGdDRWdOMXhqb2tmV2JyRkNkbUl2U1ZoRlljTEcxTi1udVNXSnl4dkU3dG8yd25Gd3pHZTVOZ2ZuQ3g3QXJ0em1KbGRPcVI5d281LWFNTkM3T19sUUFGb1QxTGJjZmw4eVZyU2FmLUk1WlFGeWUwc0t6ZWVBQkk2NkFLajY3ZTVB0gG-AUFVX3lxTFB5dUNUaVBMVTVtalpFenV5U3FaVkRxcV9waWxIQ3hYR3FYenNIeWxSUkFIZG5UajZqNVBDUDFhM1RtbkhybmIwdzFPdTFFSDc5T2tuWnFmZERsQ2tpWi1QUXZlT29RTFBqalUxZkZQNVlNMTZPZjBGRDR3SG1kZUdtc1ljeDdOdUx1X0JPTWJRNUl0aDdxWFdMU3dVeXR4eUxReU5SeUJ2YVNKUjlMNW82X19pb3ZvdTJRUnR1ZkE?oc=5",
           "date": "2026-09-01T07:00:00.000Z",
           "source": "Free Press Journal"
+        },
+        {
+          "title": "Computer exam at Bhopal college cancelled after question paper theft, FIR registered",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxON1Q4TVppN1VZMDhoSjVScVNVTTBxWGxWckNFZkgzenpXdkFNU3dRVkk3SjFEemdHNlR5ckxxb0w2dEhqVGFXUjNrVWNIQ0FJN2EwT3JTY3gyQWpXOTZFeHNKd2NwUjUwajNHWF8zNGZPQUNUSzB4VjlsZ3JHdExuSHRRSUI0SWVhdXo5Nm5kQk5NMXB0aURfbXRTVU5xbXRJR1UwejJXbGNBTTZoTl9CSENwU2UyeXlBUGIzQ2FDakY0UzRTbU9FU3JGdHBudlRfS1Y2Z1RNMHVpcXFXSWNCOFZubnTSAeoBQVVfeXFMTUFJUldpdmNIZUE4VzBmNU05ck5FRUVNTUROMUtjNm5OOVhTNjFOMWgxRmtOb2xnZGVSTFAtRk81NjNhSzNMNkNuWU5xNG4wX2Jyd1lxb3UxR0NMS3RLMWRuS3dLbFJ0SVRaUmlHM19BQXZwRTdBWEtQMWY0VVFPTlB1LXNkWjItdGJjTDduSE9TSmpyY2p5YThlSzNybDhDTVdleEl6cWRsUF9COU1YZGtCVjgxT25Ed3lGMzJ3Y3NYQ3lKUTdZejBFS2xRRmtPZE1OTWt0aWdxZVI2cnVkZnRhYWpGYlNrYXRn?oc=5",
+          "date": "2026-07-04T07:00:00.000Z",
+          "source": "India Today"
         }
       ]
     },
     "Mahatma Gandhi Ward": {
-      "cachedAt": "2026-09-27T10:19:53.569Z",
+      "cachedAt": "2026-10-18T09:08:28.686Z",
       "query": "\"Mahatma Gandhi Ward\" Bhopal (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Sonagiri": {
-      "cachedAt": "2026-09-27T10:19:53.569Z",
+      "cachedAt": "2026-10-18T09:08:28.686Z",
       "query": "\"Sonagiri\" Bhopal (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Dr. Ambedkar": {
-      "cachedAt": "2026-09-27T10:19:53.569Z",
+      "cachedAt": "2026-10-18T09:08:28.686Z",
       "query": "\"Dr. Ambedkar\" Bhopal (crime OR arrest OR snatch OR rape OR molest OR raid)",
-      "items": [
-        {
-          "title": "NHRC seeks probe report on alleged excessive force by UP Police in Meerut protest",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUEkyLTNHMkhqRnE1RkJlaW41eXlXYXNSVFAwQ0duS0U2c0VPcnJfbmkwOXZuMjAyeFhjZk95QVYzMHB3OXpHQmFfakh2aEZNdG1YcnRZY0t1bE5XTDZKMDVuN0RCbkFsRWVqVFdEVkNGa1d1TGpIMlpQMXlERTZYSEhERTVxaGNYbEdDMDBzUFVubWJqWXJ6dU1tZHRrTloyNmlPMmNhNHJqYURlbkxGWnVmVURQbGtuTDJhQtIBvAFBVV95cUxQUEkyLTNHMkhqRnE1RkJlaW41eXlXYXNSVFAwQ0duS0U2c0VPcnJfbmkwOXZuMjAyeFhjZk95QVYzMHB3OXpHQmFfakh2aEZNdG1YcnRZY0t1bE5XTDZKMDVuN0RCbkFsRWVqVFdEVkNGa1d1TGpIMlpQMXlERTZYSEhERTVxaGNYbEdDMDBzUFVubWJqWXJ6dU1tZHRrTloyNmlPMmNhNHJqYURlbkxGWnVmVURQbGtuTDJhQg?oc=5",
-          "date": "2026-07-10T07:00:00.000Z",
-          "source": "Social News XYZ"
-        }
-      ]
+      "items": []
     },
     "Bhori": {
-      "cachedAt": "2026-09-27T10:19:53.569Z",
+      "cachedAt": "2026-10-18T09:08:28.686Z",
       "query": "\"Bhori\" Bhopal (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Chola": {
-      "cachedAt": "2026-09-27T10:19:53.569Z",
+      "cachedAt": "2026-10-18T09:08:28.686Z",
       "query": "\"Chola\" Bhopal (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Badbai": {
-      "cachedAt": "2026-09-27T10:19:53.569Z",
+      "cachedAt": "2026-10-18T09:08:28.686Z",
       "query": "\"Badbai\" Bhopal (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     }

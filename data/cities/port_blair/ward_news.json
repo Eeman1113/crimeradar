@@ -1,124 +1,177 @@
 {
   "source": "https://news.google.com/rss/search",
-  "scrapedAt": "2026-09-27T10:32:36.792Z",
+  "scrapedAt": "2026-10-18T09:21:22.868Z",
   "wards": {
     "4646": {
-      "cachedAt": "2026-09-27T10:32:12.922Z",
+      "cachedAt": "2026-10-18T09:20:59.180Z",
       "query": "\"No 1\" Port Blair (crime OR arrest OR snatch OR rape OR molest OR raid)",
-      "items": []
+      "items": [
+        {
+          "title": "Selma Blair's Representatives Say She Didn't Intend to Hurt Anyone on Flight That Led to Her Arrest",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNVFFPTm1SdUxycTBSMGRUaDhDcThZN2EySkU5QVltRTcwRDM3SFlHbFpySnlRUlp6S2tTM3Q5ZS1xTi1VcG5FSmE2UUFGSkRSYVFHeld6dndLb1R5aFNYa2ZSNkQ4bkdDMFFTOHlHQVNDb2x3Y1hmMUNDZDBBVnk3MllYOS1WRmJxeWl1RkxYS2I0OGhrbmhQRXAzd2hDbVZiaFRwWVlXM2txbnMyTWk1NnRiSklHS2k3Z2dTYjZ2X1d3YS0wNlBTdzdhdXZtQnVGYzluQkk1OVVPQnBCM2hKSUgwcDZvNW1iLWl5VElXWVh2d0lwMk1FZkdR?oc=5",
+          "date": "2026-10-16T23:18:00.000Z",
+          "source": "U.S. News & World Report"
+        },
+        {
+          "title": "Selma Blair breaks silence on arrest and plane incident",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ0FDWUZwOVJ4aUkwNDJYdlpiQTZhMi13VTBfRUJlRWRBVGR0MXVRc2QxR2dIR28yVmpualQ1TExkM0dVWXVRUE5RRGNoN2FSeFdDUElCY09VV1cyOG11d3EyNUZVOUxQb2dabENXQnFFY1NyalZjVVlPdHl4NWRjVmpOd3R1bGJpaDVfNWlVNGFIUDZHZ3Yzb2Z0TDV0c0pvSkVfcDVn?oc=5",
+          "date": "2026-10-16T19:02:02.000Z",
+          "source": "Yahoo"
+        }
+      ]
     },
     "4647": {
-      "cachedAt": "2026-09-27T10:32:12.922Z",
+      "cachedAt": "2026-10-18T09:20:59.180Z",
       "query": "\"No 3\" Port Blair (crime OR arrest OR snatch OR rape OR molest OR raid)",
-      "items": []
+      "items": [
+        {
+          "title": "Selma Blair's team issues a lengthy statement regarding her arrest and plane incident",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdnYzM0lxYXdkQXFndFZnWndHZmwyOUI4Nlh1MlVNaE50MmJCazRicUw4S3FMZ1BZLWFQTzJtTURvck45S1htT3NVMEx6VlpuYWRVdzNnbVNTblFuLVUtZXBBUEZuRzRvVUdIUW5uSmdrVDJDSDZaSkNDa2NQRnNqNUZ3?oc=5",
+          "date": "2026-10-17T00:20:00.000Z",
+          "source": "AOL.com"
+        },
+        {
+          "title": "Selma Blair's representatives say she didn't intend to hurt anyone on flight that led to her arrest",
+          "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOUUw4NEFCTDhCa2g3MHByTW1Pc0lldnkwUlI2X0tUdUpudXBybkFmMzc5c1RiczJ2RFFfak80VVRqOWwwZGR6d0ZnVWZySE0xLUVDdzZvSmhZTno5VmhfbVh5azllbUtlUDAyY0ZVZHIyeXllRXAwcWZ5dmk1LWF5S0R4Wm1xejBMMS00LWRtWGlsVTl0dUt4UUp4eF9UczZZY3E3MnlBdkI2ZThZQm9YOTNqRjhIVDJtNUpNd2JWSnRSc25hdDA2Z0hYeThjcHVQVXVxNnRBSlM2M2hRQW9sVkI5UnROZUxRVnlLOHJScWF4aDl0XzNQQ05xRW4yVmx2VWRsY1puVkk3VnE3VHlv?oc=5",
+          "date": "2026-10-16T23:18:01.000Z",
+          "source": "Henry Herald"
+        },
+        {
+          "title": "What’s ahead for Selma Blair after post-flight arrest",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQ241eURPd045NkVQX2xFRGNkQjFFWTFQSWdIMVdRVHhwVnNjT1VJTVJ1cEZQNUtvM0k3Nkh0cFlMN0psLWk4R21BeFNWcHpCOXlvb3RPMXl5VWs5TlhicjlNai1NVEpqTmp2TWEtZlNCWjlqbi1LdldaREZxZTVIU2c3X183Zw?oc=5",
+          "date": "2026-10-14T16:20:45.000Z",
+          "source": "AOL.com"
+        }
+      ]
     },
     "4648": {
-      "cachedAt": "2026-09-27T10:32:12.922Z",
+      "cachedAt": "2026-10-18T09:20:59.180Z",
       "query": "\"No 4\" Port Blair (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4649": {
-      "cachedAt": "2026-09-27T10:32:12.922Z",
+      "cachedAt": "2026-10-18T09:20:59.180Z",
       "query": "\"No 5\" Port Blair (crime OR arrest OR snatch OR rape OR molest OR raid)",
-      "items": []
+      "items": [
+        {
+          "title": "Rangat Police Raid Seizes Major IMFL Consignment",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1fMmV5ck5JM0pIZVFCYnN4TU1LYUF6d1BqNUhTUlZTZTFQUk9EVFJSdzl0TnMtMzFuOHk2RlNmbzRjdGxzdk5aXzBB?oc=5",
+          "date": "2026-10-17T02:14:29.000Z",
+          "source": "Andaman Sheekha"
+        }
+      ]
     },
     "4650": {
-      "cachedAt": "2026-09-27T10:32:12.922Z",
+      "cachedAt": "2026-10-18T09:20:59.180Z",
       "query": "\"No 6\" Port Blair (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4651": {
-      "cachedAt": "2026-09-27T10:32:12.922Z",
+      "cachedAt": "2026-10-18T09:20:59.180Z",
       "query": "\"No 7\" Port Blair (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4652": {
-      "cachedAt": "2026-09-27T10:32:12.922Z",
+      "cachedAt": "2026-10-18T09:20:59.180Z",
       "query": "\"No 8\" Port Blair (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4653": {
-      "cachedAt": "2026-09-27T10:32:12.922Z",
+      "cachedAt": "2026-10-18T09:20:59.180Z",
       "query": "\"No 9\" Port Blair (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4654": {
-      "cachedAt": "2026-09-27T10:32:12.922Z",
+      "cachedAt": "2026-10-18T09:20:59.180Z",
       "query": "\"No 10\" Port Blair (crime OR arrest OR snatch OR rape OR molest OR raid)",
-      "items": []
+      "items": [
+        {
+          "title": "Selma Blair's Supportive Fans React to Her Arrest After In-Flight Incident",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZ3JldFZmRm1aMGgyNVBXUDIzam1MYXdIZkNTMFBiNG9pRFV4NmZoUVNERHFVNG9jT3E2dzZkOUpqLW9CNDJ5VVVpSjBOQkhIQ2xrTWRjMXhmck1uV0NaM2x4bC1KenhkOG5GR2psT21oVFJGd2p2R1ktOFEwS2g4UQ?oc=5",
+          "date": "2026-10-12T20:04:54.000Z",
+          "source": "Yahoo News UK"
+        }
+      ]
     },
     "4655": {
-      "cachedAt": "2026-09-27T10:32:12.922Z",
+      "cachedAt": "2026-10-18T09:20:59.180Z",
       "query": "\"No 11\" Port Blair (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4656": {
-      "cachedAt": "2026-09-27T10:32:12.922Z",
+      "cachedAt": "2026-10-18T09:20:59.180Z",
       "query": "\"No 13\" Port Blair (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4657": {
-      "cachedAt": "2026-09-27T10:32:12.922Z",
+      "cachedAt": "2026-10-18T09:20:59.180Z",
       "query": "\"No 14\" Port Blair (crime OR arrest OR snatch OR rape OR molest OR raid)",
-      "items": []
+      "items": [
+        {
+          "title": "Selma Blair's rep speaks out following plane arrest, says actress didn't intend to hurt anyone",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVTMySThZZ3ZmN2xBTUZFdDlHcFpLbUgxbnhlcVVBdWYyMS1qZHNjWGVJM0hiWEV6VWZlenc0QmZFYktuRUw3YVU4VEdqMlFhUE1URWFNT0o2bDAzcXdoOUZ0bS1WM0RKTEdTcGZ1WVR3WDVaYnZQLTAwX2JqdWQweDZQVHFLWHhObkl0eWFXZjgtdUFiUHc5b29Ldmp1endwTkZWNk53REN4QnBvSzN6V0ZVOWFaZmI0V3ZCWFFFc2FYM3dmQ1E?oc=5",
+          "date": "2026-10-17T00:14:00.000Z",
+          "source": "13newsnow.com"
+        }
+      ]
     },
     "4658": {
-      "cachedAt": "2026-09-27T10:32:12.922Z",
+      "cachedAt": "2026-10-18T09:20:59.180Z",
       "query": "\"No 15\" Port Blair (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4659": {
-      "cachedAt": "2026-09-27T10:32:12.922Z",
+      "cachedAt": "2026-10-18T09:20:59.180Z",
       "query": "\"No 16\" Port Blair (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4660": {
-      "cachedAt": "2026-09-27T10:32:12.922Z",
+      "cachedAt": "2026-10-18T09:20:59.180Z",
       "query": "\"No 17\" Port Blair (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4661": {
-      "cachedAt": "2026-09-27T10:32:12.922Z",
+      "cachedAt": "2026-10-18T09:20:59.180Z",
       "query": "\"No 18\" Port Blair (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4662": {
-      "cachedAt": "2026-09-27T10:32:12.922Z",
+      "cachedAt": "2026-10-18T09:20:59.180Z",
       "query": "\"No 19\" Port Blair (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4663": {
-      "cachedAt": "2026-09-27T10:32:12.922Z",
+      "cachedAt": "2026-10-18T09:20:59.180Z",
       "query": "\"No 20\" Port Blair (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4664": {
-      "cachedAt": "2026-09-27T10:32:12.922Z",
+      "cachedAt": "2026-10-18T09:20:59.180Z",
       "query": "\"No 21\" Port Blair (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4665": {
-      "cachedAt": "2026-09-27T10:32:12.922Z",
+      "cachedAt": "2026-10-18T09:20:59.180Z",
       "query": "\"No 22\" Port Blair (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4666": {
-      "cachedAt": "2026-09-27T10:32:12.922Z",
+      "cachedAt": "2026-10-18T09:20:59.180Z",
       "query": "\"No 24\" Port Blair (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4667": {
-      "cachedAt": "2026-09-27T10:32:12.922Z",
+      "cachedAt": "2026-10-18T09:20:59.180Z",
       "query": "\"No 23\" Port Blair (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "12291": {
-      "cachedAt": "2026-09-27T10:32:12.922Z",
+      "cachedAt": "2026-10-18T09:20:59.180Z",
       "query": "\"No 2\" Port Blair (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "12292": {
-      "cachedAt": "2026-09-27T10:32:12.922Z",
+      "cachedAt": "2026-10-18T09:20:59.180Z",
       "query": "\"No 12\" Port Blair (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     }

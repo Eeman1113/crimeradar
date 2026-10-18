@@ -1,69 +1,82 @@
 {
   "source": "https://news.google.com/rss/search",
-  "scrapedAt": "2026-09-27T10:26:06.644Z",
+  "scrapedAt": "2026-10-18T09:14:47.587Z",
   "wards": {
     "2409": {
-      "cachedAt": "2026-09-27T10:24:59.256Z",
+      "cachedAt": "2026-10-18T09:13:39.117Z",
       "query": "\"Babu Jagjivan Ram\" Raipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2410": {
-      "cachedAt": "2026-09-27T10:24:59.256Z",
+      "cachedAt": "2026-10-18T09:13:39.117Z",
       "query": "\"Madhavrao Sapre\" Raipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2411": {
-      "cachedAt": "2026-09-27T10:24:59.256Z",
+      "cachedAt": "2026-10-18T09:13:39.117Z",
       "query": "\"Veer Sawarkar Nagar\" Raipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2412": {
-      "cachedAt": "2026-09-27T10:24:59.256Z",
+      "cachedAt": "2026-10-18T09:13:39.117Z",
       "query": "\"Pt Jawaharlal Nehru\" Raipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2413": {
-      "cachedAt": "2026-09-27T10:24:59.256Z",
+      "cachedAt": "2026-10-18T09:13:39.117Z",
       "query": "\"Banjari Mata\" Raipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2414": {
-      "cachedAt": "2026-09-27T10:24:59.256Z",
+      "cachedAt": "2026-10-18T09:13:39.117Z",
       "query": "\"Thakkar Bapa\" Raipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2415": {
-      "cachedAt": "2026-09-27T10:24:59.256Z",
+      "cachedAt": "2026-10-18T09:13:39.117Z",
       "query": "\"Sant Ravidas\" Raipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
-      "items": []
+      "items": [
+        {
+          "title": "‘Digital arrest’ for 44 days: Fake CBI, IPS callers dupe Raipur grocer of Rs 8.5L",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNa2NpeGdYX3BHaW5ETGlmdS1jOFRkMzRQVlk1N0Jsb2pySGhFaWdpOHVRSnJFWXZNLWp0SnhGSkVvTjNJSllIQWJvMVB6MThoNzREaU1CTjZuM1A0a2NVZkk5Z1FpUUF1eEpxYzMwNzB3S2lsRGxWM3ppalAtYWdCNWMxcW5PQmNleko1WUUyWUdpSUhpVUhVZS14Y1RtLVdsdk41a3M0anhfcHU3TWFDYTZsQWE2RE53SW55WVp3NzFzRlNjSWQyU292N2x0YlBfdC1HR1J0SDlPVUtydE9lMzJqdVFZUdIB6wFBVV95cUxNazRqRG9WNDY0YkxzTlA1dWhreU5QSnVXX0ZWTDZVUU40c1ZxdXh0aUhtY3FBc0dVTi10eFU5Q0ZQX0hnaGQ0Y1hrWmdxenMzNUlDSUtiR2V6VnRVemdFNEVMd0FnTlRWMmRNeFZROXM1QW5zN3Bram40SzdvVjFQMktOZ3BZRzdmcXQ3WmcwbHZ2eG1vcVJFTzJOeDg1WjBHd0tVMnEzXy1fMHQwWTNUTUpwYUttNmhYbkRlUVF5M2c4ck5rM0FYNjVYQWdHbHF1SDFYNElaeFpJREhHR0oyS3phakY2X05XeTRR?oc=5",
+          "date": "2026-10-06T07:00:00.000Z",
+          "source": "The Times of India"
+        },
+        {
+          "title": "1 Kg Ganja Seized While Being Smuggled From Raipur To Jabalpur By Bus; Accused Arrested",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcDU5R1B1VjVUZzEzUFJubl9jTm5FYVdTTGhkUTVvSTYtOFQwZ1lTSGhtNWRyY2RuT3NGMk92YWFPRXkxREdkUWhTNkQzSG1Ga1dLcTFwLWZHMGNpYzk2V0tFamxVOTgyeEsxS2Rfc0lPRl9nNi1UVFZoTzREOXI0UUY2V3A2ZUx5bV9ZTF9oa2dndG53TFlwUi03MXZQVU95QzhPME1xOEdXdTU0b2diUF9VMFBwajlWUGFGVkM1a2RHSTjSAcgBQVVfeXFMUDhuVFlhcVNIekRpTER4bnRvSXhpVW9abHF1c3FGTWRpTGNTS0NNcDc1OE5MTXdCQW9WVDlZQVU3dFQ4R2JZc3hJRmxfc1RRRXNXNFR2MmRPaF9YUUxFcE9veEdRODc2N1p0YmhtQUtKNndfcHdKeHlKaHpaMUlPUzlSNTdRRkk4b0lOWVJvRzdVT2tqWmNxUTFvcXhuTWlBTDFrVTZrNlJHdzZmWUM0S3IwRXluLXZZZG1laXdVOTRjNXJ0WU5OSGk?oc=5",
+          "date": "2026-07-01T07:00:00.000Z",
+          "source": "Free Press Journal"
+        }
+      ]
     },
     "2416": {
-      "cachedAt": "2026-09-27T10:24:59.256Z",
+      "cachedAt": "2026-10-18T09:13:39.117Z",
       "query": "\"Pt Eshwaricharan Shukla\" Raipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2417": {
-      "cachedAt": "2026-09-27T10:24:59.256Z",
+      "cachedAt": "2026-10-18T09:13:39.117Z",
       "query": "\"Ravindranath Taigor\" Raipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2418": {
-      "cachedAt": "2026-09-27T10:24:59.256Z",
+      "cachedAt": "2026-10-18T09:13:39.117Z",
       "query": "\"Moreshwar Rao Gadre\" Raipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2419": {
-      "cachedAt": "2026-09-27T10:24:59.256Z",
+      "cachedAt": "2026-10-18T09:13:39.117Z",
       "query": "\"Shd Manmohan Singh Bakshi\" Raipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2420": {
-      "cachedAt": "2026-09-27T10:24:59.256Z",
+      "cachedAt": "2026-10-18T09:13:39.117Z",
       "query": "\"Pt Dindyal Upadhyay\" Raipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2421": {
-      "cachedAt": "2026-09-27T10:24:59.256Z",
+      "cachedAt": "2026-10-18T09:13:39.117Z",
       "query": "\"Swami Atmanand\" Raipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -75,74 +88,80 @@
       ]
     },
     "2422": {
-      "cachedAt": "2026-09-27T10:24:59.256Z",
+      "cachedAt": "2026-10-18T09:13:39.117Z",
       "query": "\"Yatiyatan Lal\" Raipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2423": {
-      "cachedAt": "2026-09-27T10:24:59.256Z",
+      "cachedAt": "2026-10-18T09:13:39.117Z",
       "query": "\"Pt Motilal Nehru\" Raipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2424": {
-      "cachedAt": "2026-09-27T10:24:59.256Z",
+      "cachedAt": "2026-10-18T09:13:39.117Z",
       "query": "\"Pt Vidyacharan Shukla\" Raipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2425": {
-      "cachedAt": "2026-09-27T10:24:59.256Z",
+      "cachedAt": "2026-10-18T09:13:39.117Z",
       "query": "\"Veerangana Avanti Bai\" Raipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2426": {
-      "cachedAt": "2026-09-27T10:24:59.256Z",
+      "cachedAt": "2026-10-18T09:13:39.117Z",
       "query": "\"Abdul Hamid\" Raipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2427": {
-      "cachedAt": "2026-09-27T10:24:59.256Z",
+      "cachedAt": "2026-10-18T09:13:39.117Z",
       "query": "\"Raman Mandir\" Raipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2428": {
-      "cachedAt": "2026-09-27T10:24:59.256Z",
+      "cachedAt": "2026-10-18T09:13:39.117Z",
       "query": "\"Shd Hemukalani\" Raipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2429": {
-      "cachedAt": "2026-09-27T10:24:59.256Z",
+      "cachedAt": "2026-10-18T09:13:39.117Z",
       "query": "\"Kushabhau Thakare\" Raipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2430": {
-      "cachedAt": "2026-09-27T10:24:59.256Z",
+      "cachedAt": "2026-10-18T09:13:39.117Z",
       "query": "\"Rani Laxmi Bai\" Raipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2431": {
-      "cachedAt": "2026-09-27T10:24:59.256Z",
+      "cachedAt": "2026-10-18T09:13:39.117Z",
       "query": "\"Lal Bahadur Shastri\" Raipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2432": {
-      "cachedAt": "2026-09-27T10:24:59.256Z",
+      "cachedAt": "2026-10-18T09:13:39.117Z",
       "query": "\"Dr Rajendra Prashad\" Raipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2433": {
-      "cachedAt": "2026-09-27T10:24:59.256Z",
+      "cachedAt": "2026-10-18T09:13:39.117Z",
       "query": "\"Kalimata\" Raipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2434": {
-      "cachedAt": "2026-09-27T10:24:59.256Z",
+      "cachedAt": "2026-10-18T09:13:39.117Z",
       "query": "\"Guru Govind Sinh\" Raipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2435": {
-      "cachedAt": "2026-09-27T10:24:59.256Z",
+      "cachedAt": "2026-10-18T09:13:39.117Z",
       "query": "\"Shankar Nagar\" Raipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Raipur Honey-Trap Case: Two Women Arrested for Alleged Blackmail and Extortion of Businessman",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQ1JFQUNvVEFZbzhwWDUwSEIxV2R5Vk5jclNGZjRaSktXSEhmN291YWRVTFppZHNGeGg1c0hTa2tqaU1iVHVkNDFYRXlhVHF1enRCZjFHTHFzOGNwdHRxVVdsTnl0NlJ4eTBIenRwZlhqTm5EdTBRNlFrSjR4ajdOZ3B6N2RZdjA1RzJ1cEp3SmVoY3Fwd2tpMi1wcjNIbi1JWXJrUVlFUkpHRXZBVFcwTThBMFpWOEVFQVgtbkpWNjlNVGxTZUxRM2kzSVIxWGdUbHFtRQ?oc=5",
+          "date": "2026-07-14T07:00:00.000Z",
+          "source": "Dainik Jagran MP CG"
+        },
         {
           "title": "Raipur Jewellery Theft Accused Dies by Suicide During Police Investigation",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaDhNeDBYZWpqZlRva1Y3d2xRMDh0YWJ0YjFTNmNkRXY0YzB3dVVmX0l3WXRySVRZeHNmZ3M0ZHRBdmx0TFRsWDR4RmJmX25Ya1lvYUkyV1kyMGZSMFJsT1NTb3NZMEc1TTEwQmROMHVhMzJYaG5mdkhqSGFvaV90b2xDbGJwQUVnME9zeA?oc=5",
@@ -152,12 +171,12 @@
       ]
     },
     "2436": {
-      "cachedAt": "2026-09-27T10:24:59.256Z",
+      "cachedAt": "2026-10-18T09:13:39.117Z",
       "query": "\"Dr Rajiv Gandhi\" Raipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2437": {
-      "cachedAt": "2026-09-27T10:24:59.256Z",
+      "cachedAt": "2026-10-18T09:13:39.117Z",
       "query": "\"Mahatma Gandhi\" Raipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -169,44 +188,50 @@
       ]
     },
     "2438": {
-      "cachedAt": "2026-09-27T10:24:59.256Z",
+      "cachedAt": "2026-10-18T09:13:39.117Z",
       "query": "\"Kamred Sudhir Mukharjee\" Raipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2439": {
-      "cachedAt": "2026-09-27T10:24:59.256Z",
+      "cachedAt": "2026-10-18T09:13:39.117Z",
       "query": "\"Shahid Veernarayan\" Raipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2440": {
-      "cachedAt": "2026-09-27T10:24:59.256Z",
+      "cachedAt": "2026-10-18T09:13:39.117Z",
       "query": "\"Guru Ghasidas\" Raipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2441": {
-      "cachedAt": "2026-09-27T10:24:59.256Z",
+      "cachedAt": "2026-10-18T09:13:39.117Z",
       "query": "\"Shyama Prasad Mukharji\" Raipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2442": {
-      "cachedAt": "2026-09-27T10:24:59.256Z",
+      "cachedAt": "2026-10-18T09:13:39.117Z",
       "query": "\"Shd Bhagatsingh\" Raipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2443": {
-      "cachedAt": "2026-09-27T10:24:59.256Z",
+      "cachedAt": "2026-10-18T09:13:39.117Z",
       "query": "\"Sardar Vallabh Bhai Patel\" Raipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2444": {
-      "cachedAt": "2026-09-27T10:24:59.256Z",
+      "cachedAt": "2026-10-18T09:13:39.117Z",
       "query": "\"Ramkrishna Paramhans\" Raipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2445": {
-      "cachedAt": "2026-09-27T10:24:59.256Z",
+      "cachedAt": "2026-10-18T09:13:39.117Z",
       "query": "\"Dr Bhimrao Ambedkar\" Raipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Raipur Triple Murder: Husband Accused of Killing Family",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTkdIcC1ITVBRN3A3Z1RKeE9vblN6TXUwWnNPWm40Ym4tbDM1Vm82anVoNjdyOHRlY3lXa1NLOWphdTNqWi1jOFhxTVRiSWtnQkJfVG9VaEYxRFl4M0U0LW15aHhVeGQ3T0tHNkw1Q3dfTlJBT2pRUC1hY05vUzFJdVd1U0FGSnZfZVBMazdZOERuN1ZCMXM3bUNxbTJpaElfbW9heUtRZkVfbGp5OGJqeWdsMGpPbXZjRkZyZFp6WFcybE0?oc=5",
+          "date": "2026-09-27T07:43:40.000Z",
+          "source": "Dainik Jagran MP CG"
+        },
         {
           "title": "Raipur Crime: Woman Dies After Petrol Fire Attack",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdE5vX0FkTmdtYzRMdG5ZN0FkdjA2djA2NXJGOGExVG5PbE9HLWRPaERQSWFPYmtBLWd4dXo5ZDg5RVBUVDlOYV90X3dqUU1tV29Wby1McTRVdGZCRi1GLXlzY2RIdHg4d1MtbmtXbkN0dWNkelc1YVBMTEp4cnFieGE2WWViNjFkQkViU3ZuMXQxbkFRNTRYNXR1a0c0MGNiNHBTU1VvTE9TX0doWGtQSU1ab05ZdTM2d3hsdw?oc=5",
@@ -216,19 +241,25 @@
       ]
     },
     "2446": {
-      "cachedAt": "2026-09-27T10:24:59.256Z",
+      "cachedAt": "2026-10-18T09:13:39.117Z",
       "query": "\"Pt Ravishankar Shukla\" Raipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2447": {
-      "cachedAt": "2026-09-27T10:24:59.256Z",
+      "cachedAt": "2026-10-18T09:13:39.117Z",
       "query": "\"Indira Gandhi\" Raipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
-          "title": "Professor, 5 students arrested in Raipur agri varsity paper leak using endoscopic camera on sealed envelope",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYjRGRmpxb21pdXVKczJkVVhidjdMNWVZZkM4eUQyX0s0a1VsQXU3Vk5IN3dHcTNld0xfeFRTRzlnX2MtQVIyYVFMQThBbW9tR2VZeTZROUxUc1NibzdXRnJrTU1JMk55QmpfOFAtVWhxZEM1QU5uTzhaM2h3amhBLVJCRTZGaHRjNjJyRk92VlZ2QU1nQU1OZnA2WjRISzFFTnVIZkJ1akV4aDJwd05pRHB4cjdHRGh3Z05ld0F4M2xoUlJMVmdYcHZZMG02NWfSAdwBQVVfeXFMT19NQkd2U3BQbDU3OVZRT0Q1S0s0Qk83NVVnTFBLZGktajZMUWQtUS1jWkx2bG42VXExNjhJUUE3dW1HR21PcFFQZ0h5eDlfU0MxSll4Zjh3S3JoVjVPWTJjMUd5WG1weElNb1dtbURKTkM0YmpzS005UGpmelhDQjhHaTMwdFZfNDFTdlpiUWdwU1VuYWdsbURWM0lLVEs3ZktVTW1pMGZCZmdtb2dFb1hieUJvVWFSSGRXNHhXNHZNWVQzUnJ0R0wtbFc5ZWhSU0w1bWpzaFY4OGVnQQ?oc=5",
-          "date": "2026-08-23T07:00:00.000Z",
-          "source": "EdexLive"
+          "title": "Raipur Agricultural University paper leak cracked in 36 hours, 6 arrested",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMUhmbXpxTTJfUVBGMEFyekZ0WUtKT0VBaFlMaGpNaUkyUUk4YVNRM09lMFhBV1ZDYTZMMUdrRmp1MlB3bjdxSTVQX3hwQXUxVktjaVVJVXRIRVJUU0RTMEFMTVJXdHVrNmJoWTY3bkZWaFpoX2VPTE5SWHh4dUF1TGNhWkR3V2NVS0VQaWNkWXNXTVRXUWFTc0NtV2FzdDVDY1pKNmlPdzVDVHFvUWFSQnljUVd1MVNOM0JCYUVyc3drQWJHdUlXemJaYnNwalZDaFlKMk03OXdJSUZ0bHfSAeMBQVVfeXFMTVlpLW50TkI1R2dqQ1VCbG1ENEJWeWtKU1QtQnZDRWpVbmVxb0JGX0dhUTNtdWZRalpuTXh0WlNtcUsxRHd1OHBsN0ZxV1pNZTl4aGlhcjN4bnVjY2syVi1KRHlTTTI0eHRXTkVGYm4yZjVKb3dsQnNBNVFZaVRUY2hhMVU5SzdFMnFXQmlhSkRkd09wQVhaa2k4YURGOUJZakd6YkRfQjI0TWJpaGtXT0g5em8xV29WYXBRNXo4UWFuQXYyMjNXMDExeVNmcGxscHZ3aUpuaVJKbG9NUExoU1JjYWM?oc=5",
+          "date": "2026-08-24T07:00:00.000Z",
+          "source": "India Today"
+        },
+        {
+          "title": "(Update)Professor Among Six Arrested in Indira Gandhi Agricultural University Paper Leak Case",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQU3NnTVA3aGNFYWtKdk1NTUZYWTVTenVDQlYzdUVVSWw3NmhNTmxiYXU3a3k2ci1YMEx1X0hHamhjcTU2Qk5iaXlySjdNZ3BkVVRCcFA4SjdLY3RYUzgweTNCcFRoczF4WDllcTRJQV9RcmlTcVZ0SW0wdXZPdmZ5bV9fcjN2MGZRQmlOMTI5UTdaZw?oc=5",
+          "date": "2026-08-22T10:05:53.000Z",
+          "source": "Hindusthan Samachar English"
         },
         {
           "title": "Chhattisgarh: Six including professor, 5 students arrested, over agricultural university paper leak in Raipur",
@@ -241,167 +272,168 @@
           "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPanEta0EtZ1VYRG1hRFVYQ0Q4dUtpMFF6OXByN29HRXMzTG96S0lRU3VRaUxrQzAwR3NpWm03S3h4RFFlMkpEMTN6ZHdqdXo1dTBEaWhfRm1MdmNDbEJEaHRlazl6T3ZRZWg4MFloME82SS1rM0tpRmFtVTNoRVR1MnAwMWlGU2VuRHVRMVFreXNEMGNTVV9BWGMyUzJoZVZmQ19VaEQ3aklVbGhBTzJ6a19idkFlU1RWQkJQd043UU9LaU8xQ3VzdW1BMnZId3c1a3pHR1M5aFrSAd4BQVVfeXFMTzNnVjZiNjdZNHRjY2R2eTZzUlBhbnM2RWl6VUdiMW9SbnlQczNRYjlFdm9FR2V3dTBoaExpVXBuQ0lhc0NCekFkS1VWVVBwbnBVczFzdU9Na3hoVXE1dWROOEpWZW41aWxYMmRSaU9TeXpyZjVIOXd6LVM3Y1lNc3ZWTXpjaVk0WWFPa0QwWU5oaDdXVkM1N1hkZE5JZThBb2pxZFJmUm9uaFowZ3FTbFJTZWdJaC13aXhxR01LcUZ1LTljQkhBc0NfLWhLS0ZRZU0yLUZWRXAxRDFkRDlB?oc=5",
           "date": "2026-08-22T07:00:00.000Z",
           "source": "ETV Bharat"
-        },
-        {
-          "title": "Professor held in Chhattisgarh paper leak case; police personnel say he inserted endoscopic camera in sealed envelope",
-          "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNVnh6SXZBVTNuS01nVnVvXzBpd1JqUnZNU1ZrMlBhLVdMbDM4eXItTTJuTnUwZ3dvZkRKMEVaTGlIOWpVOUYtT3dwVVUzUy1hX1VvTGVxM3BCMFhyTmpHZjhWM0hKdnVnOEltTU1IU3VXSklFUk5rZnpZVy1tWTZSazBZSHRrbVEya0RETm9VOWNqNWpOdmZBZktQdHVtcUFJZ2k1ejlId1RESkptQ09CeVgzVEc4MGduaTFBd0ZrZlp3OTd5dkU4QUcwZTg3Y2ZDZTVqaWlna0dLRTB0eWl3R0FLNjVETE5FRzktYUd5S0VYSXJyZExmcjNQd1lsRGc0R2xmejJtZTd1QjRKbDBNNkVUUlhmNHPSAZ4CQVVfeXFMTkg5cmdyVWhObHducVdIRmNFSEp5NFNwaXF2MmFhMEFTcEY5YWI5TmFLZmRxQTR4R29GR2hxc1QtS2w4LVBaTHVzYnFLMFFqaTd5LUhCVHFSN2g1dnY5cWtwTml3dG1NWEdWc3ZCdllsWHkxNzZ5NVY3OEtuNEFmaXA0S0IyWGQzM1VYeUdxMXBQTWxjUUE4cXlkM0dMbFJTc0ZuM0RxY1otLW92cnpBQ0VVY2NTSDRxTzFFZ2JLMDh3NU1iQ3ZjODhaSVYtM3FCUW1teWhXZlZjb0NyeXNCWHpoSHNneVFfMUJuUnpRMFBRN1VXTEFxUmhHNHJpaGJHeHF3V0ktcmVJYTd1MmNxaTJ4YXdqOVYwdDlxa0VKZw?oc=5",
-          "date": "2026-08-22T07:00:00.000Z",
-          "source": "thehindu.com"
         }
       ]
     },
     "2448": {
-      "cachedAt": "2026-09-27T10:24:59.256Z",
+      "cachedAt": "2026-10-18T09:13:39.117Z",
       "query": "\"Bal Gangadhar Tilak\" Raipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2449": {
-      "cachedAt": "2026-09-27T10:24:59.256Z",
+      "cachedAt": "2026-10-18T09:13:39.117Z",
       "query": "\"Kanhaiya Lal Bajari\" Raipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2450": {
-      "cachedAt": "2026-09-27T10:24:59.256Z",
+      "cachedAt": "2026-10-18T09:13:39.117Z",
       "query": "\"Danveer Bhamashah\" Raipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2451": {
-      "cachedAt": "2026-09-27T10:24:59.256Z",
+      "cachedAt": "2026-10-18T09:13:39.117Z",
       "query": "\"Veer Shivaji\" Raipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2452": {
-      "cachedAt": "2026-09-27T10:24:59.256Z",
+      "cachedAt": "2026-10-18T09:13:39.117Z",
       "query": "\"Sant Kabeer Das\" Raipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2453": {
-      "cachedAt": "2026-09-27T10:24:59.256Z",
+      "cachedAt": "2026-10-18T09:13:39.117Z",
       "query": "\"Dr APJ Abdul Kalam\" Raipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
-      "items": []
+      "items": [
+        {
+          "title": "CBI arrests Railway officer in bribery case",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObm5KYkpqamdsT3JyTWRROEhGbVVWemZYcEVpbXNUdkoxS1NIVVJJRE9qbmVVR0JrZ1BZV2J1emJtN3NNa3haVFV5a0c3a1NnbXRLLUdNS0dVS1dQWmlhYnRVenBjLThQYmtMTUxEaDFqVFdRb0Vfa0prRElVT1FyM0Z1UmZlWW96NTAtZHl6R1EwS0JzQUgtXzdoN2YtT3A0RG83OQ?oc=5",
+          "date": "2026-08-15T07:00:00.000Z",
+          "source": "Babushahi.com"
+        }
+      ]
     },
     "2454": {
-      "cachedAt": "2026-09-27T10:24:59.256Z",
+      "cachedAt": "2026-10-18T09:13:39.117Z",
       "query": "\"Thakur Pyarelal\" Raipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2455": {
-      "cachedAt": "2026-09-27T10:24:59.256Z",
+      "cachedAt": "2026-10-18T09:13:39.117Z",
       "query": "\"Tatyapara\" Raipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2456": {
-      "cachedAt": "2026-09-27T10:24:59.256Z",
+      "cachedAt": "2026-10-18T09:13:39.117Z",
       "query": "\"Shahid Chudamani Nayak\" Raipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2457": {
-      "cachedAt": "2026-09-27T10:24:59.256Z",
+      "cachedAt": "2026-10-18T09:13:39.117Z",
       "query": "\"Mahamaya Mandir\" Raipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2458": {
-      "cachedAt": "2026-09-27T10:24:59.256Z",
+      "cachedAt": "2026-10-18T09:13:39.117Z",
       "query": "\"Shd Pankaj Vikram\" Raipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2459": {
-      "cachedAt": "2026-09-27T10:24:59.256Z",
+      "cachedAt": "2026-10-18T09:13:39.117Z",
       "query": "\"Bhaktmata Karma\" Raipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2460": {
-      "cachedAt": "2026-09-27T10:24:59.256Z",
+      "cachedAt": "2026-10-18T09:13:39.117Z",
       "query": "\"Pt Sundar Lal Sharma\" Raipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2461": {
-      "cachedAt": "2026-09-27T10:24:59.256Z",
+      "cachedAt": "2026-10-18T09:13:39.117Z",
       "query": "\"Dr Khubchand Baghel\" Raipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2462": {
-      "cachedAt": "2026-09-27T10:24:59.256Z",
+      "cachedAt": "2026-10-18T09:13:39.117Z",
       "query": "\"Mothar Teresa Warad\" Raipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2463": {
-      "cachedAt": "2026-09-27T10:24:59.256Z",
+      "cachedAt": "2026-10-18T09:13:39.117Z",
       "query": "\"Bhagwaticharan Shukla\" Raipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2464": {
-      "cachedAt": "2026-09-27T10:24:59.256Z",
+      "cachedAt": "2026-10-18T09:13:39.117Z",
       "query": "\"Civil Line\" Raipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2465": {
-      "cachedAt": "2026-09-27T10:24:59.256Z",
+      "cachedAt": "2026-10-18T09:13:39.117Z",
       "query": "\"LT Arvind Dikshit\" Raipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2466": {
-      "cachedAt": "2026-09-27T10:24:59.256Z",
+      "cachedAt": "2026-10-18T09:13:39.117Z",
       "query": "\"Rani Durgavati\" Raipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2467": {
-      "cachedAt": "2026-09-27T10:24:59.256Z",
+      "cachedAt": "2026-10-18T09:13:39.117Z",
       "query": "\"Maulana Abdul Rauf\" Raipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2468": {
-      "cachedAt": "2026-09-27T10:24:59.256Z",
+      "cachedAt": "2026-10-18T09:13:39.117Z",
       "query": "\"Swami Vivekanand Sadar Bazar\" Raipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2469": {
-      "cachedAt": "2026-09-27T10:24:59.256Z",
+      "cachedAt": "2026-10-18T09:13:39.117Z",
       "query": "\"Shd Rajiv Pandey\" Raipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2470": {
-      "cachedAt": "2026-09-27T10:24:59.256Z",
+      "cachedAt": "2026-10-18T09:13:39.117Z",
       "query": "\"Dr Vipin Bihari Sur\" Raipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2471": {
-      "cachedAt": "2026-09-27T10:24:59.256Z",
+      "cachedAt": "2026-10-18T09:13:39.117Z",
       "query": "\"Bramhanpara\" Raipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2472": {
-      "cachedAt": "2026-09-27T10:24:59.256Z",
+      "cachedAt": "2026-10-18T09:13:39.117Z",
       "query": "\"Mahant Laxminarayan Das\" Raipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2473": {
-      "cachedAt": "2026-09-27T10:24:59.256Z",
+      "cachedAt": "2026-10-18T09:13:39.117Z",
       "query": "\"Vamanrao Lakhe\" Raipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2474": {
-      "cachedAt": "2026-09-27T10:24:59.256Z",
+      "cachedAt": "2026-10-18T09:13:39.117Z",
       "query": "\"Sant Ramdas\" Raipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2475": {
-      "cachedAt": "2026-09-27T10:24:59.256Z",
+      "cachedAt": "2026-10-18T09:13:39.117Z",
       "query": "\"Netaji Subhashchandra Bose\" Raipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2476": {
-      "cachedAt": "2026-09-27T10:24:59.256Z",
+      "cachedAt": "2026-10-18T09:13:39.117Z",
       "query": "\"Mahrshi Valmiki\" Raipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2477": {
-      "cachedAt": "2026-09-27T10:24:59.256Z",
+      "cachedAt": "2026-10-18T09:13:39.117Z",
       "query": "\"Brigedier Usman\" Raipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2478": {
-      "cachedAt": "2026-09-27T10:24:59.256Z",
+      "cachedAt": "2026-10-18T09:13:39.117Z",
       "query": "\"Chandra Sekhar Azad\" Raipur (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     }
