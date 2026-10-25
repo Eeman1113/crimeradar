@@ -1,22 +1,28 @@
 {
   "source": "https://news.google.com/rss/search",
-  "scrapedAt": "2026-10-18T09:17:35.956Z",
+  "scrapedAt": "2026-10-25T09:37:20.912Z",
   "wards": {
     "1985": {
-      "cachedAt": "2026-10-18T09:16:46.638Z",
+      "cachedAt": "2026-10-25T09:36:31.360Z",
       "query": "\"No 1\" Agartala (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Bangladeshi National arrested along Indo-Bangladesh Border in North Tripura",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNS1lQcE9rck93cW0zZXNXZnRLVzNheFhqYlZteG5OV0MtNVM4NG9HaV9IZ2VKTUsyZ2pzbHlZZE9SZjBUWGR6U0pjYlJWN1BKNmpXOGdMLWhqTmRLSXd5ZndlalZBVkhqZzNfLVpWeGxuSHRGWjlXYkdiZzBhZXFkcndEelZOQk16dTNGOTFUbmljTkppeUpFYy1temlUcUh4TjV6OUtXcTFmZG43Mm9pZVdIZmc2UW9seHc?oc=5",
+          "date": "2026-10-23T09:24:20.000Z",
+          "source": "Tripuratimes"
+        },
+        {
+          "title": "Journalist assaulted in Agartala, one detained",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMW9tUmNEb1NScHpNSWNwU3BRd3NnYVB4dVBkX2tUMHZwTUVOYUE1YkRHZ0V1Z255Tm9QVVJBN0RVNWZILXh5ZHpyUUwxU2s4NEp1MFMyVFZtR2RkYWc4ZHBnZVEyMlhLYUpyWXVMNi13TFRyS1JHeXk1elRvYzJ1X09FelQ3aVFCRC1mWTVUc2hlZw?oc=5",
+          "date": "2026-10-21T12:34:34.000Z",
+          "source": "Tripuratimes"
+        },
         {
           "title": "Tripura High Court Grants Bail to NDPS Accused Over Serious Police Lapses, Calls Out Investigating Officer’s Failure to Follow Mandatory Arrest Procedures",
           "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPYVB5U2xSM05EV1ZqS1ZCamJKRGFQNndqYmVySnAzUWg0SGZ4MXVzZ2h3RzNZYXg0SVVnS1Q0d21JWnNXT0Rtd2s2LVB3d1p0MlAxYl85TkdZNzZFU3ZRbFRvZ19HZWotaE5oNnJFZV95YjVzRjI0WjdlRF9KeXRvRUV1dXBKaHcxamI3aWVEZUwzcXR4blI0bHhhazR6b1RMN19jQ05DUUdIWkZ1WnJVMGlUZlgwbTNrNE9RVlFNcVgtM1l3eENzVGY4ZDVlamt3cHMxaDdweGFsTDZNYkdVS2NHbERNVm1WbHZrUjc3NVNyVXZpRnF1X2hCQUJpdFZpWXVjNTh5bkNvbUJ1NW5sanF5c2FCajB5NDdXYmpTQ2VGcmdZd3pDaVJjekczdDBPUVdNTktZRTFGeHVpaUNQeW5B?oc=5",
           "date": "2026-10-01T06:23:25.000Z",
           "source": "TRIPURAINFO"
-        },
-        {
-          "title": "Tripura Police secures first position in country in NATGRID usage",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOU5UNlFOZGtwY19MV1lKUVpad3JzcGItUk9KN0ItMDB1M0I0UUs2ZjcwUUQ3STVPdGFVVXJqQ203bXkzMUNIRkFCMkh3cVJ3TDQwRFpjMXNNYko5UFN6dU1QeHBMejA5Q1k2ZXNsS2Q3NHdYQUgyQ2tITng1eFdRUlpDUzIya2hITXBBYzhzXzdLZG9wa0hQdHhqN2IzQTZkRXlOYnlBcEdOY1NzYWlXaVUzeThSaFFXMkVwZUFXVS1waGhH0gHKAUFVX3lxTFB5ajFPRk5NX0VSYVAzN1MtVk1uVmpRNzlsWnRBSFY2b3lNZU85S2c5MlpYVm8taTVRZVFsUm5FUThjclBXcVA4MW9lZ1ZrNGk1eVFqUmNObmNMNHRocGVESlNkWTJSN3ZDS09SQVpLZmNBU2NNSXpDTkVRZWVuSW0zX2w3X2lmSEhseXlfSW5WcVktRGxIb040NFBSc1ZkQ0g1Mk1xbFJDNVFPYjZyazRWYTVFQW9zNldscExXTU80dXJJbXVEd21SYVE?oc=5",
-          "date": "2026-08-12T07:00:00.000Z",
-          "source": "India Today NE"
         },
         {
           "title": "Tripura Police Tops National Ranking in NATGRID Usage",
@@ -27,99 +33,92 @@
       ]
     },
     "1986": {
-      "cachedAt": "2026-10-18T09:16:46.638Z",
+      "cachedAt": "2026-10-25T09:36:31.360Z",
       "query": "\"No 50\" Agartala (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "1987": {
-      "cachedAt": "2026-10-18T09:16:46.638Z",
+      "cachedAt": "2026-10-25T09:36:31.360Z",
       "query": "\"No 49\" Agartala (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "1988": {
-      "cachedAt": "2026-10-18T09:16:46.638Z",
+      "cachedAt": "2026-10-25T09:36:31.360Z",
       "query": "\"No 45\" Agartala (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "1989": {
-      "cachedAt": "2026-10-18T09:16:46.638Z",
+      "cachedAt": "2026-10-25T09:36:31.360Z",
       "query": "\"No 48\" Agartala (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "1990": {
-      "cachedAt": "2026-10-18T09:16:46.638Z",
+      "cachedAt": "2026-10-25T09:36:31.360Z",
       "query": "\"No 46\" Agartala (crime OR arrest OR snatch OR rape OR molest OR raid)",
-      "items": [
-        {
-          "title": "Sabroom Police Arrest Three Accused In Daityeswari Kali Bari Theft Case.",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMkJURks0WHZ5bGNydHY3dDFjMDdhRnFRZVVIZXZXSG0teHpDZWVlRkE1aXMxZ2FiRDNlUU5RVzJWaWVSOWV3YkVDdldOanZLeFROc3dpQmdWSnQ1S25QdXV2allvZGdEcEFld1l3MmhBczBFZ0VqMmlmSy0teGd2T1J3N3V5MVJrQXhLMkVQMlh5ejIwRDFpS0FmRnVIdnBkb2xhZ1pkSQ?oc=5",
-          "date": "2026-08-01T07:00:00.000Z",
-          "source": "TRIPURA STAR NEWS"
-        }
-      ]
+      "items": []
     },
     "1991": {
-      "cachedAt": "2026-10-18T09:16:46.638Z",
+      "cachedAt": "2026-10-25T09:36:31.360Z",
       "query": "\"No 47\" Agartala (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "1992": {
-      "cachedAt": "2026-10-18T09:16:46.638Z",
+      "cachedAt": "2026-10-25T09:36:31.360Z",
       "query": "\"No 38\" Agartala (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "1993": {
-      "cachedAt": "2026-10-18T09:16:46.638Z",
+      "cachedAt": "2026-10-25T09:36:31.360Z",
       "query": "\"No 37\" Agartala (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "1994": {
-      "cachedAt": "2026-10-18T09:16:46.638Z",
+      "cachedAt": "2026-10-25T09:36:31.360Z",
       "query": "\"No 39\" Agartala (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "1995": {
-      "cachedAt": "2026-10-18T09:16:46.638Z",
+      "cachedAt": "2026-10-25T09:36:31.360Z",
       "query": "\"No 40\" Agartala (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "1996": {
-      "cachedAt": "2026-10-18T09:16:46.638Z",
+      "cachedAt": "2026-10-25T09:36:31.360Z",
       "query": "\"No 32\" Agartala (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "1997": {
-      "cachedAt": "2026-10-18T09:16:46.638Z",
+      "cachedAt": "2026-10-25T09:36:31.360Z",
       "query": "\"No 34\" Agartala (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "1998": {
-      "cachedAt": "2026-10-18T09:16:46.638Z",
+      "cachedAt": "2026-10-25T09:36:31.360Z",
       "query": "\"No 35\" Agartala (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "1999": {
-      "cachedAt": "2026-10-18T09:16:46.638Z",
+      "cachedAt": "2026-10-25T09:36:31.360Z",
       "query": "\"No 41\" Agartala (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2000": {
-      "cachedAt": "2026-10-18T09:16:46.638Z",
+      "cachedAt": "2026-10-25T09:36:31.360Z",
       "query": "\"No 44\" Agartala (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2001": {
-      "cachedAt": "2026-10-18T09:16:46.638Z",
+      "cachedAt": "2026-10-25T09:36:31.360Z",
       "query": "\"No 51\" Agartala (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2002": {
-      "cachedAt": "2026-10-18T09:16:46.638Z",
+      "cachedAt": "2026-10-25T09:36:31.360Z",
       "query": "\"No 42\" Agartala (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2003": {
-      "cachedAt": "2026-10-18T09:16:46.638Z",
+      "cachedAt": "2026-10-25T09:36:31.360Z",
       "query": "\"No 43\" Agartala (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -131,14 +130,20 @@
       ]
     },
     "2004": {
-      "cachedAt": "2026-10-18T09:16:46.638Z",
+      "cachedAt": "2026-10-25T09:36:31.360Z",
       "query": "\"No 30\" Agartala (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2005": {
-      "cachedAt": "2026-10-18T09:16:46.638Z",
+      "cachedAt": "2026-10-25T09:36:31.360Z",
       "query": "\"No 29\" Agartala (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Minor rape: Accused elusive, Villagers block road",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMkJIb2RCaDlPZUFiOC1Ta3JrRUotVDE4UHZzVW11Uk5TRmkyVklBcGRpVVpxQU1pa3g4UjFTMGVuYkRBREdvZXB3SXk4c0Q0d2x1U2l0QVRkNzB0cUMzWXEwUFFFb0lBak1QYmd3QXFkZm8zaXNyc2JONV9ELXhHNndGU2c5VDVkU0lTVjVMTGsteW8?oc=5",
+          "date": "2026-10-09T18:30:21.000Z",
+          "source": "Tripuratimes"
+        },
         {
           "title": "J&K Crime Branch files chargesheet in forged L-G signature case",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPekNKOEh4WnpiTWg1N0taZnY1NndpZEZSdmtwblUxdnNvS2o3ajY3MTJWM3ZxWGo3MGlDc1dSQVRMY2JZblMyb2tqWTlHSjVoclV5NWtBM3dEaFpYY011Vms3VVY1Q0psVjZNODZLY2tCSjhISW1IY2FRVkl6ZFBwTzNTODZMZUY5aDlmMkJteFc0WXFUeW5RZ1FCTjZPcF9WNHo0MnU3aHI?oc=5",
@@ -148,30 +153,23 @@
       ]
     },
     "2006": {
-      "cachedAt": "2026-10-18T09:16:46.638Z",
+      "cachedAt": "2026-10-25T09:36:31.360Z",
       "query": "\"No 19\" Agartala (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2007": {
-      "cachedAt": "2026-10-18T09:16:46.638Z",
+      "cachedAt": "2026-10-25T09:36:31.360Z",
       "query": "\"No 18\" Agartala (crime OR arrest OR snatch OR rape OR molest OR raid)",
-      "items": [
-        {
-          "title": "BIS Conducted Enforcement Raid At Jewellers Outlet At Pudukkottai.",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUEYxeW5ZejFPYjJtUnpWQTFGUktIRXhLWE1aYXVBcjh1WkRTUzdQcEgtNThCdG11aHZydUlsNDRlamx0SFVOLTR3bVFjOGxrUzlwWFJ0RzgtbWMyNlNNSUstTU1tdzFlMXRGWlhEZ1k3VUNkUmhDSTVMRmJTOVJ4M2RRNmJsT2dNbFNvMF9IMy1QX2VtaHZRRWhfUE5WMkE?oc=5",
-          "date": "2026-05-07T07:00:00.000Z",
-          "source": "TRIPURA STAR NEWS"
-        }
-      ]
+      "items": []
     },
     "2008": {
-      "cachedAt": "2026-10-18T09:16:46.638Z",
+      "cachedAt": "2026-10-25T09:36:31.360Z",
       "query": "\"No 13\" Agartala (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
           "title": "Tripura police seize 16.3 kg of suspected cannabis at Agartala railway station, arrest man",
           "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOeTc0NFpIbXVsS0dwR293OWpTNTg5ZFRGVEwtUUstU3ZNcUozejFOUXdxWHE1dW9ORXhXT3BsWU1JbDZGd1JFWTNRMk1YR0dac3dfN3hIVnVTZ3U4bF95NkF1MTJCMjFTa3Zjcm1lTVNULXo2VDJxaWhpZlFVWjAyOWg3QTUzeTZ4R0tFWVZTWWFhX21JclQ3SEtJbzBoT3FKWUpncE41VGVFdVhHV1hPU2ZOYTZUSWVNbW0xNmhmeURyU0RGbUtCV2N2aWkwWGJVM1VPenkwSmhveEl5dFVSU2g1TdIB6AFBVV95cUxOdThuMldiUlVQZHhPdlVGUnRsZ2FoYTNQSzNiTXBtcFFMWElpZDVxLXVXOGkyZTBidk1hMnVfVDJVZEVrZTFVRzF5XzN0Sk8tV0xsd1RFNkZjeVE3bmxIWXRaWGdvYjZGbldXUUg1T3hYVllZLVdLRnBHM2duNXQxMjZtWndYYmNFbm1KOUNqUVJ3Q3BZbzNIRU90YmlCYTlaUHVCRk1EbzA5Wk1VSktoSHp1NWxXcGxwSjdRWTFIUWhFOHB1QzJ3eE5SRlpyUGkweDZpbTVSeFhFUlRHdzJJNHJEOG1wY2Zr?oc=5",
-          "date": "2026-10-11T13:18:07.000Z",
+          "date": "2026-10-11T07:00:00.000Z",
           "source": "India Today NE"
         },
         {
@@ -183,92 +181,92 @@
       ]
     },
     "2009": {
-      "cachedAt": "2026-10-18T09:16:46.638Z",
+      "cachedAt": "2026-10-25T09:36:31.360Z",
       "query": "\"No 20\" Agartala (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2010": {
-      "cachedAt": "2026-10-18T09:16:46.638Z",
+      "cachedAt": "2026-10-25T09:36:31.360Z",
       "query": "\"No 21\" Agartala (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2011": {
-      "cachedAt": "2026-10-18T09:16:46.638Z",
+      "cachedAt": "2026-10-25T09:36:31.360Z",
       "query": "\"No 12\" Agartala (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2012": {
-      "cachedAt": "2026-10-18T09:16:46.638Z",
+      "cachedAt": "2026-10-25T09:36:31.360Z",
       "query": "\"No 23\" Agartala (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2013": {
-      "cachedAt": "2026-10-18T09:16:46.638Z",
+      "cachedAt": "2026-10-25T09:36:31.360Z",
       "query": "\"No 24\" Agartala (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2014": {
-      "cachedAt": "2026-10-18T09:16:46.638Z",
+      "cachedAt": "2026-10-25T09:36:31.360Z",
       "query": "\"No 25\" Agartala (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2015": {
-      "cachedAt": "2026-10-18T09:16:46.638Z",
+      "cachedAt": "2026-10-25T09:36:31.360Z",
       "query": "\"No 27\" Agartala (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2016": {
-      "cachedAt": "2026-10-18T09:16:46.638Z",
+      "cachedAt": "2026-10-25T09:36:31.360Z",
       "query": "\"No 31\" Agartala (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2017": {
-      "cachedAt": "2026-10-18T09:16:46.638Z",
+      "cachedAt": "2026-10-25T09:36:31.360Z",
       "query": "\"No 28\" Agartala (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2018": {
-      "cachedAt": "2026-10-18T09:16:46.638Z",
+      "cachedAt": "2026-10-25T09:36:31.360Z",
       "query": "\"No 26\" Agartala (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2019": {
-      "cachedAt": "2026-10-18T09:16:46.638Z",
+      "cachedAt": "2026-10-25T09:36:31.360Z",
       "query": "\"No 9\" Agartala (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2020": {
-      "cachedAt": "2026-10-18T09:16:46.638Z",
+      "cachedAt": "2026-10-25T09:36:31.360Z",
       "query": "\"No 10\" Agartala (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2021": {
-      "cachedAt": "2026-10-18T09:16:46.638Z",
+      "cachedAt": "2026-10-25T09:36:31.360Z",
       "query": "\"No 8\" Agartala (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2022": {
-      "cachedAt": "2026-10-18T09:16:46.638Z",
+      "cachedAt": "2026-10-25T09:36:31.360Z",
       "query": "\"No 7\" Agartala (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2023": {
-      "cachedAt": "2026-10-18T09:16:46.638Z",
+      "cachedAt": "2026-10-25T09:36:31.360Z",
       "query": "\"No 5\" Agartala (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2024": {
-      "cachedAt": "2026-10-18T09:16:46.638Z",
+      "cachedAt": "2026-10-25T09:36:31.360Z",
       "query": "\"No 11\" Agartala (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2025": {
-      "cachedAt": "2026-10-18T09:16:46.638Z",
+      "cachedAt": "2026-10-25T09:36:31.360Z",
       "query": "\"No 15\" Agartala (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2026": {
-      "cachedAt": "2026-10-18T09:16:46.638Z",
+      "cachedAt": "2026-10-25T09:36:31.360Z",
       "query": "\"No 4\" Agartala (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -286,32 +284,19 @@
       ]
     },
     "2027": {
-      "cachedAt": "2026-10-18T09:16:46.638Z",
+      "cachedAt": "2026-10-25T09:36:31.360Z",
       "query": "\"No 6\" Agartala (crime OR arrest OR snatch OR rape OR molest OR raid)",
-      "items": [
-        {
-          "title": "Police seize Yaba worth Rs 2.5 crore, two arrested in North Tripura",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNW1lUWpHaUxQbWVnTFhjaGt4clJrWTJXZlBzSU9NX0xEWjNrZm1LdXN3ckxfWUViOUc1SS1qcS1aWENKODA1dWMyS2lOYlFVODRoTGstbEROdVYxdjJCNnQtWlp3M2pPZENkMms0OXZ1dXlwaDhtc1ZVVlhGbU9JUDVnMEVHdGZ0Z0xwUldCMU9SODdQVFZnSGlSMUVHSHpBMjNtS1VBRzllMDVGT1k0VGVtaVRiV2t5QlBCRWY3OU9yUjJB0gHKAUFVX3lxTE1XQjNmREhtYkZqQUI4WGJJMFJzc0p1TWpCckxFS3FaN1l4Z1o1WFRlVW9rbXdURGZ4dzJ5T2JPbVRBd0ZsOUJ2QzZxMDQzYkV2TzJhcWR5ZDBIbE4wTzVybnBBR0FYbUZhdGVybmljUlVpRGk2TXlibm8wY19kSHhQaUZJamVaTF9acTd0YjRpZm9YWHp2RlNVQTJOTGY1bzZDV1FMU2NWdW15QzVZRjQwME9ELUkxWEE4ejFYVlQxNGZQUkk5VHJRdHc?oc=5",
-          "date": "2026-05-18T07:00:00.000Z",
-          "source": "India Today NE"
-        }
-      ]
+      "items": []
     },
     "2028": {
-      "cachedAt": "2026-10-18T09:16:46.638Z",
+      "cachedAt": "2026-10-25T09:36:31.360Z",
       "query": "\"No 2\" Agartala (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
-          "title": "Tipra Motha Gives 24-Hour Ultimatum Over Alleged Firing During Tripura VC Polls - The Sentinel",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbjJkdHItTzR1YUtaNi10ZDdNOGdKdDU2LUY4bS1sU0xEWW0zZFppMzBiOFppRlp4YURiQkpMT2FCc0pUX2t0dlg5RDVWLU13NndHY050MGZJdENxSndWazhGLXQtRDVTWXBDZEV2VTJfdEtjTVNGQkItWUpzV0VBbHE3UWtEWHI0aU9oOW9zc2JJcHJaM3pvVWdDNDRnOWRJdmd5eUxFWkROOU5BZUdKdDE3Z1RDTHVSZW45Z25fMNIBzAFBVV95cUxOOEpEak9GbFY1NUFlSUp5ZVJoY2JVNU5QaWM5anpySExWckRRUUNCdUM3YkwtUjZ5YW1OMHBweDZlQ19ycnl2TERCM3JIaE4yeW4ySnZxOE8wZDljOFBJcGdRRTZQNmhLSG1HWjMtTnA5blJ1TmZtNHNVcllGLTJiUV8tRTVFMUFxU0ZWOHBDU1Jvd2VxQlAwRjhSc3RUVV9RajVseTNlbjBvTjNOLXVWVWQ0dmpIcmNuSkFIdXdYNnZCSk5abVBVY2FlR0c?oc=5",
-          "date": "2026-09-29T09:29:00.000Z",
+          "title": "Delhi Police Arrest Influencer Amir Shokeen in Racial Discrimination Case - The Sentinel",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTkpxdnYyUXVVbTB5Ump3ZjItV25ld2Z2QVhrdFMzOTByaG1nSV9DekxSOU1yTlhqc085bXI1Vlh6TjlfQkNkQWV0LUtOWFU3YlFqU3QzWDRwd2t5X0FNWmR2NjJ5OHdLUFFKWk5hMFYzOXZtZlRwSEZiRGZ0eFpzMmE4a1BXMU1aeFhWWmFDeXZoODYxbXd0blFhb0ZldXhiWUNhbnV0cFVlbkpwc2tRN0JvYXhSb2ttUkZ5R2t1SnRUMnZx0gHEAUFVX3lxTE5OSnF2djJRdVVtMHlSandmMi1XbmV3ZnZBWGt0UzM5MHJobWdJX0N6TFI5TXJOWGpzTzltcjVWWHpOOV9CQ2RBZXQtS05YVTdiUWpTdDNYNHB3a3lfQU1aZHY2Mnk4d0tQUUpaTmEwVjM5dm1mVHBIRmJEZnR4WnMyYThrUFcxTVp4WFZaYUN5dmg4NjFtd3RuUWFvRmV1eGJZQ2FudXRwVWVuSnBza1E3Qm9heFJva21SRnlHa3VKdFQydnE?oc=5",
+          "date": "2026-10-23T05:48:45.000Z",
           "source": "The Sentinel - of this Land, for its People"
-        },
-        {
-          "title": "Tipra Motha gives Tripura Police, SEC 24-hour ultimatum over firing on party candidate",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQeHdqYURlOVlPMWpNN3JzLUdmMnYxYTA3X3hPR29zQl83RkNPTWo1WnlUTklwNTVJVnVfdnZHMEVOcy11aDI2cHdqUXRFQXZlTExMYlMxdW1HMU4zaU9QS2MwNldiWWpWRlN4Ny14Nm5jeGcxel9DYi00VE15b3dZYXpTSG1CVVJSSmVmZzF0TWV5LTNETnRvVm9GckpFWmI4OWNsWkFNVUZNRkV3SE8tT0tnWEtSLWNKRHNBWlFFUm5EYjVqbmFNOFNtS3prWTI4Snh5QnhNY2Jtak9TRTlv0gHkAUFVX3lxTE5JNGpKa0g5NG5yOU9yWDlkVUN1MlNISUppTHJRZngyQ1NGdmZiUXhZck1SZ1dSdDFUWEdNcW9Oa0Y0Smk3NlVIUE80QlZud2dEWDltSVNKRUE2d3pLWTF3Qk5DcGZTTDhyaktQWlp4LXdwaGRIMXFWOE16MTVPTUdQZlBiWDdPSFJZSU5DQU96cm16VklYVjMwclRDTElZWFdqS0RPYlY0ejNIRW5Va1libG40MWxJSW9MdUNCSVFnWUtZUURUWjF4UksySGtvcUZPYzR5Nk95WDgwVVdadkxPMnkybw?oc=5",
-          "date": "2026-09-29T07:00:00.000Z",
-          "source": "India Today NE"
         },
         {
           "title": "Motha gives cops 24 hours to arrest suspects in Gomati shooting",
@@ -320,23 +305,23 @@
           "source": "The Times of India"
         },
         {
-          "title": "No Leniency on Drugs, Crime; Tripura CM Dr Manik Saha Calls for Tougher Policing and Coordinated Action",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNV1hONTgwSG5yaHJTN3lwOU83RU5fQ3VWZWJ1My1rNnlhMkpla1ZiYjh4X0lOM05CZ2p6WFFUdFFZSUhTeVV0NFpSaUw1azRGUHc4emZ0YlV3dmo3a0doSnc4WGpRcGd6VW04VjdlYlI4bmp2b3dhQUtaeHUtdzNoYWtYemEwRTh4RERDV2pKN0Z6NFg4eHNKekpyUTAwQ2llUTBJbUw0NFR6bm9mbE5tclRBNHpqM1hZLVVNa0ZXRkVEX1U3N0hSQWVtNVBYT25mN2dxTg?oc=5",
-          "date": "2026-08-05T07:00:00.000Z",
-          "source": "Northeast Today"
+          "title": "Tipra Motha gives Tripura Police, SEC 24-hour ultimatum over firing on party candidate",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQeHdqYURlOVlPMWpNN3JzLUdmMnYxYTA3X3hPR29zQl83RkNPTWo1WnlUTklwNTVJVnVfdnZHMEVOcy11aDI2cHdqUXRFQXZlTExMYlMxdW1HMU4zaU9QS2MwNldiWWpWRlN4Ny14Nm5jeGcxel9DYi00VE15b3dZYXpTSG1CVVJSSmVmZzF0TWV5LTNETnRvVm9GckpFWmI4OWNsWkFNVUZNRkV3SE8tT0tnWEtSLWNKRHNBWlFFUm5EYjVqbmFNOFNtS3prWTI4Snh5QnhNY2Jtak9TRTlv0gHkAUFVX3lxTE5JNGpKa0g5NG5yOU9yWDlkVUN1MlNISUppTHJRZngyQ1NGdmZiUXhZck1SZ1dSdDFUWEdNcW9Oa0Y0Smk3NlVIUE80QlZud2dEWDltSVNKRUE2d3pLWTF3Qk5DcGZTTDhyaktQWlp4LXdwaGRIMXFWOE16MTVPTUdQZlBiWDdPSFJZSU5DQU96cm16VklYVjMwclRDTElZWFdqS0RPYlY0ejNIRW5Va1libG40MWxJSW9MdUNCSVFnWUtZUURUWjF4UksySGtvcUZPYzR5Nk95WDgwVVdadkxPMnkybw?oc=5",
+          "date": "2026-09-29T07:00:00.000Z",
+          "source": "India Today NE"
+        },
+        {
+          "title": "Tipra Motha Gives 24-Hour Ultimatum Over Alleged Firing During Tripura VC Polls - The Sentinel",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbjJkdHItTzR1YUtaNi10ZDdNOGdKdDU2LUY4bS1sU0xEWW0zZFppMzBiOFppRlp4YURiQkpMT2FCc0pUX2t0dlg5RDVWLU13NndHY050MGZJdENxSndWazhGLXQtRDVTWXBDZEV2VTJfdEtjTVNGQkItWUpzV0VBbHE3UWtEWHI0aU9oOW9zc2JJcHJaM3pvVWdDNDRnOWRJdmd5eUxFWkROOU5BZUdKdDE3Z1RDTHVSZW45Z25fMNIBzAFBVV95cUxOOEpEak9GbFY1NUFlSUp5ZVJoY2JVNU5QaWM5anpySExWckRRUUNCdUM3YkwtUjZ5YW1OMHBweDZlQ19ycnl2TERCM3JIaE4yeW4ySnZxOE8wZDljOFBJcGdRRTZQNmhLSG1HWjMtTnA5blJ1TmZtNHNVcllGLTJiUV8tRTVFMUFxU0ZWOHBDU1Jvd2VxQlAwRjhSc3RUVV9RajVseTNlbjBvTjNOLXVWVWQ0dmpIcmNuSkFIdXdYNnZCSk5abVBVY2FlR0c?oc=5",
+          "date": "2026-09-29T07:00:00.000Z",
+          "source": "The Sentinel - of this Land, for its People"
         }
       ]
     },
     "2029": {
-      "cachedAt": "2026-10-18T09:16:46.638Z",
+      "cachedAt": "2026-10-25T09:36:31.360Z",
       "query": "\"No 3\" Agartala (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
-        {
-          "title": "Tripura: Minor Girl Found Hanging in Unakoti; Family Alleges Murder, Probe Underway",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMmZoZG0wek9rbXhhQmhaUEtfcW5VVXBoZEpaYTI2a0tPYlA1bmNLWTczTnFUNWdjODY1VmZmTGxIN3FxSXBFazZ2N3B5SHVQV1BSbTM1MkdMNFM4SHlBYVBsYzV0RmxaUFhIVGNVM1FWSFFnN2lUbzlQUjVfLXp0WjNyWHNxbjRLUDhaX3NjUVhFbjJCVmxvdloyTGhnNE1WalhNZmU4MktqOFNKejhiSTVrcTBXT2lv?oc=5",
-          "date": "2026-07-11T07:00:00.000Z",
-          "source": "Northeast Today"
-        },
         {
           "title": "Tripura’s Amtali Murder Case: Three Accused Sent to Five-Day Police Remand, Weapon Recovery Still Pending",
           "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUFNFbDh3NlJrOURadW5LQWJSX2pHcGR0dFBYdjFTSF9aVnZxVUdTS0Z3NUphb2s0UkpzN29tQTlRTG10MWpiVUo4WDFRaG1OODZNSWpEZDFqWGxmdTVTNy0xSUhsNVd4VnpQZTVkU2d1U1FMM0pqT3VNbXlyQnItRjRMSm5PTFBmRF8wSG95MGNnSDRfd2l5QTVEZEVfNkgzQy1NV3VqZzlUd2dzeWVDbGdILUFBRXNucl9QOERMSjkyeTNlNGVqdTNRQnA0QVZEdkFyWHpR?oc=5",
@@ -346,12 +331,12 @@
       ]
     },
     "2030": {
-      "cachedAt": "2026-10-18T09:16:46.638Z",
+      "cachedAt": "2026-10-25T09:36:31.360Z",
       "query": "\"No 17\" Agartala (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2031": {
-      "cachedAt": "2026-10-18T09:16:46.638Z",
+      "cachedAt": "2026-10-25T09:36:31.360Z",
       "query": "\"No 16\" Agartala (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -359,12 +344,6 @@
           "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPZkcxempHUFNXaVQ0Y2l3bFpSaVVjQWk4MTBtdFF6X3BPOGpfSjkyeXJ1WmExX2d1dktxcl96X3VMTDFNbzFDV1ZiM2NFQlRyczRKa0Vydy02YldLZzJKcnhJZDRzakZVLWVndGRaLTZnV0xUUmlfOFlTWGFVeUVXRXNhTHdFbDJKNDFKVVlvT2thQVAxV2pSM3hQbkxvN3d4czk4NGpZZU9LSFp5MzhHa2YzNWtJYlFOSTlUbzJzY0tMaUFJZFVja2VQTmRTV2l5ZzdweUN6VFVUMXducWt6TDJ0Qnh0ZUI5dTFsNUFaOXRtLV9zSUlzVVAzeGFtX3laOVBYNVYwdWVpajRYcDcyS2E1aDd6ZjNmSmY4TEp5bE1RZ1dtMm9JM0RiNEpNNl8xSWpOcVlfeUoySlRoRE5Ydw?oc=5",
           "date": "2026-10-13T06:40:47.000Z",
           "source": "TRIPURAINFO"
-        },
-        {
-          "title": "Jharkhand: Seven arrested as CID conducts raids in JPSC exam irregularities case",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZUZjTHFhS1lLdlAwNVpPSTZRRUxPMFcwWmx4S3ZJc080R241RzVkT18xd0lvVzVTSUI0VVE0TkkxeUZOam04Y0s5M3VNdUZFVGFScV9MS0dpcVVNeC1DRTJWdkp5TjBDY0VWNGJaUWNvTUFUclBkODR1dm96Ylo3eDQtbkg3M1ltbkFzQmw0RHg3eXhDYUktN0dVbzV6M1BFZ3AtNnZLeFVDeG5uX3Z6YndhSVkwcVpucUVWaEZRUjBaQVJHMFN3M2xZZGlfTVViLUZ3WUVfRjloNFU?oc=5",
-          "date": "2026-08-14T07:00:00.000Z",
-          "source": "ANI News"
         },
         {
           "title": "Jharkhand CID Raids Multiple Locations Over Alleged JPSC Exam Irregularities",
@@ -375,22 +354,22 @@
       ]
     },
     "2032": {
-      "cachedAt": "2026-10-18T09:16:46.638Z",
+      "cachedAt": "2026-10-25T09:36:31.360Z",
       "query": "\"No 22\" Agartala (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2033": {
-      "cachedAt": "2026-10-18T09:16:46.638Z",
+      "cachedAt": "2026-10-25T09:36:31.360Z",
       "query": "\"No 33\" Agartala (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "2034": {
-      "cachedAt": "2026-10-18T09:16:46.638Z",
+      "cachedAt": "2026-10-25T09:36:31.360Z",
       "query": "\"No 14\" Agartala (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "12277": {
-      "cachedAt": "2026-10-18T09:16:46.638Z",
+      "cachedAt": "2026-10-25T09:36:31.360Z",
       "query": "\"No 36\" Agartala (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     }

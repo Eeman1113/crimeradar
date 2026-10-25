@@ -1,72 +1,66 @@
 {
   "source": "https://news.google.com/rss/search",
-  "scrapedAt": "2026-10-18T09:13:39.056Z",
+  "scrapedAt": "2026-10-25T09:33:22.626Z",
   "wards": {
     "4352": {
-      "cachedAt": "2026-10-18T09:13:10.012Z",
+      "cachedAt": "2026-10-25T09:32:53.678Z",
       "query": "\"No 16\" Panaji (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4353": {
-      "cachedAt": "2026-10-18T09:13:10.012Z",
+      "cachedAt": "2026-10-25T09:32:53.678Z",
       "query": "\"No 30\" Panaji (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4354": {
-      "cachedAt": "2026-10-18T09:13:10.012Z",
+      "cachedAt": "2026-10-25T09:32:53.678Z",
       "query": "\"No 29\" Panaji (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4355": {
-      "cachedAt": "2026-10-18T09:13:10.012Z",
+      "cachedAt": "2026-10-25T09:32:53.678Z",
       "query": "\"No 28\" Panaji (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4356": {
-      "cachedAt": "2026-10-18T09:13:10.012Z",
+      "cachedAt": "2026-10-25T09:32:53.678Z",
       "query": "\"No 20\" Panaji (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4357": {
-      "cachedAt": "2026-10-18T09:13:10.012Z",
+      "cachedAt": "2026-10-25T09:32:53.678Z",
       "query": "\"No 27\" Panaji (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4358": {
-      "cachedAt": "2026-10-18T09:13:10.012Z",
+      "cachedAt": "2026-10-25T09:32:53.678Z",
       "query": "\"No 25\" Panaji (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4359": {
-      "cachedAt": "2026-10-18T09:13:10.012Z",
+      "cachedAt": "2026-10-25T09:32:53.678Z",
       "query": "\"No 24\" Panaji (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4360": {
-      "cachedAt": "2026-10-18T09:13:10.012Z",
+      "cachedAt": "2026-10-25T09:32:53.678Z",
       "query": "\"No 19\" Panaji (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4361": {
-      "cachedAt": "2026-10-18T09:13:10.012Z",
+      "cachedAt": "2026-10-25T09:32:53.678Z",
       "query": "\"No 18\" Panaji (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4362": {
-      "cachedAt": "2026-10-18T09:13:10.012Z",
+      "cachedAt": "2026-10-25T09:32:53.678Z",
       "query": "\"No 2\" Panaji (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
-          "title": "Bombay High Court at Goa Directs Police to Register Complaints and Provide Protection to Women in PIL Alleging Police Inaction and Harassment. The court held that the police have a statutory duty to register a complaint when a cognizable offence is disclos",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SMmJaZ0YzUXMxWlhtVWE5NVdFN1RfUGV5dmJ5eXhNVnM2bkhwTkFXbGVHN0NZeWRUOEtuVHRYSDQ0MUZ0SGlDc0xPX0dRc012SHRFYkstUmRjdEM1M2pXWVVTN1lCcVZl?oc=5",
-          "date": "2026-10-17T03:27:34.000Z",
-          "source": "Lawtext"
-        },
-        {
           "title": "Goa: ED files supplementary prosecution complaint against five accused in Rs 3.96 crore drug trafficking case",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdGoyZFJPZUp5T3ZBdUhoaFQyREhKX0FxaW8zNWIzVHg3MVhtVVZuOC1fS3FieVNwT1ZSNHRBYjJUdHFNRXctMGF3Sk1LSzZ4allWek8yWFRHQzljMUVzR19yd1R2aklCLVR1WWJzRmp3cEVSckZRMHF6WkZWU2NmNGtJdXVuaDhmTXk5NEdXMTUybG1mZnFiQ0hHMnF6cGFjSmhQTzM0djNKTURJRTNiM0NGcXlKSV9pc3pmYXdtdVhiSlBlOXl5QkhTSk5xY2ZlQ0pqVThjaUI?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdXF3d1l3OFZRaWloNVpYTU4tT056WnI3NWVlQXk1ZVMtMVRKRl9nTXNJMGJBSVBUQ0xlT0k5RFRpMmozSnJFRWtkRDhNRjJvOEVvNjMwQ2hUYktZdHFobnJfclNCRVdqVjBaQmdSZnM3MGdJNFVQV3Bmejl0YXVNeDBkYU1Va2VSTXNoN1JxN0c5cGRVUUI4WDQ0U0dJWkEwcTk1NG9BbDlSb2JNMHNDWlhVQ3NiUHpFVFpWUW9wbHRQclI1NENkMHF1bzZjMV9OZFZpcTJOY3JUeGZ0RTdZZtIB5gFBVV95cUxQckhJeXVSMzVhQk1hOHcxX3ZjVUdCTzJpMXJvUkw0M3ZXc3FPUnBDV29CNjRPaWptQUlGeGtmdlh0bDNGYk5hTnJMSkQtUUh6cngyd1VtcTJibFNwNHBveTdISzNFVjBMNFJ6bEhfZjdaV1Y3OTZkX0dTMHctcDVsbkVTd1lZcVFha3dXN1Y2U2toYjV0TVBiRXBKNjd4czk0aFBPNkc2bG5Wa3pWcFpqQU9WRWh2Q25pcC1VREQ2ZTBvbDR0ZVgzbmF6LWNFRi16Qm1ZVmZKMEZDTy1Mck1zdk55eDVLUQ?oc=5",
           "date": "2026-09-19T07:00:00.000Z",
-          "source": "FM Bharat"
+          "source": "Punjab Kesari English"
         },
         {
           "title": "Tarun Tejpal surrenders before Mapusa court in 2013 rape case",
@@ -83,42 +77,42 @@
       ]
     },
     "4363": {
-      "cachedAt": "2026-10-18T09:13:10.012Z",
+      "cachedAt": "2026-10-25T09:32:53.678Z",
       "query": "\"No 4\" Panaji (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4364": {
-      "cachedAt": "2026-10-18T09:13:10.012Z",
+      "cachedAt": "2026-10-25T09:32:53.678Z",
       "query": "\"No 5\" Panaji (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4365": {
-      "cachedAt": "2026-10-18T09:13:10.012Z",
+      "cachedAt": "2026-10-25T09:32:53.678Z",
       "query": "\"No 7\" Panaji (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4366": {
-      "cachedAt": "2026-10-18T09:13:10.012Z",
+      "cachedAt": "2026-10-25T09:32:53.678Z",
       "query": "\"No 9\" Panaji (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4367": {
-      "cachedAt": "2026-10-18T09:13:10.012Z",
+      "cachedAt": "2026-10-25T09:32:53.678Z",
       "query": "\"No 8\" Panaji (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4368": {
-      "cachedAt": "2026-10-18T09:13:10.012Z",
+      "cachedAt": "2026-10-25T09:32:53.678Z",
       "query": "\"No 12\" Panaji (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4369": {
-      "cachedAt": "2026-10-18T09:13:10.012Z",
+      "cachedAt": "2026-10-25T09:32:53.678Z",
       "query": "\"No 23\" Panaji (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4370": {
-      "cachedAt": "2026-10-18T09:13:10.012Z",
+      "cachedAt": "2026-10-25T09:32:53.678Z",
       "query": "\"No 17\" Panaji (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -128,112 +122,106 @@
           "source": "Daily Pioneer"
         },
         {
+          "title": "ED arrests three more in Goa ‘digital arrest’ cyber fraud case",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQM25XV2JMNUtlOElmaDJaa05qdE9kU0JHeWtuUHRMSWs1SmY2T1FRdngteEtHZUJVNlNxak40eVRQTFlrRWltSi0yVGhUQm1LSTZqVnJfRWJidFhPM0plNVQzbHg3SGpxWnUwTkhuXzZUSV9IcllRMmRCZGlGMFdUZFZ0b3o5R1RKUWRFVEVfT01paUVvSVVBWEdrNUgyRDZ5bS00?oc=5",
+          "date": "2026-08-30T07:00:00.000Z",
+          "source": "Prudent Media Goa"
+        },
+        {
           "title": "ED arrests three more in Goa ‘digital arrest’ cyber fraud case involving Rs 2.60 crore",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQWhOUjR0SlRKMDBBMW45OEFab1BKd0RHMXI5OWx6VHZsNFNqc0dmRGh5UzFrWlcyYTdtVGNrV1dmLXZ0ZEQzTmZ0THN3azlOd0VVd1JDbzN2c0NtSloxVUYwSktDNm5CaHEtMVJaZXZqQkZ4NFN5T0ZSV0JhZzZKTXQ5UkhoLXlpUGlXbFhWLTlnOVlCalZSZGhGbVlkTE84Z2ZaYXZKSE9qeXBKdE5SRw?oc=5",
           "date": "2026-08-29T07:00:00.000Z",
           "source": "Telangana Today"
         },
         {
-          "title": "Enforcement Directorate arrests two in 2025 Goa digital arrest money laundering case",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTmloa1FkSnBwZDdUWHNEa05RVzhZRG90YXZsaG94MVdRS183VVJtUDE2ZXVDT0V6N3kyQzJzaFp2V0RTeVAtT3pvcUlfMk9TUGE5QXFOeEo2aXBWRndJWnlZSHgzcWZ4UHRiblMyNnF5WEJGdFY5SWI3cnpxek0zcTV4TmFuejRDeE9fMXZBaTlBSld5MmZscEF4WG41ZUI2cGgxUkdwWUYxb1dlX0VGUGdSdjJJUWg1?oc=5",
-          "date": "2026-08-24T07:00:00.000Z",
-          "source": "The News Mill"
-        },
-        {
-          "title": "Enforcement Directorate arrests two in 2025 Goa \"digital arrest\" case",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdnQwNExPU2JvTlByNTZBRkdPVE5IXzhXZHh5OUV3RVU0OGN6bEVfLXpTSjdhc2syaXF5RGIyRHc1VGRPNk9OX1pVY0xYREZzQ3MxTmhYd24wQUxPRUtDVzhoSXdyQXNfOGFqN2x6aUdUWi1fekZUclZYLWhjUXRrUVlaRURjZUJMX2VsbTZvSXlkZ0NXcGpyYjlpOTlsRjN4VFZoOWtQRXM1Ty1EY0VGcw?oc=5",
-          "date": "2026-08-24T07:00:00.000Z",
-          "source": "https://www.indiagazette.com/"
+          "title": "ED arrests two in Rs 30,000 crore digital arrest scam",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQV0dDSWFWc2NvWjU2RmhhWFp1NEZmalBSclhYQU13QkVkcTdWUlJFVFRvQlAzMjVfNEk2MXplUjVfR1lMRW9wcTgwTzM2UEFLSWVSNHBSLTFsTEJVQnpzOFl3RFg3WkxudzRFdU8wNWV6WlNIWXRJaVpNbER2cXYtQzAxaXdyR05JOWtZ0gGYAUFVX3lxTFBlVXRtSlE4WDVYZmhmSWp0dExlYzNfeXVGWTA3OFNYUnkyVGJTMi1JYTBIUGNKQ3kwMTM2cXlBbEFSbUVXX09nV2Z2dXRQYk9oUm4xSFFPb1B1alpVM3JlQUNnb2FaSXpILWlMMHhrMHZNN3J3ekwzamhneTFFWGl4OHRzamRwZTBIWm5aWmNoWDVYbnc1VV9C?oc=5",
+          "date": "2026-08-25T07:00:00.000Z",
+          "source": "Daily Pioneer"
         }
       ]
     },
     "4371": {
-      "cachedAt": "2026-10-18T09:13:10.012Z",
+      "cachedAt": "2026-10-25T09:32:53.678Z",
       "query": "\"No 21\" Panaji (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4372": {
-      "cachedAt": "2026-10-18T09:13:10.012Z",
+      "cachedAt": "2026-10-25T09:32:53.678Z",
       "query": "\"No 26\" Panaji (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4373": {
-      "cachedAt": "2026-10-18T09:13:10.012Z",
+      "cachedAt": "2026-10-25T09:32:53.678Z",
       "query": "\"No 22\" Panaji (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
           "title": "Goa: ED files supplementary prosecution complaint against five accused in Rs 3.96 crore drug trafficking case",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdGoyZFJPZUp5T3ZBdUhoaFQyREhKX0FxaW8zNWIzVHg3MVhtVVZuOC1fS3FieVNwT1ZSNHRBYjJUdHFNRXctMGF3Sk1LSzZ4allWek8yWFRHQzljMUVzR19yd1R2aklCLVR1WWJzRmp3cEVSckZRMHF6WkZWU2NmNGtJdXVuaDhmTXk5NEdXMTUybG1mZnFiQ0hHMnF6cGFjSmhQTzM0djNKTURJRTNiM0NGcXlKSV9pc3pmYXdtdVhiSlBlOXl5QkhTSk5xY2ZlQ0pqVThjaUI?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdXF3d1l3OFZRaWloNVpYTU4tT056WnI3NWVlQXk1ZVMtMVRKRl9nTXNJMGJBSVBUQ0xlT0k5RFRpMmozSnJFRWtkRDhNRjJvOEVvNjMwQ2hUYktZdHFobnJfclNCRVdqVjBaQmdSZnM3MGdJNFVQV3Bmejl0YXVNeDBkYU1Va2VSTXNoN1JxN0c5cGRVUUI4WDQ0U0dJWkEwcTk1NG9BbDlSb2JNMHNDWlhVQ3NiUHpFVFpWUW9wbHRQclI1NENkMHF1bzZjMV9OZFZpcTJOY3JUeGZ0RTdZZtIB5gFBVV95cUxQckhJeXVSMzVhQk1hOHcxX3ZjVUdCTzJpMXJvUkw0M3ZXc3FPUnBDV29CNjRPaWptQUlGeGtmdlh0bDNGYk5hTnJMSkQtUUh6cngyd1VtcTJibFNwNHBveTdISzNFVjBMNFJ6bEhfZjdaV1Y3OTZkX0dTMHctcDVsbkVTd1lZcVFha3dXN1Y2U2toYjV0TVBiRXBKNjd4czk0aFBPNkc2bG5Wa3pWcFpqQU9WRWh2Q25pcC1VREQ2ZTBvbDR0ZVgzbmF6LWNFRi16Qm1ZVmZKMEZDTy1Mck1zdk55eDVLUQ?oc=5",
           "date": "2026-09-19T07:00:00.000Z",
-          "source": "FM Bharat"
+          "source": "Punjab Kesari English"
         }
       ]
     },
     "4374": {
-      "cachedAt": "2026-10-18T09:13:10.012Z",
+      "cachedAt": "2026-10-25T09:32:53.678Z",
       "query": "\"No 14\" Panaji (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4375": {
-      "cachedAt": "2026-10-18T09:13:10.012Z",
+      "cachedAt": "2026-10-25T09:32:53.678Z",
       "query": "\"No 13\" Panaji (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
           "title": "Goa: ED files supplementary prosecution complaint against five accused in Rs 3.96 crore drug trafficking case",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdGoyZFJPZUp5T3ZBdUhoaFQyREhKX0FxaW8zNWIzVHg3MVhtVVZuOC1fS3FieVNwT1ZSNHRBYjJUdHFNRXctMGF3Sk1LSzZ4allWek8yWFRHQzljMUVzR19yd1R2aklCLVR1WWJzRmp3cEVSckZRMHF6WkZWU2NmNGtJdXVuaDhmTXk5NEdXMTUybG1mZnFiQ0hHMnF6cGFjSmhQTzM0djNKTURJRTNiM0NGcXlKSV9pc3pmYXdtdVhiSlBlOXl5QkhTSk5xY2ZlQ0pqVThjaUI?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdXF3d1l3OFZRaWloNVpYTU4tT056WnI3NWVlQXk1ZVMtMVRKRl9nTXNJMGJBSVBUQ0xlT0k5RFRpMmozSnJFRWtkRDhNRjJvOEVvNjMwQ2hUYktZdHFobnJfclNCRVdqVjBaQmdSZnM3MGdJNFVQV3Bmejl0YXVNeDBkYU1Va2VSTXNoN1JxN0c5cGRVUUI4WDQ0U0dJWkEwcTk1NG9BbDlSb2JNMHNDWlhVQ3NiUHpFVFpWUW9wbHRQclI1NENkMHF1bzZjMV9OZFZpcTJOY3JUeGZ0RTdZZtIB5gFBVV95cUxQckhJeXVSMzVhQk1hOHcxX3ZjVUdCTzJpMXJvUkw0M3ZXc3FPUnBDV29CNjRPaWptQUlGeGtmdlh0bDNGYk5hTnJMSkQtUUh6cngyd1VtcTJibFNwNHBveTdISzNFVjBMNFJ6bEhfZjdaV1Y3OTZkX0dTMHctcDVsbkVTd1lZcVFha3dXN1Y2U2toYjV0TVBiRXBKNjd4czk0aFBPNkc2bG5Wa3pWcFpqQU9WRWh2Q25pcC1VREQ2ZTBvbDR0ZVgzbmF6LWNFRi16Qm1ZVmZKMEZDTy1Mck1zdk55eDVLUQ?oc=5",
           "date": "2026-09-19T07:00:00.000Z",
-          "source": "FM Bharat"
+          "source": "Punjab Kesari English"
         }
       ]
     },
     "4376": {
-      "cachedAt": "2026-10-18T09:13:10.012Z",
+      "cachedAt": "2026-10-25T09:32:53.678Z",
       "query": "\"No 11\" Panaji (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4377": {
-      "cachedAt": "2026-10-18T09:13:10.012Z",
+      "cachedAt": "2026-10-25T09:32:53.678Z",
       "query": "\"No 10\" Panaji (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4378": {
-      "cachedAt": "2026-10-18T09:13:10.012Z",
+      "cachedAt": "2026-10-25T09:32:53.678Z",
       "query": "\"No 6\" Panaji (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4379": {
-      "cachedAt": "2026-10-18T09:13:10.012Z",
+      "cachedAt": "2026-10-25T09:32:53.678Z",
       "query": "\"No 15\" Panaji (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "4380": {
-      "cachedAt": "2026-10-18T09:13:10.012Z",
+      "cachedAt": "2026-10-25T09:32:53.678Z",
       "query": "\"No 3\" Panaji (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
+          "title": "ED arrests advocate over Rs 28,000-crore pan-India cyber fraud network",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTDREYXo0bGZsWFVvOERQNXh5Rk4wRkVjT1lpQ2hudHlTX0hxZndoTjhSeXRuR3JVOEZyVE92SndmVWtLcGNIN0E5Q1BFRXdBcWNyUzNydXpzX1lYazQ2ZkxhMFc0N3pOekJvSV9BbXc5bU9CVXZ2RlNBc2RHcE93WDRZbFB6cnNTUHFST041ZVV5UjNpUDdIbk4zN2podEx4b0xfMVgwaUxtRmcyOS1KTXhYZ0p0TTZFSW1jd2lMb2lZcUJNdlB3VjZLWXk2c2lsZ0YxNGVjMFlBUUMy0gHcAUFVX3lxTFBMNERhejRsZmxYVW84RFA1eHlGTjBGRWNPWWlDaG50eVNfSHFmd2hOOFJ5dG5HclU4RnJUT3ZKd2ZVa0twY0g3QTlDUEVFd0FxY3JTM3J1enNfWVhrNDZmTGEwVzQ3ek56Qm9JX0FtdzltT0JVdnZGU0FzZEdwT3dYNFlsUHpyc1NQcVJPTjVlVXlSM2lQN0huTjM3amh0THhvTF8xWDBpTG1GZzI5LUpNeFhnSnRNNkVJbWN3aUxvaVlxQk12UHdWNktZeTZzaWxnRjE0ZWMwWUFRQzI?oc=5",
+          "date": "2026-10-24T16:55:07.000Z",
+          "source": "India Today"
+        },
+        {
           "title": "Goa: ED files supplementary prosecution complaint against five accused in Rs 3.96 crore drug trafficking case",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdGoyZFJPZUp5T3ZBdUhoaFQyREhKX0FxaW8zNWIzVHg3MVhtVVZuOC1fS3FieVNwT1ZSNHRBYjJUdHFNRXctMGF3Sk1LSzZ4allWek8yWFRHQzljMUVzR19yd1R2aklCLVR1WWJzRmp3cEVSckZRMHF6WkZWU2NmNGtJdXVuaDhmTXk5NEdXMTUybG1mZnFiQ0hHMnF6cGFjSmhQTzM0djNKTURJRTNiM0NGcXlKSV9pc3pmYXdtdVhiSlBlOXl5QkhTSk5xY2ZlQ0pqVThjaUI?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdXF3d1l3OFZRaWloNVpYTU4tT056WnI3NWVlQXk1ZVMtMVRKRl9nTXNJMGJBSVBUQ0xlT0k5RFRpMmozSnJFRWtkRDhNRjJvOEVvNjMwQ2hUYktZdHFobnJfclNCRVdqVjBaQmdSZnM3MGdJNFVQV3Bmejl0YXVNeDBkYU1Va2VSTXNoN1JxN0c5cGRVUUI4WDQ0U0dJWkEwcTk1NG9BbDlSb2JNMHNDWlhVQ3NiUHpFVFpWUW9wbHRQclI1NENkMHF1bzZjMV9OZFZpcTJOY3JUeGZ0RTdZZtIB5gFBVV95cUxQckhJeXVSMzVhQk1hOHcxX3ZjVUdCTzJpMXJvUkw0M3ZXc3FPUnBDV29CNjRPaWptQUlGeGtmdlh0bDNGYk5hTnJMSkQtUUh6cngyd1VtcTJibFNwNHBveTdISzNFVjBMNFJ6bEhfZjdaV1Y3OTZkX0dTMHctcDVsbkVTd1lZcVFha3dXN1Y2U2toYjV0TVBiRXBKNjd4czk0aFBPNkc2bG5Wa3pWcFpqQU9WRWh2Q25pcC1VREQ2ZTBvbDR0ZVgzbmF6LWNFRi16Qm1ZVmZKMEZDTy1Mck1zdk55eDVLUQ?oc=5",
           "date": "2026-09-19T07:00:00.000Z",
-          "source": "FM Bharat"
+          "source": "Punjab Kesari English"
         }
       ]
     },
     "12306": {
-      "cachedAt": "2026-10-18T09:13:10.012Z",
+      "cachedAt": "2026-10-25T09:32:53.678Z",
       "query": "\"No 1\" Panaji (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
-        {
-          "title": "Bombay High Court at Goa Directs Police to Register Complaints and Provide Protection to Women in PIL Alleging Police Inaction and Harassment. The court held that the police have a statutory duty to register a complaint when a cognizable offence is disclos",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SMmJaZ0YzUXMxWlhtVWE5NVdFN1RfUGV5dmJ5eXhNVnM2bkhwTkFXbGVHN0NZeWRUOEtuVHRYSDQ0MUZ0SGlDc0xPX0dRc012SHRFYkstUmRjdEM1M2pXWVVTN1lCcVZl?oc=5",
-          "date": "2026-10-17T03:27:34.000Z",
-          "source": "Lawtext"
-        },
-        {
-          "title": "Fortnight later, 3 arrested in Porvorim shooting case | Goa News",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYUJnb1ZqR3VjT0p1dERMWDZ3T2hDUmJpSVpncVpGemRyLVRvRzZSY2h5S1lEalVrSVVxY2FieTY3V2ZvemhrSmVBT1J2bmxVNzdIc204SWRTS1ZYZ1dEQmVDWkFqeHgwejJrWGgweGZxQjBsLUZCYmlXenA5YzB1UGZ1Xzd0a1lRZnk1M2pVQTlDcG10TEtqN2xaVTNUVkFPbmxlaDhQQ2FiYjRNVzhONUtjT2JzQ0FCZzg0ZVV4eDg?oc=5",
-          "date": "2026-09-11T07:00:00.000Z",
-          "source": "The Times of India"
-        },
         {
           "title": "Cops arrest Nepal native for bid to murder Chimbel resident",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNUc3LVpZWjduTHE3X25SemtqU09zdzRmMW5uVEpCWXRRcWF5eW5OcTVlWkNQc3d5S2NMcG1tc2gtejN0UFQ2YTg3M3ZKd1A3MUp5SjE4eVhfeE1LczZjOENnQ21OQjN3WHhKWjhJMlFTUlZPb2MxTmxOdUV0YXNlbUc4dEY2cU5lLXdUVExmU1NUUGVIQWxyNWVjR3ZTMmRsWnlMa2RBVWFuVmhRNjlYN1p2QTJHQ3JXaGVWS0lGTDZ2NXBlVGJkdnZB0gHPAUFVX3lxTFBWMzRtdFlVc05JRnlEQ2draWNZTERPRUFSVEU3dnM1NmpPd0V1dlB2LTViZmM1bDRPbFRHNmhpajVnMjJTYTVobjZNSWItMGhDQlRSTnNCbXpYaGVIdmZzeFd0b3BNMlBoR3VDUGtaZTVYRU1wcW0xV1NQWkV0Wm1kSm5pNWJKUE4tMUF3UFMzdy1zZElTd3U1TU1nVjlIZ0VoUmM3XzZ1NURIZElLTjA2aU04LXRDaU9jZF81c3RUY3F1cy04U1FpdHhubDlBSQ?oc=5",

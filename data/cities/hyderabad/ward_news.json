@@ -1,9 +1,9 @@
 {
   "source": "https://news.google.com/rss/search",
-  "scrapedAt": "2026-10-18T08:55:56.180Z",
+  "scrapedAt": "2026-10-25T09:15:31.393Z",
   "wards": {
     "Ward 91 Khairatabad": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Khairatabad\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -13,16 +13,16 @@
           "source": "The Siasat Daily"
         },
         {
+          "title": "Governor Shivpratap Shukla Performs First Puja At Khairatabad Ganesh",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUG1HcEo4MVRXZWdVOXRqNTlTMXJWclV2SmxIWkdqT0h2Wk5ZNHNNT21nUUhVck5rTlY4YTV3UlRHV1NXWlZBZ0xNUWQ0S1hIaF9wNzlIZERUc0swaFNtbVdYcnNlTmpGMGloWXR4blhqandyVU1YTF9lQjJNOU5uckpLSTJneS1jbEFGbklmc0owTUdZ?oc=5",
+          "date": "2026-09-14T07:00:00.000Z",
+          "source": "INDToday"
+        },
+        {
           "title": "‘Rs 1 crore stolen every day’: Hyderabad Police sound alarm over surge in cybercrime",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa2M5YTBEbVRlN2VLcTZZTkNScWFfNFlhWHBzcnlYb3pkc2NNb1Z4T0hlcnhHVno5aVhoeFhfVmZ3UFRrUmdqTGdSZkZMNFREaTRPRTBfbkw4dXFsc05pZ09sRFdNZTFsQ19wdXNmTGtrVXFBSDVPTVVnQl9hUm10ZThSZ0ZISG5oRFZ1dlNrVW1kTHF5YUxmZ25LRUc1NEJiZGM1YWthOUxxQ2JNQW81Z2ZfcFZTMEtPMExN?oc=5",
           "date": "2026-08-05T07:00:00.000Z",
           "source": "NewsMeter"
-        },
-        {
-          "title": "Sultan Bazar Police Arrest Driver For Rs 5.5 Lakh Theft, Recover Most Of Stolen Cash",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWjlfNC11dm9fQmdiZGF2MzU1MGp1bEt0cjNuejNnRTZwb0lGaE9NaEw1cktJeU4wRWl0a0p0LUZzdVp4a1lqak5uQ3AxTWpiSFVhUTNHRjB2ZmlnVVN4d0sxdTI1ZEJXQmR5czB4eTdlUTlTci00X1F2TnpUSFU1ZnBvUEk2VVRfcFNzWXRlT0tHcnhvOXl0Y3JNZXptWno0cUtaTGkzQy0?oc=5",
-          "date": "2026-07-13T07:00:00.000Z",
-          "source": "INDToday"
         },
         {
           "title": "Two arrested for selling expired medicines in Khairatabad",
@@ -33,15 +33,9 @@
       ]
     },
     "Ward 105 Gachibowli": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Gachibowli\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
-        {
-          "title": "Hyderabad hotel raid busts prostitution racket; 3 Uzbek women held",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbTRaVFhFN3ZYeU9welNFM2IzVzRmWklwQmp0NzZuOTNNMXZHY3VYY0hXOUZ5NjNFNDZQN0tKdkZUQkpuNXhOcXJYRHFGVXoweWdrR2NYeUxwWkhTd0ZRYkdNVHVMZTZIZHBBdXZhS253YzhEUHhEcnVlVy1SVDB3SmZnNkZSc3lGRG0ycEF4ekxRY1FxYWFvQnB5N0NkUdIBowFBVV95cUxQa1hNTm1fVVlrVDVtMHFFanY3c013eUFfSHV0TXFxcGtSdG01RWhsOWVHbnRNdFlzcnI1bmxDTmZ4eEp6VVZqYVlKdHBhWEtHVmxvMXhZRm1Zd0ZvdG9tVDRqR0tmZHd5bkNuMDV6WTVTTHBnTV9lUFNOUTFHM0ZoSngyWGtzZ1VWQ1I1Wm5kUktxWmlJY2N2SWNUejBJd1dURnZV?oc=5",
-          "date": "2026-10-01T07:00:00.000Z",
-          "source": "The Siasat Daily"
-        },
         {
           "title": "Hyderabad: Security guard arrested for allegedly molesting software engineer",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeldBRUZ0Y3pudGdDWXlZcVZGNFpzbEN6UFhMbWhyOGZPY2JKQnRpS3ZRWmVCanRaamRJdFcwQ09IYUVOTnl5c193dDNXYzRzZnB1ODVpV0RSRG5EWFZHcGdOODVBSy1VMEMwSGdfMkhLQzluaXUxN0JrNUNVU0RpLWYyUlVUc1l1QWd2cGVTbUJOdEJzSklBdnppd0I5OXVSS1lkeQ?oc=5",
@@ -49,21 +43,27 @@
           "source": "Telangana Today"
         },
         {
-          "title": "TG SAFE raids Pista House, Ohris, and Chutneys in Hyderabad",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMVJqQ3FkOWRDR0pBWWdlTlNqOVVjbFlONFhuMG9jTlBmOHl0dk1Vc3RHUFJVaW95WW14WU9xdHpQSnhPLTRxV01VMzZKSXlDTVpWT1ZxOUc1RkcySjZLbWoxMk9wS3NCbDNiMWxOdjBZdnM4NDZ3ODJRckQ1UGthMDFDV2daQ0EzYy0zd1pZRk5iT2_SAZgBQVVfeXFMUHNqX0tySzFJMVFkMno2RlRKMDl0VXBHMmQyUzA0LTNSUTlCT19tT2Jzc1JzZmIyVmFfMWVMQ083LUVfWkRrNnE5eUxiNkZ2U2Q5RGFNTGkzZFFIcmlWQmY5MUFRUHFMclFOcTBKc29XdmhJZ3p3b29mclRzMVVnZHNYQUVCUkxfeW42bmhtY1BDXzBVV0hPRzk?oc=5",
-          "date": "2026-08-29T07:00:00.000Z",
+          "title": "Hostel cleaner stabbed to death by cook in Gachibowli: Police",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbmpBS2k5T1o1OUFlUUZDVE9Sa3ZOelJla1pFQk4yakZZekQzeU8yeVFnYWxoWUpVRFQtNW9CcjIxNG9nNVYzdkhKdWVXXzk1b2JzLW5FaTlSYkRpOFcyZDF5U3h5Tms4T1F4dEZXanJ5TG03TG9NMWEyQmJVX0N5NEFpdnR6SUszOXFKVExqSjNiVlB6cUdV0gGcAUFVX3lxTE1UMDhlWnVBcm0tNW1GTGgxaGFmVVN6T0xwNXVaOVM3X01WUEItdlRzc1FYVkZwclBrUzBWS2hZaEJyZ3pXN2x6Z0JmcmJxOWotSllkS09sUGlDNFlVN1Y2SDlFdDgyRll4b2lNcnQwVjBsenNiLS1xUk1LcU5aenFscXhmVjJ6Qm1tclNpUkFTU0Nja2RGWHYzbjFwWA?oc=5",
+          "date": "2026-09-11T07:00:00.000Z",
           "source": "The Siasat Daily"
         },
         {
-          "title": "Gachibowli: Police crack abduction case in 4 hrs, rescue 2 kids",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQV3JxaGFjOGdUbTN0NWhON0RzbFpLekpfVzhKd2hhWUhzYXdicGZJN1dsX3o0c2lYVzhUTGJfMEtfZGpTUWZIVG13UlBEZmE3Y09fSVRTMnJlS2hUTWNnTXhSWENRTHVHcUNBdDhKMnZVUkdZZ2tLaFZHZzhQNmFobXpsd3JNQUFJTUZiNmNWRlh1SDlTMHI5S9IBngFBVV95cUxONC12ZUhqU0VZaDc3bUEwZXJhT0VrUy01SHNDcVNpRS1UVmJHMU4xR0I3YkN1Q1U5NDRfbGNUWVF1Z0IycmtlVGpxOTdXZElNakRsR3ZUX0FEalk0NTAzM2FvTWVfb0VvMEcyRVJaODZEZ2VXRWFoUGpBVWpHSWVKUjEwRXRMUFZCallYdVRMWXlJSjVrWkMtNlROTGFTUQ?oc=5",
-          "date": "2026-08-25T07:00:00.000Z",
-          "source": "The Siasat Daily"
+          "title": "Gachibowli building owner Syed Sajid arrested",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQc3ZmTHl1VkdaQ3o4WUNkUlNoVlZlNml3TUY5ZWU4Tm5IUjRRREhpNEU2NUhib2hzcVhmbHVXbzVvSlZaUkI4YTVmcnl2amxBamlaWHFIdFVpYWUzam5FWDRxZ25yU3p4OG1tLTFJZ0pRY2tlMmZNY3NMLVpxSTIwLXVuRWI1WllXejZWNVBn?oc=5",
+          "date": "2026-08-24T07:00:00.000Z",
+          "source": "Hyderabad Mail"
+        },
+        {
+          "title": "Dutch Woman Harassed In Gachibowli",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRko2cWEwZENMVWY5LWZQQ09ENjZDNFZJbFkyelU3blYzWm1WQWowY19nbkRfdG9CZTF0NXdvc1N1aFBpRUJPS0VRTG9WaHQ1NmNOYzVYUHZrS3AtU24tYUNhb2U5Nm9jY1hJeXlRTTVjNWR2ZWFRY3g5WktnTUpxajdPWnlGNkVxRzNYLUJJWk9EckU4Y1pzMkxtQlZCNS02WlHSAacBQVVfeXFMTUJhZHZIOUVBSUc2S1NYLTBlMUlzYlFhdWtta1NtWFYyZDNVRVUwLTJicU9jQjUyX1RKZ0ppMmZUaWM1R2IyZmhkMl9ZcXE2akNvdW5MM0RfYlRuWVlBRHRCSzBQNjdQWmRTMTlMeE4wQVBNd3Q0bzB5cHpBRWs5bzdVbF80N2owUHdYbFljQkwzUGlPU1l4c1p6akJaQmdHQzJvSDJReWs?oc=5",
+          "date": "2026-07-26T07:00:00.000Z",
+          "source": "Deccan Chronicle"
         }
       ]
     },
     "Ward 60 Rajendra Nagar": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Rajendra Nagar\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -93,7 +93,7 @@
       ]
     },
     "Ward 95 Jubilee Hills": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Jubilee Hills\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -103,27 +103,27 @@
           "source": "INDToday"
         },
         {
+          "title": "Watch: 4 men pose as transgenders, try to extort BMW driver at Hyderabad's Jubilee Hills",
+          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNR09iRHBNcEJReEtLaE5mNzJTUzRfOFAwSlRCVGVZdVNTVUlRRWxRYjlxNXFwUF9Gd3dPWjNiQl93NVp1Z3BOekZ0bUJmT2gwWDdDLVRCQXdZRndoSlYtTWNYMllmQW81Y1pmN2haelNMWnl5M09UUGstendNNFhEQk5TY182ZXo2N090OEV4SEkyRzVlQjE5NzZkWTZ0V3lqak5JdmZ6cU9xNlVlTzBncWtQNWpwRVlCMExaTkN3Vy03eURpaEE5aGdrN3pHdEh0aERhZk9BRXhxOFpvWENuVVpFOEt1MGE2c1Y4Q19rSmZPOXpzUDdTM2ZteVF0QdIBgwJBVV95cUxQb1pHaVlUS2hhZ095WTBRZ0tzY2VUZTRHWE9kb1VzbWY5bTFBOUw2a3ZHSzFrNldnZDhSd3ZaSzlPMDZXaTNTTkVFcnY4MTdfMjI5ZDRGY2JIN08zS29DWFRLc1ZLWXdYRVFuX3MtcU1Za0RqNnZDaHg1UXN1NG9xN0pVVVIzOUJoQVJnSUE3QzR2d2JseGJoZTduWHhYOXFfUEZERXdXeUJtSkxDNUNLb3VBLUhRYldiTDlFVmlRcFU5QVc3ZGRLSUljWWM3RmtIdlZSSmxscG54TDlqT1c5U2kxd2g1Q1JFakZjOWVWamVTVGp4c1dOaWx6dDhBUE5GcXFv?oc=5",
+          "date": "2026-10-02T07:00:00.000Z",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Jubilee Hills BMW Incident: Four Men Arrested",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5yOUt4aEZ1SWdYSjhxeHd3VnJaYWhIdmVTdFlaZ3o3TUFYSXBpTG1UN1FKazFZUVNZODMyaW5KdnRuaVZfMEc5ekhZT1BpVEtJd3c2NlBCZllUX05YV1RTXy1KSE8wejdud2FkVFVYdkQzQVB2?oc=5",
+          "date": "2026-10-02T07:00:00.000Z",
+          "source": "INDToday"
+        },
+        {
           "title": "Hyderabad police arrest four over extortion",
           "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONURFVnh3Mmh2Wk9tanU5dGU2azBTODVQT1RPckwwQ2Rvcl9YaU9fd2RiMFM1T3otdU5Ya2VnMkdDS0haNjZSTy1NcEJYNkVCVm1IUnZLR2hQdXNWLV9fb19CVEJyMlNLY1haUUdJZ0lwcFJJQzlqVEV1b2wtRUoyUk40RkNrQQ?oc=5",
           "date": "2026-10-02T07:00:00.000Z",
-          "source": "Hyderabad Mail"
-        },
-        {
-          "title": "Hyderabad: Jubilee Hills police arrest Chennai cinematographer with marijuana",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMlpVQlZRQ3V1RnJwa1VtbV81Nk9MMHpNaFRYN0NLa2hTYmgxVWFzRnFaaUY4engtMDM5UW4taGNwMmY4WkZkcGhoQ1BkQVZ0LUZ3SWkxb2tPVEhBcHAtWGNycXEyYTA4ZFBvN2JPaHIyRmhmeUppQjNBc0Y5X2VmdU5OMXNlcUFfd3RiUnFwSlFTSnl2SGZZVmZsSTFweDd1dk1wcmFn?oc=5",
-          "date": "2026-09-23T07:00:00.000Z",
-          "source": "Telangana Today"
-        },
-        {
-          "title": "Jubilee Hills police arrest Chennai cinematographer with 3.8g marijuana",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQUd3QnZmTUZTNEF2Q2VuNzZpVGhja1J3NUpzOUVyWUpKTnlSRzdUMjh1WjRxUHRISElfSVFNSVVnaElFdUVJbVplcE5jb3A5UVpVMk54VnlOMlUtUjdid0lUMjdFQ1pQb3NlYjhyYlhXQWNjVWZWc3Q2ZzRQU1R4STBoRTI?oc=5",
-          "date": "2026-09-23T07:00:00.000Z",
           "source": "Hyderabad Mail"
         }
       ]
     },
     "Ward 6 Nacharam": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Nacharam\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -133,39 +133,27 @@
           "source": "Telangana Today"
         },
         {
-          "title": "Hyderabad: Ganja-addict techie loses job, grows cannabis plant at home; arrested - Hyderabad News",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxObDlMdzZabVRhN25KazlhUUc2b3BkWWVXTHdMWF9VOVJmazFmUWRGaUowZUFfVHFham1EV255TExXQk9iclp3ZjFfTGdVUUR6LWU2MERoVmZMTC1STmRVR2RmZEhHSU5EbGd0YWZYcU5DXzBUZGRDT3I2QzhRY0pIM3JrQm9NQWU2Rk11M2VjWVN1MHRlVEFxUkIwbUtfSTVqdUlhWkl2WHphOTVDRzVXdUNJd0Z1UXgyM3lpTHhuT05XdEs1MWRIb3dsVExDY0VZVldSRXl3UlVzNUdtcVMwSG11Ylg?oc=5",
-          "date": "2026-04-22T07:00:00.000Z",
-          "source": "India Today"
-        },
-        {
-          "title": "Hyderabad: Former Software Engineer Arrested for Growing Ganja on House Terrace in Nacharam; 17 Cannabis",
-          "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOOGs1MnN6TGx1X0tfeUlJdC1RLXFXXzlBYjd0dTFoLW9pajVtTnZuMEdvTFBEb2FrU3NVQzR5eGUtanBRVURLTUJlUmlhT09VeVRtRlEtZmRGeVd0QnVlQ2dqT0M3UmVDdS11RUNoOHJZUS1JYzVFcU1GSjJFSmV5a2Q0emVEbVhjc25qeWJQc0NzNC1ncC1Wd19mcTRlNE1QV3NvZEFvZkdYNndlYjBWRnE5UHFtWV9KZXBCU0xpb2EzeTl5TEg4UjNTRWhfXzFMR2ZLMXFQcVhxRk5YXzV6Vm9RbmNjWERORzNubXFKa2FSZVItcVB3YlNYai1zZDFUYkEwM0tBSVZJNWdBc3V5cW9n0gGXAkFVX3lxTE5QTEhRT3hHR3pReTVGYXY3RkxnM3lyV0ZqdnhjRmVSMW9pdENReTB6M1g4SksySnI0ZHFsZWZiSnhveFMwcld3cWFIdS1Id3I4eUJQNjE3XzFCbGx0emRTUDIxUk1yRW9pWlllTHlnR1JNb2xlZTJkQm5wRzMweFNVZjVWMWFtVHJNZGxPeU1XLXA5UmRKSDNucWFtd21uZHJIMmsteTNNbENqeDlqOVcxdk1GVy1DY1VyM0J4am1LcUJELV82eWR2T0cxMHhQc2t6bTM2bG5CRHFUbDktd0xMNDdWZlBDQ2JXWUxGTWFYSC05NHUyVUFLUXp2M05mZWlYTjFESnBTYTEySzlJRmZoUnlBZUpqQQ?oc=5",
-          "date": "2026-04-22T07:00:00.000Z",
-          "source": "LatestLY"
+          "title": "Nacharam, Ghatkesar raids yield over 5 kg ganja",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE02SmFXMkhFVlo2X3l4UHQxUVd2Sl9xczZOZnNHVXNscVI0ajZobEg1M2N3QUJvZGpCWDlaVVNmWmlYamtxcXB6YTBzdUMtSktoNXRsRVkydFMxMVR0LWVjejJCbFVlRGlXS1F1RWp3NlFDQVEza2c?oc=5",
+          "date": "2026-08-26T07:00:00.000Z",
+          "source": "Hyderabad Mail"
         }
       ]
     },
     "Ward 59 Mailardevpally": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Mailardevpally\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
           "title": "Mailardevpally Police Arrest Man in Aramghar Robbery Case",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOENiMXVYb3AzRnZLQ2xRenVNaHVINjc1Z3ZGN3VMeW9henlWRWdWY3NPWUxIUHU2SXF0cmlPRjhEU0VvWGw3eW9mQTlzN3VzQUFBakl6NXowS0dOamdLU0RQekNGRXFMbkFOUU5CSmhMOGhRMDhrclBnUUZpQzByRDlMVQ?oc=5",
-          "date": "2026-10-10T17:48:39.000Z",
+          "date": "2026-10-10T07:00:00.000Z",
           "source": "Hyderabad Mail"
         },
         {
           "title": "Mailardevpally Police Nab Two Minors In Vehicle Theft Cases",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVmZKaWhzOEFoSmF4aTk4MGI5X3d4RjVpajZMc3FYaGVjdHJTNHk5X0xjQlYxR0l6Q21lSWF1V1ZZcElnc00yblgyLURQNUpfZUl0NDlYTkVZeVU3RWgzcmhsclNZbW5faF9ZNkVUXzZsQ1lPTHhlY2FNN0F3aVgzQzJYcEs2Z3I4?oc=5",
-          "date": "2026-09-29T08:56:40.000Z",
-          "source": "INDToday"
-        },
-        {
-          "title": "Mailardevpally Police Arrest Three In Mohammed Abdul Rauf Murder Case",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbUtBdDBZa0pZeHpWSkZUbTVHRDRod20wTEJTOTRSMERfSHNSVk9iUDlKaktOUk1qT0NWNmJpN2RQRDlpRUViZnQ3RktsZndVbGtnRlVIbEw5YWY4cUZlOE9IcmhfM19TWC0tZk1oUEI3UGZyT3Znd3NHYU5CZXhZOUVjSEhhSnZtQW5MbzlpOGNPekpuc3c?oc=5",
-          "date": "2026-09-04T07:00:00.000Z",
+          "date": "2026-09-29T07:00:00.000Z",
           "source": "INDToday"
         },
         {
@@ -173,11 +161,17 @@
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcjQ4VmtEeXl4aHNmTWhSS2FXd056c0lYVnp1bEJQcWIzeVk3VEdtQTZFbEl4SUNnQ1lycWRtZTd5QVZINWdZMkozX1NNR1J0MTJ2NF8yaFRSN2NvQy1udzBHX0p5cDg0aVlVWTRmb3RqV3k5cXI2SVF4Ri1RX1Q2VDgxVGVkWm9yeGM2UkZWVm9vRmNfb1IwMGVFOXNrdVhNTVZLSVlGcC16U3Q3YUJZ?oc=5",
           "date": "2026-09-04T07:00:00.000Z",
           "source": "Telangana Today"
+        },
+        {
+          "title": "Mailardevpally Police Arrest Three In Mohammed Abdul Rauf Murder Case",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbUtBdDBZa0pZeHpWSkZUbTVHRDRod20wTEJTOTRSMERfSHNSVk9iUDlKaktOUk1qT0NWNmJpN2RQRDlpRUViZnQ3RktsZndVbGtnRlVIbEw5YWY4cUZlOE9IcmhfM19TWC0tZk1oUEI3UGZyT3Znd3NHYU5CZXhZOUVjSEhhSnZtQW5MbzlpOGNPekpuc3c?oc=5",
+          "date": "2026-09-04T07:00:00.000Z",
+          "source": "INDToday"
         }
       ]
     },
     "Ward 133 Macha Bolarum": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Macha Bolarum\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -201,7 +195,7 @@
       ]
     },
     "Ward 1 Kapra": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Kapra\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -223,17 +217,23 @@
           "source": "Telangana Today"
         },
         {
-          "title": "Hyderabad Man Arrested for Selling Illegal Homemade Wine Learnt Through YouTube",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMjN0V2J4eGdrdTlZa3ZNNWlEVDFjVXdfVDFRcEZjLUVRR3Jvam4wMzh6RWJqcnpNbUd6M3dNeFFJVThHbERmdTRoekFiRlpHejRxck42ZWMyOFc2MXJhc2llR1NWaXZNS3RnZVFKaHl1MXBuVUMyOWF0Q2JBS19ZRFZHNVJSdG5GTVVmeEhYZ080Z2N1VXI2SGt5aXFhcHA1MTUxZzA4cDNobGkxSnNaV2l1YUEtMjdzLUxFSmpGV3JxRmN6dmc?oc=5",
-          "date": "2026-07-08T07:00:00.000Z",
-          "source": "Oneindia"
+          "title": "Delhi Cops Arrest Kapra Robbers, Recover Gold, Silver",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWHJkRDliSnRPSmR1N3BNY2lROERzWVVsbm9mYzM2cHFzMWRiVUNPU3Z4TWdJaW9Hck9aNjBOcV9rSmwwMHB0Z2hFTHpTR2Q0aDdSV2Jyd2MxXzNnb0tQbXprTXR4N203NjdWUUZhYTdQQjFudkVTUHcxQVkzeWxtM0RUQlJoMUstbkU1dzhlbHZXbVNFQ2hveVlhWmNCQlp4UGRMQnczRnI4MWJZaHBGQXdPblZNUXJi0gG-AUFVX3lxTE52ZUR5akpKX2JoU0ZkQnFFU2xnN0diS25kLTdGV0pEQWFsWllEQnZ5WWEwOWM4d1ludWYtT0hhLTMzQzl1enU4QVFmLU9kYzU2T2RJZGZnRXRMSjgxVExuNXEzZkgyZXBhd1o3eDJuMnZLaF8zcmV6ZW5qXzZMR3lnNVJPdk00Tk9uZlZkMW82aGtMU0FscFpBX2ppaDZyMnZzMzd3eGJWeU9JSE1CdXRjZnlmQ3hSS2RCbC1jMUE?oc=5",
+          "date": "2026-05-15T07:00:00.000Z",
+          "source": "Deccan Chronicle"
         }
       ]
     },
     "Ward 136 Neredmet": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Neredmet\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Man stabbed to death by friend in Hyderabad’s Neredmet",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTHJZZ1BPMHNxdHNwVDY3RzBLc0RFY2s4Z21yOUhkbnExSHc3WXNXdm9MNnJFNFdkZW1mTUNtdnBqQVBkT1V1YnA0aGtmbkxxSEtfTjVSTnVDNlBqek05VWZPaW1RMUl5aVI0RWVOcVp0YlZYcUNWaFNPQTZVMHRVNDMzbXI4cVU2cEpTYTlB0gGTAUFVX3lxTE9QOFBWcm5rNHNlUXM2WVh4QmtVMTBzTHBpX0RPRmFpNVBnLUV3cHh2YkN2S0h4UHJQUGpxWVh6ekl5TTZmSE9tbGpsTzkyZW12QWtlYmE3cGZaQnJ1MHN6VUwtSmFCeWZFeDd3QVpoYzcwek1pZkFqR3NHbTlVSnpkVmFyQkFHRjI1cDdkUnJoYVQ5cw?oc=5",
+          "date": "2026-10-20T03:27:23.000Z",
+          "source": "The Siasat Daily"
+        },
         {
           "title": "Digital arrest scam backfires as cyber cops freeze `85 lakh",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRkdrSEdLTnBTZ281c0o0WURjMTlFRm1FX1dZaDhqZTF3UVdROVhKS2pjMy11dF9JRmZZcWh5Rnd6NHNiUEE5TUJ6U2VkU2syU1FhT1NyWEpKM0R5VS1ad1A1WmJwbjNub2ZoR3BwN3dOajllMGtZdGluOTJoX3BGcjRkbHdtS2Fxd0ltS3lFaGRTNmtzNkRwQjRfTFUxRUhIaFhPRmt4QUdoNHFUc0diaElMeFJ3dWVD?oc=5",
@@ -247,26 +247,20 @@
           "source": "Telangana Today"
         },
         {
-          "title": "Malkajgiri cyber bureau saves ₹85.2 lakh in digital arrest",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTUhZNFBaNXVyRENyNXIwWjRkTXJPM0RxWFpiQkxPSzY2dE9YUmFHVlVielBIWEFUNGppNDB5eDlhNlFqSWZRTFIzeHdHU0FUMGhrNlZSa3c1SVhMOHJiSWZpLWpBWTRZbmxvQy04TTVkUDhuMmZQUDJOUUMwZnNIZDFFV1Zycko0ZFp3?oc=5",
-          "date": "2026-08-26T07:00:00.000Z",
-          "source": "Hyderabad Mail"
-        },
-        {
-          "title": "Man kills labourer, hides body under kitchen floor; arrested after four months",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRzd0aVk2bDBfX3hWX2FoMWR0REdvNHNSeHd4bkRFaG1Fb0FVd0tnM1VMT0pITWVaMEZSTG5hLU8tUXN1MjRkYkl3OTlBbnRHdVYzUHM4NzVib0swMGNzMF8zRGIxb0RKS3JuVzJMQjdNTnZMYWFOVk9CQ0JnN2Q4Zw?oc=5",
+          "title": "Hyderabad murder horror: Body hidden under kitchen floor, found after 4 months as smell exposes crime",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRlNCckwzYS1IbmUxcXN1NHNjX3dyb193TTUwU1ZxZUxFY0Y4dnBuZHl2aHpOUERBME5ZMlRLMHZHNklLb2J6TWl6R1lYcEl0RlhTVldGd1JscWlqVDlpVzVaRDJ1bmhwWFhzOVFYR1hNZG9Pbl96aWRjeC1BdEJyVWRTMWtWUTNpLXYya24zNzJleE9sYVpvZXlBbTZLRm14b1Z5QlAzZVQtYlBRQm5DQnc2QUs2bFhVTXh4Y3V0OTZ4aVg3eVRucDYyZmlLZw?oc=5",
           "date": "2026-05-02T07:00:00.000Z",
-          "source": "Hyderabad Mail"
+          "source": "NewsMeter"
         }
       ]
     },
     "Ward 2 Dr A S Rao Nagar": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Dr A S Rao Nagar\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Ward 5 Mallapur": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Mallapur\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -276,32 +270,32 @@
           "source": "The Times of India"
         },
         {
-          "title": "ACB registers disproportionate assets case against HMWSSB General Manager, raids unearth assets worth ₹5.88 crore",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPci1LQ3B0Q19zT19JS3k0cjJNME1tckZNc2daVU5FN3dWc21KeTc1YTJPSUM3QXNmVmVIMUJKZEd5MnJxamlxM215ZFg3VHMwN1htVlAxekF0NlRINWVqU0czTXkwQnotR1R5M29oVDA4VVd3aGhuUFd3Q0VYM2thYVpSWmNqSmxJZ0Y2T3NNQmZCY2syLWY1Y1VQc2VRcVRHLTJLV241TTBiVWtBUFNXc1JxMWxaY1RKREoydGdWSVZmTzctZWpOWmtMeVpoSzROdG1tRXAyeXVvMllOTXhHR2pOLXFsQdIB7AFBVV95cUxOMHpKZ3JIbFRzdEh4N21aRy1HU3paTFNXNzU5UFdpT2cyZThhemZSTXBMcjl1c3AxVGlfOThKUy1vZXFzZXR6S3hQWVZFOU9sRG9WeDVpclM3eUVydVN3MzQ2UDhGZHJGQnhWRVZFMGY4anpQVmNON1M3V2FnUHQzVWNiWTJSZXg4WkF2X29SdmFEaHpLQzVwWERucjdZWnoyMkxJZERQcGRsdEFxeGZuTWJiT1J0UG1iaFVqTU9OTWpQdXY2Q0FnbXN3VVFERE9lTi1FNWk3UTAyMFhla1E2TVVNVVdTVHVOQ19Dbg?oc=5",
-          "date": "2026-05-19T07:00:00.000Z",
-          "source": "The Hindu"
-        },
-        {
           "title": "ACB raids at HMWS&SB General Manager's house in a DA case in Hyderabad",
           "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZkRXVU54dnhxd2VRSTJpRi1tWXdZX2h2N0V0ajFRTUp6UE43SWxpTkxPUllIeEl4X1JKOUNhV2FTZkNWWnBKcVgyXzMxUkUxWC1yUnJMMG9OUGkwZ2p2SHExbDdvMVpXaEFWdWtoOEVyOTU0d0E1dkFrdGZHQk8xeGkyaWxGNUg4eUVBcVBnZ3BPaVlucDk1QzdHMXNIMTlSdVNFS0g4Z3pZdGFGS3p4bENWNnQxNWRrazJIbXNleF80T3NuUkRtUDY2NFBTaTdUSGw1SW5yb0x2QdIB3wFBVV95cUxQaml6WXp4bkVYVGhoRXdvdU1nMmZmN2xZbUQ4Y1JmNDAwSUhUdlRvdWF2MkVxdWNub3dsTzltUW9nMk9OUlpqZWY2a2F6SENPMldKMUFkLTJsaW1uRDJNSXp0REdGdHZ5SWVWd19qOXcwdk8zYmlUQlFkQmdfQUtETHJZcDEtWUc1OXl2dVJNekNXcFNQeVhYX0NmVHlwZVJsRVdCYk45T3N1ZlFTZ1B3NDhrU0FIYUNCNWE4RmxmWnNPUUd3eXdxanR4Q0pBTVc5czhwS3VYLXNsVHJtTjdr?oc=5",
           "date": "2026-05-19T07:00:00.000Z",
           "source": "The Times of India"
+        },
+        {
+          "title": "ACB registers disproportionate assets case against HMWSSB General Manager, raids unearth assets worth ₹5.88 crore",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPci1LQ3B0Q19zT19JS3k0cjJNME1tckZNc2daVU5FN3dWc21KeTc1YTJPSUM3QXNmVmVIMUJKZEd5MnJxamlxM215ZFg3VHMwN1htVlAxekF0NlRINWVqU0czTXkwQnotR1R5M29oVDA4VVd3aGhuUFd3Q0VYM2thYVpSWmNqSmxJZ0Y2T3NNQmZCY2syLWY1Y1VQc2VRcVRHLTJLV241TTBiVWtBUFNXc1JxMWxaY1RKREoydGdWSVZmTzctZWpOWmtMeVpoSzROdG1tRXAyeXVvMllOTXhHR2pOLXFsQdIB7AFBVV95cUxOMHpKZ3JIbFRzdEh4N21aRy1HU3paTFNXNzU5UFdpT2cyZThhemZSTXBMcjl1c3AxVGlfOThKUy1vZXFzZXR6S3hQWVZFOU9sRG9WeDVpclM3eUVydVN3MzQ2UDhGZHJGQnhWRVZFMGY4anpQVmNON1M3V2FnUHQzVWNiWTJSZXg4WkF2X29SdmFEaHpLQzVwWERucjdZWnoyMkxJZERQcGRsdEFxeGZuTWJiT1J0UG1iaFVqTU9OTWpQdXY2Q0FnbXN3VVFERE9lTi1FNWk3UTAyMFhla1E2TVVNVVdTVHVOQ19Dbg?oc=5",
+          "date": "2026-05-19T07:00:00.000Z",
+          "source": "The Hindu"
         }
       ]
     },
     "Ward 7 Chilka Nagar": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Chilka Nagar\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Ward 10 Uppal": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Uppal\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
           "title": "Hyderabad Woman Constable Cheating: Man Arrested",
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZUkRQT29nWjlpLVBnX1JiQmxxQzlEeHBfUGpxSHlDdmVJY25IUjE3Z0ZGMlhnYUg3VzFEcnJCYXZiWFloYjdPOTExcWJXYVJsZ3pMNTN6dHhNbHVfVEY1dUZ1M2EzeTNmdk14NVFNMWtvTDlEYTBRLQ?oc=5",
-          "date": "2026-10-16T05:49:00.000Z",
+          "date": "2026-10-16T05:47:12.000Z",
           "source": "INDToday"
         },
         {
@@ -311,96 +305,77 @@
           "source": "INDToday"
         },
         {
-          "title": "Uppal Police SOT raids sweet shop in Pocharam IT Corridor; seizes 30 kg adulterated kalakhand",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQd0NiWWVpclJjRWhLdi03N0kxd1lCYzI5a0gzVHEwa0poRVNnR1AyYThsOHpOQU1veEZrWlE5NU9RSk5zVmt2VVBZaWdGazV4VDc3SHZ0eXQ5RGpqNGZOcllteXJpeHloTUV3WDJTWHBsX1RvR1l6OWVPbTRoLU5Pa202b1Z2STBjU1pWOVpmOGNlZkNSVW9CdFBMVFdLNUpOczlOVDZoQmNQV3IwdDBhbndlaWpxR042MV80Wl9YWWxVekFjaHRVNjl3?oc=5",
-          "date": "2026-08-26T07:00:00.000Z",
-          "source": "NewsMeter"
+          "title": "Telangana transport offices face surprise inspections after RTO raid",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPU0h5MFM2bzNoZXloc2xMdTB0SzZMWnBXaUM4VDRMYzRNVkNjdEM2VDhQQVVzZ3ppZGkzWlNBU29acEU0R0o3T2NrcEk1WXJVMGVjZWJrTXJPNGphQXRTRXBKNTNNRUZRUUJ3Q1ZNakpCRjNFaXl6WDFmcDkyZXdhbmJHT2ZiY3RBLUY2NElULUpoR1JkZGc2U2o0YVpDaFZlcFHSAacBQVVfeXFMTzRBYWlpY1hpaHRWRDVyT2NqVHlSZGhpVGM5bjA2Rmh1b2tDV3V6S3ZqazdJWHQzOTlRT3RLSlk1d1B0UnVtV0NoWjdIakl1M3p1Zl9jNXhFMXFtZUNlUWw2dGhPaXNKUWRaN0wxN3ZnOENvWFlwM2M2b0pPMHpJeng0bC1RaG5TcjNSaDBabGZLc3FnTHlQSkhub1cxalVJV0NXM0RKVXc?oc=5",
+          "date": "2026-09-25T07:00:00.000Z",
+          "source": "The Siasat Daily"
         },
         {
-          "title": "Cobwebs, fungus found at Hyderabad’s Zepto store during food raids",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWldrUURMWURmemRzdjhXZFJQcERCbmhRbFJoOTBHOV96Q0Y5M1p6b014a09tY1hLNV80OUgzM0RmdVZ0VnpXbk04eWExYzlDQmg2M1IzR3BtTG1Ob0tGNDZUdE9nNmJLcFZ6SUZsZ0hWRmlBRFpnTVV4aWEwaWJ1V1V4MDltTmtyRUhMcDJsYklJTkd1LVAxemNHMXTSAaIBQVVfeXFMTzJaaEVUTzN0MEoyZ2tGWnhxYVhveC1WZTVLbjVzQWtSSGZRZlBHS1BuV3VGb29EdGg3Rk9zZGNkU0UxODJnV1drMHY3M3VLVjlTdGs0cGVPODkzSjhxZ3FZM1dXUFplcFJ6a2JHRVZaRGJUM2VPWXhoWElSNGs2bEVKRkRMNUFtbU1PWnE3VnQ2VjVVTzRkcUJqRTlBamFYcEJB?oc=5",
-          "date": "2026-08-12T07:00:00.000Z",
-          "source": "The Siasat Daily"
+          "title": "Mother Among Three Booked For Sexual Assault Of Minor",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYVU5VWlRYWYzLTF0SFFyVGFlT3BOeE1hSi1vU3lUR1JRSlBJcUJqR3FaYlZuMGJCdVp1LWVtZURKZDFhdmRzS3Y0eWlVTjFfT0x4WlNGMmJRem9rZ3gtNmdxSGdIVkdCNFV0RS03b255X0lkWlNZaUlqcTh2d3JaZ3otUEg5UVlaNXFEbUE2V3l5Q3FvWUI3YVJzaHBQSWdXcnlaWTltRktkdWo0Nkt0MlJhTGV0YkFRMHhv0gHAAUFVX3lxTE1CNDhzN1J6WlJSSzhrUUxCT2dmTzRrQzFBN3BpRWQzQzlGRG5xcDFkTVNvM2J5QzZLS09Xa0FHSG5GaW1pMm80SkNRRExoUUJ0UWJ5cV9pTTVlQlZIazJPT2RvbTREQTM0aE91cUtVeUFWMjVEcjhMaERKa2ZZS1psY1ZhWGgtTmFoNmV0bnhLaGpVT051VnVnNV92ME9zTXNxTC1xRUtzSzQ4RFRja0FMa19XQmdMdmE3Z2J2Y3RVTQ?oc=5",
+          "date": "2026-09-21T07:00:00.000Z",
+          "source": "Deccan Chronicle"
         }
       ]
     },
     "Ward 12 Mansoorabad": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Mansoorabad\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Ward 16 Hasthinapuram": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Hasthinapuram\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
-      "items": []
-    },
-    "Ward 14 BN Reddy Nagar": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
-      "query": "\"BN Reddy Nagar\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
-          "title": "Man murders wife in Hyderabad’s Meerpet",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBla083bGFTOGhJRUYzR2xoU21ZTEltVjhsVHhZaEpweGNvQzB2ZUc3V0E0QnVhWGtNZWRWUmE0V1VMdGhaN3c1X3ZrYjJrTXM5UmZ5Mmh0d2NXMlVpZkxjMkVneEV1ZzlFUzk5SXR5Mm40UjhXWFJ3QWdR0gF_QVVfeXFMTmsxYmRXNURBcTZDaWpWM25XQ3B4dkt1QWUxTVFYZzNlSEE0b2dEOW1ENzg1S3dCaUhubWx6eUlVMzNRclpXV3dBZkNGdDZxNDJvMUZVWlJIZWpxdFlHUmF0R05JU2d0THdXdy0zZE00Qk9ZRUFfOHZCRDhWaWxIRQ?oc=5",
-          "date": "2026-04-29T07:00:00.000Z",
+          "title": "AP couple held in Hyderabad for chain snatching to fund wedding",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaE51dDlHWndPS09vSHdITU9hRmlUVlpXbThleWpRSjQ2b1BBUW9MNko2a2RvQTMxMndLZWVhbnZuMmU5NWthZXBSYVh3VjlEcmhoN0FFRXl6OEVEd0lJQl95UGRTTndsZUc4ck43dnpaT0plWjZWd2dZb1dQZERxNVVQdUdmTERBemlxT21GZER4cnJyajlNSmVfUjM0M2ZW0gGgAUFVX3lxTFBoTnV0OUdad09LT29Id0hNT2FGaVRWWldtOGV5alFKNDZvUEFRb0w2SjZrZG9BMzEyd0tlZWFudm4yZTk1a2FlcFJhWHdWOURyaGg3QUVFeXo4RUR3SUlCX3lQZFNOd2xlRzhyTjd2elpPSmVaNlZ3Z1lvV1BkRHE1VVB1R2ZMREF6aXFPbUZkRHhycnJqOU1KZV9SMzQzZlY?oc=5",
+          "date": "2026-10-22T17:09:51.000Z",
           "source": "The Siasat Daily"
-        }
-      ]
-    },
-    "Ward 15 Vanasthalipuram": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
-      "query": "\"Vanasthalipuram\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
-      "items": [
+        },
         {
-          "title": "Two Arrested For Robbery And Murder Of Intoxicated Man In Vanasthalipuram",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNY3AyLUFEcHBPbFNYNDEwQlVueWxidElpTzVTOFVNY0ExdVNJOWZQWWQ3dFJyM1FHVS05T295WXQ4MFpaZUZoeTY3YXRnQVJVWXlQZ09QQWNCSncxd1RkRmZ2WnlFUTVFMmdIZTJJdU5RLUM5QzNIX0psRUFDZDl6QTlvS2pEOXBoazh1dXE2a1ZVTkc2Y1ItTkpaVQ?oc=5",
-          "date": "2026-07-14T07:00:00.000Z",
+          "title": "Hyderabad Chain Snatching: Couple Arrested Over Temple Theft",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNFlJcXI3M2cwMGZoN1owX3g2RE9YQVBBdkVQdXplZFlBOGptb3JQZ3JkRGVTa0ZyVjJ4WlF6X0ZjSVlBWWdxbGI2NE54YkNNX1FVTzJ6N1lZUXRvRFdSeTBCZjdmQzdLOEZ3ZW5fRlliNVdxYzVwdl9RVW5KU05MenJmZmM4b0Z5?oc=5",
+          "date": "2026-10-22T13:36:04.000Z",
           "source": "INDToday"
         },
         {
-          "title": "Gender determination racket busted at Vanasthalipuram hospital; two arrested",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQODVpcXpYZTRUaW5vZGNwVzh0YkFlUmxILVg5QWJVNzlxbFdTNVdCaU5sSVUzeFEwSm15dzY1SEhGOXhLeGN3M2lXa1FOcXpHQWpVMTFCbFU5WUVHTTZOVmwxSTM4NHF6WFV6dkNQTTJlNV9LVnlvenE0N2ZsTWhmSUl4dW5wVl9VVmZlbnJYRzRxZ1JhYXNBMmpxZ0E5ZVRJMGJkZ0IxZ1ltUQ?oc=5",
-          "date": "2026-06-13T07:00:00.000Z",
-          "source": "Hyderabad Mail"
+          "title": "Hyderabad: How jobless AP couple turned to chain snatching to raise money for wedding",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYk8wRmxsa01wWVNxcm1IU3VwcjdLMlIxbDRVUnhCSno4dTF1YUk3ZnlwR3hYQUl6NV9CREVZN2N0UnhVbHpTWWhGY0Y5Y01TZXFqV1p6WmpTMTNlY2pKbE1vMmI1ZzhIdlBTVXQxV1RSb2I3WXk5RFBEamx0bG9IZkdQNlFidXNvcHFnbVJHOUlpbG02cWhfenpGaW44czQtMjdLRHU1MVhFUHIyWkp5b1BXMlRZVUxCSVNVUTZUaw?oc=5",
+          "date": "2026-10-22T05:29:45.000Z",
+          "source": "NewsMeter"
         },
         {
-          "title": "Hyderabad police busts foetal sex determination racket, 3 held",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaW5PSzljUXNFekY5V2RULUJmbkN2dW4yLXN4WUJiWkJNMllVU2p0S3hMeURWa1JESkJQbV9QX2huSU5xdHluclA3STRYSUh3MWEweDBKVld0bXYzUnp1bEhiM1lUeG1DZXhPN3hiR2ZDZDVWRS1kU0MtdVBkdHdTZGtnYkpvZGdqQWcwTl9HbDF5ckhfcWxXa9IBngFBVV95cUxNMC00VndyODlQNTN2NGxYVmN2RndORkJ4WnpuX0E3TjdpcTZVNURXVUtCSXBjZkVqRHZiS2ZtRjY1S2xsUVVld3lvdDUxUUxGTEYyOXVUeWZVRDczdS02UE5qTmExd09Gdjg3dVl3S0E2SGp3a1pVRHMzSGFFU0Y0SXRENDVkbXhLcndJRVczbzVNSVVvd2pITGlWQkxDQQ?oc=5",
-          "date": "2026-06-13T07:00:00.000Z",
-          "source": "The Siasat Daily"
-        },
-        {
-          "title": "Deepam in puja room sparks fire at apartment complex in Hyderabad",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYlRGbFNiMDZlN2xWNXNsc0Z6Zk96Z1lwc3JLUVhGeHhnbVZOY1BWQkMyOTF0OUQwdml4dGlpeDhBTTViTUVMNlAyaEU4aHlRLWdTbFZfWDBkZkUydjFnUEpQd2g2OGhqVEFObHY0MnV1OEVPY2dVc3BMaFl5S0dtekFpdXZ5QnJVaVJKZFl3em5KVmJYZTlOUmlvYU1qUdIBowFBVV95cUxObzNFam1oUnBIb0ZHSTJuUGxwOXVNYlhqRUljbVVOQ3ZKR19reFhFZGZoTDJCenp1ZzhyYkJQakVNd08xZ0NpTFd5d3JrQlFNdWl1WVNRR2lRWWs2RGdocDJPUWdKSlVSRG1TU0s4V3A0TXBsQjNid05jN2ZNOGxocTRWY2M1Ym5mR2lacDlYdkFUNm01UWs4RkVmNzFYRW9GUlQ4?oc=5",
-          "date": "2026-05-14T07:00:00.000Z",
-          "source": "The Siasat Daily"
+          "title": "Hyderabad: Man, woman arrested for snatching gold from elderly woman",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPU2w1cE1CX3Y5Q1k1YUliUmVkeUFjT2FtckNKVVRsOGtJZHNWYUtOWE9SbjZ4Ym1IQ2NXUHdVVUZ1RTNiWG15dTl5RzBQSzBOaTJnSktXejg4RUNfME5Ea25IcEt2OU9ON1JLNlVWODM4ZlBhZXdnR0F2ODk5MVlkWVlMaHJBMmE4bWZKTVVCb1IzY19pcmEyeDM5YjZpc3A1U2dYLXRQTnZ3X2tkZlpXQXVNeG1vODVxbV9SQS1nTzNTaFXSAcgBQVVfeXFMTk1wbmhYZnhvbUJlRDE5czNBREVjODdpTE5HYzEtRWtILVlOUDhoQVBwWHgzb2RtbEMyazV3Y3dDQ0N3R21sX2xQLVQ3RFVDbGpTU0p4NF9kQzBGZDZuaWtfekFsaFpnTnhlMkNvS1lUaVo1eU8wSEd2RXlVMFRkZEpHdDExS2tURGhVRHp5R0doNnJjeXBlWnp6eUVDWFFManlCVER5Vmd1Sm0wSklTWi1PVi04RUwycC1MeG1tM0pxYkhOTWRId3Y?oc=5",
+          "date": "2026-10-22T04:30:22.000Z",
+          "source": "Asianet Newsable"
         }
       ]
     },
+    "Ward 14 BN Reddy Nagar": {
+      "cachedAt": "2026-10-25T09:13:03.899Z",
+      "query": "\"BN Reddy Nagar\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
+    "Ward 15 Vanasthalipuram": {
+      "cachedAt": "2026-10-25T09:13:03.899Z",
+      "query": "\"Vanasthalipuram\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
+      "items": []
+    },
     "Ward 139 East Anand Bagh": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"East Anand Bagh\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Ward 20 RK Puram": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"RK Puram\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
-          "title": "Neha Bora released, Abhijeet Dipke to be produced before SEM court: Delhi Police",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUk9fa1kzSkpPbWFSMHhSVG0wRmJ2SnVaR1ZDREpuWG5qVGs3R3VVTHRwUTNLa0cwZmVUcElXM1YydjNnYXVCdEhENkVhNGJBclluTEV3RVZ1a2ZNajFqaFEwdVNlbU16ZVVoSVFfSVpxZUViOXFEVGVhS18tYlh4RkpZNmx4TmRXcTRwTjBpaUZIR0ZBQ1A0bGtyMnU2cXNPVVFSZU9GU2prTHZmVTlPaGhMQWlyOUdvckVJN0txVkk5WFQxTmY3SDQyZmlqYzhnY2pz0gHaAUFVX3lxTFB2OThkaHVUYXhBZlU1TVN2RzdoNjVTOTJYV1ZmSHp2OHdsMU9zXzZuV2dSWDNhdHgwQUtLVFdmckl5czc3NjdEaEFhN3l2OHUxUk5XY21qMkUxSWhnZHJMbzZESHYtV2g2bkVvMjlSUFJFZUh5czF3UUNRYjFJMmVmc2Zyb3JvcWlSSVZXQWhoak9fLXJuMkVmbEhSYVRQTHVQbmNFTnZwdUQzejB1dlNCSkYtSmZsNExYTHpjVUhZZ3VPcm5Qck1JdDZsbkFrZ2NRcmNCcW53ZUNn?oc=5",
-          "date": "2026-10-17T01:31:53.000Z",
-          "source": "The Hindu"
-        },
-        {
-          "title": "Where is Dipke, asks CJP; lawyers meet Neha at RK Puram police station | India News",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOV2FTdmpjOS03TGM1NVpLQmRUVjRWc3REZzJYNzUwNXh2YVd0T1NrYjdsNUlEdzBPLW9vVEVUTzRhUTRXYWFHa1RmVFJQMm8wclV2VjR2SlEyWjJ4ZXB6MHlKbVZHMGhROVp2b25RckdzTzdOMHlLSkhyM0VWZTh3elZoRlc2RklrbVR4VnBBcmtnTEE2QlNsRjdEb2hIQmkzaE51QlFhRng0WWRadWt2WjRCVUtFTmJOZi1SRm1acktPMWtpaVg5RURPONIB0AFBVV95cUxPaUdjZWpOdlh2N0ppMGlpVGFNUGxOMU5XWnpleE9xNUNCNFQ5QzVrRjlaaFBOV0hjaXdmQkh4bno5SHpVUDBSLVlrM254WEVUNEhCWng4MmoyZi1kN3pBM0hIa20zLURkQmJpS3huREc0ZjJ6WkRyVmJ6LTRmbTZIWWc2VUdYV2xXeXpoR3lmVU9QdzBhRXF4Wm9CYl9XTjVHM1pLYzktZmFGT19iMGtxZUc5X3RobTNONXJaX3VJcFFJc2JqeGpNS09hYlF6ZEJq?oc=5",
-          "date": "2026-10-16T19:18:19.000Z",
-          "source": "Hindustan Times"
-        },
-        {
           "title": "Hyderabad: Noorjahan dumps fish waste on prasadam distributed during Navratri celebrations, arrested after Hindus lodge police complaint",
           "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOM3NrUmVIQ2JOQnh5Um5CZHR5LURLa1dKc1ZTUmJfYzdmd1R4bndXSmlQaVU1dFhURXZHblIxU1h5eWxfMmNWbWQ5M0pYSGhKM0hoUEh5Rk50Y3BrTUM0VUZWeTRNSjF3VUtrR1dQbThHSU1pcnVURVZvUmlkd1lRMTdUYnFYRzZPNFNCZXVka2JZalFVQXgxRG00YUxQSUN2QS02YkhQdkhmTGJpVU5idm5EWmExVy1ZZ29YcFlkRnQxZFd1MUVkOW1vZ3h3N3dnaUw4a2xxb3l1MzdzYUJ3cjd0aU9KODdySXh3TklOMDA4bWtyVzM5RXN3Q2VNd0hGZmc?oc=5",
-          "date": "2026-10-16T06:08:01.000Z",
+          "date": "2026-10-16T07:00:00.000Z",
           "source": "OpIndia"
         },
         {
@@ -408,11 +383,23 @@
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeDhtUXgxZFFvOEdDVnBxWlduMWs3ZlpYakhTcTduTmpfMlNJcFNlNkd4QmFKdExxcGhUN1oxY0tQLXdBY2VDZDNuZ3V6Sl9QS0hqanl1cFZ6SXM3bFRGcnBvTUpsQldLcEtZQjhRcFlDTUk1ckdHUGdYLW5HVXhaUHU3alBjbld1RUppRmthVnJDZUtPbFpDX0N4OTUwWlRfWUY4aEVjTExzc3pYZy1XMjBxWnlhQ19aeHZSM0VxYmFja1F5bG1RN2hLWklNUQ?oc=5",
           "date": "2026-10-16T04:20:29.000Z",
           "source": "TheCommuneMag"
+        },
+        {
+          "title": "Woman arrested for allegedly dumping fish waste near annaprasadam point in Hyderabad",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTThmWVFKRFlhQk5ZUHNEVm8zTHlfVVJwM3RoSm5sYU1NOTRFU3ZfUjhUYUk0aEl2dFpPN0VmcldRTzljQTdKR1lfRlVWaFdmejh6UTI1RXRXSTNQeTdMeUN3ajRncGV5MEE1ck9naV9NTlVmNXR4U1lROXJqV0UydVZsakJ2QXFpMjkyeGtaSjh1U0s5OTRvNXdFSE9xZ1gxYl9wUGRCN2hwanlTQnJBOXFCQnRtRVBIdVE?oc=5",
+          "date": "2026-10-15T13:04:58.000Z",
+          "source": "NewsMeter"
+        },
+        {
+          "title": "Hyderabad Woman Loses Rs 21 Lakh In Fake ‘Digital Arrest’ Scam",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSlAzUXZURklGMWFlU0pTOEtyYjVvYTFreFVhTzZsUjNnOXZ5X0xSWm00SnVNdXBwNkRTRDF5SG8xa3VLZnpHQU42WlhWOXlkS0FMTGx4bDZGbmFPMDB4cHdJLTNMajhXR3d6LXRFdzlDZFkxZUMzaGpja0o0RUFDVEs4T2V6YTQtdmJMRWZyVUQ2WVVKMHVuOVVESk40cXlPeEtoQQ?oc=5",
+          "date": "2026-09-09T07:57:01.000Z",
+          "source": "News Mobile"
         }
       ]
     },
     "Ward 21 Kothapet": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Kothapet\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -422,32 +409,20 @@
           "source": "INDToday"
         },
         {
-          "title": "Three sentenced to jail over rape, forced abortion of 16-year-old in Hyderabad",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTUJrU3lnSU45SlEwMVNuTDhXcEtMeG5UTTREUEUyRDh1aXJ3TEp5ZGFrcUhJbS0xV2hGUC1nbTNZdVViMF8zX0NKZW1UeEpsU1pJVTlJR1BuWXJZdHdNeVhFbndwbDJ2OVpPQVV0X0R5Wml3b2JwNHVrN2ZaaXM2a05VcFlEdWhYbFd1d3BQTkpsRVB6aWlkU21IR1RVVGd1RmpLU1JVV2J0OTB1UGfSAbMBQVVfeXFMUG5wclFjbDlVS0NtckpBT3ZIQnlOZHdQdmFRTkxvR2p5SElQdnEzX3hNWDVTZ2dTWWhaTVh4ZFJSbS11TDVfTkN2dFJaTmd4QkR4UTJSUVVsRktSd3BVQ0hCY09GdXpoSU16NXJ3RXJrR1hpd1BKakhIS0VIbklneVpDbjd0RHdITEl2SGdYa0tjMndhcDF4eGhqYmk4WnBvbFFNdmdVQ2ZBVDlJNlRTaHZ0NU0?oc=5",
-          "date": "2026-05-15T07:00:00.000Z",
-          "source": "The Siasat Daily"
-        },
-        {
           "title": "Nine held for attacking police and stone pelting in Hyderabad",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNc3Zsd1ZFOUJUX1MyRWlySEdZMmdHTHB2NzFQVXR1c0FJdnpSOUFhRnVuR1ZNUk9KXzI1UGxxLWFsaHY4QW1KV05KM0FXZ0ZmN1M0dGtkN1NsOTZIWGtpbXdmTXlJRFBjTkt3VHJzR3Fub1hyNXhqclhod0VlRGV3RDQ3ekRuUVNSMHJlRUFZZmx2dw?oc=5",
           "date": "2026-05-13T07:00:00.000Z",
           "source": "Telangana Today"
-        },
-        {
-          "title": "Video: Fire breaks out at plastic godown in Hyderabad’s Kothapet",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQclpZOWtwX05FeWFuNkJWam9ob0ZaZHdmZG5DQVJWQ1RVblVBM3NLNUUwQTJRYThETnZreTVhamlOQTVmQS04Y3c4LUxUU21XbkhlSlR1RWo1VmVURzNsNV9jU3FkQngwMlZMMk1xMGxOb1pqd1J5ZWZLX2ZlV2xrMURmQTZZY0V5X0xES3kwbm5ObHkyQ28xc1hB0gGfAUFVX3lxTE9ZTmdqQnFOOWhRN29McGZrRlJDbXBuZzU2WHByOGU0NlJueVB3MTN5NVBkeGM4TzA4dWdCY1hNSlU1QThKUUV4bmdTLTM0MDZaZFFtbWJ0bjBkWjF4Rk9pVUtWN3pWV3FyVlktS2pQUGljNk4teVF4OTE4UkZjSFRMc09qT2lVN0oycnozMlNsSGZqZXFXNkJDdmNMdEMyVQ?oc=5",
-          "date": "2026-05-05T07:00:00.000Z",
-          "source": "The Siasat Daily"
         }
       ]
     },
     "Ward 8 Habsiguda": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Habsiguda\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Ward 9 Ramanthapur": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Ramanthapur\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -457,16 +432,16 @@
           "source": "LatestLY"
         },
         {
-          "title": "Rs 70 Crore Cyber Fraud Network Exposed: Hyderabad Police Arrest Two Men Accused of Providing Bank Accounts and SIM Cards to Criminals",
-          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQeEI0S1J3QWVLRXdnWjJpaHNvYmUzR2hkdGd3TGNRY0lOWmlCcjlfSmVUeWI0UW55Rl9MQ01GYVZrV2dvbE1Wc2ZqRHJXa2hGRnJqRC1JdnZNMHlvNWNiM2xVRTM2YVpnYXdDSDJLVFhmcFk1TTRxY0xGREVXSHh0QXQ0bm5vRU1LSjMwNVRzSmtfcFY0Y0VIbnY4T0VRYkZuN1JOOHd2eUU3ODduWDFBbWRNWkx1YnRydWhwOS04T0J3RldkM2FpUnNpWTIzZEZuMkppeXFCUS1HSUt1dFg4SFhsLU9UQjI2?oc=5",
-          "date": "2026-10-12T09:50:05.000Z",
-          "source": "StudyCafe"
-        },
-        {
           "title": "Hyderabad cybercrime police arrest two for supplying bank accounts to fraudsters in Rs 70 crore scam",
           "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPd25hQUd3RHdtMlAwMFVPOWhyUkFoemNpTC1UdURPZG43U2xVcFhMVGRMTGZGRXpUaV9BeGVtbVp0dERHVlY0VWI0N0hGUzRvZnlJTXdWMkx3MDI2dXBUZmlsVEVzblBYVzJyNU9GTW1tSEFZN3o3LWdncHhpZGFQLUFYZEVJa1RTbW5fMmw1Umh5blBSRmhGR19YOTNWX1hYMEF1VC1hc1poZW9nQnlLYTZJYmtuWHl6T0lLWDZrb0I3cWNESVFDNGl5Zm1ySWJxUDFLaFVyYlhYXzVqOHFoM1FpLXhRVE5VNnZhYTFaQ0hjLS1f0gGCAkFVX3lxTE91amtjcDZ0MlBEUl8wcGs4SnRWTXlOa2lZYzB3d3JSb2hKZ0ZOUnk3T0paaTdCSDh6dE1rYUN1T0Vhd0dDWFgtblBBZl9UV0dEQnd4czZaQU5aQU0xMkNKWnVYWmRmUG1vV0E5MGowbGNSVUVaM1JBRTJsa0xEc3Z3ZXMxNVJOZUJqR293ZU5hdmJuSmpTaTVzQ1hWRkJDZGtQZjZLMVRlV01IbjR0WE96S1ZuWEdaSTBIRkhTTFJHdXBmbGZRT0FGbnM3QndXYnlrUkJrWHdrS3pzRF9nSzFDaHQ2UDZyYW1fR1FNRV9URFUzeVdWLTN1WjR3QXI0dldZdw?oc=5",
-          "date": "2026-10-12T02:55:56.000Z",
+          "date": "2026-10-12T07:00:00.000Z",
           "source": "The New Indian Express"
+        },
+        {
+          "title": "Rs 70 Crore Cyber Fraud Network Exposed: Hyderabad Police Arrest Two Men Accused of Providing Bank Accounts and SIM Cards to Criminals",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQeEI0S1J3QWVLRXdnWjJpaHNvYmUzR2hkdGd3TGNRY0lOWmlCcjlfSmVUeWI0UW55Rl9MQ01GYVZrV2dvbE1Wc2ZqRHJXa2hGRnJqRC1JdnZNMHlvNWNiM2xVRTM2YVpnYXdDSDJLVFhmcFk1TTRxY0xGREVXSHh0QXQ0bm5vRU1LSjMwNVRzSmtfcFY0Y0VIbnY4T0VRYkZuN1JOOHd2eUU3ODduWDFBbWRNWkx1YnRydWhwOS04T0J3RldkM2FpUnNpWTIzZEZuMkppeXFCUS1HSUt1dFg4SFhsLU9UQjI2?oc=5",
+          "date": "2026-10-12T07:00:00.000Z",
+          "source": "StudyCafe"
         },
         {
           "title": "Cobwebs, fungus found at Hyderabad’s Zepto store during food raids",
@@ -477,7 +452,7 @@
       ]
     },
     "Ward 92 Venkateshwara Colony": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Venkateshwara Colony\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -489,14 +464,20 @@
       ]
     },
     "Ward 93 Banjara Hills": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Banjara Hills\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
           "title": "Banjara Hills Police arrest realtor Rosi Reddy for cheating woman of Rs 25 lakh",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPd0dkTHBMZWdVbHBSVHVyOWJkdlR4bkZobFNlYnJUVnNDbS1EcDBvck9JZl9hUW9aMDNKMWFFckV1U0ZnczRoVlU4aGo2VElFOUhxVzVjQ2p0d3NGOUtYTEVoT19HWHZFTFBITHJGVzJFRjUzVzVOTEdDbW1UMFktdWFsalBya2pYTnQ4dHJvWlBUNmg1cTFFbERFY0dyb2FWbndwY09PdUE0M0xFT3JaVzN1MVNKa2tH?oc=5",
-          "date": "2026-10-05T13:27:54.000Z",
+          "date": "2026-10-05T07:00:00.000Z",
           "source": "NewsMeter"
+        },
+        {
+          "title": "Amberpet Shankar Rowdy Sheet Reopened by Hyderabad Police",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQUFwQkEzbUh3bGUwX0VpeXpudnRyZlBVbDhjejhGcTM4endPVWNJUjI3Ql9RMEhCcGtQWWVlTlRHMkUwVXY1WlN3SDVRaFRVc2JmWVFnR0V6LWRReWhlU3VoR3E4YmZWb2xEbVA0V3pYaC0xY3YzLV9uWEoyVnRMaHVmbDd3Zw?oc=5",
+          "date": "2026-09-15T07:00:00.000Z",
+          "source": "INDToday"
         },
         {
           "title": "Banjara Hills House Theft Solved, Suspect Held",
@@ -505,21 +486,15 @@
           "source": "INDToday"
         },
         {
-          "title": "Banjara Hills police nab marble trader over GSTIN fraud, property grab bid",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZDFranNNZ0wxdG90aE5UTEZwa1BLODkxR2V2bmhEN21qMWFXV3ItdGFQcWt6YlhuVExZTW54YllnRXRvWUdkTktTWldtXzRPU1VNeHNvZ2hBMVJYYmtVeDlZd1MwTGg1YXRkemJ3RkFxMzc1YV9rZDFQQVJNZ1hBT3JQYkFWSUZvTkc0X0lrR2hZaUp6Z2xOY1NHYkNsV1FzaEZhTUlxNDhxMU9GMWdCdnB1N0hGZ1BIVlRkc19B?oc=5",
-          "date": "2026-09-04T07:00:00.000Z",
-          "source": "Hyderabad Mail"
-        },
-        {
-          "title": "Banjara Hills police arrests man accused of inappropriate behaviour towards minor",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcU9TQmpjTUVXdURVZC1VcjVpU2ZIVDdkRUgtV0N3ZktVN3M3c2o0MGQyd3hlTDJ6YWxsNlQyT19XeFRrRlNabVJHeHE5dmdpekduQzBjYW55eDNyWWhaaFFrTkY2Rm5hM2hyY3JzM2FJWGV6WGZvenBRcTVDV240RFlmQUpXRjdsX1dCOEhlNFJpNXNac2VKMFlBMjE4Q1lsT05NeHVydUVocEFY?oc=5",
-          "date": "2026-09-02T07:00:00.000Z",
-          "source": "Telangana Today"
+          "title": "Hyderabad Police Nab Jewellery Theft Accused at Goa Casino",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNd3BvNUJKTTVqdTdCX0xHM0pQeU92LTJvTDVtYnM1Q1l2ZXY5RzU2ZkgwUHkydHJGSDN2U1RwZlJBRXlqaXQ0U1lkRDJtSDAteXFhMTJ3UW14a0xmR1FBSFNOck92RGlLcThFdFU4eWh4cGRrcUw5U0t1TEJmREJKaFBYRTBoOGNEU3NtMmc3LVhfQ2NCWVpOb0hfMkF3eTJmMkR6d2F1TDRxSjdyVjZrU1puS0tKMXpUeXJvUDZ2YkM1ZWJsYXNKRGtMckc4T1FrenA0WdIB2gFBVV95cUxNZWRaaFo0YUdIOWlJbWtOZkFBWk1aVGZOb0VPQmgwQUVnSl9OSXBqZk5VNmg3Y05Cb0tJWmZIQWtkeUdSN1Y5dG9jcENrd2VFYUdOdW14SWZKTTJaRXgzVHMxY2RnYU5uVzBfTkNOSHF5VU1NQkdJS3h2cnd0blZnS3FVMzltWHp4QjJKRzVOcjVQVF96UGZjNzBmSjhIMHhoRTAxU0tLN1dhYmkxR0l6OVpZZnhrdmpZYnJ1ZkpIMWJEbS1RbVF0QWx5ZlY1RXlMakZFampONUxEQQ?oc=5",
+          "date": "2026-09-09T07:00:00.000Z",
+          "source": "Deccan Chronicle"
         }
       ]
     },
     "Ward 126 Jagathgirigutta": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Jagathgirigutta\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -531,12 +506,12 @@
       ]
     },
     "Ward 124 Alwyn Colony": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Alwyn Colony\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Ward 128 Chintal": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Chintal\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -560,9 +535,15 @@
       ]
     },
     "Ward 132 Jeedimetla": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Jeedimetla\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Hyderabad: Man gets life term for sexually assaulting minor stepdaughter",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVXNfSG9YNVBHcGwyUHhlZGJ3YWNEX2hzdG9GWEF2NHY4RFNZYVhXV3gwSFF2WWtodWI0a3hGaGFxYXVCaF8xaTNma1B1RU9NU0VvdVBMZktaVW1TakQwNWZaRGhWMnR1b2xibUNqaEpIX1M5aThneTN6X2pvVXI0QzBzQ19WSDh5?oc=5",
+          "date": "2026-10-23T16:07:39.000Z",
+          "source": "Hyderabad Mail"
+        },
         {
           "title": "Extortion case filed against two transgender persons in Hyderabad",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcXl3dWJKWkdDc192YXFWdzNJX0xOZkVid0VYY2Q4eWo0QXVtR1JQZVN5amhFN2lCSnZHM3pPWU5fT1o5X1RLMU81dXgydXZONTdZNlNDeUk1NXd5RWRydGpyczFtLWlTQnVsQ21VV0h2R2hOLVROdUY1d21rTl9mRmpXZ0luRWtrU24wZ3FlMlE0QzBIcV8w?oc=5",
@@ -570,32 +551,26 @@
           "source": "Telangana Today"
         },
         {
+          "title": "Hyderabad: Two arrested with 11.365 kg ganja in Quthbullapur",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcHRZTDdIMnVPZ242OUJUSGRfTERsc01Ja0RhZUZ0WGQzWFZQb2w3b28wWndtUjBzZDl4b1A4UW43SUxoNy1mYm1yTnNHYzJfRGhqZXI5UEQ1LWk0OGcwU0VtNTVqQm9VeFFYZ09SUjRuNG8yTzliUDhuTkN2dTdZVU91VzM4OVNEeEIzeWFKcw?oc=5",
+          "date": "2026-08-30T07:00:00.000Z",
+          "source": "Telangana Today"
+        },
+        {
           "title": "Two men arrested with 750 gms of ganja in Quthbullapur",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNkxpcFFmUmtMUHhHb1k5dnhFdlhmMC1jY3dPN0cyQ3pVZlB6Wms2Rjh1UXZaUWFYdjhYSXprMVIwdU9SaXRiYkYzek40V3lUYmU3MnRwNm4teUhDQ2tzQnRDaERYaGpvaTdpZjJIM3diTXFGcU9zVEFTcl9wV1huOFF1UkdxWUhlMnI1SExaVQ?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNkxpcFFmUmtMUHhHb1k5dnhFdlhmMC1jY3dPN0cyQ3pVZlB6Wms2Rjh1UXZaUWFYdjhYSXprMVIwdU9SaXRiYkYzek40V3lUYmU3MnRwNm4teUhDQ2tzQnRDaERYaGpvaTdpZjJIM3diTXFGcU9zVEFTcl9wV1huOFF1UkdxWUhlMnI1SExaVdIBlAFBVV95cUxOTDZmV2FKMEZ4bFljZGpyMWQ3M0JaUHJ2RDgxbzZnTWRmMk9IbFdTaWVER2luMXFXMGNOZkc2eGNZRmxiNWRfaE01VkYwU05GX3NKNlZSX0J3bjd4eXZOdkllNVdWTTgyQmNDNVMtV0hPOHZCNEVHVVUzcnZGcnNUMDJyUW5mMW82OWdPSjRKblNoOGtH?oc=5",
           "date": "2026-08-24T07:00:00.000Z",
-          "source": "The Siasat Daily"
-        },
-        {
-          "title": "Jeedimetla man arrested after NCMEC flags online activity",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNanNxLXlJZGx1aTBtZkRTR3cxZVZrYkx2emE3M1RYMVY1Q2w5ZWJJZHZXN1dPUjFkcWJfYWo1Y08yemVOS2kzLTVtWGVMamVVc1VZa3hLSXNCRW9UV2ZmRUdIeHNUS29FXzZzN200cVBBRWxFVkNoVVpEUVBMZ2pxaVpJUGJLNzRwbFE?oc=5",
-          "date": "2026-08-20T07:00:00.000Z",
-          "source": "Hyderabad Mail"
-        },
-        {
-          "title": "Fire breaks out near Vasantha Chemicals unit in Jeedimetla",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQd3JTN3BZcm13cnJaV2daWFVMSHJjZ1EyREY3RkliRHFMTUNJU0pGZm45ZzdaWTE3ekw2ODU1bkN4LWZNY2dMalJyT2EycGQ3b3I2UEZieGhSTG1lbnhJZUJ2WDVXd1B4MXBXZFU5bXdYUlpxTnhVSWFicUZnR013ZGFsU3VFNnpOVW1hdTZkb2tGZzZO?oc=5",
-          "date": "2026-06-16T07:00:00.000Z",
           "source": "The Siasat Daily"
         }
       ]
     },
     "Ward 130 Subash Nagar": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Subash Nagar\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Ward 129 Suraram": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Suraram\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -611,6 +586,12 @@
           "source": "The Times of India"
         },
         {
+          "title": "6-month-old girl kidnapped in Suraram",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPenZja2pxWUQzaklEdXNYTnc3N0Q0T3ExM3BaeU1oeF82djFRTF9CWkNQdjZHdHRUVFFvTW9wSnJXVmhEaUlsa0ZYcFNkeWtCbjZnVDF3aGVLLVZhbWh0LXRDaThWaUNyczR2a0xoVk9xY3pFY0NGWjBLSkZ0Q0I1TFd0dWJockJ0Zmd4RnZFbG0ycXNydDlPS0xEVmZsZWhEZWNoN2xtaHBzVHFYMzkxcmQ1OTPSAboBQVVfeXFMUG9HZWZTMktiZ0E1enBhWTAyRC1tamxpb3dsNHpra0cyNkVJcDFtVHJrdzJZRWFXUUtscGN6SXdUMENiUUxsLUgwYU1mVzNaVTFHbk83bXcxcEY3REVvcWtoY3E5ZGt6QlZFT2VyQWxHM3otV05fd0EyQ3ZRbjg3Z2QtTWhaYU9uTW8xeVRVOW5Nb2VTT2o1blE4N19sSzNHdVdqZGd4Y05sTlRJLWRnaHhzc2dTQzczMW53?oc=5",
+          "date": "2026-05-06T07:00:00.000Z",
+          "source": "The Times of India"
+        },
+        {
           "title": "Hyderabad: Six-month-old abducted from footpath traced within 48 hours",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTC1KLXBpZG5vY0dXaUNnLWF0cm5ocy1nVC0zMm16VF9ycGxOZTVQem1SajNZcWRiRGgzNXBSdGJLc2NaTXctckU5ZU9IWXdnNHhQWnYyUmNEWG5QZlNCcXRrTUw0cVlTS3ZBX1hzNS1neEFfVUNYSWtJd1FMYjNLeDliY2cwVTYyN3oxMVdpNUVMQ2JiVjBnLTdNSkUxamwyNmUw0gGoAUFVX3lxTE9MNWhWLUZ2WXJkd3Vfb3dUenNVdTJXclNuYWp2cl8xa0ticDhfSlhLd1Y1ZzJDX2VOT2k0SnZRbW5Jd01KSzZlSkstNE5VYlF1dWVUUkxXSmlEV08xNThuX0d3ckx6R0pzU240d0x3V1FCZEFpNmZRSkxMTnZSRDVCdnFnY3dmRk5zUExIRXZRMmNGQmIwcGJsNzh6SUxnOHh2TlhaR2k0Xw?oc=5",
           "date": "2026-05-06T07:00:00.000Z",
@@ -619,9 +600,15 @@
       ]
     },
     "Ward 125 Gajularamaram": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Gajularamaram\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Extortion case filed against two transgender persons in Hyderabad",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcXl3dWJKWkdDc192YXFWdzNJX0xOZkVid0VYY2Q4eWo0QXVtR1JQZVN5amhFN2lCSnZHM3pPWU5fT1o5X1RLMU81dXgydXZONTdZNlNDeUk1NXd5RWRydGpyczFtLWlTQnVsQ21VV0h2R2hOLVROdUY1d21rTl9mRmpXZ0luRWtrU24wZ3FlMlE0QzBIcV8w?oc=5",
+          "date": "2026-09-07T07:00:00.000Z",
+          "source": "Telangana Today"
+        },
         {
           "title": "TG-SAFE raids Gajularamaram medical shop over illegal Tapentadol sale",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVDYtb1NVQ0ZYOE5tMHZOYktrWFUxOUtGUU41aTExaGlBWUNzMUliRm9BZGwyNE1MemotejB5WUY5VE03c2FOdlRibGdiMWI0c3hiODlMc2RSZmpBQXpKRXVSR1ZRdEtlOEphY1E2bDRXSEZqcDl4bmVrYll0ckVUZzQybmFwQkxtQmpuNXg1VUtoRWlv?oc=5",
@@ -629,39 +616,27 @@
           "source": "Hyderabad Mail"
         },
         {
-          "title": "Medical Shop Raided In Hyderabad Over Alleged Illegal Tapentadol Sale",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWWNCRzluc254Sk9pVUpJRTZWU1R1S3ROS3pTS3NfMzliby0wUXBIc2g3cjE3amJUMjB5SUFYNDh6TmZDSHZwUG1TZmhzaDBQVjFMb2FhYjlFZFV1b2MwZGU5VWYxek10QWo3WDIxd1MtSlo4ZFJqbUJ4TzZLaWZETDlUV2RQVUJDR3JJR0N3WWZkZU04MkE?oc=5",
-          "date": "2026-09-04T07:00:00.000Z",
-          "source": "INDToday"
-        },
-        {
           "title": "Seven Bangladeshi Nationals Arrested for Illegal Stay In Hyderabad",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOU0Uta29jdFhGOG9YX01KR3lvd0lBQUhXWHRYTGlSaWZENXRHZHhKMF96dXF3a3VEOFJQVy1waGV2T2tycFVNUUZkWm1FV3NBdm84Z1k2dVk0TklIczZaOWlpN19CMzMwd3o4aVNXYVRNZGJsemVFUEFoQkVlR1VMeVg1TFVnMFF2Wk5vcDgzMnRydw?oc=5",
           "date": "2026-06-13T07:00:00.000Z",
           "source": "INDToday"
-        },
-        {
-          "title": "Geyser blast triggers fire at apartment in Gajularamaram, no casualties",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQ3JGVHE5Ykl1dGlZX096VTY4VDlwRnNRMWp2T3J0NHlMd2paenRpQkp6dDEycDhoZmpDUjN4MU9oOWx3MThueVRlWkdIWkFBSW5MbTlIX0IyRDRQblM1MERkd0tiNVJhS0pwNlRXd211cEdJS2pJZU9QMnJYRnhFTU03cmkyZEV2R29RSk5LU000dzV1bmJKTHNKN28tY29uM1RFedIBqgFBVV95cUxNUTZ6Ung4RDZaTE1FMDJ1VVJDWHlGLW9KYmgwTHBQOUJVUllpa05GS0FjY283YnMxekNwUFM3WWFCcFJOb3Z2ZF9CcU5tajZWZkl5eVBVTGdoVndiQWVjWVczRk8wY3hWX01yemhUOEFwcDVKWFZQTTBwdExjWG9MNDVTalRDQVNCdTFjbXVCSW9uNUw5alR1aENsRDVWSTBZM1BmMVNDand2dw?oc=5",
-          "date": "2026-05-11T07:00:00.000Z",
-          "source": "The Siasat Daily"
         }
       ]
     },
     "Ward 116 Allapur": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Allapur\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
           "title": "Cyberabad Police transfer 55 inspectors in major reshuffle",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWTVyb0FuVUVBZlZta3dTLXdlSzluWjNqRDNJQVJBeFhGWUhwM3N6OFowZGwybGVjQ3ZjSXdwVmtQM0RpQWVjUmtNWTVMWWMzMUNUQXkxU3lLbnpjV0hNZW5vLU9JNVlmcVBRajBKSVpwckVfbjFvM2Ntc2FFNmxXMUlUMXZFMFZ6OGt1RkJMZE5ZZU8x?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWTVyb0FuVUVBZlZta3dTLXdlSzluWjNqRDNJQVJBeFhGWUhwM3N6OFowZGwybGVjQ3ZjSXdwVmtQM0RpQWVjUmtNWTVMWWMzMUNUQXkxU3lLbnpjV0hNZW5vLU9JNVlmcVBRajBKSVpwckVfbjFvM2Ntc2FFNmxXMUlUMXZFMFZ6OGt1RkJMZE5ZZU8x0gGaAUFVX3lxTFBCcWtONEp6XzB3YVMzcmIzWEVSVk5jeTQ5QlVrVEdaRktRc1Azekk0NmFJd0dGNTluZm94WVNPNEVpalFFN2dycUMtaXdnUi1FdVhWaERCdlc0ZnJtSkZGNVVPTFpIbHVtcG1rdmtFcHFZZ3NsVjNCazJkX1hVOEd4c1JJQmZubGR5eFlNZXZyeGdaVTFwcUNSaUE?oc=5",
           "date": "2026-07-17T07:00:00.000Z",
           "source": "The Siasat Daily"
         }
       ]
     },
     "Ward 114 KPHB Colony": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"KPHB Colony\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -691,14 +666,14 @@
       ]
     },
     "Ward 108 Miyapur": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Miyapur\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
-          "title": "Hyderabad: Dancer arrested in sexual harassment case",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcXlPNXJReGNlQUZPVE9UM1IwNzhVUi11S3k2ekk3aTZwZTNtMTZFWkFCOXpHbGFtWHlwWHI3WDZzbGUzMnhETU1fR1FXZy14Tjk5cGZUbUNGTm1VNGx3UjQtbV9Ud2VwYUdqQzhueU1sVUVPYktrZ2FEWjR2ZEx3TEFueFY?oc=5",
-          "date": "2026-09-12T07:00:00.000Z",
-          "source": "Telangana Today"
+          "title": "Telangana EAGLE Police Arrest Suspected Drug Dealer, Seize MDMA Near Miyapur",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNR3RaeG9HTGRkSjJHSV9kREVsTVFQUGNRR2I2ci1Yc1ZSTWw1NHhCTHNZVHVhV1RsVHlGRVZkUTQxcUptUkRXci1qeXpxeXZtMDF3NkRuNnlsRHdxNzhtOExkZmNxdEVsODZFYWs1cVJiLXdoX0FwNzQ2MnQ5eHpjSmktZHZzU3Zfekxmcnp3VHFza2ZUZGdaV19Qd0dqQnNmRUZRdzBfRW1jd3BoTDF3aWt3?oc=5",
+          "date": "2026-09-21T07:00:00.000Z",
+          "source": "heraldgoa.in"
         },
         {
           "title": "Miyapur police book Dhee dance show winner Raju in cheating case",
@@ -707,23 +682,29 @@
           "source": "Hyderabad Mail"
         },
         {
-          "title": "Two foreign nationals arrested in ₹20 lakh fake currency scam in Hyderabad; ₹10 lakh recovered",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQVJWaTViT3R1VDhmVkVzVlhYbzRwOVlvUlZ5cU1OZnVGRnVnRndST204dlUtek1UUTBIdnBHblFSMGlyQllQQy1NNkp2TTFjYkZSd1FiT1AwaW9vdHJSMUJORzRkcXktOC1WYS1DN2otaDJpRnV1VlZNbmhwR2VmekE1QWdMZGFBRTVfWDNwOGFSS182cHZaNngzc1VtNjhNRWdMWWdpamJiX0lYa1JZbHRJVWNlZ0J2RlNPblNwUGRkcE1kUTl2UGRxc2dxSWQ1dlFUQThEemZDYzhtaU9ZTHBSc240a2d1WW1qbWo2SdIB9gFBVV95cUxPNklycEtic1huQ1plcFo1bXFsZkVadTI2TVl3TV9ZdXRHVzBjUFdnaGpFYjVpQ1gyaU0za2l1dkJsQnJhM19Ib1NfRnc2b0NsQ0pUV2txX1dMYUNJd0phenlGc1FjbVQ1Vng4WkFad1dsSmFVbHI2ekFBWnQzcTduX2hnMHVZdkZvZVp5b3hnanY4dnRnNzVfRm95dzhPYWI4TFdrSWJCczhFZUt2QWgzT3VEbEFTbUVYLUx1YmM2TDFyX3FPaENxdzgwYzIwYVB1NXRQakUtTFdjTEZNbDlud2Jhemc0a2k1RmJYMGpBR0QxTFBaVVE?oc=5",
-          "date": "2026-07-25T07:00:00.000Z",
-          "source": "The Hindu"
-        },
-        {
           "title": "Hyderabad woman, lover kill husband, bury body to conceal crime",
           "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOXzZCWkMySmRHTEJlMGN3NDVxeTdpSEZVMDFaRlpDdXFiNkZ2aVZScnY1YVRQSkJKZ2dmVEZ4bFZfb0RXbWlHSmpXWHZWXzk0bklYY1RDMkJaRDJ6R0l4Qk1kdE11Tmx3cmx0UjhrMXhYUDFiUEJQMElsUHlFTnJQaTNmd3k0RTJFU0UwekRZcVJ1cmgyOTM2ZER2dHExX1JkQWZXYWpCb181SjJubGVBcDNmZkRFX1FMYUdWaVhXUEd1S2RNc3NhLU15b1c5MXJt0gHWAUFVX3lxTFA2a0c5NTljSVgwY0FSTXR6Tm1vaHVxX0pQS196VnYtamg1X3VHSno5Q2RZcmdIclhkWE0xd1NpYlBKTkhWTURpNGNkRlRkTW9Nd1d4QVZxbXVjazFVYVlpX0MwMWpCeEhVS1BOczRxcWpNNlRPTXBpYTBxZWpXMkk1alM4dnhuVzFCdnh3N1J3RWx3dHVWOGlyNXFlYTFwdUZSUUVMQnRILXpyNnphSEZQeE1lbjQ1bTJKYXozQXRTdVBudS1oTGJlOXNHbmxvVVJSdVhUVHc?oc=5",
           "date": "2026-07-08T07:00:00.000Z",
           "source": "India Today"
+        },
+        {
+          "title": "Woman arrested for allegedly killing husband in Miyapur",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUU81Rk5uZHpLbnE0ZzRBb0lXM2h5SjdWSjFUVmNsdDgtZkFoRGpYZzhHc0djZ2ZBTHp0VnFmMkg5aklUSU1qem5KNnl3Ri0xSE5PQnpTNzl6UmM5cXV5N0QwTml3aU1yNnhZVzB5aGxHWXMtcjVQeHJkOE9GQjZ5NWIyMFI1akJpdGc?oc=5",
+          "date": "2026-07-07T07:00:00.000Z",
+          "source": "Telangana Today"
         }
       ]
     },
     "Ward 107 Madhapur": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Madhapur\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Madhapur OYO Murder Case Cyberabad Police Arrest Accused",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOVNmNHlhY0pfQVNlYWhZVjRJbXRFNDczUVlwRjE0VE9vSjFqLWQzNTlpejFoZE1mX2p3dmFZMmhuWHB0NG91QlY2ZEhOYUNoWVRkemVic0lDSnFYVWxWTGlVSENTajh6V0lHM3dnRVBlX2sxaW5FWXJ1XzI3alFzR0dTUE1Gcng3YUszTzg2ckowbVQ5WUxTYXRFT0pwekNhSVAwX3VLcEdoYU5TbThleklXSW15aDJSQk9nNk03RdIBxAFBVV95cUxNZWg3SGZER2tzakt6SmdqWVgyZFRIeEt0X0hHVVZCbmQyTWY2UkIzQS1BWVNyMVNUbGpIYmFZdzdCdjdBa1VlcGxPdDB4VkIwUnk4OWI1eDJhOVg2TGRScW1leDlIdmVXLU1ZWEZoMjViSWhBQWgxSFVHbElSN3RmOF93SFd4NmxTMkROQUJiYnpDS1hUMExrVHg5Nk5Hb3cxWHhObGg5Q1JkR2g5UXFucU50anFTQWkwVGdIUE5KaWNQcllX?oc=5",
+          "date": "2026-09-29T07:00:00.000Z",
+          "source": "Deccan Chronicle"
+        },
         {
           "title": "Madhapur Police Bust Alleged Prostitution Racket, Rescue Four Women",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMEEycDBubjAzMENObTFuMjRIWEplTHY3Y3k0YmVwcUJ3UFY4SUxaYW40Y1BnemZRUzZYU3U0T0xPYWl2eUd2SjdwMFZDX0hoTktib0NhU0N4UDNacS1CeGsxLWN5ZUU1V3U5OWFidl91TkxPQVJsWmY5MWlXQXlmeDRKcldPaUJ5aVhzSU5HU2hadw?oc=5",
@@ -741,30 +722,18 @@
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbXBoTHFySHdnQnJ6UG1jS1hCWWpsWFpOaEtGSWVpRkJJYkFFSy0zUjFYa3kxbUdtTUFhbnF1WDBKQ21iVndWLUhxUkxEVVI1eFpVVExndUVYeTktaDUwNjBNNFJJcEgxNkE1eFRtTmhiaWllNnQ0cTFhQk5GckxtVml1QnNCOWplNGN3WmRjeWZUcy1CUGFZ0gGcAUFVX3lxTE5VTUNIaFZrYTlFZk9Qd05CbWYwcWxBZ3lJdWZuLVNjcV9uZXNQam52M3JDM2lWeGYwSVlNQk5lTmNSeVJPZDdXdFZWNW1jc1NHWkZuajNEVElRVEFyR0FDb3dqVmVzcG1JbFVPWGw5ZnM5VE93WFc1S2ZvWk56bnJEdTgxMDQ4R3dhVFgzTlhETWV1elZ3MDRSeDN4Zw?oc=5",
           "date": "2026-09-12T07:00:00.000Z",
           "source": "The Siasat Daily"
-        },
-        {
-          "title": "‘Further action will depend on evidence’: Police defend no-arrest call; Rs 6 crore Aston Martin seized",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcFdhamZ1RVl2WklRbDljMnoyd2VmU08ybF9wSWR5dWNwNlBLb1BFWXJUUTNGczMxMFFCQ1pWU3pYN3RydkRrR1BLVm5PMHpyc0R1aG05VTVpRnFPaVczTy1ZN1pxVGs5VjlmNE9pM05VMkd2SUhhSFBBZmU0Q2ItWmhvN1pweXhxU3Q5UXRPUVlqZExWc1JDVTFjUi1ON2JEN01HY05iUWRDV2JsWnE4dVIwdGwyTU96XzZSeWprQTVsVVU0cno0S2x6SVNVZ0ttWkc2eExTVFVtdERzMmx4ZWJR0gHnAUFVX3lxTE1fdTJldlRIZ3Jja2F1UjYyYlFITFNsTmlJZHdkWWFBZDhueHJvX0hpYmR0UXliQlk3M1BSSXJhNDc1c3dVcndyd2U2VnBqZDVyTWRtb2hqZ0hLb3B2T3M0aGUtMnBmUjdrc0dNRmxmZUJ0X3JzRGZocm1SYlBya3VDcDNlbVQxTFBFUHpQNVFtNVEzcGtjV1diSk1lR0Q0YlY3M19IckNVMzE0T211dWtuMnpxTkVuLUEtdkZUSUwtOHNGUjZoT1lra1ljc0NVaTVvcFBITFpKYmloWjh5c2ZuSlJCSjF4bw?oc=5",
-          "date": "2026-08-22T07:00:00.000Z",
-          "source": "The Times of India"
         }
       ]
     },
     "Ward 109 Hafeezpet": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Hafeezpet\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
-          "title": "TGHRC seeks report on Hafeezpet woman assault allegation",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CUzdQdGw3aHdkSGdDdzd3ejFvQzZYaWs3bC1jQ2NPM3VNTi1wWFBGVVMyWC1WdlFDYWRDcnJGRERiemh2a0JCRlk4blQ0YlN0M1lNVkhTTFVEd3NEcEFvMGxadUcteWYzQ19QV0FUQm1vNWxuWlE?oc=5",
-          "date": "2026-09-22T10:31:37.000Z",
-          "source": "Hyderabad Mail"
-        },
-        {
-          "title": "Hafeezpet Assault: Home Guard Removed From Service",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA3MF9CODBQbkt4dWU3NWt3YXVWY3JpQzlDX2VYYjZVU0hmTDJXZUZXenREV004V01LYkVrQ094cXZWUzBsUFE2YUJpLXBodU5OcHpIdFlFWjVaU0dJX2RlcTh3YkEyWXg3b0huc2RPeFRUR0to?oc=5",
+          "title": "Hafeezpet station video shows woman allegedly assaulted",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPX1plREt4LUl1RlJXYm82YUFQZFFhVTZmZ3NrckEyZTRWalNXeGI3UDVmSUxjVEZjQ2oyWlAxa080QkZ5MlJZaXFGOE53MUl6QjFMNlIzbDNVRzQ0UFByZl96OThuYzBwd0tfRVFBNXRxUU10TVpxUVVvRFBIU0FnRlpZbXQ?oc=5",
           "date": "2026-09-19T07:00:00.000Z",
-          "source": "INDToday"
+          "source": "Hyderabad Mail"
         },
         {
           "title": "Telangana Home Guard arrested, dismissed for assaulting woman at Hafeezpet Railway Station",
@@ -773,22 +742,28 @@
           "source": "The South First"
         },
         {
-          "title": "Woman assaulted, dragged by hair by home guard outside Hyderabad railway station; arrested after video go",
-          "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNQVhTN3U5S2NwLThJT0VZN1pCWEc0aEhIQk9yUFFrLVVrTl9VUm1La1VwQi0zbkFTMUluak5uSHl4MWtMdVkydjVmbUFjQjgydDlMUG5zQVhZU2tXeVlMYkMwRXBFWm5hWlJaZUlrTWJXQUdRZHR0MTI0QlE2YmgxMFdITVN2alJXVy1xeGFHWXpZNjdsNjRtcmRfZ3Z0TUpDVllYaTdINFhKdjB5aENBQldSZXdxQWFmSFZQMXpUcWdMT2F6WjVRMjhVSEZnWmJMVWxrcExXS2pWb0hURmFWTFJoVmxJUjRURVhNX19ZazF1YWVXd29xVUhPUW5XbmR4emZ4akxGZ0dQZEluUi10M21OM3lHZWfSAZwCQVVfeXFMTWNoU3hMNWxTRWQtMUFob0dxNWhsZzNQZF9jV3lSWDY2UGw2TXIwajY3VE5qR2JmN3R1bW5FY0RFTVRNRW1UeGVCQm9BR2dHbmJuU1RWaVpWcGFfYWFpbkFhR05BTXl1bi1EYWZUbUJUbV92azhwN3d6Y0lLS3pvM0NmZkFGRW5GdHdBR3hwaDVoRGVCWnFFQlRoSU8xU1BqZHVXdllLRUF3U092MEVvVmJFaVk3cndaUFhnREZITDNMdmJhV2FkMmROU3QtZUZzRWRUaEZGRks0eWFuT1J1ZG1SLU5fOFRDZmV5M01PTHdkdGNJcUE2Y1Jneld2OUxIUHprYXkxTjZRTVVNdWpoalJVd0VQY0llY2RfMmo?oc=5",
+          "title": "Hafeezpet Assault: Home Guard Removed From Service",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA3MF9CODBQbkt4dWU3NWt3YXVWY3JpQzlDX2VYYjZVU0hmTDJXZUZXenREV004V01LYkVrQ094cXZWUzBsUFE2YUJpLXBodU5OcHpIdFlFWjVaU0dJX2RlcTh3YkEyWXg3b0huc2RPeFRUR0to?oc=5",
           "date": "2026-09-19T07:00:00.000Z",
-          "source": "The Times of India"
+          "source": "INDToday"
+        },
+        {
+          "title": "Viral Video Shows RPF Assault On Woman At Hafeezpet Railway Station",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaFpndHEwWmxSZ3RPanVYU1VVV09ERW9sM01rUzBtZUVTdUt2WVIyM1lXOUVhRnJaQ2wzWXJ0bTU5RC1zZkJHN19iOHVFbW8yUTNrZDhDek1lR05XclJnNmdoR0NJeE45QmFsaDJVSFlXNjRqVk43M1otMUhzZTVHRE1XeDRGbDZfRGdDZGRjU201ZkE?oc=5",
+          "date": "2026-09-19T07:00:00.000Z",
+          "source": "INDToday"
         }
       ]
     },
     "Ward 110 Chandanagar": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Chandanagar\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
-          "title": "Fire breaks out on 14th floor at My Home Jewel",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBIN0I2V1NCRlV3Z1ltQTB2QWhqdHUwdTQ0ZTRncmdWSXpuWXY3OWx0SXdkdUNLZmdSZWI1YmZESVRhOGFMNG9kRjNqczRFeXRhWHhfTHlFa01wSkNqZEpSV2gxSG54LTd0UW56RDdUaHhNb1BGeUMw?oc=5",
-          "date": "2026-10-07T16:05:46.000Z",
-          "source": "Hyderabad Mail"
+          "title": "TG SAFE raids at Hyderabad sweet shops and reveals expired goods and no licences",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRUdOd2JpLXhQUndPTDBiNHQ2cDBfeEc5NUR2RXNOWnE1alFBOUhYYm56T1NOWjdjYVNmX2p4eld1NGpncklvd0lNaXNMdGllUzFrY3Voc0l3YThJbnBLTmtteDVoYlY4NUxIQ1IteDMtZGlfenYwSXpTVWhYMlJhRFhQZ041eDRidVhXUlFtNk15ZUpMcVdyUFQwMTl2WVJ4WU82WkJUeWhyNDVIemlPdlJiWFZNLUU?oc=5",
+          "date": "2026-10-23T14:58:47.000Z",
+          "source": "Hindudayashankar"
         },
         {
           "title": "Four arrested in Balaji Jewellery heist in Chandanagar, Gold and Silver recovered",
@@ -811,14 +786,14 @@
       ]
     },
     "Ward 106 Serilingampally": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Serilingampally\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
-          "title": "Two Fake Journalists Accused Of Extortion In Serilingampally",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZEdqRUZ6V0dJdXN6NG9PdDlaVF9hTWNibGtKSHlkRHVHLU1fVUN2VzFmalk0bDItWjVvRjRBYnhsS3Q0RE5udlJIOFFCOFd1Q0tzcVJETWktUWhWeGhYX2x0OFhuY0drXzFSVVJ6MlpxOXBGa0lWUzA0ei1VTkdhZW8ta0k4MkNKU2c?oc=5",
-          "date": "2026-10-12T13:45:22.000Z",
-          "source": "INDToday"
+          "title": "Hyderabad: Two men extort woman after posing as journalists",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObTBZR3ROb2xjZWppRElDMHZrMHp3RlUwZENSal9pU3hwVllnWG5wV0ZKc01oYlM5a2NHZkUzVW80QUJkbkd4Z09nOFFkQVVlbUtHcE04ckdVbjhOM0duaXpDR3B3anBjQlNnaDlNNmhwa0M3SXo4a3Q0UEtPS2VBTk1rUVhiTHEzeFBiSThHQW9ZTVdl0gGaAUFVX3lxTE5VeEpMV0dNRk9rLXdDblZSTDk1WTRDZVN4aUhaMGh5eno1TWtRVG5raWhGaDRWYjUtVjNVMWlCNmdTTWhxdkpQTE5Yd0gtVndmSEpzbUVuLWhVR2k5UUt4MDQxSG5vdlA4RzZtYXQybDEyR2lwYVU4OFk2QktzS2pEcVlwWmd6NE5TMEQ4TkotVEtQV0VkRWRxVnc?oc=5",
+          "date": "2026-10-12T07:00:00.000Z",
+          "source": "The Siasat Daily"
         },
         {
           "title": "Kondapur excise police seize 5kg ganja, arrest two",
@@ -827,21 +802,21 @@
           "source": "Hyderabad Mail"
         },
         {
+          "title": "Is it a crime to approach courts? Telangana high court questions lack of notices in land disputes",
+          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPSE9zdWtHYVZWVFdIeEtRUjZHM21oTlM3SDl4RTdIRWVXUlpIMC1Ndy1MaWRTOXU4eEE0NVhZeUd1VDR0S3hxLWM1QzF0UktBRnZIVHBMcDMzYldfaHNMY2VPMi1vb3pCejQ3MVJhekY3YzZhdl9LTmszVk1nejNLaVd3VXRsX3BFNU9wYUJKNjdtd1h3a0NUeFBsQmtUSjg0ZW1LbElBX2NyamJkaVl1Sjk4dlBReXA0d01pTWh3ckhOa3E5X1NwWVZqU084YmM0WTFBVF9xbUdBcHd0ME5KNl9OdGV4dmpDZDZaRUhBbzRhaThRWTFfQlpJeGp1TlpCVXRB0gGIAkFVX3lxTE5zNDNId25ZYUNJQkVXYkUyZWxZWlEtVy11SWdHWU5jQXY1cDdKeUlXcFVVT1Y4YzBfbHNHbXBRaW5NSWpmVWZxUkVBQjJHVWtPb1BULVVCdUlPU1JhVS16bVMtNVRLSWJ6eGNtYkhvaVBGcVNOcUFxMFBnLV9oWmtxb0ZrVGdsMlBnUHBNWmRiXzFxdWZDU3BzQUtZdzVoa1NtS3VPNnhpbXBSV21ORlpaVTVWNFBkS3Z3TzU3c3lkM01HREk4Y3pZMmNWWExjMmRfX2Zuc01ndjRkaV9VeHp3YzhBaEhZb21jc0lQODNPNVYxa3hnMDVmUExFc3hUWG9pX1hmX1oyZQ?oc=5",
+          "date": "2026-08-07T07:00:00.000Z",
+          "source": "The Times of India"
+        },
+        {
           "title": "Telangana: ACB Raids Marri's Residence Second Time, Seize Rs 56 Lakhs Unaccountable Cash",
           "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNUWMzMWFzRjJJWW9EUHd2MFJhM3V0X3N4TWNJTmFCNHExd1ZNSEd4dG1scmpjMHNrcXhSNjd3cFAyYWQtQ2M0bDdIQU1oZFk1aFJsUlp5a0Q3cmpyTGE3dXlYbFc1Z1dwVG9DaGNmSWdSbTRmTnhHQnRsY1FVeEYxa2VydDUwQ08yVnJaRUowYmRhMGVGS2s2aEoxdzJJMnFGZVluVzVOa1lvc1d1STFUR0s0SUJ4TGdKb09ONUhSMmJuNFRvSEdFbjVvY3g5NTlfdVJyRU04cWlpWDEwRWU3LUhkd1BKZ9IB6wFBVV95cUxNS1g0WU1Mai1VcFBXM0J1NXBXTlRzaFltREcwTmloMUlpQ0RCeGdmQ19aaEI5amVLR3dzMUhJSVZ3b2dZWnNHMzR4UUpoQ1FrU0ctUFIwbG96cEZGQ2ctOElKX2VTbkhTOUlWbUpRNW5DUV93MXg5R1VtVmJmZkRJWFJjNllCRDZmUHpINXRMbnd1V3hOOGVfUWRueVhVdmQyTUNPN3JKdXVOb2hQVWxDbU5Ja1YtcXFRSmY5bFpzUThvNTVaVHZXX3pYczh6VjdkUFFjeGxfSzMxWUZ0MlJ1UDJlNWk0S2pGTmQ0?oc=5",
           "date": "2026-07-09T07:00:00.000Z",
           "source": "Deccan Chronicle"
-        },
-        {
-          "title": "Illegal belt shops raided in Hyderabad’s Madhapur",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNDJRN2UxaDE5Q3h0TUJRWnoxSzlYTk14VmE2OE81Ql9GcE5mQUVBei1mWG00QXpCeVpqOUtseXpaN0tCV3had2dmZVVHVTJ1aWhaa3RUVXNIRDQ1bVBHVGxfb2VCSjdSU1EwM2U3Z2VqZGJTUmJ2OUlsWUY2ajh3YkljNGVSV3PSAYwBQVVfeXFMUEZBUUQyMk5ZTTlONmxoTXhkZVE4NGZESzRrZVVKTlBIZElHWnh4RDA3eEMwVng2cjB0STBtdGhqR1haV19oN0RndVhtMmtObTl3dWczVC0xZ0dmOUpZXzRZWEpGekU0el9UNGdhS0tqNnhnRm05bVhSd3FvYm1HREtlakxPdm41a01IWjk?oc=5",
-          "date": "2026-06-02T07:00:00.000Z",
-          "source": "The Siasat Daily"
         }
       ]
     },
     "Ward 104 Kondapur": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Kondapur\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -851,16 +826,16 @@
           "source": "Hyderabad Mail"
         },
         {
+          "title": "Ex-AP minister Karumuri Nageswara Rao arrested in liquor case",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNzlRTjJLcHhHTHlpdUhVSFhBNGlKcTk2Q1lVeWhjeUdtNFVRVDNCV1VSZWdQUVZhLU1NUU93eTZRTE56VUJhSE16b0x4aFprTUVVSUZfNEYzUm0zcGVwWFRBLWVjQ01SVy1aZ1dSVWhhOE1idkR4NEMtdDZiQUg3M21YeE9VMHdxbF8zcUx5U3JpOFZ6MEVjQdIBngFBVV95cUxPNjhySFpfaGxObHp5MUg2emZicEJzNUIwTTc2OUJ3YTN5VVZLRk42LUk1R19heERRdWpZeFBoSmVZMmZNTWtjMFNhekwyd2pXRklOV3NnMFRpSGZ2bVVrSWt6WlR3d3Z2RE9ZNG5TYVJYc2U5X1FsSXI0aGp5bTBPazFPYThlMjdWN05kRzJ1cWdMRHJpV0s2UC1RVTdFdw?oc=5",
+          "date": "2026-08-23T07:00:00.000Z",
+          "source": "The Siasat Daily"
+        },
+        {
           "title": "Excise officials arrest four, seize ganja in Hyderabad raids",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcVBHUUVfVXFyeTIwT1lrZl9tbWZTV3ZMWkVXNzRSWkNTUkd1dmpoU0hZVXYxOFdkSFE5VGQwRFZqS0E3VFFIUm12am4tdWVOcFY4c2RLUG1Idm0zQlZGSFphdjZvLVFrZFpLRVRvaDlNVWNTaWcxdFN4Z2ZYeWFTMjI1VjREMkRwSmdQaFpEd2pNNndTNEHSAZsBQVVfeXFMTlVmdzM1MmRkSjc0bGM0aU5ZdUpBYmEzQ0VHc2JvQlN3MFU0SWxCUU9mdEkySzI0V2sxald0bjhmSTBFTDZYWDBEa1JJQWdPM1diVGFvOC02aGNtWVozVkhiVmNOU1dyNkxLWDRYRjlWMEdNaUdGMzVlNVF4eHg4MVhkTEZGLVMtTnVJZ1hyVk96NTktV3p5UzlUOWc?oc=5",
           "date": "2026-07-15T07:00:00.000Z",
           "source": "The Siasat Daily"
-        },
-        {
-          "title": "Food Safety Raids In Hyderabad Reveal Hygiene Violations",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNa0lDaUplWTJUc20xMUxHcGtwaW51R0xTQmYtYVBFVVJCRE1OYnNJY1NIWUluc3J6M1V0WUlwMHRNUHJyYUo3WC1naDgyOTlxWkNRSjdhU1dfX0d4U1RDUXBLRUliNmxvTy1iZ1NCc0ZNaGxaaENFMk5rTC1CX0RneTdvcEk?oc=5",
-          "date": "2026-06-28T07:00:00.000Z",
-          "source": "INDToday"
         },
         {
           "title": "After Shah Ghouse, Mehfil, food safety officials raid Palamuru Grill",
@@ -871,7 +846,7 @@
       ]
     },
     "Ward 78 Gunfoundry": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Gunfoundry\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -883,19 +858,31 @@
       ]
     },
     "Ward 79 Himayath Nagar": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Himayath Nagar\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Future City Police nabs interstate drug peddlers from Keralam",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWHdlUjBhTG5FMjdSSWR1WUU5aEFTSGlQNkJpLWhyOFdmY1U2N0FBckdfbTdIMDhVeUNtb2NoX0JXTWNrSGN2QzVFbGFyaEd5ZXZjV3RLTm9Fd09UNUpHOWVZY1dGRXNyak82SUdLa3ZTUndDRXVZdUlKeHlxZDNzdHJJNXljZk1tdTdpcGt6UTRZMzRvYlg2S9IBngFBVV95cUxNbWdrcEZPaDNFbGsyUXpFUmZzVHlvbHBDR2hpMWtMdWlUR3lqWHNob3NwSmRNSHFXTDBUNGRQQlNRaWVjUFJFRkd1dDJCdzVuVW83ZklTMlQ4LXBvUTdtSFpYY0lzanJ2cnVHZ09HbkdzaEJWb3lZMU1BYTMxc2Zxb0pMWEdvN1lWTkFLQVJ1NjM4RVhwVGlibGx3S25Xdw?oc=5",
+          "date": "2026-10-14T07:00:00.000Z",
+          "source": "The Siasat Daily"
+        },
         {
           "title": "Narayanguda police arrest three in phone snatching cases",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObXdKSDIwV2Z4U3ZMZEgtaGlHcy1IRDNxVFF0NmQxLXdlMGhXOWpJYS11YUpOU09pWVYxb1dLcl83SHhELXZIdjVkbTJ0NHlsMVpsX2NoWWk3YnhTN3hzeThSVGhMY2d5V3B0ZjQzODctNXptYVZUUUQwOU5JSC1BMjU5ZkE3V05jQVBBN1RpYXpRTExlMDZZdElMQQ?oc=5",
           "date": "2026-08-05T07:00:00.000Z",
           "source": "Hyderabad Mail"
+        },
+        {
+          "title": "Air India bus gutted in fire on Hyderabad ORR, crew escapes",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdnVoS3RYaS1nbk01cmhXZFJnWkVWOTF3WTlNSkRGeDVDVS1VUUtFMXlrMlZVLXhNZWx2ckZCNEhvNTFWN2xjVU56aVp0ZGJUWkdMdUFGNmgxVGx5Q0dwQXM3NldLbWUzMFAxaHB2bC1DZ2ZMa01NdlNTbmgzZUhtaVBtV01GUzlBWVp0cE41MTFydFlUYmxiNg?oc=5",
+          "date": "2026-05-26T07:00:00.000Z",
+          "source": "Hyderabad Mail"
         }
       ]
     },
     "Ward 84 Bagh Amberpet": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Bagh Amberpet\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -907,7 +894,7 @@
       ]
     },
     "Ward 81 Nallakunta": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Nallakunta\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -915,28 +902,22 @@
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUEZqdmtvWnJOVTZfZHJNbDlBd3IyaEQ4M1JENXZJSkE1bG5TTWFGMUp1VEl5dFJEQUVJT2FlVURQX09QN2hwUURabTUwd3pYOWhDdjdVXzYwakx5ak91RTBQbjJsazhocGRJbDhQZmY0TmJUS0ZCT1VhUjZmUE9oVVpNRHozR00tek52Z0lQdUxaZ9IBlwFBVV95cUxNcURFQ3ZEbnc0QTRxejNqLWZ3bkJHWUJvRGxrakhCZkwtRFpFaC1PYV9KbmpUdnFqa3NzbFR6dVZ3UENSWEFaM0IwV1NnUy1JdUZsV29GRGh5MUZlTGRZWFJCZTJaVFV5Yi1XRFdMU2p0T0lpVmkydXU0SDl5aXc3bjk3dWNkZWVxSGxxYjRYb1BSQW94ekFB?oc=5",
           "date": "2026-08-07T07:00:00.000Z",
           "source": "The Siasat Daily"
-        },
-        {
-          "title": "Hyderabad Rapido driver held for bike thefts",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQVp0aWF2eFpWRUhtLU52MmE1ZTRwVWFISl8wakR3QTloWUNUTFFxMUlCZ0tkcklsSEhZYk52NG11V1lCaGpXMWphQjFtQS1TcW1VWjdkcmFfNlVNaHVIVlVEN0VhVzdTVjJ1ZUp0S3dXZ21TWVR5VlI0TkktT2ZTZ2I1V3FtUnkwZkhUN0VfbFZCcXpvaGNuaE1BWkdoQdIBowFBVV95cUxPSjB6RXU0Y2lqYW5TLVJlZ3kxZnJFTldfZHhVRnB4V0tHQXpZVE5BZXVUODh0TVh4ZW00UTltSGlnYWkzZkNOdVgyOXFhNkZpaGgtNDZmSGRlNlFnWEFYS21GVWV6QzdvV0ZVeTVBMWVSdHhtYkpVbS1BR0s4LXRqQWs4LUFWZ3RHUk5ERWxZYjJ4cVRqVDVqamhOSGtJeWxIaVFR?oc=5",
-          "date": "2026-04-29T07:00:00.000Z",
-          "source": "The Siasat Daily"
         }
       ]
     },
     "Ward 85 Adikmet": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Adikmet\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Ward 87 Ramnagar": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Ramnagar\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
           "title": "Musheerabad Police Arrest Absconding Accused In Badrinath Death Case",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUUFrRG5OdEg4cUVVM3p3Uk8yaldfWTZjTTVMSVVrbzlzVFJ2VVNVVGd1bzVxYnNfWTFERWthUFk3TWlRcWowcmpiV1MtZzhIUE9TTGd6RTh1WkpmMkdmY1k0WUtYYlhEelZYX1JYT0FtbFgzN1RwSHlvQkZYTkRYMjNfYWtlTFkwQkF4RThMNmpZc2ZG?oc=5",
-          "date": "2026-10-05T14:51:44.000Z",
+          "date": "2026-10-05T07:00:00.000Z",
           "source": "INDToday"
         },
         {
@@ -952,51 +933,39 @@
           "source": "Deccan Chronicle"
         },
         {
-          "title": "Hyderabad: Ganja Addict Attacks UP Tourist Near Makkah Masjid, Arrested",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVjN6WWlIQlN3SnNWOEpUMHZmMDA1TGlKb2NWS1E4R2NmQUFxM1lPdDladTZSVXBLVTNwRDZUckdsTWZDY05oMnVKU2RBYzNYZFV1aDZkek92UEw3SU5pY2p3Ujc2SnFham9NWnJnMEtIb1FCTUhaUlpuaGl3elpRRjM4MFFqWXpSeklUVVlySHpkNjZiYzRVdGZOSE5vYmRWcDFTSjZubDh2N1F0VC15RC01TDlNUlk3RWpjN0liSTJMSEXSAcgBQVVfeXFMUDRkVmxNYkJoeE42T0F0Y3U2SUFNMzNFN1JPbVdQQUkxcUNkWHZsUHN2czlvRlBnbW9OY3I5Y3JUN2FBeDJLRjVLVlFqLWFrcllzSEZBUDdwczJ5WWNGaU1VeThvYXZSZjFxWUpNcG1VWW1oeEQ3cjhqS0VHem5Ra1F2ZWRPMWVEcW85SVJJNTdBU0RieWt4VFJRYjlTS1pEdndYWUI3RXduZGVRWmF5b25ZeG5Celc1QXZrWGJJVG5fNzFqYnpZU3Q?oc=5",
-          "date": "2026-07-24T07:00:00.000Z",
+          "title": "Counterfeit Currency Manufacturing Unit Unearthed In Ramnagar, 7 Arrested",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbzRFX19PTHYxb2FseFdJSGNnM0lTYU40dHBXaVNVc0dYdDBROFFOTHlwYTVpbmNZanNzTkkzUXVyR3RWcV9JaEtRSzBpejg4bVFobVJ5Y1dxb3R1Ulo4QWZIbHlQWEVYb0MxV2txOWNydFI3dTJSbmpYVFRqT2lYYXdtbWl3X2JrYTNXSl9oOWhZU3pDTlVpNGtsdUhSZjRnbmM3VDZWQlVkQzNadmVZSThUT3NQM1hRSEZyUXlnTmVib3VMbEJhY3BCaFZvV3ZRc19McNIB2gFBVV95cUxOWENHTkwyN0c4QXU2bEc0TTlDY0U1Y1VhWkFEVy1WUlhnMzRaOG1TRzFIajlEV3RNa2JoQVJHMV9zYkhIUlhoZlRKbHNXT0Z4VDhkV3FvaVFLd090TGUzT2dyN1JjX2xZdVVhUG5XQVFNd0s5X0VyX2FOZExyMkxERlR1a21UeHhLREhMbmNnSEtzRWVuN0VaR3FQdmJ5UHg3NFhQbFVqRXo5WXkzZ2JwZWFMU0ZPZkVXRDVCN1hFMTNaUFNYbGZpdlRsbUk3XzVPWUZwdmc4Q2g2dw?oc=5",
+          "date": "2026-09-01T07:00:00.000Z",
           "source": "Deccan Chronicle"
         }
       ]
     },
     "Ward 89 Gandhinagar": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Gandhinagar\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
-          "title": "Hyderabad police arrest five in 38kg ganja case",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5QcVZzV3lZaDBJU3E5bW52VHZGd3g3QkNDckU1X0VJcERVTzVEaDhuREZhRFNTMTdXWWVYOWRHcWpXaVA3OVI2RHNsUndvUUJkZkZzTHI5SUdBVnFLQ1I0RXNZY08xYmhrZnFPbXJZbjE2eUJTVzJ1amRCNA?oc=5",
-          "date": "2026-08-22T07:00:00.000Z",
-          "source": "Hyderabad Mail"
+          "title": "Gandhinagar Pocso court sentences 32-year-old man to 20 years in jail for rape, abduction of minor",
+          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNQjBuUjFmVnFRai1vQnpSWkgzZ0kxdjdjMnFuR2sxT2UyY1Y5YWlxQ3hxSnVNSVFrLU02bmJvc2xUTUswaHFXSUMzaHJVVk9iT2NYYUI5VVZ5NmZhSk95cktTWmhUVF9xYm5TQWZNdVQ5VXNMMkQyajRleVpCdXJFZHliT3J0OEdHR2xaZ1dHWGRFQVRUcC1GaTZfUEVsMi1SNTJoSVVCYm9EZHgxMV9jYlBQZm1zMHF6cGZBalRjMDktVGx1TG5rbkJJU2doZC0td0JYSTR5TDRoY2FPZFRRT3hBWnpGRXlsYVlLSlhvLVVldXUxYXMxYkRpSy1FM1p6YThwRNIBigJBVV95cUxNM2RZVGEydm1DYXFmOEpkVzRmb0M3Z29rSncxaVp5RGw2NTRyUE95aHEtRGhVZU5VWkozdUVtT3prdi11NHk1TmhaTjNxYlZGSm05LWtWRjRxNW9TRlc4UlpaZTJmaG0zREo5alEycWRQV2c4bDRrTVJMMGFXeVRKUmZvTmxzek81Y3lTUUkyZkw5Zk95eWRqeWVTSmlIa2pFS1p6NGREMnNxZkhCMkhkUjRCMjJmTElHZERtMUpISDRqT2pqb2NOaDJwZ3RKVURhVFRsS1dpVUF3Tm1yOHozV1llOEFMRkF3dDFXWWtLcFRpREdJQ19ScURFSzNXUmt1Wm1Bek5fVE1hUQ?oc=5",
+          "date": "2026-06-18T07:00:00.000Z",
+          "source": "The Times of India"
         },
         {
           "title": "Woman stabbed to death in Hyderabad",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBXX3FXTkV5TXItZnV5eHZFSTdRa0NNcmdVSml5bF82WWx6MG5aMGV1cHlHZWFTQ1lldHZtNFZFRy1XM1FDTHpqQjdZU2JvMEdYODJENUZudVIxYkZibDR2MGZZSi1QNHdyWE9WZjJHVQ?oc=5",
           "date": "2026-05-19T07:00:00.000Z",
           "source": "Telangana Today"
-        },
-        {
-          "title": "Woman stabbed to death in Kavadiguda, accused on the run",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1KYzNMbEhBek5lSC1CbEsxQlpLNTBhY0VrSzBkQmRXMXFtRURrRjNldEREdElSc3BUSDZVZ1ctOEY2bW5PY1RZX2ZxSVZ2dEdUdGd2bFNyX3hwQ3hDSW5aSXlyWjdIOXRVTlk4bmR4NU9GTGtyZ1drRDZsRzZiQQ?oc=5",
-          "date": "2026-05-19T07:00:00.000Z",
-          "source": "Hyderabad Mail"
-        },
-        {
-          "title": "Hyderabad: Woman Stabbed To Death In Apartment",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA1ZU5rU2JYbzd1QmVOTkJOYkFsc19tQjhPeU1jbEc3bFNUQkQtdy1xM3o1czlKQ2JMZndPQ1UzVWdneWZiVzJQMU8xSWZaeGczc2RKS1VxcmcyMEhlbUU5MnJIdjJLeHFfcWR4WE9yaEFjQy1RMmc?oc=5",
-          "date": "2026-05-19T07:00:00.000Z",
-          "source": "INDToday"
         }
       ]
     },
     "Ward 86 Musheerabad": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Musheerabad\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
           "title": "Musheerabad Police Arrest Absconding Accused In Badrinath Death Case",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUUFrRG5OdEg4cUVVM3p3Uk8yaldfWTZjTTVMSVVrbzlzVFJ2VVNVVGd1bzVxYnNfWTFERWthUFk3TWlRcWowcmpiV1MtZzhIUE9TTGd6RTh1WkpmMkdmY1k0WUtYYlhEelZYX1JYT0FtbFgzN1RwSHlvQkZYTkRYMjNfYWtlTFkwQkF4RThMNmpZc2ZG?oc=5",
-          "date": "2026-10-05T14:51:44.000Z",
+          "date": "2026-10-05T07:00:00.000Z",
           "source": "INDToday"
         },
         {
@@ -1012,20 +981,20 @@
           "source": "Telangana Tribune"
         },
         {
-          "title": "CGST busts Rs 32.28 crore fake ITC fraud, Musheerabad businessman arrested",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZVdYaFpZVGtaNmdud01LNFB4QWFlRUJaZzhKd2JBbXJoZkRLUUc1OHF0MWRlT3RRVnhBR290RDdmamZhcm9LTmcyMzRtS2FRRi1iSTdUX1ZNbElWajlPRGJ3UHpFaWR5NnV3NnhwUmdESUtsNG5PeWFBdTBXeW9xblFDQm5YcmREbnc?oc=5",
-          "date": "2026-09-25T07:00:00.000Z",
-          "source": "Hyderabad Mail"
+          "title": "CGST arrests Hyd trader in over ₹32cr fake ITC case",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOS2RFMHJLamdLTVRKeFYzSG5jaDkwR2h5UG8xX1BZRXhTcHJ6WmUtVGw4b2xiY2M4cG52UFJvTkxJSTJHeFdiWDRFbmNDVDVQQlh2dlRuMGVnMGY1d25BVDAxdW5tdmZtX0w1eTlMZmU0bjJ4OUNZMEw4STNkZGNoWlZndkpHczdubkR6UFRDSlpXNjdlcWRJOUxpUzRyNDdXS3EwWXdYRmYzUk5KdDVtVlR4emJhTUtmQXBTMWdYUGdzdHNZNlHSAcsBQVVfeXFMUDJFTDJyZlBxSUZELXV2Q3NUa2YwTUJrcGpPYjgtS1BPR1htQjU3Z2RFdzUyUl9TbVJTSXB5aWVsMVRoUmMwS0hEQm1zbzNTZ2gwdzZDMXdZZFU5WENCU095ZFg0OXAtZk56X1RVUkwtSmZ6X241STI5cXByeDJ3WWR4WmEybjdDYnM1M1VTQUcxLXBiaUxvdUlmUGJkYS1lZWZVRVg5OHlqRU1TaFAtdWxjWE5OMThIQ0txc0RkWWNmcXdacF9UdGIzVkk?oc=5",
+          "date": "2026-09-26T07:00:00.000Z",
+          "source": "The Times of India"
         }
       ]
     },
     "Ward 146 Boudha Nagar": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Boudha Nagar\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Ward 88 Bholakpur": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Bholakpur\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -1043,90 +1012,97 @@
       ]
     },
     "Ward 145 Seethaphalmandi": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Seethaphalmandi\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Ward 147 Bansilapet": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Bansilapet\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Ward 40 Riyasat Nagar": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Riyasat Nagar\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
           "title": "Task Force raids shops over Pakistan-made products in Habeebnagar",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbUJfZEpEcGRZdmZJZ01takdlbENyZy0tSmpXSk91bzlYenBlTVNMaS1vSG5XdHR4WVFLdHdLNnJwS3ZZRTJUS3o0RnR4N21wclFmRktqVkZuaFNVLUQzNkRUQzhQV1YteXJZS2pJNVBHLXlza2MzaUdvMUd5NzhJQi1RQWQxSmx6NTltT253U2Y2MVhp?oc=5",
-          "date": "2026-10-01T16:04:13.000Z",
+          "date": "2026-10-01T07:00:00.000Z",
           "source": "Hyderabad Mail"
         }
       ]
     },
     "Ward 36 Lalithabagh": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Lalithabagh\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Ward 35 Gowlipura": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Gowlipura\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Ward 44 Uppuguda": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Uppuguda\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
-      "items": []
+      "items": [
+        {
+          "title": "Hyderabad man gets 20-year RI for sexually assaulting minor",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaEtSV1lhMVBaUW00SXBhZUpDZm1kbVhRMy1PZjBoMXZtN3JRYTMtQ0NsZVV0amdQV0NfcFkzTURleUpLaXo2RkRGZkNVZ1M0NWVfTFE2RmVxUjFadDhBLTN1RlI2LWRrOEF2eE82M2VzcnphdEFqNnNianRwQ1FHdW5ZT0hiOEpnM2NUOTh6VXZLNmhsa1HSAZsBQVVfeXFMUDhsN3dVVGQwRVRHb3cyVkFsMF9XdEU4RjlybFpPYTNXVlBlcU1Dd092clZFYjEtSU5XZ2txZlBrb0xELUpDZXpMYi1YdVU2MnM0bGtJczBFTTZNZUdUd3BJNUY0d3J0bHAwSUU1RXNFMTRJYkoxRXhiZWpfVDZZZk9jNmFVVFVoLWVQRnBPMGV2QllBYVhhRFVCalU?oc=5",
+          "date": "2026-09-22T07:00:00.000Z",
+          "source": "The Siasat Daily"
+        }
+      ]
     },
     "Ward 45 Jangammet": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Jangammet\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Ward 48 Shalibanda": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Shalibanda\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Ward 43 Chandrayangutta": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Chandrayangutta\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
           "title": "Hyderabad police arrest rowdy sheeter after 35 years",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaVdrcjFzWWcySFYta2x2RW9OdjNmWHJXSXpiTEhYSlFXcmtqQ1gtVDZnSlVycWV6M0R4UHJxR3BRY0FJOWp3NUNObDhGZWxJUnRWY2d4c0NHQjY1YkVZSDMtay1PWVY5SUJWYWxzVkZfWUhBZ3hUWFNsZjRFTS1ScmNxV2E4LWNuNEZvYV9pWHBTWUk?oc=5",
-          "date": "2026-10-01T07:27:58.000Z",
+          "date": "2026-10-01T07:00:00.000Z",
           "source": "Hyderabad Mail"
+        },
+        {
+          "title": "Rowdy sheeter out of view for 35 years arrested in Hyderabad",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxON3pCUXEyUnB4ZWYwa21kejhkMFdYalNKLVU1TDRveE5fSXJGYUdaVXlZVnZVUHVicDVFcm5PTmV0eGdXUEhMWnpaaktla1NZM3NrODVNLTFiWnBOdjdwcjgtRWlNMkdIS0w5eXBMMnNVV2o3amNBck5WMEE5TGtYSmRXMEEyYmx1bTA2TXBLQjd6TEFyVWVZ0gGcAUFVX3lxTFBoeEtkTUJDcEZSWlQybTFnaVZic0dQbkxHR0pjWmJQT0xaVGJObDBqNjk2SndYNEVKdU4zSXJUTlVKR3Rka01LeTRWd3lPYTBjVFFZZDYzNzh5OC16Z3phVWdVb0JmYV9FRDR6YjdXNWlPcVlmWFp2VWhpRktNWGdQNjFGdHFuRlVMNUQ1MVR2M2EyaWFOYUdYazk2Yw?oc=5",
+          "date": "2026-09-30T07:00:00.000Z",
+          "source": "The Siasat Daily"
+        },
+        {
+          "title": "2 Drivers Held for Alleged Rape of Minor Girl in Hyderabad",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNU29HYjR2VkVFbHg2amJuN0xGSFRsSmhuc1JhbFBFbmRUeTRPWV9tVUVTZ3BwaFlySnUwWk41QVBCdkktQkNObnNQdXNXR0hjenFGX2l5akljTEpxMG1YbGZfN3NvSmdnY3F1VGRsaW8xUWRxU2pUUEtWRjdhV2VwVVdDa2xCVUxrY24yeUFncXYyTlFI0gGaAUFVX3lxTE40RHhMcU5hemJpMGNzNUhtME1kR0h6Vm5GNC13LWE5eUVybDRxYkJFYmZrWVBTanF3OXlGSVNUeV90OWdoSVRjZlhmQURGUFZGNHRaUlc4alpYeE9wTE9LX1RVRUdTeS15N3hTNjBDTkp2dnkyWE1xMWp2ZFdlT2dvamlMWkFBc3lVNjRIUTFuWUFRdzlQcWNVdmc?oc=5",
+          "date": "2026-09-04T07:00:00.000Z",
+          "source": "Deccan Chronicle"
         },
         {
           "title": "Hyd police arrest father after 12-yr-old’s Dial 112 call exposes abuse",
           "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSFJfXzYybm1UMmpsOExiUUxXT2VsWTF6dGVxTE02RkdpTk8wTEE2SXhrdmJzOVZFbHh5OXJHbFp0ZG9FZkJERlFSS2tocHlMVnRoU3R5bXR1eDBFUDFIYTdVZDQ5VWpRMlUwTk9OM0RXWUEwSkkxazNPXzdBM2VlX2VVU1dpTGlvMUNOTEk4UFFFb1FwTmlZUXl6US1hTGhlVFlxd3lGazAxX3QxeDd1NWI3YWQxQnduQ2hHajFnY2JHYjRUYW9BYnhuWTFyV0t5Y2Z1alhRLWVlQXc5Ti040gHkAUFVX3lxTE5pczFUNEt2UFdkWnpDYUxHM25ZUmUxVlY4emFJQzhscF9IWFlRQjVWZnluQmlsR3g0Z3RNNjZ4UzBpVUNNd2V2M0pZdE5iTi0wbmgyb1hxTmZBTGtOd21ZQVBkU2hVOXhaSGx4N3cxbUx2enpYelBsWklQaTNwdWxVQU02Y0Noajk1YW9jMjlrNGJUXzlFYll1Q1dtUTR3anIzVFBUcDJBajFtd2hZOGVMakhreHJvVmQ4OFBnUUpBSTdHblRKcVV4blB2SWR2Z0E3RkRYRkR2SjdkckZ5dFM4X01oUw?oc=5",
           "date": "2026-08-22T07:00:00.000Z",
           "source": "The Times of India"
-        },
-        {
-          "title": "Hyderabad man detained for alleged sexual assault of 12-year-old daughter",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQzBmcGF0Zm96Q0hGMEV0TzVKWnlNYms3OFRueGxNYklUWHBORkZfeWswcWxjREcwZjYtSzMyQzlsa3FrNmJoT2d6QmlmYkhScVEtcFFUdm1MNWhvWnBmZUJvVEp4LXhURExSR3hOTkdPeTJtMkNlRFIzMmpkRWRZRXBmZ3NqdHdnYVFSQWFQa1FQZy1MNG9PRG04cTA4N2k3LWc?oc=5",
-          "date": "2026-08-21T07:00:00.000Z",
-          "source": "Telangana Today"
-        },
-        {
-          "title": "Man Detained for Alleged Sexual Assault of 12-Year-Old Daughter",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQY3ptb09tUUY3RHUyd2dMSGFRczRtUGJaTXVJUFZPME16LWlBRTNCYjRaNlJSR29vMGQ3UlJjcEVJMnltelh5Tkh0bTBVUExjbXpzbENNR0tySWhhVFZvclVLTWYzeTZxeTB4UXdyUWRzRzFIOHplRmFRT01Va2xlNy1Za0h6N2FqWC1uRVVn?oc=5",
-          "date": "2026-08-21T07:00:00.000Z",
-          "source": "INDToday"
         }
       ]
     },
     "Ward 46 Falaknuma": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Falaknuma\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
           "title": "Hyderabad Man Sets Motorcycle On Fire After Row With Police",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTWplN3o5WXFRTlR4RTdFcExQbXRzTUg0bmlkZDRUTnQ4TEhSNm5JeXpzeVRhS2xQemFSOGdHRDFCcXhZRjlwN05KLUU2aWd2T2VLRGRqb3ltZnVkNmI2ZmFoSnltdzcwX29NemZDai1QbGs4cV9hazNCbUFDd3ZzQ2JKaVVzVEVP?oc=5",
-          "date": "2026-10-14T08:52:46.000Z",
+          "date": "2026-10-14T04:13:56.000Z",
           "source": "INDToday"
         },
         {
@@ -1150,7 +1126,7 @@
       ]
     },
     "Ward 47 Nawab Saheb Kunta": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Nawab Saheb Kunta\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -1168,29 +1144,36 @@
       ]
     },
     "Ward 54 Jahanuma": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Jahanuma\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
-      "items": []
+      "items": [
+        {
+          "title": "Future City Police Arrest 9 in Shabad Attempted Murder Case Over Land Dispute",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNMkd3c0EzSU5rSWliaGwyQmlIWkNYNmRsd0M4S3hKQjc5LUtLOWZMTG5VN3doOGJCRW5RaHI4eFpYNHFhRVo3ZXRxX0RkN3hoeEJGRTRNVzBnbzFCRVNxak8wOUhfSVZGSlVnZ0s4OHRmM0tRZjJjVGxCZkV3Z0loR3ZaLWxzcm5PQW81bFhlb0pmTHlXZjU0RTF0dUF2Q0JsNlBTdWF3cnBYUi11OS1TWGNVOU1SUURCVU5nWDFKVUV5YklYWjJVSFhINUZZUXpEU19nUkRzYTNYNlZDYVBjMFpyZ1BUUzNC0gHoAUFVX3lxTE0yR3dzQTNJTmtJaWJobDJCaUhaQ1g2ZGx3QzhLeEpCNzktS0s5ZkxMblU3d2g4YkJFblFocjh4Wlg0cWFFWjdldHFfRGQ3eGh4QkZFNE1XMGdvMUJFU3FqTzA5SF9JVkZKVWdnSzg4dGYzS1FmMmNUbEJmRXdnSWhHdlotbHNybk9BbzVsWGVvSmZMeVdmNTRFMXR1QXZDQmw2UFN1YXdycFhSLXU5LVNYY1U5TVJRREJVTmdYMUpVRXliSVhaMlVIWEg1RllRekRTX2dSRHNhM1g2VkNhUGMwWnJnUFRTM0I?oc=5",
+          "date": "2026-10-24T16:28:29.000Z",
+          "source": "Deccan Chronicle"
+        }
+      ]
     },
     "Ward 55 Ramnaspura": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Ramnaspura\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Ward 53 Doodh Bowli": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Doodh Bowli\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
           "title": "Two Arrested in Hyderabad for Defrauding Chennai Senior Citizen of ₹62.26 Lakh",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMko5Q2xGNEMtVHBEVmhnLWVmM2pFMWlSU3ZTOV84UmZmQ2UyT1RjWXlVZGxNQXNjeHVzN0xPWEozOWpkWUJ0dDY4UE80LVR3aDNiTFozdEdfZkZfZ0tvamtvZ1hxVXprLWtDMDdVT0lOaHFGUEhxRFUyQXNzeTRzV0dnQQ?oc=5",
-          "date": "2026-10-10T06:45:05.000Z",
+          "date": "2026-10-10T07:00:00.000Z",
           "source": "The420.in"
         }
       ]
     },
     "Ward 33 Moghalpura": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Moghalpura\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -1202,22 +1185,22 @@
       ]
     },
     "Ward 52 Puranapool": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Puranapool\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Ward 32 Patthergatti": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Patthergatti\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Ward 49 Ghansi Bazar": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Ghansi Bazar\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Ward 94 Shaikpet": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Shaikpet\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -1225,11 +1208,23 @@
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbGwzMnRCc3NzTGtUcU43Mlk0dWJ2dUh6ZmwwQ1NIb19Yd2Uya2NlUDFPZFI1bENCOVJWd2FzTk90NEtmdEFjVUFhNGR6dlVhNmFXWkU2OHFwamIyRnd4V2tYSmo1Yk9tR0tBN3I0ZmNVNE9VdW9MMTRqRmN5YWpNVHJ6SHBtUElKNk1ObFpXeU1hbktvSUHSAZsBQVVfeXFMUE5NQ3pPaGw5bklRMF9nQVR3X2pScG5aSVlnaEMzNVFrWGRFd2hKcDhCUHVnVkpLbkxRNGw5ZG9EN0tLekpIVml4NGNFMmtobWNuWlhfeVBINzQ3a3hBZHRMRXNTVHo1RzRBQmM3UWdzMzhfV2xrTXd2RDhJR2lfeE5uVVdGT2Vwb2ZSdUdyT093RjRnUU5WT3A4amc?oc=5",
           "date": "2026-09-29T07:00:00.000Z",
           "source": "The Siasat Daily"
+        },
+        {
+          "title": "Allu Sirish seeks Hyderabad police action over loud music at Shaikpet temple",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1FMzB6RUFHOWJ2aFQwMk04d2JyM3FoUzZyNXRUQ1VTUmlNM2Y1SkI1TEJRRlpYUlpPajJYNXZxWGNTRGZYeGhjU1RSbDljWnNuNHJWVlBGY0lTMXBReXgzR3lMT2lwbEE4MTBGS3F1RWUzajY4cGc?oc=5",
+          "date": "2026-09-28T07:00:00.000Z",
+          "source": "Hyderabad Mail"
+        },
+        {
+          "title": "Allu Arjun’s brother Allu Sirish calls out temple music till 3 am, tells Hyderabad Police residents are disturbed",
+          "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNZF84WUw4eEFMMWhTMUNISnc3MHpjVnFzN2xDVDdGNk1yTHdHX04xTkNZTGRrWW5zYThfQ2NNZ3ZqSTNOOWZaYUVUd2pDUUUxSUFNVm1XTjlvTnluUEhncUJDMlJnZGlKY0g0aXlYMW9lVi1qa1JyWGdPVzBVVkZUZ18tT1g1RlYxVGp3cHQtZUZsN0NtZkFWM2tCLW1zdFN3cWZMcnh6TllJTlcyTjhhdXBTUGZEdlh2SlFYRGpCQ255YW5XTkZlOVhTX1U3SVF6UmV5S2Qyd3RxV09RVXZfeHBhR2NVSXM2cXZSZXBld1gxazRNcGpqTWZ1a0xxdml3VHoxUXFSVG5wQ0RmVUVKWTRPTHLSAZoCQVVfeXFMTVBHU1JuNUpNNmZNLXZLa1RoTkF3WDNkdEx2RmkwYlp3SXZlcUs5M1lSeXhPMExiWW5CT0lqMVQtWTJ0TEpmSVhPaW5pSjk5S013VkFTOXhDWE1wMjFrdEdZSmxwTFhrcWZ1OEI4blFFcEwzUUlYanNCQ283OTBsOU5Ud0toR1pBQVpVbHdaNTNCY2NZMnZFU2pOM0ZlM0FsZTlqZFFDWDVVS1lDRVNGeHZEYmZkMmxEUXF3WDZzeWhBZExtQmI0Y0ZERmtNM2RVdldTdzY2NkV3SG1haVlza0xsQnYxM2ZyWFBQcjFuQU0tZTB1czZCREowVmFkb2QwZ3NEQWhaVVAzaWpwV283aHlCVWF1TXNzZWJR?oc=5",
+          "date": "2026-09-28T07:00:00.000Z",
+          "source": "The Statesman"
         }
       ]
     },
     "Ward 76 Mallepally": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Mallepally\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -1259,49 +1254,42 @@
       ]
     },
     "Ward 63 Mangalhat": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Mangalhat\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Hyderabad! Mangalhat police ka bohat hi bada karna!MOST want rowdy sheeter huwa giraftar",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE52ekxSMzQzdzVzbnNLODBVM1FfZVlmSkZlZ24yU2JPd3dfY3E2ckltdnA1b2NKcTZfX05TdW81eEU2cFRDNm1UWWxuVUJOTmVGTjJJb1ZCQTFEMjk1YWc?oc=5",
+          "date": "2026-10-24T15:27:05.000Z",
+          "source": "AIMA Media"
+        },
+        {
+          "title": "Mangalhat Police Arrest Abid Bin Khalid, Seize Knife and Unregistered Motorcycle",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOLUZacXpPMWswU19OcnZ1WE1ENkRrUm1NUFcwRlVLUHNkRlU4cHYwMElubmMyV3hEMVFUWUJaRHpmMnI5OHAxbEs2SlMxREE3WnZHNU1BMW1XTW1FQ3JUZ0tPMGFhTTBVWTVfSW9aNFNZbUNUbGdHZmFqTkY5eXN0b2pEUUMwOTFlam5jdDl2dnMzOThBVWxKSlBzcUFTaXVFS0Zoam12aw?oc=5",
+          "date": "2026-10-24T14:38:01.000Z",
+          "source": "Munsif News 24x7"
+        },
+        {
+          "title": "Hyderabad police arrest Abid Bin Khalid, seize knife and bike",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVzJqaERLRzRLbkhGTDVmZjk4RFlDdUk2TVVXcXNLRUt3NkphV2lmTEQyQWFlVVRlWk1sWjFpYVdfTENTWlB1RjNuNHlURlNxTmR0czFyRWR6UzE0RlVBam83VXUtT2R5STVfazE1V2w4MGJSb29IM3lYMU5pbi1sdWRR?oc=5",
+          "date": "2026-10-24T13:09:57.000Z",
+          "source": "Hyderabad Mail"
+        },
         {
           "title": "Hyderabad Police Seize Firecrackers Worth ₹10 Lakh in Mangalhat Raid, Businessman Arrested",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVVdHWTV2ZXk4a3A1OHU5QTFiOUIwRXVZcERlWXkzb2tBV3N3ZHBkZ3ZaSEZmRUdsNktoX3B4eWVhZlpsMmxSaUlrNEl0QURuY0Y4b3IwdnBKbjc5b0tQcUFTVW5zQUM2RUgzRnIzVlB1bzFfV3VuRE85N0FWSHc3bkg4X2hkaDVPSVNZSTl4VzdQd1kyZXFV?oc=5",
           "date": "2026-10-17T06:52:07.000Z",
           "source": "Munsif News 24x7"
-        },
-        {
-          "title": "Firecrackers worth ₹10 lakh seized from illegal godown in Mangalhat",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMEFSbnZERFBkUXVST24xcjdjTFFkZWJoZUthVVFscHR2N1JoNzctWVpUU2dTVkxnTC05ejViSVlGbS01T1RadnA2cXJuNjJHSmVxZEQ0LVNNeHU1OXlYNFZ2WlBhczRnLXpfRF9TVE1udlBrNGRya2VlVjExbzVoM1VjQ0RVaEdfc1NUcDlNQ1hKSG9JblZtSmIzeDRkUUFHdkdBQTBOWjd6bFpRYzRJb0Vsd0lYOGVvQ01sWXBoSkZMYXhfYkh4LU5OXzFjZDFnX0hka0ZCY9IB1wFBVV95cUxPMEFSbnZERFBkUXVST24xcjdjTFFkZWJoZUthVVFscHR2N1JoNzctWVpUU2dTVkxnTC05ejViSVlGbS01T1RadnA2cXJuNjJHSmVxZEQ0LVNNeHU1OXlYNFZ2WlBhczRnLXpfRF9TVE1udlBrNGRya2VlVjExbzVoM1VjQ0RVaEdfc1NUcDlNQ1hKSG9JblZtSmIzeDRkUUFHdkdBQTBOWjd6bFpRYzRJb0Vsd0lYOGVvQ01sWXBoSkZMYXhfYkh4LU5OXzFjZDFnX0hka0ZCYw?oc=5",
-          "date": "2026-10-16T15:46:39.000Z",
-          "source": "The Hindu"
-        },
-        {
-          "title": "Mangalhat police arrest rowdy-sheeter, seize knife",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSHVIRVBOMGZjQnlNNjAyel94d0dZV3ZUQkhvMFFGUGwyaE5BM1pjYlE2d1dmejM4Wm5GUERyUjNQSlNTQXR4RTVNWHJqOEpIYVlpbEN1NEs1bEg3eVp2M0Exa2YwOHRSMVVER29mNEFuUmhhZVYxN2FTamxKWXFVZ2ZzRV82T1phYkRXbWJYSQ?oc=5",
-          "date": "2026-10-03T15:04:11.000Z",
-          "source": "Hyderabad Mail"
-        },
-        {
-          "title": "Hyderabad: Mangalhat police arrest rowdy-sheeter with knife",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZ0ZjTXd5TE9GaEJrV3RYUmpFZC1kcWJRa25RRTJ3UUFPN0VYQWk5X3pYTV9KWkZ2NVZBOThrVGhmM2F3bHR1Sk9BWmJyZzZYUXhRZl93Wld0R0phX0ZWR3BwWVlKMGFYSVdqQ1pRY0N0SVBUWmM2SFVKbExkc2huUmJHSGZoLTAzZlkyZ1BHRVJRaThZ0gGaAUFVX3lxTE01VXloQXgxTC01WDdGQlh2QlVyQXNDeFNmWXZCdFI3YWtqMm9odF9vTjNYbVFUUXlidk1Kc1l3eEhwNFBpZmgtdVBCekVGaVdRVjZKbnNNTEk2bXg5YXVxNFl3cHZpWVc5NGN3QkRzUHpyNWJGeWp2d1ljQXk0aXJ4YzdTdnN1VGt1RE56S0ViQVFUM1ZpREkxNmc?oc=5",
-          "date": "2026-10-03T07:00:00.000Z",
-          "source": "The Siasat Daily"
         }
       ]
     },
     "Ward 64 Dattatreya Nagar": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Dattatreya Nagar\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
-      "items": [
-        {
-          "title": "Dattatreya Nagar furniture godowns gutted in massive fire",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNmd0c1RMZkpxTWdxYTM4RTdBZXFzdE01ZWloaGwzcHRBZ25na0VvYnhhaFBhUFF5cnZIV1k5WW56UUV6QXYzS25pb19ucENsNmhTMXdUM0dFOGhWODhTWE9QVkdCbVd1cW90a0pzVkIxc0FKWUpvaTl4ZUpnanRpb05B?oc=5",
-          "date": "2026-10-13T03:33:46.000Z",
-          "source": "Hyderabad Mail"
-        }
-      ]
+      "items": []
     },
     "Ward 73 Vijay Nagar Colony": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Vijay Nagar Colony\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -1309,23 +1297,17 @@
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZ0R4V2JSTFhzRlBfNUVZQzE0OWgxdC1QQTEwZlZHTDdKNEIxajBRVjhFenBtYWZEallOM0M2X3g3WW1OT2ozMHV0dHM3alM3SlFScHFvNkF5aWpuY0FhckFjTG13bVRxeDE4Ql8yT2Y4S2R3ZUR2TElQakdpTm5ZbTJOQU5NOUZTQUF2TA?oc=5",
           "date": "2026-07-08T07:00:00.000Z",
           "source": "Hyderabad Mail"
-        },
-        {
-          "title": "Mehdipatnam Police Arrested Man And Recovers Gold Worth Rs. 10 Lakh And Activa",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdlhKbkw3cnVaOG5JOGlXVmk0SjgwUUt1dVJ4bXpQbFlTc1I0bnJpVWUxamU3aFoxQXZfV1RLM1pRd0NTRU1MTGRlZ3lkTHI3b08xSXI2RVpGbGNfX254RjNOV0hXeWRYWGMzYzdEc3h2dzZlRTh1Q0RRRmpfTDV6alpPNHBzT2F3by04aGxPM1R0MGt5cnMxdFFHV2tHSkFk?oc=5",
-          "date": "2026-07-08T07:00:00.000Z",
-          "source": "INDToday"
         }
       ]
     },
     "Ward 72 Asif Nagar": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Asif Nagar\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
           "title": "Hyderabad Police Bust Illegal Gutkha Unit In Asif Nagar",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOW05OE0yZ3ZBTWRQa0JOd2hoZlFWZmo1clpKUldkeS1ib1ZIRVZnX2VkOVFnTkFUd2stZ3Z3dXZYS2gtblFTeTVPWHQ1MUthVnZWM0ZUNXowSXAzNW5Pd1JWd2w2bEJuZnAzQlA4T3dSNXVwVGlMX2Mtb2ZxSDZzbGRlVQ?oc=5",
-          "date": "2026-10-02T14:24:56.000Z",
+          "date": "2026-10-02T07:00:00.000Z",
           "source": "INDToday"
         },
         {
@@ -1339,24 +1321,18 @@
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcEo3TVBoTXVYN3I5TV9BLTdqSDB4TzJwZkpWTU5MU1JENWtRNTY2cHNFNGx1aHVnNzczZURQTUNucEwwRWpvMzZPVXZzWjFacVFOOW1sLXhJelVCNl94eXZSU21ibjNUQ2paR0JCOFJfTmwxMXpXbm9VWkZIT0ZUSUFwR1dSYjdhUzJzQ1Y3MUZBaG9o0gGaAUFVX3lxTE1ZOFJ6NXdha1hCTmNraGpKTXhPNHpNNXhuYkxxbGJzTHhvb291OVBMRnJhLVh5NFd6em41aFRMNUlxenBWOG5lOEcwandDS1VZV3dZa1dNcUhWNUFaQ1liU3dwR0FXOEdXUGNLYkMwWGJ3aFZTWnFBMlJRamF5RFNEMDU0b21TQ1BGaVozTUNkT1JaYUxUYjR5WVE?oc=5",
           "date": "2026-06-02T07:00:00.000Z",
           "source": "The Siasat Daily"
-        },
-        {
-          "title": "Dummy GST firm used to move granite, one held In ₹17cr evasion case in Hyderabad",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQdjVwajk3cjlJcWQ2NHVkX1d6a1EwVXhqMkI4TFVJVUNEM1R3ZWV1UWhUSUtaSWtobnE2a0xlN0UwNlNvelR6YWF0WUw3cF90QlUwdnFBTjBIUXcxYTg2NGhROVliVW9GcWhmTG9tQ0xGZEpTRFhKeXZQbVdqZkh3dXVCc3dOUW85VlR0dzdGNWpUZWdFVXVpZ1ZCMmc4cFlpQS1SMmhoS0ZzOHJmSW9GZ195NFhzaUppbUZrLWtqV0NCUjd2M1UyOU1mdHVNYjhXd1IyZ0M5T3BaLVZEWERDZWVLX3gtc1FPWmVN0gHwAUFVX3lxTFBEQlJ6UllnbmE0OFB5ZGoxMFBqN21ZLTYzQ1JSN1ZnbUtpTm11TmlQUFhDR3plZTRWbHBqVUpFWXk2VG40c25wU2UyTkVhUUZYejdqZS1nOWp5TW91Z1pQQS05alUyRmJ3R3dzNEp5OVlEX1Utb1dROElUd0MycE5oMFoxazZYM243aE5xXzEzbV9CNHA4VlFjWGhoNnNRUERoNG51SmFsQnN3eWxPeEZNY0NVak1jQWUwRy1LMmNnRWNZclVmOG1hZHltVTZCTjVVZVpvOE81Z3hnNTJsUHZ3SUVVQUp5RVJiU2phb2dkNA?oc=5",
-          "date": "2026-05-21T07:00:00.000Z",
-          "source": "The Times of India"
         }
       ]
     },
     "Ward 70 Mehdipatnam": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Mehdipatnam\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
-          "title": "Mehdipatnam Police Arrested Man And Recovers Gold Worth Rs. 10 Lakh And Activa",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdlhKbkw3cnVaOG5JOGlXVmk0SjgwUUt1dVJ4bXpQbFlTc1I0bnJpVWUxamU3aFoxQXZfV1RLM1pRd0NTRU1MTGRlZ3lkTHI3b08xSXI2RVpGbGNfX254RjNOV0hXeWRYWGMzYzdEc3h2dzZlRTh1Q0RRRmpfTDV6alpPNHBzT2F3by04aGxPM1R0MGt5cnMxdFFHV2tHSkFk?oc=5",
-          "date": "2026-07-08T07:00:00.000Z",
-          "source": "INDToday"
+          "title": "Reporter Tag Used to Intimidate Woman, Man Arrested in Hyderabad",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNU092TjU5RDkzTEdJZEVuM2x2U2hiUDVxUjlfRnV1UldtRWduWXEtUUpQNlpzNVUwSktlY014RVNuYWNqelJVWkZOd1UtQ2I3YkxvcURfUDNNaEdYR3JKanlsclFNQzN1WXppN1VXLVNnZG9NZ1B2dHg4NEJUc01Pb0RWSFlubHd1WUlvZ0o0Q3ZWcDQ?oc=5",
+          "date": "2026-08-15T07:00:00.000Z",
+          "source": "Hyderabad Mail"
         },
         {
           "title": "Hyderabad police arrest house burglary accused, recover ₹10 lakh gold",
@@ -1379,9 +1355,15 @@
       ]
     },
     "Ward 71 Gudimalkapur": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Gudimalkapur\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Fire breaks out at furniture warehouse in Gudimalkapur",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZlJ2QTNPblVxLWJ2SFV0SFBPSHJLaEx3SExTTXpySzdEVEw0OHUycjNQRGUyQlAwc091ZVR1NkxlU3QxVS1VNkc5OXhMRlV6TnFWa1JpaG5GcURFUS0zbmU4U3RLbDhaLUtqbEwzUFh0cnktdGFaekZXVzVPWkNoUWo4Q3BoWVZvV1g3RmJLcVNtMHc?oc=5",
+          "date": "2026-08-23T07:00:00.000Z",
+          "source": "Hyderabad Mail"
+        },
         {
           "title": "Gudimalkapur police arrest five in Hyderabad mobile phone theft gang",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQV1czbW93dDVuZ0NiSk1VOWtBZWk0UDBxY1kxM3ZkMTJMbDZ0LVh3U2kwSEg4dmpETDBZdHlZMl91N0ozQ3QxOTNZd1k2bGpZVE9RY3p5SGFRdzBKdi1hT19nTThscC1CeHFtbWdvVW9FenI2cXVnVnF3VUM4SjdmZExOd3hHajc5ZmhYRFhPMmlGVUFtWkVZa1pPcw?oc=5",
@@ -1389,27 +1371,21 @@
           "source": "Telangana Today"
         },
         {
-          "title": "Two-Wheeler Theft Cases Cracked in Hyderabad, Seven Stolen Vehicles Recovered",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcTFYcFVqbG85UmhNSHpGSmdQWHBrZ3l4cmUtb1p1NkJtTEFyeTQ3OVo1dTRTVXBUbkpJRXBzSnNXVmtFbFVyOUo0Y1g0TnVoOUZqNjBGQzJzSVhfLTNiZ1lyUER2RV9vV2RQY2RPT1JYU0thdjAtRTRBMkloWmFXSEhlcjVCc3ZqQXZicUxPNmQtWTR6MkhneEgya09mSXM?oc=5",
-          "date": "2026-07-13T07:00:00.000Z",
-          "source": "INDToday"
+          "title": "Fire Breaks Out at Gudimalkapur Wood Factory",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQTZvNkdTYXNRQzlMaWZrenlOcW9pWm83SlJBVzdEbS11NWpCYkllakQzTmphNzF1bkZBenJrQWlscllRcURQTG1QNWJYb2ltckZ4ancyUGRPZENGWm1WODNrbko1dkVzVEU3TDRjZVNxYVZoR1NWR25LTWFYY3F2RHRYcUNIV3dnQUUzV25GbzZUQndXSFE?oc=5",
+          "date": "2026-06-23T07:00:00.000Z",
+          "source": "Hyderabad Mail"
         },
         {
           "title": "Hyderabad Police raid 8 gyms in Gudimalkapur over banned steroids",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVHJWMEJHZk1KdFNHZ2ZlVFdUdzNKa2YwWHNOcm1CZzNScjdYOFNBODFKNUZjd1F4UkdRUWdJSC1LbDk4WXpEZllqcFIxbVpmZEQ4cUM3ZlNNUGFRbElkaDhKTHc0Q3g3N19mdEVqSTdqaVFPeHpmUWdTT0d1cmY1RUtyM01ET2NoVXN2dWpDdW5XUzE3a0NZdVlmaXhNUdIBowFBVV95cUxQaFByNm43a3hHbTc3MV96cWV4dVBRbi1DaVpaWVVCS1llc3lUQ29GaWt2dzc4ck9QMGF0MjdSNkFPV1NsTzV3SlNYYlR5Wld5djJEVE4xd1VLeGdpY3hPOVl2NWZNb2tvUW5kVEc5ODc5UWhlcjdCa0VweFQxVUtoVDF5QWt0dldJMEpDRG1RLUdKbzNUT242OTVsUUh5R2pJeFJZ?oc=5",
           "date": "2026-06-18T07:00:00.000Z",
           "source": "The Siasat Daily"
-        },
-        {
-          "title": "Hyderabad police probe moneylender harassment after fruit vendor’s suicide",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTGtNWmZVTC15WDU2ZzNfbHdRbENKVzBqRVp0b1V4QmFHM29NVjhOZGhrdi0tSkNoTXlIdmJWVVEyaFgyeXNJMnZGVUoyeVhIalNLclVmc3NkNGRTVEROSXY4aEQ2T3FHNkxudi1lS2RkbG5GUVYtRGtCQVk0cUFjdTFmSGJmUkdLb3dHR0p0YWJNVmxhUGpVYUdjNG5KNkRGcnc?oc=5",
-          "date": "2026-06-05T07:00:00.000Z",
-          "source": "Telangana Today"
         }
       ]
     },
     "Ward 69 Nanal Nagar": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Nanal Nagar\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -1421,7 +1397,7 @@
       ]
     },
     "Ward 68 Tolichowki": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Tolichowki\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -1439,19 +1415,19 @@
         {
           "title": "Eight arrested for trafficking, sexually exploiting minor girl in Hyderabad",
           "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQcUtZNm9VTjZwSXdjbWd0NWdyMG1WVjRGa1k4bG5vNHBEYktYYldHMXdMWFRQSmV0MmgxWDdHc1NlMlpBY3pEbWt1TjFJRzBwc0RxREx2Nnl6RjJXSW1ydEpOdEMweHVSRk5SYm10UUdYZG5jaXByd3pIckNwWC0tMGlHOEloRnlQSFFJbUdJejNuQzQyNFRMVEl4T2gwQVlfZWNjSnkzcU5mZ2Y3QzN6M2xXcWpEdTdILTBVUkdNOERLQ2pJZzBNU0YwUkduZmhQTTRZM1ZrRUZTLUnSAeIBQVVfeXFMTjdBRGduQVVuOThEVjBPYTVxTm1WbWRKRVBqa2V3Rl9IQ2wtbUZJckoxZEJSalZTX3o0c3U1bV9ZOFZocTFTeHNJMi1SRzdhVHJGM3NhM2VQYUZpSFAzeFVvdllEc0VCbjltYkRRMnVIZV9JWENKMGFUdE9oX0dYSWhmNDlyUHk5WVJ1RWdwVGFVQU1QWFp2U3NkVDVIN0pBeFAxTmhQNm93QXVHdTktWEhlZDIyaW80ZXlkdHZIMzFWNjhOTnVXZ1k0aHl3VUVoTUxwNUNNY24zNGNzWmxNSlNQUQ?oc=5",
-          "date": "2026-10-10T16:43:01.000Z",
+          "date": "2026-10-10T07:00:00.000Z",
           "source": "The Hindu"
         },
         {
           "title": "Tolichowki: 8 held for trafficking, exploitation of minor girl",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRXdtSEFYcjZySVJZaFVSZEdnLVRtdjRVdTFNMjZsTUltOHRySUxScmRVaFVILTNKMzFHMlRCSUtYOEo1Q1FpYXJpTEtacnBLZVI3OEI4d0lQRDN3TzF2SjdQVkw1dXVxNGlNclZXUVFnaEFSSkl3aXJqZ08xUXR2NUZLWXRVc3FsUnBwcE9TQW9Eb0RPY2Nj0gGcAUFVX3lxTE5tOUpVenpqdTdTLTAyM2hLS3JlWU0wbUVPd3ZfNmpYbmp5OUVPWHIzLTdCYzFKTkU5WEIwT3hyNzBJMHN5SzZ1YnBmYklvVU1ndUd2S3FRWEx6cWNxZEZBcDk3ZEZ0WVJMVUp4Skc1Y2ZqS21ZeUZ0TnowOVVhRGRuV2NaQUtEQW95OHI1emJISUpRQm5JV3lScVZ3cA?oc=5",
-          "date": "2026-10-10T16:15:45.000Z",
+          "date": "2026-10-10T07:00:00.000Z",
           "source": "The Siasat Daily"
         }
       ]
     },
     "Ward 67 Golconda": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Golconda\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -1463,25 +1439,25 @@
         {
           "title": "Youth Stabbed During Golconda Dargah Urs Celebrations",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQXRYUUxiZGhZQko0QWNSWjJPaTVJekxrM3dmUC1qUGVnRzkxV3VnNDBoaDFORGhmOWFsb2FRNEdMT2pHb3hLOU01WHE3eW9NeUh4R1lYdDVLclZYbENzWk1GT2l3UnBId0h1VlJnRURoSm4wYjEzMHdZczNyLU9ORQ?oc=5",
-          "date": "2026-10-11T10:31:45.000Z",
+          "date": "2026-10-11T07:00:00.000Z",
           "source": "INDToday"
         },
         {
-          "title": "Class 12 pass, but treated patients: 23-year-old fake doctor arrested in Hyderabad",
-          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPaHpoSHZEdnVUV0UtSmhrZ3Fnc29VLVdjY1ROTllHcHJEUlBLSTY0VVo4WFI4U3g5a284VC1yVVZfVkNzalNpcFNrZ3Vtc2NHZ01IVFEyM2VZUWF5ajZDeHExVzQ5TTFBS0Q0MUdpaTMtR3d5LWVTLW1UYXdhZmJNdEZGZHFMb09EUXhxbDl5SFZ2Tk1MMjlKaTVBWk91RkM3b25fcVB4Q0MxTGJZRzh0M1l5V2NjQ2tlb256N3E1YWctTWVoUUxWRzF5QmlScnBDd2tjS0Z6T0FWYkNwNkRMWE96ZG5ubWp2Tjdla3R1U0NqN0Ns0gH6AUFVX3lxTE9DYjRLWm9RZ1lqTDlxVkE1a2xZbVJUczVJNUVfTFhfa2Y0R2R6RGlwbkhlaWxIMWREZno3YTE4TW1renN5WS1kcjcwN2J3b1BmVS16TExyZUJHOTM3M3VJNFFtMTNIVXVoc0ZNbktyVFd3VlRhM2gxSTU2bmQ4X3pFS1luWm5jaV9NTk85Q2N0bFBTQ2I2dU1vZDlKMFZtWlZ1aEwwcGJUV2lnamV3dDF2YzN5Xy1aUnJoa180MHVkSWE3UHhndTZGaFhyOERzZHBRUHlZWW1EbkpYSHRHNlNPN2wya0hWRWd6Sk5BeU5aMzZmOWNIWE9zNHc?oc=5",
-          "date": "2026-09-24T07:00:00.000Z",
-          "source": "India Today"
+          "title": "One arrested for stabbing man during urs in Hyderabad",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVEtJaEdqMURQQlFITEU0QXNlQVktbEZyQ1JIZXduWDctUDBmTFpUcmhjTU5yU3lLMmhnU0FveFNlZmhxbERUX1hTenMtMHN3SDdlWF9yS183bkhYREtNNDVRRTVCZzJvRFBseGM4eDNrSnFRMmVKOF9FYjNGbk1BS25PR1p4Tzc1VW01dGdn0gGTAUFVX3lxTE9BSXRTU3lCcTdwNXhSMkFYNFBDOWlXeHVNSDFybGg5NlpsWWgxSXlDSkZXMmo4UE5VakhUS2xrZTZfSTlqaVpyejNHY2t1cll4T0JtQVFady1OY2JKVXpvWTRIVDYwaXpNY2J0MVNkdGVBbGVKUVdaNTAwLTJHc0FLWHlLNDVfMk5zZUN2SVRhUzd1SQ?oc=5",
+          "date": "2026-10-11T07:00:00.000Z",
+          "source": "The Siasat Daily"
         },
         {
-          "title": "Hyderabad man with no medical qualification poses as doctor, treats patients in Golconda; arrested",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRDRVMG1GdUQzeU9QYUVwMlJUMnF6THBPLWRjUkJNTTRDMnMwMTdKU2lWVmd4NmJBc0d2YnRpRnV3UW9MNmZMcVVFb21NTF8tNHZJVDJKa0FDdnFxajRtR0RldHozR29xV050ZFc2YlRQVkZ6dkhEUUJTdWVxZnF2TGZDXzdKcjRjM2VFYmZtNzdTUHZZUU5rTEJtUkgtQTBkMGE5VHZaSTAxeXJxb0UwVk9FaEJQWG9QMTY4SWs1aVVHT1dlQTlZek5R?oc=5",
-          "date": "2026-09-24T02:53:38.000Z",
-          "source": "NewsMeter"
+          "title": "Hyderabad Hotel Murder: Woman Found Dead, Lover Missing",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbXZqZnNvbmtCSjhtNUZuSWpHXzRJN2NFZW1nQ3AwWG9ET3BpT05QNU1KbUJhVG5QUVMxc3luTXlwbllwVzFpQXVfZWlvQTB5VWlXSmtJOV9MYTJBa0NZdnZYQmFQSThidlJqYTdxNVFmeE1VbXNYOU0zdjRLSU1qdA?oc=5",
+          "date": "2026-09-30T07:00:00.000Z",
+          "source": "INDToday"
         }
       ]
     },
     "Ward 66 Langar Houz": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Langar Houz\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -1499,7 +1475,7 @@
       ]
     },
     "Ward 100 Sanath Nagar": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Sanath Nagar\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -1523,49 +1499,49 @@
       ]
     },
     "Ward 98 Ameerpet": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Ameerpet\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
-          "title": "Ameerpet Lodge Murder: Woman Killed Over Marriage Dispute",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYk1PQWRRak9yN3UyT3RnMW1FX2xodVB0aVpvWUVDVXVQTXZlUEV4RVNJbGJFQTZVbldCN0N0VVZtdnoyRW1JQjdEU3h2NEQwakFKaUI3djBETUFYYmMzZlZybWdBeVBLcXhhYXFaWVVfb2o2WnJVaHpvLVBaWEZWTlozZG4?oc=5",
-          "date": "2026-09-29T07:00:00.000Z",
+          "title": "2 arrested in Hyderabad for Rs 29 lakh 'digital arrest' cyber fraud scheme",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQU1lYQ3k3ZXM0X2pJNVkxVzNsdERnajhHR3d5dTRaTHEtU2JENGRnZmZZMmdIZ0w5LXQwb1dEUThvQUk1WW1DeVFmSzdOX2tFNW5rTmpQZ0s5ZjRreWlmRldMTWlHSVBRMG4wdGlha25teVVrb1RfVS10MkxjTFE5Q3VvcjdlMkdiMFFsY3hWSjJmWmNkcVMxSm1faWFNc01oMGJDVURybjk3ckJzUVB6aEc3UG9MdTVkSkxaMTRLaHM3eXBvbjNqMjROWjBYWnRqcnc?oc=5",
+          "date": "2026-10-19T05:21:00.000Z",
+          "source": "ANI News"
+        },
+        {
+          "title": "Hyderabad: How 2 Ameerpet businessmen used crypto to route digital arrest scam money",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcjFNU3VFWVVfZUhFZ2JJRkE5SV81S0VNMWRaM2JFMHE2UXVLQWJiSmp1MllzQ3BXSjFULTkyZFU1LTlWRlBzQTBXY1pqSVEyeUhrcDJPMUdVLVJ0WGlEbFZOcm04dGtqYnpXQW41M2tUM201aGRxQU1hYTNyZjU5X1RlOFREUC1UNzhuVU5mbmJJOUxOOTdWOUxpR3BRWVBIcWpHTXlwNGdNWDZPLURfYW5zNmpnRUdO?oc=5",
+          "date": "2026-10-19T03:13:11.000Z",
+          "source": "NewsMeter"
+        },
+        {
+          "title": "Hyderabad Police Arrest Two In Digital Arrest Fraud Case",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeVpmb3Q3ZElwQnZsc3dTNkljRk1fU09uVXNOaGxfWXkyWlA2c2ZQTmlpcHVZUDRUZ1VXTXVBRVFXRnBKSHVnQWFnYWpvR3ZEZFh0ZE1FNmJTWEZzdlVkZ0Q2MUREUmlBZkdPYmtRVHp3RUM2QlUwWUNrMmtzR053aTZMRVk?oc=5",
+          "date": "2026-10-18T13:23:24.000Z",
           "source": "INDToday"
         },
         {
-          "title": "Hyderabad police seize ₹1.5 lakh defence liquor",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1mLTJDN1ZUQy13Yl9weFhWODhEMmJXblhELV90UThzMlc5WEFhb2dISWxwQmhUeU5PSVBhQWFVaElXeW1hZ2Z2MVQyZDJGWENCRG45dG9kODVqUExrTW9RUzNYMFBFa2ZCYlBUTkNYNG1abFJHNVI5YjBLMExXQQ?oc=5",
-          "date": "2026-08-21T07:00:00.000Z",
+          "title": "Hyderabad cybercrime police arrest two in digital arrest fraud case",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQY3FJVk9BS3JadWVHLUtveWRaTFQxaUpSZ25GVzBpSnNNZVZHSGZITHVrNi14ZUk4ZnIzbGZwdHg5SlRzRTB5WkZzbm9jTmVtdVVVa2wxelppWlFYZU9MWHFsR1c4QkpWcW4tblJlaDNqVUVHTlVTclpKbUY3cFFvYUswRm95NmpBX1QzN2dPbVZqQQ?oc=5",
+          "date": "2026-10-18T12:10:57.000Z",
           "source": "Hyderabad Mail"
-        },
-        {
-          "title": "Hyderabad traffic police clear Ameerpet encroachments, book violators",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMkVEU0JKaE1ZeDVjelRjYTItc2dzdXpxWDBybWxjM0kxOTlVUjhJRXRMVV8ybXhXQzFhWGlIaFJITmhXUG5Rd01hQ3R0Tm54TmtEaGowRFdVMFdVdG5ReHBqVi1sLVpybTVrUzVJN041dTNpRXVTc1JVcXkxVk82QzB4ZDdUUlk?oc=5",
-          "date": "2026-08-05T07:00:00.000Z",
-          "source": "Hyderabad Mail"
-        },
-        {
-          "title": "Ameerpet Fire Triggers Traffic Restrictions In Hyderabad",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONzFCTkFYQVN2Y2t1Z2VJS3dpWnVZeWoxQS1Ec3RwdzNCSGk2dVBfQ19QUTB4VmtJOWc1ZzhhV2dPa1BrNkFFMHNXSU9oa3A2SzU4dnBtbjllSEY2WmRtaXVaRmRVbzdUMUtkQk9NWl9wekR5Q2dKcVdrLUtPalIxRUtub3Y?oc=5",
-          "date": "2026-06-04T07:00:00.000Z",
-          "source": "INDToday"
         }
       ]
     },
     "Ward 97 Somajiguda": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Somajiguda\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
-          "title": "Man tries to deposit fake Rs 55 crore cheque in Hyderabad bank; police register case",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBNMUNhQS0xM3hiZ2dSS1FqOEs3dmJwV0xCd09NTjRDRmo0bXdRTjRMYkdVQUVqajNhSWR2R05sa1BhTFotTDd6RHJCODdvYVNqMVhYcnpSaGJQNl9vMWY3bENqRUh6ckNka0hOY0NKZTNNbkl6MTZz?oc=5",
-          "date": "2026-07-24T07:00:00.000Z",
-          "source": "Telangana Today"
+          "title": "Karur Vysya Bank alleges Rs 61 crore fraud by Hyderabad firm",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNR1dRekpFRUE4SkQ5MEpMVDJEbEF2SS1xa3JuSDNTY2tabEtOdi1QUVlwak9vdF92LTdpbGdid1RjWHk3ak5XV1dwOE9ocERZZ3JmSENaT21sbHlJbERTSmMzdWJaMjlmd2Rzd3ljUVJ1d3ZSLU5DZXRZQXQ2ZXk0MEJ3?oc=5",
+          "date": "2026-09-04T07:00:00.000Z",
+          "source": "Hyderabad Mail"
         }
       ]
     },
     "Ward 96 Yousufguda": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Yousufguda\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -1589,30 +1565,42 @@
       ]
     },
     "Ward 102 Rahmath Nagar": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Rahmath Nagar\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Ward 101 Erragadda": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Erragadda\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
-          "title": "Hyderabad Police Arrest Fake Food Inspector",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcHV4c09XYkdOWnUtSDhSY1F2by0tNk9ldFdzYmZjNUQ5d0s3NENwV0RRdm9qUm14amw4NkV2MG5BS0FGRkYyN1k3TGhObTZtUnRQekhwZWpqWVlHTERieUY4VklTZ0E5SkpreUxERU5BWDJNV2RRQUpqVkdCZ3I2djlHVklVQ0RXcGJvZFZ5RkdDdEE?oc=5",
-          "date": "2026-05-31T07:00:00.000Z",
-          "source": "Hyderabad Mail"
+          "title": "RMP held for assaulting policeman, moved to Erragadda hospital in Hyderabad",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOWkNZN3lzdTc1NGlyakFOdllIeFpQUHlrazBCZnNoN0FFb2dETENYRlE3cWdqTHQ5M2NkZldqSjl0eE9zSTNWRzRhZzY0LVA1VWxZWDdkQ3NTV05tOTBWaXN5WkwxYXBKcVlzRUNjR0ZkUGl0aVRYcjRTTXBmRDdVZlZ3UHpWZVhHeFhWeXU1WV8taHN3WFRFVjNtdWpPeGNCSEVyYzhCcnNGazNOS29FMEhKbVFlT2FBWHhrMExWS0JCQmt5Q2RWcV9mTlV5b0V4U3FhMVM1SFpSWV8wdlp2Q2tFWllFQdIB6wFBVV95cUxPWC1sb3FBZXhtZW1iS185SHRZV3l0WEM1aWdCSkV3a1BfLW1zd1BrV25kcmdCTm96aW0yY2M4YWc3bVIxY2pBek5BbzZwaG1lZ19ObksxVUc5RW1DNkNEbW1zX3ZjdnhxZ2tqT2Y0M1RIU3NnXzlKcC1kUFAyR2x6Z2ZXUDdtZV9jb0JtOTRTN1FsQXRWeE9VWDdaMlR6NUxxalVCMzZTNjNEd2g0eFMxeU1iUWR1ZEJGQmEwYlM3TzNMb20xQUM4VGZFLVUwZGliVkhsOXo1amdLMU9hUUZHUGFzUEw5M0h5ZW5J?oc=5",
+          "date": "2026-10-01T07:00:00.000Z",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Telangana ACB raid on NIMS official yields assets worth Rs 100 crore",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeXZ3ZXFNQWlrb1lxNDAzeW54UEdsRVFUeGtXLWw5cHo3dGZxQ3YybjNnU0x6cjNmUmlLTkUwdXU1bXlRSFdIc05odjBZME4ta3NZd0p1TEdOa1ZNSmRpcGJBSkh2U2l6dmxoWE9SWUs4bHlNNGFkWUJKSmlfcTFQYXpHdXh4UTVNSUpmeDFFOTl2Nm5jcjlWT2U2WlBHdVhmU21XUmhqeFJaQ0NwbnlTR25TR2x5SGJjRXJSWXh1UmljSjNOdGUwV0NB0gHXAUFVX3lxTFA0emdrbWFDamktUWx2MHJLRndXWDRZWUdmYjYzODFLSndoMW5PTjNoSHhlT2MtOVYycXdtcWhDVzk3dGhQeWdtN0NCNXhWdDdVVGRiWmQtS2QzX2xUbEt3R3lOTTR0THU0bnNpYm9maGY2VGF2aWg4SG1JcEd3aE9UQXFCZDYtRVdiUWhQbjhqWWVmc0RYQUd3WkxJYUxKOHhGTERibEFHazU0eHY0czFJLUpMUWJrT3hGdW9IVUxUNmxTbmZWd0ZhbkdXV1p0RGRnaTVpSTdv?oc=5",
+          "date": "2026-09-23T07:00:00.000Z",
+          "source": "The New Indian Express"
+        },
+        {
+          "title": "ACB conducts raids at NIMS Hyderabad Dy Superintendent over assets",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQX2pYTkhlSWxWdlpPZFR6Zjhkak8tQXdnX2lRWUs3eXJ2Q2dLUUlXcWFaTVdFSVBEWGY2dUR4bzQ1MTNLUnpfUWxTM3l2S0VienBWWHpzQlp1RkI1cDVXTzVOZndtcmxBOU03LVhfWHd1THVZdExVSThIR2N3Qjl3c25xNnRXNnhCamtsRXJwU2pTVTVTVUVLQmVaTi1UVHJhbzAwUVdwdGZIeVp1R1pGX1gyWmxRc0x6OFlWQllia2NJb3c?oc=5",
+          "date": "2026-09-22T07:00:00.000Z",
+          "source": "The Hans India"
         }
       ]
     },
     "Ward 103 Borabanda": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Borabanda\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
           "title": "Borabanda Police Execute PD Act Against Illegal Belt Shop Operator",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNY0UwTERYWHZUUEl3T0RnaTR1bnN1NUoxYmhzRXJvX01PU2dESk1UU3lvcnZ5V2R4T3JwYlhEVy1fN2lDdmIzRlQ0U0ZYSmRTS2xVYjRuVFNPX1RCeldoWC0xWlI3b3hYZmVoUzdQWUI1Mk5NRGJCVDVjMEFrd3A1RWMzSWRWR1BGQmpWb25ickhLZw?oc=5",
-          "date": "2026-10-08T17:15:38.000Z",
+          "date": "2026-10-08T07:00:00.000Z",
           "source": "INDToday"
         },
         {
@@ -1628,20 +1616,27 @@
           "source": "INDToday"
         },
         {
-          "title": "Hyderabad: CRPF Constable Found Dead at Residence in Borabanda",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcV9yUU90S01TZ2c3UUE0dEFhanZjOExlTlZ6QUEtUDlidzRaOXBpSHNOU1U4N3ZCUVRVS3FBdnBONy1CUU9PMFEtRjUyX21BVTJUbFpiYmlJTFB2ODlNaXJ6YVQ1WC15TE5MSzZDd3RLTVRlZHJ2N1lURDRiVTRGdGc1QzlFeHpETFdKTlVZMF8zbFBQVzBjVEEzN2o5blZoUW1MaUkyanV3UWRYT0RyRXNLWXdGYmZnQ3NwLUtIRGxBcDdMNnZvQ05ma0wzRW_SAdQBQVVfeXFMUFBoTWl4VXMxSHFCMm1KUmdkYjJaYk9kSWYwXzVabnRURTctVlJnYzhoVXUtM0NjZXNaRVpWTlNyeEMwRXNpckFHaHlhUW9jX1djSVJtcFJXeDFJcGlFUU1UUmFXVWx3SnRJRkhYQXl0cXNoeXBST0NjbDlmc2d5ajRnTmxJV3lncnJIeEdNTzk0Q2UyelFDWW9aUzFqWDE3OEljQkRmYXdqOXhJV09rTEZpdGFQNlJ6OUlvY2NlT0xTbmQ1UmxrbENvSkNxenloQkk0U0M?oc=5",
-          "date": "2026-09-13T07:00:00.000Z",
-          "source": "Deccan Chronicle"
+          "title": "Borabanda police execute PD Act orders against alleged illegal liquor seller",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNldUZnhUbW0xRjlsNUhUay1Xc2U4c3VZNHNVVFJVdUx6OXUtMjloZmFvYlhiT0ZPM2xLVWdyY0xmV0FEQmdqaWljVXJ4OEY1cnFvSnZ4ZTJYWnVXTzZHVzkwdTZEc3hBeWpUSndMeXlNekVYeDZ0clpsc1FmMlpfUGNRWVktZw?oc=5",
+          "date": "2026-09-26T15:00:13.000Z",
+          "source": "Hyderabad Mail"
         }
       ]
     },
     "Ward 99 Vengal Rao Nagar": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Vengal Rao Nagar\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
-      "items": []
+      "items": [
+        {
+          "title": "TG SAFE raids at Hyderabad sweet shops and reveals expired goods and no licences",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRUdOd2JpLXhQUndPTDBiNHQ2cDBfeEc5NUR2RXNOWnE1alFBOUhYYm56T1NOWjdjYVNmX2p4eld1NGpncklvd0lNaXNMdGllUzFrY3Voc0l3YThJbnBLTmtteDVoYlY4NUxIQ1IteDMtZGlfenYwSXpTVWhYMlJhRFhQZ041eDRidVhXUlFtNk15ZUpMcVdyUFQwMTl2WVJ4WU82WkJUeWhyNDVIemlPdlJiWFZNLUU?oc=5",
+          "date": "2026-10-23T14:58:47.000Z",
+          "source": "Hindudayashankar"
+        }
+      ]
     },
     "Ward 150 Monda Market": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Monda Market\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -1659,7 +1654,7 @@
       ]
     },
     "Ward 148 Ramgopalpet": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Ramgopalpet\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -1669,10 +1664,10 @@
           "source": "The Siasat Daily"
         },
         {
-          "title": "Hyderabad police recover ₹1.2 lakh lost in auto",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPc18tdnlhUFYxUV9Pei1uaEJUaktzWHlYc2dJNTJDUG1Dckc2YllfWV9vTW41RDRheHZiN1FXZDM4TzBpbjFWb3ZmbDdSdWl1THI2YlhfMEs4YXhfcU9TbDE5emNOaEd4eGVDYkFwV2E3WHBlU2RxVXEzOUJQY2tXUXJMYw?oc=5",
+          "title": "Ramgopalpet police recover lost bag with ₹1.2 lakh from auto-rickshaw",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZnhBTm51c1haSzI0Uy1DVkhwTHAwcTJKQ1pJNWQ1U3B2LUh0Y2p4LTFSOWhOQUxGcUk1M3VpMzNWZ0JRd2pqN2dLUnNOa1ZybHoyME13bmZZbXZuak5EZVVoOU5HWmN6Z1hpVXhacUs0VUJLUldoOXhaOVE5Y3MzcmdpS0xyZmRVM0lsdnJ4cWJzTjVxUmViRXFtdEFvX01Qc1E2UHk5Q2pHeWJJWEFheVRvVnJfU2N6WWtBUEJXaDZkb0Z3RU5F0gHOAUFVX3lxTE04R2RFeVhoS3NjR3otUWNWQVE4cFRnVzhfTzZEVGozWWl0azB4ekxWay0zUm13Y2VLNFBQNkFNN2JLRTlIUGotYWNsbFg3UE5YQVFlYi1iajJYa0tva05uTTdrWndaZ1BCcVE4dnZYeGx5SDdiWmxYenpTVllWTUFkZTFXeV9JMHM2MndjdWVFbVJYcEJkUDZlR0lPVEpuT0psbDBhZUl2SEstODI0eHhRWUNmTEZxRzdOTHJRRGVmalNXLTA1YkR6ZEwtRVBn?oc=5",
           "date": "2026-05-19T07:00:00.000Z",
-          "source": "Hyderabad Mail"
+          "source": "The Hindu"
         },
         {
           "title": "Ramgopalpet Police Recovers Cash Bag, Returns to Owner Swiftly",
@@ -1681,15 +1676,15 @@
           "source": "Deccan Chronicle"
         },
         {
-          "title": "Ramgopalpet police recover lost bag with ₹1.2 lakh from auto-rickshaw",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZnhBTm51c1haSzI0Uy1DVkhwTHAwcTJKQ1pJNWQ1U3B2LUh0Y2p4LTFSOWhOQUxGcUk1M3VpMzNWZ0JRd2pqN2dLUnNOa1ZybHoyME13bmZZbXZuak5EZVVoOU5HWmN6Z1hpVXhacUs0VUJLUldoOXhaOVE5Y3MzcmdpS0xyZmRVM0lsdnJ4cWJzTjVxUmViRXFtdEFvX01Qc1E2UHk5Q2pHeWJJWEFheVRvVnJfU2N6WWtBUEJXaDZkb0Z3RU5F0gHOAUFVX3lxTE04R2RFeVhoS3NjR3otUWNWQVE4cFRnVzhfTzZEVGozWWl0azB4ekxWay0zUm13Y2VLNFBQNkFNN2JLRTlIUGotYWNsbFg3UE5YQVFlYi1iajJYa0tva05uTTdrWndaZ1BCcVE4dnZYeGx5SDdiWmxYenpTVllWTUFkZTFXeV9JMHM2MndjdWVFbVJYcEJkUDZlR0lPVEpuT0psbDBhZUl2SEstODI0eHhRWUNmTEZxRzdOTHJRRGVmalNXLTA1YkR6ZEwtRVBn?oc=5",
-          "date": "2026-05-19T07:00:00.000Z",
-          "source": "The Hindu"
+          "title": "Food delivery worker alleges police assault; gig workers union writes to NHRC",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPYUtZSDJtbW5YQm9vRkpBV1RxNk15aTR6LW9WaEZhOHc3NWJGd19vM3VqdEJxZ3g1eFVqOVBNUmlJYWVfbzdZRkpGR1hjQ0hRMjZWb0NReEl1VnpacGNOdkJicEpXdUdydFZlb0pWRmlDQXpkbVB3X1E3dlk2MjR0bTU0QU5GWkdyeTVUMjVPQkJsR2N0clJYelRsdy1fS2VKRm82cVdncHUzdjdtc3JQaG8wbWZtNW82b3N5czJCT0hERC1KSHdxeEw2djl1Z3RvS1ItcUFVaWxpemVwQjlqQ0ZOZ3czcnlr0gHuAUFVX3lxTE5faVFkaDBrYjJLSnlvTVgxUXR4anRyTFFOUDJNeW5JbXFoNDNPLWhOaEVmcF9LZ0FuTmdubjZaYlhhV2pvRVRWNkMxUUUzUjNXbDljVHJNS21acGtla3VMY0JScjJmRHJ0MmR0M2o5VG12Vkt3NXlwYmxxV3pjTUJFQ1B0RXc2R25mZXIxdnJ3eDBTZVc0clZ3VEt3S0p4Uk1lUGRjdm91NWFJTG82OUNpV3Z1U09NbEZPZTB4VUNCalRrTVA4Y1pXY3c1OFdIMWlNbG1DNDhmV1RKWXdPQ2FPbXJjVnhYd09jQmVTeWc?oc=5",
+          "date": "2026-05-09T07:00:00.000Z",
+          "source": "The Times of India"
         }
       ]
     },
     "Ward 149 Begumpet": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Begumpet\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -1719,7 +1714,7 @@
       ]
     },
     "Ward 90 Kavadiguda": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Kavadiguda\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -1729,27 +1724,15 @@
           "source": "The Times of India"
         },
         {
-          "title": "Woman stabbed to death in Kavadiguda, accused on the run",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1KYzNMbEhBek5lSC1CbEsxQlpLNTBhY0VrSzBkQmRXMXFtRURrRjNldEREdElSc3BUSDZVZ1ctOEY2bW5PY1RZX2ZxSVZ2dEdUdGd2bFNyX3hwQ3hDSW5aSXlyWjdIOXRVTlk4bmR4NU9GTGtyZ1drRDZsRzZiQQ?oc=5",
-          "date": "2026-05-19T07:00:00.000Z",
-          "source": "Hyderabad Mail"
-        },
-        {
           "title": "Woman stabbed to death in Hyderabad",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBXX3FXTkV5TXItZnV5eHZFSTdRa0NNcmdVSml5bF82WWx6MG5aMGV1cHlHZWFTQ1lldHZtNFZFRy1XM1FDTHpqQjdZU2JvMEdYODJENUZudVIxYkZibDR2MGZZSi1QNHdyWE9WZjJHVQ?oc=5",
           "date": "2026-05-19T07:00:00.000Z",
           "source": "Telangana Today"
-        },
-        {
-          "title": "Hyderabad: Woman Stabbed To Death In Apartment",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA1ZU5rU2JYbzd1QmVOTkJOYkFsc19tQjhPeU1jbEc3bFNUQkQtdy1xM3o1czlKQ2JMZndPQ1UzVWdneWZiVzJQMU8xSWZaeGczc2RKS1VxcmcyMEhlbUU5MnJIdjJLeHFfcWR4WE9yaEFjQy1RMmc?oc=5",
-          "date": "2026-05-19T07:00:00.000Z",
-          "source": "INDToday"
         }
       ]
     },
     "Ward 117 Moosapet": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Moosapet\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -1757,6 +1740,12 @@
           "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaGM0UUMxcXV1aUU4VUlSbUxXRFdMeFlBYnE4MHZicU5saVhKY1NveGZNaXg3SWtkVE1DNElCWWRCclZVekg1dEFNbmZIZFY4dDh1TTFkMl95N0JYSncwcWs3ZHRNcTNmV2VNaG0xVW54SUt2Y1RVaV9DbUZkYjM4N0tNVmFER1BldjB4Um05YW56a3NOb1NJVzBHcG9HQTM0NHJEWFkxanUxclVvVy0xRGoxbkc2N0xBTU94RFg0ZmRYcGFBcW1paE5GMUl0bDlkcjFZ?oc=5",
           "date": "2026-09-10T07:00:00.000Z",
           "source": "Odisha Barta"
+        },
+        {
+          "title": "Fire breaks out at EV warehouse in Moosapet, several two-wheelers gutted",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQN2NPZDdlLTZLd2tEYUFVbEhjcEZQS3hxUG1Xc1YwVUZwcmFvNkRaSHlYNEtrYXBkRkJKNUp3NnFwZEZnXzBENjlhdzlmUG0zMC1peFRHNHUwM1ZxMlhkMElRX0NoRnJzZXd5eWFva09CcGgybEJiYklzZUc5YWItR3ZCMGpKSkxQeFQw?oc=5",
+          "date": "2026-06-16T07:00:00.000Z",
+          "source": "Hyderabad Mail"
         },
         {
           "title": "Hyderabad: Fire at EV warehouse in Moosapet, no casualties",
@@ -1773,23 +1762,23 @@
       ]
     },
     "Ward 118 Fateh Nagar": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Fateh Nagar\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Ward 127 Rangareddy Nagar": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Rangareddy Nagar\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Ward 120 Balanagar": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Balanagar\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
           "title": "Three arrested for consuming MDMA, hash oil in Balanagar",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUHZlTFAzNkNkV1NGenZHLVZpdXZUeC1lXzhQbFpyb1NPeFhhSmltS0RRZWxrSGc4MGlCRFVvaU5qd3p0YWtxS3NreDZnaGx1am4wMEdZT0FhR0lhcUZEd0ZkYWRnQm9lTks2LXkxWW84MjZyb2dDbWJockNsQzB5eXZ4S2FBeXM4QjVVNEFSdGHSAZYBQVVfeXFMTU5vLVJFMlplX25jSjFoZjBtVHhueXJGallSeDlzTHZxY29WRUdERkRmLXpwa3NDVVExVk5GQS1NNV9VbDM1MXFNUFRCLVZsMHdMdlM1T3ZRMTBId1dkRFhwNldLNklVTE9SSmh2NnVSUGVIQWtEaTg1WW53NzZpbVp5c1RiUUZmckp3aUxWZzlIcmxnSlB3?oc=5",
-          "date": "2026-10-15T12:19:23.000Z",
+          "date": "2026-10-15T07:00:00.000Z",
           "source": "The Siasat Daily"
         },
         {
@@ -1813,9 +1802,15 @@
       ]
     },
     "Ward 121 Kukatpally": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Kukatpally\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Madhapur Police Bust Alleged Prostitution Racket, Rescue Four Women",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMEEycDBubjAzMENObTFuMjRIWEplTHY3Y3k0YmVwcUJ3UFY4SUxaYW40Y1BnemZRUzZYU3U0T0xPYWl2eUd2SjdwMFZDX0hoTktib0NhU0N4UDNacS1CeGsxLWN5ZUU1V3U5OWFidl91TkxPQVJsWmY5MWlXQXlmeDRKcldPaUJ5aVhzSU5HU2hadw?oc=5",
+          "date": "2026-09-29T07:00:00.000Z",
+          "source": "INDToday"
+        },
         {
           "title": "Kukatpally Police Raid Two Hotels, Detain 11 During Late-Night Checks",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1iZE5nVzl0S0RsVFZCemd0LXp1dXNQRXRhMlBpMmxXdHYwR0VRVXZEb2s1UXB0UmYyRDhHTi1HWG9BNjVQZzlFLUtfd3VqZnh2XzVjb2loYzJUeUo1NUVxb1pGUEFDVWhDblExVjA4Zi1MY3EtbEpKV0llemk?oc=5",
@@ -1829,33 +1824,33 @@
           "source": "Hyderabad Mail"
         },
         {
-          "title": "Kukatpally prostitution racket busted: 11 arrested as police raid multiple lodges, hotels",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaG9LbHV4WXRkX3VuQ0RudThaXzRvcnB6b2tmWVdWRlN0czZ5RzhZS1cyc2ZtZ1ZtbzhYME9razhkYm9IZkZNQmN5Yl8tMFRSb250eFNTZTV0SzNCZ2NNS0dqckw1SUVIS3YwS19OVWVKOXlwOXlIZTlEcjFlSFNMc2NGbENrRm53RzE1WWdTTUlvRkhnaXM5cjFGQVZBM3RhVEt5Rm1ldVdlM3FvMkRzVFdsbjZjY1g0U2RGaUxB?oc=5",
+          "title": "Kukatpally Court Sentences 3 To Life Term in 16-Year-Old Murder Case",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWk5ZYkxoWTQtb0dqTEM2UF82R29IUDYweHZrZEd0a2hwM0ZlU3hycEQ4RWdQaVVZVFVpNWpDb3JIZkl0YVg1eHl3VG5ETHpENElWMkRxWkxvbnJqQS1zdDEtbmMyNXJXZ2h5SXIyUVZzS1FTNFlFWTZvNmZRRF81M3V1M2JXdkctMmNkMUNNOHlFcW1jY2dNeG0tZmxGczdJQWhLLXpmY1A2cXBTRU1EN3BRT3lKUG4wWk1TMU1GMFUtTXlxejh5LXVOZEd6S2_SAdQBQVVfeXFMUFk2V2RWaXFrNHBSa1huMU5maWhVVG5xd283ZFNWSzdyYW5MVWRCbkhSNWJpOERDZzlBVmV0VDZYQkVyVVA5UmRUcEd5TF9wZkcwdGdNaFVvZF91eTd1QTNwU1VoTGx5TDRXRkEzNlZtSHRENkZnRzVKTWstU0ItVnNHaGNaWGtmb1dBRGFwaXBaMjlXR3FKMy1ac21NNW81TFlUYndhbm5lNEZ1N3NnX2VTcUZqZWtBYlFNNTdhd3UwT2NnRWkyVVNzREYwY1JQcTVTaE4?oc=5",
           "date": "2026-08-19T07:00:00.000Z",
-          "source": "NewsMeter"
-        },
-        {
-          "title": "Woman IPS officer goes undercover, leads midnight raid on Hyderabad pub; 9 held",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdnJ6Z1JBX21ROUhibHlnWVZkaU9HU1YtbmZnYThRazVsUlRzeFpoZkt6YXZRdFEwY2Q3dUQtcW10d04zeU9LdHVZZVpuWFhWUVZaTDV1Z29KZ0ZpQWdXQUNnNjlMMnNVVlBJQ0NqV1J2M2dJYVY3UjZMby1Lb1VZT0pRTnE3TDJLMG0tN0ZPQ3FKZTZyUkwtSXhRSnRPWWplSVJ3WldldFJOWmpDTWU0S01MODAwcVNPXzc2bFFkQXlldXFGc211aEVvV1lCZ9IB0wFBVV95cUxOZkJ4MUJKWEZnRGFzTm9tUGlKMU1RSHd4dkZkeXFxR2pmYlBMU3pZV1hxRWdWMDdnMkc4RVZGUmRSakFiM1RuRW83ZEE5Y3VYUkpldG01LW10bTQyQVBVbEw2d2x5NUF4MW91V0ZKUDlkdEJFcWozRktfT18xT2ZFak1ZRlB6bDhFUVRwaU9IU082NV9Ca2RxZlhlaWxmS0M3Y2V1eGo5WGJkVTFRRGR6STJwejZldnR4SWJfd1RUZUhJVDlQY21haTRoZnpYeTQ1dFQw?oc=5",
-          "date": "2026-06-08T07:00:00.000Z",
-          "source": "Moneycontrol.com"
+          "source": "Deccan Chronicle"
         }
       ]
     },
     "Ward 123 Hydernagar": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Hydernagar\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Ward 122 Vivekananda Nagar Colony": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Vivekananda Nagar Colony\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Ward 119 Old Bowenpally": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Old Bowenpally\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Hyderabad 90-year-old loses ₹18 lakh in digital arrest scam",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZ2tQQTdwV0xhR1dqNjMtYmVBNVJxWDVQZWNsaHFhTGtsN3pnalR4bmtma0FaRWhNSHFnZ3FSWXJ0OFlKZThoeWJUN255eV83QlBZVWZvY21id1c2eU9OOGJPMGFfMHRWOE8xY0FBdUh3OGJjcXJta2pYd2FrSDAxakFmTzN5TUxYWF9Jcg?oc=5",
+          "date": "2026-09-27T07:00:00.000Z",
+          "source": "Hyderabad Mail"
+        },
         {
           "title": "EAGLE Force arrests 2 in Old Bowenpally for selling cigarettes to minors",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeG1vM2xjejBLOW9vTmlBaW5kUGlacDIwaVY1NnE4SHhPRVN0S1VBbXU2SGdHb1dtQ0ZlRFltb01DajJuS1hieXA5YUJSMVhMSDVIR3V5aVFLS2JBak5la09YLUJ2TzdLR0VmOTVxTUY5UDhXNG9GUHpNTGVrdUZYdEhGb3A0UWxtdlFUUi1IYmJ3OS1vZWttU1IxS0wtMk5meFdUSWJR?oc=5",
@@ -1871,18 +1866,18 @@
       ]
     },
     "Ward 135 Venkatapuram": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Venkatapuram\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Ward 134 Alwal": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Alwal\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
           "title": "Kid Murdered At Gated Community, Guard Held",
           "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcVRPbDQ5OTZnc214SS11RFg5ZXdDMkZMWlBTU245eHYydGNyU1dtNEZGZkdnNkFmN2hTYXBJdl9qZTVwRFJkb2NJUVdGVEpQY0xxN05RbDAtblp0b3p4eHpDX1JHX25XZ2s4cEc1cl9VYjZfYkNVYlZvclhZNjNUYlp1cDVqMkpRTndOWjY5aG1QOUFFemVFYUJ2T3o1eTVXS0pHNTNMb2NXQXZDbXRjRGEtbkowWkY4b3p6SmFZY1FKUnJJX1B6WjgtSHNtYm1XMU5qb9IB2gFBVV95cUxQbVFYQ3ZJME5nQjhXdW1wa2JQSVRiZ0p2UlZUemVNYXgtZWppQmh4em9KcS1SMEc0VkhocHY2NHY1dEtsWm8xWmpDS2ZnSXlvLWJKU24yRG9IRFdCSmJHU0pId2hJN1VxemhDdUhBb0JnYTl1MzUxQU0wR0pSVHFxS1duZEN5X1RGSVo3NHlmQ1l1X2tWSWdZcHNvcS12ZHAzclVJODM5UG5SV0dhRDhBQWxjMGd6YjkyaE1INlNGbFpjcWpueDFVblBjVFRxTWNYeHlBQk9qWjQ3UQ?oc=5",
-          "date": "2026-10-11T12:15:06.000Z",
+          "date": "2026-10-11T07:00:00.000Z",
           "source": "Deccan Chronicle"
         },
         {
@@ -1898,17 +1893,23 @@
           "source": "The Siasat Daily"
         },
         {
-          "title": "Class 10 girl raped by 9 people over 3 days in Telangana, 8 arrested",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxONUkwTUgzUGJ4c0FLdnQ5VjNfRWU4c1pBTUFqRXpqa0tUbzFmeU5EVEUtZGphLXZ0WjFHdE45Mmx1ZXhadTROc0F1Z0NBMTgteHRMX1ZqVGozRl9Oa3Q2YU5mYmc3bkhSSHJNdmlWb1JHWi1RdGt2S0U3TmR6Zm12aU9LeUpTM05fUWRCb01MV0xETWdfYXE5cWs4aUhEMXREUWxfZGZSYnF2XzBYSFV0aDUwZnZvbW1Qc0E4emM4NE83N3EwRENWaDdYRmFsRkZGUE9UdkdfVzhJeHdl0gHiAUFVX3lxTE0tbzFJNWstUjYtbmNCWHBaUm1mNnY2SU9IMmNpbWZIaG5uMmdQbDFfVHM2MmEzWTZabmdmTk1ONGtrZXBLX3AxRTJnX2lwUi1DN29Tc2ZIQ29lcEh0c2d3VU5LZldQWG5ENlZ6a0pocEZHZFdSQzgzTENYbHFwMzMzSS1SaWs3Z1pOTkRyaTFSaDFnVTljd2xIYlZMRXdpMXB4ZXFhS3Zoem1lTGdxdG1qdUZxMVAtSmZYaHNmOGhNeHA3R01JMHp0ZF9OUVlBbVJEdl9pRXpJTUhKODZ2TGZlZ0E?oc=5",
-          "date": "2026-09-14T07:00:00.000Z",
+          "title": "16-yr-old gang-raped over two days in Hyd, 8 held",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdEFCSTFHMWZiS05QVG9pVWpqVGlTeGl2dW0zZ190bTZFenlGbWxLZkllMGRMaWFvNkFQYmMzM2lja1pCdUg5SWxfMEROcDZpVHBqc3FyVE1kVldXa3pqdjJMcjNWRVFBeFF4SGhRTzRJaDhfMUZPaVRqallrWFRPbHVNbjZpYml2eml5eFRMdm9RX3pmMTc1OFp2c1hERDF1NGFZSlljX0h1b0tuR2dpdkcwNlVZOUZIQW0wM01PM2dwdjTSAcgBQVVfeXFMTXcyUTRJN0U0VkNhX0E5blNzVzE0RFQzODhuck1rLURFTXRWZWhWNEwzWWZ6R25oWEttX3o2c21ONFhZdkFUcG10dGd0N1lKYzVsSF91dkRRaU1rY2U2Z1lKSDJjbGJDbkZsa244OUpaQjVBaVc3MF9xdHozTkktU2hpenppU3g3dENON2hSZWRMQk9sVXRJZ3VfNzE5TEJMdklCNFJOQm5aeTd1VXJNTWEyNEZNNTBGb0lXSzBkTkRSNGk1RWhyQkY?oc=5",
+          "date": "2026-09-16T07:00:00.000Z",
           "source": "The Times of India"
         }
       ]
     },
     "Ward 131 Quthbullapur": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Quthbullapur\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Quthbullapur excise police seize defence liquor worth ₹ 25,000",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TZl9IaG1QYmVFdkViZlNIZDVmMDkwWURNa0NnMVlIOVVLM1oxTUFudl9zc3c3YW81NHhCelZsQ3dsVC1vcXdYb1JRUDVsTjctbVd2RE5TWUpBWGlQZThZNF9hcTE1NVRVbmtHcFB0YS1HdFdzeHBVVmhSZzY3VnM?oc=5",
+          "date": "2026-10-23T15:07:33.000Z",
+          "source": "Hyderabad Mail"
+        },
         {
           "title": "Telangana police arrest 10 fake doctors in raids",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSVN5TFVkRVMzLTc3Z29sTmJldzJES05GYnBkNDduRGFFenpPQlRRSy1wZmNYSmc2akNkVWx6c2JjMk1XLWlOQ045QkpqRDNCWmZ3aGpEcWpfVDF2aFEtQzZIWGNlQXJRQ2xlUjdRVTkyNkJldnpUd1U2eXV5SkFCVXJyZUJ3dFZSZmxrSzFvYnE0elV2eWFfMnBibGxUSzhwbGFOTkxaZzQ3YTRJMnhJ0gG8AUFVX3lxTE56UVNGNF9zR0VlakJtVklXeWc5MWpiSXF2Q29HTk8zbUo1Wl8wRlhhQmNDbnhqR2VhNC1KeDBEUGh1SDZtVjluQi1SaEZsTlljWS1MZzE2UDhNLUtSdk5aUmZPaHRVZklpdDNUdmxWZHd3U3pUUnl5U0tFdnFGSmFVR201a0dpd2hLRGF0TVVxcGl2bXZZNGNzYjBMUnI1S2hxaVU2RU80UXVMZEVQM1dtT2w3U0RKMDFSbEpt?oc=5",
@@ -1923,20 +1924,14 @@
         },
         {
           "title": "Two men arrested with 750 gms of ganja in Quthbullapur",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNkxpcFFmUmtMUHhHb1k5dnhFdlhmMC1jY3dPN0cyQ3pVZlB6Wms2Rjh1UXZaUWFYdjhYSXprMVIwdU9SaXRiYkYzek40V3lUYmU3MnRwNm4teUhDQ2tzQnRDaERYaGpvaTdpZjJIM3diTXFGcU9zVEFTcl9wV1huOFF1UkdxWUhlMnI1SExaVQ?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNkxpcFFmUmtMUHhHb1k5dnhFdlhmMC1jY3dPN0cyQ3pVZlB6Wms2Rjh1UXZaUWFYdjhYSXprMVIwdU9SaXRiYkYzek40V3lUYmU3MnRwNm4teUhDQ2tzQnRDaERYaGpvaTdpZjJIM3diTXFGcU9zVEFTcl9wV1huOFF1UkdxWUhlMnI1SExaVdIBlAFBVV95cUxOTDZmV2FKMEZ4bFljZGpyMWQ3M0JaUHJ2RDgxbzZnTWRmMk9IbFdTaWVER2luMXFXMGNOZkc2eGNZRmxiNWRfaE01VkYwU05GX3NKNlZSX0J3bjd4eXZOdkllNVdWTTgyQmNDNVMtV0hPOHZCNEVHVVUzcnZGcnNUMDJyUW5mMW82OWdPSjRKblNoOGtH?oc=5",
           "date": "2026-08-24T07:00:00.000Z",
           "source": "The Siasat Daily"
-        },
-        {
-          "title": "Excise officials arrest three, seize over 15 kg of ganja worth ₹10 lakh in Hyderabad",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZ2N2MzlWUUd6MFZYTW83NW4xNkdxcC1OVlViLVE5SC1MVmVJcXpWOENPSDFjOXhxbmxuVkdnUlNZaENnXzlJSEZrLXpSZ0txOFR1d1JFSERydGVvNmRRaUlkVXFhVUEtOTJwVjU3bE8zTml0THFRZDBXZHF6Uk1lTGZPRUtHQnU4S3hENnhLa1Blcnc1LVJ0OWhTOHpYUkFyR1JCejc4cU9kc2hrSUxJekdNWG9mNUdxOXg0RU4tZHpyN3NLZ2E0Z0c2T2RYV01BWUdFY1ZKclhwb242d245YThqd9IB6gFBVV95cUxPazZoSzF0U0RXNHBNSWdneW1sZ1kzMEZfSjhhci05bWZxb1Z6RndkVGM4c0V1ZnJoUW5WbzF6VGd0bjl0MGFIVmgyNjF4OC16WmZ2RFpONWhOZHhBTTJheEYwbEdrRlY3NzdJZGFRVVBuQ0VHeG1pRGhjZm44YXBYQXJNd1JLU1VJdEV5UWFraFhIalQ4UUdWckpOVUlLaHNBaEo4Y2lHV214MzFaMkJ0LWk2Zl9EaTRYVkI0cXFCRHRSODVIcXh3TWdUUTVNdW9XQm1Idzh1NVpqWDEzOFdES3JONE1pelppUmc?oc=5",
-          "date": "2026-07-11T07:00:00.000Z",
-          "source": "The Hindu"
         }
       ]
     },
     "Ward 115 Balaji Nagar": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Balaji Nagar\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -1954,9 +1949,15 @@
       ]
     },
     "Ward 143 Tarnaka": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Tarnaka\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "TG SAFE raids at Hyderabad sweet shops and reveals expired goods and no licences",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRUdOd2JpLXhQUndPTDBiNHQ2cDBfeEc5NUR2RXNOWnE1alFBOUhYYm56T1NOWjdjYVNmX2p4eld1NGpncklvd0lNaXNMdGllUzFrY3Voc0l3YThJbnBLTmtteDVoYlY4NUxIQ1IteDMtZGlfenYwSXpTVWhYMlJhRFhQZ041eDRidVhXUlFtNk15ZUpMcVdyUFQwMTl2WVJ4WU82WkJUeWhyNDVIemlPdlJiWFZNLUU?oc=5",
+          "date": "2026-10-23T14:58:47.000Z",
+          "source": "Hindudayashankar"
+        },
         {
           "title": "Tension in Tarnaka as Telangana BJP chief Ramchander Rao placed under house arrest, detained",
           "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPZVNsUnliblhsRS02UWJGQXNUMXpVM2ZveDNJNTNtSWYzWFNhNV9yQXp4N0JxaVk1eXVZOEFYUjd5TE1uWUxvLWY2Ql9seGN4eWdOZEVCQmRNNGFVeDhQZkczaGhFZmdoeTJueHFhUGlwWmtFRHhoNlFuQ092MVdsZi0wWndWQ2VwQlQ3Q1BoZzB5eWFGVzZmbUpsek5DTU9wV1l3Z3l5aS1CTlpqLTM3eVlGNzFKWG9qazYxcGdNRGFhc0xGVjliTnhISTlhSk82Y3hYdlpKZGxPZnlIcEdNWWN4ZElxR3dkcDRj?oc=5",
@@ -1972,7 +1973,7 @@
       ]
     },
     "Ward 144 Mettuguda": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Mettuguda\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -1990,7 +1991,7 @@
       ]
     },
     "Ward 138 Moula Ali": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Moula Ali\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -2010,17 +2011,11 @@
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdTJlOVQ4TU9WRHRfSElZR1FsLXhKNUozMHFmZlpBQmw4S1h2MGQzODcxd1I0Z2lGR29QZ2UxcnVHMGlsMVVVZXlDQS05d0hKSUJUS1NuVkJKaE9wamFYV18zdHNnUlFpNnMzVVNCNXI1ZU82Sm1jRzZhMGFUSFV1RFFWLS1iY3pYTjRqUFY5a3VGVFBfOUE?oc=5",
           "date": "2026-05-02T07:00:00.000Z",
           "source": "Telangana Today"
-        },
-        {
-          "title": "Hyderabad Drug Lab Busted, Three Arrested By NCB",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTkVCVFY5ZHNDVzYwVG5CM19Qal9BU1Q3OGtzV25UbUQ5MV93WHBMTlJZeE9jTEgxRE1FR1pDRXJleVJONGZLdTlzX2xabm5GTU1IZm9DdHhvS242STJPOXV4WEsxQWstejZGallwWlhnMndGei1UNjFDM1VjdjNzNGF3bXgtQXZ0TkhlRHJjckU5dmtSOHowem1JWW_SAZ8BQVVfeXFMT2QxOXIxbTNWX0IwRFRLOHVXbFluRVlLbk9rVUtJYi1DWTlSZXpCRXkwNFB3RHA2M3gyeW9Cak9PeWkxZGNHazBTWnZWa0RDLVZ4X1lndXJfT2cwU29JZEo2N0R3ZHN0T3hnNUI1NVNFbFV0VDR6NDl5b0RoVDExZE5JSE1jSS0yYnlyVHlZVmtzeFVidUVMQVNVdHJ5LV9r?oc=5",
-          "date": "2026-04-22T07:00:00.000Z",
-          "source": "Rediff"
         }
       ]
     },
     "Ward 142 Addagutta": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Addagutta\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -2028,22 +2023,16 @@
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdWJKSG9qVzVUVGE2cEw5dkFob05FWUgzN1djQVNKZWlrdGdKSGd6WVR6T0p4bEh4cUZEdGN5RlhTTFdXdkduNlZyanVtUWY2bEZWOWV3eVJRbzlpTV9Id29heE9PZkN1RGxhbGI1UFk0SUFyRDJhX2p6WmxGV29GR3ROc0prLUJWa2xQWW13ckswVjIxY18xQw?oc=5",
           "date": "2026-06-08T07:00:00.000Z",
           "source": "INDToday"
-        },
-        {
-          "title": "Man robbed and murdered for ₹110 in Secunderabad; two delivery workers held",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMkx5T3lBUEF4WGowd0JrSlU3T3NBeFVVeGdyZ1B3ZUkwUWw1WVJERHdMTmJSN0ZVSFVoY2xMU29qa25kaWotUEc2LWNVQXFac2hwTHByanVYdWlZSWJXcEFSR0ZvSkNRbmFWS0pyb2tjTmVQT1p6d1Z0SVZwTDVZWUlXazNfV3FoZ3Y0ek9XVGRyWXRuQlRLMmlYYkNlRFVoTUc1bmtqcUdiLXlrWlB3OUo0NzJhcjdFblBmbmctVlVUQ3Z1M1BuNk9uSjRKTHIzVF82X3d2Q0x3Z9IB4AFBVV95cUxNRFFhSXNCT1NwcWh0elllNEdTM3VXS0dSdnQ0ME9xVVF2Z0hzTXQwS09XLU5KMmgyRUtNczJEb21PSk1lTzBGajNZVXBJQ3E2Mlg5TGN1ekFtaGNZNmJLdEZxdWU4cDhnNkNnOXJBZ0IzWElld1dva1RSUkpaZzJGMExsa0V3N2RkNGFWZEFmRjh2bkZNOElhUjFJdXNEVzdYVlZnMmdPWkpUODNrYWtCaHNqZkxFQWhTa3hWV0R5RlZfUy1mMUlOa0VFTFJGc0xHaGc5ZkoyNmJha2k2QWwwRw?oc=5",
-          "date": "2026-06-08T07:00:00.000Z",
-          "source": "The Hindu"
         }
       ]
     },
     "Ward 141 Gautham Nagar": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Gautham Nagar\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Ward 137 Vinayak Nagar": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Vinayak Nagar\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -2061,19 +2050,19 @@
       ]
     },
     "Ward 140 Malkajgiri": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Malkajgiri\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
           "title": "Telangana DGP C V Anand hails Malkajgiri police for cracking 17 key cases, stresses night patrols",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUGdJaTE0UUx3d2lYREx1dmRWQWZRT3BkZFdENm8xYll2dWRDb0YyLTdtUGVmOUtGU0dmcEZRTHE4R3c3S1V1ZE1zVkdXbDA4bXU4U2tCOUE5TXUyYWJWZnhTZGR3dlgwYVNlSFdXbV9UOXNrWG9SeGNpTElZUm54LUF3NjVJbHpVdnY5a0ZRTXVTTXhOSFdqa213NA?oc=5",
-          "date": "2026-10-15T16:42:05.000Z",
+          "date": "2026-10-15T07:00:00.000Z",
           "source": "Hyderabad Mail"
         },
         {
           "title": "Malkajgiri sees 29 pc rise in crime cases, 365 kidnapping cases",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZVVqaWUzMER4ZlNqSVpSSWNrWlNPUm5mNDlReVBXU01iSXBHWXBXbnFvbHFrWWNKYXhzOVQ3QzY3b2RHdDZqNmE4THhOSTB4V1hxNGlEd0drcWRKd2d1TlhCVi1IY1ZENXhyODlNSGs2MEFDQWdYZUZVNHJFWHN3QXdCTXpPMUxXRlJrYWg0YmdUTXF3NnNEaUZUV3pvcGPSAZ8BQVVfeXFMUGVVamllMzBEeGZTaklaUklja1pTT1JuZjQ5UXlQV1NNYklwR1lwV25xb2xxa1ljSmF4czlUN0M2N29kR3Q2ajZhOEx4TkkweFdYcTRpRHdHa3FkSndndU5YQlYtSGNWRDV4cjg5TUhrNjBBQ0FnWGVGVTRyRVhzd0F3Qk16TzFMV0ZSa2FoNGJnVE1xdzZzRGlGVFd6b3Bj?oc=5",
-          "date": "2026-10-15T15:13:00.000Z",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPblczdHZ2Uk00azhVRkxhN1duWmVTTHJjclBod3l4VUdFZ2hwZmxkS04yemw0dDVKMUJET04zWmhpSU1BZEJZUzFXaXg1b1FrU25fMDFNTDYyUE1mZ2s2ZVNUWVRMU3YtdDRmMThIQnhOWXdGNWRNQ29qWDBKQlJaUmZyazdfUno3dmp1eUF0SGF3bjNMN2ZwTV930gGfAUFVX3lxTFBlVWppZTMwRHhmU2pJWlJJY2taU09SbmY0OVF5UFdTTWJJcEdZcFducW9scWtZY0pheHM5VDdDNjdvZEd0Nmo2YThMeE5JMHhXWHE0aUR3R2txZEp3Z3VOWEJWLUhjVkQ1eHI4OU1IazYwQUNBZ1hlRlU0ckVYc3dBd0JNek8xTFdGUmthaDRiZ1RNcXc2c0RpRlRXem9wYw?oc=5",
+          "date": "2026-10-15T07:00:00.000Z",
           "source": "The Siasat Daily"
         },
         {
@@ -2091,12 +2080,12 @@
       ]
     },
     "Ward 23 Gaddiannaram": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Gaddiannaram\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Ward 22 Chaitanyapuri": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Chaitanyapuri\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -2110,19 +2099,19 @@
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORWxoQlBURHl6MzZ2M0JwTmNCV0ZuU05qcGhuTFNuNXNaajNROTY5RkJ2OWNRTU9IOXNZcjRrSFV2UlItY1BrYWpjbEJLQUswa19LTVptSlo1Y1l6bVRTYjd4djQ4cGZGSXotdVFQaVI1UEdUcFFOdEg3SkE1RjFhQUFNbC1rVWpyZUFnUw?oc=5",
           "date": "2026-09-07T07:00:00.000Z",
           "source": "Hyderabad Mail"
-        },
-        {
-          "title": "Hyderabad hate crime: Nine held for attacking vehicle transporting cattle",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOc2xnMGhvR0hqLUgycEF5dnVMdU5oVzFNamk2cEJoZWkyeThOQWlVeDdIU0Fzb2Vlek1fckNlMkoweXNjRFo1dmQ2eXh2UlhuYkF5bE0zVnlIRTdQQ3BLOUpMVnZIU0FvZzBaQk40R0MtU1FvS2p0Vi1felk2WXV2dmRVVy1KbjVXWEZ3amgyNFR4Z0gtRGhrVXkta19wYzBPMnpxRkdMNNIBrAFBVV95cUxQQnFJUVoxdHZVZmxMQm9mUDQyeElKMjNJcEdfbjYxNnNzUEtydzZfUWQtaUhucEVFNklqUkxIWVQwRTFTT2tuLUlLVVQ3eDJUaHY5UVNDZDBZYUNMbmswZXRwODlJb19GQ0plbm5aUVNDTGFjY1lsWThad0lnaGl1V2JsdlgxX0FmdnRFdWZBSnVZemprVU1IMVI1WXlsRVZPU2cwd3hRcnlZY1Nv?oc=5",
-          "date": "2026-05-12T07:00:00.000Z",
-          "source": "The Siasat Daily"
         }
       ]
     },
     "Ward 19 Saroornagar": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Saroornagar\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Former GHMC corporator denies wrongdoing in Telangana police case over school dispute",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPb0Jlc2tkaENjZnM3bVVQNUJ6SFNhRXdpU29BUGVEYVJfNTBtT1BhaU5WZ0tvRGRGRVllRENKT2lmNHZES0taUHFzRXVibTRjaVdhRGdzb19aQ3QwNEVlRFlYRUFKWjBlV01fR3Exby1ERFJzVGFkc0JaR0hlNFNpbWRtcWNhb1dQbEl0b3AxWjJxRGxhUjE4WnJfeWpmdG95QzcwVHNjZGlxSW1yQTZaZXF5TEg1ZFY4TFE?oc=5",
+          "date": "2026-09-30T07:00:00.000Z",
+          "source": "The News Mill"
+        },
         {
           "title": "Quarrel over funeral expenses leads to murder in Hyderabad",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQzFKY1ZvdFgwUkRQd2FZV0dKbUhqdTZWdU5EZHhXejA2YmdscjFFWEFSNnpmcGlZSXh4bWdOMnc0Zng5Vmgtclh5QzdFSklJY3FVUlh4SGtiRXFlM21weUJ4YVQzQWpnSUpZRG5KRi1Gb0puNndCRExjeU5qVFo0NUhUNERyQ0xwQlJIQW1XcF9rcUUt0gGaAUFVX3lxTE9HWFNaM04tSVpvbGZZSFJNNlRCZnpfNVphSjNDLVpiQzdma3Zsc2Y5d0x6OEUydGpDaVJhVkZ1S3VraVZ0dHd5cnhzdUVvWW1hSE0wREJYN0JOZEZ5bnNlRnpieVVVemdXR3J1T3VDQW03Z2R1RVdjQkFoWjU4TGZZNlVNQmxJOS1NSFRiQUVPOERsZ3pEbUFZMEE?oc=5",
@@ -2140,34 +2129,22 @@
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUHRTRjZnX1dRV1NTdUluYm90cVhncFNpZXRHZnJneE1oWDExTElTYWVGZm5ySjdMR2dpZ3lvWHJmcjMycnUyNWNTRTdQQmN3MHRNWDYyUE1PcmpHaG10TDMxdEpGd1VBbm1kTC1xVTBrS3VvS3AxSTUtMmFPQjRIbGtrajdxejBMLUdEQWk4V0h6a1E?oc=5",
           "date": "2026-07-27T07:00:00.000Z",
           "source": "Telangana Today"
-        },
-        {
-          "title": "Cops arrest auto driver with illegal pistol, ammo",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZldLVlo0elRwMk1FTzc5WVktQTBrNGpsTlNzSkY2RTFobFBhR21ncnZKaVdxQTdhVmNDbWNqVWFNQ0hGNmJjZlF2NGExWTNmVS11RDI2MHlOS0F0bktQcENLRVZ0RGpZQnNEeFItZ1lCQ0pKNGpMblR0RFRYelFMWXFiMUg4UUxxTU1aa0szNjV0VkxWTmFvUFhWaURlSTZMNElSaEFQRHlVdTNZbTdKWGRlUURua0pCQ0RTMUpZVXNJeWvSAcgBQVVfeXFMT0lXQnRhOUwxcjNQTTl6XzBDY3NUR0piTEdURnQ1R19ibEpfTnBJeWx6TmJRaDYyU25HVDFBUkQxVHg1M0F4M3dSOFJubVlRbmZjRmNCU2hNSXIxQWltbUNsRnI3aWk4dGxoZVk4SjVnSUg0bHVTYkVqUi1ITjcxeG1iN0NVQlh1cWhTc0ptSmRfaW9Nd0NPTXhhNVBia1R4THBJUHN0OVlrWGVaSl9FSTZJaERlQ25adEZKTUM5R1JzQ1ptSEJ6blg?oc=5",
-          "date": "2026-07-27T07:00:00.000Z",
-          "source": "The Times of India"
         }
       ]
     },
     "Ward 18 Lingojiguda": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Lingojiguda\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Ward 38 IS Sadan": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"IS Sadan\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
-          "title": "Hyderabad woman arrested in Rs 4.5 crore fraud case",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPelZFUWVqYUh6cFRqNVlPWlh0UElGbzMtWHpmaUZRVHZvekhOMTg5NEFhaDdJNTd6cFFhenVhRVRXQUU1eWdhR2k0MFIwMlBqcGNhMEdLbW1ERmN2dHY3d3lTSlNIdEszSWpWeGJ5bGhpZ3kxbVZpdHZsdHAtaEFQdXN4V0pyeGtGLVdrYkliQWl0d2s3Mm1WaHo1OU1lZVo2SWtqeHU4cHA2ZVFVSnF4NXFn0gG_AUFVX3lxTE9VUlgwaHdBNGxOb2pLQ1JXSWRGazJOX21ZRWJfVHNHbjJBMGJra2NBeVNvZUxjbFVUc0NLZlVuODlKcFI1RmJoX1huQzZhNDY1WlhMWDU3NFhHWEVjQ2pPZ2kySnlEU0hiVmlseEJYdEhRcUN5SjVJWnF3eFhPMzBlbkJtallTSllSaUFvSTFLdTJncl9GdG9SeTJYaTZtV091VVBzYWdTM1k1alAxaWxFempXcjRscjFaNDM4WEdZ?oc=5",
-          "date": "2026-10-08T07:00:00.000Z",
-          "source": "The New Indian Express"
-        },
-        {
           "title": "Hyderabad Woman Arrested in Rs 4.5 Crore Property Fraud Case",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRVJsMDd3dUpzS0J0Ykx3WERHaDhzZEM1MmY5VTRQVlhTUFlBSUV3SmlSajlELWN6SVB4ckdEVDVBZ20tV0xaLWJoS3FhbU1KRkVIRUhkaWtDRTY1MmRjLUlCMlNhc1dEcjhWVmtWdWwyOUFYV2JDSUIyNmp4eS1GT1V0NUVvTEhnbWc?oc=5",
-          "date": "2026-10-08T04:03:20.000Z",
+          "date": "2026-10-08T07:00:00.000Z",
           "source": "INDToday"
         },
         {
@@ -2181,11 +2158,17 @@
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPS1pEY19nLUdWclQ2Vko2YnlmM1FSMlpQenFUbmtaS3A3VFRoTUtDVlk3dk5hcXJKWjJnT2p1dmY3Unlkb2lnd21md2RYMmNsaWNEeWFMQmpBdWhhZnUxME1vMXQxcS1rM2ZQMUs5WWplcVlmLXhlQXhRXzJDZFBvUFg5ZmpVb0p1YXg0M0ZLb9IBlAFBVV95cUxQX3htRFBPVGxCRmhaVm9UYXJHbUZZTHZ3dERtNzJYVDBOMU1sNFlfY3pJQ0VCbGJka1Bnam5Vb2hIYzQ5NWFmVTJhT1Q3RmtOWGw1TjN0czgtNFgwRC05UVhjanRUamhyaE5QOHh0aTJzaTQ5T01kSjBraXpNSHY2Z2NydWJpRWNpRkRwVWMtYlRQeFZx?oc=5",
           "date": "2026-09-09T07:00:00.000Z",
           "source": "The Siasat Daily"
+        },
+        {
+          "title": "Hyderabad ATM cash box theft nets ₹17 lakh",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5UWUthVHN1YVFBWElRRE52VlplbFRPTTFtYWpycFl0S2NHczBvNDczUDQ4RDFqX1B3aDVSc01HdC1ZMGszWm1xRW9oRE01bmxjdmFFalp6dEpsLWVHWXQ0QjduN0ZRY29QdjEyZGk5X0s1MnV0MVZyelB3?oc=5",
+          "date": "2026-06-23T07:00:00.000Z",
+          "source": "Hyderabad Mail"
         }
       ]
     },
     "Ward 17 Champapet": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Champapet\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -2197,14 +2180,33 @@
       ]
     },
     "Ward 27 Akbarbagh": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Akbarbagh\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
-      "items": []
+      "items": [
+        {
+          "title": "Nalgonda Flyover to Be Ready by First Week of August: GHMC Commissioner",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOek45Ty05Mk9EOTh5LUlHNlh6NDdaMjh5MFk5Y245OTFMNHBKTEFuQ3ZUamgtOVQzajdHLTJ0b05TZUZUay1SSGxsOHFURU9pSno5YzFrZXd4ZkxlME9YemhEMWkxUFVoc1gtemsxWGJMVVpxbWItRmZZSm1sS1I2U2pIa1ZwbHU4Q05YTE1kZ2lySlVNM2Q4?oc=5",
+          "date": "2026-07-08T07:00:00.000Z",
+          "source": "INDToday"
+        }
+      ]
     },
     "Ward 24 Saidabad": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Saidabad\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Hyderabad Honey-Trap Extortion Case: Man Arrested Over ₹25.16 Lakh Losses",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYm1tUWFtbk0yV2NJN0VIMldzeDZxYVB0OGNwS2dESkxtUldZUm56S2dRX1dLYmw0eGx5dUpjeTZYLUQ3aGlQSEFLVGhVSFR4MG9vS1dmME5fSTA4cjFBNXp2SHdYUVJraktmSkFSYzBQOUFXOWF2WmMyWjVxWVBGR0FmZlRjOG5ZUThXT2NyOA?oc=5",
+          "date": "2026-10-19T14:31:43.000Z",
+          "source": "Hyderabad Mail"
+        },
+        {
+          "title": "Saidabad Police Arrest Man For Posing as Woman And Extorting Victims",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdmxqd2dLckNqT1hxN2tDMUxYekg2YUhGWHhsZFRiODZFOGZWT3RxU1MzTkJFTGZDb2ZUdjBkOGpiTmZHeXZxdGFPWkJRM0R3UlRmcWVJY0xHRUJvVDQzbktTQ1c4RG1oYmJNU0E3Uk5XQ0p0TnhTaVl3Q0JJNEE2Nkg3bEMzUmZOM0RwcDFzdVhzYk5kelN2T0xsMFVUdHMtRXJxOHhIcTVPQ3dyU1lMcVFaaVJwMnotd1lKTFVPa3BKb0J6eG02cjZRT0p1dDhLS2lsbWxDZFN2U05hSUHSAeMBQVVfeXFMUHNEcnI0cUpncWREdno3cmNwZXVvenZncDFoMXpYOGlGQk0tQmVnUEJPUFc2dDNxR1pDQVdmM0FvVjdXVWQ2MERiTHhwWmZvZF8tTGtvcVV5Rnd3UXlBTmdfa2FXT2NEZzlXOEVQXzB1RHRxeU5KbnRVQ3dTeWEzSHVqRDZzSElQRk1ZRXJ2c1NHNGZ1eW05LVFCZUI2TEpqTE9ZZC1vTS1kTU5BSEpwQlZlX0Vua3N0YmtmdE12ekloQW1wQ1JKTG12YmxKaUo3aEl3NUFlOXh0UnZCSDJFZXhBVkE?oc=5",
+          "date": "2026-10-19T11:21:57.000Z",
+          "source": "Deccan Chronicle"
+        },
         {
           "title": "Telangana: Saidabad godown raided, 98 bags of ration rice seized",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTVMwYlRtVXZUQWpPZUNYZVlBNWp4NnViU3VpT3prVTFBN1B3OWsxRmNrRjFmN0FrVWs2eTNiN210NlZCQWhhQV9xZHk3ZU9Ca1dBLXctczZLTGZMUUpScGFBQVVOalV6bVZKbFRJd1NQSm1GZU54ZmRJa3UwNjdrWDAzc2lZUGhtR0pOanJOcXZjSWp6ejNMd1l30gGfAUFVX3lxTE9PTkpBbGE4UEJEOS1CZjFINXF6bWhtaHh1NENfYlM0Qy1jTm1xWmpDWWdiNldudmd1T2pwamMxc0FvbUp3TWFySDFFUzEyODc1T0NyRVZnRmdXRW1vRDl4SzVMS3p4ZFFudTgtUlpQUldHcmRyOTJRSGF5Q0Rtay00VmpkeF9ZbGtXcmk0RWhZaUtOVWo5Z0M4bmxPaUhGaw?oc=5",
@@ -2216,35 +2218,29 @@
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNS3dFMnpIYjRtZmk1RDZPemUwMFVFWDZkVmptbWtmams1dGF1OVVQNmhpa3UxZF9ZdF9EMThzTVpWZktxZXlfeXAzMkZwdTdyNU9xWmFWcW1CQ3NXUDFPY1V3UHh4dDJLNmRkRVpJUU4xUk1DcDlxbHlIb2lWSmY3RA?oc=5",
           "date": "2026-08-07T07:00:00.000Z",
           "source": "INDToday"
-        },
-        {
-          "title": "Saidabad police arrest auto driver in homicide case, recover key evidence",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWFVzUTNQM0hmSFZzWHpIbkxOV0FBSGZwamYzb0Y0NGdXaVBHazNSeE1iTDVGY0MtNnJpbWhvanlSaTIxOHJLZDJmdmFPUUktaldKa3pwd1pBZndxTzlzbXJWQll4V3lDWm9HWEpNR2M3T29GTmlaRUxRa0p2eGxIWjIyUHpPYzhoVm1qTDVUWHdGcGtI?oc=5",
-          "date": "2026-08-07T07:00:00.000Z",
-          "source": "Hyderabad Mail"
-        },
-        {
-          "title": "Saidabad police arrest auto driver for Singareni Colony murder",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRHlHWXRIZTBxUVJQakZrNGNsQkVlMktsbnJvZzR3LUxuazZPVktIVl9YMFJTNWxmRkstRmJXMTZ2MXFza05pVW1CQmtQcW0zRFVXTEQ2SjdBRDJsT2ZvVENYbWY2Wi1RRlktTk1KLWJacUpZTi1GMWF2cU44TGtlNzE0TWlNeEQ4NHVCSmVwMjF0eTg?oc=5",
-          "date": "2026-08-07T07:00:00.000Z",
-          "source": "Telangana Today"
         }
       ]
     },
     "Ward 25 Moosarambagh": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Moosarambagh\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Ward 26 Old Malakpet": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Old Malakpet\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Ward 28 Azampura": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Azampura\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Man held for stabbing former colleague to death in Hyderabad",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOU0Z5WkpEei1xNUcxS2hIV3lKXzdMcDZuUFFOWXRWQ1BOdWhGS19IS0o1OFNldmF4VGN5dTVrNDhNdnFWcVprTFBHVE1JbE5UVW11dks1WGd6ZFZMMDdOTDhmTU5KdWFYemFEdFcwZno0RWQ2QnQwUWhlM2xBdnpNM1Q1SGFkVkRwTGlseG1CNnY4YVYxelVB0gGcAUFVX3lxTFBuMzJpYkNOQXh3MG5RSklhcHVaaE0zdXNJZGtxMVV3TDVWN3N5QnlmWHBHVlRRd1IxQW0xMXpvbnhkZDhNQjRQb2lIa0phR0dSc0pUZU85RVlCUlhTb0oyb3NLYzBMclZSOG00M0ZicFJGV0wyRFRDRFhNTnhaaFJ2QUk5RFdBWmd6YTIyVFd0cUFpOW85bEF3UGZZaw?oc=5",
+          "date": "2026-10-13T07:00:00.000Z",
+          "source": "The Siasat Daily"
+        },
         {
           "title": "Hyderabad Woman Murder Case: Man Arrested",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwMG5BaFFjRl93dVQ0Z25sczAyYVR3Z2xYUTRHMUpMWFVvdHk2X2Q3UGJ3NzM4ck5MZTRVWk1MRU5FQ2tKanlzS1ZOVVU1LVJPT3BjSjYzY3lEYVo1MF9LazNFYXdJRDE0cURySzN2cjlEREtqRlRCLVRrM25mbHM?oc=5",
@@ -2252,32 +2248,26 @@
           "source": "INDToday"
         },
         {
-          "title": "Woman Murdered in Hyderabad; Chaderghat Police Launch Manhunt",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOY0Q0RTJRLTNBUVVmanVmWXJhcFRWd1UxTzZ1VExWcDBzMnRfdkxXWkRBNWRORUxqZ1k5VThYZm9xRFpLT0tYUWFlVnFrWUROTkUwanRlMEplVllJdG9rbTRBQ19DcW52NEhLYTVLemU1RnVIVGF4emRoWF9NOE00QjdSMl8xOFVxejZWQkl3?oc=5",
-          "date": "2026-10-10T10:14:10.000Z",
-          "source": "Munsif News 24x7"
-        },
-        {
           "title": "Hyderabad Woman Stabbed To Death After Argument, Accused On The Run: Cops",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeE81SlY0TTM2MHB5bjNTMDNudUtiQTB0ZUoyYUhBUTVPVTByN1FlTkNMa1ZYcVNsRGV4RVdwWHBmNTRzZEhwdk5OOU5lSGJsYk1Ebm5meTVfVjBnM3doZWJmYlpmX1FQeFBZbHB2Z2E0cGpLUWRwNUVQNjB3eWJtOVd0QUFET19QcFZzR3lSdVJWc21IUGtUNU5VTG41M1RZdnpLWUpmSTJyVTJwaExmaVVLeS14OUHSAb8BQVVfeXFMUEVxLVk2a2lCTUhtdi1nVDc3X05EM0R2UjAtRGVhYXRQbFdlMzFCZE9TTDljV3lKZlI4dU9RQVR3dG9telU2cmJVT1psbURXSUNsTHFiSGlNYVJnVDVaNVNtM1VMUjdjU1pOMWxBcGdkV21INTQtSmFJeC1FNllidklLMnNhcGV4dUo1SzhfN0lPMTRzXzRhTzRKZDRKaC1FY1FWNE1hbWh2MWVVRTBWNGlWRzJvWFludm9lNDRDSWM?oc=5",
-          "date": "2026-10-10T02:47:11.000Z",
+          "date": "2026-10-10T07:00:00.000Z",
           "source": "NDTV"
         },
         {
-          "title": "Hyderabad: Woman murdered, police search for suspect",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUnZkam00RHhRM0ZvaERMZ01DNlEtSVhkdDlhZndBRGx1U1dmNkJ0T0haWmg4djV1bkJMbzQxTFY1Q1hvb3VVR2ltWW8zdFY5MFdsbnp3VWNXbWRvQk11TDVwQWZ2RXBWMm1NcEg4ek1CQVVCYTRiQWNHeHUySEJ2NU95bmVIRWlacVHSAY8BQVVfeXFMT0JKZk1EZDYzanhDU3Bud3hpSzJoSFozcjhSeEs1UnNWOFJhdW1lTHZYdzdSd2dkZmlOQzNlSGNOQjEyM0p6Q19PazJ1N3U4N1JWbmNoVnhsa3d6eGQzZlA1eTdwaWFkNVotRW11Q2dJUmtLQlROOWE3dnhTbng3MVpQem01T21hN2JsZXVWNms?oc=5",
-          "date": "2026-10-09T18:08:38.000Z",
-          "source": "The Siasat Daily"
+          "title": "Hyderabad shocker: 35-year-old woman stabbed to death at shop, relationship fallout with ex-employee suspecte",
+          "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQYW9lTlVyVHE2T19OQkV6bnBET3J6cl8yUnUwZm50cnhFS3FRWGV4ZjE1b1lJQ2ZTVmZSclBac2RWOW9oVW5QMldMRHlKOHgtODhLQVpsTTFqVm5udEFSYzBHd0hDMEdob295bUg2NE1XYjhvVUd2WXhrMWQ1M05Fem5iRXdDTnpBUkJGWWEzYWFTQ3hhdFkweE16WGVKNDRseHFrRlZKTDQ5aHM1U2J6NUpleVlNOG9Cdmk4NER0bGVMVmM5N3J6TXZiRF9jYjM0YzllT1h5aXJpaUR5ZkstNVByVTlubzVMcC1XNWhzU01NeGdMOTNuNjdPZHdvcjFlbXk1N3VzMTYwYUxwcFdiMElyUdIBmAJBVV95cUxOdzFPd19xeGxrLVdFTmFFc3RJRVluV3p3cHRJTXgtWG9sSlRUdGlRTnNGZ2hLUFRGMFZ1OVRhTVFFWHNSa3pPdVdKRVpkMjgwY18yM1lfamhtYU5qU2ZybTJQd2d0d2otbEZvZFU2c05EQ0dfZkpDdUdkelJvSDJPeURzTFB3Uzg2cUNlcnJxYkZpcXZVY0MxRjBpSVFmc3ZfaE9vaWE0YklDQ1ZhUzVLX1JnblBWSV9rS3pYV2dOZWxyU01NVUhWcWgwVlpvN1F6TmdMNm5uTWNZbFFsVmozSFM1M1lfNjk3ZkR3RjZ3aS13aHRseEZLc01JTzhnbEdDOWQ2bWg2d2NvVWJ3emo4MGJyTjFRdTVn?oc=5",
+          "date": "2026-10-10T07:00:00.000Z",
+          "source": "India.com"
         }
       ]
     },
     "Ward 29 Chawni": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Chawni\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Ward 37 Rein Bazar": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Rein Bazar\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -2295,12 +2285,12 @@
       ]
     },
     "Ward 37 Kurmaguda": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Kurmaguda\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Ward 39 Santhosh Nagar": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Santhosh Nagar\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -2318,7 +2308,7 @@
       ]
     },
     "Ward 41 Kanchanbagh": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Kanchanbagh\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -2342,7 +2332,7 @@
       ]
     },
     "Ward 75 Red Hills": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Red Hills\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -2372,18 +2362,18 @@
       ]
     },
     "Ward 77 Jambagh": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Jambagh\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Ward 50 Begum Bazar": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Begum Bazar\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
           "title": "Watch mechanic arrested in ₹9.5 lakh Begum Bazar robbery case",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQd0k5U0NLdDhNM0dCcmlWTS0tMnhPSjRlVVloRWVfRC1DSGJkVHUtNUpoR0hqc2dYemNpSFJXLXNmRXZ5VWNmeWR5NzFvb3E4QkZfWTZwbmdRd1cwbDJpWjNaOV9YY251V0pKN2NIZHBwZEhTRVF6UlB2dXA4X3J4dkZGREJhUnc?oc=5",
-          "date": "2026-10-08T15:12:12.000Z",
+          "date": "2026-10-08T07:00:00.000Z",
           "source": "Hyderabad Mail"
         },
         {
@@ -2407,7 +2397,7 @@
       ]
     },
     "Ward 51 Goshamahal": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Goshamahal\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -2423,26 +2413,26 @@
           "source": "Hyderabad Mail"
         },
         {
-          "title": "Hyderabad online betting: Man Arrested in Goshamahal",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdHg1bTRKNjFvQkF0YmJtN19pS2xLRlp1TlhPSS1QTmFHTUlQMTBGbGZfNWRrRWtCZ1FHbHQ3dElDWVF2UldsTDdCcWN4SE43c21Rblo5Z011YnhLUE03N0VXSGdwenQyLTdXQkExR3pWN05uMkJCbTZuaUtKNUZ0V2N3?oc=5",
-          "date": "2026-10-07T07:00:00.000Z",
-          "source": "INDToday"
+          "title": "Firecrackers Worth Rs 22.63 Lakh Seized in Hyderabad",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTng2UUlfaGRJeTZEc21GdE9yVzhDNFpLY2ZTbVU5UGxaN2pkRHczTmpPek1jMUlWWmduVDFvWEZMRjNyWHVOUVAyYW9DeTVMRVRfOTlvVXdiaTVSZEFadWxoRzNYekZRWU5ZU1BiZTViN0FEd0tuMFptVTViR084ZnNIOFR0QQ?oc=5",
+          "date": "2026-10-17T12:49:58.000Z",
+          "source": "Telangana Today"
         },
         {
-          "title": "Goshamahal police busts online betting racket, arrests one",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNemU1SHZTUTN2eFZ1VVhOc0NSOU1yRmhIbUU3cW9rMkNGZENHWXN2MHkyeEtNSE1zYWE1UE4yc2k2aGNsZnltY3IzSjQzempxLUdyeHhzeTROSkFhOFlJanl0UXVIY1hmc2lWNGhxLVh4NU42OHhLSzJUeFR5b2Y4NzhCUHFXYkFsY3dBNm9yMFQyNUHSAZgBQVVfeXFMTjFKSzUwU0p1ZE12M2UxWUN4N3dTVU53OFhGakQ4WHV6V1lpRmExYUR1emVhdHlzNXRqVXJfYTNnc1lkX1BHQjg0bm9NT2o0c0gzWFBOT2RWNzV0LW1NMTFoc0h1bDAzRjBKLVV2X3VQVG8zRTVaVlJ4UEliZGExSTdjMHFYbXJ4TkwzWENsdjQ3YllxX2tCU0M?oc=5",
-          "date": "2026-10-07T07:00:00.000Z",
-          "source": "The Siasat Daily"
+          "title": "Goshamahal Police Arrest Man In Rs. 9.5 Lakh Robbery Case",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQU2JGS3ZrY1Z5N2x6WW1GMFhRSGJWV0JxdkRoelNIUkUzNmpqOE9kTjVHWTE1aE9JdHlnci1PVDVmRzZwWXBzZzlRelNhcGZuNmhuZG5LRFlBbHdEQnNZbGRmOXJUZzdTZW5qWWNqZHctd2RtLVdtQmgzRk5pcXE4dC1VOGE?oc=5",
+          "date": "2026-10-08T07:00:00.000Z",
+          "source": "INDToday"
         }
       ]
     },
     "Ward 62 Ziaguda": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Ziaguda\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Ward 65 Karwan": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Karwan\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -2454,14 +2444,26 @@
       ]
     },
     "Ward 34 Talab Chanchalam": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Talab Chanchalam\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Ward 83 Amberpet": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Amberpet\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Amberpet Shankar Rowdy Sheet Reopened by Hyderabad Police",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQUFwQkEzbUh3bGUwX0VpeXpudnRyZlBVbDhjejhGcTM4endPVWNJUjI3Ql9RMEhCcGtQWWVlTlRHMkUwVXY1WlN3SDVRaFRVc2JmWVFnR0V6LWRReWhlU3VoR3E4YmZWb2xEbVA0V3pYaC0xY3YzLV9uWEoyVnRMaHVmbDd3Zw?oc=5",
+          "date": "2026-09-15T07:00:00.000Z",
+          "source": "INDToday"
+        },
+        {
+          "title": "Amberpet Shankar back on police radar as rowdy sheet reopened",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XYWFwaTBoRU05WDdkU3JrZDdmcnlmWVRLRnNsVmEtcjUzRlVMdVlZdUlYbEstTHk2TFVDekM5VnZ6Y1NwM1RYUEE2M1VnTjBuZXJ6RkFrenpxNWc0dEpXbEVSTEtIMnJqaTVaMHdIX0pQaUZ4bDdnOTQ2bGhLLTA?oc=5",
+          "date": "2026-09-15T07:00:00.000Z",
+          "source": "Hyderabad Mail"
+        },
         {
           "title": "Amberpet Shankar Among Seven Named in Police Case",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPY0JkQnZVaEZkWHlxY2xpWGp0dmRmSHJ0X0RVYlFxS0NyM1h2R3hOQUdFaHdQaFdwcExYczNzT3JPMXhXY1NlWEQxM1ZzZGg4dmlyTGVZRC1NUzFJUXVXa2tzbTBrYnh6U2RNUFBpaXh5cEtUVFg4LXhXSVZPMVlIZnVKSEwwelVKTW1fNTNabUI2NVU?oc=5",
@@ -2473,23 +2475,11 @@
           "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTGpkbUdCX3BnNk1QZURvUVlWQjZrTlctZ21WeVdxSEt1ekRMQ3E2eFlGM2l2VmJlY1ZzZ20zQjNHQUFMb1hscGlvRkc2c2FnN1VYV00wY29Ka2FPMjN1YjhTX3duMHRsZHN6bE9Ha1prb056RkV1YUZiOGhfR05SRHRfZ01aQQ?oc=5",
           "date": "2026-05-28T07:00:00.000Z",
           "source": "The420.in"
-        },
-        {
-          "title": "Amberpet police bust Bengaluru-based fake job racket, arrest four",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQkoyNUZjTWdIbHlwWmlkNC14LThCMi0zOXZtLWxWTG9CeWVUT28yOFlLLVViOENrOElWWXY0dXZIOVFUR2d1Q2NtZWNxcVFibHRmTGJ6TnZIbk5aVi0tME05M0tDX29qMnhyUC1McF9zMHM1OTZHVVhOVW9JTTZ3eVc4UmpSa2RaWFhUMDBiWUo5Y2VLYlE?oc=5",
-          "date": "2026-05-27T07:00:00.000Z",
-          "source": "Telangana Today"
-        },
-        {
-          "title": "Hyderabad STF Arrests Four in MDMA Drug Case",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9rZ185ZE0ybXc3c2RFSDZoYnNjSDZiSERtTnBMVHJSZmhrT1BCQ090eVUtRmpoVXVOY0kwSTZHcVdxUXRwVDVfbkZNWmdIemMxRUJGcW5sNW9sSWhZeWQ2bEFlS1VIUXZXeDRsUnpOSmt6OG1Gbjh3?oc=5",
-          "date": "2026-05-08T07:00:00.000Z",
-          "source": "Hyderabad Mail"
         }
       ]
     },
     "Ward 82 Golnaka": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Golnaka\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -2507,13 +2497,19 @@
       ]
     },
     "Ward 80 Kachiguda": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Kachiguda\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
+          "title": "RPF constable saves father-daughter duo from being mowed by train at Kachiguda",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQejR3LWdLTzRsb0lqbTNCOG1mT0ZfaW42bEp1ckV1SFlmeG1wekhKLTJnWUpRb2FNSVVENkhaQ2REVWlXNWFuWFh2Z1ZaUUVRNTRSaW5MNVZIZ1A1YkJLOWxCb1kzQmhGUTBMNE9XTFYydlZ0S3hEcGNvN19TY28wOUI2V2VNczFyLWtiZkNPZVR1aEJGdWt6bUg3Y3ZzeXpGemUwbk51eHdjVHNxWDF2dGNB?oc=5",
+          "date": "2026-10-13T05:26:42.000Z",
+          "source": "NewsMeter"
+        },
+        {
           "title": "Hyderabad police arrest three over dangerous bike stunts",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOT3VrSzU2ajlzUjI4Y1JkZmxtcWtoTldBcmF5RGpwcW91bWZiMzl3VlhqWFYtMjJXdVRtUk9WTjdsMTh4Tmwxb05PLTY4cHNCVkpGVHlmUmtFcTQtZU5zR3R2SzkzX1RLSGs5a0ItTU1mLXotU0QwLVlwc0h4V0l3WW1R?oc=5",
-          "date": "2026-10-07T14:10:44.000Z",
+          "date": "2026-10-07T07:00:00.000Z",
           "source": "Hyderabad Mail"
         },
         {
@@ -2527,29 +2523,16 @@
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaTNYVzU4eVRTRmd2bnFqSlV1c1Jid2tNX3ZaclZsVmprUGhuLUZxUnMyczlPX3E5X3VPTXZfX1lkR3Vqalk4dkFhX2ZiWmJUdE9wbS1SRExRbDVkbllHZ3Z6bTh3REdZMmdsbjJFYXFkYWhXNGRVWEEzVDFpbG1TdnlpOGJfSjNNS0RIeFBXN3DSAZYBQVVfeXFMUDZNMzRleldaTEZGb3lhM1lJS0xxem5vdlF1ZVUwR1Z5d3JRQi03cnZjSFNYTWhtRWNlRUJDbUY2VE92M3dSNnhENVhmRjU0RUtvR3dNaEs2bmZteV9TakVHeGlENzlZUmYwaWlSRTEzOEFLSWpKaVgzOGZQTU1saUVKLUE5OE5IcDZPaWV5X1QwOWlMekFn?oc=5",
           "date": "2026-09-12T07:00:00.000Z",
           "source": "The Siasat Daily"
-        },
-        {
-          "title": "Hyderabad techie arrested for abusive Instagram posts targeting woman",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOFEza1lVVXlZdVptRThaTVBEUjNGTEhwM3Q0QmNWZ3hNUEpKTmxZRWprcTVvMGgzZ05FRjhBUGFzNWI0MFVDTmVFU1JMWncxSVZUMHJ2ZGFSTGI5RktYbWdERFRkSzdsZDR3ekVYWGVyU2ZpYWU0eWRBRUdmZDdMTjdoVWxFaUREUzNCcWZaSkFHRVNOTUZmMjlGZ0M?oc=5",
-          "date": "2026-08-23T07:00:00.000Z",
-          "source": "Telangana Today"
         }
       ]
     },
     "Ward 58 Shastripuram": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Shastripuram\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
-      "items": [
-        {
-          "title": "Hyderabad: Zomato delivery boy makes reels posing as police, arrested",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVkFIbzhMcVo3aDNnUWZvWWpCX1NFN1RHRzc0bXhjQmtwcHBkSDB6NlEwOUJCU25DNVBPQzYyTUVYYW9MbHJ3clZ1Zi1KSkNpM1FjSmNDSDFlOUN6NEZPZlM1ejhuSmNUbzljZms5cGI0RUc2Q3ZZbG1UZGxKbWN2cmNURTBETVNmYW1kOFhLb0xOR04xTldHb0U3NDdUSkNG0gGmAUFVX3lxTFBmZmRCMS1XWTJ2a2F2ek9mLXg3NDhvUk5mMWxpYWMzbGhkZy1YSkh4Rm1lVEZlSXBiN0M5RG84YnFqa1JURGxoWXFQX2h6S1ZzREVuMDJRTjZrX3BsVE0ySThoaWlOczJOdXpvaHIxSFFVMEd2a3BHLTdyaUJFTHVSVmZ4YUJsYU12SDRDam5pRkFfWkZUWUc2ajhXSVYxdEhaUXpSYnc?oc=5",
-          "date": "2026-05-06T07:00:00.000Z",
-          "source": "The Siasat Daily"
-        }
-      ]
+      "items": []
     },
     "Ward 57 Suleman Nagar": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Suleman Nagar\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -2561,7 +2544,7 @@
       ]
     },
     "Ward 56 Kishanbagh": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Kishanbagh\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -2569,25 +2552,19 @@
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaEtmQjIzZk1FRHgxTjJwSDBKbW9mdHRSTWNBQThQWDhCNDFPX3Nlb1lRNjd3WlJiVVBveng4Tk5DMm1QRGg2Y1RuLVRzZURVbzlZMTU1YktnTk1rMEh5VF9sNUFYZEdoSEZ6OTJTQ2tEZDF1dXlNS0s0UU95aEd2MDVtLU9obEJFSnhBd1lUX3hacWtQ?oc=5",
           "date": "2026-06-07T07:00:00.000Z",
           "source": "Telangana Today"
-        },
-        {
-          "title": "Fire breaks out at furniture unit in Kishanbagh, no casualties reported",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdENSMFJCajdKUzhvcnljRkplR2NYSDB3bU1IVGwxYVN1dnlBYldHRGhSWHlHcW80dXdYYWZYUkNEbWlJMVRMcktjazZieDNlOXJqNU1tbGtlRnRnQnNMcXoyVEE2VmlqTENITTNxRUNRUnNpdnRXeGhaM0RRZTNSWXZDNUF5OEV2NGhOZktiaGVUaEtyRmtHRWRBV0hMbnFNblJjXzB3U3JuN3AwVmlQbnZ1Y3ZNcUNlazVwWWpEaXAzVG91RDMzR0ZsVTBlSHYtMDAxekJPWjlHR0VIZUY4UdIB5gFBVV95cUxPSWxCUFRqQ0tWY0Z0UDZqbVdIZFpDbEo5MEhfUjlWQ2d2WDVZOWdLb21rNS01elN2RDdOZzJYTHE2VjJsV014bEppcEptX1QyTWlVeEkxM3BNQ3Z1UllQejJaTW12S0RnenRPazdfNUNBdHZ5eXM2TldlYk9jbE5WQTh3cHJKRlFZRGt3bE5uRkhxb09PeDJYdXFzVXVrX3IzY24yWlhIWWxpbFlGeks0TGtLa2JvVm5lb1pJU2ZSUHZXV1NRQndrVF9fN0p6dlVQaXpSSlNIOGMyXzJjRXpZZkdTT1dZUQ?oc=5",
-          "date": "2026-04-28T07:00:00.000Z",
-          "source": "The Times of India"
-        },
-        {
-          "title": "Massive Fire Accident At Sofa Manufacturing Plant",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9xaXNiZEZPa25VcHpNX1BKTm8wdDc0WnF4N09RYUo4a3A2c0JqTTV6dkx3LWx6UlJsaWNXMkRZc0lUWlpUcG9SRzNxNDQtUWdQMUlnblBDYV9tQ1lKVkprV1EzclpHS2I0bm5xdjBKczhjUHM5UDl1Qy02QQ?oc=5",
-          "date": "2026-04-28T07:00:00.000Z",
-          "source": "INDToday"
         }
       ]
     },
     "Ward 61 Attapur": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Attapur\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
+        {
+          "title": "Hyderabad: Ganja raid in Attapur leads to gun, pistol and 5 bullets seizure",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbVFYcGZsZzhsVTFiS0hpaklGd2kwT3ktb0dDM09MUDQtakducldRVG8xQl9QTUE1a0ItcVRiQ3ZTSnNNQ3B4SnJGc1NVV0hLVUZIRDhSQXlmTi1GcktUUTNkcWp0MXBiVDJ6Ri1kbUVvbTViTDFTRmpwM1Mtak1IU1NocEFLcl9pV1RaQzdpbFctSG14SmViLUttRW1xMjJsU2tiM21COWVXUlE?oc=5",
+          "date": "2026-10-23T14:31:40.000Z",
+          "source": "NewsMeter"
+        },
         {
           "title": "Attapur police arrest 20-year-old for allegedly driving car at officers",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOc3RLeVUtX2U5RExKVE82RmJUa1NMcFBlSndlT2I1WDFqNm5Bd01MX0x6T3B0LXRBOWk4Vnp6YkVlZ3dmR1pwR21rZjFwTFNJZU1NNkcwbWx1NHpBYlY5aEhXeG52aS1jOE9ENnVuMUZmNVFOd2c3WGlDNC1UVHMzdFhTbHNYV2p2dGtBS1ZIdEN3QQ?oc=5",
@@ -2605,17 +2582,11 @@
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONWdRWWJhNjRyclc2RWhwY3B5Rnhhc2t0RHFVeHdJdjhRci1TLXp3VVV0MFh4Z2hWXzliQmRXdFphbGVvSDJCRWZhQU5GQUFxMzVHREFfd3VOOHFhSHA0cXF5aUVCbE9ieUh4cHNFV1hwOUxCc1FpeWJHdUc2eGNVUWhvX1FCS081UTlZ?oc=5",
           "date": "2026-10-07T15:35:17.000Z",
           "source": "INDToday"
-        },
-        {
-          "title": "Attapur Police Arrest Three Hyderabad Youths Over Instagram Bike Stunts",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbFRCRktWR2p2dzJrVTRYaEdUeXRJQU5vRFFVdHZnQ2tsc1dMUnZqV1ltV3ktbWxKU2RWbHpEZWRYYURGYVIyRkJCNjQ5aTktSDhmb3hwX1I2TEx4WnBJaFZTS0c4OWFodW5WRHZLbDBpdVM2eHFfTFRNQlFxekFaLTM4WmJyUGFTTldobE5yVmViRDR6TWY1dFpSNzdQUWZKR3NoZVlnNGE?oc=5",
-          "date": "2026-10-07T15:20:41.000Z",
-          "source": "Telangana Tribune"
         }
       ]
     },
     "Ward 112 Ramachandrapuram": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Ramachandrapuram\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -2639,17 +2610,17 @@
       ]
     },
     "Ward 111 Bharati Nagar": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Bharati Nagar\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Ward 30 Dabeerpura": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Dabeerpura\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     },
     "Ward 42 Barkas": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Barkas\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": [
         {
@@ -2659,27 +2630,27 @@
           "source": "INDToday"
         },
         {
-          "title": "Hyderabad Police raid Barkas function hall, find biryani restaurant",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWEhRTGNrcjNXOF9ESlVTRzBoNzRQZ2duNURKdzVIZmJuZWpYOEdfb081WEtxWG5jdFRoRU00emV4cFdxQ2JEaDJseEVFSTBobDlWTENITXE3OTRGeURHRldEZmhXc05OM0o0VDNURkl4VGQwRmNPVkFVNm5idzlNZ0JJQjJFeW5lN2lyaHdKd09Jc0NaRlhyVk5HbHlXUHEzNE5EaNIBpAFBVV95cUxOWEhRTGNrcjNXOF9ESlVTRzBoNzRQZ2duNURKdzVIZmJuZWpYOEdfb081WEtxWG5jdFRoRU00emV4cFdxQ2JEaDJseEVFSTBobDlWTENITXE3OTRGeURHRldEZmhXc05OM0o0VDNURkl4VGQwRmNPVkFVNm5idzlNZ0JJQjJFeW5lN2lyaHdKd09Jc0NaRlhyVk5HbHlXUHEzNE5EaA?oc=5",
-          "date": "2026-10-15T04:37:47.000Z",
-          "source": "The Siasat Daily"
-        },
-        {
           "title": "Convention hall or hotel? Midnight biryani, menu card trigger police raid at Barkas venue",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcEF2RnNmVmVlbzdaTGhzVGdrRHZiU1NxMmZjVkRzRUlNNnZiRlVlSlFHQ29fU0FwUkUwSDlLX29DM2pHei1Wck8tRDIwRG1PWGxRXzQzckxHdGlwel90ZHRNcXI4ZUpFaGpNRzU4LXR5ZXU2V2Y4Y0hyMzA2bG1tLWJmd212X0h2WTFEZ0Qwd3VLaUVaZEZYYkVSeG5QLVNwZ2J3WVJKaENIa0ZlSVFKMXdKZnY?oc=5",
-          "date": "2026-10-15T03:48:25.000Z",
+          "date": "2026-10-15T07:00:00.000Z",
           "source": "Telangana Today"
         },
         {
-          "title": "Hyderabad Man Stabbed to Death in Barkas Mariyam Colony",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOGxXa1A3T2pfSE8wVW9VUzBIamVTRlB2QXhoRjgxZ1JOaU5OV0x3VXM3anFJa2FCQW9GOGhkVUFKb1R5U0M2QXh6Nl9jRzhGbjYxaE82bWxURF9udWtJU2ZSdWFsT254RmNHTHlpY0hBTkdKeExUT0luUVRFNkp6SWdpSQ?oc=5",
-          "date": "2026-07-06T07:00:00.000Z",
-          "source": "INDToday"
+          "title": "Hyderabad Police raid Barkas function hall, find biryani restaurant",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQM25DSzF0RlZKeFE4cWNpamgwWElFZG9DQ2hvTW8xaXllOXFhU0F6TFpOOWN4U0RiM2pCOXR6WndqWmU2RldjWHhqSTFRVFo3YTdRV3loVmpScGMxR2NBWmlmYW9aUlB4Mkhrc05jVU8ya0QwX0ZVNmJlcHN5Z1FKZ29DUEpBNGxuaEJVUExWRnBxZmhJRFp4Z09LNTk2TXPSAaQBQVVfeXFMTlhIUUxja3IzVzhfREpVU0cwaDc0UGdnbjVESnc1SGZibmVqWDhHX29PNVhLcVhuY3RUaEVNNHpleHBXcUNiRGgybHhFRUkwaGw5VkxDSE1xNzk0RnlER0ZXRGZoV3NOTjNKNFQzVEZJeFRkMEZjT1ZBVTZuYnc5TWdCSUIyRXluZTdpcmh3SndPSXNDWkZYclZOR2x5V1BxMzRORGg?oc=5",
+          "date": "2026-10-15T04:37:41.000Z",
+          "source": "The Siasat Daily"
+        },
+        {
+          "title": "Rowdy sheeter out of view for 35 years arrested in Hyderabad",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxON3pCUXEyUnB4ZWYwa21kejhkMFdYalNKLVU1TDRveE5fSXJGYUdaVXlZVnZVUHVicDVFcm5PTmV0eGdXUEhMWnpaaktla1NZM3NrODVNLTFiWnBOdjdwcjgtRWlNMkdIS0w5eXBMMnNVV2o3amNBck5WMEE5TGtYSmRXMEEyYmx1bTA2TXBLQjd6TEFyVWVZ0gGcAUFVX3lxTFBoeEtkTUJDcEZSWlQybTFnaVZic0dQbkxHR0pjWmJQT0xaVGJObDBqNjk2SndYNEVKdU4zSXJUTlVKR3Rka01LeTRWd3lPYTBjVFFZZDYzNzh5OC16Z3phVWdVb0JmYV9FRDR6YjdXNWlPcVlmWFp2VWhpRktNWGdQNjFGdHFuRlVMNUQ1MVR2M2EyaWFOYUdYazk2Yw?oc=5",
+          "date": "2026-09-30T07:00:00.000Z",
+          "source": "The Siasat Daily"
         }
       ]
     },
     "Ward 74 Ahmed Nagar": {
-      "cachedAt": "2026-10-18T08:53:29.860Z",
+      "cachedAt": "2026-10-25T09:13:03.899Z",
       "query": "\"Ahmed Nagar\" Hyderabad (crime OR arrest OR snatch OR rape OR molest OR raid)",
       "items": []
     }
